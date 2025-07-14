@@ -1,0 +1,50 @@
+[
+  {
+    "image": "/img/service/service-v3-img1.jpg",
+    "icon": "icon-road-transport t5",
+    "title": "Road Transport",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
+    "count": "01",
+    "link": "road-transport"
+  },
+  {
+    "image": "/img/service/service-v3-img2.jpg",
+    "icon": "icon-ocean-freight1",
+    "title": "Ocean Freight",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
+    "count": "02",
+    "link": "ocean-freight"
+  },
+  {
+    "image": "/img/service/service-v3-img3.jpg",
+    "icon": "icon-experience",
+    "title": "Cargo Container",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
+    "count": "03",
+    "link": "cargo-transport"
+  },
+  {
+    "image": "/img/service/service-v3-img4.jpg",
+    "icon": "icon-air-transport",
+    "title": "Air Transport",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
+    "count": "04",
+    "link": "air-transport"
+  },
+  {
+    "image": "/img/service/service-v3-img5.jpg",
+    "icon": "icon-airplane",
+    "title": "Rail Transport",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
+    "count": "05",
+    "link": "rail-transport"
+  },
+  {
+    "image": "/img/service/service-v3-img6.jpg",
+    "icon": "icon-warehousing",
+    "title": "Warehousing",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
+    "count": "06",
+    "link": "warehousing"
+  }
+]
