@@ -47,21 +47,24 @@
   /* --thm-body-font: var(--font-krub); */
   --thm-heading-font: "Rubik", sans-serif;
   /* --thm-heading-font: var(--font-rubik); */
-  --thm-primary: #ffd550;
-  --thm-primary-rgb: 255, 213, 80;
-  --thm-secondary: #186265;
+
+  --thm-primary: #004b83;
+  --thm-primary-rgb: 0, 75, 131;
+
+  --thm-secondary: #66a3cc; /* You can change this too if needed */
   --thm-secondary-rgb: 24, 98, 101;
+
   --thm-body-font-color: #60666c;
   --thm-paragraph-color: #60666c;
   --thm-body-font-size: 16px;
   --thm-body-font-weight: 400;
-  --thm-heading-font-color: #0d4250;
+  --thm-heading-font-color: #004b83;
   --thm-heading-font-weight: 700;
   --thm-body-background: #ffffff;
-  --thm-bg-one: #0d4250;
-  --thm-bg-two: #186265;
+  --thm-bg-one: #004b83;
+  --thm-bg-two: #66a3cc;
   --thm-white: #ffffff;
-  --thm-black: #0d4250;
+  --thm-black: #004b83;
   --thm-blue: #0d6efd;
   --thm-indigo: #6610f2;
   --thm-purple: #6f42c1;
@@ -1929,7 +1932,7 @@ label {
 }
 
 .faq-one__contact-info .btn-box .thm-btn::before {
-  background: #0D4250;
+  background: #0d4250;
 }
 
 /*=============================
@@ -2235,7 +2238,7 @@ label {
 }
 
 .project-one__single-content-bottom .btn-box .thm-btn::before {
-  background: #0D4250;
+  background: #0d4250;
 }
 
 #project-one__pagination {
@@ -6111,4 +6114,145 @@ Project Two Project Details
 
 .error-page__content .btn-box .thm-btn::after {
   background: var(--thm-black);
+}
+/* Mega Menu Styles */
+.mega-menu {
+  width: 100%;
+  left: 0;
+  right: 0;
+  padding: 20px 0;
+  background: #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  border-top: 1px solid #eee;
+  z-index: 999;
+  display: none;
+}
+
+.mega-menu.show {
+  display: block;
+}
+
+.mega-menu .container {
+  max-width: 1200px;
+}
+
+.mega-menu-item {
+  padding: 0 15px;
+}
+
+.mega-menu-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  color: #333;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #eee;
+}
+
+.mega-menu-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mega-menu-list a {
+  color: #666;
+  display: block;
+  padding: 5px 0;
+  transition: all 0.3s ease;
+}
+
+.mega-menu-list a:hover {
+  color: #2a6fdb;
+  padding-left: 5px;
+}
+
+.mega-menu-list i {
+  width: 20px;
+  text-align: center;
+}
+
+.featured-product-card {
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.mega-menu-promo {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  height: 100%;
+}
+
+/* Submenu Styles */
+.sub-menu {
+  display: none;
+  position: absolute;
+  background: #fff;
+  min-width: 200px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+}
+
+.sub-menu.show {
+  display: block;
+}
+
+.sub-menu li {
+  padding: 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.sub-menu li:last-child {
+  border-bottom: none;
+}
+
+.sub-menu a {
+  color: #333;
+  display: block;
+}
+
+/* Mobile Menu Styles */
+.mobile-menu .sub-menu {
+  position: static;
+  box-shadow: none;
+  display: none;
+}
+
+.mobile-menu .sub-menu.sub-menu-visible {
+  display: block;
+}
+
+.dropdown-btn {
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.mega-menu-list li {
+  margin-left: 0 !important;
+}
+.dropdown-menu.mega-menu {
+  width: 1120px;
+}
+.navbar-wrap ul.mega-menu-list {
+  display: flex;
+  flex-direction: column;
+}
+.navbar-wrap ul.mega-menu-list li a {
+  padding: 15px 15px 13px 25px;
+  line-height: 1.4;
+  font-weight: 500;
+  color: #5d5d5d;
+  background: var(--thm-white);
+  text-transform: capitalize;
+  transition: all 0.3s ease-in-out;
+}
+.navbar-wrap ul.mega-menu-list li {
+  margin-left: 0;
+  text-align: left;
+  display: block;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
 }

@@ -1,8 +1,8 @@
 "use client";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination, Autoplay, EffectFade } from 'swiper/modules';
+import { Navigation, Pagination, Autoplay, EffectFade } from "swiper/modules";
 import "swiper/css";
-import 'swiper/css/effect-fade';
+import "swiper/css/effect-fade";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import Link from "next/link";
@@ -34,11 +34,11 @@ const Hero = () => {
             <div
               className="image-layer"
               style={{
-                backgroundImage: "url(/img/slider/slider-v1-img1.jpg)",
+                backgroundImage: "url(/img/header/slider/1.jpg)",
               }}
             ></div>
             <div className="big-title">
-              <h2>Air Freight</h2>
+              <h2>Bestech Elevator Spare Parts</h2>
             </div>
             <div className="img-box">
               <img src="/img/slider/slider-v1-img4.png" alt="" />
@@ -53,21 +53,20 @@ const Hero = () => {
               <div className="main-slider-one__single padding">
                 <div className="main-slider-one__content">
                   <h3>
-                    <span>01.</span> AIR Freight
+                    <span>01.</span> Engineering Excellence
                   </h3>
                   <h2>
-                    Fast and safe <br />
-                    <span>transport</span> your <br />
-                    product
+                    Engineering Excellence. <br />
+                    <span>Trusted</span> Solutions.
                   </h2>
                   <p>
-                    With more than 30 years of experience in the logistics
-                    industry <br />
-                    bibendum auctor nisi elit more consequat ipsum.
+                    Delivering high-quality elevator and engineering products
+                    built for performance, <br />
+                    safety, and reliability.
                   </p>
                   <div className="btn-box">
-                    <Link className="thm-btn" href="/">
-                      <span className="txt">Calculate Package</span>
+                    <Link className="thm-btn" href="/products">
+                      <span className="txt">Explore Products</span>
                       <i className="icon-right-arrow"></i>
                     </Link>
                   </div>
@@ -79,11 +78,11 @@ const Hero = () => {
             <div
               className="image-layer"
               style={{
-                backgroundImage: "url(/img/slider/slider-v1-img2.jpg)",
+                backgroundImage: "url(/img/header/slider/2.jpg)",
               }}
             ></div>
             <div className="big-title">
-              <h2>Air Freight</h2>
+              <h2>Bestech Elevator Spare Parts</h2>
             </div>
             <div className="img-box">
               <img src="/img/slider/slider-v1-img4.png" alt="" />
@@ -98,21 +97,20 @@ const Hero = () => {
               <div className="main-slider-one__single padding">
                 <div className="main-slider-one__content">
                   <h3>
-                    <span>02.</span> AIR Freight
+                    <span>02.</span> Safety You Can Trust
                   </h3>
                   <h2>
-                    Fast and safe <br />
-                    <span>transport</span> your <br />
-                    product
+                    Safety You Can Trust. <br />
+                    <span>Quality</span> You Deserve.
                   </h2>
                   <p>
-                    With more than 30 years of experience in the logistics
-                    industry <br />
-                    bibendum auctor nisi elit more consequat ipsum.
+                    Precision components and tested technology that ensure your
+                    elevator systems <br />
+                    run safely and smoothly, every time.
                   </p>
                   <div className="btn-box">
-                    <Link className="thm-btn" href="/">
-                      <span className="txt">Calculate Package</span>
+                    <Link className="thm-btn" href="/about">
+                      <span className="txt">Our Expertise</span>
                       <i className="icon-right-arrow"></i>
                     </Link>
                   </div>
@@ -124,11 +122,11 @@ const Hero = () => {
             <div
               className="image-layer"
               style={{
-                backgroundImage: "url(/img/slider/slider-v1-img3.jpg)",
+                backgroundImage: "url(/img/header/slider/3.jpg)",
               }}
             ></div>
             <div className="big-title">
-              <h2>Air Freight</h2>
+              <h2>Bestech Elevator Spare Parts</h2>
             </div>
             <div className="img-box">
               <img src="/img/slider/slider-v1-img4.png" alt="" />
@@ -143,21 +141,20 @@ const Hero = () => {
               <div className="main-slider-one__single padding">
                 <div className="main-slider-one__content">
                   <h3>
-                    <span>03.</span> AIR Freight
+                    <span>03.</span> Innovation in Motion
                   </h3>
                   <h2>
-                    Fast and safe <br />
-                    <span>transport</span> your <br />
-                    product
+                    Innovation in Motion. <br />
+                    <span>Reliability</span> in Every Part.
                   </h2>
                   <p>
-                    With more than 30 years of experience in the logistics
-                    industry <br />
-                    bibendum auctor nisi elit more consequat ipsum.
+                    From sensors to control boards, we deliver cutting-edge
+                    solutions <br />
+                    that drive performance and reduce downtime.
                   </p>
                   <div className="btn-box">
-                    <Link className="thm-btn" href="/">
-                      <span className="txt">Calculate Package</span>
+                    <Link className="thm-btn" href="/contact">
+                      <span className="txt">Contact Us</span>
                       <i className="icon-right-arrow"></i>
                     </Link>
                   </div>

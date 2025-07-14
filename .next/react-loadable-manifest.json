@@ -1,80 +1,14 @@
 {
-  "components\\Section\\About\\FactSection\\FactSection.jsx -> react-animated-numbers": {
-    "id": 4999,
-    "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
-    ]
-  },
   "components\\Section\\Home-1\\Fact\\Fact.jsx -> react-animated-numbers": {
-    "id": 4999,
+    "id": "components\\Section\\Home-1\\Fact\\Fact.jsx -> react-animated-numbers",
     "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
+      "static/chunks/_app-pages-browser_node_modules_react-animated-numbers_dist_index_js.js"
     ]
   },
   "components\\Section\\Home-1\\WorkingProcess\\WorkingProcess.jsx -> wowjs": {
-    "id": 9605,
+    "id": "components\\Section\\Home-1\\WorkingProcess\\WorkingProcess.jsx -> wowjs",
     "files": [
-      "static/chunks/605.1558d86281819628.js"
-    ]
-  },
-  "components\\Section\\Home-2\\About\\About.jsx -> react-animated-numbers": {
-    "id": 4999,
-    "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
-    ]
-  },
-  "components\\Section\\Home-2\\About\\About.jsx -> wowjs": {
-    "id": 9605,
-    "files": [
-      "static/chunks/605.1558d86281819628.js"
-    ]
-  },
-  "components\\Section\\Home-2\\Fact\\Fact.jsx -> react-animated-numbers": {
-    "id": 4999,
-    "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
-    ]
-  },
-  "components\\Section\\Home-3\\ChooseUs\\ChooseUs.jsx -> react-animated-numbers": {
-    "id": 4999,
-    "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
-    ]
-  },
-  "components\\Section\\Home-3\\WorkProcess\\WorkProcess.jsx -> wowjs": {
-    "id": 9605,
-    "files": [
-      "static/chunks/605.1558d86281819628.js"
-    ]
-  },
-  "components\\Section\\Services\\ChooseUs\\ChooseUs.jsx -> react-animated-numbers": {
-    "id": 4999,
-    "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
-    ]
-  },
-  "components\\Section\\Services\\WorkProcess\\WorkProcess.jsx -> wowjs": {
-    "id": 9605,
-    "files": [
-      "static/chunks/605.1558d86281819628.js"
-    ]
-  },
-  "components\\Ui\\Cards\\LatestPostCard.jsx -> wowjs": {
-    "id": 9605,
-    "files": [
-      "static/chunks/605.1558d86281819628.js"
-    ]
-  },
-  "components\\Ui\\Cards\\LatestPostCardTwo.jsx -> wowjs": {
-    "id": 9605,
-    "files": [
-      "static/chunks/605.1558d86281819628.js"
-    ]
-  },
-  "components\\Ui\\Cards\\TeamCardThree.jsx -> wowjs": {
-    "id": 9605,
-    "files": [
-      "static/chunks/605.1558d86281819628.js"
+      "static/chunks/_app-pages-browser_node_modules_wowjs_dist_wow_js.js"
     ]
   }
 }
