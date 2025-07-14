@@ -1,4 +1,22 @@
 {
-  "/page": "app/page.js",
-  "/_not-found/page": "app/_not-found/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/blog-standard/page": "app/blog-standard/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/about/page": "app/about/page.js",
+  "/blog-details/page": "app/blog-details/page.js",
+  "/air-transport/page": "app/air-transport/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/cargo-transport/page": "app/cargo-transport/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/home-2/page": "app/home-2/page.js",
+  "/ocean-freight/page": "app/ocean-freight/page.js",
+  "/home-3/page": "app/home-3/page.js",
+  "/project-details/page": "app/project-details/page.js",
+  "/team/page": "app/team/page.js",
+  "/rail-transport/page": "app/rail-transport/page.js",
+  "/road-transport/page": "app/road-transport/page.js",
+  "/services/page": "app/services/page.js",
+  "/warehousing/page": "app/warehousing/page.js",
+  "/team-details/page": "app/team-details/page.js",
+  "/page": "app/page.js"
 }

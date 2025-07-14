@@ -28,8 +28,8 @@ export default function Home() {
         <Cta />
         <ChooseUs />
         <Fact />
-        <RecentProjects />
-        <RequestService />
+        {/* <RecentProjects />
+        <RequestService /> */}
         <Testimonial />
         <Team />
         <Faq />
