@@ -7,10 +7,9 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import BlogCard from "~/components/Ui/Cards/BlogCard";
 import Link from "next/link";
-import data from '~/public/db/blogsData.json'
+import data from "~/db/blogsData.json";
 
 const Blog = () => {
-
   return (
     <section className="blog-one padding">
       <div

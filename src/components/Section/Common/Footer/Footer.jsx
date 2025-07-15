@@ -1,14 +1,23 @@
-"use client"
-import React from 'react';
+"use client";
+import React from "react";
 import Link from "next/link";
 import ScrollToTop from "react-scroll-to-top";
-import BrandLogo from "~/components/Ui/Logo/BrandLogo";
+
+import BrandLogo from "@/components/Ui/Logo/BrandLogo";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
   return (
     <footer className="footer-one ">
-<ScrollToTop smooth top='80' color="white" style={{backgroundColor:"#FFD550", "&:hover": { backgroundColor: "#186265" }}}/>
+      <ScrollToTop
+        smooth
+        top="80"
+        color="white"
+        style={{
+          backgroundColor: "#FFD550",
+          "&:hover": { backgroundColor: "#186265" },
+        }}
+      />
       <div
         className="footer-one__bg"
         style={{ backgroundImage: "url(/img/footer/footer-v1-bg.jpg)" }}
@@ -19,7 +28,7 @@ const Footer = () => {
             <div className="footer-one__top-inner">
               <div className="logo-box">
                 <Link href="/">
-                  <BrandLogo imageSrc="/img/resource/logo-2.png" />
+                  <BrandLogo imageSrc="/img/bestect-white-logo.png" />
                 </Link>
               </div>
               <div className="footer-one__top-right">
@@ -165,7 +174,11 @@ const Footer = () => {
                         </div>
                         <div className="content-box">
                           <p>Address</p>
-                          <h4>Jones Street, New York, USA</h4>
+                          <h4>
+                            Shops 2-3-4, Building 1080, Fire Station Road,
+                            Muwaileh, Near to Muwaileh bus station, Sharjah,
+                            UAE.
+                          </h4>
                         </div>
                       </li>
                       <li>
@@ -205,7 +218,8 @@ const Footer = () => {
           <div className="footer-bottom__inner">
             <div className="copyright-text">
               <p>
-                © {currentYear} <Link href="/">Translo,</Link> All Rights Reserved.
+                © {currentYear} <Link href="/">Bestech,</Link> All Rights
+                Reserved.
               </p>
             </div>
 

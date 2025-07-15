@@ -24,10 +24,10 @@ const Hero = () => {
           nextEl: "#main-slider__swiper-button-next",
           prevEl: "#main-slider__swiper-button-prev",
         }}
-        autoplay={{
-          delay: 7000,
-        }}
-        modules={[Autoplay, Pagination, Navigation, EffectFade]}
+        // autoplay={{
+        //   delay: 7000,
+        // }}
+        // modules={[Autoplay, Pagination, Navigation, EffectFade]}
       >
         <div className="swiper-wrapper">
           <SwiperSlide className="swiper-slide">
@@ -38,7 +38,7 @@ const Hero = () => {
               }}
             ></div>
             <div className="big-title">
-              <h2>Bestech Elevator Spare Parts</h2>
+              <h2>Bestech</h2>
             </div>
             <div className="img-box">
               <img src="/img/slider/slider-v1-img4.png" alt="" />
@@ -82,7 +82,7 @@ const Hero = () => {
               }}
             ></div>
             <div className="big-title">
-              <h2>Bestech Elevator Spare Parts</h2>
+              <h2>Bestech</h2>
             </div>
             <div className="img-box">
               <img src="/img/slider/slider-v1-img4.png" alt="" />
@@ -126,7 +126,7 @@ const Hero = () => {
               }}
             ></div>
             <div className="big-title">
-              <h2>Bestech Elevator Spare Parts</h2>
+              <h2>Bestech</h2>
             </div>
             <div className="img-box">
               <img src="/img/slider/slider-v1-img4.png" alt="" />

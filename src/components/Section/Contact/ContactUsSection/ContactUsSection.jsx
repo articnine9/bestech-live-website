@@ -49,7 +49,7 @@ const ContactUsSection = () => {
 
                                     <div className="text-box">
                                         <p>Email Us</p>
-                                        <h2><Link href="mailto:yourmail@email.com">translo@Support.com</Link></h2>
+                                        <h2><Link href="mailto:yourmail@email.com">Bestech@Support.com</Link></h2>
                                     </div>
                                 </li>
 

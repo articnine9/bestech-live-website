@@ -1,38 +1,40 @@
 /* eslint-disable @next/next/no-img-element */
-"use client"
-import React, { useEffect, useState } from 'react';
-import Select from 'react-select';
+"use client";
+import React, { useEffect, useState } from "react";
+import Select from "react-select";
 
 const options = [
-  { value: 'FreightType1', label: 'Freight Type' },
-  { value: 'FreightType2', label: 'Freight Type 1' },
-  { value: 'FreightType3', label: 'Freight Type 2' },
-  { value: 'FreightType4', label: 'Freight Type 3' },
+  { value: "FreightType1", label: "Freight Type" },
+  { value: "FreightType2", label: "Freight Type 1" },
+  { value: "FreightType3", label: "Freight Type 2" },
+  { value: "FreightType4", label: "Freight Type 3" },
 ];
 
 const options2 = [
-  { value: 'Load1', label: 'Load' },
-  { value: 'Load2', label: 'Load 2' },
-  { value: 'Load3', label: 'Load 3' },
-  { value: 'Load4', label: 'Load 4' },
+  { value: "Load1", label: "Load" },
+  { value: "Load2", label: "Load 2" },
+  { value: "Load3", label: "Load 3" },
+  { value: "Load4", label: "Load 4" },
 ];
 
 export default function CompanyBenefit() {
   const [distance, setDistance] = useState(50);
   const [isImproved, setIsImproved] = useState(false);
   const [isSlidToSide, setIsSlidToSide] = useState(false);
-  const initialSelected = options.find(option => option.label === 'Freight Type');
-  const initialSelected2 = options2.find(option => option.label === 'Load');
+  const initialSelected = options.find(
+    (option) => option.label === "Freight Type"
+  );
+  const initialSelected2 = options2.find((option) => option.label === "Load");
 
-    const [selected, setSelected] = useState(initialSelected);
-    const handleChange = (selectedOption) => {
-        setSelected(selectedOption);
-    };
+  const [selected, setSelected] = useState(initialSelected);
+  const handleChange = (selectedOption) => {
+    setSelected(selectedOption);
+  };
 
-    const [selected2, setSelected2] = useState(initialSelected2);
-    const handleChange2 = (selectedOption2) => {
-        setSelected2(selectedOption2);
-    };
+  const [selected2, setSelected2] = useState(initialSelected2);
+  const handleChange2 = (selectedOption2) => {
+    setSelected2(selectedOption2);
+  };
   useEffect(() => {
     setIsImproved(distance > 50);
     setIsSlidToSide(distance !== 50 && distance !== 500);
@@ -44,16 +46,16 @@ export default function CompanyBenefit() {
     setDistance(newDistance); // Update the distance value
   };
 
-
-
   return (
     <section className="company-benefit-one padding">
       <div
-        className={`company-benefit-one__img wow fadeInRight ${isImproved ? 'improved-bg' : ''}`}
+        className={`company-benefit-one__img wow fadeInRight ${
+          isImproved ? "improved-bg" : ""
+        }`}
         data-wow-delay="0ms"
         data-wow-duration="1500ms"
         style={{
-          backgroundImage: "url(/img/resource/company-benefit-v1-img1.jpg)"
+          backgroundImage: "url(/img/resource/company-benefit-v1-img1.jpg)",
         }}
       ></div>
       <div className="container">
@@ -65,14 +67,14 @@ export default function CompanyBenefit() {
                 <div className="sub-title">
                   <h5>Company Benefit</h5>
                 </div>
-                <h2>Why do You Like Translo?</h2>
+                <h2>Why do You Like Bestech?</h2>
               </div>
 
               <div className="company-benefit-one__content-text">
                 <p>
-                  More than a supplier, we work as a true partner and
-                  accompany you with recommendations, based on your mobility
-                  data, so that you can reduce your costs,
+                  More than a supplier, we work as a true partner and accompany
+                  you with recommendations, based on your mobility data, so that
+                  you can reduce your costs,
                 </p>
               </div>
 
@@ -160,7 +162,7 @@ export default function CompanyBenefit() {
                 <h2>Request Quick Quote</h2>
               </div>
 
-              <form  >
+              <form>
                 <div className="company-benefit-one__distance-box">
                   <div className="title">
                     <h3>Distance:</h3>
@@ -174,15 +176,21 @@ export default function CompanyBenefit() {
                     className="slider rangeSlider"
                     id="rangeSlider1"
                     style={{
-                      background: `linear-gradient(to right, #FFD550 ${((distance - 50) / 450) * 100}%, white 0)`
+                      background: `linear-gradient(to right, #FFD550 ${
+                        ((distance - 50) / 450) * 100
+                      }%, white 0)`,
                     }}
                   />
 
                   <div className="form-group">
                     <div className="inner">
-                      <p><span id="min-value-rangeslider">50</span>km</p>
+                      <p>
+                        <span id="min-value-rangeslider">50</span>km
+                      </p>
                       <span>-</span>
-                      <p><span id="max-value-rangeslider">{distance}</span>km</p>
+                      <p>
+                        <span id="max-value-rangeslider">{distance}</span>km
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -229,8 +237,10 @@ export default function CompanyBenefit() {
                 <div className="row">
                   <div className="col-xl-6 col-lg-6 col-md-6">
                     <div className="form-group">
-
-                      <div className="select-box value-option" id='select-box-home-two'>
+                      <div
+                        className="select-box value-option"
+                        id="select-box-home-two"
+                      >
                         <Select
                           options={options}
                           value={selected}
@@ -238,38 +248,42 @@ export default function CompanyBenefit() {
                           styles={{
                             control: (provided, state) => ({
                               ...provided,
-                              width: '100%',
-                              height: '50px',
-                              fontSize: '16px',
+                              width: "100%",
+                              height: "50px",
+                              fontSize: "16px",
                               fontWeight: 500,
-                              fontStyle: 'normal',
-                              paddingLeft: '5px',
-                              paddingRight: '0px',
-                              borderRadius: '4px',
-                              transition: 'all 500ms ease',
-                              outline: 'none',
-                              backgroundColor: '#fff',
-                              color: '#fff'
+                              fontStyle: "normal",
+                              paddingLeft: "5px",
+                              paddingRight: "0px",
+                              borderRadius: "4px",
+                              transition: "all 500ms ease",
+                              outline: "none",
+                              backgroundColor: "#fff",
+                              color: "#fff",
                             }),
                             option: (provided, state) => ({
                               ...provided,
-                              display: 'block',
-                              width: '100%',
-                              float: 'none',
-                              borderRight: 'none',
-                              color: '#ffffff',
+                              display: "block",
+                              width: "100%",
+                              float: "none",
+                              borderRight: "none",
+                              color: "#ffffff",
                               fontWeight: 500,
-                              lineHeight: '24px', // Set the height of options
-                              listStyle: 'none',
-                              minHeight: '35px',
-                              outline: 'none',
-                              paddingLeft: '18px',
-                              paddingRight: '29px',
-                              textAlign: 'left',
-                              cursor: 'pointer',
-                              transition: 'all 0.2s',
-                              backgroundColor: state.isSelected ? '#121213' : state.isFocused ? '#121213' : '#FF5E15',
-                            })
+                              lineHeight: "24px", // Set the height of options
+                              listStyle: "none",
+                              minHeight: "35px",
+                              outline: "none",
+                              paddingLeft: "18px",
+                              paddingRight: "29px",
+                              textAlign: "left",
+                              cursor: "pointer",
+                              transition: "all 0.2s",
+                              backgroundColor: state.isSelected
+                                ? "#121213"
+                                : state.isFocused
+                                ? "#121213"
+                                : "#FF5E15",
+                            }),
                           }}
                         />
                       </div>
@@ -278,8 +292,10 @@ export default function CompanyBenefit() {
 
                   <div className="col-xl-6 col-lg-6 col-md-6">
                     <div className="form-group">
-                      
-                      <div className="select-box value-option" id='select-box-home-two'>
+                      <div
+                        className="select-box value-option"
+                        id="select-box-home-two"
+                      >
                         <Select
                           options={options2}
                           value={selected2}
@@ -287,38 +303,42 @@ export default function CompanyBenefit() {
                           styles={{
                             control: (provided, state) => ({
                               ...provided,
-                              width: '100%',
-                              height: '50px',
-                              fontSize: '16px',
+                              width: "100%",
+                              height: "50px",
+                              fontSize: "16px",
                               fontWeight: 500,
-                              fontStyle: 'normal',
-                              paddingLeft: '5px',
-                              paddingRight: '0px',
-                              borderRadius: '4px',
-                              transition: 'all 500ms ease',
-                              outline: 'none',
-                              backgroundColor: '#fff',
-                              color: '#fff'
+                              fontStyle: "normal",
+                              paddingLeft: "5px",
+                              paddingRight: "0px",
+                              borderRadius: "4px",
+                              transition: "all 500ms ease",
+                              outline: "none",
+                              backgroundColor: "#fff",
+                              color: "#fff",
                             }),
                             option: (provided, state) => ({
                               ...provided,
-                              display: 'block',
-                              width: '100%',
-                              float: 'none',
-                              borderRight: 'none',
-                              color: '#ffffff',
+                              display: "block",
+                              width: "100%",
+                              float: "none",
+                              borderRight: "none",
+                              color: "#ffffff",
                               fontWeight: 500,
-                              lineHeight: '24px', // Set the height of options
-                              listStyle: 'none',
-                              minHeight: '35px',
-                              outline: 'none',
-                              paddingLeft: '18px',
-                              paddingRight: '29px',
-                              textAlign: 'left',
-                              cursor: 'pointer',
-                              transition: 'all 0.2s',
-                              backgroundColor: state.isSelected ? '#121213' : state.isFocused ? '#121213' : '#FF5E15',
-                            })
+                              lineHeight: "24px", // Set the height of options
+                              listStyle: "none",
+                              minHeight: "35px",
+                              outline: "none",
+                              paddingLeft: "18px",
+                              paddingRight: "29px",
+                              textAlign: "left",
+                              cursor: "pointer",
+                              transition: "all 0.2s",
+                              backgroundColor: state.isSelected
+                                ? "#121213"
+                                : state.isFocused
+                                ? "#121213"
+                                : "#FF5E15",
+                            }),
                           }}
                         />
                       </div>

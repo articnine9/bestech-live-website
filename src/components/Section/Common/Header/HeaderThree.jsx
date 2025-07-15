@@ -106,7 +106,7 @@ const HeaderThree = () => {
                                                             <div className="text-box">
                                                                 <p>Email</p>
                                                                 <h4>
-                                                                    <Link href="mailto:yourmail@email.com">translo@support.com
+                                                                    <Link href="mailto:yourmail@email.com">Bestech@support.com
                                                                     </Link>
                                                                 </h4>
                                                             </div>

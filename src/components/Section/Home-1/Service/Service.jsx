@@ -1,5 +1,5 @@
 "use client";
-import data from '~/public/db/serviceData.json'
+import data from "~/db/serviceData.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
@@ -9,7 +9,6 @@ import Link from "next/link";
 import ServiceCard from "~/components/Ui/Cards/ServiceCard";
 
 const Service = () => {
-
   return (
     <section className="service-one padding-bottom">
       <div className="container">

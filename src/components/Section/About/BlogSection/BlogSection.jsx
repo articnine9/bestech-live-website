@@ -9,11 +9,9 @@ import "swiper/css/navigation";
 // import required modules
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 import BlogCardThree from "~/components/Ui/Cards/BlogCardThree";
-import data from '~/public/db/blogDataThree.json'
+import data from "~/db/blogDataThree.json";
 
 const BlogSection = () => {
-
-
   return (
     <section className="blog-two blog-two--three padding">
       <div
@@ -52,33 +50,28 @@ const BlogSection = () => {
           breakpoints={{
             0: {
               slidesPerView: 1,
-         
             },
             375: {
               slidesPerView: 1,
-          
             },
             575: {
               slidesPerView: 1,
-        
             },
             768: {
-              slidesPerView: 2
+              slidesPerView: 2,
             },
             992: {
               slidesPerView: 3,
-             
             },
             1200: {
               slidesPerView: 3,
-          
             },
           }}
         >
           <div className="swiper-wrapper">
             {data.map((item) => (
               <SwiperSlide key={item.id} className="swiper-slide">
-               <BlogCardThree item={item}/>
+                <BlogCardThree item={item} />
               </SwiperSlide>
             ))}
           </div>

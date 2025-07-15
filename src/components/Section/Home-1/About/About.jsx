@@ -3,7 +3,7 @@ import CircleText1 from "~/components/Ui/Components/CircleText";
 const About = () => {
   return (
     <div className="about-one padding">
-      <div className="about-one__big-title">translo </div>
+      <div className="about-one__big-title">Bestech </div>
       <div className="container">
         <div className="row">
           <div className="col-xl-5">
@@ -56,9 +56,13 @@ const About = () => {
                     data-wow-delay="0ms"
                     data-wow-duration="1500ms"
                   >
-                    <ContentCard image="/img/icon/about/worldwide-delivery.png" title="Fast Worldwide Delivery" description="Lorem ipsum dolor sit amet, consectetur adipiscing
+                    <ContentCard
+                      image="/img/icon/about/worldwide-delivery.png"
+                      title="Fast Worldwide Delivery"
+                      description="Lorem ipsum dolor sit amet, consectetur adipiscing
                     elit, sed do eiusmod of tempor incididunt ut labore et
-                    dolore." />
+                    dolore."
+                    />
                   </li>
 
                   <li
@@ -66,9 +70,13 @@ const About = () => {
                     data-wow-delay="200ms"
                     data-wow-duration="1500ms"
                   >
-                    <ContentCard image="/img/icon/about/secure-delivery.png" title="Safe And Secure Delivery" description="There are many variations of passages of Lorem Ipsum
+                    <ContentCard
+                      image="/img/icon/about/secure-delivery.png"
+                      title="Safe And Secure Delivery"
+                      description="There are many variations of passages of Lorem Ipsum
                     available but the majority have suffered alteration in
-                    some form," />
+                    some form,"
+                    />
                   </li>
                 </ul>
               </div>

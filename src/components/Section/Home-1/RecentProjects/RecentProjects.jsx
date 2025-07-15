@@ -1,5 +1,5 @@
 "use client";
-import data from '~/public/db/projectsData.json'
+import data from "~/db/projectsData.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
@@ -9,7 +9,6 @@ import Link from "next/link";
 import ProjectCard from "~/components/Ui/Cards/ProjectCard";
 
 const RecentProjects = () => {
-
   return (
     <section className="project-one padding">
       <div

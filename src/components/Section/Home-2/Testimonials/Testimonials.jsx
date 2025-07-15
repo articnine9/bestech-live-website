@@ -1,12 +1,12 @@
 /* eslint-disable @next/next/no-img-element */
-"use client"
-import React, { useState, useEffect } from 'react';
-import { Swiper, SwiperSlide } from 'swiper/react';
-import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-import 'swiper/css';
-import 'swiper/css/pagination';
-import data from '~/public/db/testimonialDataTwo.json';
-import Link from 'next/link';
+"use client";
+import React, { useState, useEffect } from "react";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Pagination, Navigation } from "swiper/modules";
+import "swiper/css";
+import "swiper/css/pagination";
+import data from "~/db/testimonialDataTwo.json";
+import Link from "next/link";
 
 export default function Testimonials() {
   const [currentTestimonial, setCurrentTestimonial] = useState(1);
@@ -17,7 +17,12 @@ export default function Testimonials() {
 
   return (
     <section className="testimonials-two padding">
-      <div className="testimonials-two__bg" style={{ backgroundImage: "url(/img/background/testimonials-v2-bg.jpg)" }}></div>
+      <div
+        className="testimonials-two__bg"
+        style={{
+          backgroundImage: "url(/img/background/testimonials-v2-bg.jpg)",
+        }}
+      ></div>
       <div className="container">
         <div className="sec-title-two">
           <div className="sub-title">
@@ -30,7 +35,7 @@ export default function Testimonials() {
           loop={true}
           navigation={{
             nextEl: "#testimonials-two__swiper-button-next",
-            prevEl: "#testimonials-two__swiper-button-prev"
+            prevEl: "#testimonials-two__swiper-button-prev",
           }}
           modules={[Autoplay, Pagination, Navigation]}
           autoplay={{ delay: 5000 }}
@@ -68,7 +73,9 @@ export default function Testimonials() {
                 <div className="testimonials-two__single-bottom">
                   <div className="rating-box">
                     {[...Array(5)].map((_, index) => (
-                      <Link href="#" key={index}><i className="icon-star"></i></Link>
+                      <Link href="#" key={index}>
+                        <i className="icon-star"></i>
+                      </Link>
                     ))}
                   </div>
                   <div className="content-box">
@@ -88,10 +95,17 @@ export default function Testimonials() {
         </div>
 
         <div className="swiper-nav-style1">
-          <div className="swiper-button-prev" style={{ marginRight: "19px" }} id="testimonials-two__swiper-button-next">
+          <div
+            className="swiper-button-prev"
+            style={{ marginRight: "19px" }}
+            id="testimonials-two__swiper-button-next"
+          >
             <i className="icon-left-arrow-5" aria-hidden="true"></i>
           </div>
-          <div className="swiper-button-next" id="testimonials-two__swiper-button-prev">
+          <div
+            className="swiper-button-next"
+            id="testimonials-two__swiper-button-prev"
+          >
             <i className="icon-right-arrow-5" aria-hidden="true"></i>
           </div>
         </div>
@@ -103,7 +117,8 @@ export default function Testimonials() {
         </div>
         <div className="big-title">partner</div>
         <div className="container">
-          <Swiper spaceBetween={100}
+          <Swiper
+            spaceBetween={100}
             loop={true}
             slidesPerView={5}
             autoplay={{
@@ -136,7 +151,8 @@ export default function Testimonials() {
                 slidesPerView: 5,
                 spaceBetween: 30,
               },
-            }}>
+            }}
+          >
             <div className="swiper-wrapper">
               <SwiperSlide className="swiper-slide">
                 <div className="img-box">

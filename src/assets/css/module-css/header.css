@@ -426,7 +426,7 @@
 .navbar-wrap ul li a {
   position: relative;
   display: block;
-  color: rgba(6, 37, 71, 0.7);
+  color: #ffffff;
   font-size: 16px;
   line-height: 24px;
   font-weight: 600;
@@ -458,7 +458,7 @@
 
 .navbar-wrap > ul > li.active > a,
 .navbar-wrap > ul > li:hover > a {
-  color: #062547;
+  color: #66a3cc;
 }
 
 .main-menu .navigation li.menu-item-has-children .dropdown-btn {
@@ -653,11 +653,7 @@
   left: 0;
   bottom: 0;
   right: 0;
-  background: linear-gradient(
-    180deg,
-    #011c39 -20%,
-    rgba(1, 28, 57, 0.65) 1076%
-  );
+  background: #66a3cc;
   content: "";
 }
 
@@ -753,7 +749,7 @@
   left: 0;
   bottom: -20px;
   right: -320px;
-  background: linear-gradient(90deg, #186265 0%, rgba(24, 98, 101, 0) 100%);
+  background: #66a3cc;
   content: "";
   z-index: -1;
 }
@@ -859,7 +855,7 @@
 .main-header-one__bottom-right .search-box a {
   position: relative;
   display: block;
-  color: #011c39;
+  color: #fff;
   font-size: 27px;
   line-height: 27px;
   font-weight: 700;
@@ -872,7 +868,7 @@
 }
 
 .main-header-one__bottom-right .btn-box .thm-btn::after {
-  background-color: var(--thm-white);
+  background-color: var(--thm-bg-two);
 }
 
 .sticky-menu .main-header-one__top {

@@ -1,21 +1,28 @@
-"use client"
+"use client";
 import Link from "next/link";
 import ScrollToTop from "react-scroll-to-top";
-import BrandLogo from "~/components/Ui/Logo/BrandLogo";
+import BrandLogo from "@/components/Ui/Logo/BrandLogo";
 
 const FooterThree = () => {
   const currentYear = new Date().getFullYear();
   return (
     <footer
-    
       className="footer-one footer-one--two style3 "
       style={{ backgroundImage: "url(/img/footer/footer-v2-bg.jpg)" }}
     >
-      <ScrollToTop smooth top='80' color="white" style={{backgroundColor:"#FFD550", "&:hover": { backgroundColor: "#186265" }}}/>
+      <ScrollToTop
+        smooth
+        top="80"
+        color="white"
+        style={{
+          backgroundColor: "#FFD550",
+          "&:hover": { backgroundColor: "#186265" },
+        }}
+      />
       <div className="footer-one__bg"></div>
       <div className="shape2 float-bob-y">
         <img src="/img/shape/footer-v2-shape2.png" alt="" />
-      </div> 
+      </div>
       <div className="footer-main ">
         <div className="container">
           <div className="footer-main__bottom">
@@ -40,7 +47,11 @@ const FooterThree = () => {
 
                           <div className="content-box">
                             <p>Address</p>
-                            <h4>Jones Street, New York, USA</h4>
+                            <h4>
+                              ~Shops 2-3-4, Building 1080, Fire Station Road,
+                              Muwaileh, Near to Muwaileh bus station, Sharjah,
+                              UAE.
+                            </h4>
                           </div>
                         </li>
 
@@ -182,7 +193,8 @@ const FooterThree = () => {
           <div className="footer-bottom__inner">
             <div className="copyright-text">
               <p>
-                © {currentYear} <Link href="/">Translo,</Link> All Rights Reserved.
+                © {currentYear} <Link href="/">Bestech,</Link> All Rights
+                Reserved.
               </p>
             </div>
             <div className="social-links">

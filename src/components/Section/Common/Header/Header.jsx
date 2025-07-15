@@ -94,7 +94,11 @@ const Header = () => {
                                   <div className="icon-box">
                                     <span className="icon-pin"></span>
                                   </div>
-                                  <p>Jones Street, New York, USA</p>
+                                  <p>
+                                    Shops 2-3-4, Building 1080, Fire Station
+                                    Road, Muwaileh, Near to Muwaileh bus
+                                    station, Sharjah, UAE.
+                                  </p>
                                 </li>
                                 <li>
                                   <div className="icon-box">

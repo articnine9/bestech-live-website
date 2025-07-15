@@ -1,9 +1,8 @@
 "use client";
 import ServiceCardTwo from "~/components/Ui/Cards/ServiceCardTwo";
-import data from '~/public/db/serviceDataTwo.json'
+import data from "~/db/serviceDataTwo.json";
 
 const ChooseUs = () => {
-
   return (
     <section className="choose-us-one padding">
       <div className="container">

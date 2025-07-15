@@ -10,13 +10,10 @@ import { HeaderFour } from "~/components/Section/Common/Header";
 import Team from "~/components/Section/Common/Team";
 import CtaThree from "~/components/Section/Common/Cta/CtaThree";
 
-
-
 const AboutPage = () => {
   return (
-      <div className="body-dark-bg">
-        <div className="fix">
-        <HeaderFour />
+    <div className="body-dark-bg">
+      <div className="fix">
         <PageHeader title="About Us" />
         <AboutSection />
         <FactSection />
@@ -25,10 +22,8 @@ const AboutPage = () => {
         <Team />
         <BlogSection />
         <BrandSection />
-        <CtaThree />
-        <FooterThree />
-        </div>
       </div>
+    </div>
   );
 };
 

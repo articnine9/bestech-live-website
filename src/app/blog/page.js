@@ -8,11 +8,8 @@ export default function BlogPage() {
   return (
     <div className="body-dark-bg">
       <div className="fix">
-      <HeaderFour/>
         <PageHeader title="Blog Gride" />
-        <Blog/>
-        <CtaThree/>
-        <FooterThree />
+        <Blog />
       </div>
     </div>
   );

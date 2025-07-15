@@ -1,5 +1,5 @@
 "use client";
-import data from '~/public/db/teamData.json'
+import data from "~/db/teamData.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
@@ -9,7 +9,6 @@ import Link from "next/link";
 import TeamCard from "~/components/Ui/Cards/TeamCard";
 
 const Team = () => {
-
   return (
     <section className="team-one padding">
       <div

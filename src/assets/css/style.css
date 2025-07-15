@@ -418,7 +418,7 @@ h6 {
   padding-right: 30px;
   padding-bottom: 10px;
   background-color: transparent;
-  color: var(--thm-heading-font-color);
+  color: #fff;
   font-size: 16px;
   line-height: 40px;
   font-weight: 700;
@@ -6141,11 +6141,16 @@ Project Two Project Details
 }
 
 .mega-menu-title {
+  padding: 15px 15px 13px 25px;
+  line-height: 1.4;
+  background: var(--thm-white);
+  text-transform: capitalize;
+  transition: all 0.3s ease-in-out;
   font-size: 16px;
   font-weight: 600;
-  margin-bottom: 15px;
+
   color: #333;
-  padding-bottom: 5px;
+
   border-bottom: 1px solid #eee;
 }
 
@@ -6255,4 +6260,7 @@ Project Two Project Details
   text-align: left;
   display: block;
   border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+.footer-one__top-inner .logo-box a img {
+  width: 175px;
 }

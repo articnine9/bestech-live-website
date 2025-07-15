@@ -4,7 +4,7 @@ import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import data from '~/public/db/testimonialData.json'
+import data from "~/db/testimonialData.json";
 import TestimonialCard from "~/components/Ui/Cards/TestimonialCard";
 
 const Testimonial = () => {

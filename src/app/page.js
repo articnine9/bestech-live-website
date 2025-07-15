@@ -19,7 +19,6 @@ export default function Home() {
   return (
     <div className="body-dark-bg homeOne">
       <div className="fix">
-        <Header />
         <Hero />
         <About />
         <Service />
@@ -34,7 +33,6 @@ export default function Home() {
         <Team />
         <Faq />
         <Blog />
-        <Footer />
       </div>
     </div>
   );

@@ -1,13 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
-"use client"
-import React, { useState } from 'react';
-import Link from 'next/link';
-import { Swiper, SwiperSlide } from 'swiper/react';
-import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-import 'swiper/css';
-import 'swiper/css/pagination';
-import TeamCardTwo from '~/components/Ui/Cards/TeamCardTwo';
-import data from '~/public/db/teamDataFour.json';
+"use client";
+import React, { useState } from "react";
+import Link from "next/link";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Pagination, Navigation } from "swiper/modules";
+import "swiper/css";
+import "swiper/css/pagination";
+import TeamCardTwo from "~/components/Ui/Cards/TeamCardTwo";
+import data from "~/db/teamDataFour.json";
 
 const Teams = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -41,26 +41,21 @@ const Teams = () => {
           breakpoints={{
             0: {
               slidesPerView: 1,
-
             },
             375: {
               slidesPerView: 1,
-
             },
             575: {
               slidesPerView: 1,
-
             },
             768: {
-              slidesPerView: 2
+              slidesPerView: 2,
             },
             992: {
               slidesPerView: 3,
-
             },
             1200: {
               slidesPerView: 3,
-
             },
           }}
           onSlideChange={(swiper) => handleSlideChange(swiper)}
@@ -80,8 +75,10 @@ const Teams = () => {
           </div>
         </div>
         <div className="swiper-nav-style1">
-          <div className="swiper-button-prev" id="team-two__swiper-button-next"
-            style={{ marginRight: '20px' }}
+          <div
+            className="swiper-button-prev"
+            id="team-two__swiper-button-next"
+            style={{ marginRight: "20px" }}
           >
             <i className="icon-left-arrow-5" aria-hidden="true"></i>
           </div>
@@ -103,5 +100,5 @@ const Teams = () => {
       </div>
     </section>
   );
-}
+};
 export default Teams;
