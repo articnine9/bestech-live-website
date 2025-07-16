@@ -350,20 +350,37 @@ const Header = () => {
                                   onMouseLeave={() => setBrandsOpen(false)}
                                 >
                                   <li>
-                                    <Link href="/brands/apple">Apple</Link>
+                                    <Link href="/brands/hyundai">
+                                      Hyundai Parts
+                                    </Link>
                                   </li>
                                   <li>
-                                    <Link href="/brands/samsung">Samsung</Link>
+                                    <Link href="/brands/kone">Kone Parts</Link>
                                   </li>
                                   <li>
-                                    <Link href="/brands/sony">Sony</Link>
+                                    <Link href="/brands/mitsubishi">
+                                      Mitsubishi Parts
+                                    </Link>
                                   </li>
                                   <li>
-                                    <Link href="/brands/lg">LG</Link>
+                                    <Link href="/brands/monarch">
+                                      Monarch Parts
+                                    </Link>
                                   </li>
                                   <li>
-                                    <Link href="/brands/all-brands">
-                                      View All Brands
+                                    <Link href="/brands/otis">Otis Parts</Link>
+                                  </li>
+                                  <li>
+                                    <Link href="/brands/schindler">
+                                      Schindler Parts
+                                    </Link>
+                                  </li>
+                                  <li>
+                                    <Link href="/brands/step">Step Parts</Link>
+                                  </li>
+                                  <li>
+                                    <Link href="/brands/thyssenkrupp">
+                                      Thyssenkrupp Parts
                                     </Link>
                                   </li>
                                 </ul>

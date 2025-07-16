@@ -1,0 +1,361 @@
+[
+  {
+    "slug": "hyundai",
+    "page_name": "HYUNDAI Elevator Parts",
+    "code": "HY",
+    "items": [
+      {
+        "name": "Push Button",
+        "description": "24V, Installation Hole Size:34",
+        "code": "HYBT01"
+      },
+      {
+        "name": "Push Button",
+        "description": "Installation Hole Size:33",
+        "code": "HYBT02"
+      },
+      {
+        "name": "Push Button",
+        "description": "Installation Hole Size:33",
+        "code": "HYBT03"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ66 X 15 X 6202",
+        "code": "HYWR01"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ45 X 15 X Φ12",
+        "code": "HYWR02"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ84 X Φ77 X 17 X M10",
+        "code": "HYWR03"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ30(6200) X 33 X M6",
+        "code": "HYWR04"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ70 X 10 X 6001",
+        "code": "HYWR05"
+      },
+      {
+        "name": "Guide Shoe Insert",
+        "description": "120 X 22 X 6",
+        "code": "HYGS01"
+      },
+      {
+        "name": "Guide Shoe Insert",
+        "description": "80 X 50 X 57 X 7",
+        "code": "HYGS02"
+      },
+      {
+        "name": "Door Slider",
+        "description": "96 X 42 X 11",
+        "code": "HYDS01"
+      },
+      {
+        "name": "Door Lock",
+        "description": "GLKS-M34",
+        "code": "HYLO01"
+      },
+      {
+        "name": "Triangle Lock",
+        "description": "",
+        "code": "HYLO02"
+      },
+      {
+        "name": "Triangle Lock",
+        "description": "",
+        "code": "HYLO03"
+      },
+      {
+        "name": "Door Lock",
+        "description": "",
+        "code": "HYLO04"
+      },
+      {
+        "name": "Door Lock",
+        "description": "",
+        "code": "HYLO05"
+      },
+      {
+        "name": "Limited Switch",
+        "description": "",
+        "code": "HYSS01"
+      },
+      {
+        "name": "Limited Switch",
+        "description": "",
+        "code": "HYSS02"
+      },
+      {
+        "name": "Limited Switch",
+        "description": "",
+        "code": "HYSS03"
+      },
+      {
+        "name": "Proximity Switch",
+        "description": "",
+        "code": "HYSS04"
+      },
+      {
+        "name": "Load Sensors",
+        "description": "",
+        "code": "HYSS05"
+      },
+      {
+        "name": "Service Tool",
+        "description": "STVF 9",
+        "code": "HYT01"
+      },
+      {
+        "name": "Display Board",
+        "description": "STVF5/STVF7",
+        "code": "HYD101"
+      },
+      {
+        "name": "Display Board",
+        "description": "STVF5/STVF7",
+        "code": "HYD102"
+      },
+      {
+        "name": "Display Board",
+        "description": "STVF5/STVF7",
+        "code": "HYD103"
+      },
+      {
+        "name": "Display Board",
+        "description": "STVF5/STVF7",
+        "code": "HYD104"
+      },
+      {
+        "name": "Display Board",
+        "description": "STVF5/STVF8",
+        "code": "HYD105"
+      },
+      {
+        "name": "PC Board",
+        "description": "",
+        "code": "HYPCB01"
+      },
+      {
+        "name": "PC Board",
+        "description": "BOARD 204C1699 H22",
+        "code": "HYPCB02"
+      },
+      {
+        "name": "PC Board",
+        "description": "",
+        "code": "HYPCB03"
+      },
+      {
+        "name": "PC Board",
+        "description": "",
+        "code": "HYPCB04"
+      },
+      {
+        "name": "PC Board",
+        "description": "",
+        "code": "HYPCB05"
+      },
+      {
+        "name": "PC Board",
+        "description": "STVF7,DWG N 20400065",
+        "code": "HYPCB07"
+      },
+      {
+        "name": "PC Board",
+        "description": "STVF7",
+        "code": "HYPCB08"
+      },
+      {
+        "name": "PC Board",
+        "description": "STVF5/STVF7",
+        "code": "HYPCB09"
+      },
+      {
+        "name": "PC Board",
+        "description": "STVF5/STVF7",
+        "code": "HYPCB10"
+      },
+      {
+        "name": "PC Board",
+        "description": "STVF5/STVF8",
+        "code": "HYPCB11"
+      }
+    ]
+  },
+  {
+    "slug": "kone",
+    "page_name": "KONE Elevator Parts",
+    "code": "KN",
+    "items": [
+      {
+        "name": "Push Button",
+        "description": "Round, KD850",
+        "code": "KOBT01"
+      },
+      {
+        "name": "Push Button",
+        "description": "Round, KD850",
+        "code": "KOBT02"
+      },
+      {
+        "name": "Push Button",
+        "description": "Round, KD8300",
+        "code": "KOBT03"
+      },
+      {
+        "name": "Push Button",
+        "description": "Square, KD8300",
+        "code": "KOBT04"
+      },
+      {
+        "name": "Button Plate",
+        "description": "",
+        "code": "KOBT05"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ68 X 17 X M10",
+        "code": "KOWR01"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ94 X 19 X M8",
+        "code": "KOWR02A"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ94 X 19 X M10",
+        "code": "KOWR02B"
+      },
+      {
+        "name": "Car Door Roller",
+        "description": "Φ50 X 14 X M8",
+        "code": "KOWR03"
+      },
+      {
+        "name": "Car Door Roller",
+        "description": "Φ46 X Φ39 X 16 X M12",
+        "code": "KOWR04"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ74 X 16 X M10",
+        "code": "KOWR05"
+      },
+      {
+        "name": "Door Down Roller",
+        "description": "Φ46 X Φ39 X 16 X M10",
+        "code": "KOWR06"
+      },
+      {
+        "name": "Door Roller",
+        "description": "Φ45 X 38 X 16 X M10",
+        "code": "KOWR07"
+      },
+      {
+        "name": "Door Down Roller",
+        "description": "Φ36 X 32 X 14 X M10",
+        "code": "KOWR08"
+      },
+      {
+        "name": "Door Down Roller",
+        "description": "Φ44 X 38 X 12 X M8",
+        "code": "KOWR09"
+      },
+      {
+        "name": "Sheave",
+        "description": "Φ50 X Φ44 X 12 X Φ10",
+        "code": "KOWR10"
+      },
+      {
+        "name": "Sheave",
+        "description": "Φ45 X 11 X Φ10",
+        "code": "KOWR11"
+      },
+      {
+        "name": "Guide Shoe Insert",
+        "description": "128 X 34 X 16mm",
+        "code": "KOGS01"
+      },
+      {
+        "name": "Guide Shoe Insert",
+        "description": "128 X 34 X 10mm",
+        "code": "KOGS02"
+      },
+      {
+        "name": "Door Slider",
+        "description": "70 X 40 X 14",
+        "code": "KODS01"
+      },
+      {
+        "name": "Door Slider",
+        "description": "70 X 42 X 12.5",
+        "code": "KODS02"
+      },
+      {
+        "name": "Door Vane",
+        "description": "Frequency Conversion",
+        "code": "KODV01"
+      },
+      {
+        "name": "Door Lock",
+        "description": "MKG161-09 (Right)",
+        "code": "KOLO01"
+      },
+      {
+        "name": "Leveling Sensor",
+        "description": "740336 G01, 61U,61N,30S",
+        "code": "KOSS01"
+      },
+      {
+        "name": "Car Top Inspection Box",
+        "description": "KM713856G21",
+        "code": "KOIB01"
+      },
+      {
+        "name": "Service Tool",
+        "description": "KM878240G01",
+        "code": "KOTT01"
+      },
+      {
+        "name": "Encoder",
+        "description": "KM950278G01 For KDL16L Inverter",
+        "code": "KOEN01"
+      },
+      {
+        "name": "Door Motor",
+        "description": "89717G08",
+        "code": "KODM01"
+      },
+      {
+        "name": "Frequency Inverter",
+        "description": "KM769900G01, V3F16L",
+        "code": "KOFJ01"
+      },
+      {
+        "name": "Display Board",
+        "description": "713553H04, Landing",
+        "code": "KOD101"
+      },
+      {
+        "name": "PC Board",
+        "description": "KM612913H07, Car 2 Button",
+        "code": "KOPCB01A"
+      },
+      {
+        "name": "PC Board",
+        "description": "KM713700G11, FCB",
+        "code": "KOPCB02"
+      }
+    ]
+  }
+]

@@ -39,18 +39,12 @@ const Footer = () => {
                   </p>
                 </div>
                 <div className="footer-one__top-subscribe">
-                  <form className="footer-one__top-subscribe-form" action="#">
-                    <input
-                      type="email"
-                      name="email"
-                      placeholder="Enter Your Email"
-                      style={{ backgroundColor: "#0d4250" }}
-                    />
-                    <button type="submit" className="thm-btn">
-                      <span className="txt">Subscribe </span>
-                      <i className="icon-up-right-arrow"></i>
-                    </button>
-                  </form>
+                  <div className="btn-box">
+                    <Link className="thm-btn" href="contact">
+                      <span className="txt">Get Free Quote</span>
+                      <i className="icon-right-arrow"></i>
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>

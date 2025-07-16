@@ -22,15 +22,15 @@ export default function Home() {
         <Hero />
         <About />
         <Service />
-        <Video />
-        <WorkingProcess />
+        {/* <Video />
+        <WorkingProcess /> */}
         <Cta />
         <ChooseUs />
-        <Fact />
+        {/* <Fact /> */}
         {/* <RecentProjects />
         <RequestService /> */}
         <Testimonial />
-        <Team />
+        {/* <Team /> */}
         <Faq />
         <Blog />
       </div>

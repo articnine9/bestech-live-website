@@ -1,9 +1,10 @@
 import ContentCard from "~/components/Ui/Cards/ContentCard";
 import CircleText1 from "~/components/Ui/Components/CircleText";
+
 const About = () => {
   return (
     <div className="about-one padding">
-      <div className="about-one__big-title">Bestech </div>
+      <div className="about-one__big-title">Bestech</div>
       <div className="container">
         <div className="row">
           <div className="col-xl-5">
@@ -30,55 +31,25 @@ const About = () => {
                 <div className="sec-title">
                   <div className="sub-title">
                     <h5>
-                      <span className="icon-right-arrow-1"></span> About Company
+                      <span className="icon-right-arrow-1"></span> Who We Are
                     </h5>
                   </div>
                   <h2>
-                    Digital & Trusted Transport <br />
-                    Logistic Company
+                    Advanced Elevator Components <br />& Engineering Solutions
                   </h2>
                 </div>
 
                 <div className="text">
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod of tempor incididunt ut labore et dolore magna
-                    aliqua. Quis ipsum suspend ultrices gravida risus commodo
-                    viverra maecenas.
+                    With over two decades of experience, Bestech specializes in
+                    delivering advanced elevator components and engineering
+                    products tailored to industry needs. Our commitment to
+                    quality and innovation drives everything we do.
                   </p>
+                  <a href="/about" className="theme-btn btn-style-one">
+                    <span className="btn-title">Learn More About Bestech</span>
+                  </a>
                 </div>
-              </div>
-
-              <div className="about-one__content-features">
-                <ul>
-                  <li
-                    className="wow fadeInRight"
-                    data-wow-delay="0ms"
-                    data-wow-duration="1500ms"
-                  >
-                    <ContentCard
-                      image="/img/icon/about/worldwide-delivery.png"
-                      title="Fast Worldwide Delivery"
-                      description="Lorem ipsum dolor sit amet, consectetur adipiscing
-                    elit, sed do eiusmod of tempor incididunt ut labore et
-                    dolore."
-                    />
-                  </li>
-
-                  <li
-                    className="wow fadeInRight"
-                    data-wow-delay="200ms"
-                    data-wow-duration="1500ms"
-                  >
-                    <ContentCard
-                      image="/img/icon/about/secure-delivery.png"
-                      title="Safe And Secure Delivery"
-                      description="There are many variations of passages of Lorem Ipsum
-                    available but the majority have suffered alteration in
-                    some form,"
-                    />
-                  </li>
-                </ul>
               </div>
             </div>
           </div>
