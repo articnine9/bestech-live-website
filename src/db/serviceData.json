@@ -1,30 +1,156 @@
 [
   {
     "image": "/img/service/service-one__img1.jpg",
-    "icon": "/img/icon/services/air-freight.png",
-    "title": "Air Freight",
-    "description": "Following the quality of our service thus having gained trust",
-    "link": "air-transport"
-  },
-  {
-    "image": "/img/service/service-one__img2.jpg",
-    "icon": "/img/icon/services/ocean-freight.png",
-    "title": "Ocean Freight",
-    "description": "Following the quality of our service thus having gained trust",
-    "link": "ocean-freight"
-  },
-  {
-    "image": "/img/service/service-one__img3.jpg",
     "icon": "/img/icon/services/road-freight.png",
-    "title": "Road Freight",
-    "description": "Following the quality of our service thus having gained trust",
-    "link": "road-transport"
+    "title": "Electrical",
+    "description": "Category: BS-EL",
+    "link": "electrical"
   },
   {
-    "image": "/img/service/service-one__img2.jpg",
-    "icon": "/img/icon/services/ocean-freight.png",
-    "title": "Ocean Freight",
-    "description": "Following the quality of our service thus having gained trust",
-    "link": "ocean-freight"
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Mechanical",
+    "description": "Category: BS-ME",
+    "link": "mechanical"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Cables and wires",
+    "description": "Category: BS-CW",
+    "link": "cables-and-wires"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Contactors",
+    "description": "Category: BS-CT",
+    "link": "contactors"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Circuit breakers",
+    "description": "Category: BS-CB",
+    "link": "circuit-breakers"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Buttons",
+    "description": "Category: BS-BT",
+    "link": "buttons"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Switches",
+    "description": "Category: BS-SW",
+    "link": "switches"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Cabinet set",
+    "description": "Category: BS-CS",
+    "link": "cabinet-set"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Encoders",
+    "description": "Category: BS-EN",
+    "link": "encoders"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Door Locks",
+    "description": "Category: BS-DL",
+    "link": "door-locks"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Door wheels",
+    "description": "Category: BS-DW",
+    "link": "door-wheels"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Sensors",
+    "description": "Category: BS-SR",
+    "link": "sensors"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Guide shoes",
+    "description": "Category: BS-GS",
+    "link": "guide-shoes"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Door sliders",
+    "description": "Category: BS-DS",
+    "link": "door-sliders"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Inverters",
+    "description": "Category: BS-IN",
+    "link": "inverters"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "ARD",
+    "description": "Category: BS-AR",
+    "link": "ard"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Door drives",
+    "description": "Category: BS-DD",
+    "link": "door-drives"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Signalization",
+    "description": "Category: BS-SG",
+    "link": "signalization"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Displays",
+    "description": "Category: BS-DI",
+    "link": "displays"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "PCB Boards",
+    "description": "Category: BS-PB",
+    "link": "pcb-boards"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Tool kits",
+    "description": "Category: BS-TL",
+    "link": "tool-kits"
+  },
+  {
+    "image": "/img/service/service-one__img1.jpg",
+    "icon": "/img/icon/services/road-freight.png",
+    "title": "Keys",
+    "description": "Category: BS-KY",
+    "link": "keys"
   }
 ]

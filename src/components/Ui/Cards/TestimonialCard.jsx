@@ -8,14 +8,12 @@ const TestimonialCard = ({ item }) => {
       </div>
       <div className="border-left"></div>
       <div className="testimonials-one__single-top">
-        <div className="img-box">
+        {/* <div className="img-box">
           <img src={item?.image} alt="" />
-        </div>
+        </div> */}
 
         <div className="title-box">
-          <h2>
-            {item?.name}
-          </h2>
+          <h2>{item?.name}</h2>
           <p>{item?.role}</p>
         </div>
       </div>

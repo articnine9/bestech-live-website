@@ -4,7 +4,11 @@ import data from "~/db/serviceDataTwo.json";
 
 const ChooseUs = () => {
   return (
-    <section className="choose-us-one padding">
+    <section className="choose-us-one padding ">
+      <div
+        className="blog-one__pattern"
+        style={{ backgroundImage: "url(/img/pattern/blog-v1-pattern.jpg)" }}
+      ></div>
       <div className="container">
         <div className="sec-title text-center">
           <div className="sub-title">

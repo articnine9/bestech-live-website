@@ -1,9 +1,6 @@
 import Link from "next/link";
 
-const PageHeader = ({
-  title,
-  bgImage="/img/background/page-header-bg.jpg"
-}) => {
+const PageHeader = ({ title, bgImage = "/img/home/faq/2.jpg" }) => {
   return (
     <section className="page-header padding">
       <div
@@ -20,7 +17,9 @@ const PageHeader = ({
             <li>
               <span className="icon-right-arrow-5"></span>
             </li>
-            <li>{title} {title==="404"? "page not found" : ""}</li>
+            <li>
+              {title} {title === "404" ? "page not found" : ""}
+            </li>
           </ul>
         </div>
       </div>

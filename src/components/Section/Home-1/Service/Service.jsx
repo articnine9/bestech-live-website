@@ -16,21 +16,18 @@ const Service = () => {
           <div className="sec-title">
             <div className="sub-title">
               <h5>
-                <span className="icon-right-arrow-1"></span> Our Services
+                <span className="icon-right-arrow-1"></span> Our Product Range
               </h5>
             </div>
-            <h2>
-              Fast and professional <br />
-              Logistic services
-            </h2>
+            <h2>Explore Elevator Products by Category</h2>
           </div>
 
-          <div className="btn-box">
+          {/* <div className="btn-box">
             <Link className="thm-btn" href="services">
-              <span className="txt">View All Service</span>
+              <span className="txt">View All Product</span>
               <i className="icon-right-arrow"></i>
             </Link>
-          </div>
+          </div> */}
         </div>
         <Swiper
           className="thm-swiper__slider swiper-container"

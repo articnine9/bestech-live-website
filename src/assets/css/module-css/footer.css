@@ -29,7 +29,7 @@
   left: 0;
   bottom: 0;
   right: 0;
-  background: var(--thm-bg-one);
+  background: hsl(205.65deg 100% 25.69% / 90%);
   opacity: 0.95;
   content: "";
   z-index: -2;
@@ -98,7 +98,7 @@
 .footer-one__top-right .text {
   position: relative;
   display: block;
-  flex: 1;
+  flex: 4;
 }
 
 .footer-one__top-right .text p {

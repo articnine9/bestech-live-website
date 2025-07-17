@@ -105,8 +105,8 @@ const Header = () => {
                                     <span className="icon-paper-plane"></span>
                                   </div>
                                   <p>
-                                    <Link href="mailto:yourmail@email.com">
-                                      Info@example.com
+                                    <Link href="mailto:sales@bestechparts.ae">
+                                      sales@bestechparts.ae
                                     </Link>
                                   </p>
                                 </li>
@@ -116,7 +116,7 @@ const Header = () => {
                                   </div>
                                   <p>
                                     <Link href="tel:123456789">
-                                      +70 264 566 579
+                                      ‎+971582760883
                                     </Link>
                                   </p>
                                 </li>
@@ -128,22 +128,29 @@ const Header = () => {
                               <div className="header-social-links">
                                 <ul>
                                   <li>
-                                    <Link href="#">
+                                    <Link
+                                      href="https://www.facebook.com/bestech.elevators"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                    >
                                       <span className="icon-facebook"></span>
                                     </Link>
                                   </li>
                                   <li>
-                                    <Link href="#">
-                                      <span className="icon-twitter"></span>
-                                    </Link>
-                                  </li>
-                                  <li>
-                                    <Link href="#">
+                                    <Link
+                                      href="https://www.instagram.com/bestech_elevators/"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                    >
                                       <span className="icon-instagram"></span>
                                     </Link>
                                   </li>
                                   <li>
-                                    <Link href="#">
+                                    <Link
+                                      href="https://www.linkedin.com/company/bes-tech-elevators-spare-parts/"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                    >
                                       <span className="icon-linkedin"></span>
                                     </Link>
                                   </li>

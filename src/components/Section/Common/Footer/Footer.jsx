@@ -20,7 +20,7 @@ const Footer = () => {
       />
       <div
         className="footer-one__bg"
-        style={{ backgroundImage: "url(/img/footer/footer-v1-bg.jpg)" }}
+        style={{ backgroundImage: "url(/img/footer/footer-bg.jpg)" }}
       ></div>
       <div className="footer-main padding">
         <div className="container">
@@ -33,15 +33,16 @@ const Footer = () => {
               </div>
               <div className="footer-one__top-right">
                 <div className="text">
-                  <p>
-                    Subscribe to our weekly newsletter to get <br />
-                    information and promotion on your inbox
+                  <p className="text-white">
+                    Stay updated with the latest in elevator technology, spare
+                    parts, and special offers. <br />
+                    Join our mailing list for insights and exclusive deals.
                   </p>
                 </div>
                 <div className="footer-one__top-subscribe">
                   <div className="btn-box">
                     <Link className="thm-btn" href="contact">
-                      <span className="txt">Get Free Quote</span>
+                      <span className="txt"> Get Quote</span>
                       <i className="icon-right-arrow"></i>
                     </Link>
                   </div>
@@ -63,23 +64,35 @@ const Footer = () => {
 
                   <div className="footer-widget__about-inner">
                     <p className="text1">
-                      Duis aute irure dolor in reprehenderit in voluptate velit
-                      esse cillum dolore eu fugiat nulla pariatur. Excepteur
+                      At BESTECH, we specialize in supplying premium elevator
+                      spare parts across the UAE. With a strong focus on
+                      reliability, quality, and customer satisfaction, we serve
+                      residential, commercial, and industrial sectors with
+                      expert support and fast delivery.
                     </p>
-                    <p className="text2">We are available</p>
-                    <p className="text3">MOn-Sat: 10:00am to 07:30pm</p>
+                    <p className="text2">Working Hours</p>
+                    <p className="text3">Mon – Sat: 10:00 AM to 07:30 PM</p>
 
                     <div className="footer-social-link">
-                      <Link href="#">
+                      <Link
+                        href="https://www.facebook.com/bestech.elevators"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <span className="icon-facebook"></span>
                       </Link>
-                      <Link href="#">
-                        <span className="icon-twitter"></span>
-                      </Link>
-                      <Link href="#">
+                      <Link
+                        href="https://www.instagram.com/bestech_elevators/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <span className="icon-instagram"></span>
                       </Link>
-                      <Link href="#">
+                      <Link
+                        href="https://www.linkedin.com/company/bes-tech-elevators-spare-parts/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <span className="icon-linkedin"></span>
                       </Link>
                     </div>
@@ -92,28 +105,25 @@ const Footer = () => {
               >
                 <div className="single-footer-widget footer-widget__links">
                   <div className="title">
-                    <h2>Quick Links</h2>
+                    <h2>Our Product</h2>
                   </div>
 
                   <div className="footer-widget__links-box">
                     <ul>
                       <li>
-                        <Link href="about">Mission & Vision</Link>
+                        <Link href="#">Electrical</Link>
                       </li>
                       <li>
-                        <Link href="about">Get Pricing Plan</Link>
+                        <Link href="#">Mechanical</Link>
                       </li>
                       <li>
-                        <Link href="team">Meet The Team</Link>
+                        <Link href="#">Cables and Wires</Link>
                       </li>
                       <li>
-                        <Link href="about">Our Clients</Link>
+                        <Link href="#">Contactors</Link>
                       </li>
                       <li>
-                        <Link href="about">Available Positions</Link>
-                      </li>
-                      <li>
-                        <Link href="about">Job Application</Link>
+                        <Link href="#">Circuit Breakers</Link>
                       </li>
                     </ul>
                   </div>
@@ -125,28 +135,25 @@ const Footer = () => {
               >
                 <div className="single-footer-widget footer-widget__links services">
                   <div className="title">
-                    <h2>Our Services</h2>
+                    <h2>Our Product</h2>
                   </div>
 
                   <div className="footer-widget__links-box">
                     <ul>
                       <li>
-                        <Link href="road-transport">Air Freight</Link>
+                        <Link href="#">Buttons</Link>
                       </li>
                       <li>
-                        <Link href="road-transport">Ocean Freight</Link>
+                        <Link href="#">Switches</Link>
                       </li>
                       <li>
-                        <Link href="road-transport">Railway Freight</Link>
+                        <Link href="#">Door Locks</Link>
                       </li>
                       <li>
-                        <Link href="road-transport">Warehousing</Link>
+                        <Link href="#">Inverters</Link>
                       </li>
                       <li>
-                        <Link href="road-transport">Packaging</Link>
-                      </li>
-                      <li>
-                        <Link href="road-transport">Distribution</Link>
+                        <Link href="#">Displays</Link>
                       </li>
                     </ul>
                   </div>
@@ -182,8 +189,8 @@ const Footer = () => {
                         <div className="content-box">
                           <p>Email</p>
                           <h4>
-                            <Link href="mailto:yourmail@email.com">
-                              Support@example.com
+                            <Link href="mailto:sales@bestechparts.ae">
+                              sales@bestechparts.ae
                             </Link>
                           </h4>
                         </div>
@@ -195,7 +202,7 @@ const Footer = () => {
                         <div className="content-box">
                           <p>Phone</p>
                           <h4>
-                            <Link href="tel:123456789">+70 264 566 579</Link>
+                            <Link href="tel:123456789">‎+971582760883</Link>
                           </h4>
                         </div>
                       </li>
@@ -220,18 +227,18 @@ const Footer = () => {
             <div className="copyright-menu">
               <ul>
                 <li>
-                  <Link href="about">
-                    Trams &amp; Condition
+                  <Link href="#">
+                    Terms &amp; Condition
                     <span className="icon-right-arrow-5"></span>
                   </Link>
                 </li>
                 <li>
-                  <Link href="about">
+                  <Link href="#">
                     Privacy Policy <span className="icon-right-arrow-5"></span>
                   </Link>
                 </li>
                 <li>
-                  <Link href="about">
+                  <Link href="#">
                     Support <span className="icon-right-arrow-5"></span>
                   </Link>
                 </li>

@@ -26,12 +26,12 @@ const Blog = () => {
             </div>
             <h2>latest news & blog</h2>
           </div>
-          <div className="btn-box">
+          {/* <div className="btn-box">
             <Link className="thm-btn" href="blog">
               <span className="txt">View All Post</span>
               <i className="icon-right-arrow"></i>
             </Link>
-          </div>
+          </div> */}
         </div>
 
         <div className="blog-one__bottom">

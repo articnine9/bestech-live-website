@@ -24,14 +24,15 @@ export default function Home() {
         <Service />
         {/* <Video />
         <WorkingProcess /> */}
-        <Cta />
+        {/* <Cta /> */}
         <ChooseUs />
         {/* <Fact /> */}
         {/* <RecentProjects />
         <RequestService /> */}
+        <Faq />
         <Testimonial />
         {/* <Team /> */}
-        <Faq />
+
         <Blog />
       </div>
     </div>

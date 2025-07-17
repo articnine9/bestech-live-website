@@ -1,7 +1,7 @@
-"use client"
-import Link from 'next/link'
-import React from 'react'
-import Accordion from 'react-bootstrap/Accordion';
+"use client";
+import Link from "next/link";
+import React from "react";
+import Accordion from "react-bootstrap/Accordion";
 
 export default function FaqSection() {
   return (
@@ -12,7 +12,7 @@ export default function FaqSection() {
       <div
         className="faq-one__bg"
         style={{
-          backgroundImage: "url(/img/resource/faq-v2-bg.jpg)"
+          backgroundImage: "url(/img/resource/faq-v2-bg.jpg)",
         }}
       ></div>
       <div className="container">
@@ -27,49 +27,41 @@ export default function FaqSection() {
                 <h2>Frequently Asked Questions</h2>
               </div>
 
-              <Accordion defaultActiveKey="0" className='accordion-two'>
-                <Accordion.Item eventKey="0" >
-                  <Accordion.Header >
-
+              <Accordion defaultActiveKey="0" className="accordion-two">
+                <Accordion.Item eventKey="0">
+                  <Accordion.Header>
                     <h2>
                       <span>01.</span> How can I pay for your logistics
                       services?
                     </h2>
-
                   </Accordion.Header>
                   <Accordion.Body>
-
                     <span>Answer:</span>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit, sed do eiusmod tempor incididunt ut labore et
-                      dolore magna aliqua.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua.
                     </p>
-
                   </Accordion.Body>
                 </Accordion.Item>
 
                 <Accordion.Item eventKey="1">
-                  <Accordion.Header >
-
+                  <Accordion.Header>
                     <h2>
                       <span>02.</span> How can I track my shipments?
                     </h2>
-
                   </Accordion.Header>
                   <Accordion.Body>
-
                     <span>Answer:</span>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit, sed do eiusmod tempor incididunt ut labore et
-                      dolore magna aliqua.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua.
                     </p>
-
                   </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey="2">
-                  <Accordion.Header >
+                  <Accordion.Header>
                     <h2>
                       <span>03.</span>Can i specify a delivery date when
                       ordering?
@@ -78,14 +70,14 @@ export default function FaqSection() {
                   <Accordion.Body>
                     <span>Answer:</span>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit, sed do eiusmod tempor incididunt ut labore et
-                      dolore magna aliqua.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua.
                     </p>
                   </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey="3">
-                  <Accordion.Header >
+                  <Accordion.Header>
                     <h2>
                       <span>04.</span>Any advice for a first time shipper?
                     </h2>
@@ -93,9 +85,9 @@ export default function FaqSection() {
                   <Accordion.Body>
                     <span>Answer:</span>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing
-                      elit, sed do eiusmod tempor incididunt ut labore et
-                      dolore magna aliqua.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua.
                     </p>
                   </Accordion.Body>
                 </Accordion.Item>
@@ -122,7 +114,9 @@ export default function FaqSection() {
 
                 <div className="text">
                   <p>Have Any Questions</p>
-                  <h3><Link href="tel:123456789">(00) 112 365 489</Link></h3>
+                  <h3>
+                    <Link href="tel:+971582760883">+971582760883</Link>
+                  </h3>
                 </div>
               </div>
 
@@ -138,5 +132,5 @@ export default function FaqSection() {
         </div>
       </div>
     </section>
-  )
+  );
 }

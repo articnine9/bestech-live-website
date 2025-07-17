@@ -25,7 +25,7 @@ const QuestionCard = () => {
           <div className="text-box">
             <p>Call Us Now</p>
             <h2>
-              <Link href="tel:123456789">+70 264 566 579</Link>
+              <Link href="tel:123456789">‎+971582760883</Link>
             </h2>
           </div>
         </div>

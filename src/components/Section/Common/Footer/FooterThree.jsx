@@ -78,7 +78,7 @@ const FooterThree = () => {
                           <div className="content-box">
                             <p>Phone</p>
                             <h4>
-                              <Link href="tel:123456789">+70 264 566 579</Link>
+                              <Link href="tel:123456789">‎+971582760883</Link>
                             </h4>
                           </div>
                         </li>

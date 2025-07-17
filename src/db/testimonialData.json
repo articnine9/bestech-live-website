@@ -1,34 +1,34 @@
 [
   {
     "image": "/img/testimonial/testimonials-one__img1.jpg",
-    "name": "Rebecca Jr.",
-    "role": "Client",
-    "quote": "Good Services",
+    "name": "Ahmed Khan",
+    "role": "Facility Manager",
+    "quote": "Reliable Spare Parts",
     "rating": 5,
-    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit some sed quia consequuntur dolores sequi nesciunt."
+    "description": "Bestech consistently delivers high-quality elevator components. Their support team is responsive, and delivery is always on time."
   },
   {
     "image": "/img/testimonial/testimonials-one__img2.jpg",
-    "name": "Helen Rose",
-    "role": "Client",
-    "quote": "Great Work",
+    "name": "Fatima Al Zahra",
+    "role": "Building Supervisor",
+    "quote": "Excellent Service",
     "rating": 5,
-    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit some sed quia consequuntur dolores sequi nesciunt."
+    "description": "We’ve been sourcing parts from Bestech for over a year now. Their products are reliable and certified for safety — highly recommend."
   },
   {
     "image": "/img/testimonial/testimonials-one__img1.jpg",
-    "name": "John Smith.",
-    "role": "Client",
-    "quote": "Good Services",
+    "name": "Ravi Verma",
+    "role": "Procurement Officer",
+    "quote": "Trusted Supplier",
     "rating": 5,
-    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit some sed quia consequuntur dolores sequi nesciunt."
+    "description": "Bestech offers a great selection of elevator parts at competitive prices. They’re our preferred vendor in the UAE."
   },
   {
     "image": "/img/testimonial/testimonials-one__img2.jpg",
-    "name": "Helen Rose",
-    "role": "Client",
-    "quote": "Great Work",
+    "name": "Sarah Ali",
+    "role": "Operations Manager",
+    "quote": "Professional Support",
     "rating": 5,
-    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit some sed quia consequuntur dolores sequi nesciunt."
+    "description": "Their technical team helped us choose the right parts for a commercial project. Smooth experience from start to finish."
   }
 ]
