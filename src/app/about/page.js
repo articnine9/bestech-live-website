@@ -3,10 +3,10 @@ import BrandSection from "~/components/Section/About/BrandSection";
 import FactSection from "~/components/Section/About/FactSection";
 import ProjectSection from "~/components/Section/About/ProjectSection";
 import ServiceSection from "~/components/Section/About/ServiceSection";
-import FooterThree from "~/components/Section/Common/Footer/FooterThree";
+
 import PageHeader from "~/components/Section/Common/PageHeader";
 import AboutSection from "~/components/Section/About/AboutSection";
-import { HeaderFour } from "~/components/Section/Common/Header";
+
 import Team from "~/components/Section/Common/Team";
 import CtaThree from "~/components/Section/Common/Cta/CtaThree";
 
