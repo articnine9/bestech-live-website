@@ -126,7 +126,7 @@ const Product = ({ category }) => {
       <div className="container">
         <div className="row">
           <div className="col-xl-3">
-            <CategoriesCard menuName={menuData} />
+            <CategoriesCard menuName={menuData} parentLink={"products"} />
           </div>
 
           <div className="col-xl-9">

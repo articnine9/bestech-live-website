@@ -1,14 +1,4 @@
 {
-  "/brands/[slug]/page": "app/brands/[slug]/page.js",
-  "/blog/page": "app/blog/page.js",
-  "/page": "app/page.js",
-  "/products/[slug]/page": "app/products/[slug]/page.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/services/page": "app/services/page.js",
-  "/projects/page": "app/projects/page.js",
-  "/team-details/page": "app/team-details/page.js",
-  "/team/page": "app/team/page.js",
-  "/about/page": "app/about/page.js",
-  "/project-details/page": "app/project-details/page.js"
+  "/page": "app/page.js"
 }
