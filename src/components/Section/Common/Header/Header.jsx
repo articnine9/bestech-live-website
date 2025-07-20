@@ -60,341 +60,352 @@ const Header = () => {
         <div className="main-header-one__outer">
           <div className="main-header-one__right">
             <div className="container">
-              <div className="menu-area__inner">
-                <div className="mobile-nav-toggler" onClick={mobileMenuOpen}>
-                  <i className="fas fa-bars"></i>
-                </div>
-                <div className="menu-wrap">
-                  <nav className="menu-nav">
-                    <div className="main-header-one__inner">
-                      <div className="main-header-one__top">
-                        <div className="main-header-one__top-inner">
-                          <div className="main-header-one__top-left">
-                            <div className="header-contact-info">
-                              <ul>
-                                <li>
-                                  <div className="icon-box">
-                                    <span className="icon-paper-plane"></span>
-                                  </div>
-                                  <p>
-                                    <Link href="mailto:sales@bestechparts.ae">
-                                      sales@bestechparts.ae
-                                    </Link>
-                                  </p>
-                                </li>
-                                <li>
-                                  <div className="icon-box">
-                                    <span className="icon-out-call"></span>
-                                  </div>
-                                  <p>
-                                    <Link href="tel:123456789">
-                                      +971582760883
-                                    </Link>
-                                  </p>
-                                </li>
-                              </ul>
-                            </div>
-                          </div>
-                          <div className="main-header-one__top-right">
-                            <div className="inner">
-                              <div className="header-social-links">
+              <div className="mobile_div">
+                <Link href="/" className="logo w-100 d-md-none">
+                  <img src="/img/bestect-logo.png" alt="Logo" />
+                </Link>
+
+                <div className="menu-area__inner">
+                  <div className="mobile-nav-toggler" onClick={mobileMenuOpen}>
+                    <i className="fas fa-bars"></i>
+                  </div>
+                  <div className="menu-wrap">
+                    <nav className="menu-nav">
+                      <div className="main-header-one__inner">
+                        <div className="main-header-one__top">
+                          <div className="main-header-one__top-inner">
+                            <div className="main-header-one__top-left">
+                              <div className="header-contact-info">
                                 <ul>
                                   <li>
-                                    <Link
-                                      href="https://www.facebook.com/bestech.elevators"
-                                      target="_blank"
-                                      rel="noopener noreferrer"
-                                    >
-                                      <span className="icon-facebook"></span>
-                                    </Link>
+                                    <div className="icon-box">
+                                      <span className="icon-paper-plane"></span>
+                                    </div>
+                                    <p>
+                                      <Link href="mailto:sales@bestechparts.ae">
+                                        sales@bestechparts.ae
+                                      </Link>
+                                    </p>
                                   </li>
                                   <li>
-                                    <Link
-                                      href="https://www.instagram.com/bestech_elevators/"
-                                      target="_blank"
-                                      rel="noopener noreferrer"
-                                    >
-                                      <span className="icon-instagram"></span>
-                                    </Link>
-                                  </li>
-                                  <li>
-                                    <Link
-                                      href="https://www.linkedin.com/company/bes-tech-elevators-spare-parts/"
-                                      target="_blank"
-                                      rel="noopener noreferrer"
-                                    >
-                                      <span className="icon-linkedin"></span>
-                                    </Link>
+                                    <div className="icon-box">
+                                      <span className="icon-out-call"></span>
+                                    </div>
+                                    <p>
+                                      <Link href="tel:123456789">
+                                        +971582760883
+                                      </Link>
+                                    </p>
                                   </li>
                                 </ul>
                               </div>
                             </div>
+                            <div className="main-header-one__top-right">
+                              <div className="inner">
+                                <div className="header-social-links">
+                                  <ul>
+                                    <li>
+                                      <Link
+                                        href="https://www.facebook.com/bestech.elevators"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                      >
+                                        <span className="icon-facebook"></span>
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link
+                                        href="https://www.instagram.com/bestech_elevators/"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                      >
+                                        <span className="icon-instagram"></span>
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link
+                                        href="https://www.linkedin.com/company/bes-tech-elevators-spare-parts/"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                      >
+                                        <span className="icon-linkedin"></span>
+                                      </Link>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
                           </div>
                         </div>
-                      </div>
 
-                      <div className="main-header-one__bottom">
-                        <div className="main-header-one__bottom-left">
-                          <div className="navbar-wrap main-menu">
-                            <Link href="/" className="logo w-25">
-                              <img src="/img/bestect-logo.png" alt="Logo" />
-                            </Link>
-                            <ul className="navigation">
-                              <li>
-                                <Link href="/">Home</Link>
-                              </li>
-                              <li>
-                                <Link href="/about">About</Link>
-                              </li>
-                              <li className="dropdown menu-item-has-children position-static">
-                                <Link
-                                  href="#"
-                                  className="dropdown-toggle"
-                                  onMouseEnter={() => setProductsOpen(true)}
-                                  onMouseLeave={() => setProductsOpen(false)}
-                                >
-                                  Products
-                                </Link>
-                                <div
-                                  className={`dropdown-menu mega-menu ${
-                                    productsOpen ? "show" : ""
-                                  }`}
-                                  onMouseEnter={() => setProductsOpen(true)}
-                                  onMouseLeave={() => setProductsOpen(false)}
-                                >
-                                  <div className="container">
-                                    <div className="row g-4">
-                                      {/* Category 1 - Electrical Components */}
-                                      <div className="col-lg-3">
-                                        <div className="mega-menu-item">
-                                          <h5 className="mega-menu-title">
-                                            Electrical Components
-                                          </h5>
-                                          <ul className="mega-menu-list">
-                                            <li>
-                                              <Link href="/products/electrical">
-                                                Electrical
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/cables-wires">
-                                                Cables and wires
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/contactors">
-                                                Contactors
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/circuit-breakers">
-                                                Circuit breakers
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/switches">
-                                                Switches
-                                              </Link>
-                                            </li>
-                                          </ul>
+                        <div className="main-header-one__bottom">
+                          <div className="main-header-one__bottom-left">
+                            <div className="navbar-wrap main-menu">
+                              <Link href="/" className="logo w-25">
+                                <img src="/img/bestect-logo.png" alt="Logo" />
+                              </Link>
+                              <ul className="navigation">
+                                <li>
+                                  <Link href="/">Home</Link>
+                                </li>
+                                <li>
+                                  <Link href="/about">About</Link>
+                                </li>
+                                <li className="dropdown menu-item-has-children position-static">
+                                  <Link
+                                    href="#"
+                                    className="dropdown-toggle"
+                                    onMouseEnter={() => setProductsOpen(true)}
+                                    onMouseLeave={() => setProductsOpen(false)}
+                                  >
+                                    Products
+                                  </Link>
+                                  <div
+                                    className={`dropdown-menu mega-menu ${
+                                      productsOpen ? "show" : ""
+                                    }`}
+                                    onMouseEnter={() => setProductsOpen(true)}
+                                    onMouseLeave={() => setProductsOpen(false)}
+                                  >
+                                    <div className="container">
+                                      <div className="row g-4">
+                                        {/* Category 1 - Electrical Components */}
+                                        <div className="col-lg-3">
+                                          <div className="mega-menu-item">
+                                            <h5 className="mega-menu-title">
+                                              Electrical Components
+                                            </h5>
+                                            <ul className="mega-menu-list">
+                                              <li>
+                                                <Link href="/products/electrical">
+                                                  Electrical
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/cables-wires">
+                                                  Cables and wires
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/contactors">
+                                                  Contactors
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/circuit-breakers">
+                                                  Circuit breakers
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/switches">
+                                                  Switches
+                                                </Link>
+                                              </li>
+                                            </ul>
+                                          </div>
                                         </div>
-                                      </div>
 
-                                      {/* Category 2 - Door Systems */}
-                                      <div className="col-lg-3">
-                                        <div className="mega-menu-item">
-                                          <h5 className="mega-menu-title">
-                                            Door Systems
-                                          </h5>
-                                          <ul className="mega-menu-list">
-                                            <li>
-                                              <Link href="/products/door-locks">
-                                                Door Locks
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/door-wheels">
-                                                Door wheels
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/guide-shoes">
-                                                Guide shoes
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/door-sliders">
-                                                Door sliders
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/door-drives">
-                                                Door drives
-                                              </Link>
-                                            </li>
-                                          </ul>
+                                        {/* Category 2 - Door Systems */}
+                                        <div className="col-lg-3">
+                                          <div className="mega-menu-item">
+                                            <h5 className="mega-menu-title">
+                                              Door Systems
+                                            </h5>
+                                            <ul className="mega-menu-list">
+                                              <li>
+                                                <Link href="/products/door-locks">
+                                                  Door Locks
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/door-wheels">
+                                                  Door wheels
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/guide-shoes">
+                                                  Guide shoes
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/door-sliders">
+                                                  Door sliders
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/door-drives">
+                                                  Door drives
+                                                </Link>
+                                              </li>
+                                            </ul>
+                                          </div>
                                         </div>
-                                      </div>
 
-                                      {/* Category 3 - Control Systems */}
-                                      <div className="col-lg-3">
-                                        <div className="mega-menu-item">
-                                          <h5 className="mega-menu-title">
-                                            Control Systems
-                                          </h5>
-                                          <ul className="mega-menu-list">
-                                            <li>
-                                              <Link href="/products/buttons">
-                                                Buttons
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/sensors">
-                                                Sensors
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/inverters">
-                                                Inverters
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/ard">
-                                                ARD
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/signalization">
-                                                Signalization
-                                              </Link>
-                                            </li>
-                                          </ul>
+                                        {/* Category 3 - Control Systems */}
+                                        <div className="col-lg-3">
+                                          <div className="mega-menu-item">
+                                            <h5 className="mega-menu-title">
+                                              Control Systems
+                                            </h5>
+                                            <ul className="mega-menu-list">
+                                              <li>
+                                                <Link href="/products/buttons">
+                                                  Buttons
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/sensors">
+                                                  Sensors
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/inverters">
+                                                  Inverters
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/ard">
+                                                  ARD
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/signalization">
+                                                  Signalization
+                                                </Link>
+                                              </li>
+                                            </ul>
+                                          </div>
                                         </div>
-                                      </div>
 
-                                      {/* Category 4 - Other Components */}
-                                      <div className="col-lg-3">
-                                        <div className="mega-menu-item">
-                                          <h5 className="mega-menu-title">
-                                            Other Components
-                                          </h5>
-                                          <ul className="mega-menu-list">
-                                            <li>
-                                              <Link href="/products/encoders">
-                                                Encoders
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/cabinet-set">
-                                                Cabinet set
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/displays">
-                                                Displays
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/pcb-boards">
-                                                PCB Boards
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/tool-kits">
-                                                Tool kits
-                                              </Link>
-                                            </li>
-                                            <li>
-                                              <Link href="/products/keys">
-                                                Keys
-                                              </Link>
-                                            </li>
-                                          </ul>
+                                        {/* Category 4 - Other Components */}
+                                        <div className="col-lg-3">
+                                          <div className="mega-menu-item">
+                                            <h5 className="mega-menu-title">
+                                              Other Components
+                                            </h5>
+                                            <ul className="mega-menu-list">
+                                              <li>
+                                                <Link href="/products/encoders">
+                                                  Encoders
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/cabinet-set">
+                                                  Cabinet set
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/displays">
+                                                  Displays
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/pcb-boards">
+                                                  PCB Boards
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/tool-kits">
+                                                  Tool kits
+                                                </Link>
+                                              </li>
+                                              <li>
+                                                <Link href="/products/keys">
+                                                  Keys
+                                                </Link>
+                                              </li>
+                                            </ul>
+                                          </div>
                                         </div>
                                       </div>
                                     </div>
                                   </div>
-                                </div>
-                              </li>
-                              <li className="menu-item-has-children">
-                                <Link
-                                  href="#"
-                                  onMouseEnter={() => setBrandsOpen(true)}
-                                  onMouseLeave={() => setBrandsOpen(false)}
-                                >
-                                  Brands
-                                </Link>
-                                <ul
-                                  className={`sub-menu ${
-                                    brandsOpen ? "show" : ""
-                                  }`}
-                                  onMouseEnter={() => setBrandsOpen(true)}
-                                  onMouseLeave={() => setBrandsOpen(false)}
-                                >
-                                  <li>
-                                    <Link href="/brands/hyundai">
-                                      Hyundai Parts
-                                    </Link>
-                                  </li>
-                                  <li>
-                                    <Link href="/brands/kone">Kone Parts</Link>
-                                  </li>
-                                  <li>
-                                    <Link href="/brands/mitsubishi">
-                                      Mitsubishi Parts
-                                    </Link>
-                                  </li>
-                                  <li>
-                                    <Link href="/brands/monarch">
-                                      Monarch Parts
-                                    </Link>
-                                  </li>
-                                  <li>
-                                    <Link href="/brands/otis">Otis Parts</Link>
-                                  </li>
-                                  <li>
-                                    <Link href="/brands/schindler">
-                                      Schindler Parts
-                                    </Link>
-                                  </li>
-                                  <li>
-                                    <Link href="/brands/step">Step Parts</Link>
-                                  </li>
-                                  <li>
-                                    <Link href="/brands/thyssenkrupp">
-                                      Thyssenkrupp Parts
-                                    </Link>
-                                  </li>
-                                </ul>
-                              </li>
-                              <li>
-                                <Link href="/contact">Contact Us</Link>
-                              </li>
-                            </ul>
+                                </li>
+                                <li className="menu-item-has-children">
+                                  <Link
+                                    href="#"
+                                    onMouseEnter={() => setBrandsOpen(true)}
+                                    onMouseLeave={() => setBrandsOpen(false)}
+                                  >
+                                    Brands
+                                  </Link>
+                                  <ul
+                                    className={`sub-menu ${
+                                      brandsOpen ? "show" : ""
+                                    }`}
+                                    onMouseEnter={() => setBrandsOpen(true)}
+                                    onMouseLeave={() => setBrandsOpen(false)}
+                                  >
+                                    <li>
+                                      <Link href="/brands/hyundai">
+                                        Hyundai Parts
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link href="/brands/kone">
+                                        Kone Parts
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link href="/brands/mitsubishi">
+                                        Mitsubishi Parts
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link href="/brands/monarch">
+                                        Monarch Parts
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link href="/brands/otis">
+                                        Otis Parts
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link href="/brands/schindler">
+                                        Schindler Parts
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link href="/brands/step">
+                                        Step Parts
+                                      </Link>
+                                    </li>
+                                    <li>
+                                      <Link href="/brands/thyssenkrupp">
+                                        Thyssenkrupp Parts
+                                      </Link>
+                                    </li>
+                                  </ul>
+                                </li>
+                                <li>
+                                  <Link href="/contact">Contact Us</Link>
+                                </li>
+                              </ul>
+                            </div>
                           </div>
-                        </div>
-                        <div className="main-header-one__bottom-right">
-                          <div className="search-box">
-                            <Link
-                              href="#"
-                              className="main-menu__search search-toggler icon-magnifying-glass"
-                              onClick={togglePopup}
-                            ></Link>
-                          </div>
-                          <div className="btn-box">
-                            <Link className="thm-btn" href="contact">
-                              <span className="txt">Get Free Quote</span>
-                              <i className="icon-right-arrow"></i>
-                            </Link>
+                          <div className="main-header-one__bottom-right">
+                            <div className="search-box">
+                              <Link
+                                href="#"
+                                className="main-menu__search search-toggler icon-magnifying-glass"
+                                onClick={togglePopup}
+                              ></Link>
+                            </div>
+                            <div className="btn-box">
+                              <Link className="thm-btn" href="contact">
+                                <span className="txt">Get Free Quote</span>
+                                <i className="icon-right-arrow"></i>
+                              </Link>
+                            </div>
                           </div>
                         </div>
                       </div>
-                    </div>
-                  </nav>
+                    </nav>
+                  </div>
                 </div>
               </div>
-
-              {/* Mobile Menu */}
+              {/* Mobile Menu - Updated to match desktop menu */}
               <div
                 className={`mobile-menu ${
                   mobileMenu ? "mobile-menu-open" : ""
@@ -409,80 +420,289 @@ const Header = () => {
                   </div>
                   <div className="nav-logo">
                     <Link href="/">
-                      <img src="/img/resource/mobile-menu-logo3.png" />
+                      <img src="/img/bestect-logo.png" alt="Logo" />
                     </Link>
                   </div>
                   <div className="menu-outer">
                     <ul className="navigation">
                       <li>
-                        <Link href="/">Home</Link>
+                        <Link href="/" onClick={mobileMenuClose}>
+                          Home
+                        </Link>
                       </li>
                       <li>
-                        <Link href="/about">About</Link>
+                        <Link href="/about" onClick={mobileMenuClose}>
+                          About
+                        </Link>
                       </li>
                       <li className="menu-item-has-children">
                         <Link href="#">Products</Link>
                         <ul
-                          className={`sub-menu ${
-                            productsOpen
-                              ? "sub-menu-visible"
-                              : "sub-menu-hidden"
-                          }`}
+                          className={`sub-menu ${productsOpen ? "show" : ""}`}
                         >
-                          <li>
-                            <Link href="/products/smartphones">
-                              Smartphones
-                            </Link>
+                          {/* Electrical Components */}
+                          <li className="menu-item-has-children">
+                            <Link href="#">Electrical Components</Link>
+                            <ul className="sub-menu">
+                              <li>
+                                <Link
+                                  href="/products/electrical"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Electrical
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/cables-wires"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Cables and wires
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/contactors"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Contactors
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/circuit-breakers"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Circuit breakers
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/switches"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Switches
+                                </Link>
+                              </li>
+                            </ul>
                           </li>
-                          <li>
-                            <Link href="/products/laptops">Laptops</Link>
+
+                          {/* Door Systems */}
+                          <li className="menu-item-has-children">
+                            <Link href="#">Door Systems</Link>
+                            <ul className="sub-menu">
+                              <li>
+                                <Link
+                                  href="/products/door-locks"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Door Locks
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/door-wheels"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Door wheels
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/guide-shoes"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Guide shoes
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/door-sliders"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Door sliders
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/door-drives"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Door drives
+                                </Link>
+                              </li>
+                            </ul>
                           </li>
-                          <li>
-                            <Link href="/products/tvs">TVs</Link>
+
+                          {/* Control Systems */}
+                          <li className="menu-item-has-children">
+                            <Link href="#">Control Systems</Link>
+                            <ul className="sub-menu">
+                              <li>
+                                <Link
+                                  href="/products/buttons"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Buttons
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/sensors"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Sensors
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/inverters"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Inverters
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/ard"
+                                  onClick={mobileMenuClose}
+                                >
+                                  ARD
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/signalization"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Signalization
+                                </Link>
+                              </li>
+                            </ul>
                           </li>
-                          <li>
-                            <Link href="/products/audio">Audio Devices</Link>
-                          </li>
-                          <li>
-                            <Link href="/products/refrigerators">
-                              Refrigerators
-                            </Link>
-                          </li>
-                          <li>
-                            <Link href="/products/washing-machines">
-                              Washing Machines
-                            </Link>
+
+                          {/* Other Components */}
+                          <li className="menu-item-has-children">
+                            <Link href="#">Other Components</Link>
+                            <ul className="sub-menu">
+                              <li>
+                                <Link
+                                  href="/products/encoders"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Encoders
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/cabinet-set"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Cabinet set
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/displays"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Displays
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/pcb-boards"
+                                  onClick={mobileMenuClose}
+                                >
+                                  PCB Boards
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/tool-kits"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Tool kits
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/keys"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Keys
+                                </Link>
+                              </li>
+                            </ul>
                           </li>
                         </ul>
                         <div
                           className="dropdown-btn"
                           onClick={() => setProductsOpen(!productsOpen)}
                         >
-                          <span className="fas fa-angle-down"></span>
+                          <span
+                            className={`fas ${
+                              productsOpen ? "fa-angle-up" : "fa-angle-down"
+                            }`}
+                          ></span>
                         </div>
                       </li>
                       <li className="menu-item-has-children">
                         <Link href="#">Brands</Link>
-                        <ul
-                          className={`sub-menu ${
-                            brandsOpen ? "sub-menu-visible" : "sub-menu-hidden"
-                          }`}
-                        >
+                        <ul className={`sub-menu ${brandsOpen ? "show" : ""}`}>
                           <li>
-                            <Link href="/brands/apple">Apple</Link>
+                            <Link
+                              href="/brands/hyundai"
+                              onClick={mobileMenuClose}
+                            >
+                              Hyundai Parts
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/brands/samsung">Samsung</Link>
+                            <Link href="/brands/kone" onClick={mobileMenuClose}>
+                              Kone Parts
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/brands/sony">Sony</Link>
+                            <Link
+                              href="/brands/mitsubishi"
+                              onClick={mobileMenuClose}
+                            >
+                              Mitsubishi Parts
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/brands/lg">LG</Link>
+                            <Link
+                              href="/brands/monarch"
+                              onClick={mobileMenuClose}
+                            >
+                              Monarch Parts
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/brands/all-brands">
-                              View All Brands
+                            <Link href="/brands/otis" onClick={mobileMenuClose}>
+                              Otis Parts
+                            </Link>
+                          </li>
+                          <li>
+                            <Link
+                              href="/brands/schindler"
+                              onClick={mobileMenuClose}
+                            >
+                              Schindler Parts
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/brands/step" onClick={mobileMenuClose}>
+                              Step Parts
+                            </Link>
+                          </li>
+                          <li>
+                            <Link
+                              href="/brands/thyssenkrupp"
+                              onClick={mobileMenuClose}
+                            >
+                              Thyssenkrupp Parts
                             </Link>
                           </li>
                         </ul>
@@ -490,47 +710,54 @@ const Header = () => {
                           className="dropdown-btn"
                           onClick={() => setBrandsOpen(!brandsOpen)}
                         >
-                          <span className="fas fa-angle-down"></span>
+                          <span
+                            className={`fas ${
+                              brandsOpen ? "fa-angle-up" : "fa-angle-down"
+                            }`}
+                          ></span>
                         </div>
                       </li>
                       <li>
-                        <Link href="/contact">Contact Us</Link>
+                        <Link href="/contact" onClick={mobileMenuClose}>
+                          Contact Us
+                        </Link>
                       </li>
                     </ul>
                   </div>
-                  <div
-                    className="contact-info"
-                    style={{ backgroundColor: "white", zIndex: "99999" }}
-                  >
+                  <div className="contact-info">
                     <div className="icon-box">
                       <span className="icon-telephone-handle-silhouette"></span>
                     </div>
                     <p>
-                      <Link href="tel:123456789">(629) 555-0129</Link>
+                      <Link href="tel:+971582760883">+971582760883</Link>
                     </p>
                   </div>
-                  <div
-                    className="social-links"
-                    style={{ backgroundColor: "white", zIndex: "99999" }}
-                  >
+                  <div className="social-links">
                     <ul className="clearfix list-wrap">
                       <li>
-                        <Link href="#">
+                        <Link
+                          href="https://www.facebook.com/bestech.elevators"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <i className="fab fa-facebook-f"></i>
                         </Link>
                       </li>
                       <li>
-                        <Link href="#">
-                          <i className="fab fa-twitter"></i>
-                        </Link>
-                      </li>
-                      <li>
-                        <Link href="#">
+                        <Link
+                          href="https://www.instagram.com/bestech_elevators/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <i className="fab fa-instagram"></i>
                         </Link>
                       </li>
                       <li>
-                        <Link href="#">
+                        <Link
+                          href="https://www.linkedin.com/company/bes-tech-elevators-spare-parts/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <i className="fab fa-linkedin-in"></i>
                         </Link>
                       </li>

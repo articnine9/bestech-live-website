@@ -52,9 +52,9 @@ const Hero = () => {
             <div className="container">
               <div className="main-slider-one__single padding">
                 <div className="main-slider-one__content">
-                  <h3>
+                  {/* <h3>
                     <span>01.</span> Engineering Excellence
-                  </h3>
+                  </h3> */}
                   <h2>
                     Engineering Excellence. <br />
                     <span>Trusted</span> Solutions.
@@ -96,9 +96,9 @@ const Hero = () => {
             <div className="container">
               <div className="main-slider-one__single padding">
                 <div className="main-slider-one__content">
-                  <h3>
+                  {/* <h3>
                     <span>02.</span> Safety You Can Trust
-                  </h3>
+                  </h3> */}
                   <h2>
                     Safety You Can Trust. <br />
                     <span>Quality</span> You Deserve.
@@ -140,9 +140,9 @@ const Hero = () => {
             <div className="container">
               <div className="main-slider-one__single padding">
                 <div className="main-slider-one__content">
-                  <h3>
+                  {/* <h3>
                     <span>03.</span> Innovation in Motion
-                  </h3>
+                  </h3> */}
                   <h2>
                     Innovation in Motion. <br />
                     <span>Reliability</span> in Every Part.

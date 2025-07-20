@@ -362,7 +362,14 @@
 .sticky-menu .navbar-wrap ul li a {
   padding: 20px 0;
 }
-
+.mobile_div {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  gap: 50px;
+  justify-content: space-between;
+}
 /*=============================
 	Main Header Css
 ===============================*/

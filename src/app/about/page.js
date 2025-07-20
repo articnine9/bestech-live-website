@@ -16,12 +16,12 @@ const AboutPage = () => {
       <div className="fix">
         <PageHeader title="About Us" />
         <AboutSection />
-        <FactSection />
-        <ServiceSection />
+        {/* <FactSection /> */}
+        {/* <ServiceSection />
         <ProjectSection />
         <Team />
         <BlogSection />
-        <BrandSection />
+        <BrandSection /> */}
       </div>
     </div>
   );
