@@ -58,17 +58,6 @@ const Header = () => {
     <header className="main-header main-header-one">
       <div id="sticky-header" className={`menu-area ${scrollClassName}`}>
         <div className="main-header-one__outer">
-          <div className="logo-box-one">
-            <div
-              className="logo-box-one__bg"
-              style={{
-                backgroundImage: "url(/img/pattern/logo-box-one-pattern.png)",
-              }}
-            ></div>
-            <Link href="/">
-              <img src="/img/bestect-logo.png" alt="Logo" />
-            </Link>
-          </div>
           <div className="main-header-one__right">
             <div className="container">
               <div className="menu-area__inner">
@@ -79,27 +68,10 @@ const Header = () => {
                   <nav className="menu-nav">
                     <div className="main-header-one__inner">
                       <div className="main-header-one__top">
-                        <div
-                          className="main-header-one__top-pattern"
-                          style={{
-                            backgroundImage:
-                              "url(/img/pattern/header-pattern.png)",
-                          }}
-                        ></div>
                         <div className="main-header-one__top-inner">
                           <div className="main-header-one__top-left">
                             <div className="header-contact-info">
                               <ul>
-                                <li>
-                                  <div className="icon-box">
-                                    <span className="icon-pin"></span>
-                                  </div>
-                                  <p>
-                                    Shops 2-3-4, Building 1080, Fire Station
-                                    Road, Muwaileh, Near to Muwaileh bus
-                                    station, Sharjah, UAE.
-                                  </p>
-                                </li>
                                 <li>
                                   <div className="icon-box">
                                     <span className="icon-paper-plane"></span>
@@ -116,7 +88,7 @@ const Header = () => {
                                   </div>
                                   <p>
                                     <Link href="tel:123456789">
-                                      ‎+971582760883
+                                      +971582760883
                                     </Link>
                                   </p>
                                 </li>
@@ -164,6 +136,9 @@ const Header = () => {
                       <div className="main-header-one__bottom">
                         <div className="main-header-one__bottom-left">
                           <div className="navbar-wrap main-menu">
+                            <Link href="/" className="logo w-25">
+                              <img src="/img/bestect-logo.png" alt="Logo" />
+                            </Link>
                             <ul className="navigation">
                               <li>
                                 <Link href="/">Home</Link>

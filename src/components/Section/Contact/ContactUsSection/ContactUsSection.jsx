@@ -30,7 +30,6 @@ const ContactUsSection = () => {
                   </div>
 
                   <div className="text-box">
-                    <p>Call Us Toll Free</p>
                     <h2>
                       <Link href="tel:+971582760883">+971582760883</Link>
                     </h2>
@@ -43,7 +42,6 @@ const ContactUsSection = () => {
                   </div>
 
                   <div className="text-box">
-                    <p>London Office</p>
                     <h2>
                       Shops 2-3-4, Building 1080, Fire Station Road, Muwaileh,
                       Near to Muwaileh bus station, Sharjah, UAE.
@@ -57,7 +55,6 @@ const ContactUsSection = () => {
                   </div>
 
                   <div className="text-box">
-                    <p>Email Us</p>
                     <h2>
                       <Link href="mailto:sales@bestechparts.ae">
                         sales@bestechparts.ae
@@ -72,7 +69,6 @@ const ContactUsSection = () => {
                   </div>
 
                   <div className="text-box">
-                    <p>Opening Time</p>
                     <h2>
                       Thursday - Saturday <br />
                       10am : 08pm
@@ -144,12 +140,12 @@ const ContactUsSection = () => {
               </form>
               <p className="ajax-response mb-0"></p>
 
-              <div className="contact-page__form-box-text">
+              {/* <div className="contact-page__form-box-text">
                 <p>
                   <span>Nots:</span> Packages and web page editors now use Lorem
                   Ipsum as their default model textlayout.
                 </p>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
