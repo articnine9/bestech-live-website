@@ -24,10 +24,10 @@ const Hero = () => {
           nextEl: "#main-slider__swiper-button-next",
           prevEl: "#main-slider__swiper-button-prev",
         }}
-        autoplay={{
-          delay: 7000,
-        }}
-        modules={[Autoplay, Pagination, Navigation, EffectFade]}
+        // autoplay={{
+        //   delay: 7000,
+        // }}
+        // modules={[Autoplay, Pagination, Navigation, EffectFade]}
       >
         <div className="swiper-wrapper">
           <SwiperSlide className="swiper-slide">

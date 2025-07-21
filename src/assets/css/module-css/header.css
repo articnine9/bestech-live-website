@@ -566,9 +566,9 @@
 	Main Header One Css
 ===============================*/
 .main-header-one {
-  position: relative;
+  position: absolute;
   display: block;
-  background: #ffffff;
+  background: hsl(0deg 0% 100% / 80%);
   z-index: 11;
 }
 
@@ -799,7 +799,7 @@
   z-index: 1;
 }
 
-.main-header-one__bottom::before {
+/* .main-header-one__bottom::before {
   position: absolute;
   top: 0;
   left: 0;
@@ -808,7 +808,7 @@
   background: var(--thm-white);
   content: "";
   z-index: -1;
-}
+} */
 
 .main-header-one__bottom-left {
   position: relative;
