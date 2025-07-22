@@ -5744,7 +5744,7 @@ Project Details Page
   position: relative;
   display: block;
   background: var(--thm-white);
-  padding: 120px 0px 0px;
+  padding: 120px 0px;
   z-index: 1;
 }
 
@@ -5876,6 +5876,7 @@ Project Details Page
 .project-details__sidebar {
   position: relative;
   display: block;
+  height: 100%;
 }
 
 .project-details__sidebar-img {
@@ -5894,8 +5895,9 @@ Project Details Page
   display: block;
   background: #f7f7f7;
   border-radius: 4px;
-  margin-top: 70px;
+  margin-top: 0px;
   padding: 36px 40px 45px;
+  height: 100%;
 }
 
 .project-details__sidebar-project-info .title {
@@ -5920,10 +5922,11 @@ Project Details Page
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   border-bottom: 1px solid #e0e0e0;
   padding-bottom: 11px;
   margin-top: 13px;
+  gap: 20px;
 }
 
 .project-details__sidebar-project-info ul li:first-child {

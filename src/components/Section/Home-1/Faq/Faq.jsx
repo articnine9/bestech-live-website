@@ -121,7 +121,7 @@ const Faq = () => {
                 <div className="text">
                   <p>Have Any Questions</p>
                   <h3>
-                    <Link href="tel:+971582760883">+971 58 276 0883</Link>
+                    <Link href="tel:+971 54 309 3833">+971 54 309 3833</Link>
                   </h3>
                 </div>
               </div>

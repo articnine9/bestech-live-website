@@ -1,74 +1,58 @@
-
-
-const ProjectInfoCard = () => {
-    return (
-        <div className="project-details__sidebar">
-        <div className="project-details__sidebar-img">
-            <img src="/img/project/project-details-img2.jpg" alt=""/>
+const ProjectInfoCard = ({ product, category }) => {
+  return (
+    <div className="project-details__sidebar">
+      <div className="project-details__sidebar-project-info">
+        <div className="title">
+          <h2>Product Info</h2>
         </div>
-
-        <div className="project-details__sidebar-project-info">
-            <div className="title">
-                <h2>Project Info</h2>
+        <ul>
+          <li>
+            <div className="title-box">
+              <p>
+                Product Name <span>:</span>
+              </p>
             </div>
-            <ul>
-                <li>
-                    <div className="title-box">
-                        <p>Client <span>:</span></p>
-                    </div>
-                    <div className="text-box">
-                        <p>Rebecca Tylor</p>
-                    </div>
-                </li>
+            <div className="text-box">
+              <p>{product?.name ? product.name : "-"}</p>
+            </div>
+          </li>
 
-                <li>
-                    <div className="title-box">
-                        <p>Category <span>:</span></p>
-                    </div>
-                    <div className="text-box">
-                        <p>Ocean Transport</p>
-                    </div>
-                </li>
+          <li>
+            <div className="title-box">
+              <p>
+                Description <span>:</span>
+              </p>
+            </div>
+            <div className="text-box">
+              <p>{product?.description ? product.description : "-"}</p>
+            </div>
+          </li>
 
-                <li>
-                    <div className="title-box">
-                        <p>Location <span>:</span></p>
-                    </div>
-                    <div className="text-box">
-                        <p>New York to London</p>
-                    </div>
-                </li>
+          <li>
+            <div className="title-box">
+              <p>
+                Product Code <span>:</span>
+              </p>
+            </div>
+            <div className="text-box">
+              <p>{product?.code ? product.code : "-"}</p>
+            </div>
+          </li>
 
-                <li>
-                    <div className="title-box">
-                        <p>Date <span>:</span></p>
-                    </div>
-                    <div className="text-box">
-                        <p>12 November, 2023</p>
-                    </div>
-                </li>
-
-                <li>
-                    <div className="title-box">
-                        <p>Status <span>:</span></p>
-                    </div>
-                    <div className="text-box">
-                        <p>Completed</p>
-                    </div>
-                </li>
-
-                <li>
-                    <div className="title-box">
-                        <p>Tags <span>:</span></p>
-                    </div>
-                    <div className="text-box">
-                        <p>Best Delivery</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
+          <li>
+            <div className="title-box">
+              <p>
+                Category <span>:</span>
+              </p>
+            </div>
+            <div className="text-box">
+              <p>{category?.page_name ? category.page_name : "-"}</p>
+            </div>
+          </li>
+        </ul>
+      </div>
     </div>
-    );
+  );
 };
 
 export default ProjectInfoCard;

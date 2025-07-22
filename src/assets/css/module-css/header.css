@@ -853,7 +853,7 @@
 }
 
 .main-header-one__bottom-right .btn-box .thm-btn::after {
-  background-color: var(--thm-bg-two);
+  background-color: var(--thm-primary);
 }
 
 .sticky-menu .main-header-one__top {

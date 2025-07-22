@@ -1,6 +1,8 @@
 "use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import QuoteForm from "@/components/Section/Common/QuoteForm/QuoteForm";
+import { Modal, Button } from "react-bootstrap";
 
 const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
@@ -8,6 +10,7 @@ const Header = () => {
   const [brandsOpen, setBrandsOpen] = useState(false);
   const [scrollClassName, setScrollClassName] = useState("");
   const [isOverlayActive, setIsOverlayActive] = useState(false);
+  const [show, setShow] = useState(false);
 
   const mobileMenuOpen = () => {
     setMobileMenu(true);
@@ -79,7 +82,7 @@ const Header = () => {
                                 <ul>
                                   <li>
                                     <div className="icon-box">
-                                      <span className="icon-paper-plane"></span>
+                                      <span className="icon-email"></span>
                                     </div>
                                     <p>
                                       <Link href="mailto:sales@bestechparts.ae">
@@ -87,13 +90,24 @@ const Header = () => {
                                       </Link>
                                     </p>
                                   </li>
+
                                   <li>
                                     <div className="icon-box">
-                                      <span className="icon-out-call"></span>
+                                      <span className="icon-telephone-call"></span>
                                     </div>
                                     <p>
-                                      <Link href="tel:123456789">
-                                        +971582760883
+                                      <Link href="tel:065227299">
+                                        06 522 7299 — Landline
+                                      </Link>
+                                    </p>
+                                  </li>
+                                  <li>
+                                    <div className="icon-box">
+                                      <span className="icon-telephone-call"></span>
+                                    </div>
+                                    <p>
+                                      <Link href="tel:971543093833">
+                                        +971 54 309 3833 — Mobile
                                       </Link>
                                     </p>
                                   </li>
@@ -106,7 +120,7 @@ const Header = () => {
                                   <ul>
                                     <li>
                                       <Link
-                                        href="https://www.facebook.com/bestech.elevators"
+                                        href="https://www.facebook.com/bestech.spareparts"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                       >
@@ -115,7 +129,7 @@ const Header = () => {
                                     </li>
                                     <li>
                                       <Link
-                                        href="https://www.instagram.com/bestech_elevators/"
+                                        href="https://www.instagram.com/bestech_spareparts/"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                       >
@@ -393,11 +407,26 @@ const Header = () => {
                               ></Link>
                             </div>
                             <div className="btn-box">
-                              <Link className="thm-btn" href="contact">
+                              <button
+                                className="thm-btn border-0"
+                                onClick={() => setShow(true)}
+                              >
                                 <span className="txt">Get Free Quote</span>
                                 <i className="icon-right-arrow"></i>
-                              </Link>
+                              </button>
                             </div>
+                            <Modal
+                              show={show}
+                              onHide={() => setShow(false)}
+                              centered
+                            >
+                              <Modal.Header closeButton>
+                                <Modal.Title>Get Free Quote</Modal.Title>
+                              </Modal.Header>
+                              <Modal.Body>
+                                <QuoteForm />
+                              </Modal.Body>
+                            </Modal>
                           </div>
                         </div>
                       </div>

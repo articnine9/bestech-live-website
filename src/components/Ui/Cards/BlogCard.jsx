@@ -11,7 +11,7 @@ const BlogCard = ({ item }) => {
       </div>
       <div className="blog-one__single-content">
         <h2>
-          <Link href="blog-details">{item?.title}</Link>
+          <Link href={`/blog/${item?.link}`}>{item?.title}</Link>
         </h2>
         <ul className="meta-box">
           <li>

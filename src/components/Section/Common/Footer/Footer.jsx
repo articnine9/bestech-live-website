@@ -75,14 +75,14 @@ const Footer = () => {
 
                     <div className="footer-social-link">
                       <Link
-                        href="https://www.facebook.com/bestech.elevators"
+                        href="https://www.facebook.com/bestech.spareparts"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
                         <span className="icon-facebook"></span>
                       </Link>
                       <Link
-                        href="https://www.instagram.com/bestech_elevators/"
+                        href="https://www.instagram.com/bestech_spareparts/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -184,7 +184,7 @@ const Footer = () => {
                       </li>
                       <li>
                         <div className="icon-box">
-                          <span className="icon-paper-plane"></span>
+                          <span className="icon-email"></span>
                         </div>
                         <div className="content-box">
                           <p>Email</p>
@@ -195,14 +195,28 @@ const Footer = () => {
                           </h4>
                         </div>
                       </li>
+
                       <li>
                         <div className="icon-box">
                           <span className="icon-out-call"></span>
                         </div>
                         <div className="content-box">
-                          <p>Phone</p>
+                          <p>Landline</p>
                           <h4>
-                            <Link href="tel:123456789">‎+971582760883</Link>
+                            <Link href="tel:065227299">06 522 7299</Link>
+                          </h4>
+                        </div>
+                      </li>
+                      <li>
+                        <div className="icon-box">
+                          <span className="icon-mobile"></span>
+                        </div>
+                        <div className="content-box">
+                          <p>Mobile</p>
+                          <h4>
+                            <Link href="tel:971543093833">
+                              +971 54 309 3833
+                            </Link>
                           </h4>
                         </div>
                       </li>
@@ -224,7 +238,7 @@ const Footer = () => {
               </p>
             </div>
 
-            <div className="copyright-menu">
+            {/* <div className="copyright-menu">
               <ul>
                 <li>
                   <Link href="#">
@@ -243,7 +257,7 @@ const Footer = () => {
                   </Link>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

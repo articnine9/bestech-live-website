@@ -31,7 +31,11 @@ const ContactUsSection = () => {
 
                   <div className="text-box">
                     <h2>
-                      <Link href="tel:+971582760883">+971582760883</Link>
+                      <Link href="tel:065227299">06 522 7299 (Landline)</Link>
+                      <br />
+                      <Link href="tel:+971543093833">
+                        +971 54 309 3833 (Mobile)
+                      </Link>
                     </h2>
                   </div>
                 </li>

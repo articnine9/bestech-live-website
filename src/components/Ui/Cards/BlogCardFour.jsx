@@ -5,7 +5,7 @@ const BlogCardFour = ({ items, productcode }) => {
     <>
       <div className="row">
         {items.map((item, index) => {
-          const safeLink = item?.link || "#";
+          const safeLink = item?.url || "#";
 
           return (
             <div
@@ -37,7 +37,9 @@ const BlogCardFour = ({ items, productcode }) => {
 
                 <div className="blog-two__single-content">
                   <h2>
-                    <Link href={safeLink}>{item?.name || "Untitled"}</Link>
+                    <Link href={`/products${safeLink}`}>
+                      {item?.name || "Untitled"}
+                    </Link>
                   </h2>
                   <ul className="meta-box">
                     <li>
