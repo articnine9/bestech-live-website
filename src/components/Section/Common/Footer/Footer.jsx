@@ -71,7 +71,7 @@ const Footer = () => {
                       expert support and fast delivery.
                     </p>
                     <p className="text2">Working Hours</p>
-                    <p className="text3">Mon – Sat: 10:00 AM to 07:30 PM</p>
+                    <p className="text3">Mon – Sat: 08:00 AM to 06:00 PM</p>
 
                     <div className="footer-social-link">
                       <Link
@@ -100,65 +100,135 @@ const Footer = () => {
                 </div>
               </div>
               <div
-                className="col-xl-2 col-lg-6 col-md-6 wow fadeInUp"
+                className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
                 data-wow-delay=".2s"
               >
                 <div className="single-footer-widget footer-widget__links">
                   <div className="title">
-                    <h2>Our Product</h2>
+                    <h2>Our Hot Product</h2>
                   </div>
 
                   <div className="footer-widget__links-box">
-                    <ul>
-                      <li>
-                        <Link href="#">Electrical</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Mechanical</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Cables and Wires</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Contactors</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Circuit Breakers</Link>
-                      </li>
-                    </ul>
+                    <div className="row">
+                      <div className="col-md-6">
+                        <ul>
+                          <li>
+                            <Link href="/products/electrical">
+                              Electrical (BS-EL)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/mechanical">
+                              Mechanical (BS-ME)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/cables-and-wires">
+                              Cables and Wires (BS-CW)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/contactors">
+                              Contactors (BS-CT)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/circuit-breakers">
+                              Circuit Breakers (BS-CB)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/buttons">
+                              Buttons (BS-BT)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/switches">
+                              Switches (BS-SW)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/cabinet-set">
+                              Cabinet Set (BS-CS)
+                            </Link>
+                          </li>
+                          {/* <li>
+                            <Link href="/products/encoders">
+                              Encoders (BS-EN)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/door-locks">
+                              Door Locks (BS-DL)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/door-wheels">
+                              Door Wheels (BS-DW)
+                            </Link>
+                          </li> */}
+                        </ul>
+                      </div>
+                      <div className="col-md-6">
+                        <ul>
+                          <li>
+                            <Link href="/products/sensors">
+                              Sensors (BS-SR)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/guide-shoes">
+                              Guide Shoes (BS-GS)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/door-sliders">
+                              Door Sliders (BS-DS)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/inverters">
+                              Inverters (BS-IN)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/ard">ARD (BS-AR)</Link>
+                          </li>
+                          <li>
+                            <Link href="/products/door-drives">
+                              Door Drives (BS-DD)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/signalization">
+                              Signalization (BS-SG)
+                            </Link>
+                          </li>
+                          {/* <li>
+                            <Link href="/products/displays">
+                              Displays (BS-DI)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/control-boards">
+                              PCB Boards (BS-PB)
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/products/tool-kits">
+                              Tool Kits (BS-TL)
+                            </Link>
+                          </li> */}
+                          <li>
+                            <Link href="/products/keys">Keys (BS-KY)</Link>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
-              <div
-                className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
-                data-wow-delay=".3s"
-              >
-                <div className="single-footer-widget footer-widget__links services">
-                  <div className="title">
-                    <h2>Our Product</h2>
-                  </div>
 
-                  <div className="footer-widget__links-box">
-                    <ul>
-                      <li>
-                        <Link href="#">Buttons</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Switches</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Door Locks</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Inverters</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Displays</Link>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
               <div
                 className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
                 data-wow-delay=".4s"

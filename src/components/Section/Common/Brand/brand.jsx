@@ -1,6 +1,6 @@
 "use client";
 
-import BlogCardFour from "@/components/Ui/Cards/BlogCardFour";
+import BrandCardFour from "@/components/Ui/Cards/BrandCardFour";
 import CategoriesCard from "~/components/Ui/Cards/CategoriesCard";
 const menuData = {
   categories: [
@@ -69,7 +69,7 @@ const Brand = ({ category }) => {
           </div>
 
           <div className="col-xl-9">
-            <BlogCardFour items={items} productcode={code} />
+            <BrandCardFour items={items} productcode={code} />
           </div>
         </div>
       </div>

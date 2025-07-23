@@ -14,13 +14,13 @@ const ContactUsSection = () => {
           <div className="col-xl-5">
             <div className="contact-page__contact-info">
               <div className="sec-title-style3">
-                <div className="sub-title">
+                {/* <div className="sub-title">
                   <div className="icon">
                     <img src="/img/icon/title-marker-4.png" alt="" />
                   </div>
                   <h5>Get In Touch</h5>
-                </div>
-                <h2>Contact Us Today</h2>
+                </div> */}
+                <h2>Contact Us</h2>
               </div>
 
               <ul>
@@ -74,8 +74,8 @@ const ContactUsSection = () => {
 
                   <div className="text-box">
                     <h2>
-                      Thursday - Saturday <br />
-                      10am : 08pm
+                      Monday - Saturday <br />
+                      08am : 06pm
                     </h2>
                   </div>
                 </li>
@@ -136,7 +136,7 @@ const ContactUsSection = () => {
                         className="thm-btn"
                         data-loading-text="Please wait..."
                       >
-                        <span className="txt">Sand Massage</span>
+                        <span className="txt">Send Massage</span>
                       </button>
                     </div>
                   </div>

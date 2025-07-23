@@ -322,7 +322,7 @@
 }
 
 .footer-widget__links-box ul li a:hover {
-  color: var(--thm-primary);
+  color: var(--thm-white);
 }
 
 .footer-widget__links-box ul li a::before {
@@ -425,7 +425,7 @@
 }
 
 .footer-widget__contact-box ul li .content-box h4 a:hover {
-  color: var(--thm-primary);
+  color: var(--thm-white);
 }
 
 .footer-bottom {
@@ -597,7 +597,7 @@
 }
 
 .footer-one--two .footer-widget__links-box ul li a:hover {
-  color: var(--thm-primary);
+  color: var(--thm-white);
 }
 
 .single-footer__newsletter {

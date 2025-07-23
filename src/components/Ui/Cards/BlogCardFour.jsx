@@ -19,7 +19,7 @@ const BlogCardFour = ({ items, productcode }) => {
                     <div className="name">
                       <p>{item?.name}</p>
                     </div>
-                    {/* Optional overlay image */}
+
                     <div className="overlay-img">
                       <img
                         src="https://placehold.co/400x250"
@@ -42,11 +42,7 @@ const BlogCardFour = ({ items, productcode }) => {
                     </Link>
                   </h2>
                   <ul className="meta-box">
-                    <li>
-                      <Link href="#">
-                        {item?.description || "No description"}
-                      </Link>
-                    </li>
+                    <li>{item?.description || "No description"}</li>
                     <li>-</li>
                     <li>{item?.code || "Unknown Code"}</li>
                   </ul>
