@@ -209,7 +209,7 @@ const Footer = () => {
                       </li>
                       <li>
                         <div className="icon-box">
-                          <span className="icon-mobile"></span>
+                          <span className="icon-out-call"></span>
                         </div>
                         <div className="content-box">
                           <p>Mobile</p>
