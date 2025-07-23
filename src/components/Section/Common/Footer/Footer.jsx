@@ -165,7 +165,7 @@ const Footer = () => {
               >
                 <div className="single-footer-widget footer-widget__contact">
                   <div className="title">
-                    <h2>Gent in Touch</h2>
+                    <h2>Get in Touch</h2>
                   </div>
                   <div className="footer-widget__contact-box">
                     <ul>
