@@ -20,7 +20,10 @@ export default function Page({ params }) {
     <div className="body-dark-bg">
       <div className="fix">
         <PageHeader title={matchedCategory.page_name} />
+
         <Brand category={matchedCategory} />
+
+        {/* 🔽 Bootstrap 5 Styled Note Section */}
       </div>
     </div>
   );

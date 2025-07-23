@@ -53,6 +53,15 @@ const Brand = ({ category }) => {
       className="blog-two blog-two--three blog-two--three--blog padding"
       id="blog-cta"
     >
+      <section className="container">
+        <div className="alert alert-warning" role="alert">
+          <strong>Note:</strong> This is a general reference list of popular
+          spare parts and part numbers used globally across major elevator
+          brands. We are not affiliated with the listed manufacturers and all
+          items and part numbers are used solely for cross-reference and
+          informational purposes.
+        </div>
+      </section>
       <div className="container">
         <div className="row">
           <div className="col-xl-3">
