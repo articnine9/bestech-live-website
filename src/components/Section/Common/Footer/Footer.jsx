@@ -41,7 +41,7 @@ const Footer = () => {
                 </div>
                 <div className="footer-one__top-subscribe">
                   <div className="btn-box">
-                    <Link className="thm-btn" href="contact">
+                    <Link className="thm-btn" href="/contact">
                       <span className="txt"> Get Quote</span>
                       <i className="icon-right-arrow"></i>
                     </Link>
