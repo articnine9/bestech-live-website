@@ -1,8 +1,18 @@
+const { fetchProductUrls } = require("./lib/fetchProductSlugs");
+
 module.exports = {
   siteUrl: "https://bestechparts.ae",
-  generateRobotsTxt: true, // Adds robots.txt automatically
-  sitemapSize: 5000, // Split sitemap if >5k URLs
+  generateRobotsTxt: true,
   changefreq: "daily",
   priority: 0.7,
-  exclude: ["/secret-page", "/admin/*"], // Optional excludes
+
+  additionalPaths: async (config) => {
+    const slugs = fetchProductUrls();
+
+    return slugs.map((slug) => ({
+      loc: `/products/${slug}`,
+      changefreq: "weekly",
+      priority: 0.8,
+    }));
+  },
 };
