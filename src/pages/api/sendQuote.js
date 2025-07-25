@@ -26,7 +26,7 @@ export default async function handler(req, res) {
   try {
     await transporter.sendMail({
       from: `"Quote Form" <${process.env.EMAIL_USER}>`,
-      to: "bestechuae@gmail.com", // Your email address
+      to: "admin@bestechparts.ae, sales@bestechparts.ae",
       subject: "New Quote Request",
       html: `
         <h2>New Quote Request</h2>
