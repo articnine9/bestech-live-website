@@ -1,6 +1,54 @@
+"use client";
+import { useState } from "react";
 import Link from "next/link";
 
 const ContactUsSection = () => {
+  const [formData, setFormData] = useState({
+    name: "",
+    email: "",
+    number: "",
+    company: "",
+    message: "",
+  });
+
+  const [isSending, setIsSending] = useState(false);
+  const [responseMsg, setResponseMsg] = useState("");
+
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setIsSending(true);
+    setResponseMsg("");
+
+    try {
+      const res = await fetch("/api/sendContact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
+      });
+
+      const result = await res.json();
+
+      if (!res.ok) throw new Error(result.message || "Submission failed");
+
+      setResponseMsg("Message sent successfully!");
+      setFormData({
+        name: "",
+        email: "",
+        number: "",
+        company: "",
+        message: "",
+      });
+    } catch (err) {
+      console.error(err);
+      setResponseMsg("Failed to send message. Please try again.");
+    } finally {
+      setIsSending(false);
+    }
+  };
   return (
     <section className="contact-page padding">
       <div className="shape1 float-bob-y">
@@ -89,7 +137,7 @@ const ContactUsSection = () => {
                 <h2>Feel free to write Us</h2>
               </div>
 
-              <form id="contact-form" action="/inc/mail.php" method="POST">
+              <form id="contact-form" onSubmit={handleSubmit}>
                 <div className="row">
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div className="contact-page__input-box">
@@ -97,6 +145,8 @@ const ContactUsSection = () => {
                         type="text"
                         placeholder="Full Name"
                         name="name"
+                        value={formData.name}
+                        onChange={handleChange}
                         required
                       />
                     </div>
@@ -107,6 +157,8 @@ const ContactUsSection = () => {
                         type="email"
                         placeholder="Email"
                         name="email"
+                        value={formData.email}
+                        onChange={handleChange}
                         required
                       />
                     </div>
@@ -115,34 +167,56 @@ const ContactUsSection = () => {
                 <div className="row">
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div className="contact-page__input-box">
-                      <input type="number" placeholder="Mobile" name="number" />
+                      <input
+                        type="text"
+                        placeholder="Mobile"
+                        name="number"
+                        value={formData.number}
+                        onChange={handleChange}
+                      />
                     </div>
                   </div>
 
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div className="contact-page__input-box">
-                      <input type="text" placeholder="Company" name="company" />
+                      <input
+                        type="text"
+                        placeholder="Company"
+                        name="company"
+                        value={formData.company}
+                        onChange={handleChange}
+                      />
                     </div>
                   </div>
                 </div>
                 <div className="row">
                   <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                     <div className="contact-page__input-box">
-                      <textarea name="message" placeholder="Messege"></textarea>
+                      <textarea
+                        name="message"
+                        placeholder="Message"
+                        value={formData.message}
+                        onChange={handleChange}
+                        required
+                      ></textarea>
                     </div>
                     <div className="contact-page__btn">
                       <button
                         type="submit"
                         className="thm-btn"
-                        data-loading-text="Please wait..."
+                        disabled={isSending}
                       >
-                        <span className="txt">Send Massage</span>
+                        <span className="txt">
+                          {isSending ? "Sending..." : "Send Message"}
+                        </span>
                       </button>
                     </div>
                   </div>
                 </div>
               </form>
-              <p className="ajax-response mb-0"></p>
+              {responseMsg && (
+                <p className="ajax-response mt-3">{responseMsg}</p>
+              )}
 
               {/* <div className="contact-page__form-box-text">
                 <p>

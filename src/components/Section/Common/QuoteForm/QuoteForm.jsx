@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function QuoteForm() {
+export default function QuoteForm({ onSuccess }) {
   const [formData, setFormData] = useState({
     name: "",
     company: "",
@@ -8,6 +8,7 @@ export default function QuoteForm() {
     email: "",
     message: "",
   });
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
   const [errors, setErrors] = useState({});
 
@@ -30,27 +31,49 @@ export default function QuoteForm() {
     });
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
+
     const validationErrors = validate();
     if (Object.keys(validationErrors).length > 0) {
       setErrors(validationErrors);
       return;
     }
 
-    // Form is valid — handle submission logic here
-    console.log("Form submitted:", formData);
-    alert("Quote submitted successfully!");
+    setIsSubmitting(true); // Start loading
 
-    // Reset form
-    setFormData({
-      name: "",
-      company: "",
-      phone: "",
-      email: "",
-      message: "",
-    });
-    setErrors({});
+    try {
+      const response = await fetch("/api/sendQuote", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
+      });
+
+      const result = await response.json();
+
+      if (!response.ok) {
+        throw new Error(result.message || "Something went wrong");
+      }
+
+      // ✅ Notify parent and reset
+      onSuccess(
+        "Quote submitted successfully! Our team will contact you soon."
+      );
+      setFormData({
+        name: "",
+        company: "",
+        phone: "",
+        email: "",
+        message: "",
+      });
+      setErrors({});
+    } catch (err) {
+      console.error(err);
+
+      onSuccess("Failed to send the quote. Please try again later.");
+    } finally {
+      setIsSubmitting(false); // Stop loading
+    }
   };
 
   return (
@@ -118,8 +141,12 @@ export default function QuoteForm() {
         ></textarea>
       </div>
 
-      <button type="submit" className="btn btn-dark w-100">
-        Submit
+      <button
+        type="submit"
+        className="btn btn-dark w-100"
+        disabled={isSubmitting}
+      >
+        {isSubmitting ? "Sending..." : "Submit"}
       </button>
 
       <p className="mt-3 text-muted text-center" style={{ fontSize: "0.8rem" }}>

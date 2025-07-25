@@ -12,6 +12,15 @@ const Header = () => {
   const [isOverlayActive, setIsOverlayActive] = useState(false);
   const [show, setShow] = useState(false);
 
+  const [quoteMessage, setQuoteMessage] = useState("");
+  const [showQuoteSuccess, setShowQuoteSuccess] = useState(false);
+
+  const handleQuoteSuccess = (message) => {
+    setShow(false); // Close the form modal
+    setQuoteMessage(message); // Set the message
+    setShowQuoteSuccess(true); // Show the success dialog modal
+  };
+
   const mobileMenuOpen = () => {
     setMobileMenu(true);
     setIsOverlayActive(true);
@@ -424,7 +433,7 @@ const Header = () => {
                                 <Modal.Title>Get Free Quote</Modal.Title>
                               </Modal.Header>
                               <Modal.Body>
-                                <QuoteForm />
+                                <QuoteForm onSuccess={handleQuoteSuccess} />
                               </Modal.Body>
                             </Modal>
                           </div>
@@ -830,6 +839,26 @@ const Header = () => {
           </form>
         </div>
       </div>
+      <Modal
+        show={showQuoteSuccess}
+        onHide={() => setShowQuoteSuccess(false)}
+        centered
+      >
+        <Modal.Header closeButton>
+          <Modal.Title>Success</Modal.Title>
+        </Modal.Header>
+        <Modal.Body>
+          <p>{quoteMessage}</p>
+        </Modal.Body>
+        <Modal.Footer>
+          <button
+            className="btn btn-success"
+            onClick={() => setShowQuoteSuccess(false)}
+          >
+            Close
+          </button>
+        </Modal.Footer>
+      </Modal>
     </header>
   );
 };
