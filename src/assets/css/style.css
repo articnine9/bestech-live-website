@@ -6268,3 +6268,7 @@ Project Two Project Details
 .footer-one__top-inner .logo-box a img {
   width: 175px;
 }
+.navbar-wrap ul.mega-menu-list li a:hover {
+  color: var(--thm-white);
+  background: var(--thm-primary);
+}

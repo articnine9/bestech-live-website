@@ -106,7 +106,7 @@ export default function QuoteForm({ onSuccess }) {
         />
       </div>
 
-      <div className="mb-1">
+      <div className="mb-3">
         <input
           type="text"
           className="form-control"
@@ -118,7 +118,7 @@ export default function QuoteForm({ onSuccess }) {
         {errors.phone && <div className="text-danger mt-1">{errors.phone}</div>}
       </div>
 
-      <div className="mb-1">
+      <div className="mb-3">
         <input
           type="email"
           className="form-control"

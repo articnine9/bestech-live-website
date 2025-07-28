@@ -16,6 +16,7 @@ const DetailsSection = ({ product, category }) => {
           z-index: 3;
         }
       `}</style>
+
       <div className="container">
         <div className="row">
           {/* <!--Start Services Details Page Content--> */}

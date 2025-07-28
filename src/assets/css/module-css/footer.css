@@ -325,24 +325,25 @@
   color: var(--thm-white);
 }
 
-.footer-widget__links-box ul li a::before {
+.footer-widget__links-box ul li ::before {
   position: absolute;
   top: 7px;
-  right: -23px;
-  color: var(--thm-primary);
+  right: auto;
+  color: #ced8e0;
   font-size: 15px;
   line-height: 15px;
   font-family: "icomoon" !important;
   content: "\e936";
   transform: translateX(-10px);
-  opacity: 0;
+  opacity: 1;
   transition: all 0.2s linear;
+  left: -10px;
 }
 
-.footer-widget__links-box ul li a:hover::before {
-  transform: translateX(0px);
+/* .footer-widget__links-box ul li a:hover::before {
+  transform: translateX(-10px);
   opacity: 1;
-}
+} */
 
 .footer-widget__links.services {
   position: relative;

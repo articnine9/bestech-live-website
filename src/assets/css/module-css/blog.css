@@ -783,7 +783,7 @@ Sidebar Css
 
 .sidebar__services-list li a:hover,
 .sidebar__services-list li a.active {
-  color: var(--thm-black);
+  color: var(--thm-white);
 }
 
 .sidebar__services-list li a::before {
@@ -829,7 +829,7 @@ Sidebar Css
 
 .sidebar__services-list li a:hover span,
 .sidebar__services-list li a.active span {
-  background: var(--thm-black);
+  background: var(--thm-white);
   color: var(--thm-primary);
 }
 

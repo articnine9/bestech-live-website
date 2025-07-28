@@ -22,15 +22,15 @@ const BlogCardFour = ({ items, productcode }) => {
 
                     <div className="overlay-img">
                       <img
-                        src="https://placehold.co/400x250"
-                        alt={item?.name || "Blog image"}
+                        src={item?.image || "https://placehold.co/400x250"} // Updated to use item.image
+                        alt={item?.name || "Product image"}
                       />
                     </div>
                   </div>
                   <div className="inner">
                     <img
-                      src={item?.img2 || "https://placehold.co/400x250"}
-                      alt={item?.name || "Blog image"}
+                      src={item?.image || "https://placehold.co/400x250"} // Updated to use item.image
+                      alt={item?.name || "Product image"}
                     />
                   </div>
                 </div>
@@ -48,7 +48,7 @@ const BlogCardFour = ({ items, productcode }) => {
                   </ul>
 
                   <div className="btn-box">
-                    <Link href={safeLink}>
+                    <Link href={`/products${safeLink}`}>
                       Read More <span className="icon-right-arrow-5"></span>
                     </Link>
                   </div>
