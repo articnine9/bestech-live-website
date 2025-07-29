@@ -9,7 +9,7 @@
         "description": "100pcs box",
         "code": "BS-EU0001",
         "url": "/connectors/connector-pt2-5-bs-eu0001",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/connectors/wire-6mm/1.jpg"
       },
       {
         "name": "Connector PT6",
@@ -128,42 +128,42 @@
         "description": "",
         "code": "BS-CT0001",
         "url": "/contactors/contactor-ac110v-25a-1no-1nc",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/contactors/contactor-ac110v-25a-1no-1nc/1.jpg"
       },
       {
         "name": "Contactor AC110V 32A 1NO+1NC",
         "description": "",
         "code": "BS-CT0002",
         "url": "/contactors/contactor-ac110v-32a-1no-1nc",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/contactors/contactor-ac110v-32a-1no-1nc/1.jpg"
       },
       {
         "name": "Contactor AC110V 50A 1NO+1NC",
         "description": "",
         "code": "BS-CT0003",
         "url": "/contactors/contactor-ac110v-50a-1no-1nc",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/contactors/contactor-ac110v-50a-1no-1nc/1.jpg"
       },
       {
         "name": "Contactor AC110V 65A 1NO+1NC",
         "description": "",
         "code": "BS-CT0004",
         "url": "/contactors/contactor-ac110v-65a-1no-1nc",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/contactors/contactor-ac110v-65a-1no-1nc/1.jpg"
       },
       {
         "name": "Contactor DC110V 18A",
         "description": "",
         "code": "BS-CT0005",
         "url": "/contactors/contactor-dc110v-18a",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/contactors/contactor-dc110v-18a/1.jpg"
       },
       {
         "name": "Contactor DC110V 32A",
         "description": "",
         "code": "BS-CT0006",
         "url": "/contactors/contactor-dc110v-32a",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/contactors/contactor-dc110v-32a/1.jpg"
       },
       {
         "name": "Auxiliary F4-22 2NO+2NC",
@@ -184,35 +184,35 @@
         "description": "",
         "code": "BS-CB0001",
         "url": "/circuit-breakers/mcb-63a-4p",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/circuit-breakers/mcb-63a-4p/1.jpg"
       },
       {
         "name": "MCB 6A 1P",
         "description": "",
         "code": "BS-CB0002",
         "url": "/circuit-breakers/mcb-6a-1p",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/circuit-breakers/mcb-6a-1p/1.jpg"
       },
       {
         "name": "MCB 10A 1P",
         "description": "",
         "code": "BS-CB0003",
         "url": "/circuit-breakers/mcb-10a-1p",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/circuit-breakers/mcb-10a-1p/1.jpg"
       },
       {
         "name": "MCB 6A 2P",
         "description": "",
         "code": "BS-CB0004",
         "url": "/circuit-breakers/mcb-6a-2p",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/circuit-breakers/mcb-6a-2p/1.jpg"
       },
       {
         "name": "MCB 10A 2P",
         "description": "",
         "code": "BS-CB0005",
         "url": "/circuit-breakers/mcb-10a-2p",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/circuit-breakers/mcb-10a-2p/1.jpg"
       }
     ]
   },
@@ -702,21 +702,21 @@
         "description": "",
         "code": "BS-EL0001",
         "url": "/electrical/connector-pt2-5",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/electrical/connector-pt2-5/1.jpg"
       },
       {
         "name": "Connector PT6",
         "description": "",
         "code": "BS-EL0002",
         "url": "/electrical/connector-pt6",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/electrical/connector-pt6/1.jpg"
       },
       {
         "name": "Connector PT10",
         "description": "",
         "code": "BS-EL0003",
         "url": "/electrical/connector-pt10",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/electrical/connector-pt10/1.jpg"
       },
       {
         "name": "Inspection box",
