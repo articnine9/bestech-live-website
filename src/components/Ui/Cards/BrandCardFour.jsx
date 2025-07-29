@@ -42,9 +42,9 @@ const BrandCardFour = ({ items, productcode }) => {
                     {/* </Link> */}
                   </h2>
                   <ul className="meta-box">
-                    <li>{item?.description || "No description"}</li>
-                    <li>-</li>
-                    <li>{item?.code || "Unknown Code"}</li>
+                    {item?.description && <li>{item.description}</li>}
+                    {item?.description && item?.code && <li>-</li>}
+                    {item?.code && <li>{item.code}</li>}
                   </ul>
 
                   {/* <div className="btn-box">
