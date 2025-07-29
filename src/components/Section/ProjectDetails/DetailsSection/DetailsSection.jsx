@@ -23,7 +23,12 @@ const DetailsSection = ({ product, category }) => {
           <div className="col-xl-8">
             <div className="services-details-page__content">
               <div className="services-details-page__content-img1">
-                <img src="/img/project/project-details-img1.jpg" alt="#" />
+                <img
+                  src={
+                    product?.image || "/img/project/project-details-img1.jpg"
+                  }
+                  alt={product?.name || "Product image"}
+                />
               </div>
 
               <div className="services-details-page__content-text1">
