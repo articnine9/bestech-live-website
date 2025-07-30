@@ -5,35 +5,35 @@
     "code": "HY",
     "items": [
       {
-        "name": "Push Button, 24V - Installation Hole Size:34",
+        "name": "Push Button, 24V",
         "code": "HYBT01 - A4J16002 A2"
       },
       {
-        "name": "Push Button - Installation Hole Size:33",
+        "name": "Push Button, Installation Hole Size: 34",
         "code": "HYBT02 - AK32"
       },
       {
-        "name": "Push Button - Installation Hole Size:33",
+        "name": "Push Button, Installation Hole Size: 33",
         "code": "HYBT03 - AK-4B"
       },
       {
-        "name": "Door Roller - Φ66 X 15 X 6202",
+        "name": "Door Roller - Ø66 X 15 X 6202",
         "code": "HYWR01 - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ45 X 15 X Φ12",
+        "name": "Door Roller - Ø45 X 15 X Ø12",
         "code": "HYWR02 - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ84 X Φ77 X 17 X M10",
+        "name": "Door Roller - Ø84 X Ø77 X 17 X M10",
         "code": "HYWR03 - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ30(6200) X 33 X M6",
+        "name": "Door Roller - Ø30(6200) X 33 X M6",
         "code": "HYWR04 - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ70 X 10 X 6001",
+        "name": "Door Roller - Ø70 X 10 X 6001",
         "code": "HYWR05 - (OEM not listed)"
       },
       {
@@ -69,88 +69,120 @@
         "code": "HYLO05 - (OEM not listed)"
       },
       {
-        "name": "Limited Switch",
-        "code": "HYSS01 - ID2-F8-AS1/AS2"
+        "name": "Limited Switch - ID2-F8-AS1/AS2",
+        "code": "HYSS01 - (OEM not listed)"
       },
       {
-        "name": "Limited Switch",
-        "code": "HYSS02 - BUP-50-HD"
+        "name": "Limited Switch - BUP-50-HD",
+        "code": "HYSS02 - (OEM not listed)"
       },
       {
-        "name": "Limited Switch",
-        "code": "HYSS03 - BUP-50-H(BUD-50-H)"
+        "name": "Limited Switch - BUP-50(HD-UIO-HD)",
+        "code": "HYSS03 - (OEM not listed)"
       },
       {
-        "name": "Proximity Switch",
-        "code": "HYSS04 - PF125/PFI25-8DN"
+        "name": "Limited Switch - PF125/PF125-BDN",
+        "code": "HYSS04 - (OEM not listed)"
       },
       {
-        "name": "Load Sensors",
-        "code": "HYSS05 - HLC-2004 STVF51"
+        "name": "Load Sensors - HLC-2004 5TVFS",
+        "code": "HYSS05 - (OEM not listed)"
       },
       {
         "name": "Service Tool - STVF 9",
-        "code": "HYT01 - HHT-WB100"
+        "code": "HYTT01 - HHT-WB100"
       },
       {
         "name": "Display Board - STVF5/STVF7",
-        "code": "HYD101 - HIPD-CAN"
+        "code": "HYDI01 - HIPD-CAN"
       },
       {
         "name": "Display Board - STVF5/STVF7",
-        "code": "HYD102 - HIP-CMO"
+        "code": "HYDI02 - HIP-CMO"
       },
       {
         "name": "Display Board - STVF5/STVF7",
-        "code": "HYD103 - OPB-CAN-HNDICATOR"
+        "code": "HYDI03 - OPB-CAN-INDICATOR"
       },
       {
         "name": "Display Board - STVF5/STVF7",
-        "code": "HYD104 - HIPD-CAN-LCD"
+        "code": "HYDI04 - HIPD-CAN-LCD"
       },
       {
         "name": "Display Board - STVF5/STVF8",
-        "code": "HYD105 - HPID-CAN"
+        "code": "HYDI05 - HIPD-CAN"
       },
       {
-        "name": "PC Board",
+        "name": "Display Board",
+        "code": "HYDI06 - HIPD-CANV3.1"
+      },
+      {
+        "name": "Display Board",
+        "code": "HYDI07 - HIPD-CANV3.2"
+      },
+      {
+        "name": "Display Board",
+        "code": "HYDI08 - COLTD125EG"
+      },
+      {
+        "name": "PC Board - HIDC-N",
         "code": "HYPCB01 - HIDC-N"
       },
       {
-        "name": "PC Board - BOARD 204C1699 H22",
+        "name": "PC Board - BOARD 204C1869 H22",
         "code": "HYPCB02 - MPCU"
       },
       {
-        "name": "PC Board",
+        "name": "PC Board - OPB-340",
         "code": "HYPCB03 - OPB-340"
       },
       {
-        "name": "PC Board",
+        "name": "PC Board - PWR",
         "code": "HYPCB04 - PWR"
       },
       {
-        "name": "PC Board",
+        "name": "PC Board - TCB-3",
         "code": "HYPCB05 - TCB-3"
       },
       {
-        "name": "PC Board - STVF7,DWG N 20400065",
+        "name": "PC Board - M33 BD REV .D1",
+        "code": "HYPCB06 - M33 BD REV .D1"
+      },
+      {
+        "name": "PC Board - MCU, STVF7/DWG N 20400068",
         "code": "HYPCB07 - MCU"
       },
       {
-        "name": "PC Board - STVF7",
-        "code": "HYPCB08 - TNP7A"
+        "name": "PC Board - TNPTA",
+        "code": "HYPCB08 - TNPTA"
       },
       {
-        "name": "PC Board - STVF5/STVF7",
+        "name": "PC Board - OPB-340, STVF5/STVF7",
         "code": "HYPCB09 - OPB-340"
       },
       {
-        "name": "PC Board - STVF5/STVF7",
+        "name": "PC Board - CCB-7",
         "code": "HYPCB10 - CCB-7"
       },
       {
-        "name": "PC Board - STVF5/STVF8",
-        "code": "HYPCB11 - HIVD900SS"
+        "name": "PC Board - H1VD90SS, STVF5/STVF7",
+        "code": "HYPCB11 - H1VD90SS"
+      },
+      {
+        "name": "PC Board - PSDM",
+        "code": "HYPCB12 - PSDM"
+      },
+      {
+        "name": "PC Board - HIOP 158F RAG CAUTION",
+        "code": "HYPCB13 - (OEM not listed)"
+      },
+      {
+        "name": "PC Board - TPB-2",
+        "code": "HYPCB14 - TPB-2"
+      },
+      {
+        "name": "PC Board - XDDY-12V V3.3",
+        "code": "HYPCB15 - XDDY-12V V3.3"
       }
     ]
   },
@@ -160,72 +192,184 @@
     "code": "KN",
     "items": [
       {
-        "name": "Push Button Round - KD850",
-        "code": "KOBT01 - KD850"
+        "name": "Push Button Round - KD550",
+        "code": "KOBT01 - KD550"
       },
       {
-        "name": "Push Button Round - KD850",
-        "code": "KOBT02 - KD850"
+        "name": "Push Button Round - KD550",
+        "code": "KOBT02 - KD550"
       },
       {
-        "name": "Push Button Round - KD8300",
-        "code": "KOBT03 - KD8300"
+        "name": "Push Button Round - KDS300",
+        "code": "KOBT03 - KDS300"
       },
       {
-        "name": "Push Button Square - KD8300",
-        "code": "KOBT04 - KD8300"
+        "name": "Push Button Square - KDS300",
+        "code": "KOBT04 - KDS300"
       },
       {
         "name": "Button Plate",
         "code": "KOBT05 - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ68 X 17 X M10",
+        "name": "Door Roller - Ø68 X 17 X M10",
         "code": "KOWR01 - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ94 X 19 X M8",
+        "name": "Door Roller - Ø94 X 19 X M8",
         "code": "KOWR02A - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ94 X 19 X M10",
+        "name": "Door Roller - Ø94 X 19 X M10",
         "code": "KOWR02B - (OEM not listed)"
       },
       {
-        "name": "Car Door Roller - Φ50 X 14 X M8",
+        "name": "Car Door Roller - Ø60 X 14 X M8",
         "code": "KOWR03 - (OEM not listed)"
       },
       {
-        "name": "Car Door Roller - Φ46 X Φ39 X 16 X M12",
+        "name": "Car Door Roller - Ø64 X Ø39 X 16 X M12",
         "code": "KOWR04 - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ74 X 16 X M10",
+        "name": "Door Down Roller - Ø74 X 16 X M10",
         "code": "KOWR05 - (OEM not listed)"
       },
       {
-        "name": "Door Down Roller - Φ46 X Φ39 X 16 X M10",
+        "name": "Door Down Roller - Ø64 X Ø39 X 16 X M10",
         "code": "KOWR06 - (OEM not listed)"
       },
       {
-        "name": "Door Roller - Φ45 X 38 X 16 X M10",
+        "name": "Door Down Roller - Ø45 X 38 X 12 M10",
         "code": "KOWR07 - (OEM not listed)"
       },
       {
-        "name": "Door Down Roller - Φ36 X 32 X 14 X M10",
+        "name": "Door Down Roller - Ø70 X 17 X M10",
         "code": "KOWR08 - (OEM not listed)"
       },
       {
-        "name": "Door Down Roller - Φ44 X 38 X 12 X M8",
+        "name": "Door Down Roller - Ø85 X 32 X 14 X M8",
         "code": "KOWR09 - (OEM not listed)"
       },
       {
-        "name": "Sheave - Φ50 X Φ44 X 12 X Φ10",
+        "name": "Door Down Roller - Ø50 X 42 X 12 Ø10",
         "code": "KOWR10 - (OEM not listed)"
       },
       {
-        "name": "Sheave - Φ45 X 11 X Φ10",
+        "name": "Sheave - Ø45 X 11 X Ø10",
         "code": "KOWR11 - (OEM not listed)"
+      },
+      {
+        "name": "Door Down Roller - Ø74 X 17 X M10",
+        "code": "KOWR12 - (OEM not listed)"
+      },
+      {
+        "name": "Door Down Roller - Ø63 X 15 X M12",
+        "code": "KOWR13 - (OEM not listed)"
+      },
+      {
+        "name": "Door Down Roller - Ø70 X 17 X M8",
+        "code": "KOWR14 - (OEM not listed)"
+      },
+      {
+        "name": "Door Down Roller - Ø63 X 10.5 X M12",
+        "code": "KOWR15 - (OEM not listed)"
+      },
+      {
+        "name": "Door Down Roller - Ø80 X 11 X M8",
+        "code": "KOWR16 - (OEM not listed)"
+      },
+      {
+        "name": "Sheave - Ø48 X 8 X Ø10",
+        "code": "KOWR17 - (OEM not listed)"
+      },
+      {
+        "name": "Sheave - Ø116 X 12 X Ø10",
+        "code": "KOWR18 - (OEM not listed)"
+      },
+      {
+        "name": "Door Roller - Ø85 X 17 X 9 6203",
+        "code": "KOWR19 - KFKM68226601K"
+      },
+      {
+        "name": "Door Roller - Ø85 X Ø76 X 12 X 6203",
+        "code": "KOWR20 - (OEM not listed)"
+      },
+      {
+        "name": "Door Roller - Ø85 X 17 X Ø10",
+        "code": "KOWR21 - (OEM not listed)"
+      },
+      {
+        "name": "Sheave Components - Ø45 X 11 X Ø10",
+        "code": "KOWR22 - (OEM not listed)"
+      },
+      {
+        "name": "Door Lock Roller Components",
+        "code": "KOWR23 - (OEM not listed)"
+      },
+      {
+        "name": "Door Lock Roller Components - Ø45 X 11 X Ø10",
+        "code": "KOWR24 - (OEM not listed)"
+      },
+      {
+        "name": "Lock Roller - Ø31.5 X 17 X Ø8",
+        "code": "KOWR25 - (OEM not listed)"
+      },
+      {
+        "name": "Lock Roller With Steel Core - Ø40 X 17 X Ø8",
+        "code": "KOWR26 - (OEM not listed)"
+      },
+      {
+        "name": "Lock Roller - Ø31.5 X 17 X Ø15.5",
+        "code": "KOWR27 - (OEM not listed)"
+      },
+      {
+        "name": "Roller - Ø33 X 10 X Ø8",
+        "code": "KOWR28 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Roller - Ø80 X 25 X 6203",
+        "code": "KOWR29 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Roller - Ø150 X 38 X 2-6003",
+        "code": "KOWR30 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Roller - Ø125 X 24 X M12",
+        "code": "KOWR31 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Roller - Ø80 X 28 X 2-6203",
+        "code": "KOWR32 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Roller - Ø150 X 28 X 2-6203",
+        "code": "KOWR33 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Roller - Ø200 X 30 X 6007",
+        "code": "KOWR34 - (OEM not listed)"
+      },
+      {
+        "name": "Roller Guide Shoe Assembly - Roller Ø80 X 25 X 6203",
+        "code": "KOWR35 - (OEM not listed)"
+      },
+      {
+        "name": "Roller Guide Shoe Assembly - Roller Ø150 X 38 X 2-6003",
+        "code": "KOWR36 - (OEM not listed)"
+      },
+      {
+        "name": "Roller Guide Shoe Assembly - Roller Ø200 X 30 X 6007",
+        "code": "KOWR37 - (OEM not listed)"
+      },
+      {
+        "name": "Tachometer Roller - Ø37.5mm",
+        "code": "KOWR38 - (OEM not listed)"
+      },
+      {
+        "name": "Tachometer Roller - Ø75mm",
+        "code": "KOWR39 - (OEM not listed)"
       },
       {
         "name": "Guide Shoe Insert - 128 X 34 X 16mm",
@@ -236,6 +380,46 @@
         "code": "KOGS02 - (OEM not listed)"
       },
       {
+        "name": "Guide Shoe Insert - 140 X 30 X 16mm",
+        "code": "KOGS03 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Insert - 140 X 30 X 10mm",
+        "code": "KOGS04 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Insert - 80 X 25 X 5mm",
+        "code": "KOGS05 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Insert - 80 X 30 X 25 X 11mm",
+        "code": "KOGS06 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Insert - 131 X 22 X 9mm",
+        "code": "KOGS07 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Insert - 131 X 22 X 16mm",
+        "code": "KOGS08 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe Insert - 130 X 32 X 29 X 10/16mm",
+        "code": "KOGS09 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe With Rubber Cushion - 130 X 10/16mm",
+        "code": "KOGS10 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe - 120 X 22 X 29mm",
+        "code": "KOGS11 - (OEM not listed)"
+      },
+      {
+        "name": "Guide Shoe",
+        "code": "KOGS12 - (OEM not listed)"
+      },
+      {
         "name": "Door Slider - 70 X 40 X 14",
         "code": "KODS01 - (OEM not listed)"
       },
@@ -244,48 +428,472 @@
         "code": "KODS02 - (OEM not listed)"
       },
       {
+        "name": "Door Slider - 71 X 15 X 12",
+        "code": "KODS03 - (OEM not listed)"
+      },
+      {
+        "name": "Door Slider - 71 X 14 X 3 - Φ7",
+        "code": "KODS04 - (OEM not listed)"
+      },
+      {
+        "name": "Door Slider - 93 X 60 X 11",
+        "code": "KODS05 - (OEM not listed)"
+      },
+      {
+        "name": "Door Slider - 61 X 68 X 12",
+        "code": "KODS06 - (OEM not listed)"
+      },
+      {
         "name": "Frequency Conversion Door Vane",
         "code": "KODV01 - (OEM not listed)"
       },
       {
-        "name": "Door Lock (Right) - MKG161-09",
+        "name": "Mechanical Door Vane",
+        "code": "KODV02 - (OEM not listed)"
+      },
+      {
+        "name": "Door Vane",
+        "code": "KODV03 - (OEM not listed)"
+      },
+      {
+        "name": "Door Lock (Right)",
         "code": "KOLO01 - MKG161-09"
       },
       {
-        "name": "Leveling Sensor - 61U,61N,30S",
+        "name": "Power Lock (Thin Type) - Ø28",
+        "code": "KOLO02 - (OEM not listed)"
+      },
+      {
+        "name": "Power Lock - Ø28",
+        "code": "KOLO03 - (OEM not listed)"
+      },
+      {
+        "name": "Leveling Sensor - 61U, 61N, 30S",
         "code": "KOSS01 - 740336 G01"
+      },
+      {
+        "name": "Leveling Sensor - 77U, 77N, 77M, 77S",
+        "code": "KOSS02 - 713227 G01"
+      },
+      {
+        "name": "Leveling Sensor",
+        "code": "KOSS03 - 86420G03"
+      },
+      {
+        "name": "Leveling Sensor - BAR2000",
+        "code": "KOSS04 - KM773350G01"
       },
       {
         "name": "Car Top Inspection Box",
         "code": "KOIB01 - KM713856G21"
       },
       {
+        "name": "Oil Box Square",
+        "code": "KOOC01 - ZK11070A08O0027"
+      },
+      {
         "name": "Service Tool",
         "code": "KOTT01 - KM878240G01"
       },
       {
-        "name": "Encoder For KDL16L Inverter",
+        "name": "Decode Board",
+        "code": "KOTT02 - KM713130G01"
+      },
+      {
+        "name": "Encoder for KDL16L Inverter",
         "code": "KOEN01 - KM950278G01"
+      },
+      {
+        "name": "Encoder for MX14 Motor",
+        "code": "KOEN02 - KM1331189"
+      },
+      {
+        "name": "Encoder for MX14 Motor, TS5246N705",
+        "code": "KOEN03 - KM5002777"
       },
       {
         "name": "Door Motor",
         "code": "KODM01 - 89717G08"
       },
       {
+        "name": "Door Motor",
+        "code": "KODM02 - 89717G06"
+      },
+      {
+        "name": "Door Motor",
+        "code": "KODM03 - 602748G04"
+      },
+      {
+        "name": "Door Motor",
+        "code": "KODM04 - 601370G04"
+      },
+      {
+        "name": "Door Motor Transformer",
+        "code": "KODM05 - KM606850G01"
+      },
+      {
+        "name": "Door Controller Board",
+        "code": "KODC01 - 601810G01"
+      },
+      {
+        "name": "Door Controller Board",
+        "code": "KODC02 - 606810G01"
+      },
+      {
+        "name": "Door Controller Board",
+        "code": "KODC03 - 602810G02"
+      },
+      {
+        "name": "Door Controller Board",
+        "code": "KODC04 - 603810G01"
+      },
+      {
+        "name": "Brake Coil - MX10",
+        "code": "KOBM01 - KM650824G01/02"
+      },
+      {
+        "name": "Fan - D2E133-DM47-E6",
+        "code": "KOBM02 - KM255063"
+      },
+      {
+        "name": "Tachometer - Type: RE.0444L1B0.06CA",
+        "code": "KOBM03 - KM814490G01"
+      },
+      {
+        "name": "Tachometer - RE.0444L1B0.06CA",
+        "code": "KOBM04 - KM276027"
+      },
+      {
         "name": "Frequency Inverter - V3F16L",
-        "code": "KOFJ01 - KM769900G01"
+        "code": "KOFI01 - KM769900G01"
+      },
+      {
+        "name": "Frequency Inverter - KDL16",
+        "code": "KOFI02 - KM953503G21"
+      },
+      {
+        "name": "Frequency Inverter - KDL16R",
+        "code": "KOFI03 - KM968094G03"
+      },
+      {
+        "name": "HOP",
+        "code": "KOHOP01 - (OEM not listed)"
+      },
+      {
+        "name": "HOP",
+        "code": "KOHOP02 - (OEM not listed)"
+      },
+      {
+        "name": "HOP",
+        "code": "KOHOP03 - (OEM not listed)"
+      },
+      {
+        "name": "HOP",
+        "code": "KOHOP04 - (OEM not listed)"
+      },
+      {
+        "name": "HOP",
+        "code": "KOHOP05 - (OEM not listed)"
+      },
+      {
+        "name": "HOP",
+        "code": "KOHOP06 - (OEM not listed)"
       },
       {
         "name": "Landing Display Board",
-        "code": "KOD101 - 713553H04"
+        "code": "KODI01 - 713553H04"
+      },
+      {
+        "name": "Car Display Board",
+        "code": "KODI02 - 713563H05"
+      },
+      {
+        "name": "HOP Display Board",
+        "code": "KODI03 - KM853320G01"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI04 - KM863170"
+      },
+      {
+        "name": "Car Display Board",
+        "code": "KODI05 - KM863210G02"
+      },
+      {
+        "name": "Landing Display Board",
+        "code": "KODI06 - KM863270G02"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI07 - 853323H02"
+      },
+      {
+        "name": "HOP Display Board",
+        "code": "KODI08 - K2416H03"
+      },
+      {
+        "name": "Car Display Board",
+        "code": "KODI09 - KM713560G02"
+      },
+      {
+        "name": "HOP Display Board",
+        "code": "KODI10 - 57910070"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI11 - KM713550G01"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI12 - KM853300G11"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI13 - KM853320G10"
+      },
+      {
+        "name": "Car Display Board",
+        "code": "KODI14 - KM851960G01"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI15 - KM853300G01"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI16 - KM853300G03"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI17 - 853333 GG-6G H02"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI18 - 726433H02/736603"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI19 - K2416X1"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI20 - KM863240G03"
+      },
+      {
+        "name": "Display Board",
+        "code": "KODI21 - KM135367G01"
       },
       {
         "name": "Car 2 Button PC Board",
         "code": "KOPCB01A - KM612913H07"
       },
       {
+        "name": "Car 4 Button PC Board",
+        "code": "KOPCB01B - KM658810G01"
+      },
+      {
+        "name": "Car 8 Button PC Board",
+        "code": "KOPCB01C - KM616530G01"
+      },
+      {
         "name": "PC Board - FCB",
         "code": "KOPCB02 - KM713700G11"
+      },
+      {
+        "name": "PC Board - 385 A3",
+        "code": "KOPCB03 - KM612012G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB04 - KM713730G01"
+      },
+      {
+        "name": "PC Board - V3F16L-A1",
+        "code": "KOPCB05 - KM774150G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB06 - KM7477652G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB07 - KM166628G04"
+      },
+      {
+        "name": "PC Board - V3F25-A1",
+        "code": "KOPCB08 - KM773180G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB10 - KM713180G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB11 - KM825950G01"
+      },
+      {
+        "name": "PC Board, LCE OPT",
+        "code": "KOPCB12 - KM713150G11"
+      },
+      {
+        "name": "PC Board, LCE-CCB",
+        "code": "KOPCB13 - KM713710G01"
+      },
+      {
+        "name": "Communication PC Board",
+        "code": "KOPCB14 - KM713113H04"
+      },
+      {
+        "name": "PC Board, OPT",
+        "code": "KOPCB15 - KM713154H03"
+      },
+      {
+        "name": "PC Board, LCE CPU",
+        "code": "KOPCB16 - KM713100G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB17 - KM713930G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB18 - KM763600G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB19 - KM773380G04"
+      },
+      {
+        "name": "PC Board, LCE CPU",
+        "code": "KOPCB20 - KM763460G01"
+      },
+      {
+        "name": "PC Board, LCE ADO",
+        "code": "KOPCB21 - KM713160G01"
+      },
+      {
+        "name": "PC Board, LCE230",
+        "code": "KOPCB23 - KM713120G02"
+      },
+      {
+        "name": "Safety Circuit PC Board",
+        "code": "KOPCB24 - LCE230130H01"
+      },
+      {
+        "name": "PC Board, A2",
+        "code": "KOPCB25 - KM725800G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB26 - KM802890G01"
+      },
+      {
+        "name": "LCE ADOE PC Board",
+        "code": "KOPCB27 - KM500065202G01"
+      },
+      {
+        "name": "LCERAL PC Board",
+        "code": "KOPCB28 - KM722040G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB29 - KM763610G01"
+      },
+      {
+        "name": "PC Board, V3F16L-A1 A3",
+        "code": "KOPCB30 - KM769840G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB31 - KM600400G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB32 - 398132H05"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB33 - KM722060G01"
+      },
+      {
+        "name": "LCEREC PC Board",
+        "code": "KOPCB34 - KM713140G04"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB35 - KM713110G01"
+      },
+      {
+        "name": "Control PC Board",
+        "code": "KOPCB36 - KM165812G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB37 - KM367409G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB38 - KM477647G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB39 - KM6054268G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB40 - KM86783G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB41 - KM583544G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB42 - KM812876G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB43 - KM713780G12"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB44 - KM714140G05"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB45 - KM722080G01"
+      },
+      {
+        "name": "PC Board, A3",
+        "code": "KOPCB46 - KM725810G01"
+      },
+      {
+        "name": "LCEREC PC Board",
+        "code": "KOPCB47 - KM760310G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB48 - KM728500G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB49 - KM773390G03"
+      },
+      {
+        "name": "LCEREC PC Board",
+        "code": "KOPCB50 - KM802870G03"
+      },
+      {
+        "name": "PC Board, V3F25-A3",
+        "code": "KOPCB51 - KM853330G02"
+      },
+      {
+        "name": "PC Board, KDL32-A2",
+        "code": "KOPCB52 - KM887286G01"
+      },
+      {
+        "name": "PC Board",
+        "code": "KOPCB53 - KM937520G01"
       }
     ]
   },
