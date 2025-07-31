@@ -6429,3 +6429,71 @@ Project Two Project Details
 .lightbox-arrow.right {
   right: 40px;
 }
+.contact-info {
+  margin-top: 1.5rem;
+}
+
+.contact-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  font-size: 16px;
+}
+
+.contact-row .icon {
+  margin-right: 0.5rem;
+  color: var(--thm-primary);
+  display: flex;
+  align-items: center;
+}
+
+.contact-row a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.contact-row a:hover {
+  color: var(--thm-primary);
+  text-decoration: underline;
+}
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.modal-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 600px;
+  width: 100%;
+  position: relative;
+}
+
+.modal-close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.btn-link {
+  color: var(--thm-black);
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 500;
+  text-transform: capitalize;
+  font-family: var(--thm-heading-font);
+  text-decoration: none;
+}

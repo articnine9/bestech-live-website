@@ -13,11 +13,11 @@ const ServiceCard = ({ item }) => {
       </div> */}
       <div className="service-one__single-content">
         <h3>
-          <Link href="road-transport">{item?.title}</Link>
+          <Link href={`/products${item.link}`}>{item?.title}</Link>
         </h3>
         <p>{item?.description}</p>
         <div className="btn-box">
-          <Link href={item.link}>
+          <Link href={`/products${item.link}`}>
             Read More <span className="icon-right-arrow"></span>
           </Link>
         </div>
