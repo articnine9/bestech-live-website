@@ -105,7 +105,7 @@ const Footer = () => {
               >
                 <div className="single-footer-widget footer-widget__links">
                   <div className="title">
-                    <h2>Our Hot Product</h2>
+                    <h2>Our Hot Products</h2>
                   </div>
 
                   <div className="footer-widget__links-box">
