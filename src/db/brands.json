@@ -1613,383 +1613,411 @@
     "items": [
       {
         "name": "Push Button T-40",
-        "code": "OTBT01 - FAA25090A111"
+        "code": "OTBT01 - "
       },
       {
-        "name": "Button 3200",
-        "code": "OTBT02 - FAA25090A112"
+        "name": "Button Otis 3200",
+        "code": "OTBT02 - "
       },
       {
         "name": "Button BR24",
-        "code": "OTBT03 - FAA25090A113"
+        "code": "OTBT03 - "
       },
       {
-        "name": "Button, Red Light, Polished Stainless Steel",
+        "name": "Button,Red Light,Polished Stainless Steel",
+        "code": "OTBT04 - FAA25090A111"
+      },
+      {
+        "name": "Button,Green Light,Polished Stainless Steel",
+        "code": "OTBT04 - FAA25090A112"
+      },
+      {
+        "name": "Button,White Light,Polished Stainless Steel",
+        "code": "OTBT04 - FAA25090A113"
+      },
+      {
+        "name": "Button,Blue Light,Polished Stainless Steel",
         "code": "OTBT04 - FAA25090A118"
       },
       {
-        "name": "Button, Green Light, Polished Stainless Steel",
-        "code": "OTBT05 - FAA25090A121"
+        "name": "Button,Red Light,Brass Stainless Steel",
+        "code": "OTBT04 - FAA25090A121"
       },
       {
-        "name": "Button, White Light, Polished Stainless Steel",
-        "code": "OTBT06 - FAA25090A122"
+        "name": "Button,Green Light,Brass Stainless Steel",
+        "code": "OTBT04 - FAA25090A122"
       },
       {
-        "name": "Button, Blue Light, Polished Stainless Steel",
-        "code": "OTBT07 - FAA25090A123"
+        "name": "Button,White Light,Brass Stainless Steel",
+        "code": "OTBT04 - FAA25090A123"
       },
       {
-        "name": "Button, Red Light, Brass Stainless Steel",
-        "code": "OTBT08 - FAA25090A128"
+        "name": "Button,Blue Light,Brass Stainless Steel",
+        "code": "OTBT04 - FAA25090A128"
       },
       {
-        "name": "Button, Green Light, Brass Stainless Steel",
-        "code": "OTBT09 - FAA25090A311"
+        "name": "Button,Red Light,Unpolished Stainless Steel",
+        "code": "OTBT04 - FAA25090A311"
       },
       {
-        "name": "Button, White Light, Brass Stainless Steel",
-        "code": "OTBT04-112 - FAA25090A312"
+        "name": "Button,Green Light,Unpolished Stainless Steel",
+        "code": "OTBT04 - FAA25090A312"
       },
       {
-        "name": "Button, Blue Light, Brass Stainless Steel",
-        "code": "OTBT04-A111 - FAA25090A313"
+        "name": "Button,White Light,Unpolished Stainless Steel",
+        "code": "OTBT04 - FAA25090A313"
       },
       {
-        "name": "Button, Red Light, Unpolished Stainless Steel",
-        "code": "OTBT04-A311 - FAA25090A318"
+        "name": "Button,Blue Light,Unpolished Stainless Steel",
+        "code": "OTBT04 - FAA25090A318"
       },
       {
         "name": "Button GAK-AB",
-        "code": "XHB-R34D-A01 V4.1"
+        "code": "OTBT05 - "
+      },
+      {
+        "name": "Button",
+        "code": "OTBT06 - XHB-R34D-A01 V4.1"
+      },
+      {
+        "name": "Button",
+        "code": "OTBT07 - CHVF"
       },
       {
         "name": "GEN2 Button Plate",
-        "code": "CHVF"
+        "code": "OTBT08 - "
       },
       {
         "name": "GEN2 Button Plate, Stainless Steel",
-        "code": "OTBT04-112"
+        "code": "OTBT09 - "
       },
       {
-        "name": "Hanger Roller, Φ86 X 20, 6204, ID:20",
-        "code": "OTWR01 - FBA5394A4"
+        "name": "Hanger Roller,Φ86 X 20,6204,ID:20",
+        "code": "OTWR01 - "
       },
       {
-        "name": "Door Hanger Roller, Φ140 X 20, 6204",
-        "code": "OTWR02 - FBA5394A4"
+        "name": "Door Hanger Roller,Φ140 X 20,6204",
+        "code": "OTWR02 - "
       },
       {
-        "name": "Door Hanger Roller D2200, Φ76 X 20, Made In France",
+        "name": "Door Hanger Roller D2200,Φ76 X 20,Made In France",
         "code": "OTWR03A - FBA5394A4"
       },
       {
-        "name": "AT120 Hanger Roller, Φ56 X 16, White",
-        "code": "OTWR06"
+        "name": "Door Hanger Roller D2200,Φ76 X 20,Made In France",
+        "code": "OTWR03B - FBA5394A4"
       },
       {
-        "name": "AT120 Hanger Roller, Φ56 X 16, Green",
-        "code": "OTWR07"
+        "name": "AT120 Hanger Roller,Φ56 X 16,White",
+        "code": "OTWR04 - "
       },
       {
-        "name": "AT120 Hanger Roller, Φ56mm",
-        "code": "OTWR08"
+        "name": "AT120 Hanger Roller,Φ56 X 16,Green",
+        "code": "OTWR05 - "
       },
       {
-        "name": "AT120 Hanger Roller, Φ65mm",
-        "code": "OTWR09"
+        "name": "AT120 Hanger Roller,Φ56mm",
+        "code": "OTWR06 - "
+      },
+      {
+        "name": "AT120 Hanger Roller,Φ56mm",
+        "code": "OTWR07 - "
+      },
+      {
+        "name": "AT120 Hanger Roller,Φ65mm",
+        "code": "OTWR08 - "
       },
       {
         "name": "E311 Hanger Roller",
-        "code": "OTWR10"
+        "code": "OTWR09 - "
       },
       {
-        "name": "Door Hanger Roller, Φ85 X 20, 6204",
-        "code": "OTWR11"
+        "name": "Door Hanger Roller,Φ80 X 18,6204",
+        "code": "OTWR10 - "
       },
       {
-        "name": "Door Hanger Roller, Φ50 X 16, 6200",
-        "code": "OTWR12"
+        "name": "Door Hanger Roller, 085 X 20,6204",
+        "code": "OTWR11 - "
       },
       {
-        "name": "Double Slot Sheave, Φ140 X 20, 6204",
-        "code": "OTWR13"
+        "name": "Door Hanger Roller, 050 X 16,6200",
+        "code": "OTWR12 - "
       },
       {
-        "name": "Door Hanger Roller, Φ35 X 11 X M12",
-        "code": "OTWR14"
+        "name": "Double Slot Sheave, Φ140 X 20,6204",
+        "code": "OTWR13 - "
       },
       {
-        "name": "GS09 Lock Roller, Φ37 X 20 X M12",
-        "code": "OTWR15"
+        "name": "Door Hanger Roller, 035 X 11 X M12",
+        "code": "OTWR14 - "
       },
       {
-        "name": "Lock Roller, Φ37 X 20 X Φ12",
-        "code": "OTWR16"
+        "name": "GS09 Lock Roller, 037 X 20 X M12",
+        "code": "OTWR15 - "
       },
       {
-        "name": "3200 Door Lock Roller, Φ52 X 20 X Φ12",
-        "code": "OTWR17"
+        "name": "Lock Roller, 037 X 20 X Φ12",
+        "code": "OTWR16 - "
       },
       {
-        "name": "Door Knife Roller, Φ37 X 20 X Φ12",
-        "code": "OTWR18"
+        "name": "3200 Door Lock Roller, 052 X 20 X Φ12",
+        "code": "OTWR17 - "
       },
       {
-        "name": "Door Knife Roller, Φ30 X 8 X Φ6 X M8",
-        "code": "OTWR19"
+        "name": "Door Knife Roller, 037 X 20 X Φ12",
+        "code": "OTWR18 - "
       },
       {
-        "name": "Roller Guide Wheel, Φ:95mm",
-        "code": "456CN"
+        "name": "Door Knife Roller, 030 X 8 X Φ5 X M8",
+        "code": "OTWR19 - "
       },
       {
-        "name": "Roller Guide Wheel, Φ:125mm",
-        "code": "456CM"
+        "name": "Roller Guide Wheel, Φ125mm",
+        "code": "OTWR20 - 456CN"
       },
       {
-        "name": "Roller Guide Wheel, Φ:200mm",
-        "code": "456CL"
+        "name": "Roller Guide Wheel, Φ125mm",
+        "code": "OTWR21 - 456CM"
       },
       {
-        "name": "Roller Guide Wheel, Φ:205mm",
-        "code": "OTWR22"
+        "name": "Roller Guide Wheel, Φ200mm",
+        "code": "OTWR22 - 456CL"
       },
       {
-        "name": "Roller Guide Wheel, Φ114 X 36, 6203",
-        "code": "OTWR23"
+        "name": "Roller Guide Wheel, Φ205mm",
+        "code": "OTWR23 - "
       },
       {
-        "name": "Roller Guide Wheel, Φ160 X 30, 6203, ID:17",
-        "code": "OTWR24"
+        "name": "Roller Guide Wheel, Φ114 X 36,6203",
+        "code": "OTWR24 - "
       },
       {
-        "name": "Roller Guide Wheel, Φ114 X 36, 6202",
-        "code": "OTWR25"
+        "name": "Roller Guide Wheel, Φ160 X 30,6203, ID: 17",
+        "code": "OTWR25 - "
       },
       {
-        "name": "Roller Guide Wheel, Φ76 X 21.5, 6203",
-        "code": "OTWR26"
+        "name": "Roller Guide Wheel, Φ114 X 36,6202",
+        "code": "OTWR26 - "
       },
       {
-        "name": "Roller Guide Wheel, Φ125 X 22, 6303",
-        "code": "OTWR27"
+        "name": "Roller Guide Wheel, Φ76 X 21.5,6203",
+        "code": "OTWR27 - "
       },
       {
-        "name": "Roller Guide Wheel For Hydraulic, Φ80 X 25, 6205",
-        "code": "OTWR28"
+        "name": "Roller Guide Wheel, Φ125 X 22,6303",
+        "code": "OTWR28 - "
       },
       {
-        "name": "Roller Guide Shoe Assembly, Φ125 X 22, 6203, Mounting Hole: Φ140 X 76",
-        "code": "OTWR29 - K-AAA24180AX"
+        "name": "Roller Guide Wheel For Hydraulic, Φ80 X 25,6205",
+        "code": "OTWR29 - "
       },
       {
-        "name": "Roller Guide Shoe Assembly, Φ95 X 26 X Φ16, Mounting Hole: Φ85 X 50",
-        "code": "OTWR30 - KAA24180AAA"
+        "name": "Roller Guide Shoe Assembly, Φ125 X 22, 6203, Mouting Hole: Φ140 X 76",
+        "code": "OTWR30 - "
       },
       {
-        "name": "Roller Guide Shoe Assembly, Φ160 X 30, 6203, Mounting Hole: Φ92 X 80",
-        "code": "OTWR31 - KAAA24180AW"
+        "name": "Roller Guide Shoe Assembly, Φ95 X 26 X Φ16, Mouting Hole: Φ85 X 50",
+        "code": "OTWR31 - "
       },
       {
-        "name": "Roller Guide Shoe Assembly, Φ76 X 22, 6203, Mounting Hole: Φ92 X 80",
-        "code": "OTWR32"
+        "name": "Roller Guide Shoe Assembly, Φ160 X 30, 6203, Mouting Hole: Φ92 X 80",
+        "code": "OTWR32 - K-AAA24180AX"
       },
       {
-        "name": "Car Door Hanger, JJ=700-1100",
-        "code": "OTDH01 - TOEC-40 2000VF"
+        "name": "Roller Guide Shoe Assembly, Φ160 X 30, 6203, Mouting Hole: Φ140 X 76",
+        "code": "OTWR33 - KAA24180AAA"
       },
       {
-        "name": "Landing Door Hanger, JJ=700-1100",
-        "code": "OTDH02 - TOEC-40 2000VF"
+        "name": "Roller Guide Shoe Assembly, Φ76 X 22, 6203, Mouting Hole: Φ92 X 80",
+        "code": "OTWR34 - KAAAA24180AW"
       },
       {
-        "name": "Guide Shoe Insert, 200 X 25 X 6, White/Black",
-        "code": "OTGS01 - XIZI"
+        "name": "XIZi Guide Shoe Insert, 200 X 25 X 6, White/Black",
+        "code": "OTGS01 - "
       },
       {
-        "name": "Guide Shoe Insert, 200 X 30 X 6",
-        "code": "OTGS02"
+        "name": "Guide Shoe Insert,200 X 30 X 6",
+        "code": "OTGS02 - "
       },
       {
-        "name": "Guide Shoe Insert, One 215 X 42 X 4, Two 203 X 47 X 4",
-        "code": "OTGS03"
+        "name": "Guide Shoe Insert,One 215 X 42 X 4, Two 203 X 47 X 4",
+        "code": "OTGS03 - "
       },
       {
-        "name": "Guide Shoe Insert, 200 X 20 X 6mm, Black",
-        "code": "OTGS04"
+        "name": "Guide Shoe Insert,200 X 20 X 6mm,Black",
+        "code": "OTGS04 - "
       },
       {
-        "name": "Guide Shoe Insert, 150 X 20 X 6",
-        "code": "OTGS05"
+        "name": "Guide Shoe Insert,150 X 20 X 6",
+        "code": "OTGS05 - "
       },
       {
-        "name": "Guide Shoe Insert, 99 X 22 X 8mm",
-        "code": "OTGS06"
+        "name": "Guide Shoe Insert,99 X 22 X 8mm",
+        "code": "OTGS06 - "
       },
       {
-        "name": "Guide Shoe Insert, 100 X 25 X 30, 16mm",
-        "code": "OTGS07"
+        "name": "Guide Shoe Insert,100 X 25 X 30,16mm",
+        "code": "OTGS07 - "
       },
       {
-        "name": "Guide Shoe Insert, 100 X 30 X 28, 10mm",
-        "code": "OTGS08A"
+        "name": "Guide Shoe Insert,100 X 30 X 28,10mm",
+        "code": "OTGS08A - "
       },
       {
-        "name": "Guide Shoe Insert, 100 X 30 X 28, 16mm",
-        "code": "OTGS08B"
+        "name": "Guide Shoe Insert,100 X 30 X 28,16mm",
+        "code": "OTGS08B - "
       },
       {
-        "name": "Guide Shoe Insert, 150 X 30 X 16mm",
-        "code": "OTGS09"
+        "name": "Guide Shoe Insert,150 X 30 X 16mm",
+        "code": "OTGS09 - "
       },
       {
-        "name": "Guide Shoe Insert, Iron Back, 150 X 35 X 10mm",
-        "code": "OTGS10A"
+        "name": "Guide Shoe Insert,iron Back, 150 X 35 X 10mm",
+        "code": "OTGS10A - "
       },
       {
-        "name": "Guide Shoe Insert, Iron Back, 210 X 35 X 10mm",
-        "code": "OTGS10B"
+        "name": "Guide Shoe Insert,iron Back, 210 X 35 X 10mm",
+        "code": "OTGS10B - "
       },
       {
-        "name": "Guide Shoe Insert, 180 X 26 X 36, 17mm",
-        "code": "OTGS11"
+        "name": "Guide Shoe Insert,180 X 26 X 36,17mm",
+        "code": "OTGS11 - "
       },
       {
-        "name": "Guide Shoe Insert, 200 X 35 X 6mm",
-        "code": "OTGS12"
+        "name": "Guide Shoe Insert,200 X 35 X 6mm",
+        "code": "OTGS12 - "
       },
       {
-        "name": "Guide Shoe Insert, 200 X 35 X 16mm",
-        "code": "OTGS13"
+        "name": "Guide Shoe Insert,200 X 35 X 16mm",
+        "code": "OTGS13 - "
       },
       {
-        "name": "Guide Shoe Insert, 145 X 36 X 6mm",
-        "code": "OTGS14A"
+        "name": "Guide Shoe Insert,145 X 36 X 6mm",
+        "code": "OTGS14A - "
       },
       {
-        "name": "Guide Shoe Insert, 150 X 35 X 6mm",
-        "code": "OTGS14B"
+        "name": "Guide Shoe Insert,150 X 35 X 6mm",
+        "code": "OTGS14B - "
       },
       {
-        "name": "Guide Shoe Insert, 148 X 32 X 10mm",
-        "code": "OTGS15"
+        "name": "Guide Shoe Insert,148 X 32 X 10mm",
+        "code": "OTGS15 - "
       },
       {
-        "name": "Guide Shoe Insert, 98 X 32 X 10mm",
-        "code": "OTGS16"
+        "name": "Guide Shoe Insert,98 X 32 X 10mm",
+        "code": "OTGS16 - "
       },
       {
-        "name": "Guide Shoe Insert, 212 X 42 X 6mm",
-        "code": "OTGS17"
+        "name": "Guide Shoe Insert,212 X 42 X 6mm",
+        "code": "OTGS17 - "
       },
       {
-        "name": "Guide Shoe Insert, 220 X 35 X 17/10mm",
-        "code": "OTGS18"
+        "name": "Guide Shoe Insert,220 X 35 X 17/10mm",
+        "code": "OTGS18 - "
       },
       {
-        "name": "Guide Shoe Insert, 200 X 35 X 17mm",
-        "code": "OTGS19"
+        "name": "Guide Shoe Insert,200 X 35 X 17mm",
+        "code": "OTGS19 - "
       },
       {
-        "name": "Guide Shoe Insert, 190 X 28 X 32 X 17/10mm",
-        "code": "OTGS20"
+        "name": "Guide Shoe Insert,190 X 28 X 32 X 17/10mm",
+        "code": "OTGS20 - "
       },
       {
-        "name": "Guide Shoe Insert, 120 X 28 X 17mm",
-        "code": "OTGS21"
+        "name": "Guide Shoe Insert,120 X 28 X 17mm",
+        "code": "OTGS21 - "
       },
       {
-        "name": "Guide Shoe Insert, 120 X 20 X 11mm",
-        "code": "OTGS22"
+        "name": "Guide Shoe Insert,120 X 20 X 11mm",
+        "code": "OTGS22 - "
       },
       {
-        "name": "Guide Shoe Insert, 150 X 30 X 17mm",
-        "code": "OTGS23"
+        "name": "Guide Shoe Insert,150 X 30 X 17mm",
+        "code": "OTGS23 - "
       },
       {
-        "name": "Guide Shoe Insert, 92 X 35 X 8mm",
-        "code": "OTGS24"
+        "name": "Guide Shoe Insert,92 X 35 X 8mm",
+        "code": "OTGS24 - "
       },
       {
-        "name": "Guide Shoe Insert, 99 X 32 X 11mm",
-        "code": "OTGS25"
+        "name": "Guide Shoe Insert,99 X 32 X 11mm",
+        "code": "OTGS25 - "
       },
       {
-        "name": "Guide Shoe Insert, 120 X 30 X 6mm",
-        "code": "OTGS26"
+        "name": "Guide Shoe Insert,120 X 30 X 6mm",
+        "code": "OTGS26 - "
       },
       {
-        "name": "Guide Shoe Insert, 220 X 17mm",
-        "code": "OTGS27"
+        "name": "Guide Shoe Insert,220 X 17mm",
+        "code": "OTGS27 - "
       },
       {
-        "name": "Guide Shoe Insert, Import",
-        "code": "OTGS28"
+        "name": "Guide Shoe Insert,import",
+        "code": "OTGS28 - "
       },
       {
-        "name": "Guide Shoe Insert, 200 X 45 X 4mm",
-        "code": "OTGS29"
+        "name": "Guide Shoe Insert,200 X 45 X 4mm",
+        "code": "OTGS29 - "
       },
       {
-        "name": "Guide Shoe Insert, 280 X 26 X 16mm",
-        "code": "OTGS30"
+        "name": "Guide Shoe Insert,280 X 26 X 16mm",
+        "code": "OTGS30 - "
       },
       {
-        "name": "Guide Shoe Insert, 210 X 32 X 10mm",
-        "code": "OTGS31"
+        "name": "Guide Shoe Insert,210 X 32 X 10mm",
+        "code": "OTGS31 - "
       },
       {
         "name": "Guide Shoe Insert",
-        "code": "OTGS32"
+        "code": "OTGS32 - "
       },
       {
-        "name": "Guide Shoe For Cabin, 145 X 10, Mounting Hole: 140 X 72",
-        "code": "OTGS33A - DO6261Y"
+        "name": "Guide Shoe For Cabin,145 X 10, Mounting Hole:140 X 72",
+        "code": "OTGS33A - D06261Y"
       },
       {
-        "name": "Guide Shoe For Counterweight, 145 X 10, Mounting Hole: 79 X 50",
-        "code": "OTGS33B - DO6261Y"
+        "name": "Guide Shoe For Counterweight,145 X 10, Mounting Hole:79 X 50",
+        "code": "OTGS33B - D06261Y"
       },
       {
-        "name": "Guide Shoe For Cabin, 220 X 10, Mounting Hole: 80 X 65",
+        "name": "Guide Shoe For Cabin,220 X 10, Mounting Hole:80 X 65",
         "code": "OTGS34A - DAA237D1"
       },
       {
-        "name": "Guide Shoe For Counterweight, 220 X 16, Mounting Hole: 48 X 82",
+        "name": "Guide Shoe For Counterweight,220 X 16, Mounting Hole:48 X 82",
         "code": "OTGS34B - DAA24160F1"
       },
       {
         "name": "Door Slider, 80/50 X 35 X 12",
-        "code": "OTDS01"
+        "code": "OTDS01 - "
       },
       {
         "name": "Door Slider",
-        "code": "OTDS02"
+        "code": "OTDS02 - "
       },
       {
         "name": "Door Slider, 70 X 12",
-        "code": "OTDS03"
+        "code": "OTDS03 - "
       },
       {
         "name": "Guide Shoe, 200 X 40 X 76 X 13",
-        "code": "OTDS04"
+        "code": "OTDS04 - "
       },
       {
         "name": "Door Slider",
-        "code": "OTDS05"
+        "code": "OTDS05 - "
       },
       {
         "name": "Door Slider",
-        "code": "OTDS06"
+        "code": "OTDS06 - "
       },
       {
         "name": "Door Slider",
-        "code": "OTDS07"
+        "code": "OTDS07 - "
       },
       {
         "name": "Door Slider",
-        "code": "OTDS08"
+        "code": "OTDS08 - "
       },
       {
         "name": "Door Vane",
@@ -1997,10 +2025,10 @@
       },
       {
         "name": "D1 Type Door Vane",
-        "code": "OTDV02"
+        "code": "OTDV02 - "
       },
       {
-        "name": "3100 Type, AT-120 Door Vane, Left",
+        "name": "3100 Type,AT-120 Door Vane,Left",
         "code": "OTDV03 - FAA24390H1"
       },
       {
@@ -2009,30 +2037,30 @@
       },
       {
         "name": "Door Vane Assembly",
-        "code": "OTDV05"
+        "code": "OTDV05 - "
       },
       {
         "name": "Door Vane Assembly",
-        "code": "OTDV06"
+        "code": "OTDV06 - "
       },
       {
         "name": "Door Vane Assembly",
-        "code": "OTDV07"
+        "code": "OTDV07 - "
       },
       {
-        "name": "GS09(PB47) Door Lock, Left",
-        "code": "OTL001"
+        "name": "Door Lock,Left",
+        "code": "OTL001 - GS09(PB47)"
       },
       {
-        "name": "3100 Door Lock, Left",
-        "code": "OTL002"
+        "name": "Door Lock,Left",
+        "code": "OTL002 - 3100"
       },
       {
-        "name": "K5 Door Lock, Left",
-        "code": "OTL003"
+        "name": "Door Lock,Left",
+        "code": "OTL003 - K5"
       },
       {
-        "name": "XiZi Door Lock, Left",
+        "name": "XIZI Door Lock,Left",
         "code": "OTL004 - XAA431R1"
       },
       {
@@ -2041,91 +2069,91 @@
       },
       {
         "name": "Triangle Lock",
-        "code": "OTL005B"
+        "code": "OTL005B - "
       },
       {
-        "name": "COP Powder Lock, Φ30",
-        "code": "OTL006A"
+        "name": "COP Powder Lock,030",
+        "code": "OTL006A - "
       },
       {
-        "name": "Door Lock, Φ15",
-        "code": "OTL006B"
+        "name": "Door Lock,015",
+        "code": "OTL006B - "
       },
       {
         "name": "Mandril For Door Lock",
-        "code": "OTL007"
+        "code": "OTL007 - "
       },
       {
-        "name": "XiZi Side Contact Lock",
+        "name": "XIZI Side Contact Lock",
         "code": "OTL008 - PB123"
       },
       {
-        "name": "Landing Door Lock, P878",
+        "name": "Landing Door Lock,PB78",
         "code": "OTL009 - XAA177CB1"
       },
       {
-        "name": "GS09-1 Door Lock Contact",
-        "code": "OTL010"
+        "name": "Door Lock Contact",
+        "code": "OTL010 - GS09-1"
       },
       {
-        "name": "MK01-A Door Contact",
-        "code": "OTL011"
+        "name": "Door Contact",
+        "code": "OTL011 - MK01-A"
       },
       {
-        "name": "TOEC-40-1 Door Contact",
-        "code": "OTL012"
+        "name": "Door Contact",
+        "code": "OTL012 - TOEC-40-1"
       },
       {
-        "name": "GS09-13 Door Contact",
-        "code": "OTL013"
-      },
-      {
-        "name": "Mechanical Switch",
-        "code": "OTS501 - A6098B11"
+        "name": "Door Contact",
+        "code": "OTL013 - GS09-13"
       },
       {
         "name": "Mechanical Switch",
-        "code": "OTS502 - A6098B15"
+        "code": "OTSS01 - A6098B11"
       },
       {
         "name": "Mechanical Switch",
-        "code": "OTS503 - A6098B3"
+        "code": "OTSS02 - A6098B15"
       },
       {
         "name": "Mechanical Switch",
-        "code": "OTS504 - A6098B7"
-      },
-      {
-        "name": "Mechanical Switch, 6098",
-        "code": "OTS505 - J06098E5"
+        "code": "OTSS03 - A6098B3"
       },
       {
         "name": "Mechanical Switch",
-        "code": "OTS506 - 6098D1"
+        "code": "OTSS04 - A6098B7"
+      },
+      {
+        "name": "Mechanical Switch,6088",
+        "code": "OTSS05 - J06098E5"
       },
       {
         "name": "Mechanical Switch",
-        "code": "OTS507 - 6098D3"
+        "code": "OTSS06 - G098D1"
+      },
+      {
+        "name": "Mechanical Switch",
+        "code": "OTSS07 - G098D3"
       },
       {
         "name": "Limited Switch",
-        "code": "OTS508 - AA1"
+        "code": "OTSS08 - AA1"
       },
       {
         "name": "Limited Switch Of Speed Governor",
-        "code": "OTS509 - AA3"
+        "code": "OTSS09 - AA3"
       },
       {
         "name": "Limited Switch Of Speed Governor",
-        "code": "OTS510 - TAA177AH1"
+        "code": "OTSS10 - TAA177AH1"
       },
       {
         "name": "Limited Switch Of Speed Governor",
-        "code": "OTS511 - TAA177AH2"
+        "code": "OTSS11 - TAA177AH2"
       },
       {
         "name": "1370 Limited Switch",
-        "code": "OTS512 - XAA177BW1"
+        "code": "OTSS12 - XAA177BW1"
       },
       {
         "name": "Limited Switch",
@@ -2152,7 +2180,7 @@
         "code": "OTSS18 - CA40-2501/3"
       },
       {
-        "name": "GLS126 Leveling Sensor, NO/NC",
+        "name": "GLS126 Leveling Sensor,NO/NC",
         "code": "OTSS19 - XAA177AZ4"
       },
       {
@@ -2181,7 +2209,7 @@
       },
       {
         "name": "Photoelectric Switch",
-        "code": "OTSS26 - E35-GS3B4"
+        "code": "OTSS26 - E3S-GS3B4"
       },
       {
         "name": "Leveling Sensor",
@@ -2209,927 +2237,19 @@
       },
       {
         "name": "Oil Box Square",
-        "code": "OTOC03"
+        "code": "OTOC03 - "
       },
       {
         "name": "Oil Box",
         "code": "OTOC04 - XAA349E1/E2"
       },
       {
-        "name": "Oil Box Felt, 40 X 36 X 36",
-        "code": "OTOC05"
+        "name": "Oil Box Felt,40 X 36 X 36",
+        "code": "OTOC05 - "
       },
       {
-        "name": "Oil Box Felt, 51 X 38 X 13",
-        "code": "OTOC06"
-      },
-      {
-        "name": "Car Top Inspection Box",
-        "code": "OTIB01"
-      },
-      {
-        "name": "XIZi Car Top Inspection Box",
-        "code": "OTIB02 - YK-1B"
-      },
-      {
-        "name": "Car Top Inspection Box",
-        "code": "OTIB03 - DAA24831F2"
-      },
-      {
-        "name": "XIZi Pit Inspection Box",
-        "code": "OTIB04 - YK-1A-10"
-      },
-      {
-        "name": "Intercom, 601WF-B6",
-        "code": "OTIB05 - XAA2530286"
-      },
-      {
-        "name": "Control Power Supply",
-        "code": "OTIB06 - DAA21190A4"
-      },
-      {
-        "name": "Rope Brake Control Device",
-        "code": "OTIB07 - JSQ-12-C"
-      },
-      {
-        "name": "The Power For Intercom Model V",
-        "code": "OTIB08 - DAA25301E5"
-      },
-      {
-        "name": "The Power For Intercom Model V",
-        "code": "OTIB09 - DAA25301E10"
-      },
-      {
-        "name": "Intercom, 4005WF-E3",
-        "code": "OTIB10 - DAA25301E3"
-      },
-      {
-        "name": "Board For Electric Bell",
-        "code": "OTIB11 - GCA23550B1"
-      },
-      {
-        "name": "Electric Bell",
-        "code": "OTIB12"
-      },
-      {
-        "name": "Steel Cable, W30 X 10 Cores",
-        "code": "OTSC01 - AAA717AJ2"
-      },
-      {
-        "name": "Steel Cable, W30 X 12 Cores",
-        "code": "OTSC02 - AAA717W1"
-      },
-      {
-        "name": "Steel Cable, W60 X 24 Cores",
-        "code": "OTSC03 - AAA717R1"
-      },
-      {
-        "name": "Steel Cable, W30 X 12 Cores",
-        "code": "OTSC04 - AAA717X1"
-      },
-      {
-        "name": "Steel Cable, W30 X 10 Cores",
-        "code": "OTSC05 - AAA717AM2"
-      },
-      {
-        "name": "Steel Cable, W60 X 24 Cores",
-        "code": "OTSC06 - AAA717AD1"
-      },
-      {
-        "name": "Steel Strip",
-        "code": "OTSC07"
-      },
-      {
-        "name": "TOEC-40 Steel Strip",
-        "code": "OTSC08"
-      },
-      {
-        "name": "E44 Steel Strip",
-        "code": "OTSC09"
-      },
-      {
-        "name": "Door Belt, DO2000",
-        "code": "OTSC10 - 660J8"
-      },
-      {
-        "name": "Steel Strip Slider, 92 X 37 X 8.5",
-        "code": "OTSC11"
-      },
-      {
-        "name": "Service Tool",
-        "code": "OTTT01 - GAA21750S1"
-      },
-      {
-        "name": "Service Tool (Work Worldwide)",
-        "code": "OTTT02 - GAA21750AK3"
-      },
-      {
-        "name": "Belt Traction Belt",
-        "code": "OTTT03 - FAA21700F1/3"
-      },
-      {
-        "name": "Detection Device",
-        "code": "OTTT03 - ABA21700X1"
-      },
-      {
-        "name": "Belt Traction Belt",
-        "code": "OTTT04 - FAA21700F2/5"
-      },
-      {
-        "name": "Detection Device",
-        "code": "OTTT04 - ABA21700X2"
-      },
-      {
-        "name": "Encoder, SBH2-1024-2T(30-050-16)",
-        "code": "OTEN01 - DAAG33D1"
-      },
-      {
-        "name": "Encoder, ZKT-D100H30B-102.4B-R7.5-15F",
-        "code": "OTEN02 - DAAG33D2"
-      },
-      {
-        "name": "Encoder, RI80-E",
-        "code": "OTEN03 - DAAG33G1"
-      },
-      {
-        "name": "Encoder, 311",
-        "code": "OTEN04 - DAAG33L1"
-      },
-      {
-        "name": "Encoder, ECN461 3600 56S15-4G",
-        "code": "OTEN05 - AAAG33Z1"
-      },
-      {
-        "name": "Encoder, ECN461 3600 56S15-4G",
-        "code": "OTEN06 - AAAG33Z2"
-      },
-      {
-        "name": "Encoder",
-        "code": "OTEN07 - AAAG33Z4"
-      },
-      {
-        "name": "Encoder",
-        "code": "OTEN08 - AAAG33Z6"
-      },
-      {
-        "name": "Encoder, RF538192/023X16",
-        "code": "OTEN09 - DAAG33K1"
-      },
-      {
-        "name": "Encoder, RF538192/01300B7",
-        "code": "OTEN10 - DAAG33K7"
-      },
-      {
-        "name": "Encoder, ERN1387 2048 62S14-70",
-        "code": "OTEN11 - ERN-1387"
-      },
-      {
-        "name": "Encoder, HENGSTLER 0523795",
-        "code": "OTEN12 - AAAG59C3"
-      },
-      {
-        "name": "Encoder",
-        "code": "OTEN13 - DO2000-5T"
-      },
-      {
-        "name": "Encoder",
-        "code": "OTEN14 - DO2000-7T"
-      },
-      {
-        "name": "Encoder, IG06-0713/ABX-500-PP",
-        "code": "OTEN15 - ABX-500-PP"
-      },
-      {
-        "name": "Encoder",
-        "code": "OTEN16 - GCAG33A1"
-      },
-      {
-        "name": "Encoder, OH48-3600C/T-L3-5V",
-        "code": "OTEN17 - AAAG33AG22"
-      },
-      {
-        "name": "Encoder, 0IH76-4096C/T-L2C2-15V",
-        "code": "OTEN18 - AAAG33AJ1"
-      },
-      {
-        "name": "Door Motor, KAG AT120",
-        "code": "OTDM01"
-      },
-      {
-        "name": "Door Motor, XRDS-80J1, 80W, DCI10V/1.1A",
-        "code": "OTDM02 - XAA20500H1"
-      },
-      {
-        "name": "Door Motor, DO2000",
-        "code": "OTDM03 - FBA24350F"
-      },
-      {
-        "name": "Door Control Box",
-        "code": "OTDC01 - GBA24350BBH1"
-      },
-      {
-        "name": "Door Control Box",
-        "code": "OTDC02 - GBA24350AW11"
-      },
-      {
-        "name": "Door Control Box, DCSS V E",
-        "code": "OTDC03 - GHA24350BD11"
-      },
-      {
-        "name": "Door Control Box, DCSS IV",
-        "code": "OTDC04 - GFA24350AW11"
-      },
-      {
-        "name": "Door Control Box, AT120",
-        "code": "OTDC05 - FAA24350BK1"
-      },
-      {
-        "name": "Door Control Box, DCSS V E",
-        "code": "OTDC06 - GJA24350BD11"
-      },
-      {
-        "name": "Door Power, AT120",
-        "code": "OTDC07 - FAA24350BM3"
-      },
-      {
-        "name": "Brake Coil",
-        "code": "OTEM08 - TAB330AJ1"
-      },
-      {
-        "name": "Brake Coil, 13VTR-150mm",
-        "code": "OTEM09 - DAA230E2"
-      },
-      {
-        "name": "Brake Coil, 18ATF",
-        "code": "OTEM10"
-      },
-      {
-        "name": "Brake Coil, DZE-14",
-        "code": "OTEM11 - DAA330K5"
-      },
-      {
-        "name": "Brake Drum For 13VTR",
-        "code": "OTEM12"
-      },
-      {
-        "name": "Brake Drum For 17CT",
-        "code": "OTEM13"
-      },
-      {
-        "name": "Brake Coil For 17CT",
-        "code": "OTEM14"
-      },
-      {
-        "name": "Brake Bar For 17CT",
-        "code": "OTEM15"
-      },
-      {
-        "name": "Sealing Cover For 13VTR",
-        "code": "OTEM16"
-      },
-      {
-        "name": "Fan For 17CT Machine",
-        "code": "OTEM17"
-      },
-      {
-        "name": "Brake Pad For 13VTR",
-        "code": "OTEM18"
-      },
-      {
-        "name": "Brake Pad For W1000",
-        "code": "OTEM19"
-      },
-      {
-        "name": "Brake Pad For 19BT",
-        "code": "OTEM20"
-      },
-      {
-        "name": "Brake Pad For 17CT",
-        "code": "OTEM21"
-      },
-      {
-        "name": "Brake Pad For 13VTR",
-        "code": "OTEM22"
-      },
-      {
-        "name": "Brake Pad For 18ATF",
-        "code": "OTEM23"
-      },
-      {
-        "name": "Oil Seal For 13VTR",
-        "code": "OTEM24"
-      },
-      {
-        "name": "Oil Seal For 17CT, Small",
-        "code": "OTEM25"
-      },
-      {
-        "name": "Oil Seal For 17CT, Big",
-        "code": "OTEM26"
-      },
-      {
-        "name": "Oil Seal For 19BT",
-        "code": "OTEM27"
-      },
-      {
-        "name": "Traction Machine, 13VTR",
-        "code": "OTEM28"
-      },
-      {
-        "name": "Traction Machine, 16VEC",
-        "code": "OTEM29"
-      },
-      {
-        "name": "Traction Machine, 17CT",
-        "code": "OTEM30"
-      },
-      {
-        "name": "Traction Machine, 18ATF",
-        "code": "OTEM31"
-      },
-      {
-        "name": "Frequency Inverter, OVF3070A",
-        "code": "OTFI01 - ACA21290AK2"
-      },
-      {
-        "name": "Frequency Inverter, OVF3090A",
-        "code": "OTFI02 - ACA21290BJ2"
-      },
-      {
-        "name": "Frequency Inverter, OVF30120A",
-        "code": "OTFI03 - ACA221290BA2"
-      },
-      {
-        "name": "Frequency Inverter, OVF209KW",
-        "code": "OTFI04 - GBA21343J100"
-      },
-      {
-        "name": "Frequency Inverter, OVF2015KW",
-        "code": "OTFI05 - GCA21150D1"
-      },
-      {
-        "name": "Car Interior Display Board",
-        "code": "OTD101 - XAA25140AB2"
-      },
-      {
-        "name": "Car Display Board",
-        "code": "OTD102 - XAA25140AP2"
-      },
-      {
-        "name": "Outbound Board",
-        "code": "OTD103 - DAA26800G2"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD104 - DAA25140NNNS"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD105 - DAA25140NNNG"
-      },
-      {
-        "name": "Display Board, New",
-        "code": "OTD106 - DAA25140NNNG"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD107 - DAA25140NNN13"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD108 - DAA25140NNN14"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD109 - DAA25140NNP2"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD110 - DAA25140NNP14"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD111 - JAA25140AAF102"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD112 - JAA25140AAD122"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD113 - JAA25140AAD126"
-      },
-      {
-        "name": "Display Board, New",
-        "code": "OTD114 - JAA25140AAD126"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD115 - JAA25140AAF126"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD116 - DAA25140NP2D4"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD117 - DAA25140NP2D2"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD118 - DAA25250A202"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD119 - DAA25250A203"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD120 - DAA25250A204"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD121 - XAA25140AB2"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD122 - CXAA25140AH3"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD123 - FAA25100F"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD124 - FAA25100AA2"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD125 - FAA25100K1"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD126 - DAA26800AM"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD127 - DAA26800AS"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD128 - STM430-V3.2"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD129 - XBA23550B1"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD130 - XBA23550B2"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD131 - XAA23550B3"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD132 - XBA23550B4"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD133 - CHVF"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD134 - TOEC-40"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD135 - FDA23600V1"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD136 - ACA26800AJX1"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD137 - ACA26800HJ1"
-      },
-      {
-        "name": "Display Board, include Box",
-        "code": "OTD138 - FBA23600V1"
-      },
-      {
-        "name": "Display Board, include Box",
-        "code": "OTD139 - FDA23600V1"
-      },
-      {
-        "name": "Display Board",
-        "code": "OTD140 - DCE2350167"
-      },
-      {
-        "name": "Main PC Board",
-        "code": "OTPCB01 - A9693D2"
-      },
-      {
-        "name": "Main PC Board",
-        "code": "OTPCB02 - D9673T3"
-      },
-      {
-        "name": "Inverter Control Board",
-        "code": "OTPCB03 - ABA26800GW4"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB04 - ABA26800MB1"
-      },
-      {
-        "name": "Main PC Board",
-        "code": "OTPCB05 - GEA21270A1"
-      },
-      {
-        "name": "Main PC Board",
-        "code": "OTPCB06 - GHA21270A1"
-      },
-      {
-        "name": "Inverter Drive PC Board",
-        "code": "OTPCB07 - JBA26807BAN306"
-      },
-      {
-        "name": "Communication PC Board",
-        "code": "OTPCB08 - AAA26800GG1"
-      },
-      {
-        "name": "LMCSS-MCB PC Board",
-        "code": "OTPCB09 - JEA26801AAF002"
-      },
-      {
-        "name": "COCO-MCB PC Board",
-        "code": "OTPCB10 - JGA26801AAF2"
-      },
-      {
-        "name": "COCO-MCB PC Board",
-        "code": "OTPCB11 - JGA26801AAF4"
-      },
-      {
-        "name": "Main PC Board",
-        "code": "OTPCB12 - LMCSS-MCB"
-      },
-      {
-        "name": "OVF20 PDB-I Drive PC Board",
-        "code": "OTPCB13 - GDA26800J1"
-      },
-      {
-        "name": "OVF20 PDB-I Drive PC Board",
-        "code": "OTPCB14 - GBA26800J5"
-      },
-      {
-        "name": "Inverter Driving Power Supply PC Board",
-        "code": "OTPCB15 - GCA26800J5"
-      },
-      {
-        "name": "Inverter PC Board",
-        "code": "OTPCB16 - GAA26800K1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB17 - LAMADAIII-D"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB18 - AEA26800QA7"
-      },
-      {
-        "name": "Door Machine PC Board",
-        "code": "OTPCB19 - JAA26805AAA001"
-      },
-      {
-        "name": "Door Machine PC Board",
-        "code": "OTPCB20 - B9693MB1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB21 - JAA26807BCC001"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB22"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB23"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB24"
-      },
-      {
-        "name": "SOM Parallel PC Board",
-        "code": "OTPCB25 - SOM-A9693F1"
-      },
-      {
-        "name": "Communication PC Board",
-        "code": "OTPCB26 - FAA25402AB1"
-      },
-      {
-        "name": "SOM-II Parallel PC Board",
-        "code": "OTPCB27 - GAA26800AL1"
-      },
-      {
-        "name": "OH5000 Control PC Board",
-        "code": "OTPCB28 - AMCB2"
-      },
-      {
-        "name": "LCB-II Main PC Board",
-        "code": "OTPCB29 - GDA21240D1"
-      },
-      {
-        "name": "LCB-II Main PC Board",
-        "code": "OTPCB30 - GFA21240D1"
-      },
-      {
-        "name": "Main PC Board",
-        "code": "OTPCB31 - ACA26800VA1+VB1"
-      },
-      {
-        "name": "OVF30 Inverter Drive PC Board",
-        "code": "OTPCB32 - ABA26800XU1"
-      },
-      {
-        "name": "OVF30 Inverter Drive PC Board",
-        "code": "OTPCB33 - ABA26800XU2"
-      },
-      {
-        "name": "OVF30 Inverter Drive PC Board",
-        "code": "OTPCB34 - ABA26800XU5"
-      },
-      {
-        "name": "GDCB PC Board",
-        "code": "OTPCB35 - ACA26800AKT1"
-      },
-      {
-        "name": "GDCB PC Board",
-        "code": "OTPCB36 - ADA26800AKT1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB37 - BRE-GAA26800BG1"
-      },
-      {
-        "name": "PDB-II Power Supply PC Board",
-        "code": "OTPCB38 - GAA26800KP1"
-      },
-      {
-        "name": "MCB-III Main PC Board",
-        "code": "OTPCB39 - GCA26800KF1"
-      },
-      {
-        "name": "MCB-III Main PC Board",
-        "code": "OTPCB40 - GCA26800KF2"
-      },
-      {
-        "name": "Main PC Board",
-        "code": "OTPCB41 - GDA26800H1"
-      },
-      {
-        "name": "MCB-II Inverter Control PC Board",
-        "code": "OTPCB42 - GCA26800H2"
-      },
-      {
-        "name": "SPBC PC Board",
-        "code": "OTPCB43 - SPBC-GAA26800KB1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB44 - GCA268200KX1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB45"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB46"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB47"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB48 - SPB-GBA26800BB2"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB49 - SPB-GBA26800BB1"
-      },
-      {
-        "name": "MCB3X Main PC Board",
-        "code": "OTPCB50 - GCA26800KV7"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB51 - ABA26800SY1"
-      },
-      {
-        "name": "GECB Main PC Board",
-        "code": "OTPCB52 - GAA26800LC1"
-      },
-      {
-        "name": "GECB Main PC Board",
-        "code": "OTPCB53 - GBA26800LC2"
-      },
-      {
-        "name": "TCBC Main PC Board",
-        "code": "OTPCB54 - GCA26800KA1"
-      },
-      {
-        "name": "TCBC Main PC Board",
-        "code": "OTPCB55 - GDA26800KA1"
-      },
-      {
-        "name": "Inverter Drive PC Board",
-        "code": "OTPCB56 - GBA26810A1"
-      },
-      {
-        "name": "Inverter Drive PC Board",
-        "code": "OTPCB57 - GBA26810A2"
-      },
-      {
-        "name": "GEN-II WWPB—2 PC Board",
-        "code": "OTPCB58 - GAA26810C1"
-      },
-      {
-        "name": "GEN-II WWPB—2 PC Board",
-        "code": "OTPCB59 - GAA26810C2"
-      },
-      {
-        "name": "Brake Control PC Board",
-        "code": "OTPCB60 - GAA26800LB1"
-      },
-      {
-        "name": "Brake Control PC Board",
-        "code": "OTPCB61 - GBA26800LB2"
-      },
-      {
-        "name": "GECB PC Board",
-        "code": "OTPCB62 - ADA26800AML1"
-      },
-      {
-        "name": "GECB PC Board",
-        "code": "OTPCB63 - AEA26800AML2"
-      },
-      {
-        "name": "OVF-20CR Main PC Board",
-        "code": "OTPCB64 - GCA26800KG4"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB65 - KBA26800AAB"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB66 - KBA26800AAE1"
-      },
-      {
-        "name": "OVF-20CR Inverter Drive PC Board",
-        "code": "OTPCB67 - GAA26800KN1"
-      },
-      {
-        "name": "Main PC Board",
-        "code": "OTPCB68 - GECB-EN"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB69 - DAA26800AH5"
-      },
-      {
-        "name": "LWB-II Weighting PC Board",
-        "code": "OTPCB70 - GBA26800KJ1"
-      },
-      {
-        "name": "LAMBDA III-D Control PC Board",
-        "code": "OTPCB71 - ADA26800XB1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB72 - LB-Chinese"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB73"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB74"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB75"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB76"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB77 - EB-A9673W"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB78 - MLB-A9673AF"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB79 - MLB-Chinese"
-      },
-      {
-        "name": "Weighting PC Board",
-        "code": "OTPCB80 - FAA25402AF1"
-      },
-      {
-        "name": "Communication PC Board",
-        "code": "OTPCB81 - DAA25005C1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB82 - GDA25005B1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB83"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB84"
-      },
-      {
-        "name": "Communication PC Board",
-        "code": "OTPCB85 - DAA23550NNP1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB86"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB87"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB88"
-      },
-      {
-        "name": "PC Board Base",
-        "code": "OTPCB89 - RS14-RS5"
-      },
-      {
-        "name": "SOM-II Parallel PC Board",
-        "code": "OTPCB90 - GEA26800AL2"
-      },
-      {
-        "name": "Communication PC Board",
-        "code": "OTPCB91 - RS18-GCA25005C1"
-      },
-      {
-        "name": "Communication PC Board",
-        "code": "OTPCB92"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB93 - RSEB-Chinese"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB94"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB95"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB96 - DAA26800J1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB97 - RSEB-USA"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB98 - DAA26800L1"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB99 - FAA2500E2"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB100 - JCA26801AAJ01"
-      },
-      {
-        "name": "PC Board",
-        "code": "OTPCB101 - NAA20412AAA01"
+        "name": "Oil Box Felt,51 X 38 X 13",
+        "code": "OTOC06 - "
       }
     ]
   },

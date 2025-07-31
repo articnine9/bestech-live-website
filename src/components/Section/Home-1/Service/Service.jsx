@@ -8,7 +8,7 @@ import "swiper/css/pagination";
 import Link from "next/link";
 import ServiceCard from "~/components/Ui/Cards/ServiceCard";
 
-const Service = () => {
+const RelatedProduct = () => {
   return (
     <section className="service-one padding-bottom">
       <div className="container">
@@ -88,4 +88,4 @@ const Service = () => {
   );
 };
 
-export default Service;
+export default RelatedProduct;
