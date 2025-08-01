@@ -1,5 +1,5 @@
 "use client";
-import { GoogleAnalytics } from "@next/third-parties/google";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 import "../assets/css/bootstrap.min.css";
 import "../assets/css/all.min.css";
@@ -57,7 +57,7 @@ export default function RootLayout({ children }) {
         )}
       </head>
       <body>
-        <GoogleAnalytics gaId="GTM-M6PZHR4B" />
+        <GoogleTagManager gtmId="GTM-M6PZHR4B" />
         <Loading isLoading={isLoading} />
         {!isLoading && (
           <>

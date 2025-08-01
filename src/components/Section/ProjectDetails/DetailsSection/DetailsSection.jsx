@@ -27,7 +27,7 @@ const DetailsSection = ({ product, category }) => {
 
   useEffect(() => {
     preloadImages();
-  }, []);
+  }, [preloadImages]);
 
   useEffect(() => {
     const handleKey = (e) => {
