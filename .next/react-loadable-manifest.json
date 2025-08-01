@@ -1,44 +1,56 @@
 {
-  "components\\Section\\About\\FactSection\\FactSection.jsx -> react-animated-numbers": {
-    "id": 4999,
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 472,
     "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
+      "static/chunks/472.a3826d29d6854395.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 9341,
+    "files": [
+      "static/chunks/341.716d46e6e5cb6bdc.js"
+    ]
+  },
+  "components\\Section\\About\\FactSection\\FactSection.jsx -> react-animated-numbers": {
+    "id": 9055,
+    "files": [
+      "static/chunks/55.07d090b8e4ebc29c.js"
     ]
   },
   "components\\Section\\Home-1\\Fact\\Fact.jsx -> react-animated-numbers": {
-    "id": 4999,
+    "id": 9055,
     "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
+      "static/chunks/55.07d090b8e4ebc29c.js"
     ]
   },
   "components\\Section\\Home-1\\WorkingProcess\\WorkingProcess.jsx -> wowjs": {
-    "id": 9605,
+    "id": 1606,
     "files": [
-      "static/chunks/605.1558d86281819628.js"
+      "static/chunks/606.0ebcfb668f70c154.js"
     ]
   },
   "components\\Section\\Services\\ChooseUs\\ChooseUs.jsx -> react-animated-numbers": {
-    "id": 4999,
+    "id": 9055,
     "files": [
-      "static/chunks/999.e12298ef4e9c4235.js"
+      "static/chunks/55.07d090b8e4ebc29c.js"
     ]
   },
   "components\\Section\\Services\\WorkProcess\\WorkProcess.jsx -> wowjs": {
-    "id": 9605,
+    "id": 1606,
     "files": [
-      "static/chunks/605.1558d86281819628.js"
+      "static/chunks/606.0ebcfb668f70c154.js"
     ]
   },
   "components\\Ui\\Cards\\LatestBlogCard.jsx -> wowjs": {
-    "id": 9605,
+    "id": 1606,
     "files": [
-      "static/chunks/605.1558d86281819628.js"
+      "static/chunks/606.0ebcfb668f70c154.js"
     ]
   },
   "components\\Ui\\Cards\\TeamCardThree.jsx -> wowjs": {
-    "id": 9605,
+    "id": 1606,
     "files": [
-      "static/chunks/605.1558d86281819628.js"
+      "static/chunks/606.0ebcfb668f70c154.js"
     ]
   }
 }
