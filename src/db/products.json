@@ -37,7 +37,8 @@
         "description": "100m/roll",
         "code": "BS-CW0001",
         "url": "/cables-and-wires/wire-0-75mm",
-        "image": "/img/products/cables-and-wires/wire-0-75mm/4.-Wire-0.75mm---100mroll.jpg"
+        "image": "/img/products/cables-and-wires/wire-0-75mm/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Wire 6mm",
@@ -702,21 +703,24 @@
         "description": "",
         "code": "BS-EL0001",
         "url": "/electrical/connector-pt2-5",
-        "image": "/img/products/electrical/connector-pt2-5/1.jpg"
+        "image": "/img/products/electrical/connector-pt2-5/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Connector PT6",
         "description": "",
         "code": "BS-EL0002",
         "url": "/electrical/connector-pt6",
-        "image": "/img/products/electrical/connector-pt6/1.jpg"
+        "image": "/img/products/electrical/connector-pt6/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Connector PT10",
         "description": "",
         "code": "BS-EL0003",
         "url": "/electrical/connector-pt10",
-        "image": "/img/products/electrical/connector-pt10/1.jpg"
+        "image": "/img/products/electrical/connector-pt10/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Inspection box",

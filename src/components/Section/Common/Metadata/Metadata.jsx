@@ -1,10 +1,23 @@
 export const Metadata = {
-  title: "Bestech || Your Trusted Partner for Elevator Spare Parts in the UAE",
+  title: "Bestech – Industrial & Electrical Products",
   description:
-    "Bestech specializes in high-quality elevator spare parts for residential, commercial, and industrial buildings across Sharjah and the UAE. Fast delivery, expert support, and a wide inventory of reliable components.",
+    "Bestech provides high-quality industrial and electrical components tailored to your engineering needs.",
   icons: {
-    icon: ["/favicon.ico?v=4"],
-    apple: ["/favicon.ico?v=4"],
-    shortcut: ["/favicon.ico"],
+    icon: ["/favicon.ico"], // basic favicon
+    apple: ["/apple-touch-icon.png"], // iOS icon
+    shortcut: ["/favicon-32x32.png"], // older browser support
+  },
+  openGraph: {
+    title: "Bestech – Your Trusted Electrical Partner",
+    description: "Discover reliable and efficient electrical solutions.",
+    url: "https://www.bestech.com",
+    images: [
+      {
+        url: "/img/opengraph.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Bestech Product Banner",
+      },
+    ],
   },
 };

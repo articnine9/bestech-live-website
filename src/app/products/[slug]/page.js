@@ -1,26 +1,33 @@
-import Product from "~/components/Section/Product/Product";
-import CtaThree from "~/components/Section/Common/Cta/CtaThree";
-import data from "~/db/products.json";
+"use client";
+
+import { useParams } from "next/navigation";
+import { useEffect, useState } from "react";
 import PageHeader from "~/components/Section/Common/PageHeader";
+import Product from "~/components/Section/Product/Product";
 
-// ✅ App Router: receive `params` from the URL
-export default function Page({ params }) {
-  const { slug } = params;
+export default function Page() {
+  const { slug } = useParams(); // ✅ This is allowed in a client component
+  const [category, setCategory] = useState(null);
 
-  // Match slug with data
-  const matchedCategory = data.find((category) => category.slug === slug);
+  useEffect(() => {
+    const fetchData = async () => {
+      const res = await fetch("/data/products.json");
+      const data = await res.json();
+      const found = data.find((cat) => cat.slug === slug);
+      setCategory(found);
+    };
+    fetchData();
+  }, [slug]);
 
-  if (!matchedCategory) {
-    return (
-      <p className="text-center">No products found for &quot;{slug}&quot;</p>
-    );
+  if (!category) {
+    return <p className="text-center">Loading or not found...</p>;
   }
 
   return (
     <div className="body-dark-bg">
       <div className="fix">
-        <PageHeader title={matchedCategory.page_name} />
-        <Product category={matchedCategory} />
+        <PageHeader title={category.page_name} />
+        <Product category={category} />
       </div>
     </div>
   );

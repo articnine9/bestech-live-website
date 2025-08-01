@@ -9,25 +9,32 @@ const DetailsSection = ({ product, category }) => {
   const [preloadedImages, setPreloadedImages] = useState({});
   const [lightboxOpen, setLightboxOpen] = useState(false);
 
-  const images = product?.images?.length ? product.images : [product?.image];
+  const images =
+    Array.isArray(product?.slider) && product.slider.length > 0
+      ? product.slider.map((num) => {
+          const basePath = product.image?.substring(
+            0,
+            product.image.lastIndexOf("/") + 1
+          );
+          return `${basePath}${num}.jpg`;
+        })
+      : product?.image
+      ? [product.image]
+      : [];
 
   const goToSlide = (index) => {
     const newIndex = (index + images.length) % images.length;
     setCurrentSlideIndex(newIndex);
   };
 
-  const preloadImages = () => {
-    const loaded = {};
-    images.forEach((src) => {
-      loaded[src] = new Image();
-      loaded[src].src = src;
-    });
-    setPreloadedImages(loaded);
-  };
-
-  useEffect(() => {
-    preloadImages();
-  }, [preloadImages]);
+  // useEffect(() => {
+  //   const loaded = {};
+  //   images.forEach((src) => {
+  //     loaded[src] = new Image();
+  //     loaded[src].src = src;
+  //   });
+  //   setPreloadedImages(loaded);
+  // }, [images]);
 
   useEffect(() => {
     const handleKey = (e) => {
@@ -47,13 +54,6 @@ const DetailsSection = ({ product, category }) => {
           {/* Main Content */}
           <div className="col-xl-8">
             <div className="services-details-page__content">
-              {/* <div className="services-details-page__content-img1">
-                <img
-                  src={product?.image || images[0]}
-                  alt={product?.name || "Product image"}
-                />
-              </div> */}
-
               {/* Image Slider */}
               <div className="image-slider">
                 <section className="slider__content">
@@ -107,6 +107,8 @@ const DetailsSection = ({ product, category }) => {
             <ProjectInfoCard product={product} category={category} />
           </div>
         </div>
+
+        {/* Related Products */}
         <div>
           <RelatedProduct category={category} />
         </div>
