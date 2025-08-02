@@ -262,28 +262,32 @@
         "description": "KDS330/KDS220",
         "code": "BS-BT0006",
         "url": "/buttons/button-kds330-kds220",
-        "image": "/img/products/buttons/button-kds330-kds220/1.jpg"
+        "image": "/img/products/buttons/button-kds330-kds220/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: MTD482",
         "description": "MTD482",
         "code": "BS-BT0007",
         "url": "/buttons/button-mtd482",
-        "image": "/img/products/buttons/button-mtd482/1.jpg"
+        "image": "/img/products/buttons/button-mtd482/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: MTD340",
         "description": "MTD340",
         "code": "BS-BT0008",
         "url": "/buttons/button-mtd340",
-        "image": "/img/products/buttons/button-mtd340/1.jpg"
+        "image": "/img/products/buttons/button-mtd340/1.jpg",
+        "slider": ["1", "2", "3", "4"]
       },
       {
         "name": "Button: AK2026F",
         "description": "AK2026F",
         "code": "BS-BT0009",
         "url": "/buttons/button-ak2026f",
-        "image": "/img/products/buttons/button-ak2026f/1.jpg"
+        "image": "/img/products/buttons/button-ak2026f/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button",
@@ -979,7 +983,8 @@
         "description": "10001",
         "code": "BS-DL0003",
         "url": "/door-locks/cop-lock-key-10001",
-        "image": "/img/products/door-locks/cop-lock-key-10001/1.jpg"
+        "image": "/img/products/door-locks/cop-lock-key-10001/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Landing Door Lock: MKG_161-06",
@@ -1000,7 +1005,8 @@
         "description": "E-431",
         "code": "BS-DL0006",
         "url": "/door-locks/cop-lock-e-431",
-        "image": "/img/products/door-locks/cop-lock-e-431/1.jpg"
+        "image": "/img/products/door-locks/cop-lock-e-431/1.jpg",
+        "slider": ["1"]
       },
       {
         "name": "Landing Door Lock: G509/102121A",
@@ -1021,7 +1027,8 @@
         "description": "161",
         "code": "BS-DL0009",
         "url": "/door-locks/door-lock-contact-161",
-        "image": "/img/products/door-locks/door-lock-contact-161/1.jpg"
+        "image": "/img/products/door-locks/door-lock-contact-161/1.jpg",
+        "slider": ["1"]
       },
       {
         "name": "Triangle Lock",
@@ -1154,7 +1161,8 @@
         "description": "",
         "code": "BS-DL0027",
         "url": "/door-locks/door-closer",
-        "image": "/img/products/door-locks/door-closer/1.jpg"
+        "image": "/img/products/door-locks/door-closer/1.jpg",
+        "slider": ["1", "2"]
       }
     ]
   },
@@ -1168,14 +1176,16 @@
         "description": "85 X 20 X 6204",
         "code": "BS-DW0001",
         "url": "/door-wheels/door-hanging-wheel-small-85-20-6204",
-        "image": "/img/products/door-wheels/door-hanging-wheel-small-85-20-6204/1.jpg"
+        "image": "/img/products/door-wheels/door-hanging-wheel-small-85-20-6204/1.jpg",
+        "slider": ["1", "2", "3", "4", "5"]
       },
       {
         "name": "Door hanging wheel big: 140 X 20 X 6204",
         "description": "140 X 20 X 6204",
         "code": "BS-DW0002",
         "url": "/door-wheels/door-hanging-wheel-big-140-20-6204",
-        "image": "/img/products/door-wheels/door-hanging-wheel-big-140-20-6204/1.jpg"
+        "image": "/img/products/door-wheels/door-hanging-wheel-big-140-20-6204/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Door hanging wheel: 52 X 16 X 6003",
