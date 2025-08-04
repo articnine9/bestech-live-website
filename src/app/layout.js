@@ -20,6 +20,7 @@ import Header from "../components/Section/Common/Header";
 import React, { useEffect, useState } from "react";
 import { Metadata } from "../components/Section/Common/Metadata/Metadata";
 import { usePathname } from "next/navigation";
+import ChatPopup from "@/components/ChatPopup";
 
 export default function RootLayout({ children }) {
   const [isLoading, setIsLoading] = useState(false);
@@ -63,6 +64,7 @@ export default function RootLayout({ children }) {
           <>
             <Header />
             {children}
+            <ChatPopup />
             <Footer />
           </>
         )}
