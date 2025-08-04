@@ -16,7 +16,7 @@
         "description": "50pcs box",
         "code": "BS-EU0002",
         "url": "/connectors/connector-pt6-bs-eu0002",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/connectors/wire-6mm/1.jpg"
       },
       {
         "name": "Connector PT10",
@@ -45,21 +45,24 @@
         "description": "100m/roll",
         "code": "BS-CW0002",
         "url": "/cables-and-wires/wire-6mm",
-        "image": "/img/products/cables-and-wires/wire-6mm/1.jpg"
+        "image": "/img/products/cables-and-wires/wire-6mm/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Wire 8mm",
         "description": "100m/roll",
         "code": "BS-CW0003",
         "url": "/cables-and-wires/wire-8mm",
-        "image": "/img/products/cables-and-wires/wire-8mm/1.jpg"
+        "image": "/img/products/cables-and-wires/wire-8mm/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Wire 10mm",
         "description": "100m/roll",
         "code": "BS-CW0004",
         "url": "/cables-and-wires/wire-10mm",
-        "image": "/img/products/cables-and-wires/wire-10mm/1.jpg"
+        "image": "/img/products/cables-and-wires/wire-10mm/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Wire lugs 0.75mm",
@@ -129,21 +132,24 @@
         "description": "",
         "code": "BS-CT0001",
         "url": "/contactors/contactor-ac110v-25a-1no-1nc",
-        "image": "/img/products/contactors/contactor-ac110v-25a-1no-1nc/1.jpg"
+        "image": "/img/products/contactors/contactor-ac110v-25a-1no-1nc/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Contactor AC110V 32A 1NO+1NC",
         "description": "",
         "code": "BS-CT0002",
         "url": "/contactors/contactor-ac110v-32a-1no-1nc",
-        "image": "/img/products/contactors/contactor-ac110v-32a-1no-1nc/1.jpg"
+        "image": "/img/products/contactors/contactor-ac110v-32a-1no-1nc/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Contactor AC110V 50A 1NO+1NC",
         "description": "",
         "code": "BS-CT0003",
         "url": "/contactors/contactor-ac110v-50a-1no-1nc",
-        "image": "/img/products/contactors/contactor-ac110v-50a-1no-1nc/1.jpg"
+        "image": "/img/products/contactors/contactor-ac110v-50a-1no-1nc/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Contactor AC110V 65A 1NO+1NC",
@@ -185,21 +191,24 @@
         "description": "",
         "code": "BS-CB0001",
         "url": "/circuit-breakers/mcb-63a-4p",
-        "image": "/img/products/circuit-breakers/mcb-63a-4p/1.jpg"
+        "image": "/img/products/circuit-breakers/mcb-63a-4p/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "MCB 6A 1P",
         "description": "",
         "code": "BS-CB0002",
         "url": "/circuit-breakers/mcb-6a-1p",
-        "image": "/img/products/circuit-breakers/mcb-6a-1p/1.jpg"
+        "image": "/img/products/circuit-breakers/mcb-6a-1p/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "MCB 10A 1P",
         "description": "",
         "code": "BS-CB0003",
         "url": "/circuit-breakers/mcb-10a-1p",
-        "image": "/img/products/circuit-breakers/mcb-10a-1p/1.jpg"
+        "image": "/img/products/circuit-breakers/mcb-10a-1p/1.jpg",
+        "slider": ["1", "2", "3", "4"]
       },
       {
         "name": "MCB 6A 2P",
@@ -213,7 +222,8 @@
         "description": "",
         "code": "BS-CB0005",
         "url": "/circuit-breakers/mcb-10a-2p",
-        "image": "/img/products/circuit-breakers/mcb-10a-2p/1.jpg"
+        "image": "/img/products/circuit-breakers/mcb-10a-2p/1.jpg",
+        "slider": ["1", "2", "3"]
       }
     ]
   },
@@ -227,21 +237,24 @@
         "description": "LA137-BS542 40",
         "code": "BS-BT0001",
         "url": "/buttons/stop-push-button-nc",
-        "image": "/img/products/buttons/stop-push-button-nc/1.jpg"
+        "image": "/img/products/buttons/stop-push-button-nc/1.jpg",
+        "slider": ["1", "2"]
       },
       {
-        "name": "RED arrow button (NO)",
-        "description": "LA137-BA4322",
+        "name": "White arrow button (NO)",
+        "description": "LA137-XB2-BA3341",
         "code": "BS-BT0002",
-        "url": "/buttons/red-arrow-button-no",
-        "image": "/img/product-default-img.jpg"
+        "url": "/buttons/white-arrow-button-no",
+        "image": "/img/products/buttons/white-arrow-button-no/1.jpg",
+        "slider": ["1", "2"]
       },
       {
-        "name": "GREEN arrow button (NO)",
-        "description": "LA137-BA3311",
+        "name": "Black arrow button (NO)",
+        "description": "LA137-XB2-BA3351",
         "code": "BS-BT0003",
-        "url": "/buttons/green-arrow-button-no",
-        "image": "/img/product-default-img.jpg"
+        "url": "/buttons/black-arrow-button-no",
+        "image": "/img/products/buttons/black-arrow-button-no/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Green push button with light (NO)",
@@ -266,11 +279,11 @@
         "slider": ["1", "2"]
       },
       {
-        "name": "Button: MTD482",
-        "description": "MTD482",
+        "name": "Button:  MTD482 DA482A101",
+        "description": " MTD482 DA482A101",
         "code": "BS-BT0007",
-        "url": "/buttons/button-mtd482",
-        "image": "/img/products/buttons/button-mtd482/1.jpg",
+        "url": "/buttons/button-mtd482-da482a101",
+        "image": "/img/products/buttons/button-mtd482-da482a101/1.jpg",
         "slider": ["1", "2"]
       },
       {
@@ -290,35 +303,35 @@
         "slider": ["1", "2"]
       },
       {
-        "name": "Button",
+        "name": "Button: BR27C/A311",
         "description": "BR27C/A311",
         "code": "BS-BT0010",
         "url": "/buttons/button-br27c-a311",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: CN03010009/A4J16354",
         "description": "CN03010009/A4J16354",
         "code": "BS-BT0011",
         "url": "/buttons/button-cn03010009-a4j16354",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: A3N47136/KAS441",
         "description": "A3N47136/KAS441",
         "code": "BS-BT0012",
         "url": "/buttons/button-a3n47136-kas441",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: A3N47325/AJ47324A2",
         "description": "A3N47325/AJ47324A2",
         "code": "BS-BT0013",
         "url": "/buttons/button-a3n47325-aj47324a2",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: KD550",
         "description": "KD550",
         "code": "BS-BT0014",
         "url": "/buttons/button-kd550",
@@ -332,7 +345,7 @@
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: KMBS7782G0",
         "description": "KMBS7782G0",
         "code": "BS-BT0016",
         "url": "/buttons/button-kmbs7782g0",
@@ -346,28 +359,28 @@
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: MTD511G01/DA511G01",
         "description": "MTD511G01/DA511G01",
         "code": "BS-BT0018",
         "url": "/buttons/button-mtd511g01-da511g01",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: DA180/MTD180",
         "description": "DA180/MTD180",
         "code": "BS-BT0019",
         "url": "/buttons/button-da180-mtd180",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: SL-TC",
         "description": "SL-TC",
         "code": "BS-BT0020",
         "url": "/buttons/button-sl-tc",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button",
+        "name": "Button: HD60-1",
         "description": "HD60-1",
         "code": "BS-BT0021",
         "url": "/buttons/button-hd60-1",
@@ -389,191 +402,30 @@
       },
       {
         "name": "Button: MTD118",
-        "description": "Fuji: MTD118",
+        "description": "MTD118",
         "code": "BS-BT0024",
         "url": "/buttons/button-mtd118",
         "image": "/img/product-default-img.jpg"
       },
       {
         "name": "Button: A4J13868/A4N13869",
-        "description": "Fuji: A4J13868/A4N13869",
+        "description": "A4J13868/A4N13869",
         "code": "BS-BT0025",
         "url": "/buttons/button-a4j13868-a4n13869",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "Button: 161",
-        "description": "161",
-        "code": "BS-BT0026",
-        "url": "/buttons/button-161",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
         "name": "Button: DA411/B113/MTD411",
         "description": "DA411/B113/MTD411",
-        "code": "BS-BT0027",
+        "code": "BS-BT0026",
         "url": "/buttons/button-da411-b113-mtd411",
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "COP Button - Open",
-        "description": "",
-        "code": "BS-BT0028",
-        "url": "/buttons/cop-button-open",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - Close",
-        "description": "",
-        "code": "BS-BT0029",
-        "url": "/buttons/cop-button-close",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - P1",
-        "description": "",
-        "code": "BS-BT0030",
-        "url": "/buttons/cop-button-p1",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - P2",
-        "description": "",
-        "code": "BS-BT0031",
-        "url": "/buttons/cop-button-p2",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - P3",
-        "description": "",
-        "code": "BS-BT0032",
-        "url": "/buttons/cop-button-p3",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - P4",
-        "description": "",
-        "code": "BS-BT0033",
-        "url": "/buttons/cop-button-p4",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - P5",
-        "description": "",
-        "code": "BS-BT0034",
-        "url": "/buttons/cop-button-p5",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - G",
-        "description": "",
-        "code": "BS-BT0035",
-        "url": "/buttons/cop-button-g",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - M",
-        "description": "",
-        "code": "BS-BT0036",
-        "url": "/buttons/cop-button-m",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 1",
-        "description": "",
-        "code": "BS-BT0037",
-        "url": "/buttons/cop-button-1",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 2",
-        "description": "",
-        "code": "BS-BT0038",
-        "url": "/buttons/cop-button-2",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 3",
-        "description": "",
-        "code": "BS-BT0039",
-        "url": "/buttons/cop-button-3",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 4",
-        "description": "",
-        "code": "BS-BT0040",
-        "url": "/buttons/cop-button-4",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 5",
-        "description": "",
-        "code": "BS-BT0041",
-        "url": "/buttons/cop-button-5",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 6",
-        "description": "",
-        "code": "BS-BT0042",
-        "url": "/buttons/cop-button-6",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 7",
-        "description": "",
-        "code": "BS-BT0043",
-        "url": "/buttons/cop-button-7",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 8",
-        "description": "",
-        "code": "BS-BT0044",
-        "url": "/buttons/cop-button-8",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 9",
-        "description": "",
-        "code": "BS-BT0045",
-        "url": "/buttons/cop-button-9",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 10",
-        "description": "",
-        "code": "BS-BT0046",
-        "url": "/buttons/cop-button-10",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 11",
-        "description": "",
-        "code": "BS-BT0047",
-        "url": "/buttons/cop-button-11",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - 12",
-        "description": "",
-        "code": "BS-BT0048",
-        "url": "/buttons/cop-button-12",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - R",
-        "description": "",
-        "code": "BS-BT0049",
-        "url": "/buttons/cop-button-r",
-        "image": "/img/product-default-img.jpg"
-      },
-      {
-        "name": "COP Button - Alarm",
-        "description": "",
-        "code": "BS-BT0050",
-        "url": "/buttons/cop-button-alarm",
+        "name": "Emergency light round - COP",
+        "description": "KA313-0",
+        "code": "BS-BT0051",
+        "url": "/buttons/emergency-light-round-cop-ka313-0",
         "image": "/img/product-default-img.jpg"
       }
     ]
@@ -588,7 +440,8 @@
         "description": "LA137-BD21",
         "code": "BS-SW0001",
         "url": "/switches/inspection-normal-switch-no",
-        "image": "/img/products/switches/inspection-normal-switch-no/1.jpg"
+        "image": "/img/products/switches/inspection-normal-switch-no/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Inspection / normal switch light (NO)",
@@ -609,28 +462,32 @@
         "description": "LAY7(PBCY090)LAY37",
         "code": "BS-SW0004",
         "url": "/switches/emergency-stop-switch-lay7",
-        "image": "/img/products/switches/emergency-stop-switch-lay7/1.jpg"
+        "image": "/img/products/switches/emergency-stop-switch-lay7/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Buffer switch",
         "description": "UKS/UKT",
         "code": "BS-SW0005",
         "url": "/switches/buffer-switch-uks-ukt",
-        "image": "/img/products/switches/buffer-switch-uks-ukt/1.jpg"
+        "image": "/img/products/switches/buffer-switch-uks-ukt/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Pit buffer switch",
-        "description": "35E3-020-1A/LXP1-020",
+        "description": "LXP1(3SE3)-020-1A",
         "code": "BS-SW0006",
-        "url": "/switches/pit-buffer-switch-35e3-020-1a-lxp1-020",
-        "image": "/img/products/switches/pit-buffer-switch-35e3-020-1a-lxp1-020/1.jpg"
+        "url": "/switches/pit-buffer-switch-lxp1-3SE3-020-1a",
+        "image": "/img/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Door switch",
         "description": "DS-131",
         "code": "BS-SW0007",
         "url": "/switches/door-switch-ds-131",
-        "image": "/img/products/switches/door-switch-ds-131/1.jpg"
+        "image": "/img/products/switches/door-switch-ds-131/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Door machine switch",
@@ -738,7 +595,8 @@
         "description": "LRS-150-24",
         "code": "BS-EL0005",
         "url": "/electrical/switching-power-supply-smps",
-        "image": "/img/products/electrical/switching-power-supply-smps/1.jpg"
+        "image": "/img/products/electrical/switching-power-supply-smps/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Phase Sequence Relay",
@@ -871,49 +729,56 @@
         "description": "",
         "code": "BS-ME0001",
         "url": "/mechanical/rivet-nuts-jx-f-m3-r-st",
-        "image": "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/1.jpg"
+        "image": "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Rivet nuts JX-F-M4-R-ST",
         "description": "",
         "code": "BS-ME0002",
         "url": "/mechanical/rivet-nuts-jx-f-m4-r-st",
-        "image": "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/1.jpg"
+        "image": "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Rivet nuts JX-F-M5-R-ST",
         "description": "",
         "code": "BS-ME0003",
         "url": "/mechanical/rivet-nuts-jx-f-m5-r-st",
-        "image": "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/1.jpg"
+        "image": "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Rivet nuts JX-F-M6-R-ST",
         "description": "",
         "code": "BS-ME0004",
         "url": "/mechanical/rivet-nuts-jx-f-m6-r-st",
-        "image": "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/1.jpg"
+        "image": "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Steel Socket Head Screws M3X20mm",
         "description": "",
         "code": "BS-ME0005",
         "url": "/mechanical/steel-socket-head-screws-m3x20mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m3x20mm/1.jpg"
+        "image": "/img/products/mechanical/steel-socket-head-screws-m3x20mm/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Steel Socket Head Screws M3X30mm",
         "description": "",
         "code": "BS-ME0006",
         "url": "/mechanical/steel-socket-head-screws-m3x30mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m3x30mm/1.jpg"
+        "image": "/img/products/mechanical/steel-socket-head-screws-m3x30mm/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Steel Socket Head Screws M4X20mm",
         "description": "",
         "code": "BS-ME0007",
         "url": "/mechanical/steel-socket-head-screws-m4x20mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m4x20mm/1.jpg"
+        "image": "/img/products/mechanical/steel-socket-head-screws-m4x20mm/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Steel Socket Head Screws M4X30mm",
@@ -927,28 +792,32 @@
         "description": "",
         "code": "BS-ME0009",
         "url": "/mechanical/steel-socket-head-screws-m5x20mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m5x20mm/1.jpg"
+        "image": "/img/products/mechanical/steel-socket-head-screws-m5x20mm/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Steel Socket Head Screws M5X30mm",
         "description": "",
         "code": "BS-ME0010",
         "url": "/mechanical/steel-socket-head-screws-m5x30mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m5x30mm/1.jpg"
+        "image": "/img/products/mechanical/steel-socket-head-screws-m5x30mm/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Steel Socket Head Screws M6X20mm",
         "description": "",
         "code": "BS-ME0011",
         "url": "/mechanical/steel-socket-head-screws-m6x20mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m6x20mm/1.jpg"
+        "image": "/img/products/mechanical/steel-socket-head-screws-m6x20mm/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Steel Socket Head Screws M6X30mm",
         "description": "",
         "code": "BS-ME0012",
         "url": "/mechanical/steel-socket-head-screws-m6x30mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m6x30mm/1.jpg"
+        "image": "/img/products/mechanical/steel-socket-head-screws-m6x30mm/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Battery rivet machine",
@@ -969,7 +838,7 @@
         "description": "",
         "code": "BS-DL0001",
         "url": "/door-locks/door-triangle-lock",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-locks/door-triangle-lock/1.jpg"
       },
       {
         "name": "Door Lock Contact: AZ-05",
@@ -1013,7 +882,8 @@
         "description": "G509/102121A",
         "code": "BS-DL0007",
         "url": "/door-locks/landing-door-lock-g509-102121a",
-        "image": "/img/products/door-locks/landing-door-lock-g509-102121a/1.jpg"
+        "image": "/img/products/door-locks/landing-door-lock-g509-102121a/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Door Lock Contact: AZ14-1KD",
@@ -1023,11 +893,11 @@
         "image": "/img/products/door-locks/door-lock-contact-az14-1kd/1.jpg"
       },
       {
-        "name": "Door Lock Contact: 161",
-        "description": "161",
+        "name": "Door Lock Contact: TY-161",
+        "description": "TY-161",
         "code": "BS-DL0009",
-        "url": "/door-locks/door-lock-contact-161",
-        "image": "/img/products/door-locks/door-lock-contact-161/1.jpg",
+        "url": "/door-locks/door-lock-contact-ty-161",
+        "image": "/img/products/door-locks/door-lock-contact-ty-161/1.jpg",
         "slider": ["1"]
       },
       {
@@ -1049,7 +919,8 @@
         "description": "KF-ZV",
         "code": "BS-DL0012",
         "url": "/door-locks/door-lock-contact-kf-zv",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-locks/door-lock-contact-kf-zv/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "LOP Lock: ALL/FAN/VIP",
@@ -1177,7 +1048,7 @@
         "code": "BS-DW0001",
         "url": "/door-wheels/door-hanging-wheel-small-85-20-6204",
         "image": "/img/products/door-wheels/door-hanging-wheel-small-85-20-6204/1.jpg",
-        "slider": ["1", "2", "3", "4", "5"]
+        "slider": ["1", "2", "3", "4"]
       },
       {
         "name": "Door hanging wheel big: 140 X 20 X 6204",
@@ -1227,7 +1098,8 @@
         "description": "C144AANP",
         "code": "BS-DW0008",
         "url": "/door-wheels/door-hanging-wheel-c144aanp",
-        "image": "/img/products/door-wheels/door-hanging-wheel-c144aanp/1.jpg"
+        "image": "/img/products/door-wheels/door-hanging-wheel-c144aanp/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Door belt wheel: PWVC",
@@ -1241,7 +1113,7 @@
         "description": "38 X 20 X 6000",
         "code": "BS-DW0010",
         "url": "/door-wheels/door-belt-wheel-38-20-6000",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-wheels/door-belt-wheel-38-20-6000/1.jpg"
       },
       {
         "name": "Door belt wheel: F9",
@@ -1255,7 +1127,8 @@
         "description": "",
         "code": "BS-DW0012",
         "url": "/door-wheels/door-machine-positioning-wheel",
-        "image": "/img/products/door-wheels/door-machine-positioning-wheel/1.jpg"
+        "image": "/img/products/door-wheels/door-machine-positioning-wheel/1.jpg",
+        "slider": ["1", "2", "3", "4", "5", "6"]
       },
       {
         "name": "Door hanging wheel: 56 X 16 X 6201",
@@ -1311,7 +1184,8 @@
         "description": "62 X 16 X 6203",
         "code": "BS-DW0020",
         "url": "/door-wheels/door-hanging-wheel-62-16-6203",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-wheels/door-hanging-wheel-62-16-6203/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Door wheel bracket: AMD",
@@ -1332,49 +1206,55 @@
         "description": "DW-C1",
         "code": "BS-SR0001",
         "url": "/sensors/load-sensor-dw-c1",
-        "image": "/img/products/sensors/load-sensor-dw-c1/1.jpg"
+        "image": "/img/products/sensors/load-sensor-dw-c1/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Leveling sensor: 61U 61N 30 77U 77N",
         "description": "61U 61N 30 77U 77N",
         "code": "BS-SR0002",
         "url": "/sensors/leveling-sensor-61u-61n-30-77u-77n",
-        "image": "/img/products/sensors/leveling-sensor-61u-61n-30-77u-77n/1.jpg"
+        "image": "/img/products/sensors/leveling-sensor-61u-61n-30-77u-77n/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
-        "name": "U-Type leveling sensor",
-        "description": "",
+        "name": "U-Type leveling sensor: DS-25/KM86420G03",
+        "description": "DS-25/KM86420G03",
         "code": "BS-SR0003",
         "url": "/sensors/u-type-leveling-sensor",
         "image": "/img/products/sensors/u-type-leveling-sensor/1.jpg"
       },
-      {
-        "name": "Leveling sensor: DS-25/KM86420G03",
-        "description": "DS-25/KM86420G03",
-        "code": "BS-SR0004",
-        "url": "/sensors/leveling-sensor-ds-25-km86420g03",
-        "image": "/img/product-default-img.jpg"
-      },
+
       {
         "name": "Leveling sensor: GLS126NT2NCNO",
         "description": "GLS126NT2NCNO",
-        "code": "BS-SR0005",
+        "code": "BS-SR0004",
         "url": "/sensors/leveling-sensor-gls126nt2ncno",
-        "image": "/img/products/sensors/leveling-sensor-gls126nt2ncno/1.jpg"
+        "image": "/img/products/sensors/leveling-sensor-gls126nt2ncno/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Leveling sensor: YG-28/25/2561/128",
         "description": "YG-28/25/2561/128",
-        "code": "BS-SR0006",
+        "code": "BS-SR0005",
         "url": "/sensors/leveling-sensor-yg-28-25-2561-128",
-        "image": "/img/products/sensors/leveling-sensor-yg-28-25-2561-128/1.jpg"
+        "image": "/img/products/sensors/leveling-sensor-yg-28-25-2561-128/1.jpg",
+        "slider": ["1", "2", "3", "4", "5", "6", "7"]
+      },
+      {
+        "name": "Leveling  sensor: ZPAD01-001",
+        "description": "ZPAD01-001",
+        "code": "BS-SR0006",
+        "url": "/sensors/leveling-sensor-zpad01-001",
+        "image": "/img/products/sensors/leveling-sensor-zpad01-001/1.jpg"
       },
       {
         "name": "Leveling sensor: GLS TK",
         "description": "GLS TK",
         "code": "BS-SR0007",
         "url": "/sensors/leveling-sensor-gls-tk",
-        "image": "/img/products/sensors/leveling-sensor-gls-tk/1.jpg"
+        "image": "/img/products/sensors/leveling-sensor-gls-tk/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Leveling sensor: MKF71ASAKX",
@@ -1406,32 +1286,32 @@
     "code": "BS-GS",
     "items": [
       {
-        "name": "Guide shoe: SG12/SG13",
+        "name": "Guide shoe: SG12/SG13 T",
         "description": "SG12/SG13",
         "code": "BS-GS0030",
-        "url": "/guide-shoes/guide-shoe-sg12-sg13",
-        "image": "/img/products/guide-shoes/guide-shoe-sg12-sg13/1.jpg"
+        "url": "/guide-shoes/guide-shoe-sg12-sg13-t",
+        "image": "/img/products/guide-shoes/guide-shoe-sg12-sg13-t/1.jpg"
       },
       {
-        "name": "Guide shoe: 100/140 X 10/16",
+        "name": "Guide shoe: 100/100 X 10/16 S",
         "description": "100/140 X 10/16",
         "code": "BS-GS0001",
-        "url": "/guide-shoes/guide-shoe-100-140-10-16",
-        "image": "/img/products/guide-shoes/guide-shoe-100-140-10-16/1.jpg"
+        "url": "/guide-shoes/guide-shoe-100-100-10-16-s",
+        "image": "/img/products/guide-shoes/guide-shoe-100-100-10-16-s/1.jpg"
       },
       {
-        "name": "Guide shoe: 65 X 10 X 16",
+        "name": "Guide shoe: 65 X 10 X 16 S",
         "description": "65 X 10 X 16",
         "code": "BS-GS0002",
-        "url": "/guide-shoes/guide-shoe-65-10-16",
-        "image": "/img/products/guide-shoes/guide-shoe-65-10-16/1.jpg"
+        "url": "/guide-shoes/guide-shoe-65-10-16-s",
+        "image": "/img/products/guide-shoes/guide-shoe-65-10-16-s/1.jpg"
       },
       {
-        "name": "Guide shoe insert: 145 X 36",
+        "name": "Guide shoe insert: 145 X 36 O",
         "description": "145 X 36",
         "code": "BS-GS0003",
-        "url": "/guide-shoes/guide-shoe-insert-145-36",
-        "image": "/img/products/guide-shoes/guide-shoe-insert-145-36/1.jpg"
+        "url": "/guide-shoes/guide-shoe-insert-145-36-o",
+        "image": "/img/products/guide-shoes/guide-shoe-insert-145-36-o/1.jpg"
       },
       {
         "name": "General guide shoe insert: 120 X 10/16",
@@ -1448,11 +1328,11 @@
         "image": "/img/products/guide-shoes/general-guide-shoe-insert-140-10-16/1.jpg"
       },
       {
-        "name": "Guide shoe insert: 230 X 10/16",
+        "name": "Guide shoe insert: 230 X 10/16 M",
         "description": "230 X 10/16",
         "code": "BS-GS0005",
-        "url": "/guide-shoes/guide-shoe-insert-230-10-16",
-        "image": "/img/products/guide-shoes/guide-shoe-insert-230-10-16/1.jpg"
+        "url": "/guide-shoes/guide-shoe-insert-230-10-16-m",
+        "image": "/img/products/guide-shoes/guide-shoe-insert-230-10-16-m/1.jpg"
       },
       {
         "name": "Guide shoe wheel: 100 X 25 X 62052",
@@ -1634,35 +1514,37 @@
         "description": "",
         "code": "BS-DS0001",
         "url": "/door-sliders/k-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/k-door-slider/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "O-Door slider",
         "description": "",
         "code": "BS-DS0002",
         "url": "/door-sliders/o-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/o-door-slider/1.jpg"
       },
       {
         "name": "O-Nylon rubber door slider",
         "description": "",
         "code": "BS-DS0003",
         "url": "/door-sliders/o-nylon-rubber-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/o-nylon-rubber-door-slider/1.jpg"
       },
       {
         "name": "Door slider: K200/S200",
         "description": "K200/S200",
         "code": "BS-DS0004",
         "url": "/door-sliders/door-slider-k200-s200",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/door-slider-k200-s200/1.jpg",
+        "slider": ["1", "2", "3", "4"]
       },
       {
         "name": "S-Door slider",
         "description": "",
         "code": "BS-DS0005",
         "url": "/door-sliders/s-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/s-door-slider/1.jpg"
       },
       {
         "name": "LG-Door slider",
@@ -1672,60 +1554,62 @@
         "image": "/img/product-default-img.jpg"
       },
       {
-        "name": "T-Door slider",
+        "name": "TO-Door slider",
         "description": "",
         "code": "BS-DS0007",
-        "url": "/door-sliders/t-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "url": "/door-sliders/to-door-slider",
+        "image": "/img/products/door-sliders/to-door-slider/1.jpg"
       },
       {
         "name": "Hi-Door slider",
         "description": "",
         "code": "BS-DS0008",
         "url": "/door-sliders/hi-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/hi-door-slider/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "E-Door slider",
         "description": "",
         "code": "BS-DS0009",
         "url": "/door-sliders/e-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/e-door-slider/1.jpg",
+        "slider": ["1", "2"]
       },
       {
-        "name": "JY-Door slider",
+        "name": "HY-Door slider",
         "description": "",
         "code": "BS-DS0010",
-        "url": "/door-sliders/jy-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "url": "/door-sliders/hy-door-slider",
+        "image": "/img/products/door-sliders/hy-door-slider/1.jpg"
       },
       {
         "name": "C-Door slider",
         "description": "",
         "code": "BS-DS0011",
         "url": "/door-sliders/c-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/c-door-slider/1.jpg"
       },
       {
         "name": "I-Door slider",
         "description": "",
         "code": "BS-DS0012",
         "url": "/door-sliders/i-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/i-door-slider/1.jpg"
       },
       {
         "name": "Quilog door slider",
         "description": "",
         "code": "BS-DS0013",
         "url": "/door-sliders/quilog-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/quilog-door-slider/1.jpg"
       },
       {
         "name": "Freight Elevator door slider",
         "description": "",
         "code": "BS-DS0014",
         "url": "/door-sliders/freight-elevator-door-slider",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-sliders/freight-elevator-door-slider/1.jpg"
       },
       {
         "name": "M-Door slider",
