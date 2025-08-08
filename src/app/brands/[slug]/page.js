@@ -3,11 +3,30 @@ import CtaThree from "~/components/Section/Common/Cta/CtaThree";
 import data from "~/db/brands.json";
 import PageHeader from "~/components/Section/Common/PageHeader";
 
-// ✅ App Router: receive `params` from the URL
+// ✅ Add generateMetadata function
+export async function generateMetadata({ params }) {
+  const { slug } = params;
+
+  const matchedCategory = data.find((category) => category.slug === slug);
+
+  if (!matchedCategory) {
+    return {
+      title: "Page Not Found | Bestech Parts",
+      description: `No metadata available for "${slug}"`,
+    };
+  }
+
+  return {
+    title: matchedCategory.meta_title || matchedCategory.page_name,
+    description:
+      matchedCategory.meta_description || "Bestech Parts UAE product details.",
+  };
+}
+
+// ✅ App Router page
 export default function Page({ params }) {
   const { slug } = params;
 
-  // Match slug with data
   const matchedCategory = data.find((category) => category.slug === slug);
 
   if (!matchedCategory) {
@@ -20,9 +39,7 @@ export default function Page({ params }) {
     <div className="body-dark-bg">
       <div className="fix">
         <PageHeader title={matchedCategory.page_name} />
-
         <Brand category={matchedCategory} />
-
         {/* 🔽 Bootstrap 5 Styled Note Section */}
       </div>
     </div>

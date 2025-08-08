@@ -11,14 +11,14 @@ export default async function handler(req, res) {
     port: 587,
     secure: false,
     auth: {
-      user: "bluemoonconstruction4u@gmail.com",
-      pass: "kqbedrjuoshjrhqu", // This should be an App Password
+      user: "articnineweb@gmail.com",
+      pass: "rqiqmuwfolbiujch", // This should be an App Password
     },
   });
 
   try {
     await transporter.sendMail({
-      from: '"Contact Form" <bluemoonconstruction4u@gmail.com>',
+      from: '"Contact Form" <articnineweb@gmail.com>',
       to: "admin@bestechparts.ae, sales@bestechparts.ae",
       subject: "New Contact from Chatbot",
       text: `Contact info: ${contact}\nTime: ${time}`,

@@ -1198,6 +1198,9 @@ body.disable-scroll {
   .padding {
     padding: 80px 0px 80px !important;
   }
+  .main-slider-one__single {
+    padding: 120px 0px 80px !important;
+  }
   .padding-bottom {
     padding: 0px 0px 80px !important;
   }
@@ -1223,6 +1226,9 @@ body.disable-scroll {
 @media screen and (max-width: 767px) {
   .padding {
     padding: 60px 0px 60px !important;
+  }
+  .main-slider-one__single {
+    padding: 120px 0px 60px !important;
   }
   .padding-bottom {
     padding: 0px 0px 60px !important;

@@ -18,8 +18,8 @@ export default async function handler(req, res) {
     port: 587,
     secure: false,
     auth: {
-      user: "bluemoonconstruction4u@gmail.com",
-      pass: "kqbedrjuoshjrhqu",
+      user: "articnineweb@gmail.com",
+      pass: "rqiqmuwfolbiujch",
     },
   });
 

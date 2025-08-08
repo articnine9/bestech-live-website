@@ -1,34 +1,29 @@
-"use client";
+import fs from "fs";
+import path from "path";
+import ProductPageClient from "./ProductPageClient";
 
-import { useParams } from "next/navigation";
-import { useEffect, useState } from "react";
-import PageHeader from "~/components/Section/Common/PageHeader";
-import Product from "~/components/Section/Product/Product";
+export async function generateMetadata({ params }) {
+  const filePath = path.join(process.cwd(), "src", "db", "products.json");
+  const fileContents = fs.readFileSync(filePath, "utf-8");
+  const data = JSON.parse(fileContents);
 
-export default function Page() {
-  const { slug } = useParams(); // ✅ This is allowed in a client component
-  const [category, setCategory] = useState(null);
+  const found = data.find((cat) => cat.slug === params.slug);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      const res = await fetch("/data/products.json");
-      const data = await res.json();
-      const found = data.find((cat) => cat.slug === slug);
-      setCategory(found);
+  if (!found) {
+    return {
+      title: "Product Not Found",
+      description: "The product category you are looking for does not exist.",
     };
-    fetchData();
-  }, [slug]);
-
-  if (!category) {
-    return <p className="text-center">Loading or not found...</p>;
   }
 
-  return (
-    <div className="body-dark-bg">
-      <div className="fix">
-        <PageHeader title={category.page_name} />
-        <Product category={category} />
-      </div>
-    </div>
-  );
+  return {
+    title: found.meta_title || found.page_name,
+    description:
+      found.meta_description ||
+      "Explore our product category for more information.",
+  };
+}
+
+export default function Page() {
+  return <ProductPageClient />;
 }

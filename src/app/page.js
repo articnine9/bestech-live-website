@@ -15,6 +15,11 @@ import Testimonial from "~/components/Section/Home-1/Testimonial";
 import Video from "~/components/Section/Home-1/Video";
 import WorkingProcess from "~/components/Section/Home-1/WorkingProcess/WorkingProcess";
 
+export const metadata = {
+  title: "Elevator Spare Parts Suppliers in UAE | Quality Lift Components",
+  description:
+    "Top elevator spare parts suppliers in UAE. Get reliable, high-quality lift components for all brands. Fast delivery & competitive prices.",
+};
 export default function Home() {
   return (
     <div className="body-dark-bg homeOne">

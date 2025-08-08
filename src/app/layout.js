@@ -37,26 +37,6 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
-      <head>
-        <title>{Metadata.title}</title>
-        <meta name="description" content={Metadata.description} />
-        {/* Other Metadata properties */}
-        {Metadata.icons && (
-          <React.Fragment>
-            {Metadata.icons.icon.map((icon, index) => (
-              <link key={index} rel="icon" href={icon} />
-            ))}
-            {Metadata.icons.apple &&
-              Metadata.icons.apple.map((appleIcon, index) => (
-                <link key={index} rel="apple-touch-icon" href={appleIcon} />
-              ))}
-            {Metadata.icons.shortcut &&
-              Metadata.icons.shortcut.map((shortcutIcon, index) => (
-                <link key={index} rel="shortcut icon" href={shortcutIcon} />
-              ))}
-          </React.Fragment>
-        )}
-      </head>
       <body>
         <GoogleTagManager gtmId="GTM-M6PZHR4B" />
         <Loading isLoading={isLoading} />
