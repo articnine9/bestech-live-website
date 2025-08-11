@@ -9,21 +9,27 @@
         "description": "100pcs box",
         "code": "BS-EU0001",
         "url": "/connectors/connector-pt2-5-bs-eu0001",
-        "image": "/img/products/connectors/wire-6mm/1.jpg"
+        "image": "/img/products/connectors/wire-6mm/1.jpg",
+        "meta_title": "PT2.5 Electrical Connector | Bestech Parts UAE ",
+        "meta_description": "Shop the PT2.5 electrical connector for reliable wiring solutions. Durable, easy to install, and ideal for elevator systems. Fast delivery across UAE."
       },
       {
         "name": "Connector PT6",
         "description": "50pcs box",
         "code": "BS-EU0002",
         "url": "/connectors/connector-pt6-bs-eu0002",
-        "image": "/img/products/connectors/wire-6mm/1.jpg"
+        "image": "/img/products/connectors/wire-6mm/1.jpg",
+        "meta_title": "PT6 Electrical Connector for Elevators | Bestech Parts UAE",
+        "meta_description": "Shop PT6 elevator electrical connector at Bestech Parts. Durable, high-quality connector for smooth elevator operations. Fast UAE delivery."
       },
       {
         "name": "Connector PT10",
         "description": "50pcs box",
         "code": "BS-EU0003",
         "url": "/connectors/connector-pt10-bs-eu0003",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "PT10 Connector – Elevator Electrical Connector | Bestech Parts UAE",
+        "meta_description": "Shop PT10 electrical connector for elevators and escalators at Bestech Parts. Durable, reliable, and available for fast delivery across the UAE."
       }
     ]
   },
@@ -40,7 +46,9 @@
         "code": "BS-CW0001",
         "url": "/cables-and-wires/wire-0-75mm",
         "image": "/img/products/cables-and-wires/wire-0-75mm/1.jpg",
-        "slider": ["1", "2", "3"]
+        "slider": ["1", "2", "3"],
+        "meta_title": "0.75mm Elevator Wire (BS-CW0001) | Bestech Parts UAE",
+        "meta_description": "Shop 0.75mm high-quality elevator wire (BS-CW0001) for safe and reliable installations. Available now at Bestech Parts with UAE-wide delivery."
       },
       {
         "name": "Wire 6mm",
@@ -48,7 +56,9 @@
         "code": "BS-CW0002",
         "url": "/cables-and-wires/wire-6mm",
         "image": "/img/products/cables-and-wires/wire-6mm/1.jpg",
-        "slider": ["1", "2", "3"]
+        "slider": ["1", "2", "3"],
+        "meta_title": "6mm Elevator Wire – BS-CW0002 | Bestech Parts UAE",
+        "meta_description": "Shop durable 6mm wires (BS-CW0002) for elevator and escalator systems. High-quality build, fast UAE delivery – only at Bestech Parts."
       },
       {
         "name": "Wire 8mm",
@@ -56,7 +66,9 @@
         "code": "BS-CW0003",
         "url": "/cables-and-wires/wire-8mm",
         "image": "/img/products/cables-and-wires/wire-8mm/1.jpg",
-        "slider": ["1", "2", "3"]
+        "slider": ["1", "2", "3"],
+        "meta_title": "8mm Elevator Wire – BS-CW0003 | Bestech Parts UAE",
+        "meta_description": "Shop durable 8mm elevator wire (BS-CW0003) for safe and efficient lift operations. High-quality cables, fast delivery across UAE."
       },
       {
         "name": "Wire 10mm",
@@ -64,63 +76,81 @@
         "code": "BS-CW0004",
         "url": "/cables-and-wires/wire-10mm",
         "image": "/img/products/cables-and-wires/wire-10mm/1.jpg",
-        "slider": ["1", "2", "3"]
+        "slider": ["1", "2", "3"],
+        "meta_title": "10mm Elevator Wire – Durable & High-Quality | Bestech Parts UAE",
+        "meta_description": "Shop BS-CW0004 10mm elevator wire for reliable performance and safety. Ideal for lift systems. Fast delivery across UAE from Bestech Parts."
       },
       {
         "name": "Wire lugs 0.75mm",
         "description": "1000pcs/pack",
         "code": "BS-CW0005",
         "url": "/cables-and-wires/wire-lugs-0-75mm",
-        "image": "/img/products/cables-and-wires/wire-lugs-0-75mm/1.jpg"
+        "image": "/img/products/cables-and-wires/wire-lugs-0-75mm/1.jpg",
+        "meta_title": "0.75mm Wire Lugs – BS-CW0005 | Bestech Parts UAE ",
+        "meta_description": "Shop 0.75mm wire lugs (BS-CW0005) for safe and secure electrical connections. High-quality, durable, and available across UAE at Bestech Parts."
       },
       {
         "name": "Wire lugs 1.5mm",
         "description": "1000pcs/pack",
         "code": "BS-CW0006",
         "url": "/cables-and-wires/wire-lugs-1-5mm",
-        "image": "/img/products/cables-and-wires/wire-lugs-1-5mm/1.jpg"
+        "image": "/img/products/cables-and-wires/wire-lugs-1-5mm/1.jpg",
+        "meta_title": "1.5mm Wire Lugs – Durable Cable Connectors | Bestech UAE ",
+        "meta_description": "Shop 1.5mm wire lugs (BS-CW0006) for secure cable connections. High-quality, corrosion-resistant lugs ideal for elevators and control panels."
       },
       {
         "name": "Wire lugs 6mm",
         "description": "1000pcs/pack",
         "code": "BS-CW0007",
         "url": "/cables-and-wires/wire-lugs-6mm",
-        "image": "/img/products/cables-and-wires/wire-lugs-6mm/1.jpg"
+        "image": "/img/products/cables-and-wires/wire-lugs-6mm/1.jpg",
+        "meta_title": "6mm Wire Lugs – BS-CW0007 | Bestech Parts UAE",
+        "meta_description": "Shop 6mm wire lugs (BS-CW0007) for secure electrical connections. Durable, high-quality cable terminals available online at Bestech Parts UAE. "
       },
       {
         "name": "Wire lugs 10mm",
         "description": "1000pcs/pack",
         "code": "BS-CW0008",
         "url": "/cables-and-wires/wire-lugs-10mm",
-        "image": "/img/products/cables-and-wires/wire-lugs-10mm/1.jpg"
+        "image": "/img/products/cables-and-wires/wire-lugs-10mm/1.jpg",
+        "meta_title": "10mm Wire Lugs – Durable Cable Connectors | Bestech Parts UAE",
+        "meta_description": "Shop 10mm wire lugs (BS-CW0008) for secure cable connections. High-quality, corrosion-resistant, and ideal for elevator systems. Fast UAE delivery."
       },
       {
         "name": "Cable - Type: DB9 5M",
         "description": "",
         "code": "BS-CW0001",
         "url": "/cables-and-wires/cable-db9-5m",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "DB9 Cable 5M – BS-CW0001 | Bestech Parts UAE",
+        "meta_description": " Shop DB9 5-meter cable (BS-CW0001) for reliable signal transmission. High-quality, durable, and ideal for elevator systems. Fast UAE delivery."
       },
       {
         "name": "Cable - Type: DB9 10M",
         "description": "",
         "code": "BS-CW0002",
         "url": "/cables-and-wires/cable-db9-10m",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Mitsubishi Modbus Display Cable BS-CW0004 | Bestech Parts UAE",
+        "meta_description": "Buy BS-CW0004 Mitsubishi Modbus cable for display units. High-quality, durable wiring for reliable elevator control. Fast UAE shipping."
       },
       {
         "name": "Cable - Type: command board",
         "description": "70cm",
         "code": "BS-CW0003",
         "url": "/cables-and-wires/cable-command-board-70cm",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Cable for Command Board 70cm – Bestech Parts UAE",
+        "meta_description": "Buy 70cm command board cable for elevators and escalators. Durable, high-quality wiring solution. Fast delivery across UAE from Bestech Parts."
       },
       {
         "name": "Display Mitsubishi cable",
         "description": "MODBUS cable",
         "code": "BS-CW0004",
         "url": "/cables-and-wires/display-mitsubishi-modbus-cable",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "AC Contactor 110V 25A (1NO+1NC) | Bestech Parts UAE",
+        "meta_description": "Shop AC110V 25A contactor with 1NO+1NC configuration at Bestech Parts. Ideal for lift and industrial control panels. Fast UAE delivery."
       }
     ]
   },
@@ -137,7 +167,9 @@
         "code": "BS-CT0001",
         "url": "/contactors/contactor-ac110v-25a-1no-1nc",
         "image": "/img/products/contactors/contactor-ac110v-25a-1no-1nc/1.jpg",
-        "slider": ["1", "2"]
+        "slider": ["1", "2"],
+        "meta_title": "AC Contactor 110V 32A (1NO+1NC) | Bestech Parts UAE",
+        "meta_description": "Buy AC 110V 32A contactor with 1NO+1NC configuration at Bestech Parts. Reliable performance and fast delivery across UAE."
       },
       {
         "name": "Contactor AC110V 32A 1NO+1NC",
@@ -145,7 +177,9 @@
         "code": "BS-CT0002",
         "url": "/contactors/contactor-ac110v-32a-1no-1nc",
         "image": "/img/products/contactors/contactor-ac110v-32a-1no-1nc/1.jpg",
-        "slider": ["1", "2", "3"]
+        "slider": ["1", "2", "3"],
+        "meta_title": "AC Contactor 110V 50A (1NO+1NC) | Bestech Parts UAE ",
+        "meta_description": "Shop AC110V 50A contactor with 1NO+1NC configuration. Reliable performance for elevator systems. Fast UAE delivery from Bestech Parts."
       },
       {
         "name": "Contactor AC110V 50A 1NO+1NC",
@@ -153,35 +187,45 @@
         "code": "BS-CT0003",
         "url": "/contactors/contactor-ac110v-50a-1no-1nc",
         "image": "/img/products/contactors/contactor-ac110v-50a-1no-1nc/1.jpg",
-        "slider": ["1", "2"]
+        "slider": ["1", "2"],
+        "meta_title": " AC110V 65A Contactor (1NO+1NC) | Bestech Parts UAE",
+        "meta_description": "Shop durable AC110V 65A contactors with 1NO+1NC configuration at Bestech Parts. Reliable performance for lift & industrial systems. UAE delivery available."
       },
       {
         "name": "Contactor AC110V 65A 1NO+1NC",
         "description": "",
         "code": "BS-CT0004",
         "url": "/contactors/contactor-ac110v-65a-1no-1nc",
-        "image": "/img/products/contactors/contactor-ac110v-65a-1no-1nc/1.jpg"
+        "image": "/img/products/contactors/contactor-ac110v-65a-1no-1nc/1.jpg",
+        "meta_title": " DC 110V 18A Contactor – Buy Online in UAE | Bestech Parts",
+        "meta_description": "Shop DC 110V 18A contactor for elevators and industrial use. Durable, high-performance component. Fast delivery across UAE."
       },
       {
         "name": "Contactor DC110V 18A",
         "description": "",
         "code": "BS-CT0005",
         "url": "/contactors/contactor-dc110v-18a",
-        "image": "/img/products/contactors/contactor-dc110v-18a/1.jpg"
+        "image": "/img/products/contactors/contactor-dc110v-18a/1.jpg",
+        "meta_title": "DC 110V 18A Contactor – Buy Online in UAE | Bestech Parts ",
+        "meta_description": "Shop DC 110V 18A contactor for elevators and industrial use. Durable, high-performance component. Fast delivery across UAE."
       },
       {
         "name": "Contactor DC110V 32A",
         "description": "",
         "code": "BS-CT0006",
         "url": "/contactors/contactor-dc110v-32a",
-        "image": "/img/products/contactors/contactor-dc110v-32a/1.jpg"
+        "image": "/img/products/contactors/contactor-dc110v-32a/1.jpg",
+        "meta_title": "DC Contactor 110V 32A – Durable & Reliable | Bestech UAE",
+        "meta_description": "Shop DC 110V 32A contactor ideal for elevator and industrial use. High performance, reliable, and ready to ship across UAE at Bestech Parts. "
       },
       {
         "name": "Auxiliary F4-22 2NO+2NC",
         "description": "",
         "code": "BS-CT0007",
         "url": "/contactors/auxiliary-f4-22-2no-2nc",
-        "image": "/img/products/contactors/auxiliary-f4-22-2no-2nc/1.jpg"
+        "image": "/img/products/contactors/auxiliary-f4-22-2no-2nc/1.jpg",
+        "meta_title": "ABB Auxiliary Contactor F4-22 (2NO+2NC) | Bestech Parts UAE",
+        "meta_description": "Shop ABB F4-22 auxiliary contactor with 2NO+2NC configuration. Reliable performance for control circuits. Fast UAE delivery from Bestech Parts."
       }
     ]
   },
@@ -198,7 +242,9 @@
         "code": "BS-CB0001",
         "url": "/circuit-breakers/mcb-63a-4p",
         "image": "/img/products/circuit-breakers/mcb-63a-4p/1.jpg",
-        "slider": ["1", "2"]
+        "slider": ["1", "2"],
+        "meta_title": " MCB 63A 4P Circuit Breaker | Bestech Parts UAE",
+        "meta_description": "Shop 63A 4 Pole MCB circuit breakers for safe electrical protection. High quality, reliable, and available online at Bestech Parts UAE."
       },
       {
         "name": "MCB 6A 1P",
@@ -206,7 +252,9 @@
         "code": "BS-CB0002",
         "url": "/circuit-breakers/mcb-6a-1p",
         "image": "/img/products/circuit-breakers/mcb-6a-1p/1.jpg",
-        "slider": ["1", "2", "3"]
+        "slider": ["1", "2", "3"],
+        "meta_title": "MCB 6A 1P – Miniature Circuit Breaker | Bestech Parts UAE",
+        "meta_description": "Shop 6A single-pole MCB for reliable circuit protection. High-quality and durable breakers available at Bestech Parts UAE. Fast delivery."
       },
       {
         "name": "MCB 10A 1P",
@@ -214,14 +262,18 @@
         "code": "BS-CB0003",
         "url": "/circuit-breakers/mcb-10a-1p",
         "image": "/img/products/circuit-breakers/mcb-10a-1p/1.jpg",
-        "slider": ["1", "2", "3", "4"]
+        "slider": ["1", "2", "3", "4"],
+        "meta_title": "MCB 10A 1P – Miniature Circuit Breaker | Bestech UAE",
+        "meta_description": "Shop 10A 1 Pole MCB for reliable circuit protection. High-quality miniature circuit breakers at Bestech Parts. Fast delivery across UAE."
       },
       {
         "name": "MCB 6A 2P",
         "description": "",
         "code": "BS-CB0004",
         "url": "/circuit-breakers/mcb-6a-2p",
-        "image": "/img/products/circuit-breakers/mcb-6a-2p/1.jpg"
+        "image": "/img/products/circuit-breakers/mcb-6a-2p/1.jpg",
+        "meta_title": "MCB 6A 2P Circuit Breaker – Buy Online in UAE | Bestech Parts",
+        "meta_description": "Shop 6A 2P MCB circuit breakers for reliable protection. Durable, compact, and ideal for electrical panels. Fast delivery across the UAE."
       },
       {
         "name": "MCB 10A 2P",
@@ -229,7 +281,9 @@
         "code": "BS-CB0005",
         "url": "/circuit-breakers/mcb-10a-2p",
         "image": "/img/products/circuit-breakers/mcb-10a-2p/1.jpg",
-        "slider": ["1", "2", "3"]
+        "slider": ["1", "2", "3"],
+        "meta_title": " MCB 10A 2P Circuit Breaker – Buy Online in UAE | Bestech Parts",
+        "meta_description": "Shop 10A 2 Pole MCB circuit breakers at Bestech Parts. Reliable protection for electrical systems. Fast delivery across UAE."
       }
     ]
   },
@@ -451,14 +505,18 @@
         "code": "BS-SW0001",
         "url": "/switches/inspection-normal-switch-no",
         "image": "/img/products/switches/inspection-normal-switch-no/1.jpg",
-        "slider": ["1", "2"]
+        "slider": ["1", "2"],
+        "meta_title": "Inspection Normal Switch (NO) – Reliable & Durable | BestTechParts",
+        "meta_description": "Shop the Inspection Normal Switch (NO) for dependable performance in control systems. Ideal for elevator and industrial applications, built for long-lasting use."
       },
       {
         "name": "Inspection / normal switch light (NO)",
         "description": "LA137-CK12M45",
         "code": "BS-SW0002",
         "url": "/switches/inspection-normal-switch-light-no",
-        "image": "/img/products/switches/inspection-normal-switch-light-no/1.jpg"
+        "image": "/img/products/switches/inspection-normal-switch-light-no/1.jpg",
+        "meta_title": "Inspection Normal Switch with Light (NO) | BestTechParts",
+        "meta_description": "Buy the Inspection Normal Switch with built-in light (NO) for enhanced visibility and control. Perfect for elevator and industrial use—durable, safe, and reliable. "
       },
       {
         "name": "Bistable switch",
@@ -577,7 +635,9 @@
         "code": "BS-EL0001",
         "url": "/electrical/connector-pt2-5",
         "image": "/img/products/electrical/connector-pt2-5/1.jpg",
-        "slider": ["1", "2"]
+        "slider": ["1", "2"],
+        "meta_title": "PT2.5 Electrical Connector | Bestech Parts UAE",
+        "meta_description": "Shop the PT2.5 electrical connector for reliable wiring solutions. Durable, easy to install, and ideal for elevator systems. Fast delivery across UAE."
       },
       {
         "name": "Connector PT6",
@@ -585,7 +645,9 @@
         "code": "BS-EL0002",
         "url": "/electrical/connector-pt6",
         "image": "/img/products/electrical/connector-pt6/1.jpg",
-        "slider": ["1", "2"]
+        "slider": ["1", "2"],
+        "meta_title": "PT6 Electrical Connector for Elevators | Bestech Parts UAE",
+        "meta_description": "Shop PT6 elevator electrical connector at Bestech Parts. Durable, high-quality connector for smooth elevator operations. Fast UAE delivery. "
       },
       {
         "name": "Connector PT10",
@@ -593,14 +655,18 @@
         "code": "BS-EL0003",
         "url": "/electrical/connector-pt10",
         "image": "/img/products/electrical/connector-pt10/1.jpg",
-        "slider": ["1", "2"]
+        "slider": ["1", "2"],
+        "meta_title": "PT10 Connector – Elevator Electrical Connector | Bestech Parts UAE",
+        "meta_description": "Shop PT10 electrical connector for elevators and escalators at Bestech Parts. Durable, reliable, and available for fast delivery across the UAE."
       },
       {
         "name": "Inspection box",
         "description": "outer shell only",
         "code": "BS-EL0004",
         "url": "/electrical/inspection-box",
-        "image": "/img/products/electrical/inspection-box/1.jpg"
+        "image": "/img/products/electrical/inspection-box/1.jpg",
+        "meta_title": "Elevator Inspection Boxes – Electrical Parts | Bestech UAE",
+        "meta_description": "Shop durable elevator inspection boxes at Bestech Parts. Reliable electrical components with fast delivery across the UAE. "
       },
       {
         "name": "SWITCHING POWER SUPPLY (SMPS)",
@@ -608,56 +674,72 @@
         "code": "BS-EL0005",
         "url": "/electrical/switching-power-supply-smps",
         "image": "/img/products/electrical/switching-power-supply-smps/1.jpg",
-        "slider": ["1", "2", "3"]
+        "slider": ["1", "2", "3"],
+        "meta_title": "Switching Power Supply (SMPS) for Elevators | Bestech UAE",
+        "meta_description": "Shop reliable SMPS units for elevator and escalator systems. High performance, durable, and available across UAE at Bestech Parts."
       },
       {
         "name": "Phase Sequence Relay",
         "description": "XJ12-A",
         "code": "BS-EL0006",
         "url": "/electrical/phase-sequence-relay",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Phase Sequence Relay for Elevators | Bestech Parts UAE",
+        "meta_description": "Buy durable and reliable phase sequence relays for elevator systems. Best price, fast delivery across UAE. Trusted quality at Bestech Parts. "
       },
       {
         "name": "Intercom - Handset",
         "description": "",
         "code": "BS-EL0007",
         "url": "/electrical/intercom-handset",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Elevator Intercom Handset | Buy Lift Intercoms in UAE",
+        "meta_description": "Shop durable elevator intercom handsets at Bestech Parts UAE. Ensure clear communication in lifts. Fast delivery & quality guaranteed."
       },
       {
         "name": "Intercom - COP unit",
         "description": "",
         "code": "BS-EL0008",
         "url": "/electrical/intercom-cop-unit",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Intercom COP Unit for Elevators | Bestech Parts UAE",
+        "meta_description": "Shop reliable elevator intercom COP units at Bestech Parts. Ensure clear in-cab communication. Fast delivery across UAE."
       },
       {
         "name": "Power supply unit",
         "description": "",
         "code": "BS-EL0009",
         "url": "/electrical/power-supply-unit",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Power Supply Units for Elevators & Escalators | Bestech UAE",
+        "meta_description": "Shop reliable power supply units for elevators and escalators. Bestech Parts offers quality-tested components with fast UAE delivery."
       },
       {
         "name": "Emergency light",
         "description": "",
         "code": "BS-EL0010",
         "url": "/electrical/emergency-light",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Emergency Light Round COP – Elevator Electrical Part | Bestech UAE",
+        "meta_description": "Buy round COP emergency lights for elevators at Bestech Parts UAE. Reliable quality, fast delivery, and trusted by lift professionals."
       },
       {
         "name": "Alarm",
         "description": "",
         "code": "BS-EL0011",
         "url": "/electrical/alarm",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Buy Elevator Alarm Systems Online | Bestech Parts UAE",
+        "meta_description": "Shop reliable elevator alarm systems for safety and emergency use. Fast delivery across UAE. Buy now from Bestech Parts."
       },
       {
         "name": "Emergency light round - COP",
         "description": "",
         "code": "BS-EL0012",
         "url": "/electrical/emergency-light-round-cop",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product-default-img.jpg",
+        "meta_title": "Emergency Light BS-EL0010 | Bestech Parts UAE",
+        "meta_description": "Shop BS-EL0010 emergency light – reliable lighting for elevator and building safety. Fast delivery across UAE. Order now at Bestech Parts."
       }
     ]
   },
@@ -1689,7 +1771,8 @@
         "description": "1387",
         "code": "BS-EN0006",
         "url": "/encoders/encoder-1387",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/encoders/encoder-1387/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Encoder 1024-30mm",

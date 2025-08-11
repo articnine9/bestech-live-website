@@ -1,7 +1,7 @@
 {
   "/api/sendMail": "pages/api/sendMail.js",
-  "/api/sendContact": "pages/api/sendContact.js",
   "/api/sendQuote": "pages/api/sendQuote.js",
+  "/api/sendContact": "pages/api/sendContact.js",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
