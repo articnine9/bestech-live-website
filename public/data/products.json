@@ -9,27 +9,21 @@
         "description": "100pcs box",
         "code": "BS-EU0001",
         "url": "/connectors/connector-pt2-5-bs-eu0001",
-        "image": "/img/products/connectors/wire-6mm/1.jpg",
-        "meta_title": "PT2.5 Electrical Connector | Bestech Parts UAE ",
-        "meta_description": "Shop the PT2.5 electrical connector for reliable wiring solutions. Durable, easy to install, and ideal for elevator systems. Fast delivery across UAE."
+        "image": "/img/products/connectors/wire-6mm/1.jpg"
       },
       {
         "name": "Connector PT6",
         "description": "50pcs box",
         "code": "BS-EU0002",
         "url": "/connectors/connector-pt6-bs-eu0002",
-        "image": "/img/products/connectors/wire-6mm/1.jpg",
-        "meta_title": "PT6 Electrical Connector for Elevators | Bestech Parts UAE",
-        "meta_description": "Shop PT6 elevator electrical connector at Bestech Parts. Durable, high-quality connector for smooth elevator operations. Fast UAE delivery."
+        "image": "/img/products/connectors/wire-6mm/1.jpg"
       },
       {
         "name": "Connector PT10",
         "description": "50pcs box",
         "code": "BS-EU0003",
         "url": "/connectors/connector-pt10-bs-eu0003",
-        "image": "/img/product-default-img.jpg",
-        "meta_title": "PT10 Connector – Elevator Electrical Connector | Bestech Parts UAE",
-        "meta_description": "Shop PT10 electrical connector for elevators and escalators at Bestech Parts. Durable, reliable, and available for fast delivery across the UAE."
+        "image": "/img/product-default-img.jpg"
       }
     ]
   },
@@ -369,28 +363,31 @@
         "description": "BR27C/A311",
         "code": "BS-BT0010",
         "url": "/buttons/button-br27c-a311",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-br27c-a311/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: CN03010009/A4J16354",
         "description": "CN03010009/A4J16354",
         "code": "BS-BT0011",
         "url": "/buttons/button-cn03010009-a4j16354",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-cn03010009-a4j16354/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: A3N47136/KAS441",
         "description": "A3N47136/KAS441",
         "code": "BS-BT0012",
         "url": "/buttons/button-a3n47136-kas441",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-a3n47136-kas441/1.jpg"
       },
       {
         "name": "Button: A3N47325/AJ47324A2",
         "description": "A3N47325/AJ47324A2",
         "code": "BS-BT0013",
         "url": "/buttons/button-a3n47325-aj47324a2",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-a3n47325-aj47324a2/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: KD550",
@@ -404,7 +401,8 @@
         "description": "KDS300",
         "code": "BS-BT0015",
         "url": "/buttons/square-button-kds300",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/square-button-kds300/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: KMBS7782G0",
@@ -418,70 +416,80 @@
         "description": "A4J16467/A4J16465/A4J20057",
         "code": "BS-BT0017",
         "url": "/buttons/giant-button-a4j16467-a4j16465-a4j20057",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/giant-button-a4j16467-a4j16465-a4j20057/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: MTD511G01/DA511G01",
         "description": "MTD511G01/DA511G01",
         "code": "BS-BT0018",
         "url": "/buttons/button-mtd511g01-da511g01",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-mtd511g01-da511g01/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: DA180/MTD180",
         "description": "DA180/MTD180",
         "code": "BS-BT0019",
         "url": "/buttons/button-da180-mtd180",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-da180-mtd180/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Button: SL-TC",
         "description": "SL-TC",
         "code": "BS-BT0020",
         "url": "/buttons/button-sl-tc",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-sl-tc/1.jpg",
+        "slider": ["1", "2", "3"]
       },
       {
         "name": "Button: HD60-1",
         "description": "HD60-1",
         "code": "BS-BT0021",
         "url": "/buttons/button-hd60-1",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-hd60-1/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: KAS040/AMV243/AAD7442",
         "description": "KAS040/AMV243/AAD7442",
         "code": "BS-BT0022",
         "url": "/buttons/button-kas040-amv243-aad7442",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-kas040-amv243-aad7442/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: CS-41-GG",
         "description": "CS-41-GG",
         "code": "BS-BT0023",
         "url": "/buttons/button-cs-41-gg",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-cs-41-gg/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: MTD118",
         "description": "MTD118",
         "code": "BS-BT0024",
         "url": "/buttons/button-mtd118",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-mtd118/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: A4J13868/A4N13869",
         "description": "A4J13868/A4N13869",
         "code": "BS-BT0025",
         "url": "/buttons/button-a4j13868-a4n13869",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-a4j13868-a4n13869/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Button: DA411/B113/MTD411",
         "description": "DA411/B113/MTD411",
         "code": "BS-BT0026",
         "url": "/buttons/button-da411-b113-mtd411",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-da411-b113-mtd411/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Emergency light round - COP",
@@ -747,6 +755,8 @@
     "slug": "cabinet-set",
     "page_name": "Cabinet Set",
     "code": "BS-CS",
+    "meta_title": "Elevator Cabinet Sets | Bestech Parts UAE",
+    "meta_description": "Find durable elevator cabinet sets for smooth control and operation. Quality elevator parts available at Bestech Parts UAE.",
     "items": [
       {
         "name": "Control cabinet -W8L 11KW",
@@ -1030,7 +1040,7 @@
         "description": "JJXE D-01",
         "code": "BS-DL0014",
         "url": "/door-locks/lop-lock-jjxe-d-01",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/product/door-locks/lop-lock-jjxe-d-01/1.jpg"
       },
       {
         "name": "LOP Lock: CV50/CV180",
@@ -1051,7 +1061,8 @@
         "description": "BH-253",
         "code": "BS-DL0017",
         "url": "/door-locks/door-lock-contact-bh-253",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-locks/door-lock-contact-bh-253/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Door Lock Contact: AZ-061",
@@ -1233,21 +1244,24 @@
         "description": "56 X 16 X 6201",
         "code": "BS-DW0013",
         "url": "/door-wheels/door-hanging-wheel-56-16-6201",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-wheels/door-hanging-wheel-56-16-6201/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Door wheel: 56 X 14 X 6201",
         "description": "56 X 14 X 6201",
         "code": "BS-DW0014",
         "url": "/door-wheels/door-wheel-56-14-6201",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-wheels/door-wheel-56-14-6201/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Door hanging wheel: 70 X 17 X 6200",
         "description": "70 X 17 X 6200",
         "code": "BS-DW0015",
         "url": "/door-wheels/door-hanging-wheel-70-17-6200",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/door-wheels/door-hanging-wheel-70-17-6200/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Door hanging wheel: 48 X 14 X 6200",
@@ -1730,6 +1744,8 @@
     "slug": "encoders",
     "page_name": "Encoders",
     "code": "BS-EN",
+    "meta_title": "Elevator Encoders in Dubai | Bestech Parts",
+    "meta_description": "Shop reliable elevator encoders for precise speed and position control. Quality parts available online at Bestech Parts Dubai.",
     "items": [
       {
         "name": "Encoder cable 5M",
@@ -1771,8 +1787,7 @@
         "description": "1387",
         "code": "BS-EN0006",
         "url": "/encoders/encoder-1387",
-        "image": "/img/products/encoders/encoder-1387/1.jpg",
-        "slider": ["1", "2"]
+        "image": "/img/product-default-img.jpg"
       },
       {
         "name": "Encoder 1024-30mm",
@@ -1953,6 +1968,8 @@
     "slug": "signalization",
     "page_name": "Signalization",
     "code": "BS-SG",
+    "meta_title": "Elevator Signalization Systems | Bestech Parts UAE",
+    "meta_description": "Explore high-quality elevator signalization systems for clear communication and safety. Available now at Bestech Parts UAE.",
     "items": [
       {
         "name": "LOP - UP and Down",
@@ -2002,6 +2019,8 @@
     "slug": "displays",
     "page_name": "Displays",
     "code": "BS-DI",
+    "meta_title": "Elevator Displays UAE | Bestech Parts",
+    "meta_description": "Shop clear and reliable elevator displays for smooth communication and passenger info. Available now at Bestech Parts UAE.",
     "items": [
       {
         "name": "COP Display - Green: MCTC-HCB-R1",
@@ -2073,6 +2092,8 @@
     "slug": "pcb-boards",
     "page_name": "PCB Boards",
     "code": "BS-PB",
+    "meta_title": "Premium PCB Boards for Electronic Devices | BestTechParts",
+    "meta_description": "Shop high-quality PCB boards for all your electronic repair needs at BestTechParts. Durable and reliable, our boards ensure optimal performance for your devices.",
     "items": [
       {
         "name": "Car top board: MCTC-CTB-A",
@@ -2122,6 +2143,8 @@
     "slug": "tool-kits",
     "page_name": "Tool Kits",
     "code": "BS-TL",
+    "meta_title": "High-Quality Tool Kits in UAE | Bestech Parts",
+    "meta_description": "Shop premium tool kits online in UAE. Durable, affordable, and ideal for industrial and home use. Fast delivery across UAE from Bestech Parts.",
     "items": [
       {
         "name": "K-Tool kit",
@@ -2150,6 +2173,8 @@
     "slug": "keys",
     "page_name": "Keys",
     "code": "BS-KY",
+    "meta_title": "Buy Elevator & Escalator Keys Online | Bestech Parts UAE ",
+    "meta_description": "Explore high-quality elevator and escalator service keys at Bestech Parts. Fast shipping across UAE. Trusted by industry professionals.",
     "items": [
       {
         "name": "Door open key",
