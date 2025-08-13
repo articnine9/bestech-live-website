@@ -1,16 +1,16 @@
 {
   "/_not-found/page": "/_not-found",
   "/blog/page": "/blog",
+  "/blog/[url]/page": "/blog/[url]",
   "/contact/page": "/contact",
   "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
   "/products/[slug]/page": "/products/[slug]",
-  "/project-details/page": "/project-details",
   "/brands/[slug]/page": "/brands/[slug]",
   "/projects/page": "/projects",
-  "/blog/[url]/page": "/blog/[url]",
   "/services/page": "/services",
   "/team-details/page": "/team-details",
   "/team/page": "/team",
-  "/page": "/",
-  "/about/page": "/about"
+  "/project-details/page": "/project-details",
+  "/about/page": "/about",
+  "/page": "/"
 }

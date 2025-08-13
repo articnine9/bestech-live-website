@@ -113,36 +113,37 @@
       {
         "name": "Cable - Type: DB9 5M",
         "description": "",
-        "code": "BS-CW0001",
+        "code": "BS-CW0009",
         "url": "/cables-and-wires/cable-db9-5m",
-        "image": "/img/product-default-img.jpg",
-        "meta_title": "DB9 Cable 5M – BS-CW0001 | Bestech Parts UAE",
-        "meta_description": " Shop DB9 5-meter cable (BS-CW0001) for reliable signal transmission. High-quality, durable, and ideal for elevator systems. Fast UAE delivery."
+        "image": "/img/products/cables-and-wires/cable-db9-5m/1.jpg",
+        "meta_title": "DB9 Cable 5M – BS-CW0009 | Bestech Parts UAE",
+        "meta_description": " Shop DB9 5-meter cable (BS-CW0009) for reliable signal transmission. High-quality, durable, and ideal for elevator systems. Fast UAE delivery."
       },
       {
         "name": "Cable - Type: DB9 10M",
         "description": "",
-        "code": "BS-CW0002",
+        "code": "BS-CW0010",
         "url": "/cables-and-wires/cable-db9-10m",
-        "image": "/img/product-default-img.jpg",
-        "meta_title": "Mitsubishi Modbus Display Cable BS-CW0004 | Bestech Parts UAE",
-        "meta_description": "Buy BS-CW0004 Mitsubishi Modbus cable for display units. High-quality, durable wiring for reliable elevator control. Fast UAE shipping."
+        "image": "/img/products/cables-and-wires/cable-db9-10m/1.jpg",
+        "meta_title": "Mitsubishi Modbus Display Cable BS-CW0010 | Bestech Parts UAE",
+        "meta_description": "Buy BS-CW0010 Mitsubishi Modbus cable for display units. High-quality, durable wiring for reliable elevator control. Fast UAE shipping."
       },
       {
         "name": "Cable - Type: command board",
         "description": "70cm",
-        "code": "BS-CW0003",
+        "code": "BS-CW0011",
         "url": "/cables-and-wires/cable-command-board-70cm",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cables-and-wires/cable-command-board-70cm/1.jpg",
+        "slider": ["1", "2", "3"],
         "meta_title": "Cable for Command Board 70cm – Bestech Parts UAE",
         "meta_description": "Buy 70cm command board cable for elevators and escalators. Durable, high-quality wiring solution. Fast delivery across UAE from Bestech Parts."
       },
       {
         "name": "Display Mitsubishi cable",
         "description": "MODBUS cable",
-        "code": "BS-CW0004",
+        "code": "BS-CW0012",
         "url": "/cables-and-wires/display-mitsubishi-modbus-cable",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cables-and-wires/display-mitsubishi-modbus-cable/1.jpg",
         "meta_title": "AC Contactor 110V 25A (1NO+1NC) | Bestech Parts UAE",
         "meta_description": "Shop AC110V 25A contactor with 1NO+1NC configuration at Bestech Parts. Ideal for lift and industrial control panels. Fast UAE delivery."
       }
@@ -394,7 +395,8 @@
         "description": "KD550",
         "code": "BS-BT0014",
         "url": "/buttons/button-kd550",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/button-kd550/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Square button",
@@ -489,7 +491,7 @@
         "code": "BS-BT0026",
         "url": "/buttons/button-da411-b113-mtd411",
         "image": "/img/products/buttons/button-da411-b113-mtd411/1.jpg",
-        "slider": ["1", "2"]
+        "slider": ["1", "2", "3"]
       },
 
       {
@@ -497,7 +499,7 @@
         "description": "Model: BST",
         "code": "BS-BT0027",
         "url": "/buttons/cop-button-open-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-open-model-bst/1.jpg"
       },
       {
         "name": "COP button - Close",
@@ -561,105 +563,106 @@
         "description": "Model: BST",
         "code": "BS-BT0036",
         "url": "/buttons/cop-button-1-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-1-model-bst/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "COP button - 2",
         "description": "Model: BST",
         "code": "BS-BT0037",
         "url": "/buttons/cop-button-2-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-2-model-bst/1.jpg"
       },
       {
         "name": "COP button - 3",
         "description": "Model: BST",
         "code": "BS-BT0038",
         "url": "/buttons/cop-button-3-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-3-model-bst/1.jpg"
       },
       {
         "name": "COP button - 4",
         "description": "Model: BST",
         "code": "BS-BT0039",
         "url": "/buttons/cop-button-4-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-4-model-bst/1.jpg"
       },
       {
         "name": "COP button - 5",
         "description": "Model: BST",
         "code": "BS-BT0040",
         "url": "/buttons/cop-button-5-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-5-model-bst/1.jpg"
       },
       {
         "name": "COP button - 6",
         "description": "Model: BST",
         "code": "BS-BT0041",
         "url": "/buttons/cop-button-6-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-6-model-bst/1.jpg"
       },
       {
         "name": "COP button - 7",
         "description": "Model: BST",
         "code": "BS-BT0042",
         "url": "/buttons/cop-button-7-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-7-model-bst/1.jpg"
       },
       {
         "name": "COP button - 8",
         "description": "Model: BST",
         "code": "BS-BT0043",
         "url": "/buttons/cop-button-8-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-8-model-bst/1.jpg"
       },
       {
         "name": "COP button - 9",
         "description": "Model: BST",
         "code": "BS-BT0044",
         "url": "/buttons/cop-button-9-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-9-model-bst/1.jpg"
       },
       {
         "name": "COP button - 10",
         "description": "Model: BST",
         "code": "BS-BT0045",
         "url": "/buttons/cop-button-10-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-10-model-bst/1.jpg"
       },
       {
         "name": "COP button - 11",
         "description": "Model: BST",
         "code": "BS-BT0046",
         "url": "/buttons/cop-button-11-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-11-model-bst/1.jpg"
       },
       {
         "name": "COP button - 12",
         "description": "Model: BST",
         "code": "BS-BT0047",
         "url": "/buttons/cop-button-12-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-12-model-bst/1.jpg"
       },
       {
         "name": "COP button - R",
         "description": "Model: BST",
         "code": "BS-BT0048",
         "url": "/buttons/cop-button-r-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-r-model-bst/1.jpg"
       },
       {
         "name": "COP button - Alarm",
         "description": "Model: BST",
         "code": "BS-BT0049",
         "url": "/buttons/cop-button-alarm-model-bst",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/cop-button-alarm-model-bst/1.jpg"
       },
       {
         "name": "Emergency light round - COP",
         "description": "KA313-0",
         "code": "BS-BT0050",
         "url": "/buttons/emergency-light-round-cop-ka313-0",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/buttons/emergency-light-round-cop-ka313-0/1.jpg"
       }
     ]
   },
@@ -749,7 +752,8 @@
         "description": "HD-MV01A",
         "code": "BS-SW0010",
         "url": "/switches/overload-switch-hd-mv01a",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/switches/overload-switch-hd-mv01a/1.jpg",
+        "slider": ["1", "2"]
       },
       {
         "name": "Micro switch",
@@ -788,7 +792,7 @@
         "description": "",
         "code": "BS-SW0015",
         "url": "/switches/bistable-switch",
-        "image": "/img/product/switches/bistable-switch/1.jpg",
+        "image": "/img/products/switches/bistable-switch/1.jpg",
         "slider": ["1", "2"]
       },
       {
@@ -868,57 +872,53 @@
       },
       {
         "name": "Intercom - Handset",
-        "description": "",
+        "description": "NKT12(1-1)A DC12V",
         "code": "BS-EL0007",
         "url": "/electrical/intercom-handset",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/electrical/intercom-handset/1.jpg",
+        "slider": ["1", "2", "3"],
         "meta_title": "Elevator Intercom Handset | Buy Lift Intercoms in UAE",
         "meta_description": "Shop durable elevator intercom handsets at Bestech Parts UAE. Ensure clear communication in lifts. Fast delivery & quality guaranteed."
       },
       {
         "name": "Intercom - COP unit",
-        "description": "",
+        "description": "NKT12(1-1)B DC12V",
         "code": "BS-EL0008",
         "url": "/electrical/intercom-cop-unit",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/electrical/intercom-cop-unit/1.jpg",
+        "slider": ["1", "2", "3"],
         "meta_title": "Intercom COP Unit for Elevators | Bestech Parts UAE",
         "meta_description": "Shop reliable elevator intercom COP units at Bestech Parts. Ensure clear in-cab communication. Fast delivery across UAE."
       },
       {
         "name": "Power supply unit",
-        "description": "",
+        "description": "RKP220/12",
         "code": "BS-EL0009",
         "url": "/electrical/power-supply-unit",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/electrical/power-supply-unit/1.jpg",
+        "slider": ["1", "2", "3"],
         "meta_title": "Power Supply Units for Elevators & Escalators | Bestech UAE",
         "meta_description": "Shop reliable power supply units for elevators and escalators. Bestech Parts offers quality-tested components with fast UAE delivery."
       },
       {
         "name": "Emergency light",
-        "description": "",
+        "description": "XG-19432 DC12V",
         "code": "BS-EL0010",
         "url": "/electrical/emergency-light",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/electrical/emergency-light/1.jpg",
+        "slider": ["1", "2", "3"],
         "meta_title": "Emergency Light Round COP – Elevator Electrical Part | Bestech UAE",
         "meta_description": "Buy round COP emergency lights for elevators at Bestech Parts UAE. Reliable quality, fast delivery, and trusted by lift professionals."
       },
       {
-        "name": "Alarm",
-        "description": "",
+        "name": "Emergency Alarm",
+        "description": "XL~JH >120DB",
         "code": "BS-EL0011",
-        "url": "/electrical/alarm",
-        "image": "/img/product-default-img.jpg",
+        "url": "/electrical/emergency-alarm",
+        "image": "/img/products/electrical/emergency-alarm/1.jpg",
+        "slider": ["1", "2"],
         "meta_title": "Buy Elevator Alarm Systems Online | Bestech Parts UAE",
         "meta_description": "Shop reliable elevator alarm systems for safety and emergency use. Fast delivery across UAE. Buy now from Bestech Parts."
-      },
-      {
-        "name": "Emergency light round - COP",
-        "description": "",
-        "code": "BS-EL0012",
-        "url": "/electrical/emergency-light-round-cop",
-        "image": "/img/product-default-img.jpg",
-        "meta_title": "Emergency Light BS-EL0010 | Bestech Parts UAE",
-        "meta_description": "Shop BS-EL0010 emergency light – reliable lighting for elevator and building safety. Fast delivery across UAE. Order now at Bestech Parts."
       }
     ]
   },
@@ -976,21 +976,21 @@
         "description": "Type: 2500W",
         "code": "BS-CS0007",
         "url": "/cabinet-set/braking-resistor-2500w",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/cabinet-set/braking-resistor-2500w/1.jpg"
       },
       {
         "name": "Braking resistor - Type: 3500W",
         "description": "Type: 3500W",
         "code": "BS-CS0008",
         "url": "/cabinet-set/braking-resistor-3500w",
-        "image": "/img/product-default-img.jpg"
+        "image": "/img/products/cabinet-set/braking-resistor-3500w/1.jpg"
       },
       {
-        "name": "Braking resistor - Type: 5500W",
-        "description": "Type: 5500W",
+        "name": "Braking resistor - Type: 5000W",
+        "description": "Type: 5000W",
         "code": "BS-CS0009",
-        "url": "/cabinet-set/braking-resistor-5500w",
-        "image": "/img/product-default-img.jpg"
+        "url": "/cabinet-set/braking-resistor-5000W",
+        "image": "/img/products/cabinet-set/braking-resistor-5000W/1.jpg"
       }
     ]
   },
@@ -1667,7 +1667,7 @@
         "description": "120 X 10/16",
         "code": "BS-GS0009",
         "url": "/guide-shoes/guide-shoe-120-10-16-alt",
-        "image": "/img/product-default-img.jpg/guide-shoes/guide-shoe-120-10-16-alt/1.jpg",
+        "image": "/img/products/guide-shoes/guide-shoe-120-10-16-alt/1.jpg",
         "slider": ["1", "2"]
       },
       {
