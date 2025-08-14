@@ -3,6 +3,8 @@
     "slug": "hyundai",
     "page_name": "HYUNDAI Elevator Parts",
     "code": "HY",
+    "meta_title": "Hyundai Elevator & Escalator Spare Parts | Bestech UAE",
+    "meta_description": "Shop genuine Hyundai elevator and escalator parts online at Bestech Parts. Reliable quality, fast delivery across UAE.",
     "items": [
       {
         "name": "Push Button, 24V",
@@ -190,6 +192,8 @@
     "slug": "kone",
     "page_name": "KONE Elevator Parts",
     "code": "KN",
+    "meta_title": "KONE Elevator & Escalator Spare Parts | Bestech UAE",
+    "meta_description": "Shop genuine KONE elevator and escalator spare parts online at Bestech Parts UAE. Quality products, fast delivery and expert support.",
     "items": [
       {
         "name": "Push Button Round - KD550",
@@ -901,6 +905,8 @@
     "slug": "mitsubishi",
     "page_name": "MITSUBISHI Elevator Parts",
     "code": "MI",
+    "meta_title": "Mitsubishi Elevator & Escalator Parts | Bestech UAE",
+    "meta_description": "Shop genuine Mitsubishi elevator and escalator spare parts at Bestech Parts UAE. Reliable quality, fast delivery, and expert support.",
     "items": [
       {
         "name": "Push Button HOPE Type - Installation Hole Size:31 X 31",
@@ -983,7 +989,7 @@
         "code": "MIWR04"
       },
       {
-        "name": "Door Down Roller With Axle, Φ72 X 15 X M8",
+        "name": "Door Down Roller With Axle, Φ72 X 15 X M10",
         "code": "MIWR05"
       },
       {
@@ -991,11 +997,11 @@
         "code": "MIWR06"
       },
       {
-        "name": "Door Down Roller, Φ40 X 14 X M8",
+        "name": "Door Down Roller, Φ40 X 14 X M12",
         "code": "MIWR07"
       },
       {
-        "name": "Door Down Roller, Φ84 X 12 X 6202",
+        "name": "Door Down Roller, Φ26 X 9.5 X M8",
         "code": "MIWR08"
       },
       {
@@ -1007,15 +1013,15 @@
         "code": "MIWR10"
       },
       {
-        "name": "Car Door Roller, Φ84 X 12 X 6202",
+        "name": "Car Door Roller, Φ84 X 18 X 6204",
         "code": "MIWR11"
       },
       {
-        "name": "Belt Roller, Φ90 X 30 X 2 X 6203",
+        "name": "Belt Roller,Φ90 X 30 X Φ20 X 32",
         "code": "MIWR12"
       },
       {
-        "name": "Belt Roller, Φ90 X 30 X 020 X 32",
+        "name": "Belt Roller,Φ90 X 30 X Φ20 X 32",
         "code": "MIVR13"
       },
       {
@@ -1043,11 +1049,11 @@
         "code": "MIVR19"
       },
       {
-        "name": "Door Vane Roller, Φ46 X 13 X 012",
+        "name": "Door Vane Roller, Φ46 X 13 X Φ12",
         "code": "MIVR20"
       },
       {
-        "name": "Lock Roller, Φ60 X 16 X 015",
+        "name": "Lock Roller, Φ60 X 16 X Φ15",
         "code": "MIVR21"
       },
       {
@@ -1055,7 +1061,7 @@
         "code": "MIVR22"
       },
       {
-        "name": "Guide Shoe Roller, Φ260 X 32 X 052",
+        "name": "Guide Shoe Roller, Φ260 X 32 X Φ52",
         "code": "MIVR23"
       },
       {
@@ -1067,8 +1073,8 @@
         "code": "MIVR25"
       },
       {
-        "name": "Roller Guide Shoe Assembly, Roller:Φ195 X 38 X 2-6003, Mouting Hole:0140 X 70",
-        "code": "MIVR26"
+        "name": "Roller Guide Shoe Assembly, Roller:Φ195 X 38 X 2-6003, Mouting Hole:Φ140 X 70",
+        "code": "MIVR26 - PB226"
       },
       {
         "name": "Ceiling Catch Plate",
@@ -1163,7 +1169,7 @@
         "code": "MIDV02"
       },
       {
-        "name": "HA14101A1 Door Vane, Installation Hole Size:120 X 7",
+        "name": "HA14101A1 Door Vane, Installation Hole Size:120 X 70",
         "code": "MIDV03"
       },
       {
@@ -1203,7 +1209,7 @@
         "code": "MIL008"
       },
       {
-        "name": "SK-C Power Lock For HOP,020",
+        "name": "SK-C Power Lock For HOP,Φ20",
         "code": "MIL009A"
       },
       {
@@ -1377,12 +1383,15 @@
         "name": "Encoder, ZKT-18B-51.2B-G12C-3550MM",
         "code": "MIEN10 - Z65AC-011"
       },
-      { "name": "Encoder, 47HB1321ZD50H-B-35-1", "code": "MIEN11 - Z65AC-018" },
+      {
+        "name": "Encoder, 47HB1321ZD50H8-B-35-1",
+        "code": "MIEN11 - Z65AC-018"
+      },
       { "name": "Encoder", "code": "MIEN12 - 15BBRX-1019-C05" },
       { "name": "Module", "code": "MIMO01 - 7MBP150RA120-05" },
       { "name": "Module", "code": "MIMO02 - CM75E3Y-24E" },
       { "name": "Module", "code": "MIMO03 - CM150DY-24H" },
-      { "name": "Module", "code": "MIMO04 - QM75EY1-H" },
+      { "name": "Module", "code": "MIMO04 - QM75E1Y-H" },
       { "name": "Module", "code": "MIMO05 - QM300HH-H" },
       { "name": "Module", "code": "MIMO06 - CM150DY-24NF" },
       { "name": "Module", "code": "MIMO07 - PM100RSE120" },
@@ -1395,7 +1404,7 @@
       },
       { "name": "Door Motor", "code": "MIDM02 - EMB-48-8" },
       { "name": "Door Motor", "code": "MIDM03 - YTJ031-14" },
-      { "name": "Mangent Brake", "code": "MIBM03 - P101041A140G011L01" },
+      { "name": "Mangent Brake", "code": "MIBM03 - P101041A140G01L01" },
       { "name": "Brake Plunger", "code": "MIBM04 - " },
       { "name": "Brake Copper Bush, Size: 60 X 80 X 55", "code": "MIBM05 - " },
       {
@@ -1417,7 +1426,7 @@
       { "name": "Contator", "code": "MICT07 - SRD-N4" },
       { "name": "Contator", "code": "MICT08 - SRD-N8" },
       { "name": "Filter", "code": "MICT09 - LF360CFW7" },
-      { "name": "Transformer", "code": "MICT10 - X54DH-02" },
+      { "name": "Transformer", "code": "MICT10 - X54DC-02" },
       { "name": "Transformer", "code": "MICT11 - X54GS-18" },
       { "name": "Transformer", "code": "MICT12 - MCE-4" },
       { "name": "Transformer", "code": "MICT13 - X54DH-07" },
@@ -1468,8 +1477,8 @@
       { "name": "PC Board", "code": "MIPCB17 - KCA-1190A" },
       { "name": "PC Board", "code": "MIPCB18 - KCB-750A" },
       { "name": "PC Board", "code": "MIPCB19 - KCC-400C" },
-      { "name": "PC Board", "code": "MIPCB20 - KCE-801A" },
-      { "name": "PC Board", "code": "MIPCB21 - KCD-1001C" },
+      { "name": "PC Board", "code": "MIPCB20 - KCC-801A" },
+      { "name": "PC Board", "code": "MIPCB21 - KCC-1001C" },
       { "name": "PC Board", "code": "MIPCB22 - KCD-701C" },
       { "name": "PC Board", "code": "MIPCB23 - KCD-760A" },
       { "name": "PC Board", "code": "MIPCB24 - KCD-1001B" },
@@ -1482,16 +1491,16 @@
       { "name": "PC Board", "code": "MIPCB31 - KCJ-420C" },
       { "name": "PC Board", "code": "MIPCB32 - KCN-760A" },
       { "name": "PC Board", "code": "MIPCB33 - KCN-920A" },
-      { "name": "PC Board", "code": "MIPCB34 - KCR-630A" },
-      { "name": "PC Board", "code": "MIPCB35 - KCR-746A" },
-      { "name": "PC Board, GPS-3", "code": "MIPCB36 - KCR-750D" },
-      { "name": "PC Board", "code": "MIPCB37 - KCR-752D" },
-      { "name": "PC Board", "code": "MIPCB38 - KCR-816A" },
-      { "name": "PC Board", "code": "MIPCB39 - KCR-870A" },
-      { "name": "PC Board", "code": "MIPCB40 - KCR-905A" },
-      { "name": "PC Board", "code": "MIPCB41 - KCR-907A" },
-      { "name": "PC Board", "code": "MIPCB42 - KCR-910C" },
-      { "name": "PC Board", "code": "MIPCB43 - KCR-916C" },
+      { "name": "PC Board", "code": "MIPCB34 - KCN-1000A" },
+      { "name": "PC Board", "code": "MIPCB35 - KCR-630A" },
+      { "name": "PC Board, GPS-3", "code": "MIPCB36 - KCR-746A" },
+      { "name": "PC Board", "code": "MIPCB37 - KCR-750D" },
+      { "name": "PC Board", "code": "MIPCB38 - KCR-752D" },
+      { "name": "PC Board", "code": "MIPCB39 - KCR-816A" },
+      { "name": "PC Board", "code": "MIPCB40 - KCR-870A" },
+      { "name": "PC Board", "code": "MIPCB41 - KCR-905A" },
+      { "name": "PC Board", "code": "MIPCB42 - KCR-907A" },
+      { "name": "PC Board", "code": "MIPCB43 - KCR-910C" },
       { "name": "PC Board", "code": "MIPCB44 - KCR-916C" },
       { "name": "PC Board", "code": "MIPCB45 - KCR-940A" },
       { "name": "PC Board", "code": "MIPCB46 - KCR-943A" },
@@ -1523,10 +1532,11 @@
       { "name": "PC Board", "code": "MIPCB72 - P203710B000" },
       { "name": "PC Board", "code": "MIPCB73 - P203718B000G03" },
       { "name": "PC Board", "code": "MIPCB74 - P203729B000G01" },
-      { "name": "PC Board", "code": "MIPCB75 - P203738B000G01" },
-      { "name": "PC Board", "code": "MIPCB76 - P203737B000G01" },
-      { "name": "PC Board", "code": "MIPCB77 - KCW-350A" },
-      { "name": "PC Board", "code": "MIPCB78 - P203741B000G01" },
+      { "name": "PC Board", "code": "MIPCB75 - P203730B000G01" },
+      { "name": "PC Board", "code": "MIPCB76 - P203735B000G01" },
+      { "name": "PC Board", "code": "MIPCB77 - P203737B000G01" },
+      { "name": "PC Board", "code": "MIPCB78 - KCW-350A" },
+      { "name": "PC Board", "code": "MIPCB79 - P203741B000G01" },
       { "name": "PC Board", "code": "MIPCB80 - P203744B000G01" },
       { "name": "PC Board", "code": "MIPCB81 - P203745B000G02" },
       { "name": "PC Board", "code": "MIPCB82 - P203746B000G01" },
@@ -1536,29 +1546,29 @@
       { "name": "PC Board", "code": "MIPCB86 - P203768B000G03" },
       { "name": "PC Board", "code": "MIPCB87 - P213703B000G01" },
       { "name": "PC Board", "code": "MIPCB88 - P214701B000G02" },
-      { "name": "PC Board", "code": "MIPCB89 - P231709B000G03" },
-      { "name": "PC Board", "code": "MIPCB90 - P235707B000G01" },
+      { "name": "PC Board", "code": "MIPCB89 - P231708B000G01" },
+      { "name": "PC Board", "code": "MIPCB90 - P231709B000G03" },
       { "name": "PC Board", "code": "MIPCB91 - P235707B000G01" },
       { "name": "PC Board", "code": "MIPCB92 - P235715B000G01" },
       { "name": "PC Board", "code": "MIPCB93 - P235716B000G01" },
       { "name": "PC Board", "code": "MIPCB94 - P235717B000G14L01" },
-      { "name": "PC Board", "code": "MIPCB95 - P235719B000G01" },
+      { "name": "PC Board", "code": "MIPCB95 - P235719B000G11" },
       { "name": "PC Board", "code": "MIPCB96 - P235720B000G33" },
-      { "name": "PC Board", "code": "MIPCB97 - P235725B000G02" },
+      { "name": "PC Board", "code": "MIPCB97 - P235752B000G01" },
       { "name": "PC Board", "code": "MIPCB98 - P266701B000G01" },
       { "name": "PC Board", "code": "MIPCB99 - P280702B000G01" },
       { "name": "PC Board", "code": "MIPCB100 - P366712B000G01" },
-      { "name": "PC Board", "code": "MIPCB101 - P366712B000G02" },
+      { "name": "PC Board", "code": "MIPCB101 - P366718B000G02" },
       { "name": "PC Board", "code": "MIPCB102 - X59LX-95" },
-      { "name": "PC Board", "code": "MIPCB103 - P203703B000G01" },
+      { "name": "PC Board", "code": "MIPCB103 - P203703B000G02" },
       { "name": "PC Board", "code": "MIPCB104 - P235705C" },
-      { "name": "PC Board", "code": "MIPCB105 - P203713B000G01" },
+      { "name": "PC Board", "code": "MIPCB105 - P203713B000G11" },
       { "name": "PC Board", "code": "MIPCB106 - P203721B000G01" },
-      { "name": "PC Board", "code": "MIPCB107 - LHS-200B" },
-      { "name": "PC Board", "code": "MIPCB108 - LHS-410A" },
-      { "name": "PC Board", "code": "MIPCB109 - P203728B000G01" },
-      { "name": "PC Board", "code": "MIPCB110 - P203728B000G02" },
-      { "name": "PC Board", "code": "MIPCB111 - P203728B000G03" },
+      { "name": "PC Board", "code": "MIPCB107 - P203722B000G01" },
+      { "name": "PC Board", "code": "MIPCB108 - LHS-200B" },
+      { "name": "PC Board", "code": "MIPCB109 - LHS-410A" },
+      { "name": "PC Board", "code": "MIPCB110 - P203723B000G01" },
+      { "name": "PC Board", "code": "MIPCB111 - P203728B000G01" },
       { "name": "PC Board", "code": "MIPCB112 - P231701B000G01" },
       { "name": "PC Board", "code": "MIPCB113 - LHS-420A" },
       { "name": "PC Board", "code": "MIPCB114 - KCZ-401A" },
@@ -1610,6 +1620,8 @@
     "slug": "otis",
     "page_name": "OTIS Elevator Parts",
     "code": "OT",
+    "meta_title": "Otis Elevator & Escalator Spare Parts | Bestech UAE",
+    "meta_description": " Shop genuine otis elevator and escalator parts at Bestech Parts UAE. Quality spares with fast delivery and competitive prices.",
     "items": [
       {
         "name": "Push Button T-40",
@@ -3201,6 +3213,8 @@
     "slug": "schindler",
     "page_name": "Schindler Elevator Parts",
     "code": "SC",
+    "meta_title": "Schindler Elevator & Escalator Spare Parts | Bestech UAE",
+    "meta_description": "Shop genuine Schindler elevator and escalator spare parts at Bestech Parts UAE. Quality-tested components with fast delivery across the region.",
     "items": [
       {
         "name": "Guide Shoe Insert 220×10mm",
@@ -3211,7 +3225,7 @@
         "code": "SCGS-2"
       },
       {
-        "name": "300P 对重导靴",
+        "name": "300P 对重导靴 CW Guide Shoe 97×101×100mm",
         "code": "SCGS-3"
       },
       {
@@ -3239,7 +3253,7 @@
         "code": "SCGS-9"
       },
       {
-        "name": "L7 导靴",
+        "name": "L7 导靴 Guide Shoe 65×51×35mm",
         "code": "SCGS-10"
       },
       {
@@ -3247,23 +3261,31 @@
         "code": "SCGS-1 - B22"
       },
       {
-        "name": "对重导靴",
+        "name": "对重导靴 C/W Guide Shoe 140×156×131mm",
         "code": "SCGS-12"
       },
       {
-        "name": "C/W Guide Shoe Head",
+        "name": "C/W Guide Shoe Head 140×118×40mm",
         "code": "SCGS-13 - 对重导靴头 无支架"
       },
       {
-        "name": "T15 对重导靴",
+        "name": "Roller for Guide Shoe 150×30×2mm 6201 ID:12",
+        "code": "SCGS-15 - 导靴轮"
+      },
+      {
+        "name": "Roller for Guide Shoe 100×25mm 6205 ID:25",
+        "code": "SCGS-16 -中迅导靴轮"
+      },
+      {
+        "name": "T15 对重导靴 CW Guide Shoe 10mm",
         "code": "SCGS-17"
       },
       {
-        "name": "T18 导靴",
+        "name": "T18 导靴 Guide Shoe  16mm",
         "code": "SCGS-18"
       },
       {
-        "name": "B22 轿箱主轨导靴",
+        "name": "B22 轿箱主轨导靴 Car Guide Shoe 200×335×120mm",
         "code": "SCGS-19"
       },
       {
@@ -3295,7 +3317,7 @@
         "code": "SCDV-3 - 门刀轮"
       },
       {
-        "name": "QKS9 门刀 左+ 右= 一套",
+        "name": "QKS9 门刀 左+ 右= 一套 Door Vane PB51",
         "code": "SCDV-4"
       },
       {
@@ -3308,18 +3330,18 @@
       },
       {
         "name": "V30 夹子滑块",
-        "code": "SCDS-2 - Door Slider"
+        "code": "SCDS-2 - Door Slider 50×16×10mm"
       },
       {
         "name": "300P Door Slider 22×18×11mm",
         "code": "SCDS-3"
       },
       {
-        "name": "Rubber Door Slider",
+        "name": "Rubber Door Slider 77×60×13mm",
         "code": "SCDS-4 - 橡胶滑块"
       },
       {
-        "name": "Door Slider Plastic",
+        "name": "Door Slider Plastic 73×15×15mm",
         "code": "SCDS-5 - 门滑块 塑料"
       },
       {
@@ -3332,14 +3354,14 @@
       },
       {
         "name": "辉光按钮",
-        "code": "SCBT-5 - Button"
+        "code": "SCBT-5 - Button 50×25×34mm"
       },
       {
         "name": "Guide Shoe insert 220×30mm 16mm",
         "code": "SCGS-7"
       },
       {
-        "name": "Door Slider",
+        "name": "Door Slider 74×58×15mm",
         "code": "SCDS-1 - 塑料门滑块"
       },
       {
@@ -3363,7 +3385,7 @@
         "code": "SCHR-3 - 新板门挂轮"
       },
       {
-        "name": "QD7 线芯中挂轮",
+        "name": "Φ72 线芯中挂轮 Hanger Rolle",
         "code": "SCHR-4 - BZ70278"
       },
       {
@@ -3379,16 +3401,16 @@
         "code": "SCHR-9"
       },
       {
-        "name": "Sheave 60×11mm 6200 GD48 ID:10",
-        "code": "SCWH-16 - 塑料横轮"
+        "name": "Sheave 60×11mm 6200 GD:48 ID:10",
+        "code": "SCWH-15 - 塑料绳轮 "
       },
       {
-        "name": "Sheave Unit 50×10mm GD36",
-        "code": "SCWH-17 - 塑料横轮"
+        "name": "Sheave Unit 50×10mm GD:36",
+        "code": "SCWH-16 - 塑料绳轮组件"
       },
       {
         "name": "Sheave Hanger a Pair 92×55×14mm",
-        "code": "SCWH-18 - 横轮支撑板 左右一对"
+        "code": "SCWH-17 - 绳轮支撑板 左右一对"
       },
       {
         "name": "OKS9(PB260) Door Lock 1 left + 1 right",
@@ -3428,7 +3450,7 @@
       },
       {
         "name": "Heidenhain Encoder ECMA-2048/8815-2K",
-        "code": "SCCOO-1 - 317845-13 - 海绵双循环器"
+        "code": "SCCOD-1 - 317845-13 - 海绵双循环器"
       },
       {
         "name": "Fan 380-400V",
@@ -3444,7 +3466,7 @@
       },
       {
         "name": "Oil Can 102×105×85mm",
-        "code": "SCOCC-1 - 油杯"
+        "code": "SCOC-1 - 油杯"
       },
       {
         "name": "Rubber Cushion 40237×45mm ID:20",
@@ -3456,7 +3478,7 @@
       },
       {
         "name": "Door Lock Contact 30×27×73mm",
-        "code": "SCLO-5 - 门锁触点 老装"
+        "code": "SCLO-8 - 门锁触点 老装"
       },
       {
         "name": "Open Dorscore",
@@ -3480,7 +3502,7 @@
       },
       {
         "name": "Door Lock Roller 40×28mm",
-        "code": "SCLO-16W - PB16D门锁轮"
+        "code": "SCLO-15W - PB16D门锁轮"
       },
       {
         "name": "V30(PB257) Door Lock",
@@ -3500,7 +3522,7 @@
       },
       {
         "name": "Bit-stable Magnet Protection Switch 88×24×25mm",
-        "code": "SCSW-6 - KGB-1 双稳态磁感开关"
+        "code": "SCSW-5 - KCB-1 双稳态磁感开关"
       },
       {
         "name": "Power Lock",
@@ -3539,7 +3561,7 @@
         "code": "SCDRC-2 - 开门锁连接"
       },
       {
-        "name": "Door Motor MGKSp-6/12(注：MGKS-p-12/6(键）",
+        "name": "Door Motor MGKSg-6/12(注：MGKS-g-12/6(键）",
         "code": "SCDM-1"
       },
       {
@@ -3555,8 +3577,8 @@
         "code": "SCCT-2 - 小键盘螺旋片"
       },
       {
-        "name": "300P 键盘",
-        "code": "SCCT-3 - EB1169643450007"
+        "name": "300P 键盘 Magnetic Drum",
+        "code": "SCCT-3 - EBI169643/450007"
       },
       {
         "name": "Magnetic Drum",
@@ -3567,16 +3589,16 @@
         "code": "SCTM-1 - 曳引轮"
       },
       {
-        "name": "Inverter Variodyn VF33BR",
-        "code": "SCIVT-1 - 迅达变频器"
+        "name": "迅达变频器  Inverter Variodyn VF33BR",
+        "code": "SCIVT-1 - 59400580"
       },
       {
         "name": "TORSION SPRING D36×5×5,RIGHT+LEFT",
         "code": "SCTS-1 - QKS9 弹簧"
       },
       {
-        "name": "TORSION SPRING D49×5×5,RIGHT+LEFT",
-        "code": "SCTS-2 - QKS10 弹簧"
+        "name": " 弹簧 TORSION SPRING D49×5×5,RIGHT+LEFT",
+        "code": "SCTS-2 - QKS10  59400570"
       },
       {
         "name": "Inverter Variodyn VF22BR",
@@ -3683,7 +3705,7 @@
         "code": "SCPCB-27 - 182001 电脑板 182002"
       },
       {
-        "name": "SKE 1.M 电子板",
+        "name": "SKE 1.M 电子板 PC Board",
         "code": "SCPCB-29 - 590871"
       },
       {
@@ -3711,11 +3733,11 @@
         "code": "SCPCB-35 - 无机房通讯板 591572"
       },
       {
-        "name": "300P 电脑板",
+        "name": "300P 电脑板 PC Board",
         "code": "SCPCB-36 - 590867"
       },
       {
-        "name": "300P 电脑板",
+        "name": "300P 电脑板 PC Board",
         "code": "SCPCB-37 - 205225"
       },
       {
@@ -3752,6 +3774,8 @@
     "slug": "thyssenkrupp",
     "page_name": "Thyssenkrupp Elevator Parts",
     "code": "THBT",
+    "meta_title": "Thyssenkrupp Elevator Spare Parts | Bestech Parts UAE",
+    "meta_description": "Shop genuine Thyssenkrupp elevator and escalator spare parts online at Bestech Parts. Reliable quality with fast UAE-wide delivery.",
     "items": [
       {
         "name": "Push Button,32.6 X 32.6",
