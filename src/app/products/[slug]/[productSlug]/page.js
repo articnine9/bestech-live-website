@@ -4,7 +4,7 @@ import ProductDetailsPageClient from "./ProductDetailsPageClient";
 
 // ✅ Metadata generation
 export async function generateMetadata({ params }) {
-  const { slug, productSlug } = params; // ❌ No 'await' needed here!
+  const { slug, productSlug } = params;
 
   const filePath = path.join(process.cwd(), "src", "db", "products.json");
   const fileContents = fs.readFileSync(filePath, "utf-8");
@@ -24,6 +24,9 @@ export async function generateMetadata({ params }) {
     return {
       title: "Product Not Found",
       description: "The requested product does not exist or has been moved.",
+      alternates: {
+        canonical: "https://www.bestechparts.ae/products", // fallback canonical
+      },
     };
   }
 
@@ -36,6 +39,9 @@ export async function generateMetadata({ params }) {
       `Explore details of ${product.name} from ${
         category?.page_name || "our products"
       }.`,
+    alternates: {
+      canonical: `${product.canonical}`, // dynamic canonical
+    },
   };
 }
 
