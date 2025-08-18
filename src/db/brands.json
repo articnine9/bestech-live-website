@@ -3,8 +3,8 @@
     "slug": "hyundai",
     "page_name": "HYUNDAI Elevator Parts",
     "code": "HY",
-    "meta_title": "Hyundai Elevator & Escalator Spare Parts | Bestech UAE",
-    "meta_description": "Shop genuine Hyundai elevator and escalator parts online at Bestech Parts. Reliable quality, fast delivery across UAE.",
+    "meta_title":"Hyundai Elevator & Escalator Spare Parts | Bestech UAE",
+    "meta_description":"Shop genuine Hyundai elevator and escalator parts online at Bestech Parts. Reliable quality, fast delivery across UAE.",
     "items": [
       {
         "name": "Push Button, 24V",
@@ -19,23 +19,23 @@
         "code": "HYBT03 - AK-4B"
       },
       {
-        "name": "Door Roller - Ø66 X 15 X 6202",
+        "name": "Door Roller - Φ66 X 15 X 6202",
         "code": "HYWR01 - "
       },
       {
-        "name": "Door Roller - Ø45 X 15 X Ø12",
+        "name": "Door Roller - Φ45 X 15 X Φ12",
         "code": "HYWR02 - "
       },
       {
-        "name": "Door Roller - Ø84 X Ø77 X 17 X M10",
+        "name": "Door Roller - Φ84 X Φ77 X 17 X M10",
         "code": "HYWR03 - "
       },
       {
-        "name": "Door Roller - Ø30(6200) X 33 X M6",
+        "name": "Door Roller - Φ30(6200) X 33 X M6",
         "code": "HYWR04 - "
       },
       {
-        "name": "Door Roller - Ø70 X 10 X 6001",
+        "name": "Door Roller - Φ70 X 10 X 6001",
         "code": "HYWR05 - "
       },
       {
@@ -79,15 +79,15 @@
         "code": "HYSS02 - "
       },
       {
-        "name": "Limited Switch - BUP-50(HD-UIO-HD)",
+        "name": "Limited Switch - BUP-50-H(BUD-50-H)",
         "code": "HYSS03 - "
       },
       {
-        "name": "Limited Switch - PF125/PF125-BDN",
+        "name": "Proximity Switch  - PF125/PFI25-8DN",
         "code": "HYSS04 - "
       },
       {
-        "name": "Load Sensors - HLC-2004 5TVFS",
+        "name": "Load Sensors - HLC-2004 STVF5",
         "code": "HYSS05 - "
       },
       {
@@ -112,26 +112,26 @@
       },
       {
         "name": "Display Board - STVF5/STVF8",
-        "code": "HYDI05 - HIPD-CAN"
+        "code": "HYDI05 - HPID-CAN"
       },
       {
         "name": "Display Board",
-        "code": "HYDI06 - HIPD-CANV3.1"
+        "code": "HYDI06 - HPID-CANV3.1"
       },
       {
         "name": "Display Board",
-        "code": "HYDI07 - HIPD-CANV3.2"
+        "code": "HYDI07 - HPID-CANV3.2"
       },
       {
         "name": "Display Board",
-        "code": "HYDI08 - COLTD125EG"
+        "code": "HYDI08 - COLTD12SEG"
       },
       {
         "name": "PC Board - HIDC-N",
         "code": "HYPCB01 - HIDC-N"
       },
       {
-        "name": "PC Board - BOARD 204C1869 H22",
+        "name": "PC Board - BOARD 204C1699 H22",
         "code": "HYPCB02 - MPCU"
       },
       {
@@ -151,12 +151,12 @@
         "code": "HYPCB06 - M33 BD REV .D1"
       },
       {
-        "name": "PC Board - MCU, STVF7/DWG N 20400068",
+        "name": "PC Board - MCU, STVF7/DWG N 20400065",
         "code": "HYPCB07 - MCU"
       },
       {
-        "name": "PC Board - TNPTA",
-        "code": "HYPCB08 - TNPTA"
+        "name": "PC Board - STVF7",
+        "code": "HYPCB08 - TNP7A"
       },
       {
         "name": "PC Board - OPB-340, STVF5/STVF7",
@@ -167,16 +167,16 @@
         "code": "HYPCB10 - CCB-7"
       },
       {
-        "name": "PC Board - H1VD90SS, STVF5/STVF7",
-        "code": "HYPCB11 - H1VD90SS"
+        "name": "PC Board - STVF5/STVF8",
+        "code": "HYPCB11 - HIVD900SS"
       },
       {
         "name": "PC Board - PSDM",
         "code": "HYPCB12 - PSDM"
       },
       {
-        "name": "PC Board - HIOP 158F RAG CAUTION",
-        "code": "HYPCB13 - "
+        "name": "PC Board - H9G 15SF R4.0 CAUTION",
+        "code": "HYPCB13 - H9G 15SF R4.0 CAUTION"
       },
       {
         "name": "PC Board - TPB-2",
@@ -192,8 +192,8 @@
     "slug": "kone",
     "page_name": "KONE Elevator Parts",
     "code": "KN",
-    "meta_title": "KONE Elevator & Escalator Spare Parts | Bestech UAE",
-    "meta_description": "Shop genuine KONE elevator and escalator spare parts online at Bestech Parts UAE. Quality products, fast delivery and expert support.",
+    "meta_title":"KONE Elevator & Escalator Spare Parts | Bestech UAE",
+    "meta_description":"Shop genuine KONE elevator and escalator spare parts online at Bestech Parts UAE. Quality products, fast delivery and expert support.",
     "items": [
       {
         "name": "Push Button Round - KD550",
@@ -905,8 +905,8 @@
     "slug": "mitsubishi",
     "page_name": "MITSUBISHI Elevator Parts",
     "code": "MI",
-    "meta_title": "Mitsubishi Elevator & Escalator Parts | Bestech UAE",
-    "meta_description": "Shop genuine Mitsubishi elevator and escalator spare parts at Bestech Parts UAE. Reliable quality, fast delivery, and expert support.",
+    "meta_title":"Mitsubishi Elevator & Escalator Parts | Bestech UAE",
+    "meta_description":"Shop genuine Mitsubishi elevator and escalator spare parts at Bestech Parts UAE. Reliable quality, fast delivery, and expert support.",
     "items": [
       {
         "name": "Push Button HOPE Type - Installation Hole Size:31 X 31",
@@ -1383,10 +1383,7 @@
         "name": "Encoder, ZKT-18B-51.2B-G12C-3550MM",
         "code": "MIEN10 - Z65AC-011"
       },
-      {
-        "name": "Encoder, 47HB1321ZD50H8-B-35-1",
-        "code": "MIEN11 - Z65AC-018"
-      },
+      { "name": "Encoder, 47HB1321ZD50H8-B-35-1", "code": "MIEN11 - Z65AC-018" },
       { "name": "Encoder", "code": "MIEN12 - 15BBRX-1019-C05" },
       { "name": "Module", "code": "MIMO01 - 7MBP150RA120-05" },
       { "name": "Module", "code": "MIMO02 - CM75E3Y-24E" },
@@ -1620,8 +1617,8 @@
     "slug": "otis",
     "page_name": "OTIS Elevator Parts",
     "code": "OT",
-    "meta_title": "Otis Elevator & Escalator Spare Parts | Bestech UAE",
-    "meta_description": " Shop genuine otis elevator and escalator parts at Bestech Parts UAE. Quality spares with fast delivery and competitive prices.",
+    "meta_title":"Otis Elevator & Escalator Spare Parts | Bestech UAE",
+    "meta_description":" Shop genuine otis elevator and escalator parts at Bestech Parts UAE. Quality spares with fast delivery and competitive prices.",
     "items": [
       {
         "name": "Push Button T-40",
@@ -3213,8 +3210,8 @@
     "slug": "schindler",
     "page_name": "Schindler Elevator Parts",
     "code": "SC",
-    "meta_title": "Schindler Elevator & Escalator Spare Parts | Bestech UAE",
-    "meta_description": "Shop genuine Schindler elevator and escalator spare parts at Bestech Parts UAE. Quality-tested components with fast delivery across the region.",
+    "meta_title":"Schindler Elevator & Escalator Spare Parts | Bestech UAE",
+    "meta_description":"Shop genuine Schindler elevator and escalator spare parts at Bestech Parts UAE. Quality-tested components with fast delivery across the region.",
     "items": [
       {
         "name": "Guide Shoe Insert 220×10mm",
@@ -3253,7 +3250,7 @@
         "code": "SCGS-9"
       },
       {
-        "name": "L7 导靴 Guide Shoe 65×51×35mm",
+        "name": "L7 导靴 Guide Shoe 65×51×35mm" ,
         "code": "SCGS-10"
       },
       {
@@ -3384,7 +3381,7 @@
         "name": "Hanger Roller 75×15mm, Long 125mm",
         "code": "SCHR-3 - 新板门挂轮"
       },
-      {
+      { 
         "name": "Φ72 线芯中挂轮 Hanger Rolle",
         "code": "SCHR-4 - BZ70278"
       },
@@ -3513,8 +3510,8 @@
         "code": "SCLO-19L - AD10门锁 左"
       },
       {
-        "name": "Security Windows Switch",
-        "code": "SCSW-1 - 安全开关"
+        "name": "安全开关 Security Windows Switch",
+        "code": "SCSW-1 - 59300018CL/59300010CL"
       },
       {
         "name": "Door Switch for Landing Door 114x41×50mm",
@@ -3774,8 +3771,8 @@
     "slug": "thyssenkrupp",
     "page_name": "Thyssenkrupp Elevator Parts",
     "code": "THBT",
-    "meta_title": "Thyssenkrupp Elevator Spare Parts | Bestech Parts UAE",
-    "meta_description": "Shop genuine Thyssenkrupp elevator and escalator spare parts online at Bestech Parts. Reliable quality with fast UAE-wide delivery.",
+    "meta_title":"Thyssenkrupp Elevator Spare Parts | Bestech Parts UAE",
+    "meta_description":"Shop genuine Thyssenkrupp elevator and escalator spare parts online at Bestech Parts. Reliable quality with fast UAE-wide delivery.",
     "items": [
       {
         "name": "Push Button,32.6 X 32.6",
@@ -3787,35 +3784,35 @@
       },
 
       {
-        "name": "Door Roller,930 X 9 X M10",
+        "name": "Door Roller,Φ30 X 9 X M10",
         "code": "THWR01 - "
       },
       {
-        "name": "Door Roller,970 X 17 X 6200,R-Groove",
+        "name": "Door Roller,Φ70 X 17 X 6200,R-Groove",
         "code": "THWR02 - "
       },
       {
-        "name": "Door Roller,070 X 17 X 6200,S-Groove",
+        "name": "Door Roller,Φ70 X 17 X 6200,S-Groove",
         "code": "THWR03 - "
       },
       {
-        "name": "Door Roller,980 X 13.5 X 6200",
+        "name": "Door Roller,Φ80 X 13.5 X 6200",
         "code": "THWR04 - "
       },
       {
-        "name": "Guide Shoe Roller,9153 X 32 X 2-6204",
+        "name": "Guide Shoe Roller,Φ153 X 32 X 2-6204",
         "code": "THWR05 - "
       },
       {
-        "name": "Guide Shoe Roller,982 X 24 X 2-6201",
+        "name": "Guide Shoe Roller,Φ82 X 24 X 2-6201",
         "code": "THWR06 - "
       },
       {
-        "name": "Guide Shoe Roller,9100 X 34 X M16",
+        "name": "Guide Shoe Roller,Φ100 X 34 X M16",
         "code": "THWR07 - "
       },
       {
-        "name": "Roller Guide Shoe Assembly,Roller:9153 X 32 X 2-6204,Mounting Hole:Φ140 X 75",
+        "name": "Roller Guide Shoe Assembly,Roller:Φ153 X 32 X 2-6204,Mouting Hole:Φ140 X 75",
         "code": "THWR08 - "
       },
 
@@ -3856,23 +3853,23 @@
         "code": "THGS09 - "
       },
       {
-        "name": "Guide Shoe Assembly,125 X 10/16,Mounting Hok",
+        "name": "Guide Shoe Assembly,125 X 10/16,Mounting Hole:100 X 65",
         "code": "THGS10 - HF-04"
       },
       {
-        "name": "Guide Shoe Assembly,200 X 17,Mounting Hole:1t",
+        "name": "Guide Shoe Assembly,200 X 17,Mounting Hole:100 X 65",
         "code": "THGS11 - HF-05"
       },
       {
-        "name": "Guide Shoe Assembly,130 X 10,Mounting Hole:1i",
+        "name": "Guide Shoe Assembly,130 X 10,Mounting Hole:118 X 60",
         "code": "THGS12 - HF-03"
       },
       {
-        "name": "Guide Shoe Assembly,130 X 10,Mounting Hole:6t",
+        "name": "Guide Shoe Assembly,130 X 10,Mounting Hole:60",
         "code": "THGS13 - HF-02"
       },
       {
-        "name": "Guide Shoe Assembly,140 X 16,Mounting Hole:8t",
+        "name": "Guide Shoe Assembly,140 X 16,Mounting Hole:89 X 85",
         "code": "THGS14 - "
       },
 
@@ -3960,11 +3957,11 @@
       },
       {
         "name": "Megnet Switch",
-        "code": "THSS04 - BN32S-R"
+        "code": "THSS04 - BN325-R"
       },
       {
         "name": "Inspection Switch",
-        "code": "THSS05 - LW39-16B-GAC-S5X5P"
+        "code": "THSS05 - LW39-16B-6AC-55X/5P"
       },
 
       {
@@ -4204,7 +4201,7 @@
       },
       {
         "name": "PC Board",
-        "code": "THPCB26 - TM12"
+        "code": "THPCB26 - TMI2"
       },
       {
         "name": "PC Board",

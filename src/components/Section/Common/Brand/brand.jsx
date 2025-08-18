@@ -34,16 +34,16 @@ const menuData = {
       slug: "thyssenkrupp",
       code: "TK",
     },
-    {
-      name: "STEP Parts",
-      slug: "step",
-      code: "ST",
-    },
-    {
-      name: "Monarch Parts",
-      slug: "monarch",
-      code: "MO",
-    },
+    // {
+    //   name: "STEP Parts",
+    //   slug: "step",
+    //   code: "ST",
+    // },
+    // {
+    //   name: "Monarch Parts",
+    //   slug: "monarch",
+    //   code: "MO",
+    // },
   ],
 };
 const Brand = ({ category }) => {
