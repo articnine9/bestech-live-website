@@ -205,6 +205,11 @@ const Header = () => {
                                                 </Link>
                                               </li>
                                               <li>
+                                                <Link href="/products/mechanical">
+                                                  Mechanical
+                                                </Link>
+                                              </li>
+                                              <li>
                                                 <Link href="/products/cables-and-wires">
                                                   Cables and wires
                                                 </Link>
@@ -488,6 +493,14 @@ const Header = () => {
                                   onClick={mobileMenuClose}
                                 >
                                   Electrical
+                                </Link>
+                              </li>
+                              <li>
+                                <Link
+                                  href="/products/mechanical"
+                                  onClick={mobileMenuClose}
+                                >
+                                  Mechanical
                                 </Link>
                               </li>
                               <li>
