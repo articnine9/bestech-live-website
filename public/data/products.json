@@ -797,15 +797,6 @@
         "url": "/buttons/cop-button-alarm",
         "image": "/img/products/buttons/cop-button-alarm/1.jpg",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Emergency light round - COP",
-        "description": "KA313-0",
-        "code": "BS-BT0051",
-        "url": "/buttons/emergency-light-round-cop-ka313-0",
-        "image": "/img/product-default-img.jpg",
-        "canonical":"https://www.bestechparts.ae/products/buttons/emergency-light-round-cop-ka313-0",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -1120,16 +1111,6 @@
         "meta_description":"Shop reliable elevator alarm systems for safety and emergency use. Fast delivery across UAE. Buy now from Bestech Parts.",
         "canonical":"https://www.bestechparts.ae/products/electrical/emergency-alarm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Emergency light round - COP",
-        "description": "",
-        "code": "BS-EL0012",
-        "url": "/electrical/emergency-light-round-cop",
-        "image": "/img/product-default-img.jpg",
-        "meta_title":"Emergency Light BS-EL0010 | Bestech Parts UAE",
-        "meta_description":"Shop BS-EL0010 emergency light – reliable lighting for elevator and building safety. Fast delivery across UAE. Order now at Bestech Parts.",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -1201,7 +1182,7 @@
         "description": "Type: 2500W",
         "code": "BS-CS0007",
         "url": "/cabinet-set/braking-resistor-2500w",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cabinet-set/braking-resistor-2500w/1.jpg",
         "canonical":"https://www.bestechparts.ae/products/cabinet-set/braking-resistor-2500w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1604,15 +1585,6 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
-        "name": "LOP lock",
-        "description": "",
-        "code": "BS-DL0026",
-        "url": "/door-locks/lop-lock",
-        "image": "/img/product-default-img.jpg",
-        "canonical":"https://www.bestechparts.ae/products/door-locks/door-lock-contact-edc-92l-edc-61l",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
         "name": "Door closer",
         "description": "",
         "code": "BS-DL0027",
@@ -1620,6 +1592,25 @@
         "image": "/img/products/door-locks/door-closer/1.jpg",
         "slider": ["1", "2"],
         "canonical":"https://www.bestechparts.ae/products/door-locks/door-closer",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "COP lock",
+        "description": "",
+        "code": "BS-DL0028",
+        "url": "/door-locks/cop-lock",
+        "image": "/img/products/door-locks/cop-lock/1.jpg",
+        "slider":["1", "2"],
+        "canonical":"https://www.bestechparts.ae/products/door-locks/cop-lock",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door lock contact: 161",
+        "description": "",
+        "code": "BS-DL0029",
+        "url": "/door-locks/door-lock-contact-161",
+        "image": "/img/product-default-img.jpg",
+        "canonical":"https://www.bestechparts.ae/products/door-locks/door-lock-contact-161",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -1682,20 +1673,11 @@
         "canonical":"https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-94-19-6203",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
-      {
-        "name": "Door wheel: 3201.05.0032/C",
-        "description": "3201.05.0032/C",
-        "code": "BS-DW0006",
-        "url": "/door-wheels/door-wheel-3201-05-0032-c",
-        "image": "/img/product-default-img.jpg",
-        "canonical":"https://www.bestechparts.ae/products/door-wheels/door-wheel-3201-05-0032-c",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-        
-      },
+      
       {
         "name": "Door hanging wheel: 74 X 18 X 6203",
         "description": "74 X 18 X 6203",
-        "code": "BS-DW0007",
+        "code": "BS-DW0006",
         "url": "/door-wheels/door-hanging-wheel-74-18-6203",
         "image": "/img/product-default-img.jpg",
         "canonical":"https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-74-18-6203",
@@ -1704,7 +1686,7 @@
       {
         "name": "Door hanging wheel: C144AANP",
         "description": "C144AANP",
-        "code": "BS-DW0008",
+        "code": "BS-DW0007",
         "url": "/door-wheels/door-hanging-wheel-c144aanp",
         "image": "/img/products/door-wheels/door-hanging-wheel-c144aanp/1.jpg",
         "slider": ["1", "2"],
@@ -1714,7 +1696,7 @@
       {
         "name": "Door belt wheel: PWVC",
         "description": "PWVC",
-        "code": "BS-DW0009",
+        "code": "BS-DW0008",
         "url": "/door-wheels/door-belt-wheel-pwvc",
         "image": "/img/products/door-wheels/door-belt-wheel-pwvc/1.jpg",
         "canonical":"https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-pwvc",
@@ -1723,7 +1705,7 @@
       {
         "name": "Door belt wheel: 38 X 20 X 6000",
         "description": "38 X 20 X 6000",
-        "code": "BS-DW0010",
+        "code": "BS-DW009",
         "url": "/door-wheels/door-belt-wheel-38-20-6000",
         "image": "/img/products/door-wheels/door-belt-wheel-38-20-6000/1.jpg",
         "canonical":"https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-38-20-6000",
@@ -1732,7 +1714,7 @@
       {
         "name": "Door belt wheel: F9",
         "description": "F9",
-        "code": "BS-DW0011",
+        "code": "BS-DW0010",
         "url": "/door-wheels/door-belt-wheel-f9",
         "image": "/img/products/door-wheels/door-belt-wheel-f9/1.jpg",
         "canonical":"https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-f9",
@@ -1741,7 +1723,7 @@
       {
         "name": "Door machine positioning wheel",
         "description": "",
-        "code": "BS-DW0012",
+        "code": "BS-DW0011",
         "url": "/door-wheels/door-machine-positioning-wheel",
         "image": "/img/products/door-wheels/door-machine-positioning-wheel/1.jpg",
         "slider": ["1", "2", "3", "4", "5", "6"],
@@ -1751,7 +1733,7 @@
       {
         "name": "Door hanging wheel: 56 X 16 X 6201",
         "description": "56 X 16 X 6201",
-        "code": "BS-DW0013",
+        "code": "BS-DW0012",
         "url": "/door-wheels/door-hanging-wheel-56-16-6201",
         "image": "/img/products/door-wheels/door-hanging-wheel-56-16-6201/1.jpg",
         "slider":["1", "2"],
@@ -1761,7 +1743,7 @@
       {
         "name": "Door wheel: 56 X 14 X 6201",
         "description": "56 X 14 X 6201",
-        "code": "BS-DW0014",
+        "code": "BS-DW0013",
         "url": "/door-wheels/door-wheel-56-14-6201",
         "image": "/img/products/door-wheels/door-wheel-56-14-6201/1.jpg",
         "slider":["1", "2"],
@@ -1771,7 +1753,7 @@
       {
         "name": "Door hanging wheel: 70 X 17 X 6200",
         "description": "70 X 17 X 6200",
-        "code": "BS-DW0015",
+        "code": "BS-DW0014",
         "url": "/door-wheels/door-hanging-wheel-70-17-6200",
         "image": "/img/products/door-wheels/door-hanging-wheel-70-17-6200/1.jpg",
         "slider":["1", "2"],
@@ -1781,7 +1763,7 @@
       {
         "name": "Door hanging wheel: 48 X 14 X 6200",
         "description": "48 X 14 X 6200",
-        "code": "BS-DW0016",
+        "code": "BS-DW0015",
         "url": "/door-wheels/door-hanging-wheel-48-14-6200",
         "image": "/img/products/door-wheels/door-hanging-wheel-48-14-6200/1.jpg",
         "slider":["1", "2"],
@@ -1791,7 +1773,7 @@
       {
         "name": "Door hanging wheel: 45 X 16 X 6000",
         "description": "45 X 16 X 6000",
-        "code": "BS-DW0017",
+        "code": "BS-DW0016",
         "url": "/door-wheels/door-hanging-wheel-45-16-6000",
         "image": "/img/products/door-wheels/door-hanging-wheel-45-16-6000/1.jpg",
         "slider":["1", "2"],
@@ -1801,7 +1783,7 @@
       {
         "name": "Door hanging wheel: 16508792 -A/B 16502278 -A/B",
         "description": "16508792-A/B 16502278-A/B",
-        "code": "BS-DW0018",
+        "code": "BS-DW0017",
         "url": "/door-wheels/door-hanging-wheel-16508792-16502278",
         "image": "/img/products/door-wheels/door-hanging-wheel-16508792-16502278/1.jpg",
         "slider":["1", "2"],
@@ -1811,7 +1793,7 @@
       {
         "name": "Door hanging wheel: 65 X 13 X 6202",
         "description": "65 X 13 X 6202",
-        "code": "BS-DW0019",
+        "code": "BS-DW0018",
         "url": "/door-wheels/door-hanging-wheel-65-13-6202",
         "image": "/img/products/door-wheels/door-hanging-wheel-65-13-6202/1.jpg",
         "slider":["1", "2"],
@@ -1821,7 +1803,7 @@
       {
         "name": "Door hanging wheel: 62 X 16 X 6203",
         "description": "62 X 16 X 6203",
-        "code": "BS-DW0020",
+        "code": "BS-DW0019",
         "url": "/door-wheels/door-hanging-wheel-62-16-6203",
         "image": "/img/products/door-wheels/door-hanging-wheel-62-16-6203/1.jpg",
         "slider": ["1", "2", "3"],
@@ -1831,11 +1813,22 @@
       {
         "name": "Door wheel bracket: AMD",
         "description": "AMD",
-        "code": "BS-DW0021",
+        "code": "BS-DW0020",
         "url": "/door-wheels/door-wheel-bracket-amd",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/door-wheels/door-wheel-bracket-amd/1.jpg",
+        "slider":["1", "2", "3", "4"],
         "canonical":"https://www.bestechparts.ae/products/door-wheels/door-wheel-bracket-amd",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door wheel: 3201.05.0032/C",
+        "description": "3201.05.0032/C",
+        "code": "BS-DW0021",
+        "url": "/door-wheels/door-wheel-3201-05-0032-c",
+        "image": "/img/product-default-img.jpg",
+        "canonical":"https://www.bestechparts.ae/products/door-wheels/door-wheel-3201-05-0032-c",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        
       }
     ]
   },
@@ -2517,7 +2510,8 @@
         "description": "1024-45mm",
         "code": "BS-EN0010",
         "url": "/encoders/encoder-1024-45mm",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/encoders/encoder-1024-45mm/1.jpg",
+        "slider":["1", "2"],
         "canonical":"https://www.bestechparts.ae/products/encoders/encoder-1024-45mm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2536,7 +2530,8 @@
         "description": "PG card: MCTC-PG-A2",
         "code": "BS-EN0012",
         "url": "/encoders/encoder-pg-card-mctc-pg-a2",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-a2/1.jpg",
+        "slider":["1", "2"],
         "canonical":"https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-a2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2707,15 +2702,6 @@
         "slider":["1", "2"],
         "canonical":"https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0002",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Door Drive",
-        "description": "",
-        "code": "BS-DD0003",
-        "url": "/door-drives/door-drive-bs-dd0003",
-        "image": "/img/product-default-img.jpg",
-        "canonical":"https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0003",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -2830,19 +2816,11 @@
         "canonical":"https://www.bestechparts.ae/products/displays/lop-display-led",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
-      {
-        "name": "Indicator display",
-        "description": "",
-        "code": "BS-DI0004",
-        "url": "/displays/indicator-display",
-        "image": "/img/product-default-img.jpg",
-        "canonical":"https://www.bestechparts.ae/products/displays/indicator-display",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
+      
       {
         "name": "Dot matrix display (vertical)",
         "description": "",
-        "code": "BS-DI0005",
+        "code": "BS-DI0004",
         "url": "/displays/dot-matrix-display-vertical",
         "image": "/img/productS/displays/dot-matrix-display-vertical/1.jpg",
         "slider":["1", "2", "3"],
@@ -2852,7 +2830,7 @@
       {
         "name": "Dot matrix display (horizontal)",
         "description": "",
-        "code": "BS-DI0006",
+        "code": "BS-DI0005",
         "url": "/displays/dot-matrix-display-horizontal",
         "image": "/img/products/displays/dot-matrix-display-horizontal/1.jpg",
         "slider":["1", "2"],
@@ -2862,16 +2840,17 @@
       {
         "name": "LCD display (vertical)",
         "description": "",
-        "code": "BS-DI0007",
+        "code": "BS-DI0006",
         "url": "/displays/lcd-display-vertical",
         "image": "/img/products/displays/lcd-display-vertical/1.jpg",
         "canonical":"https://www.bestechparts.ae/products/displays/lcd-display-vertical",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
+      
       {
         "name": "LCD display (horizontal)",
         "description": "",
-        "code": "BS-DI0008",
+        "code": "BS-DI0007",
         "url": "/displays/lcd-display-horizontal",
         "image": "/img/products/displays/lcd-display-horizontal/1.jpg",
         "slider":["1", "2"],
@@ -2881,11 +2860,21 @@
       {
         "name": "Display LED - 4.3\"",
         "description": "4.3 inch",
-        "code": "BS-DI0009",
+        "code": "BS-DI0008",
         "url": "/displays/display-led-4-3",
         "image": "/img/products/displays/display-led-4-3/1.jpg",
         "slider":["1", "2"],
         "canonical":"https://www.bestechparts.ae/products/displays/display-led-4-3",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "LCD display: SFTC-HCB-SL - Blue",
+        "description": "",
+        "code": "BS-DI0009",
+        "url": "/displays/lcd-display-sftc-hcb-sl-blue",
+        "image": "/img/products/displays/lcd-display-sftc-hcb-sl-blue/1.jpg",
+        "slider":["1", "2"],
+        "canonical":"https://www.bestechparts.ae/products/displays/indicator-display",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]

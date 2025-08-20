@@ -19,7 +19,18 @@ export const metadata = {
   title: "Elevator Spare Parts Suppliers in UAE | Quality Lift Components",
   description:
     "Top elevator spare parts suppliers in UAE. Get reliable, high-quality lift components for all brands. Fast delivery & competitive prices.",
+  alternates: {
+    canonical: "https://www.bestechparts.ae/",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    "max-image-preview": "large",
+    "max-snippet": -1,
+    "max-video-preview": -1,
+  },
 };
+
 export default function Home() {
   return (
     <div className="body-dark-bg homeOne">
