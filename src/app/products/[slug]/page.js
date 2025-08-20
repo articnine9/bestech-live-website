@@ -13,6 +13,10 @@ export async function generateMetadata({ params }) {
     return {
       title: "Product Not Found",
       description: "The product category you are looking for does not exist.",
+      alternates: {
+        canonical: "https://www.bestechparts.ae/products", // fallback canonical
+      },
+      robots: "noindex, nofollow", // fallback robots
     };
   }
 
@@ -21,6 +25,10 @@ export async function generateMetadata({ params }) {
     description:
       found.meta_description ||
       "Explore our product category for more information.",
+    alternates: {
+      canonical: found.canonical || `https://www.bestechparts.ae/${found.slug}`, // dynamic canonical
+    },
+    robots: found.robots || "index, follow", // take from JSON or fallback
   };
 }
 
