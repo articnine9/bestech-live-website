@@ -1043,7 +1043,8 @@
         "description": "XJ12-A",
         "code": "BS-EL0006",
         "url": "/electrical/phase-sequence-relay",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/electrical/phase-sequence-relay/1.jpg",
+        "slider": ["1", "2"],
         "meta_title": "Phase Sequence Relay for Elevators | Bestech Parts UAE",
         "meta_description": "Buy durable and reliable phase sequence relays for elevator systems. Best price, fast delivery across UAE. Trusted quality at Bestech Parts. ",
         "canonical": "https://www.bestechparts.ae/products/electrical/phase-sequence-relay",
@@ -1125,7 +1126,8 @@
         "description": "W8L 11KW",
         "code": "BS-CS0001",
         "url": "/cabinet-set/control-cabinet-w8l-11kw",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-w8l-11kw/1.jpg",
+        "slider": ["1", "2", "3", "4"],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-11kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1134,7 +1136,8 @@
         "description": "W8L 7.5KW",
         "code": "BS-CS0002",
         "url": "/cabinet-set/control-cabinet-w8l-75kw",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-w8l-75kw/1.jpg",
+        "slider": ["1", "2", "3", "4"],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-75kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1143,7 +1146,8 @@
         "description": "Communication box",
         "code": "BS-CS0003",
         "url": "/cabinet-set/car-top-communication-box",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cabinet-set/car-top-communication-box/1.jpg",
+        "slider": ["1", "2", "3", "4"],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1152,7 +1156,7 @@
         "description": "20CM",
         "code": "BS-CS0004",
         "url": "/cabinet-set/socket-and-wire-20cm",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cabinet-set/socket-and-wire-20cm/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/socket-and-wire-20cm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1161,7 +1165,8 @@
         "description": "35mm 2M",
         "code": "BS-CS0005",
         "url": "/cabinet-set/din-rail-35mm-2m",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cabinet-set/din-rail-35mm-2m/1.jpg",
+        "slider": ["1", "2", "3"],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/din-rail-35mm-2m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1170,7 +1175,7 @@
         "description": "2M",
         "code": "BS-CS0006",
         "url": "/cabinet-set/trunking-2m",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/cabinet-set/trunking-2m/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/trunking-2m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1277,7 +1282,8 @@
         "description": "",
         "code": "BS-ME0008",
         "url": "/mechanical/steel-socket-head-screws-m4x30mm",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/mechanical/steel-socket-head-screws-m4x30mm/1.jpg",
+        "slider": ["1", "2"],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1435,7 +1441,7 @@
         "description": "KF-9074",
         "code": "BS-DL0011",
         "url": "/door-locks/door-lock-contact-kf-9074",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-kf-9074/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-kf-9074",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1501,7 +1507,7 @@
         "description": "AZ-061",
         "code": "BS-DL0018",
         "url": "/door-locks/door-lock-contact-az-061",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-az-061/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-061",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1606,7 +1612,8 @@
         "description": "",
         "code": "BS-DL0029",
         "url": "/door-locks/door-lock-contact-161",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-161/1.jpg",
+        "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
@@ -1920,8 +1927,8 @@
         "description": "Photocell (Center open)",
         "code": "BS-SR0009",
         "url": "/sensors/light-curtain-door-sensor-center-open",
-        "image": "/img/products/sensors/light-curtain-door-sensor-center-open/1.jpg",
-        "slider": ["1", "2"],
+        "image": "/img/products/sensors/light-curtain-door-sensor-center-open/2.jpg",
+        "slider": ["2", "1"],
         "canonical": "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-center-open",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2420,7 +2427,7 @@
         "description": "cable 5M",
         "code": "BS-EN0001",
         "url": "/encoders/encoder-cable-5m",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/encoders/encoder-cable-5m/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-cable-5m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2429,7 +2436,7 @@
         "description": "cable 10M",
         "code": "BS-EN0002",
         "url": "/encoders/encoder-cable-10m",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/encoders/encoder-cable-10m/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-cable-10m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2438,7 +2445,7 @@
         "description": "cable 15M",
         "code": "BS-EN0003",
         "url": "/encoders/encoder-cable-15m",
-        "image": "/img/product-default-img.jpg",
+        "image": "/img/products/encoders/encoder-cable-15m/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-cable-15m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
