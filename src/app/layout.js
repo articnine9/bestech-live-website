@@ -1,7 +1,5 @@
 "use client";
 
-import Script from "next/script";
-
 import "../assets/css/bootstrap.min.css";
 import "../assets/css/all.min.css";
 import "../assets/css/style.css";
@@ -19,9 +17,10 @@ import "../assets/css/module-css/header.css";
 import Loading from "../components/Section/Common/Loading/Loading";
 import Footer from "../components/Section/Common/Footer";
 import Header from "../components/Section/Common/Header";
+import ChatPopup from "@/components/ChatPopup";
+
 import React, { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
-import ChatPopup from "@/components/ChatPopup";
 
 export default function RootLayout({ children }) {
   const [isLoading, setIsLoading] = useState(false);
@@ -39,16 +38,18 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Google Tag Manager script */}
-        <Script id="gtm-script" strategy="afterInteractive">
-          {`
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-M6PZHR4B');
-          `}
-        </Script>
+        {/* Google Tag Manager */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer','GTM-M6PZHR4B');
+            `,
+          }}
+        />
       </head>
       <body>
         {/* Google Tag Manager (noscript) */}
@@ -60,9 +61,11 @@ export default function RootLayout({ children }) {
             style={{ display: "none", visibility: "hidden" }}
           />
         </noscript>
-        {/* End Google Tag Manager */}
 
+        {/* Loading */}
         <Loading isLoading={isLoading} />
+
+        {/* Main content */}
         {!isLoading && (
           <>
             <Header />

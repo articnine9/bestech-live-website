@@ -2,15 +2,15 @@
   "/blog/page": "/blog",
   "/_not-found/page": "/_not-found",
   "/contact/page": "/contact",
-  "/products/[slug]/page": "/products/[slug]",
-  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
   "/brands/[slug]/page": "/brands/[slug]",
-  "/services/page": "/services",
-  "/project-details/page": "/project-details",
+  "/products/[slug]/page": "/products/[slug]",
   "/projects/page": "/projects",
-  "/blog/[url]/page": "/blog/[url]",
+  "/project-details/page": "/project-details",
+  "/services/page": "/services",
   "/team-details/page": "/team-details",
   "/team/page": "/team",
-  "/about/page": "/about",
-  "/page": "/"
+  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
+  "/blog/[url]/page": "/blog/[url]",
+  "/page": "/",
+  "/about/page": "/about"
 }

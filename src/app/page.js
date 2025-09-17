@@ -18,9 +18,12 @@ import WorkingProcess from "~/components/Section/Home-1/WorkingProcess/WorkingPr
 export const metadata = {
   title: "Elevator Spare Parts Suppliers in UAE | Quality Lift Components",
   description:
-    "Top elevator spare parts suppliers in UAE. Get reliable, high-quality lift components for all brands. Fast delivery & competitive prices.",
+    "Elevator Spare Parts Supplier in Dubai, UAE | Bestech Parts  Elevator spare parts supplier in Dubai, UAE for quality lift parts. Trusted elevator spare parts suppliers in Sharjah and dealers all over UAE.  ",
   alternates: {
     canonical: "https://www.bestechparts.ae/",
+    keywords: [
+      "Elevator spare parts supplier in Dubai, UAE, lift parts supplier in Dubai, elevator spare parts suppliers in Sharjah, elevator spare parts dealers UAE",
+    ],
   },
   robots: {
     index: true,
