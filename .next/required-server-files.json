@@ -97,7 +97,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "F:\\Personal Work\\2025\\Artic 9\\Next Js Website\\Bestech website\\Website\\live",
+    "outputFileTracingRoot": "C:\\Users\\Artic 9\\bestech-live-website",
     "experimental": {
       "useSkewCookie": false,
       "nodeMiddleware": false,
@@ -156,7 +156,7 @@
       "middlewarePrefetch": "flexible",
       "optimisticClientCache": true,
       "manualClientBasePath": false,
-      "cpus": 7,
+      "cpus": 3,
       "memoryBasedWorkersCount": false,
       "imgOptConcurrency": null,
       "imgOptTimeoutInSeconds": 7,
@@ -288,10 +288,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "F:\\Personal Work\\2025\\Artic 9\\Next Js Website\\Bestech website\\Website\\live"
+      "root": "C:\\Users\\Artic 9\\bestech-live-website"
     }
   },
-  "appDir": "F:\\Personal Work\\2025\\Artic 9\\Next Js Website\\Bestech website\\Website\\live",
+  "appDir": "C:\\Users\\Artic 9\\bestech-live-website",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
