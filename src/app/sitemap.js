@@ -1,6 +1,7 @@
 // app/sitemap.js
 import { products } from "@/lib/products";
 import { getAllBrands } from "@/lib/brands";
+import { getAllBlogPosts } from "@/lib/blog"; // <-- import your blog fetching function
 
 export default async function sitemap() {
   const baseUrl = "https://www.bestechparts.ae";
@@ -37,6 +38,15 @@ export default async function sitemap() {
   brands.forEach((brand) => {
     urls.push({
       url: `${baseUrl}/brands/${brand.slug}`,
+      lastModified: new Date().toISOString(),
+    });
+  });
+
+  // 4️⃣ Blog posts
+  const blogs = await getAllBlogPosts(); // fetch all blog posts
+  blogs.forEach((post) => {
+    urls.push({
+      url: `${baseUrl}/blog/${post.slug}`,
       lastModified: new Date().toISOString(),
     });
   });

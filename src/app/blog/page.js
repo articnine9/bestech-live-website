@@ -6,7 +6,7 @@ export default function BlogPage() {
   return (
     <div className="body-dark-bg">
       <div className="fix">
-        <PageHeader title="Blog Gride" />
+        <PageHeader title="Blog" />
         <Blog />
       </div>
     </div>

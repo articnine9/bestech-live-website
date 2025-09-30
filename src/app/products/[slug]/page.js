@@ -17,6 +17,7 @@ export async function generateMetadata({ params }) {
         canonical: "https://www.bestechparts.ae/products", // fallback canonical
       },
       robots: "noindex, nofollow", // fallback robots
+      keywords: "", // fallback keywords
     };
   }
 
@@ -29,6 +30,7 @@ export async function generateMetadata({ params }) {
       canonical: found.canonical || `https://www.bestechparts.ae/${found.slug}`, // dynamic canonical
     },
     robots: found.robots || "index, follow", // take from JSON or fallback
+    keywords: found.keywords || "", // add keywords from JSON
   };
 }
 

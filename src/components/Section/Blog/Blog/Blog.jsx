@@ -17,7 +17,7 @@ const Blog = () => {
               <BlogCardThree item={item} key={index}></BlogCardThree>
             ))}
           </div>
-          <ul className="styled-pagination text-center clearfix">
+          {/* <ul className="styled-pagination text-center clearfix">
             <li>
               <Link href="#">1</Link>
             </li>
@@ -32,7 +32,7 @@ const Blog = () => {
                 <span className="icon-right-arrow1"></span>
               </Link>
             </li>
-          </ul>
+          </ul> */}
         </div>
       </section>
     </div>
