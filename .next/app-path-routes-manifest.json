@@ -1,17 +1,17 @@
 {
   "/sitemap.xml/route": "/sitemap.xml",
-  "/blog/[url]/page": "/blog/[url]",
   "/_not-found/page": "/_not-found",
   "/blog/page": "/blog",
   "/contact/page": "/contact",
+  "/brands/[slug]/page": "/brands/[slug]",
   "/products/[slug]/page": "/products/[slug]",
+  "/project-details/page": "/project-details",
   "/projects/page": "/projects",
   "/services/page": "/services",
-  "/team-details/page": "/team-details",
   "/team/page": "/team",
+  "/team-details/page": "/team-details",
+  "/blog/[url]/page": "/blog/[url]",
+  "/page": "/",
   "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
-  "/project-details/page": "/project-details",
-  "/brands/[slug]/page": "/brands/[slug]",
-  "/about/page": "/about",
-  "/page": "/"
+  "/about/page": "/about"
 }
