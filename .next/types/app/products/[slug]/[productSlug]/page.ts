@@ -1,4 +1,4 @@
-// File: C:\Users\Artic 9\bestech-live-website\src\app\products\[slug]\[productSlug]\page.js
+// File: F:\Personal Work\2025\Artic 9\Next Js Website\Bestech website\Website\live\src\app\products\[slug]\[productSlug]\page.js
 import * as entry from '../../../../../../src/app/products/[slug]/[productSlug]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
