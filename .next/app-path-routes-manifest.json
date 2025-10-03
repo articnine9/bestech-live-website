@@ -1,17 +1,17 @@
 {
   "/sitemap.xml/route": "/sitemap.xml",
-  "/_not-found/page": "/_not-found",
   "/blog/page": "/blog",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/blog/[url]/page": "/blog/[url]",
   "/contact/page": "/contact",
-  "/brands/[slug]/page": "/brands/[slug]",
-  "/products/[slug]/page": "/products/[slug]",
   "/project-details/page": "/project-details",
+  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
+  "/page": "/",
+  "/products/[slug]/page": "/products/[slug]",
+  "/team-details/page": "/team-details",
+  "/team/page": "/team",
   "/projects/page": "/projects",
   "/services/page": "/services",
-  "/team/page": "/team",
-  "/team-details/page": "/team-details",
-  "/blog/[url]/page": "/blog/[url]",
-  "/page": "/",
-  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
-  "/about/page": "/about"
+  "/brands/[slug]/page": "/brands/[slug]"
 }

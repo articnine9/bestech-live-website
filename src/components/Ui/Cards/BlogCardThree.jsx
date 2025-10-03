@@ -25,7 +25,7 @@ const BlogCardThree = ({ item }) => {
             <li>
               <Link href="#">{item.category}</Link>
             </li>
-            <li>-</li>
+            {/* <li>-</li> */}
             <li>{item.date}</li>
           </ul>
           <div className="btn-box">

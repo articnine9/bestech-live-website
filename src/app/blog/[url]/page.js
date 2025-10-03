@@ -27,39 +27,45 @@ export default function Page() {
     <>
       <PageHeader title={blog.title} />
 
-      <section className="blog-details padding" id="blog-cta">
-        <div className="container">
-          <div className="row">
+      <section className="blog-details padding" id="blog-cta" >
+        <div className="container ">
+          <div className="row justify-content-center align-items-center" style={{ minHeight: '100vh' }}>
             {/* Main Blog Content */}
-            <div className="col-xl-8">
+            <div className="col-xl-8 " >
               <div className="blog-details__content">
                 <div className="blog-standard-page__single">
                   <div className="blog-standard-page__single-img">
                     <img src={blog.image} alt={blog.title} />
                   </div>
                   <div className="blog-standard-page__single-content">
-                    <ul className="meta-box">
+                    {/* <ul className="meta-box">
                       <li>
                         <i className="icon-user1"></i> By {blog.author}
                       </li>
                       <li>
                         <i className="icon-date"></i> {blog.date}
                       </li>
-                    </ul>
+                    </ul> */}
                     <h2>{blog.title}</h2>
 
-                    <p>{blog.paragraph}</p>
+                    {/* <p>{blog.paragraph}</p> */}
+                    <p>  {blog.paragraph.map((item, index) => (
+                      <div
+                        key={index}
+                        dangerouslySetInnerHTML={{ __html: item }}
+                      />
+                    ))}</p>
                   </div>
                 </div>
               </div>
             </div>
 
             {/* Sidebar */}
-            <div className="col-xl-4">
+            {/* <div className="col-xl-4">
               <div className="sidebar">
                 <LatestBlogCard />
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

@@ -174,6 +174,9 @@ const Header = () => {
                                 <li>
                                   <Link href="/about">About</Link>
                                 </li>
+                                <li>
+                                  <Link href="/blog">Blog</Link>
+                                </li>
                                 <li className="dropdown menu-item-has-children position-static">
                                   <Link
                                     href="#"

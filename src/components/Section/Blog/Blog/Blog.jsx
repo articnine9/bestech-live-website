@@ -14,7 +14,7 @@ const Blog = () => {
         <div className="container">
           <div className="row">
             {data?.map((item, index) => (
-              <BlogCardThree item={item} key={index}></BlogCardThree>
+              <BlogCardThree item={item} key={index} ></BlogCardThree>
             ))}
           </div>
           {/* <ul className="styled-pagination text-center clearfix">
