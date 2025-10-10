@@ -31,7 +31,7 @@ export default async function sitemap() {
       urls.push({
         url: category.canonical.startsWith("http")
           ? category.canonical
-          : `${baseUrl}${category.canonical}`,
+          : `${baseUrl}/products${category.canonical}`,
         lastModified: new Date().toISOString(),
       });
       console.log(`Category added: ${category.canonical}`);
@@ -44,7 +44,7 @@ export default async function sitemap() {
 
         const imageUrl =
           typeof item.image === "string" && item.image
-            ? `${baseUrl}/products${item.image}`
+            ? `${baseUrl}${item.image}`
             : undefined;
 
         const productUrlObj = {
