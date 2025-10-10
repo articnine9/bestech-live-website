@@ -44,7 +44,7 @@ export default async function sitemap() {
 
         const imageUrl =
           typeof item.image === "string" && item.image
-            ? `${baseUrl}${item.image}`
+            ? `${baseUrl}/products${item.image}`
             : undefined;
 
         const productUrlObj = {
