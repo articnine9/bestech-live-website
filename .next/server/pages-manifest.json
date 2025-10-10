@@ -1,9 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/api/sendContact": "pages/api/sendContact.js",
-  "/api/sendMail": "pages/api/sendMail.js",
-  "/api/sendQuote": "pages/api/sendQuote.js",
-  "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
-}
