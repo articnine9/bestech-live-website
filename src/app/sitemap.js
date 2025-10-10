@@ -48,7 +48,9 @@ export default async function sitemap() {
             : undefined;
 
         const productUrlObj = {
-          url: item.url.startsWith("http") ? item.url : `${baseUrl}${item.url}`,
+          url: item.url.startsWith("http")
+            ? item.url
+            : `${baseUrl}/products${item.url}`,
           lastModified: new Date().toISOString(),
         };
 
