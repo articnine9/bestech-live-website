@@ -14,92 +14,88 @@ export default async function sitemap() {
     {
       url: `${baseUrl}/`,
       lastModified: new Date().toISOString(),
-      images: [
-        {
-          url: `${baseUrl}/images/home-hero.jpg`,
-          title: "Best Tech Parts",
-          caption: "High-quality computer parts and accessories",
-        },
-      ],
+      images: [`${baseUrl}/images/home-hero.jpg`],
     },
     { url: `${baseUrl}/about-us`, lastModified: new Date().toISOString() },
     { url: `${baseUrl}/blog`, lastModified: new Date().toISOString() },
     { url: `${baseUrl}/contact`, lastModified: new Date().toISOString() },
   ];
-  urls.push(...staticPages);
 
+  urls.push(...staticPages);
   console.log("Static pages added:", staticPages);
 
   // 2️⃣ Products
   products.forEach((category) => {
-    // Category page
-    urls.push({
-      url: category.canonical,
-      lastModified: new Date().toISOString(),
-    });
-
-    console.log(`Category added: ${category.canonical}`);
-
-    // Individual product pages
-    category.items.forEach((item) => {
-      const imagesArray = [];
-      if (item.image && typeof item.image === "string") {
-        imagesArray.push({
-          url: `${baseUrl}/products${item.image}`,
-          title: item.name || undefined,
-          caption: item.description || undefined,
-        });
-      }
-
-      const productUrlObj = {
-        url: `${baseUrl}/products${item.url}`,
+    // Add category page if it has a valid URL
+    if (category?.canonical) {
+      urls.push({
+        url: category.canonical.startsWith("http")
+          ? category.canonical
+          : `${baseUrl}${category.canonical}`,
         lastModified: new Date().toISOString(),
-        images: [`${baseUrl}${item.image}`],
-      };
+      });
+      console.log(`Category added: ${category.canonical}`);
+    }
 
-      urls.push(productUrlObj);
+    // Add individual product pages
+    if (Array.isArray(category.items)) {
+      category.items.forEach((item) => {
+        if (!item?.url) return;
 
-      console.log("Product added:", productUrlObj);
-    });
+        const imageUrl =
+          typeof item.image === "string" && item.image
+            ? `${baseUrl}${item.image}`
+            : undefined;
+
+        const productUrlObj = {
+          url: item.url.startsWith("http") ? item.url : `${baseUrl}${item.url}`,
+          lastModified: new Date().toISOString(),
+        };
+
+        // Only add image if it’s valid
+        if (imageUrl) {
+          productUrlObj.images = [imageUrl];
+        }
+
+        urls.push(productUrlObj);
+        console.log("Product added:", productUrlObj);
+      });
+    }
   });
 
   // 3️⃣ Brands
   const brands = await getAllBrands();
   brands.forEach((brand) => {
-    const brandUrlObj = {
-      url: `${baseUrl}/brands/${brand.slug}`,
-      lastModified: new Date().toISOString(),
-    };
-    urls.push(brandUrlObj);
-
-    console.log("Brand added:", brandUrlObj);
+    if (brand?.slug) {
+      const brandUrl = `${baseUrl}/brands/${brand.slug}`;
+      urls.push({
+        url: brandUrl,
+        lastModified: new Date().toISOString(),
+      });
+      console.log("Brand added:", brandUrl);
+    }
   });
 
   // 4️⃣ Blog posts
   const blogs = await getAllBlogPosts();
   blogs.forEach((post) => {
-    const imagesArray = [];
-    if (post.image) {
-      imagesArray.push({
-        url: `${baseUrl}${post.image}`,
-        title: post.title,
-      });
-    }
+    if (!post?.slug) return;
 
+    const blogUrl = `${baseUrl}/blog/${post.slug}`;
     const blogUrlObj = {
-      url: `${baseUrl}/blog/${post.slug}`,
+      url: blogUrl,
       lastModified: new Date().toISOString(),
-      // images: imagesArray.length ? imagesArray : undefined,
     };
 
-    urls.push(blogUrlObj);
+    // Only include valid image URL
+    if (typeof post.image === "string" && post.image) {
+      blogUrlObj.images = [`${baseUrl}${post.image}`];
+    }
 
+    urls.push(blogUrlObj);
     console.log("Blog post added:", blogUrlObj);
   });
 
   console.log("Sitemap generation complete. Total URLs:", urls.length);
-  // Optional: print full sitemap
-  // console.log(JSON.stringify(urls, null, 2));
-
   return urls;
 }
