@@ -174,9 +174,7 @@ const Header = () => {
                                 <li>
                                   <Link href="/about">About</Link>
                                 </li>
-                                <li>
-                                  <Link href="/blog">Blog</Link>
-                                </li>
+                              
                                 <li className="dropdown menu-item-has-children position-static">
                                   <Link
                                     href="#"
@@ -408,6 +406,9 @@ const Header = () => {
                                       </Link>
                                     </li>
                                   </ul>
+                                </li>
+                                  <li>
+                                  <Link href="/blog">Blog</Link>
                                 </li>
                                 <li>
                                   <Link href="/contact">Contact Us</Link>
@@ -771,6 +772,9 @@ const Header = () => {
                           ></span>
                         </div>
                       </li>
+                        <li>
+                                  <Link href="/blog" onClick={mobileMenuClose}>Blog</Link>
+                                </li>
                       <li>
                         <Link href="/contact" onClick={mobileMenuClose}>
                           Contact Us

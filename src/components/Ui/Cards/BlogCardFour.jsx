@@ -36,11 +36,11 @@ const BlogCardFour = ({ items, productcode }) => {
                 </div>
 
                 <div className="blog-two__single-content">
-                  {/* <h2>
+                  <h2>
                     <Link href={`/products${safeLink}`}>
                       {item?.name || "Untitled"}
                     </Link>
-                  </h2> */}
+                  </h2>
                   {/* <ul className="meta-box">
                     {item?.description && <li>{item.description}</li>}
                     {item?.description && item?.code && <li>-</li>}

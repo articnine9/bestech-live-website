@@ -1,0 +1,17 @@
+{
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/_not-found/page": "/_not-found",
+  "/brands/[slug]/page": "/brands/[slug]",
+  "/blog/page": "/blog",
+  "/blog/[url]/page": "/blog/[url]",
+  "/contact/page": "/contact",
+  "/products/[slug]/page": "/products/[slug]",
+  "/projects/page": "/projects",
+  "/services/page": "/services",
+  "/team-details/page": "/team-details",
+  "/team/page": "/team",
+  "/project-details/page": "/project-details",
+  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
+  "/about/page": "/about",
+  "/page": "/"
+}
