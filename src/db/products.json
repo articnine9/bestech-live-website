@@ -28,14 +28,15 @@
     ]
   },
   {
-    "slug": "cables-and-wires",
-    "page_name": "Cables and Wires",
-    "code": "BS-CW",
-    "meta_title": "Elevator Cables & Wires | Bestech UAE",
-    "meta_description": "Elevator Wire Rope Supplier UAE | Cables & Wires in Dubai Sharjah  Find trusted Elevator Wire Rope Supplier UAE. Bestech offers lift cables, steel wire ropes, and quality elevator wire suppliers in Dubai, Sharjah, and across UAE",
-    "canonical": "https://www.bestechparts.ae/products/cables-and-wires",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "keywords":"Elevator Wire Rope Supplier UAE, lift cables suppliers UAE, elevator Steel Wire Rope Suppliers UAE, Quality elevator wire suppliers Dubai, stell wire rope suppliers Sharjah ",
+    
+  "slug": "cables-and-wires",
+  "page_name": "Cables and Wires",
+  "code": "BS-CW",
+  "meta_title": "Elevator Wire Rope Supplier UAE | Cables & Wires in Dubai Sharjah",
+  "meta_description": "Find trusted Elevator Wire Rope Supplier UAE. Bestech offers lift cables, steel wire ropes, and quality elevator wire suppliers in Dubai, Sharjah, and across UAE.",
+  "keywords": "Elevator Wire Rope Supplier UAE, lift cables suppliers UAE, elevator Steel Wire Rope Suppliers UAE, Quality elevator wire suppliers Dubai, stell wire rope suppliers Sharjah",
+  "canonical": "https://www.bestechparts.ae/products/cables-and-wires",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
 
     "items": [
       {
@@ -179,14 +180,17 @@
     ]
   },
   {
-    "slug": "contactors",
-    "page_name": "Contactors",
-    "code": "BS-CT",
-    "meta_title": "Elevator spare parts contractors in UAE near me",
-    "meta_description": "Elevator Contactors Suppliers in UAE | Lift Parts Dubai Sharjah  Top Elevator Contactors Suppliers in UAE. Find quality lift contactor supplier in Sharjah, trusted contactor supplier in UAE & reliable lift electrical suppliers UAE",
-    "canonical": "https://www.bestechparts.ae/products/contactors",
-    "keywords":"Elevator Contactors Suppliers in UAE, quality lift contactor supplier in Sharjah, Contactor supplier in UAE, lift electrical suppliers UAE",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "contactors",
+  "page_name": "Contactors",
+  "code": "BS-CT",
+  "meta_title": "Elevator Contactors Suppliers in UAE | Lift Parts Dubai Sharjah",
+  "meta_description": "Top Elevator Contactors Suppliers in UAE. Find quality lift contactor supplier in Sharjah, trusted contactor supplier in UAE & reliable lift electrical suppliers UAE.",
+  "keywords": "Elevator Contactors Suppliers in UAE, quality lift contactor supplier in Sharjah, Contactor supplier in UAE, lift electrical suppliers UAE",
+  "canonical": "https://www.bestechparts.ae/products/contactors",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Contactor AC110V 25A 1NO+1NC",
@@ -252,8 +256,9 @@
         "code": "BS-CT0006",
         "url": "/contactors/contactor-dc110v-32a",
         "image": "/img/products/contactors/contactor-dc110v-32a/1.jpg",
-        "meta_title": "DC Contactor 110V 32A – Durable & Reliable | Bestech UAE",
-        "meta_description": "Shop DC 110V 32A contactor ideal for elevator and industrial use. High performance, reliable, and ready to ship across UAE at Bestech Parts.",
+        "meta_title": "Elevator Contactor DC110V 32A Supplier in Dubai, Sharjah UAE",
+        "meta_description": "Order DC110V 32A elevator contactor at Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Fuji, Otis and Kone lift spare parts.",
+        "key_words": "Elevator Contactor DC110V 32A, elevator contactor DC110V 32A, fuji elevator contactor Dubai, otis dc contactor UAE, elevator dc spare part sharjah, lift contactor supplier",
         "canonical": "https://www.bestechparts.ae/products/contactors/contactor-dc110v-32a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -271,14 +276,16 @@
     ]
   },
   {
-    "slug": "circuit-breakers",
-    "page_name": "Circuit Breakers",
-    "code": "BS-CB",
-    "meta_title": "Buy Contactors in UAE | Bestech Parts",
-    "meta_description": "Elevator Circuit Breakers in UAE | Lift Suppliers Dubai Sharjah Buy Elevator Circuit Breakers in UAE. Trusted lift circuit breakers dealers Sharjah & lift electrical product suppliers Dubai. Serving across Dubai, Sharjah & UAE.",
-    "canonical": "https://www.bestechparts.ae/products/circuit-breakers",
-    "keywords":"elevator Circuit Breakers in UAE, lift Circuit Breakers dealers Sharjah, lift electrical product suppliers Dubai",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "circuit-breakers",
+  "page_name": "Circuit Breakers",
+  "code": "BS-CB",
+  "meta_title": "Elevator Circuit Breakers in UAE | Lift Suppliers Dubai Sharjah",
+  "meta_description": "Buy Elevator Circuit Breakers in UAE. Trusted lift circuit breakers dealers Sharjah & lift electrical product suppliers Dubai. Serving across Dubai, Sharjah & UAE.",
+  "keywords": "elevator Circuit Breakers in UAE, lift Circuit Breakers dealers Sharjah, lift electrical product suppliers Dubai",
+  "canonical": "https://www.bestechparts.ae/products/circuit-breakers",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     "items": [
       {
         "name": "MCB 63A 4P",
@@ -342,14 +349,17 @@
     ]
   },
   {
-    "slug": "buttons",
-    "page_name": "Buttons",
-    "code": "BS-BT",
-    "meta_title": "Elevator Spare Parts Buttons UAE | Control Push Buttons Dubai",
-    "meta_description": "Buy elevator spare parts buttons in the UAE. Control push buttons for elevators available in Dubai, Sharjah, and across the UAE. Kone and Hyundai button plate distributors and sellers.",
-    "keywords":"Elevator Spare Parts Buttons UAE, elevator control buttons sharjah, Control Buttons for Elevators UAE, Elevator Push Buttons spare parts seller UAE, kone elevator push buttons suppliers, kone button plate distributors dubai, Hyundai elevator push buttons",
-    "canonical": "https://www.bestechparts.ae/products/buttons",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "buttons",
+  "page_name": "Buttons",
+  "code": "BS-BT",
+  "meta_title": "Elevator Spare Parts Buttons UAE | Control Push Buttons Dubai",
+  "meta_description": "Buy elevator spare parts buttons in the UAE. Control push buttons for elevators available in Dubai, Sharjah, and across the UAE. Kone and Hyundai button plate distributors and sellers.",
+  "keywords": "Elevator Spare Parts Buttons UAE, elevator control buttons sharjah, Control Buttons for Elevators UAE, Elevator Push Buttons spare parts seller UAE, kone elevator push buttons suppliers, kone button plate distributors dubai, Hyundai elevator push buttons",
+  "canonical": "https://www.bestechparts.ae/products/buttons",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Stop Push button (NC)",
@@ -804,14 +814,17 @@
     ]
   },
   {
-    "slug": "switches",
-    "page_name": "Switches",
-    "code": "BS-SW",
-    "meta_title": "Industrial Elevator Switches | Bestech Parts UAE",
-    "meta_description": "Elevator Switches in UAE | Electrical & Lift Switch Suppliers  Find elevator switches in UAE with trusted electrical switches suppliers. Best electrical switch dealers in Sharjah & lift switch suppliers across Dubai & UAE.  ",
-    "canonical": "https://www.bestechparts.ae/products/switches",
-    "keywords":"elevator switches in UAE, electrical switches suppliers UAE, best Electrical Switch dealers Sharjah, lift Switch suppliers sharjah ",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "switches",
+  "page_name": "Switches",
+  "code": "BS-SW",
+  "meta_title": "Elevator Switches in UAE | Electrical & Lift Switch Suppliers",
+  "meta_description": "Find elevator switches in UAE with trusted electrical switches suppliers. Best electrical switch dealers in Sharjah & lift switch suppliers across Dubai & UAE.",
+  "keywords": "elevator switches in UAE, electrical switches suppliers UAE, best Electrical Switch dealers Sharjah, lift Switch suppliers sharjah",
+  "canonical": "https://www.bestechparts.ae/products/switches",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Inspection / normal switch (NO)",
@@ -977,15 +990,16 @@
     ]
   },
   {
-    "slug": "electrical",
-    "page_name": "Electrical",
-    "code": "BS-EL",
-    "meta_title": "Electrical Elevator Parts | Bestech UAE",
-    "meta_description": "Elevator Electrical Spare Parts Supplier in Dubai, Sharjah UAE  Elevator electrical spare parts supplier in UAE. Get trusted lift electrical spare parts in Sharjah and elevator spare parts in Dubai with fast UAE-wide service.",
-    "keywords":"elevator electrical spare parts supplier, elevator electrical parts supplier in UAE, lift electrical spare parts Sharjah, elevator spare parts Dubai",
-    "canonical": "https://www.bestechparts.ae/products/electrical",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    "items": [
+    
+  "slug": "electrical",
+  "page_name": "Electrical",
+  "code": "BS-EL",
+  "meta_title": "Elevator Electrical Spare Parts Supplier in Dubai, Sharjah UAE",
+  "meta_description": "Elevator electrical spare parts supplier in UAE. Get trusted lift electrical spare parts in Sharjah and elevator spare parts in Dubai with fast UAE-wide service.",
+  "keywords": "elevator electrical spare parts supplier, elevator electrical parts supplier in UAE, lift electrical spare parts Sharjah, elevator spare parts Dubai",
+  "canonical": "https://www.bestechparts.ae/products/electrical",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+"items": [
       {
         "name": "Connector PT2.5",
         "description": "",
@@ -1120,14 +1134,17 @@
     ]
   },
   {
-    "slug": "cabinet-set",
-    "page_name": "Cabinet Set",
-    "code": "BS-CS",
-    "meta_title": "Elevator Control Cabinet Set Sharjah | Lift Parts UAE",
-    "meta_description": "Get premium Elevator Control Cabinet Set Sharjah from trusted Lift Cabinet Set suppliers in UAE. High-quality elevator spare parts delivered all over UAE.",
-    "keywords":"Elevator Control Cabinet Set Sharjah, Lift Cabinet Set suppliers UAE, Elevator Spare Parts Cabinet Set",
-    "canonical": "https://www.bestechparts.ae/products/cabinet-set",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "cabinet-set",
+  "page_name": "Cabinet Set",
+  "code": "BS-CS",
+  "meta_title": "Elevator Control Cabinet Set Sharjah | Lift Parts UAE",
+  "meta_description": "Get premium Elevator Control Cabinet Set Sharjah from trusted Lift Cabinet Set suppliers in UAE. High-quality elevator spare parts delivered all over UAE.",
+  "keywords": "Elevator Control Cabinet Set Sharjah, Lift Cabinet Set suppliers UAE, Elevator Spare Parts Cabinet Set",
+  "canonical": "https://www.bestechparts.ae/products/cabinet-set",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Control cabinet -W8L 11KW",
@@ -1218,11 +1235,12 @@
   },
   {
     "slug": "mechanical",
-    "page_name": "Mechanical",
-    "code": "BS-ME",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-     "keywords":"best elevator mechanical spare parts supplier, elevator spare parts suppliers Sharjah, UAE, Lift mechanical spare parts suppliers ",
-     "content":"Best Elevator Mechanical Spare Parts Supplier in UAE | Dubai  Best elevator mechanical spare parts supplier in Dubai, Sharjah & all over UAE. Trusted lift spare parts suppliers offering quality, durability & support. ",
+  "page_name": "Mechanical",
+  "code": "BS-ME",
+  "meta_title": "Best Elevator Mechanical Spare Parts Supplier in UAE | Dubai",
+  "meta_description": "Best elevator mechanical spare parts supplier in Dubai, Sharjah & all over UAE. Trusted lift spare parts suppliers offering quality, durability & support.",
+  "keywords": "best elevator mechanical spare parts supplier, elevator spare parts suppliers Sharjah, UAE, Lift mechanical spare parts suppliers",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
     "items": [
       {
         "name": "Rivet nuts JX-F-M3-R-ST",
@@ -1344,14 +1362,17 @@
     ]
   },
   {
-    "slug": "door-locks",
-    "page_name": "Door Locks",
-    "code": "BS-DL",
-    "meta_title": "Elevator door locks supplier Dubai | Bestech Parts UAE",
-    "meta_description": "Best Elevator Door Locks Suppliers UAE | Dubai & Sharjah Parts  Best elevator door locks suppliers UAE offering durable lift door locks in Sharjah and quality elevator door accessories in Dubai. Trusted parts across UAE.",
-    "canonical": "https://www.bestechparts.ae/products/door-locks",
-    "keywords":"best elevator door locks suppliers UAE, elevator Door Accessories in Dubai lift door locks in Sharjah",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "door-locks",
+  "page_name": "Door Locks",
+  "code": "BS-DL",
+  "meta_title": "Best Elevator Door Locks Suppliers UAE | Dubai & Sharjah Parts",
+  "meta_description": "Best elevator door locks suppliers UAE offering durable lift door locks in Sharjah and quality elevator door accessories in Dubai. Trusted parts across UAE.",
+  "keywords": "best elevator door locks suppliers UAE, elevator Door Accessories in Dubai, lift door locks in Sharjah",
+  "canonical": "https://www.bestechparts.ae/products/door-locks",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Door Triangle Lock",
@@ -1631,14 +1652,16 @@
     ]
   },
   {
-    "slug": "door-wheels",
-    "page_name": "Door Wheels",
-    "code": "BS-DW",
-    "meta_title": "Elevator Door Wheels in UAE | Bestech Parts UAE",
-    "meta_description": "Elevator Door Wheels in UAE | Lift Door Belt Wheels Dubai Sharjah  Buy top-quality elevator door wheels in UAE. We supply lift door belt wheels Dubai, door machine positioning wheel UAE, and door wheel bracket Sharjah.",
-    "canonical": "https://www.bestechparts.ae/products/door-wheels",
-    "keywords":"elevator door wheels in UAE   elevator door hanging wheels UAE, lift door belt wheels Dubai, elevator Door machine positioning wheel UAE, elevator Door wheel bracket Sharjah  ",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "door-wheels",
+  "page_name": "Door Wheels",
+  "code": "BS-DW",
+  "meta_title": "Elevator Door Wheels in UAE | Lift Door Belt Wheels Dubai Sharjah",
+  "meta_description": "Buy top-quality elevator door wheels in UAE. We supply lift door belt wheels Dubai, door machine positioning wheel UAE, and door wheel bracket Sharjah.",
+  "keywords": "elevator door wheels in UAE, elevator door hanging wheels UAE, lift door belt wheels Dubai, elevator Door machine positioning wheel UAE, elevator Door wheel bracket Sharjah",
+  "canonical": "https://www.bestechparts.ae/products/door-wheels",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     "items": [
       {
         "name": "Door hanging wheel small: 85 X 20 X 6204",
@@ -1847,14 +1870,16 @@
     ]
   },
   {
-    "slug": "sensors",
-    "page_name": "Sensors",
-    "code": "BS-SR",
-    "meta_title": " Elevator Sensors Dubai | Otis Photo & Control Sensors UAE",
-    "meta_description": "Find premium Elevator Sensors Dubai, Sharjah & all over UAE. Reliable suppliers of Otis elevator sensors, photo sensors & control system components.",
-    "keywords":"Elevator Sensors Dubai, Elevator Sensors suppliers UAE, Elevator Sensor Components UAE, Elevator Control System Sensors UAE, otis elevator sensors UAE, Otis photo sensors UAE",
-    "canonical": "https://www.bestechparts.ae/products/sensors",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "sensors",
+  "page_name": "Sensors",
+  "code": "BS-SR",
+  "meta_title": "Elevator Sensors Dubai | Otis Photo & Control Sensors UAE",
+  "meta_description": "Find premium Elevator Sensors Dubai, Sharjah & all over UAE. Reliable suppliers of Otis elevator sensors, photo sensors & control system components.",
+  "keywords": "Elevator Sensors Dubai, Elevator Sensors suppliers UAE, Elevator Sensor Components UAE, Elevator Control System Sensors UAE, otis elevator sensors UAE, Otis photo sensors UAE",
+  "canonical": "https://www.bestechparts.ae/products/sensors",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     "items": [
       {
         "name": "Load sensor: DW -C1",
@@ -1959,14 +1984,17 @@
   },
 
   {
-    "slug": "guide-shoes",
-    "page_name": "Guide Shoes",
-    "code": "BS-GS",
-    "meta_title": " Elevator Guide Shoes UAE | Lift Guide Shoes Supplier in Dubai, Sharjah",
-    "meta_description": "Buy Elevator Guide Shoes across UAE from trusted spare parts supplier in Dubai, Sharjah & all over UAE. Premium quality lift guide shoes for elevators at best price.",
-    "canonical": "https://www.bestechparts.ae/products/guide-shoes",
-    "keywords":"Elevator Guide Shoes UAE, Guide Shoes spare parts supplier Sharjah, Guide Shoes for Elevators UAE, Lift Guide Shoes Sharjah",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "guide-shoes",
+  "page_name": "Guide Shoes",
+  "code": "BS-GS",
+  "meta_title": "Elevator Guide Shoes UAE | Lift Guide Shoes Supplier in Dubai, Sharjah",
+  "meta_description": "Buy Elevator Guide Shoes across UAE from trusted spare parts supplier in Dubai, Sharjah & all over UAE. Premium quality lift guide shoes for elevators at best price.",
+  "keywords": "Elevator Guide Shoes UAE, Guide Shoes spare parts supplier Sharjah, Guide Shoes for Elevators UAE, Lift Guide Shoes Sharjah",
+  "canonical": "https://www.bestechparts.ae/products/guide-shoes",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Guide shoe: 100/100 X 10/16 S",
@@ -2278,14 +2306,17 @@
     ]
   },
   {
-    "slug": "door-sliders",
-    "page_name": "Door Sliders",
-    "code": "BS-DS",
-    "meta_title": " Elevator Door Sliders UAE | Otis & Schindler Suppliers Dubai",
-    "meta_description": "Buy Elevator Door Sliders in the UAE from trusted suppliers in Dubai, Sharjah & all over UAE. Quality lift door slider spare parts for Otis, Schindler & more brands.",
-    "canonical": "https://www.bestechparts.ae/products/door-sliders",
-    "keywords":"Elevator Door Sliders UAE, Elevator Door Sliders Sharjah, Lift Door Sliders spare parts supplier UAE, Elevator Spare Parts Door SlidersDoor Sliders UAE, otis Door Slider suppliers UAE, schindler door slider Dubai ",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "door-sliders",
+  "page_name": "Door Sliders",
+  "code": "BS-DS",
+  "meta_title": "Elevator Door Sliders UAE | Otis & Schindler Suppliers Dubai",
+  "meta_description": "Buy Elevator Door Sliders in the UAE from trusted suppliers in Dubai, Sharjah & all over UAE. Quality lift door slider spare parts for Otis, Schindler & more brands.",
+  "keywords": "Elevator Door Sliders UAE, Elevator Door Sliders Sharjah, Lift Door Sliders spare parts supplier UAE, Elevator Spare Parts Door Sliders UAE, otis Door Slider suppliers UAE, schindler door slider Dubai",
+  "canonical": "https://www.bestechparts.ae/products/door-sliders",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "K-Door slider",
@@ -2429,14 +2460,17 @@
     ]
   },
   {
-    "slug": "encoders",
-    "page_name": "Encoders",
-    "code": "BS-EN",
-    "meta_title": "Elevator Encoder Suppliers Sharjah | Bestech Encoders UAE",
-    "meta_description": "Looking for lift encoder suppliers in UAE? Bestech offers high-quality elevator encoders in Dubai, Sharjah & all over UAE for smooth lift operations.",
-    "keywords":"Elevator Encoder suppliers Sharjah, lift Encoder Supplier UAE, Bestech Encoders UAE ",
-    "canonical": "https://www.bestechparts.ae/products/encoders",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   
+  "slug": "encoders",
+  "page_name": "Encoders",
+  "code": "BS-EN",
+  "meta_title": "Elevator Encoder Suppliers Sharjah | Bestech Encoders UAE",
+  "meta_description": "Looking for lift encoder suppliers in UAE? Bestech offers high-quality elevator encoders in Dubai, Sharjah & all over UAE for smooth lift operations.",
+  "keywords": "Elevator Encoder suppliers Sharjah, lift Encoder Supplier UAE, Bestech Encoders UAE",
+  "canonical": "https://www.bestechparts.ae/products/encoders",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Encoder cable 5M",
@@ -2582,14 +2616,17 @@
     "items": []
   },
   {
-    "slug": "inverters",
-    "page_name": "Inverters",
-    "code": "BS-IN",
-    "meta_title": "Elevator Inverters Spare Parts Dubai | Lift Inverter Supplier UAE",
-    "meta_description": "Buy Elevator Inverters spare parts Dubai, Sharjah & all over UAE. Trusted lift inverter suppliers & distributors. Models 22KW NICE-L-C-4022 & 11KW AS380 available.",
-    "keywords":"Elevator Inverters spare parts Dubai, Elevator Inverter parts supplier Dubai, Lift Inverters distributers UAE, lift Inverter Spare Parts UAE, Elevator Inverter 22KW: NICE-L-C-4022 sharjah, Elevator Inverter 11KW: AS380 UAE ",
-    "canonical": "https://www.bestechparts.ae/products/inverters",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "inverters",
+  "page_name": "Inverters",
+  "code": "BS-IN",
+  "meta_title": "Elevator Inverters Spare Parts Dubai | Lift Inverter Supplier UAE",
+  "meta_description": "Buy Elevator Inverters spare parts Dubai, Sharjah & all over UAE. Trusted lift inverter suppliers & distributors. Models 22KW NICE-L-C-4022 & 11KW AS380 available.",
+  "keywords": "Elevator Inverters spare parts Dubai, Elevator Inverter parts supplier Dubai, Lift Inverters distributers UAE, lift Inverter Spare Parts UAE, Elevator Inverter 22KW: NICE-L-C-4022 sharjah, Elevator Inverter 11KW: AS380 UAE",
+  "canonical": "https://www.bestechparts.ae/products/inverters",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Inverter 7.5KW: NICE-L-C-4007",
@@ -2654,14 +2691,17 @@
     ]
   },
   {
-    "slug": "ard",
-    "page_name": "ARD",
-    "code": "BS-AR",
-    "canonical": "https://www.bestechparts.ae/products/ard",
-    "meta_title":"Elevator ARD Spare Parts Suppliers UAE | Bestech Dubai Sharjah",
-    "meta_description":"Looking for Elevator ARD spare parts suppliers in UAE? Bestech offers ARD lift spare parts in Dubai, Sharjah & all over UAE with reliable service.",
-    "keywords":"Elevator ARD spare parts suppliers UAE, Bestech ARD lift spare parts sellers UAE, lift Automatic Rescue Device suppliers Dubai ",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "ard",
+  "page_name": "ARD",
+  "code": "BS-AR",
+  "meta_title": "Elevator ARD Spare Parts Suppliers UAE | Bestech Dubai Sharjah",
+  "meta_description": "Looking for Elevator ARD spare parts suppliers in UAE? Bestech offers ARD lift spare parts in Dubai, Sharjah & all over UAE with reliable service.",
+  "keywords": "Elevator ARD spare parts suppliers UAE, Bestech ARD lift spare parts sellers UAE, lift Automatic Rescue Device suppliers Dubai",
+  "canonical": "https://www.bestechparts.ae/products/ard",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "ARD 7KW: Type:ARD-4007-3P",
@@ -2696,14 +2736,17 @@
     ]
   },
   {
-    "slug": "door-drives",
-    "page_name": "Door Drives",
-    "code": "BS-DD",
-    "meta_title": "Elevator Door Drives UAE | Lift Door Drive Parts Dubai & Sharjah",
-    "meta_description": "Buy Elevator Door Drives in UAE from trusted suppliers. Lift door drives spare parts sellers in Dubai & Sharjah with quality parts across the UAE.",
-    "canonical": "https://www.bestechparts.ae/products/door-drives",
-    "keywords":"Elevator Door Drives UAE, lift Door Drives spare parts sellers Sharjah, Elevator Door Drive Parts UAE ",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "door-drives",
+  "page_name": "Door Drives",
+  "code": "BS-DD",
+  "meta_title": "Elevator Door Drives UAE | Lift Door Drive Parts Dubai & Sharjah",
+  "meta_description": "Buy Elevator Door Drives in UAE from trusted suppliers. Lift door drives spare parts sellers in Dubai & Sharjah with quality parts across the UAE.",
+  "keywords": "Elevator Door Drives UAE, lift Door Drives spare parts sellers Sharjah, Elevator Door Drive Parts UAE",
+  "canonical": "https://www.bestechparts.ae/products/door-drives",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Door Drive",
@@ -2729,14 +2772,17 @@
   },
 
   {
-    "slug": "signalization",
-    "page_name": "Signalization",
-    "code": "BS-SG",
-    "meta_title": "Lift Signalization Systems UAE | Best Elevator Parts Dubai",
-    "meta_description": "Shop Lift Signalization Systems in UAE from top suppliers. Quality elevator signalization parts available in Dubai, Sharjah & all over UAE. Order today!",
-    "keywords":"Lift Signalization Systems UAE, Best Elevator Signalization Dubai, Lift Signalization parts suppliers UAE",
-    "canonical": "https://www.bestechparts.ae/products/signalization",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "signalization",
+  "page_name": "Signalization",
+  "code": "BS-SG",
+  "meta_title": "Lift Signalization Systems UAE | Best Elevator Parts Dubai",
+  "meta_description": "Shop Lift Signalization Systems in UAE from top suppliers. Quality elevator signalization parts available in Dubai, Sharjah & all over UAE. Order today!",
+  "keywords": "Lift Signalization Systems UAE, Best Elevator Signalization Dubai, Lift Signalization parts suppliers UAE",
+  "canonical": "https://www.bestechparts.ae/products/signalization",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "LOP - UP and Down",
@@ -2801,14 +2847,17 @@
     ]
   },
   {
-    "slug": "displays",
-    "page_name": "Displays",
-    "code": "BS-DI",
-    "meta_title": "Elevator Displays UAE | LCD Display Units Sharjah & Dubai",
-    "meta_description": "Elevator displays UAE for lifts. Buy LCD display units in Sharjah and Dubai with Bestech Elevator Displays. Quality spare parts available across the UAE.",
-    "canonical": "https://www.bestechparts.ae/products/displays",
-    "keywords":"elevator displays UAE, Elevator lcd display sharjah, Bestech Elevator Displays UAE, Elevator Display Units UAE,",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   
+  "slug": "displays",
+  "page_name": "Displays",
+  "code": "BS-DI",
+  "meta_title": "Elevator Displays UAE | LCD Display Units Sharjah & Dubai",
+  "meta_description": "Elevator displays UAE for lifts. Buy LCD display units in Sharjah and Dubai with Bestech Elevator Displays. Quality spare parts available across the UAE.",
+  "keywords": "elevator displays UAE, Elevator lcd display sharjah, Bestech Elevator Displays UAE, Elevator Display Units UAE",
+  "canonical": "https://www.bestechparts.ae/products/displays",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "COP Display - Green: MCTC-HCB-R1",
@@ -2905,14 +2954,17 @@
   },
 
   {
-    "slug": "pcb-boards",
-    "page_name": "PCB Boards",
-    "code": "BS-PB",
-    "meta_title": "Elevator PCB Boards UAE | Command Boards Dubai & Sharjah",
-    "meta_description": "Elevator PCB boards UAE for lifts. Order elevator command boards in Sharjah and Dubai. Bestech provides quality PCB spare parts for elevators all over UAE.",
-    "canonical": "https://www.bestechparts.ae/products/pcb-boards",
-    "keywords":"Elevator PCB Boards UAE, elevator pcb board dubai, elevator command board sharjah, Elevator Spare Parts PCB Boards",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "pcb-boards",
+  "page_name": "PCB Boards",
+  "code": "BS-PB",
+  "meta_title": "Elevator PCB Boards UAE | Command Boards Dubai & Sharjah",
+  "meta_description": "Elevator PCB boards UAE for lifts. Order elevator command boards in Sharjah and Dubai. Bestech provides quality PCB spare parts for elevators all over UAE.",
+  "keywords": "Elevator PCB Boards UAE, elevator pcb board dubai, elevator command board sharjah, Elevator Spare Parts PCB Boards",
+  "canonical": "https://www.bestechparts.ae/products/pcb-boards",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "Car top board: MCTC-CTB-A",
@@ -2977,14 +3029,17 @@
     ]
   },
   {
-    "slug": "tool-kits",
-    "page_name": "Tool Kits",
-    "code": "BS-TL",
-    "meta_title": "Elevator Tool Kits UAE | Lift Maintenance Tools Dubai Sharjah",
-    "meta_description": "Buy elevator maintenance tool kits in the UAE with durable lift tools. Professional kits available in Sharjah and Dubai from Bestech, with spare parts across the UAE.",
-    "canonical": "https://www.bestechparts.ae/products/tool-kits",
-    "keywords":"Elevator Maintenance Tool Kits UAE, Lift Tool Kits Sharjah, Elevator Tool Kits UAE, Elevator Spare Parts Tool Kits UAE",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    
+  "slug": "tool-kits",
+  "page_name": "Tool Kits",
+  "code": "BS-TL",
+  "meta_title": "Elevator Tool Kits UAE | Lift Maintenance Tools Dubai Sharjah",
+  "meta_description": "Buy elevator maintenance tool kits in the UAE with durable lift tools. Professional kits available in Sharjah and Dubai from Bestech, with spare parts across the UAE.",
+  "keywords": "Elevator Maintenance Tool Kits UAE, Lift Tool Kits Sharjah, Elevator Tool Kits UAE, Elevator Spare Parts Tool Kits UAE",
+  "canonical": "https://www.bestechparts.ae/products/tool-kits",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
+
     "items": [
       {
         "name": "K-Tool kit",
@@ -3017,14 +3072,16 @@
     ]
   },
   {
-    "slug": "keys",
-    "page_name": "Keys",
-    "code": "BS-KY",
-    "meta_title": "Elevator Keys UAE | Spare Parts & Control Keys Dubai Sharjah",
-    "meta_description": "Get elevator spare parts keys for lifts across the UAE. Control keys, emergency keys, and key components supplied in Dubai and Sharjah by Bestech.",
-    "canonical": "https://www.bestechparts.ae/products/keys",
-    "keywords":"Elevator Spare Parts Keys UAE, Keys for Elevators Dubai, elevator key set Sharjah, elevator control keys dubai, Elevator Key Components Sharjah, elevator emergency key UAE, Elevator Maintenance Keys UAE",
-    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   
+  "slug": "keys",
+  "page_name": "Keys",
+  "code": "BS-KY",
+  "meta_title": "Elevator Keys UAE | Spare Parts & Control Keys Dubai Sharjah",
+  "meta_description": "Get elevator spare parts keys for lifts across the UAE. Control keys, emergency keys, and key components supplied in Dubai and Sharjah by Bestech.",
+  "keywords": "Elevator Spare Parts Keys UAE, Keys for Elevators Dubai, elevator key set Sharjah, elevator control keys dubai, Elevator Key Components Sharjah, elevator emergency key UAE, Elevator Maintenance Keys UAE",
+  "canonical": "https://www.bestechparts.ae/products/keys",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     "items": [
       {
         "name": "Door open key",

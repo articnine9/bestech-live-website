@@ -20,6 +20,11 @@ export async function generateMetadata({ params }) {
     title: matchedCategory.meta_title || matchedCategory.page_name,
     description:
       matchedCategory.meta_description || "Bestech Parts UAE product details.",
+    keywords: matchedCategory.keywords || "", // ✅ Add keywords
+    alternates: {
+      canonical: matchedCategory.canonical || `https://www.bestechparts.ae/${slug}`, // ✅ Add canonical
+    },
+    robots: matchedCategory.robots || "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1", // ✅ Add robots
   };
 }
 

@@ -1,0 +1,13 @@
+{
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/_not-found/page": "/_not-found",
+  "/brands/[slug]/page": "/brands/[slug]",
+  "/blog/[url]/page": "/blog/[url]",
+  "/products/[slug]/page": "/products/[slug]",
+  "/contact/page": "/contact",
+  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
+  "/category/[category]/page": "/category/[category]",
+  "/blog/page": "/blog",
+  "/page": "/",
+  "/about/page": "/about"
+}

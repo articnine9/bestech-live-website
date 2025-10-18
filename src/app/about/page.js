@@ -1,19 +1,31 @@
-import BlogSection from "~/components/Section/About/BlogSection";
-import BrandSection from "~/components/Section/About/BrandSection";
-import FactSection from "~/components/Section/About/FactSection";
-import ProjectSection from "~/components/Section/About/ProjectSection";
-import ServiceSection from "~/components/Section/About/ServiceSection";
+
 
 import PageHeader from "~/components/Section/Common/PageHeader";
 import AboutSection from "~/components/Section/About/AboutSection";
 
-import Team from "~/components/Section/Common/Team";
-import CtaThree from "~/components/Section/Common/Cta/CtaThree";
+
 export const metadata = {
-  title: "About Bestech | Trusted Elevator Parts Supplier in UAE",
+  title: "Best Elevator Spare Parts Supplier Sharjah | UAE Lift Products",
   description:
-    "Learn about Bestech Parts – a leading supplier of elevator spare parts in the UAE. Discover our commitment to quality, reliability, and customer service.",
+    "Choose Bestech, the best elevator spare parts supplier in Sharjah. Trusted lift spare parts supplier in Dubai & UAE with top-quality elevator products.",
+  keywords: [
+    "best elevator spare parts supplier Sharjah",
+    "spare parts for elevators",
+    "Lift spare parts supplier",
+    "elevator products suppliers UAE",
+  ],
+  alternates: {
+    canonical: "https://www.bestechparts.ae/about",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    "max-image-preview": "large",
+    "max-snippet": -1,
+    "max-video-preview": -1,
+  },
 };
+
 
 const AboutPage = () => {
   return (
