@@ -1464,6 +1464,7 @@ export const products = [
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
     keywords:
       "best elevator mechanical spare parts supplier, elevator spare parts suppliers Sharjah, UAE, Lift mechanical spare parts suppliers ",
+      canonical: "https://www.bestechparts.ae/products/mechanical",
     content:
       "Best Elevator Mechanical Spare Parts Supplier in UAE | Dubai  Best elevator mechanical spare parts supplier in Dubai, Sharjah & all over UAE. Trusted lift spare parts suppliers offering quality, durability & support. ",
     items: [
