@@ -24,6 +24,7 @@ export async function generateMetadata({ params }) {
     return {
       title: "Product Not Found",
       description: "The requested product does not exist or has been moved.",
+      keywords: "", // fallback empty keywords
       alternates: {
         canonical: "https://www.bestechparts.ae/products", // fallback canonical
       },
@@ -40,6 +41,7 @@ export async function generateMetadata({ params }) {
       `Explore details of ${product.name} from ${
         category?.page_name || "our products"
       }.`,
+    keywords: product.keywords || "", // ✅ dynamic keywords from JSON
     alternates: {
       canonical: product.canonical, // dynamic canonical
     },

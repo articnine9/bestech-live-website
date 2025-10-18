@@ -1,13 +1,13 @@
 {
   "/sitemap.xml/route": "/sitemap.xml",
   "/_not-found/page": "/_not-found",
-  "/brands/[slug]/page": "/brands/[slug]",
-  "/blog/[url]/page": "/blog/[url]",
-  "/products/[slug]/page": "/products/[slug]",
   "/contact/page": "/contact",
-  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
+  "/brands/[slug]/page": "/brands/[slug]",
   "/category/[category]/page": "/category/[category]",
+  "/blog/[url]/page": "/blog/[url]",
+  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
+  "/products/[slug]/page": "/products/[slug]",
+  "/about/page": "/about",
   "/blog/page": "/blog",
-  "/page": "/",
-  "/about/page": "/about"
+  "/page": "/"
 }

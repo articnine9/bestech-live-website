@@ -39,144 +39,160 @@
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
 
     "items": [
-      {
-        "name": "Wire 0.75mm",
-        "description": "100m/roll",
-        "code": "BS-CW0001",
-        "url": "/cables-and-wires/wire-0-75mm",
-        "image": "/img/products/cables-and-wires/wire-0-75mm/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "0.75mm Elevator Wire (BS-CW0001) | Bestech Parts UAE",
-        "meta_description": "Shop 0.75mm high-quality elevator wire (BS-CW0001) for safe and reliable installations. Available now at Bestech Parts with UAE-wide delivery.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-0-75mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Wire 6mm",
-        "description": "100m/roll",
-        "code": "BS-CW0002",
-        "url": "/cables-and-wires/wire-6mm",
-        "image": "/img/products/cables-and-wires/wire-6mm/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "6mm Elevator Wire – BS-CW0002 | Bestech Parts UAE",
-        "meta_description": "Shop durable 6mm wires (BS-CW0002) for elevator and escalator systems. High-quality build, fast UAE delivery – only at Bestech Parts.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-6mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Wire 8mm",
-        "description": "100m/roll",
-        "code": "BS-CW0003",
-        "url": "/cables-and-wires/wire-8mm",
-        "image": "/img/products/cables-and-wires/wire-8mm/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "8mm Elevator Wire – BS-CW0003 | Bestech Parts UAE",
-        "meta_description": "Shop durable 8mm elevator wire (BS-CW0003) for safe and efficient lift operations. High-quality cables, fast delivery across UAE.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-8mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Wire 10mm",
-        "description": "100m/roll",
-        "code": "BS-CW0004",
-        "url": "/cables-and-wires/wire-10mm",
-        "image": "/img/products/cables-and-wires/wire-10mm/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "10mm Elevator Wire – Durable & High-Quality | Bestech Parts UAE",
-        "meta_description": "Shop BS-CW0004 10mm elevator wire for reliable performance and safety. Ideal for lift systems. Fast delivery across UAE from Bestech Parts.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-10mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Wire lugs 0.75mm",
-        "description": "1000pcs/pack",
-        "code": "BS-CW0005",
-        "url": "/cables-and-wires/wire-lugs-0-75mm",
-        "image": "/img/products/cables-and-wires/wire-lugs-0-75mm/1.jpg",
-        "meta_title": "0.75mm Wire Lugs – BS-CW0005 | Bestech Parts UAE ",
-        "meta_description": "Shop 0.75mm wire lugs (BS-CW0005) for safe and secure electrical connections. High-quality, durable, and available across UAE at Bestech Parts.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-0-75mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Wire lugs 1.5mm",
-        "description": "1000pcs/pack",
-        "code": "BS-CW0006",
-        "url": "/cables-and-wires/wire-lugs-1-5mm",
-        "image": "/img/products/cables-and-wires/wire-lugs-1-5mm/1.jpg",
-        "meta_title": "1.5mm Wire Lugs – Durable Cable Connectors | Bestech UAE ",
-        "meta_description": "Shop 1.5mm wire lugs (BS-CW0006) for secure cable connections. High-quality, corrosion-resistant lugs ideal for elevators and control panels.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-1-5mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Wire lugs 6mm",
-        "description": "1000pcs/pack",
-        "code": "BS-CW0007",
-        "url": "/cables-and-wires/wire-lugs-6mm",
-        "image": "/img/products/cables-and-wires/wire-lugs-6mm/1.jpg",
-        "meta_title": "6mm Wire Lugs – BS-CW0007 | Bestech Parts UAE",
-        "meta_description": "Shop 6mm wire lugs (BS-CW0007) for secure electrical connections. Durable, high-quality cable terminals available online at Bestech Parts UAE.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-6mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Wire lugs 10mm",
-        "description": "1000pcs/pack",
-        "code": "BS-CW0008",
-        "url": "/cables-and-wires/wire-lugs-10mm",
-        "image": "/img/products/cables-and-wires/wire-lugs-10mm/1.jpg",
-        "meta_title": "10mm Wire Lugs – Durable Cable Connectors | Bestech Parts UAE",
-        "meta_description": "Shop 10mm wire lugs (BS-CW0008) for secure cable connections. High-quality, corrosion-resistant, and ideal for elevator systems. Fast UAE delivery.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-10mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Cable - Type: DB9 5M",
-        "description": "",
-        "code": "BS-CW0009",
-        "url": "/cables-and-wires/cable-db9-5m",
-        "image": "/img/products/cables-and-wires/cable-db9-5m/1.jpg",
-        "slider": ["1", "2"],
-        "meta_title": "DB9 Cable 5M – BS-CW0001 | Bestech Parts UAE",
-        "meta_description": " Shop DB9 5-meter cable (BS-CW0001) for reliable signal transmission. High-quality, durable, and ideal for elevator systems. Fast UAE delivery.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-db9-5m",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Cable - Type: DB9 10M",
-        "description": "",
-        "code": "BS-CW0010",
-        "url": "/cables-and-wires/cable-db9-10m",
-        "image": "/img/products/cables-and-wires/cable-db9-10m/1.jpg",
-        "meta_title": "Mitsubishi Modbus Display Cable BS-CW0004 | Bestech Parts UAE",
-        "meta_description": "Buy BS-CW0004 Mitsubishi Modbus cable for display units. High-quality, durable wiring for reliable elevator control. Fast UAE shipping.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-db9-10m",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Cable - Type: command board",
-        "description": "70cm",
-        "code": "BS-CW0011",
-        "url": "/cables-and-wires/cable-command-board-70cm",
-        "image": "/img/products/cables-and-wires/cable-command-board-70cm/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "Cable for Command Board 70cm – Bestech Parts UAE",
-        "meta_description": "Buy 70cm command board cable for elevators and escalators. Durable, high-quality wiring solution. Fast delivery across UAE from Bestech Parts.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-command-board-70cm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Display Mitsubishi cable",
-        "description": "MODBUS cable",
-        "code": "BS-CW0012",
-        "url": "/cables-and-wires/display-mitsubishi-modbus-cable",
-        "image": "/img/products/cables-and-wires/display-mitsubishi-modbus-cable/1.jpg",
-        "meta_title": "AC Contactor 110V 25A (1NO+1NC) | Bestech Parts UAE",
-        "meta_description": "Shop AC110V 25A contactor with 1NO+1NC configuration at Bestech Parts. Ideal for lift and industrial control panels. Fast UAE delivery.",
-        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/display-mitsubishi-modbus-cable",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      }
+      
+  {
+    "name": "Wire 0.75mm",
+    "description": "100m/roll",
+    "code": "BS-CW0001",
+    "url": "/cables-and-wires/wire-0-75mm",
+    "image": "/img/products/cables-and-wires/wire-0-75mm/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Buy Elevator Wire Rope 0.75mm in Dubai, UAE | Bestechparts",
+    "meta_description": "Buy elevator wire rope in Dubai from Bestechparts. Premium 0.75mm wire rope, ideal for lifts & escalators in Sharjah, Dubai & UAE. Get quality brands like Otis, Kone, Mitsubishi.",
+    "keywords": "Buy elevator wire rope in Dubai, elevator rope supplier in UAE, wire 0.75mm rope suppliers in UAE, buy 100m roll wire rope",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-0-75mm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Wire 6mm",
+    "description": "100m/roll",
+    "code": "BS-CW0002",
+    "url": "/cables-and-wires/wire-6mm",
+    "image": "/img/products/cables-and-wires/wire-6mm/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Buy Elevator Wire Rope 6mm in Sharjah & Dubai | Bestechparts UAE",
+    "meta_description": "Buy elevator wire rope in Sharjah from Bestechparts. 6mm high-quality lift wires for Dubai & UAE. Including trusted brands like Schindler, Thyssenkrupp, Otis, and Mitsubishi.",
+    "keywords": "Buy elevator wire rope in Sharjah, elevator rope supplier Dubai, UAE, wire 6mm rope suppliers in UAE, buy 6mm roll wire rope",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-6mm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Wire 8mm",
+    "description": "100m/roll",
+    "code": "BS-CW0003",
+    "url": "/cables-and-wires/wire-8mm",
+    "image": "/img/products/cables-and-wires/wire-8mm/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Buy Elevator 8mm Wire Rope in Dubai, UAE | Bestechparts",
+    "meta_description": "Buy elevator 8mm wire rope in Dubai at Bestechparts. Durable 8mm lift wires for Sharjah & UAE. Compatible with Otis, Kone, Mitsubishi & Thyssenkrupp elevators.",
+    "keywords": "Buy elevator 8mm wire rope in Dubai, wire 8mm rope suppliers in UAE, 8mm elevator wire rope",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-8mm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Wire 10mm",
+    "description": "100m/roll",
+    "code": "BS-CW0004",
+    "url": "/cables-and-wires/wire-10mm",
+    "image": "/img/products/cables-and-wires/wire-10mm/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Buy 10mm Elevator Cable in Dubai | Bestechparts Lifts & Wires",
+    "meta_description": "Buy 10mm elevator cable in Dubai from Bestechparts. High-quality 100m lift wire rolls for Sharjah & UAE. Compatible with Otis, Schindler, Mitsubishi & Kone.",
+    "keywords": "Buy 10mm elevator cable Dubai, lift wire 100m roll cable, Elevator cable wire 100m roll",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-10mm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Wire lugs 0.75mm",
+    "description": "1000pcs/pack",
+    "code": "BS-CW0005",
+    "url": "/cables-and-wires/wire-lugs-0-75mm",
+    "image": "/img/products/cables-and-wires/wire-lugs-0-75mm/1.jpg",
+    "meta_title": "Buy Elevator Wire Lugs 0.75mm in Dubai, UAE | Bestechparts",
+    "meta_description": "Buy elevator wire lugs 0.75mm in Dubai at Bestechparts. Wholesale 1000pcs packs for lifts in Sharjah & UAE. Compatible with Otis, Hyundai, Mitsubishi elevators.",
+    "keywords": "elevator Wire lugs 0.75mm, wholesale lift wire lugs 1000pcs pack, Buy elevator wire lugs in Dubai, UAE",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-0-75mm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Wire lugs 1.5mm",
+    "description": "1000pcs/pack",
+    "code": "BS-CW0006",
+    "url": "/cables-and-wires/wire-lugs-1-5mm",
+    "image": "/img/products/cables-and-wires/wire-lugs-1-5mm/1.jpg",
+    "meta_title": "Buy Elevator Wire Lugs 1.5mm in Sharjah, UAE | Bestechparts",
+    "meta_description": "Buy elevator wire lugs 1.5mm in Sharjah from Bestechparts. Premium wiring supplies for lifts & escalators in Dubai & UAE. Shop trusted brands like Kone, Otis, and Mitsubishi today!",
+    "keywords": "elevator Wire lugs 1.5mm, best wire lugs suppliers in UAE, elevator wiring supplies Sharjah",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-1-5mm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  }
+,
+      
+  {
+    "name": "Wire lugs 6mm",
+    "description": "1000pcs/pack",
+    "code": "BS-CW0007",
+    "url": "/cables-and-wires/wire-lugs-6mm",
+    "image": "/img/products/cables-and-wires/wire-lugs-6mm/1.jpg",
+    "meta_title": "Buy Elevator Wire Lugs 6mm in Dubai, UAE | Bestechparts Lifts",
+    "meta_description": "Buy elevator wire lugs 6mm in Dubai at Bestechparts. 1000pcs lift wiring spare parts for Sharjah & UAE. Compatible with Hyundai, Otis, Thyssenkrupp elevators.",
+    "keywords": "elevator Wire lugs 6mm, elevator spare parts wire lugs 1000pcs",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-6mm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Wire lugs 10mm",
+    "description": "1000pcs/pack",
+    "code": "BS-CW0008",
+    "url": "/cables-and-wires/wire-lugs-10mm",
+    "image": "/img/products/cables-and-wires/wire-lugs-10mm/1.jpg",
+    "meta_title": "Buy Elevator Wire Lugs 10mm in Dubai, UAE | Bestechparts",
+    "meta_description": "Buy elevator wire lugs 10mm in Dubai at Bestechparts. Premium lift spare parts for Sharjah & UAE. Works with Otis, Kone, Mitsubishi, Thyssenkrupp & Schindler.",
+    "keywords": "elevator Wire lugs 10mm, elevator spare parts wire lugs suppliers UAE",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-10mm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Cable - Type: DB9 5M",
+    "description": "",
+    "code": "BS-CW0009",
+    "url": "/cables-and-wires/cable-db9-5m",
+    "image": "/img/products/cables-and-wires/cable-db9-5m/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Mitsubishi DB9 Elevator Cable 5m in Dubai, UAE | Bestechparts",
+    "meta_description": "Buy Mitsubishi DB9 elevator cable 5m in Dubai at Bestechparts. High-quality extension cables for lifts in Sharjah & UAE. Trusted for Otis, Kone, Thyssenkrupp elevators.",
+    "keywords": "Mitsubishi Modbus Display Cable 5m, DB9-5m elevator Extension Cable, elevator cable DB9 5m, DB9 cable 5m for elevator control panel",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-db9-5m",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Cable - Type: DB9 10M",
+    "description": "",
+    "code": "BS-CW0010",
+    "url": "/cables-and-wires/cable-db9-10m",
+    "image": "/img/products/cables-and-wires/cable-db9-10m/1.jpg",
+    "meta_title": "Mitsubishi DB9 Elevator Cable 10m in Dubai, UAE | Bestechparts",
+    "meta_description": "Buy Mitsubishi DB9 elevator cable 10m in Dubai at Bestechparts. Reliable extension cables for lifts in Sharjah & UAE. Works with Kone, Otis, Thyssenkrupp.",
+    "keywords": "Mitsubishi Modbus Display Cable, DB9-10m elevator Extension Cable, elevator cable DB9 10m, DB9 cable 10m for elevator control panel",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-db9-10m",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Cable - Type: command board",
+    "description": "70cm",
+    "code": "BS-CW0011",
+    "url": "/cables-and-wires/cable-command-board-70cm",
+    "image": "/img/products/cables-and-wires/cable-command-board-70cm/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Command Board Cable 70cm Elevator in Dubai, UAE | Bestechparts",
+    "meta_description": "Buy command board cable 70cm for elevator control boards in Dubai at Bestechparts. Perfect for lifts in Sharjah & UAE. Compatible with Otis, Kone, Mitsubishi.",
+    "keywords": "DB9 cable 5m for elevator displays, command board cable 70cm for elevator control board",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-command-board-70cm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Display Mitsubishi cable",
+    "description": "MODBUS cable",
+    "code": "BS-CW0012",
+    "url": "/cables-and-wires/display-mitsubishi-modbus-cable",
+    "image": "/img/products/cables-and-wires/display-mitsubishi-modbus-cable/1.jpg",
+    "meta_title": "Mitsubishi Display Modbus Cable Elevator in Dubai, UAE | Bestechparts",
+    "meta_description": "Buy Mitsubishi display Modbus elevator cable in Sharjah from Bestechparts. High-quality lift communication cable for Dubai & UAE. Works with Otis, Kone, Thyssenkrupp.",
+    "keywords": "elevator communication cable supplier Sharjah, Display Mitsubishi cable BS-CW0012 sharjah",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/display-mitsubishi-modbus-cable",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  }
+
     ]
   },
   {
@@ -192,87 +208,96 @@
 
 
     "items": [
-      {
-        "name": "Contactor AC110V 25A 1NO+1NC",
-        "description": "",
-        "code": "BS-CT0001",
-        "url": "/contactors/contactor-ac110v-25a-1no-1nc",
-        "image": "/img/products/contactors/contactor-ac110v-25a-1no-1nc/1.jpg",
-        "slider": ["1", "2"],
-        "meta_title": "AC Contactor 110V 32A (1NO+1NC) | Bestech Parts UAE",
-        "meta_description": "Buy AC 110V 32A contactor with 1NO+1NC configuration at Bestech Parts. Reliable performance and fast delivery across UAE.",
-        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-25a-1no-1nc",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Contactor AC110V 32A 1NO+1NC",
-        "description": "",
-        "code": "BS-CT0002",
-        "url": "/contactors/contactor-ac110v-32a-1no-1nc",
-        "image": "/img/products/contactors/contactor-ac110v-32a-1no-1nc/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "AC Contactor 110V 50A (1NO+1NC) | Bestech Parts UAE ",
-        "meta_description": "Shop AC110V 50A contactor with 1NO+1NC configuration. Reliable performance for elevator systems. Fast UAE delivery from Bestech Parts.",
-        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-32a-1no-1nc",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Contactor AC110V 50A 1NO+1NC",
-        "description": "",
-        "code": "BS-CT0003",
-        "url": "/contactors/contactor-ac110v-50a-1no-1nc",
-        "image": "/img/products/contactors/contactor-ac110v-50a-1no-1nc/1.jpg",
-        "slider": ["1", "2"],
-        "meta_title": " AC110V 65A Contactor (1NO+1NC) | Bestech Parts UAE",
-        "meta_description": "Shop durable AC110V 65A contactors with 1NO+1NC configuration at Bestech Parts. Reliable performance for lift & industrial systems. UAE delivery available.",
-        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-50a-1no-1nc",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Contactor AC110V 65A 1NO+1NC",
-        "description": "",
-        "code": "BS-CT0004",
-        "url": "/contactors/contactor-ac110v-65a-1no-1nc",
-        "image": "/img/products/contactors/contactor-ac110v-65a-1no-1nc/1.jpg",
-        "meta_title": " DC 110V 18A Contactor – Buy Online in UAE | Bestech Parts",
-        "meta_description": "Shop DC 110V 18A contactor for elevators and industrial use. Durable, high-performance component. Fast delivery across UAE.",
-        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-65a-1no-1nc",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Contactor DC110V 18A",
-        "description": "",
-        "code": "BS-CT0005",
-        "url": "/contactors/contactor-dc110v-18a",
-        "image": "/img/products/contactors/contactor-dc110v-18a/1.jpg",
-        "meta_title": "DC 110V 18A Contactor – Buy Online in UAE | Bestech Parts ",
-        "meta_description": "Shop DC 110V 18A contactor for elevators and industrial use. Durable, high-performance component. Fast delivery across UAE.",
-        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-dc110v-18a",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Contactor DC110V 32A",
-        "description": "",
-        "code": "BS-CT0006",
-        "url": "/contactors/contactor-dc110v-32a",
-        "image": "/img/products/contactors/contactor-dc110v-32a/1.jpg",
-        "meta_title": "Elevator Contactor DC110V 32A Supplier in Dubai, Sharjah UAE",
-        "meta_description": "Order DC110V 32A elevator contactor at Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Fuji, Otis and Kone lift spare parts.",
-        "key_words": "Elevator Contactor DC110V 32A, elevator contactor DC110V 32A, fuji elevator contactor Dubai, otis dc contactor UAE, elevator dc spare part sharjah, lift contactor supplier",
-        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-dc110v-32a",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Auxiliary F4-22 2NO+2NC",
-        "description": "",
-        "code": "BS-CT0007",
-        "url": "/contactors/auxiliary-f4-22-2no-2nc",
-        "image": "/img/products/contactors/auxiliary-f4-22-2no-2nc/1.jpg",
-        "meta_title": "ABB Auxiliary Contactor F4-22 (2NO+2NC) | Bestech Parts UAE",
-        "meta_description": "Shop ABB F4-22 auxiliary contactor with 2NO+2NC configuration. Reliable performance for control circuits. Fast UAE delivery from Bestech Parts.",
-        "canonical": "https://www.bestechparts.ae/products/contactors/auxiliary-f4-22-2no-2nc",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      }
+      
+  {
+    "name": "Contactor AC110V 25A 1NO+1NC",
+    "description": "",
+    "code": "BS-CT0001",
+    "url": "/contactors/contactor-ac110v-25a-1no-1nc",
+    "image": "/img/products/contactors/contactor-ac110v-25a-1no-1nc/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Elevator Contactor AC110V 25A 1NO 1NC Supplier in Sharjah, Dubai UAE",
+    "meta_description": "Buy AC110V 25A 1NO 1NC elevator contactor from Bestechparts. Trusted supplier in Sharjah, Dubai & across UAE for Otis, Sigma and Fuji lift spare parts.",
+    "keywords": "Elevator Contactor AC110V 25A 1NO 1NC, elevator contactor AC110V 25A, elevator parts sharjah, otis contactor Dubai, sigma contactor UAE, lift spare parts supplier, elevator control parts",
+    "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-25a-1no-1nc",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Contactor AC110V 32A 1NO+1NC",
+    "description": "",
+    "code": "BS-CT0002",
+    "url": "/contactors/contactor-ac110v-32a-1no-1nc",
+    "image": "/img/products/contactors/contactor-ac110v-32a-1no-1nc/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Elevator Contactor AC110V 32A 1NO 1NC Supplier in Sharjah, UAE",
+    "meta_description": "Order AC110V 32A 1NO 1NC elevator contactor from Bestechparts. Leading supplier in Sharjah, Dubai & UAE for Fuji, Otis and Sigma lift spare parts.",
+    "keywords": "Elevator Contactor AC110V 32A 1NO 1NC, elevator contactor AC110V 32A, power contactor 32A UAE, fuji elevator contactor Dubai, elevator contactor parts sharjah, electric lift contactor",
+    "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-32a-1no-1nc",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Contactor AC110V 50A 1NO+1NC",
+    "description": "",
+    "code": "BS-CT0003",
+    "url": "/contactors/contactor-ac110v-50a-1no-1nc",
+    "image": "/img/products/contactors/contactor-ac110v-50a-1no-1nc/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Elevator Contactor AC110V 50A 1NO 1NC Supplier in Dubai, UAE",
+    "meta_description": "Shop AC110V 50A elevator contactor at Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Otis, Kone and Mitsubishi lift spare parts.",
+    "keywords": "Elevator Contactor AC110V 50A 1NO 1NC, elevator contactor AC110V 50A, elevator spare parts UAE, otis contactor Dubai, lift control contactor sharjah, elevator contactor supplier",
+    "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-50a-1no-1nc",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Contactor AC110V 65A 1NO+1NC",
+    "description": "",
+    "code": "BS-CT0004",
+    "url": "/contactors/contactor-ac110v-65a-1no-1nc",
+    "image": "/img/products/contactors/contactor-ac110v-65a-1no-1nc/1.jpg",
+    "meta_title": "Elevator Contactor AC110V 65A 1NO 1NC Supplier in Sharjah",
+    "meta_description": "Get AC110V 65A elevator contactor from Bestechparts. Reliable distributor in Sharjah, Dubai & UAE for Otis, Schindler and Thyssenkrupp lift parts.",
+    "keywords": "Elevator Contactor AC110V 65A 1NO 1NC, elevator contactor AC110V 65A, otis brand contactor supplier, elevator control contactor UAE, lift contactor parts sharjah, elevator spare supplier",
+    "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-65a-1no-1nc",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Contactor DC110V 18A",
+    "description": "",
+    "code": "BS-CT0005",
+    "url": "/contactors/contactor-dc110v-18a",
+    "image": "/img/products/contactors/contactor-dc110v-18a/1.jpg",
+    "meta_title": "Elevator Contactor DC110V 18A Supplier in Dubai, Sharjah UAE",
+    "meta_description": "Buy DC110V 18A elevator contactor from Bestechparts. Leading supplier in Dubai, Sharjah & UAE for Sigma, Otis and Fuji lift spare components.",
+    "keywords": "Elevator Contactor DC110V 18A, elevator contactor DC110V 18A, sigma elevator contactor Dubai, elevator dc contactor UAE, lift contactor 18A sharjah, elevator spare part",
+    "canonical": "https://www.bestechparts.ae/products/contactors/contactor-dc110v-18a",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+      
+  {
+    "name": "Contactor DC110V 32A",
+    "description": "",
+    "code": "BS-CT0006",
+    "url": "/contactors/contactor-dc110v-32a",
+    "image": "/img/products/contactors/contactor-dc110v-32a/1.jpg",
+    "meta_title": "Elevator Contactor DC110V 32A Supplier in Dubai, Sharjah UAE",
+    "meta_description": "Order DC110V 32A elevator contactor at Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Fuji, Otis and Kone lift spare parts.",
+    "keywords": "Elevator Contactor DC110V 32A, elevator contactor DC110V 32A, fuji elevator contactor Dubai, otis dc contactor UAE, elevator dc spare part sharjah, lift contactor supplier",
+    "canonical": "https://www.bestechparts.ae/products/contactors/contactor-dc110v-32a",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Auxiliary F4-22 2NO+2NC",
+    "description": "",
+    "code": "BS-CT0007",
+    "url": "/contactors/auxiliary-f4-22-2no-2nc",
+    "image": "/img/products/contactors/auxiliary-f4-22-2no-2nc/1.jpg",
+    "meta_title": "Elevator Contactor Auxiliary F4 22 2NO 2NC Supplier in UAE",
+    "meta_description": "Shop F4 22 2NO 2NC elevator contactor auxiliary at Bestechparts. Supplier in Dubai, Sharjah & UAE for Otis and Sigma lift spare accessories.",
+    "keywords": "Elevator Contactor Auxiliary F4 22 2NO 2NC, elevator contactor auxiliary F4 22, otis contactor auxiliary Dubai, elevator spare auxiliary UAE, lift auxiliary part sharjah",
+    "canonical": "https://www.bestechparts.ae/products/contactors/auxiliary-f4-22-2no-2nc",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  }
+
     ]
   },
   {
@@ -1000,137 +1025,152 @@
   "canonical": "https://www.bestechparts.ae/products/electrical",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
 "items": [
-      {
-        "name": "Connector PT2.5",
-        "description": "",
-        "code": "BS-EL0001",
-        "url": "/electrical/connector-pt2-5",
-        "image": "/img/products/electrical/connector-pt2-5/1.jpg",
-        "slider": ["1", "2"],
-        "meta_title": "PT2.5 Electrical Connector | Bestech Parts UAE",
-        "meta_description": "Shop the PT2.5 electrical connector for reliable wiring solutions. Durable, easy to install, and ideal for elevator systems. Fast delivery across UAE.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/connector-pt2-5",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Connector PT6",
-        "description": "",
-        "code": "BS-EL0002",
-        "url": "/electrical/connector-pt6",
-        "image": "/img/products/electrical/connector-pt6/1.jpg",
-        "slider": ["1", "2"],
-        "meta_title": "PT6 Electrical Connector for Elevators | Bestech Parts UAE",
-        "meta_description": "Shop PT6 elevator electrical connector at Bestech Parts. Durable, high-quality connector for smooth elevator operations. Fast UAE delivery. ",
-        "canonical": "https://www.bestechparts.ae/products/electrical/connector-pt6",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Connector PT10",
-        "description": "",
-        "code": "BS-EL0003",
-        "url": "/electrical/connector-pt10",
-        "image": "/img/products/electrical/connector-pt10/1.jpg",
-        "slider": ["1", "2"],
-        "meta_title": "PT10 Connector – Elevator Electrical Connector | Bestech Parts UAE",
-        "meta_description": "Shop PT10 electrical connector for elevators and escalators at Bestech Parts. Durable, reliable, and available for fast delivery across the UAE.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/connector-pt10",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Inspection box",
-        "description": "outer shell only",
-        "code": "BS-EL0004",
-        "url": "/electrical/inspection-box",
-        "image": "/img/products/electrical/inspection-box/1.jpg",
-        "meta_title": "Elevator Inspection Boxes – Electrical Parts | Bestech UAE",
-        "meta_description": "Shop durable elevator inspection boxes at Bestech Parts. Reliable electrical components with fast delivery across the UAE.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/inspection-box",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "SWITCHING POWER SUPPLY (SMPS)",
-        "description": "LRS-150-24",
-        "code": "BS-EL0005",
-        "url": "/electrical/switching-power-supply-smps",
-        "image": "/img/products/electrical/switching-power-supply-smps/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "Switching Power Supply (SMPS) for Elevators | Bestech UAE",
-        "meta_description": "Shop reliable SMPS units for elevator and escalator systems. High performance, durable, and available across UAE at Bestech Parts.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/switching-power-supply-smps",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Phase Sequence Relay",
-        "description": "XJ12-A",
-        "code": "BS-EL0006",
-        "url": "/electrical/phase-sequence-relay",
-        "image": "/img/products/electrical/phase-sequence-relay/1.jpg",
-        "slider": ["1", "2"],
-        "meta_title": "Phase Sequence Relay for Elevators | Bestech Parts UAE",
-        "meta_description": "Buy durable and reliable phase sequence relays for elevator systems. Best price, fast delivery across UAE. Trusted quality at Bestech Parts. ",
-        "canonical": "https://www.bestechparts.ae/products/electrical/phase-sequence-relay",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Intercom - Handset",
-        "description": "",
-        "code": "BS-EL0007",
-        "url": "/electrical/intercom-handset",
-        "image": "/img/products/electrical/intercom-handset/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "Elevator Intercom Handset | Buy Lift Intercoms in UAE",
-        "meta_description": "Shop durable elevator intercom handsets at Bestech Parts UAE. Ensure clear communication in lifts. Fast delivery & quality guaranteed.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/intercom-handset",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Intercom - COP unit",
-        "description": "",
-        "code": "BS-EL0008",
-        "url": "/electrical/intercom-cop-unit",
-        "image": "/img/products/electrical/intercom-cop-unit/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "Intercom COP Unit for Elevators | Bestech Parts UAE",
-        "meta_description": "Shop reliable elevator intercom COP units at Bestech Parts. Ensure clear in-cab communication. Fast delivery across UAE.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/intercom-cop-unit",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Power supply unit",
-        "description": "",
-        "code": "BS-EL0009",
-        "url": "/electrical/power-supply-unit",
-        "image": "/img/products/electrical/power-supply-unit/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "Power Supply Units for Elevators & Escalators | Bestech UAE",
-        "meta_description": "Shop reliable power supply units for elevators and escalators. Bestech Parts offers quality-tested components with fast UAE delivery.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/power-supply-unit",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Emergency light",
-        "description": "",
-        "code": "BS-EL0010",
-        "url": "/electrical/emergency-light",
-        "image": "/img/products/electrical/emergency-light/1.jpg",
-        "slider": ["1", "2", "3"],
-        "meta_title": "Emergency Light Round COP – Elevator Electrical Part | Bestech UAE",
-        "meta_description": "Buy round COP emergency lights for elevators at Bestech Parts UAE. Reliable quality, fast delivery, and trusted by lift professionals.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/emergency-light",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Alarm",
-        "description": "",
-        "code": "BS-EL0011",
-        "url": "/electrical/alarm",
-        "image": "/img/products/electrical/alarm/1.jpg",
-        "slider": ["1", "2"],
-        "meta_title": "Buy Elevator Alarm Systems Online | Bestech Parts UAE",
-        "meta_description": "Shop reliable elevator alarm systems for safety and emergency use. Fast delivery across UAE. Buy now from Bestech Parts.",
-        "canonical": "https://www.bestechparts.ae/products/electrical/emergency-alarm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      }
+      
+  {
+    "name": "Connector PT2.5",
+    "description": "",
+    "code": "BS-EL0001",
+    "url": "/electrical/connector-pt2-5",
+    "image": "/img/products/electrical/connector-pt2-5/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Electrical Connector PT2.5 UAE | Bestech Spare Parts",
+    "meta_description": "Buy PT2.5 connector in UAE for elevator parts. Bestech is the best PT2.5 connector supplier in Sharjah and Dubai. Shop industrial electrical connectors now!",
+    "keywords": "Electrical connector PT2.5, Buy PT2.5 Connector UAE, Buy Connector PT2.5 for elevator parts in UAE, Best PT2.5 connector supplier in Sharjah, PT2.5 spare connector Dubai, Buy Industrial Electrical Connectors Sharjah",
+    "canonical": "https://www.bestechparts.ae/products/electrical/connector-pt2-5",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Connector PT6",
+    "description": "",
+    "code": "BS-EL0002",
+    "url": "/electrical/connector-pt6",
+    "image": "/img/products/electrical/connector-pt6/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Best PT6 Connector Supplier Sharjah | Bestech UAE",
+    "meta_description": "Buy PT6 connector in UAE for elevator electrical parts. Bestech is the best PT6 connector supplier in Sharjah and Dubai. Order PT6 spare connectors today!",
+    "keywords": "Electrical Connector PT6, Buy PT6 Connector UAE, Buy Connector PT6 for elevator parts in Dubai, elevator electrical parts, Best PT6 connector supplier in Sharjah, PT6 spare connector UAE",
+    "canonical": "https://www.bestechparts.ae/products/electrical/connector-pt6",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Connector PT10",
+    "description": "",
+    "code": "BS-EL0003",
+    "url": "/electrical/connector-pt10",
+    "image": "/img/products/electrical/connector-pt10/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Get Electrical Connector PT10 in Sharjah and Dubai, UAE",
+    "meta_description": "Purchase Electrical Connector PT10 for elevator spare parts in UAE. Bestechparts provides PT10 connectors in Dubai & Sharjah for Otis, Kone & Thyssenkrupp.",
+    "keywords": "Electrical connector PT10, Buy PT10 Connector UAE, Buy Connector PT10 for elevator parts in UAE, Best PT10 connector supplier in Sharjah, PT10 spare connector UAE",
+    "canonical": "https://www.bestechparts.ae/products/electrical/connector-pt10",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+      
+  {
+    "name": "Inspection box",
+    "description": "outer shell only",
+    "code": "BS-EL0004",
+    "url": "/electrical/inspection-box",
+    "image": "/img/products/electrical/inspection-box/1.jpg",
+    "meta_title": "Elevator Inspection Box Supplier in Dubai & Sharjah, UAE",
+    "meta_description": "Buy Elevator Inspection Box from Bestechparts, top supplier in Sharjah, Dubai & UAE. Grab your maintenance boxes for elevators & escalators.",
+    "keywords": "Elevator Inspection Box Supplier in UAE, Elevator maintenance box Dubai, buy elevator inspection box Sharjah, UAE",
+    "canonical": "https://www.bestechparts.ae/products/electrical/inspection-box",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "SWITCHING POWER SUPPLY (SMPS)",
+    "description": "LRS-150-24",
+    "code": "BS-EL0005",
+    "url": "/electrical/switching-power-supply-smps",
+    "image": "/img/products/electrical/switching-power-supply-smps/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Elevator Switching Power Supply SMPS in Dubai, UAE",
+    "meta_description": "Buy Elevator Switching Power Supply SMPS in Dubai, Sharjah & UAE. Bestechparts provides LRS‑150‑24 connectors for lifts, escalators & Otis, Kone parts.",
+    "keywords": "Elevator Switching Power Supply, Power supply connector LRS‑150‑24, Buy elevator switching power supply Dubai, Elevator SMPS connector in UAE",
+    "canonical": "https://www.bestechparts.ae/products/electrical/switching-power-supply-smps",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Phase Sequence Relay",
+    "description": "XJ12-A",
+    "code": "BS-EL0006",
+    "url": "/electrical/phase-sequence-relay",
+    "image": "/img/products/electrical/phase-sequence-relay/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Elevator Phase Sequence Relay XJ12-A in Sharjah, UAE",
+    "meta_description": "Buy Elevator Phase Sequence Relay XJ12-A in Sharjah, Dubai & UAE from Bestechparts. Trustable lift relay parts for Otis, Kone & Mitsubishi elevators.",
+    "keywords": "Elevator phase sequence relay XJ12-A, buy phase sequence relay XJ12‑A Dubai, shop lift phase sequence relay Sharjah",
+    "canonical": "https://www.bestechparts.ae/products/electrical/phase-sequence-relay",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Power supply unit",
+    "description": "",
+    "code": "BS-EL0009",
+    "url": "/electrical/power-supply-unit",
+    "image": "/img/products/electrical/power-supply-unit/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Elevator Power Supply Unit in Dubai | Spare Parts UAE",
+    "meta_description": "Get Elevator Power Supply Unit spare parts in Dubai, Sharjah & UAE. Bestechparts offers quality lift & escalator units for Kone, Otis, Mitsubishi, Thyssenkrupp.",
+    "keywords": "Elevator power supply unit spare parts UAE, best elevator power supply unit Dubai, Sharjah",
+    "canonical": "https://www.bestechparts.ae/products/electrical/power-supply-unit",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Intercom - COP unit",
+    "description": "",
+    "code": "BS-EL0008",
+    "url": "/electrical/intercom-cop-unit",
+    "image": "/img/products/electrical/intercom-cop-unit/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Buy Elevator COP Intercom Unit Online in Sharjah, UAE",
+    "meta_description": "Buy Elevator COP Intercom Unit in Dubai, Sharjah & UAE from Bestechparts. Top quality lift communication systems for Otis, Kone, Mitsubishi & Thyssenkrupp.",
+    "keywords": "buy Elevator Cop Intercom UAE, shop best quality elevator COP intercom Dubai, Elevator Cop Emergency Intercom, Best elevator cop intercom parts Sharjah",
+    "canonical": "https://www.bestechparts.ae/products/electrical/intercom-cop-unit",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Intercom - Handset",
+    "description": "",
+    "code": "BS-EL0007",
+    "url": "/electrical/intercom-handset",
+    "image": "/img/products/electrical/intercom-handset/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Dependable Elevator Intercom Handset Supplier in Dubai & Sharjah",
+    "meta_description": "Shop Reliable Elevator Intercom Handset in Sharjah, Dubai & UAE. Bestechparts provides lift communication systems for Kone, Otis, Mitsubishi & Thyssenkrupp.",
+    "keywords": "Reliable Elevator Intercom handset, Buy lift communicator Dubai, UAE, Elevator Intercom System Supplier, Shop lift Intercom Handset in Sharjah, UAE",
+    "canonical": "https://www.bestechparts.ae/products/electrical/intercom-handset",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Emergency light",
+    "description": "",
+    "code": "BS-EL0010",
+    "url": "/electrical/emergency-light",
+    "image": "/img/products/electrical/emergency-light/1.jpg",
+    "slider": ["1", "2", "3"],
+    "meta_title": "Buy Elevator Emergency Light UAE – Top Lift Parts Supplier Dubai",
+    "meta_description": "Buy Elevator Emergency Light UAE at Bestechparts. Top-quality emergency lights for Otis, Kone, Mitsubishi lifts. Serving Dubai, Sharjah & UAE.",
+    "keywords": "Buy Elevator Emergency Light UAE, Shop best elevator emergency light Dubai, Best Emergency light supplier in Sharjah",
+    "canonical": "https://www.bestechparts.ae/products/electrical/emergency-light",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Alarm",
+    "description": "",
+    "code": "BS-EL0011",
+    "url": "/electrical/alarm",
+    "image": "/img/products/electrical/alarm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Best Emergency Alarm for Elevators – Top Lift Alarm Supplier UAE",
+    "meta_description": "Best Emergency Alarm for Elevators at Bestechparts. Quality lift alarms for Otis, Schindler, Hyundai, Thyssenkrupp. Serving Dubai, Sharjah & UAE.",
+    "keywords": "Best Emergency Alarm for Elevators, Buy Elevator alarm UAE, Best elevator alarm supplier in Sharjah, Quality lift alarm suppliers in Dubai",
+    "canonical": "https://www.bestechparts.ae/products/electrical/alarm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  }
+
+
     ]
   },
   {
@@ -1240,125 +1280,168 @@
   "meta_title": "Best Elevator Mechanical Spare Parts Supplier in UAE | Dubai",
   "meta_description": "Best elevator mechanical spare parts supplier in Dubai, Sharjah & all over UAE. Trusted lift spare parts suppliers offering quality, durability & support.",
   "keywords": "best elevator mechanical spare parts supplier, elevator spare parts suppliers Sharjah, UAE, Lift mechanical spare parts suppliers",
+  "canonical": "https://www.bestechparts.ae/products/mechanical",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
     "items": [
-      {
-        "name": "Rivet nuts JX-F-M3-R-ST",
-        "description": "",
-        "code": "BS-ME0001",
-        "url": "/mechanical/rivet-nuts-jx-f-m3-r-st",
-        "image": "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Rivet nuts JX-F-M4-R-ST",
-        "description": "",
-        "code": "BS-ME0002",
-        "url": "/mechanical/rivet-nuts-jx-f-m4-r-st",
-        "image": "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Rivet nuts JX-F-M5-R-ST",
-        "description": "",
-        "code": "BS-ME0003",
-        "url": "/mechanical/rivet-nuts-jx-f-m5-r-st",
-        "image": "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Rivet nuts JX-F-M6-R-ST",
-        "description": "",
-        "code": "BS-ME0004",
-        "url": "/mechanical/rivet-nuts-jx-f-m6-r-st",
-        "image": "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Steel Socket Head Screws M3X20mm",
-        "description": "",
-        "code": "BS-ME0005",
-        "url": "/mechanical/steel-socket-head-screws-m3x20mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m3x20mm/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Steel Socket Head Screws M3X30mm",
-        "description": "",
-        "code": "BS-ME0006",
-        "url": "/mechanical/steel-socket-head-screws-m3x30mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m3x30mm/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Steel Socket Head Screws M4X20mm",
-        "description": "",
-        "code": "BS-ME0007",
-        "url": "/mechanical/steel-socket-head-screws-m4x20mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m4x20mm/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Steel Socket Head Screws M4X30mm",
-        "description": "",
-        "code": "BS-ME0008",
-        "url": "/mechanical/steel-socket-head-screws-m4x30mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m4x30mm/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Steel Socket Head Screws M5X20mm",
-        "description": "",
-        "code": "BS-ME0009",
-        "url": "/mechanical/steel-socket-head-screws-m5x20mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m5x20mm/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Steel Socket Head Screws M5X30mm",
-        "description": "",
-        "code": "BS-ME0010",
-        "url": "/mechanical/steel-socket-head-screws-m5x30mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m5x30mm/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Steel Socket Head Screws M6X20mm",
-        "description": "",
-        "code": "BS-ME0011",
-        "url": "/mechanical/steel-socket-head-screws-m6x20mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m6x20mm/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Steel Socket Head Screws M6X30mm",
-        "description": "",
-        "code": "BS-ME0012",
-        "url": "/mechanical/steel-socket-head-screws-m6x30mm",
-        "image": "/img/products/mechanical/steel-socket-head-screws-m6x30mm/1.jpg",
-        "slider": ["1", "2"],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },
-      {
-        "name": "Battery rivet machine",
-        "description": "Supports M3, M4, M5, M6, M8",
-        "code": "BS-ME0013",
-        "url": "/mechanical/battery-rivet-machine",
-        "image": "/img/product-default-img.jpg",
-        "canonical": "",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      }
+     
+  {
+    "name": "Rivet nuts JX-F-M3-R-ST",
+    "description": "",
+    "code": "BS-ME0001",
+    "url": "/mechanical/rivet-nuts-jx-f-m3-r-st",
+    "image": "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Buy Mechanical Rivet nuts JX-F-M3-R-ST UAE | Best Lift Parts in Dubai, Sharjah",
+    "meta_description": "Buy Mechanical Rivet nuts JX-F-M3-R-ST UAE from Bestechparts. Top lift mechanical spare parts suppliers in Dubai & Sharjah, serving all elevator brands in UAE.",
+    "keywords": "Buy Mechanical Rivet nuts UAE, lift mechanical spare parts suppliers Dubai, Best Mechanical Rivet nuts supplier in Sharjah",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Rivet nuts JX-F-M4-R-ST",
+    "description": "",
+    "code": "BS-ME0002",
+    "url": "/mechanical/rivet-nuts-jx-f-m4-r-st",
+    "image": "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Blind Rivet Suppliers JX-F-M4-R-ST UAE | Rivet Nuts for Elevators in Dubai",
+    "meta_description": "Get blind rivet JX-F-M4-R-ST from suppliers in UAE at Bestechparts. Best lift mechanical rivet nuts in Sharjah & Dubai for Otis, Kone, Schindler & Mitsubishi elevators.",
+    "keywords": "blind rivet suppliers in UAE, Best Rivet nuts JX-F-M4-R-ST nut suppliers in UAE, lift mechanical rivet nuts Sharjah, buy rivet nuts elevator spare parts Dubai",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Rivet nuts JX-F-M5-R-ST",
+    "description": "",
+    "code": "BS-ME0003",
+    "url": "/mechanical/rivet-nuts-jx-f-m5-r-st",
+    "image": "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Blind Rivet Suppliers JX-F-M5-R-ST in UAE | Elevator Nuts Dubai & Sharjah",
+    "meta_description": "Buy blind rivet JX-F-M5-R-ST from suppliers in UAE at Bestechparts. Premium lift mechanical rivet nuts in Sharjah & Dubai for Otis, Hyundai, Kone & Mitsubishi lifts.",
+    "keywords": "blind rivet suppliers in UAE, Best Rivet nuts JX-F-M5-R-ST nut suppliers in UAE, lift mechanical rivet nuts Sharjah, buy rivet nuts elevator spare parts Dubai",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Rivet nuts JX-F-M6-R-ST",
+    "description": "",
+    "code": "BS-ME0004",
+    "url": "/mechanical/rivet-nuts-jx-f-m6-r-st",
+    "image": "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Blind Rivet JX-F-M6-R-ST Suppliers in UAE | Best Lift Nuts Dubai Sharjah",
+    "meta_description": "Find blind rivet JX-F-M6-R-ST suppliers in UAE at Bestechparts.ae. Top lift mechanical rivet nuts for elevators in Dubai & Sharjah. Serving Otis, Thyssenkrupp & Kone.",
+    "keywords": "blind rivet suppliers in UAE, Best Rivet nuts JX-F-M6-R-ST nut suppliers in UAE, lift mechanical rivet nuts Sharjah, buy rivet nuts elevator spare parts Dubai",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Steel Socket Head Screws M3X20mm",
+    "description": "",
+    "code": "BS-ME0005",
+    "url": "/mechanical/steel-socket-head-screws-m3x20mm",
+    "image": "/img/products/mechanical/steel-socket-head-screws-m3x20mm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Buy Elevator Steel Socket Screws M3x20mm in Dubai, UAE",
+    "meta_description": "Buy elevator steel socket screws m3x20mm from Bestechparts. Best supplier in Sharjah, Dubai & UAE for Mitsubishi, Kone, Otis & Thyssenkrupp lifts.",
+    "keywords": "buy elevator steel socket screws m3x20mm, buy steel socket head screws Sharjah, steel socket head screws m3x20mm supplier UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Steel Socket Head Screws M3X30mm",
+    "description": "",
+    "code": "BS-ME0006",
+    "url": "/mechanical/steel-socket-head-screws-m3x30mm",
+    "image": "/img/products/mechanical/steel-socket-head-screws-m3x30mm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Buy Elevator Steel Socket Screws M3x30mm in Dubai, UAE",
+    "meta_description": "Get elevator steel socket screws m3x30mm from Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Otis, Schindler, Kone & Mitsubishi elevators.",
+    "keywords": "buy elevator steel socket screws m3x30mm, buy steel socket head screws Dubai, steel socket head screws m3x30mm supplier UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Steel Socket Head Screws M4X20mm",
+    "description": "",
+    "code": "BS-ME0007",
+    "url": "/mechanical/steel-socket-head-screws-m4x20mm",
+    "image": "/img/products/mechanical/steel-socket-head-screws-m4x20mm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Buy Elevator Steel Socket Screws M4x20mm in Dubai, UAE",
+    "meta_description": "Buy elevator steel socket screws m4x20mm from Bestechparts. Top supplier in Dubai, Sharjah & UAE for Otis, Thyssenkrupp, Kone & Schindler lifts.",
+    "keywords": "buy elevator steel socket screws m4x20mm, buy elevator steel socket head screws Dubai, steel socket head screws m4x20mm supplier UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Steel Socket Head Screws M4X30mm",
+    "description": "",
+    "code": "BS-ME0008",
+    "url": "/mechanical/steel-socket-head-screws-m4x30mm",
+    "image": "/img/products/mechanical/steel-socket-head-screws-m4x30mm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Buy Elevator Steel Socket Screws M4x30mm in Dubai, UAE",
+    "meta_description": "Purchase elevator steel socket screws m4x30mm at Bestechparts. Leading supplier in Dubai, Sharjah & UAE for Kone, Otis, Mitsubishi & Schindler lifts.",
+    "keywords": "buy elevator steel socket screws m4x30mm, buy elevator steel socket head screws Dubai, steel socket head screws m4x30mm supplier UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Steel Socket Head Screws M5X20mm",
+    "description": "",
+    "code": "BS-ME0009",
+    "url": "/mechanical/steel-socket-head-screws-m5x20mm",
+    "image": "/img/products/mechanical/steel-socket-head-screws-m5x20mm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Buy Elevator Steel Socket Screws M5x20mm | Bestechparts, UAE",
+    "meta_description": "Shop elevator steel socket head screws M5x20mm in Sharjah, Dubai & UAE. Trusted supplier for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp spare parts.",
+    "keywords": "buy elevator steel socket screws m5x20mm, shop elevator steel socket head screws Sharjah, steel socket head screws m5x20mm supplier UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Steel Socket Head Screws M5X30mm",
+    "description": "",
+    "code": "BS-ME0010",
+    "url": "/mechanical/steel-socket-head-screws-m5x30mm",
+    "image": "/img/products/mechanical/steel-socket-head-screws-m5x30mm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Elevator Steel Socket Screws M5x30mm | Bestechparts Dubai, UAE",
+    "meta_description": "Find the best elevator steel socket head screws M5x30mm in Sharjah, Dubai & UAE. Genuine spare parts for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp.",
+    "keywords": "buy elevator steel socket screws m5x30mm, best elevator steel socket head screws, steel socket head screws m5x30mm supplier UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  }
+,
+      
+  {
+    "name": "Steel Socket Head Screws M6X20mm",
+    "description": "",
+    "code": "BS-ME0011",
+    "url": "/mechanical/steel-socket-head-screws-m6x20mm",
+    "image": "/img/products/mechanical/steel-socket-head-screws-m6x20mm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Elevator Steel Socket Screws M6x20mm | Bestechparts Dubai, UAE",
+    "meta_description": "Order elevator steel socket head screws M6x20mm in Sharjah, Dubai & UAE. Premium spare parts for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp lifts.",
+    "keywords": "buy elevator steel socket screws m5x20mm, best elevator steel socket head screws, steel socket head screws m5x20mm supplier UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Steel Socket Head Screws M6X30mm",
+    "description": "",
+    "code": "BS-ME0012",
+    "url": "/mechanical/steel-socket-head-screws-m6x30mm",
+    "image": "/img/products/mechanical/steel-socket-head-screws-m6x30mm/1.jpg",
+    "slider": ["1", "2"],
+    "meta_title": "Elevator Steel Socket Screws M6x30mm | Bestechparts Sharjah, UAE",
+    "meta_description": "Get elevator steel socket head screws M6x30mm in Sharjah, Dubai & UAE. Quality spare parts compatible with Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp.",
+    "keywords": "buy elevator steel socket screws m6x20mm, all brands elevator steel socket head screws, steel socket head screws m6x20mm supplier UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Battery rivet machine",
+    "description": "Supports M3, M4, M5, M6, M8",
+    "code": "BS-ME0013",
+    "url": "/mechanical/battery-rivet-machine",
+    "image": "/img/product-default-img.jpg",
+    "meta_title": "Buy Elevator Battery Rivet Machine | Bestechparts Dubai, UAE",
+    "meta_description": "Shop elevator battery rivet machine in Sharjah, Dubai & UAE. Reliable lift riveting tool suppliers for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp.",
+    "keywords": "buy elevator battery rivet machine, elevator riveting tool suppliers, lift battery rivet tool suppliers UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  }
+
     ]
   },
   {
