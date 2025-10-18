@@ -97,7 +97,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "F:\\Personal Work\\2025\\Artic 9\\Next Js Website\\Bestech website\\Website\\live",
+    "outputFileTracingRoot": "E:\\Work\\Artic 9\\Next js\\bestech-live-website\\bestech-live-website",
     "experimental": {
       "useSkewCookie": false,
       "nodeMiddleware": false,
@@ -156,7 +156,7 @@
       "middlewarePrefetch": "flexible",
       "optimisticClientCache": true,
       "manualClientBasePath": false,
-      "cpus": 7,
+      "cpus": 27,
       "memoryBasedWorkersCount": false,
       "imgOptConcurrency": null,
       "imgOptTimeoutInSeconds": 7,
@@ -288,10 +288,33 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "F:\\Personal Work\\2025\\Artic 9\\Next Js Website\\Bestech website\\Website\\live"
-    }
+      "root": "E:\\Work\\Artic 9\\Next js\\bestech-live-website\\bestech-live-website"
+    },
+    "_originalRedirects": [
+      {
+        "source": "/:path*",
+        "has": [
+          {
+            "type": "host",
+            "value": "bestechparts.ae"
+          }
+        ],
+        "destination": "https://www.bestechparts.ae/:path*",
+        "permanent": true
+      },
+      {
+        "source": "/brands/monarch",
+        "destination": "/",
+        "permanent": true
+      },
+      {
+        "source": "/brands/step",
+        "destination": "/",
+        "permanent": true
+      }
+    ]
   },
-  "appDir": "F:\\Personal Work\\2025\\Artic 9\\Next Js Website\\Bestech website\\Website\\live",
+  "appDir": "E:\\Work\\Artic 9\\Next js\\bestech-live-website\\bestech-live-website",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

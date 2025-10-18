@@ -1,74 +1,35 @@
-"use client";
-import { useParams } from "next/navigation";
-import PageHeader from "~/components/Section/Common/PageHeader";
-import Link from "next/link";
-import data from "~/db/blogsData.json";
-import LatestBlogCard from "~/components/Ui/Cards/LatestBlogCard";
+import fs from "fs";
+import path from "path";
+import BlogContent from "./BlogContent";
 
-export default function Page() {
-  const params = useParams();
-  const slug = params.url; // Slug from URL
+export async function generateMetadata({ params }) {
+  const { url: slug } = params;
 
-  // Find the blog data based on URL slug
-  const blog = data.find((item) => item.link === slug);
+  const filePath = path.join(process.cwd(), "src", "db", "blogsData.json");
+  const fileContents = fs.readFileSync(filePath, "utf-8");
+  const blogs = JSON.parse(fileContents);
+
+  const blog = blogs.find((item) => item.link === slug);
 
   if (!blog) {
-    return (
-      <section className="padding">
-        <div className="container text-center">
-          <h2>Blog Not Found</h2>
-          <p>No article matches the requested URL: {slug}</p>
-        </div>
-      </section>
-    );
+    return {
+      title: "Blog Not Found",
+      description: "The requested blog post does not exist or has been moved.",
+      alternates: { canonical: "https://www.yoursite.com/blog" },
+      robots: "noindex, nofollow",
+    };
   }
 
-  return (
-    <>
-      <PageHeader title={blog.title} />
+  return {
+    title: blog.meta_title || blog.title,
+    description: blog.meta_description || `Read more about ${blog.title} on our blog.`,
+    keywords:blog.keywords,
+    alternates: { canonical: blog.canonical || `https://www.yoursite.com/blog/${slug}` },
+    robots: blog.robots || "index, follow",
+  };
+}
 
-      <section className="blog-details padding" id="blog-cta" >
-        <div className="container ">
-          <div className="row justify-content-center align-items-center" style={{ minHeight: '100vh' }}>
-            {/* Main Blog Content */}
-            <div className="col-xl-8 " >
-              <div className="blog-details__content">
-                <div className="blog-standard-page__single">
-                  <div className="blog-standard-page__single-img">
-                    <img src={blog.image} alt={blog.title} />
-                  </div>
-                  <div className="blog-standard-page__single-content">
-                    {/* <ul className="meta-box">
-                      <li>
-                        <i className="icon-user1"></i> By {blog.author}
-                      </li>
-                      <li>
-                        <i className="icon-date"></i> {blog.date}
-                      </li>
-                    </ul> */}
-                    <h2>{blog.title}</h2>
-
-                    {/* <p>{blog.paragraph}</p> */}
-                    <p>  {blog.paragraph.map((item, index) => (
-                      <div
-                        key={index}
-                        dangerouslySetInnerHTML={{ __html: item }}
-                      />
-                    ))}</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Sidebar */}
-            {/* <div className="col-xl-4">
-              <div className="sidebar">
-                <LatestBlogCard />
-              </div>
-            </div> */}
-          </div>
-        </div>
-      </section>
-    </>
-  );
+// Server component renders the client blog content
+export default function Page({ params }) {
+  return <BlogContent slug={params.url} />;
 }

@@ -1,10 +1,35 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import BlogCardThree from "~/components/Ui/Cards/BlogCardThree";
-import data from "~/db/blogDataFour.json";
+import data from "~/db/blogsData.json";
+import { FaFolderOpen, FaClock, FaArrowRight, FaSearch } from "react-icons/fa";
+
+const categories = [
+  "Motors & Drives",
+  "Control Panels",
+  "Door Systems",
+  "Sensors & Switches",
+  "Safety Devices",
+  "Passenger Elevators",
+  "Freight Elevators",
+  "Residential Elevators",
+  "Hospital / Medical Elevators",
+  "Dumbwaiters",
+];
+
 const Blog = () => {
+  const [searchTerm, setSearchTerm] = useState("");
+
+  // Filter posts based on title or description
+  const filteredData = data.filter(
+    (item) =>
+      item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      (item.description &&
+        item.description.toLowerCase().includes(searchTerm.toLowerCase()))
+  );
+
   return (
     <div>
       <section
@@ -13,26 +38,81 @@ const Blog = () => {
       >
         <div className="container">
           <div className="row">
-            {data?.map((item, index) => (
-              <BlogCardThree item={item} key={index} ></BlogCardThree>
-            ))}
+            {/* Main Blog Posts */}
+            <div className="col-lg-9">
+              <div className="row">
+                {filteredData.length > 0 ? (
+                  filteredData.map((item, index) => (
+                    <BlogCardThree item={item} key={index} />
+                  ))
+                ) : (
+                  <p>No blog posts found for &quot;{searchTerm}&quot;</p>
+                )}
+              </div>
+            </div>
+
+            {/* Sidebar */}
+            <div className="col-lg-3">
+              <aside className="sidebar">
+                {/* Search Box */}
+                <div className="card mb-4 p-3 shadow-sm">
+                  <h5 className="card-title mb-2 d-flex align-items-center gap-1">
+                    <FaSearch className="text-blue-600" /> Search
+                  </h5>
+                  <hr className="my-2 border-gray-300" />
+                  <input
+                    type="text"
+                    placeholder="Search posts..."
+                    className="form-control"
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                  />
+                </div>
+
+                {/* Categories Box */}
+                <div className="card mb-4 p-3 shadow-sm">
+                  <h5 className="card-title mb-2 d-flex align-items-center gap-1">
+                    <FaFolderOpen className="text-blue-600" /> Categories
+                  </h5>
+                  <hr className="my-2 border-gray-300" />
+                  <ul className="list-unstyled mb-0">
+                    {categories.map((cat, index) => (
+                      <li key={index} className="mb-2 d-flex align-items-center gap-1">
+                        <FaArrowRight className="mr-2 text-gray-500" />
+                        <Link
+                          href={`/category/${cat.toLowerCase().replace(/ /g, "-")}`}
+                          className="text-blue-600 hover:underline"
+                        >
+                          {cat}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+
+                {/* Recent Posts Box */}
+                <div className="card mb-4 p-3 shadow-sm">
+                  <h5 className="card-title mb-2 d-flex align-items-center gap-1">
+                    <FaClock className="text-blue-600" /> Recent Posts
+                  </h5>
+                  <hr className="my-2 border-gray-300" />
+                  <ul className="list-unstyled mb-0">
+                    {data.slice(0, 5).map((post, index) => (
+                      <li key={index} className="mb-2 d-flex align-items-center gap-1">
+                        <FaArrowRight className="mr-2 text-gray-500" />
+                        <Link
+                          href={`/blog/${post.link}`}
+                          className="text-blue-600 hover:underline"
+                        >
+                          {post.title}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </aside>
+            </div>
           </div>
-          {/* <ul className="styled-pagination text-center clearfix">
-            <li>
-              <Link href="#">1</Link>
-            </li>
-            <li>
-              <Link href="#">2</Link>
-            </li>
-            <li>
-              <Link href="#">3</Link>
-            </li>
-            <li className="arrow next active">
-              <Link href="#">
-                <span className="icon-right-arrow1"></span>
-              </Link>
-            </li>
-          </ul> */}
         </div>
       </section>
     </div>

@@ -50,6 +50,14 @@
   text-transform: capitalize;
   margin-bottom: 22px;
 }
+.page-header__inner h1 {
+  color: var(--thm-white);
+  font-size: 60px;
+  line-height: 1em;
+  font-weight: 700;
+  text-transform: capitalize;
+  margin-bottom: 22px;
+}
 
 .page-header__inner .thm-breadcrumb {
   position: relative;

@@ -9,7 +9,7 @@ const PageHeader = ({ title, bgImage = "/img/home/faq/2.jpg" }) => {
       ></div>
       <div className="container">
         <div className="page-header__inner text-center">
-          <h2>{title}</h2>
+          <h1>{title}</h1>
           <ul className="thm-breadcrumb">
             <li>
               <Link href="/">Home</Link>

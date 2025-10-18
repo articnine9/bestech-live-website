@@ -6,20 +6,21 @@ const BlogCardThree = ({ item }) => {
       <div className="blog-two__single">
         <div className="blog-two__single-img">
           <div className="overlay-img__outer">
-            <div className="name">
+            {/* <div className="name">
               <p>{item.author}</p>
-            </div>
-            <div className="overlay-img">
+            </div> */}
+            {/* <div className="overlay-img">
               <img src={item.image} alt="#" />
-            </div>
+            </div> */}
           </div>
           <div className="inner">
             <img src={item.image} alt="#" />
           </div>
         </div>
         <div className="blog-two__single-content">
+          <p>{item.author}</p>
           <h2>
-            <Link href={`blog/${item.link}`}>{item.title}</Link>
+            <Link href={`/blog/${item.link}`}>{item.title}</Link>
           </h2>
           <ul className="meta-box">
             <li>

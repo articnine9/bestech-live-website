@@ -330,7 +330,7 @@
   display: block;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
-  padding: 31px 30px 1px;
+  padding: 31px 30px ;
 }
 
 .blog-two__single-content h2 {
@@ -387,6 +387,7 @@
   position: relative;
   display: block;
   margin-top: 23px;
+  
 }
 
 .blog-two__single-content .btn-box a {
@@ -414,7 +415,7 @@
 .blog-two__single-img {
   position: relative;
   display: block;
-  padding-top: 30px;
+  padding-top: 0px;
 }
 
 .blog-two__single-img .overlay-img {
@@ -626,9 +627,11 @@ Sidebar Css
 .sidebar {
   position: relative;
   display: block;
-  margin-left: 65px;
+  margin-left: 0px;
 }
-
+.justify {
+  text-align: justify;
+}
 .sidebar__single {
   position: relative;
   display: block;
@@ -1454,7 +1457,7 @@ Sidebar Css
 .blog-details__content {
   position: relative;
   display: block;
-  margin-right: -24px;
+  margin-right: -0px;
 }
 
 .blog-details__content-text1 {

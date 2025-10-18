@@ -29,24 +29,6 @@
       "static/chunks/606.0ebcfb668f70c154.js"
     ]
   },
-  "components\\Section\\Services\\ChooseUs\\ChooseUs.jsx -> react-animated-numbers": {
-    "id": 9055,
-    "files": [
-      "static/chunks/55.07d090b8e4ebc29c.js"
-    ]
-  },
-  "components\\Section\\Services\\WorkProcess\\WorkProcess.jsx -> wowjs": {
-    "id": 1606,
-    "files": [
-      "static/chunks/606.0ebcfb668f70c154.js"
-    ]
-  },
-  "components\\Ui\\Cards\\LatestBlogCard.jsx -> wowjs": {
-    "id": 1606,
-    "files": [
-      "static/chunks/606.0ebcfb668f70c154.js"
-    ]
-  },
   "components\\Ui\\Cards\\TeamCardThree.jsx -> wowjs": {
     "id": 1606,
     "files": [
