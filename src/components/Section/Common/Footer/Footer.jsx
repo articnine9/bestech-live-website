@@ -59,7 +59,7 @@ const Footer = () => {
               >
                 <div className="single-footer-widget footer-widget__about">
                   <div className="title">
-                    <h2>About Company</h2>
+                    <p>About Company</p>
                   </div>
 
                   <div className="footer-widget__about-inner">
@@ -105,7 +105,7 @@ const Footer = () => {
               >
                 <div className="single-footer-widget footer-widget__links">
                   <div className="title">
-                    <h2>Our Hot Products</h2>
+                    <p>Our Hot Products</p>
                   </div>
 
                   <div className="footer-widget__links-box">
@@ -235,7 +235,7 @@ const Footer = () => {
               >
                 <div className="single-footer-widget footer-widget__contact">
                   <div className="title">
-                    <h2>Get in Touch</h2>
+                    <p>Get in Touch</p>
                   </div>
                   <div className="footer-widget__contact-box">
                     <ul>
@@ -245,11 +245,11 @@ const Footer = () => {
                         </div>
                         <div className="content-box">
                           <p>Address</p>
-                          <h4>
+                          <p>
                             Shops 2-3-4, Building 1080, Fire Station Road,
                             Muwaileh, Near to Muwaileh bus station, Sharjah,
                             UAE.
-                          </h4>
+                          </p>
                         </div>
                       </li>
                       <li>
@@ -258,11 +258,11 @@ const Footer = () => {
                         </div>
                         <div className="content-box">
                           <p>Email</p>
-                          <h4>
+                          <p>
                             <Link href="mailto:sales@bestechparts.ae">
                               sales@bestechparts.ae
                             </Link>
-                          </h4>
+                          </p>
                         </div>
                       </li>
 
@@ -272,9 +272,9 @@ const Footer = () => {
                         </div>
                         <div className="content-box">
                           <p>Landline</p>
-                          <h4>
+                          <p>
                             <Link href="tel:065227299">06 522 7299</Link>
-                          </h4>
+                          </p>
                         </div>
                       </li>
                       <li>
@@ -283,11 +283,11 @@ const Footer = () => {
                         </div>
                         <div className="content-box">
                           <p>Mobile</p>
-                          <h4>
+                          <p>
                             <Link href="tel:971543093833">
                               +971 54 309 3833
                             </Link>
-                          </h4>
+                          </p>
                         </div>
                       </li>
                     </ul>

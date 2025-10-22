@@ -22,13 +22,13 @@ const BlogCardThree = ({ item }) => {
           <h2>
             <Link href={`/blog/${item.link}`}>{item.title}</Link>
           </h2>
-          <ul className="meta-box">
+          {/* <ul className="meta-box">
             <li>
               <Link href="#">{item.category}</Link>
             </li>
-            {/* <li>-</li> */}
+           
             <li>{item.date}</li>
-          </ul>
+          </ul> */}
           <div className="btn-box">
             <Link href={`blog/${item.link}`}>
               Read More <span className="icon-right-arrow-5"></span>

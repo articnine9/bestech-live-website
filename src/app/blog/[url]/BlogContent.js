@@ -13,7 +13,7 @@ import {
   FaLinkedinIn,
   FaWhatsapp,
 } from "react-icons/fa";
-
+import { FaXTwitter } from "react-icons/fa6";
 const categories = [
   "Motors & Drives",
   "Control Panels",
@@ -44,29 +44,36 @@ export default function BlogContent({ slug }) {
     );
   }
 
-  const relatedPosts = data.filter((post) => post.link !== blog.link).slice(0, 3);
+  const relatedPosts = data
+    .filter((post) => post.link !== blog.link)
+    .slice(0, 3);
 
   return (
     <>
       <PageHeader title={blog.title} />
 
       {/* Breadcrumb */}
-      
 
       <section className="blog-details padding" id="blog-cta">
         <div className="container">
-        <nav aria-label="breadcrumb" className="mb-4">
-          <ol className="breadcrumb">
-            <li className="breadcrumb-item">
-              <Link href="/" className="text-decoration-none">Home</Link>
-            </li>
-            <li className="breadcrumb-item">
-              <Link href="/blog" className="text-decoration-none">Blog</Link>
-            </li>
-            <li className="breadcrumb-item active" aria-current="page">{blog.title}</li>
-          </ol>
-        </nav>
-      </div>
+          <nav aria-label="breadcrumb" className="mb-4">
+            <ol className="breadcrumb">
+              <li className="breadcrumb-item">
+                <Link href="/" className="text-decoration-none">
+                  Home
+                </Link>
+              </li>
+              <li className="breadcrumb-item">
+                <Link href="/blog" className="text-decoration-none">
+                  Blog
+                </Link>
+              </li>
+              <li className="breadcrumb-item active" aria-current="page">
+                {blog.title}
+              </li>
+            </ol>
+          </nav>
+        </div>
         <div className="container">
           <div className="row justify-content-start">
             {/* Main Blog */}
@@ -74,12 +81,20 @@ export default function BlogContent({ slug }) {
               <div className="blog-details__content">
                 <div className="blog-standard-page__single">
                   <div className="blog-standard-page__single-img mb-3">
-                    <img src={blog.image} alt={blog.title} className="img-fluid" />
+                    <img
+                      src={blog.image}
+                      alt={blog.title}
+                      className="img-fluid"
+                    />
                   </div>
                   <div className="blog-standard-page__single-content">
-                    <h2>{blog.title}</h2>
+                    {/* <h2>{blog.title}</h2> */}
                     {blog.paragraph.map((item, index) => (
-                      <div key={index} dangerouslySetInnerHTML={{ __html: item }} className="mb-3 text-justify" />
+                      <div
+                        key={index}
+                        dangerouslySetInnerHTML={{ __html: item }}
+                        className="mb-3 text-justify"
+                      />
                     ))}
 
                     {/* Social Share */}
@@ -90,7 +105,9 @@ export default function BlogContent({ slug }) {
                           className="btn btn-primary"
                           onClick={() =>
                             window.open(
-                              `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentURL)}`,
+                              `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+                                currentURL
+                              )}`,
                               "_blank"
                             )
                           }
@@ -102,19 +119,23 @@ export default function BlogContent({ slug }) {
                           className="btn btn-info text-white"
                           onClick={() =>
                             window.open(
-                              `https://twitter.com/intent/tweet?url=${encodeURIComponent(currentURL)}&text=${encodeURIComponent(blog.title)}`,
+                              `https://twitter.com/intent/tweet?url=${encodeURIComponent(
+                                currentURL
+                              )}&text=${encodeURIComponent(blog.title)}`,
                               "_blank"
                             )
                           }
                         >
-                          <FaTwitter />
+                          <FaXTwitter />
                         </button>
 
                         <button
                           className="btn btn-secondary"
                           onClick={() =>
                             window.open(
-                              `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(currentURL)}`,
+                              `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+                                currentURL
+                              )}`,
                               "_blank"
                             )
                           }
@@ -126,7 +147,9 @@ export default function BlogContent({ slug }) {
                           className="btn btn-success"
                           onClick={() =>
                             window.open(
-                              `https://api.whatsapp.com/send?text=${encodeURIComponent(blog.title + " " + currentURL)}`,
+                              `https://api.whatsapp.com/send?text=${encodeURIComponent(
+                                blog.title + " " + currentURL
+                              )}`,
                               "_blank"
                             )
                           }
@@ -140,16 +163,25 @@ export default function BlogContent({ slug }) {
 
                 {/* Related Posts */}
                 <div className="related-posts mt-5">
-                  <h4 className="mb-3">Related Posts</h4>
+                  <h2 className="mb-3">Related Posts</h2>
                   <div className="row">
                     {relatedPosts.map((post, index) => (
                       <div key={index} className="col-md-4 mb-3">
                         <div className="card h-100 shadow-sm">
-                          <img src={post.image} className="card-img-top" alt={post.title} />
+                          <img
+                            src={post.image}
+                            className="card-img-top"
+                            alt={post.title}
+                          />
                           <div className="card-body">
-                            <h6 className="card-title">
-                              <Link href={`/blog/${post.link}`} className="text-decoration-none">{post.title}</Link>
-                            </h6>
+                            <h3 className="card-title">
+                              <Link
+                                href={`/blog/${post.link}`}
+                                className="text-decoration-none"
+                              >
+                                {post.title}
+                              </Link>
+                            </h3>
                           </div>
                         </div>
                       </div>
@@ -164,16 +196,21 @@ export default function BlogContent({ slug }) {
               <aside className="sidebar">
                 {/* Categories */}
                 <div className="card mb-4 p-3 shadow-sm">
-                  <h5 className="card-title mb-2 d-flex align-items-center gap-1">
+                  <p className="card-title mb-2 d-flex align-items-center gap-1">
                     <FaFolderOpen className="text-blue-600" /> Categories
-                  </h5>
+                  </p>
                   <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {categories.map((cat, index) => (
-                      <li key={index} className="mb-2 d-flex align-items-center gap-1">
+                      <li
+                        key={index}
+                        className="mb-2 d-flex align-items-center gap-1"
+                      >
                         <FaArrowRight className="text-gray-500" />
                         <Link
-                          href={`/category/${cat.toLowerCase().replace(/ /g, "-")}`}
+                          href={`/category/${cat
+                            .toLowerCase()
+                            .replace(/ /g, "-")}`}
                           className="text-blue-600 hover:underline"
                         >
                           {cat}
@@ -185,15 +222,21 @@ export default function BlogContent({ slug }) {
 
                 {/* Recent Posts */}
                 <div className="card mb-4 p-3 shadow-sm">
-                  <h5 className="card-title mb-2 d-flex align-items-center gap-1">
+                  <p className="card-title mb-2 d-flex align-items-center gap-1">
                     <FaClock className="text-blue-600" /> Recent Posts
-                  </h5>
+                  </p>
                   <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {recentPosts.map((post, index) => (
-                      <li key={index} className="mb-2 d-flex align-items-center gap-1">
+                      <li
+                        key={index}
+                        className="mb-2 d-flex align-items-center gap-1"
+                      >
                         <FaArrowRight className="text-gray-500" />
-                        <Link href={`/blog/${post.link}`} className="text-blue-600 hover:underline">
+                        <Link
+                          href={`/blog/${post.link}`}
+                          className="text-blue-600 hover:underline"
+                        >
                           {post.title}
                         </Link>
                       </li>

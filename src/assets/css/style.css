@@ -1216,7 +1216,19 @@ label {
 .sidebar-textwidget {
   padding: 70px 30px;
 }
-
+.sidebar p.card-title {
+  font-family: var(--thm-heading-font);
+  color: var(--thm-heading-font-color);
+  margin-top: 0;
+  margin-bottom: 0;
+  font-style: normal;
+  line-height: 1.2em;
+  font-weight: var(--thm-heading-font-weight);
+  text-transform: inherit;
+}
+.text-justify {
+  text-align: justify;
+}
 .sidebar-widget-container {
   position: relative;
   top: -150px;

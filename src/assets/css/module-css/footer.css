@@ -212,7 +212,7 @@
   color: var(--thm-white);
   font-size: 24px;
   line-height: 34px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .footer-widget__about {
@@ -221,7 +221,12 @@
   max-width: 330px;
   width: 100%;
 }
-
+.single-footer-widget .title P {
+  color: var(--thm-white);
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 500;
+}
 .footer-widget__about-inner {
   position: relative;
   display: block;
@@ -409,7 +414,7 @@
   color: #fff;
   font-size: 14px;
   line-height: 26px;
-  font-weight: 600;
+  font-weight: 400;
   text-transform: capitalize;
 }
 
