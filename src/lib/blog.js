@@ -3,27 +3,22 @@
 // Example blog data — in real usage, you might fetch from a CMS or database
 export const blogPosts = [
   {
-    slug: "innovations-in-elevator-safety-systems",
-    title: "Innovations in Elevator Safety Systems",
+    slug: "most-common-elevator-electrical-mechanical-spare-parts-in-uae",
+    title: "Most Common Elevator Electrical & Mechanical Spare Parts in UAE",
     date: "2025-01-15",
     description: "Tips for maintaining elevator cables safely and efficiently.",
   },
   {
-    slug: "new-range-of-control-panels-launched-by-bestech",
-    title: "New Range of Control Panels Launched by Bestech",
+    slug: "top-elevator-spare-parts-suppliers-in-dubai-how-to-choose-the-right-one",
+    title:
+      "Top Elevator Spare Parts Suppliers in Dubai: How to Choose the Right One",
     date: "2025-02-05",
     description: "Guide for selecting the best circuit breakers for elevators.",
   },
   {
-    slug: "how-smart-elevators-are-shaping-the-future",
-    title: "How Smart Elevators Are Shaping the Future",
-    date: "2025-03-10",
-    description:
-      "Overview of the most reliable lift contactors available in UAE.",
-  },
-  {
-    slug: "successful-elevator-system-upgrade-in-sharjah-mall",
-    title: "Successful Elevator System Upgrade in Sharjah Mall",
+    slug: "elevator-safety-essentials-door-locks-wheels-cables-in-dubai-sharjah",
+    title:
+      "Elevator Safety Essentials: Door Locks, Wheels & Cables in Dubai & Sharjah",
     date: "2025-03-10",
     description:
       "Overview of the most reliable lift contactors available in UAE.",

@@ -330,7 +330,7 @@
   display: block;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
-  padding: 31px 30px ;
+  padding: 31px 30px;
 }
 
 .blog-two__single-content h2 {
@@ -387,7 +387,6 @@
   position: relative;
   display: block;
   margin-top: 23px;
-  
 }
 
 .blog-two__single-content .btn-box a {
@@ -1347,7 +1346,9 @@ Sidebar Css
   padding: 50px 50px 50px;
   z-index: 1;
 }
-
+.blog-standard-page__single-content a {
+  color: #d0ae43;
+}
 .blog-standard-page__single-content .logo-box {
   position: absolute;
   bottom: 40px;
