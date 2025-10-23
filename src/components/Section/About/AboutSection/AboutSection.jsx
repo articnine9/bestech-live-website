@@ -35,7 +35,7 @@ const AboutSection = () => {
               <div className="sec-title-style3">
                 <div className="sub-title">
                   <div className="icon">
-                    <img src="/img/icon/title-marker-4.png" alt="" />
+                    <img src="/img/icon/title-marker-4.png" alt="bestech" />
                   </div>
                   <h5>About Company</h5>
                 </div>

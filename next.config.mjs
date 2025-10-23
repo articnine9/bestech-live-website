@@ -2,37 +2,25 @@
 const nextConfig = {
   async redirects() {
     return [
-      // Redirect non-www to www (301)
       {
-        source: '/:path*',
-        has: [
-          { type: 'host', value: 'bestechparts.ae' },
-        ],
-        destination: 'https://www.bestechparts.ae/:path*',
-        permanent: true,
-      },
-
-      // Redirect specific old brand pages to homepage
-      {
-        source: '/brands/monarch',
-        destination: '/',
-        permanent: true, // 301 redirect
+        source: "/brands/monarch",
+        destination: "/",
+        permanent: true, // 301
       },
       {
-        source: '/brands/step',
-        destination: '/',
-        permanent: true, // 301 redirect
+        source: "/brands/step",
+        destination: "/",
+        permanent: true, // 301
       },
     ];
   },
-
   async headers() {
     return [
       {
-        source: '/(.*)',
+        source: "/(.*)",
         headers: [
           {
-            key: 'Content-Security-Policy',
+            key: "Content-Security-Policy",
             value: `
               default-src 'self';
               script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com;
@@ -44,24 +32,27 @@ const nextConfig = {
               object-src 'none';
               base-uri 'self';
               form-action 'self';
-            `.replace(/\s{2,}/g, ' '),
+            `.replace(/\s{2,}/g, " "),
           },
-          { key: 'X-Content-Type-Options', value: 'nosniff' },
-          { key: 'X-Frame-Options', value: 'DENY' },
-          { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
-          { key: 'Permissions-Policy', value: 'geolocation=(), microphone=()' },
+          { key: "X-Content-Type-Options", value: "nosniff" },
+          { key: "X-Frame-Options", value: "DENY" },
+          { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
+          { key: "Permissions-Policy", value: "geolocation=(), microphone=()" },
         ],
       },
       {
-        source: '/:all*(jpg|jpeg|png|gif|webp|svg)',
+        source: "/:all*(jpg|jpeg|png|gif|webp|svg)",
         headers: [
-          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable",
+          },
         ],
       },
       {
-        source: '/:all*(css|js)',
+        source: "/:all*(css|js)",
         headers: [
-          { key: 'Cache-Control', value: 'public, max-age=2592000, immutable' },
+          { key: "Cache-Control", value: "public, max-age=2592000, immutable" },
         ],
       },
     ];

@@ -15,16 +15,19 @@ export async function generateMetadata({ params }) {
     return {
       title: "Blog Not Found",
       description: "The requested blog post does not exist or has been moved.",
-      alternates: { canonical: "https://www.yoursite.com/blog" },
+      alternates: { canonical: "https://www.bestechparts.ae/blog" },
       robots: "noindex, nofollow",
     };
   }
 
   return {
     title: blog.meta_title || blog.title,
-    description: blog.meta_description || `Read more about ${blog.title} on our blog.`,
-    keywords:blog.keywords,
-    alternates: { canonical: blog.canonical || `https://www.yoursite.com/blog/${slug}` },
+    description:
+      blog.meta_description || `Read more about ${blog.title} on our blog.`,
+    keywords: blog.keywords,
+    alternates: {
+      canonical: blog.canonical || `https://www.bestechparts.ae/blog/${slug}`,
+    },
     robots: blog.robots || "index, follow",
   };
 }

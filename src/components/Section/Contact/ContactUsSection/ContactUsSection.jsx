@@ -52,10 +52,10 @@ const ContactUsSection = () => {
   return (
     <section className="contact-page padding">
       <div className="shape1 float-bob-y">
-        <img src="/img/shape/contact-page-shape1.png" alt="" />
+        <img src="/img/shape/contact-page-shape1.png" alt="bestech" />
       </div>
       <div className="shape2 float-bob-y">
-        <img src="/img/shape/contact-page-shape2.png" alt="" />
+        <img src="/img/shape/contact-page-shape2.png" alt="bestech" />
       </div>
       <div className="container">
         <div className="row">
@@ -64,7 +64,7 @@ const ContactUsSection = () => {
               <div className="sec-title-style3">
                 {/* <div className="sub-title">
                   <div className="icon">
-                    <img src="/img/icon/title-marker-4.png" alt="" />
+                    <img src="/img/icon/title-marker-4.png" alt="bestech" />
                   </div>
                   <h5>Get In Touch</h5>
                 </div> */}

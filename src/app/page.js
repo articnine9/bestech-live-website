@@ -1,4 +1,3 @@
-
 import About from "~/components/Section/Home-1/About";
 import Blog from "~/components/Section/Home-1/Blog";
 import ChooseUs from "~/components/Section/Home-1/ChooseUs/ChooseUs";
@@ -7,7 +6,6 @@ import Faq from "~/components/Section/Home-1/Faq/Faq";
 import Hero from "~/components/Section/Home-1/Hero";
 
 import Service from "~/components/Section/Home-1/Service";
-
 
 export const metadata = {
   title: "Elevator Spare Parts Supplier in Dubai, UAE | Bestech Parts",

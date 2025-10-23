@@ -41,13 +41,13 @@ const Hero = () => {
               <h2>Bestech</h2>
             </div>
             <div className="img-box">
-              <img src="/img/slider/slider-v1-img4.png" alt="" />
+              <img src="/img/slider/slider-v1-img4.png" alt="Bestech" />
             </div>
             <div className="icon-one">
-              <img src="/img/icon/slider-v1-icon1.png" alt="" />
+              <img src="/img/icon/slider-v1-icon1.png" alt="Bestech" />
             </div>
             <div className="icon-two">
-              <img src="/img/icon/slider-v1-icon2.png" alt="" />
+              <img src="/img/icon/slider-v1-icon2.png" alt="Bestech" />
             </div>
             <div className="container">
               <div className="main-slider-one__single padding">
@@ -129,13 +129,13 @@ const Hero = () => {
               <h2>Bestech</h2>
             </div>
             <div className="img-box">
-              <img src="/img/slider/slider-v1-img4.png" alt="" />
+              <img src="/img/slider/slider-v1-img4.png" alt="bestech" />
             </div>
             <div className="icon-one">
-              <img src="/img/icon/slider-v1-icon1.png" alt="" />
+              <img src="/img/icon/slider-v1-icon1.png" alt="bestech" />
             </div>
             <div className="icon-two">
-              <img src="/img/icon/slider-v1-icon2.png" alt="" />
+              <img src="/img/icon/slider-v1-icon2.png" alt="bestech" />
             </div>
             <div className="container">
               <div className="main-slider-one__single padding">
