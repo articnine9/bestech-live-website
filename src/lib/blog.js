@@ -23,6 +23,7 @@ export const blogPosts = [
     description:
       "Overview of the most reliable lift contactors available in UAE.",
   },
+  
 ];
 
 // Function to fetch all blog posts

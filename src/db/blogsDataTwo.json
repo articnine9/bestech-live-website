@@ -31,5 +31,16 @@
     "link": "blog-details",
     "image": "/img/blog/blog-v2-img6.jpg",
     "thumbnail": "/img/blog/blog-v2-img3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Going forward, a new normal that has evolved",
+    "meta": {
+      "category": "Local Shipping",
+      "date": "April 24, 2023"
+    },
+    "link": "blog-details",
+    "image": "/img/blog/blog-v2-img6.jpg",
+    "thumbnail": "/img/blog/blog-v2-img3.jpg"
   }
 ]
