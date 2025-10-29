@@ -191,6 +191,18 @@
     "keywords": "elevator communication cable supplier Sharjah, Display Mitsubishi cable BS-CW0012 sharjah",
     "canonical": "https://www.bestechparts.ae/products/cables-and-wires/display-mitsubishi-modbus-cable",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Cable - Type: command board: 90cm",
+    "description": "MODBUS cable",
+    "code": "BS-CW0013",
+    "url": "/cables-and-wires/cable-type-command-board-90cm",
+    "image": "/img/products/cables-and-wires/cable-type-command-board-90cm/1.jpg",
+    "meta_title": "",
+    "meta_description": "",
+    "keywords": "",
+    "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-type-command-board-90cm",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
   }
 
     ]
@@ -295,6 +307,19 @@
     "meta_description": "Shop F4 22 2NO 2NC elevator contactor auxiliary at Bestechparts. Supplier in Dubai, Sharjah & UAE for Otis and Sigma lift spare accessories.",
     "keywords": "Elevator Contactor Auxiliary F4 22 2NO 2NC, elevator contactor auxiliary F4 22, otis contactor auxiliary Dubai, elevator spare auxiliary UAE, lift auxiliary part sharjah",
     "canonical": "https://www.bestechparts.ae/products/contactors/auxiliary-f4-22-2no-2nc",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Contactor AC110V 115A ",
+    "description": "",
+    "code": "BS-CT00012",
+    "url": "/contactors/contactor-ac110v-115a",
+    "image": "/img/products/contactors/contactor-ac110v-115a/1.jpg",
+    "slider":["1", "2", "3"],
+    "meta_title": "",
+    "meta_description": "",
+    "keywords": "",
+    "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-115a",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
   }
 
@@ -835,7 +860,80 @@
         "url": "/buttons/cop-button-alarm",
         "image": "/img/products/buttons/cop-button-alarm/1.jpg",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Square Button AK07",
+        "description": "Model: BST",
+        "code": "BS-BT0056",
+        "url": "/buttons/elevator-square-button-ak07",
+        "image": "/img/products/buttons/elevator-square-button-ak07/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Push Button AK25 MTD265",
+        "description": "Model: BST",
+        "code": "BS-BT0057",
+        "url": "/buttons/elevator-push-button-ak25-mtd265",
+        "image": "/img/products/buttons/elevator-push-button-ak25-mtd265/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "A4N11286 Elevator LED Push Button",
+        "description": "Model: BST",
+        "code": "BS-BT0058",
+        "url": "/buttons/a4n11286-elevator-led-push-button",
+        "image": "/img/products/buttons/a4n11286-elevator-led-push-button/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BST Elevator Button A3N18489",
+        "description": "Model: BST",
+        "code": "BS-BT0059",
+        "url": "/buttons/bst-elevator-button-a3n18489",
+        "image": "/img/products/buttons/bst-elevator-button-a3n18489/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Push Button KDS50 (Round)",
+        "description": "Model: BST",
+        "code": "BS-BT0060",
+        "url": "/buttons/elevator-push-button-kds50-round",
+        "image": "/img/products/buttons/elevator-push-button-kds50-round/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Button LHB-005B",
+        "description": "Model: BST",
+        "code": "BS-BT0061",
+        "url": "/buttons/elevator-button-lhb-005b",
+        "image": "/img/products/buttons/elevator-button-lhb-005b/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Button LHB-006B",
+        "description": "Model: BST",
+        "code": "BS-BT0061",
+        "url": "/buttons/elevator-button-lhb-006b",
+        "image": "/img/products/buttons/elevator-button-lhb-006b/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Button LHB-007B",
+        "description": "Model: BST",
+        "code": "BS-BT0061",
+        "url": "/buttons/elevator-button-lhb-007b",
+        "image": "/img/products/buttons/elevator-button-lhb-007b/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "G floor button cover (Green)",
+        "description": "Model: BST",
+        "code": "BS-BT0067",
+        "url": "/buttons/g-floor-button-cover-green",
+        "image": "/img/products/buttons/g-floor-button-cover-green/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
+      
     ]
   },
   {
@@ -1168,10 +1266,32 @@
     "keywords": "Best Emergency Alarm for Elevators, Buy Elevator alarm UAE, Best elevator alarm supplier in Sharjah, Quality lift alarm suppliers in Dubai",
     "canonical": "https://www.bestechparts.ae/products/electrical/alarm",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Bridge Rectfier KBPC3510",
+    "description": "",
+    "code": "BS-EL022",
+    "url": "/electrical/bridge-rectfier-kbpc3510",
+    "image": "/img/products/electrical/bridge-rectfier-kbpc3510/1.jpg",
+    "meta_title": "",
+    "meta_description": "",
+    "keywords": "",
+    "canonical": "https://www.bestechparts.ae/products/electrical/bridge-rectfier-kbpc3510",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Transformor BK-50VA",
+    "description": "",
+    "code": "BS-EL022",
+    "url": "/electrical/transformor-bk-50va",
+    "image": "/img/products/electrical/transformor-bk-50va/1.jpg",
+    "meta_title": "",
+    "meta_description": "",
+    "keywords": "",
+    "canonical": "https://www.bestechparts.ae/products/electrical/transformor-bk-50va",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
   }
-
-
-    ]
+  ]
   },
   {
     
@@ -1269,6 +1389,16 @@
         "url": "/cabinet-set/braking-resistor-5500w",
         "image": "/img/products/cabinet-set/braking-resistor-5500w/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-5500w",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Braking resistor - Type: 6500W",
+        "description": "Type: 5500W",
+        "code": "BS-CS0014",
+        "url": "/cabinet-set/braking-resistor-type-6500w",
+        "image": "/img/products/cabinet-set/braking-resistor-type-6500w/1.jpg",
+        "slider":["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-6500w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -1439,6 +1569,17 @@
     "meta_title": "Buy Elevator Battery Rivet Machine | Bestechparts Dubai, UAE",
     "meta_description": "Shop elevator battery rivet machine in Sharjah, Dubai & UAE. Reliable lift riveting tool suppliers for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp.",
     "keywords": "buy elevator battery rivet machine, elevator riveting tool suppliers, lift battery rivet tool suppliers UAE",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "name": "Oil Cups - Assorted",
+    "description": "Supports M3, M4, M5, M6, M8",
+    "code": "BS-ME0018",
+    "url": "/mechanical/oil-cups-assorted",
+    "image": "/img/products/mechanical/oil-cups-assorted/1.jpg",
+    "meta_title": "",
+    "meta_description": "",
+    "keywords": "",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
   }
 
@@ -1730,6 +1871,25 @@
         "image": "/img/products/door-locks/door-lock-contact-161/1.jpg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Key switch lock - A4N19290 / A4J19289 ",
+        "description": "",
+        "code": "BS-DL0031",
+        "url": "/door-locks/key-switch-lock-a4n19290-a4j19289",
+        "image": "/img/products/door-locks/key-switch-lock-a4n19290-a4j19289/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-locks/key-switch-lock-a4n19290-a4j19289",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Lift Door locking device - Left side",
+        "description": "",
+        "code": "BS-DL0033",
+        "url": "/door-locks/lift-door-locking-device-left-side",
+        "image": "/img/products/door-locks/lift-door-locking-device-left-side/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-locks/lift-door-locking-device-left-side",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -2688,6 +2848,33 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-ern-1387",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Encoder PG card: MCTC-PG-E6",
+        "description": "ERN 1387",
+        "code": "BS-EN0017",
+        "url": "/encoders/encoder-pg-card-mctc-pg-e6",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-e6/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-e6",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Encoder PG card: MCTC-PG-D",
+        "description": "ERN 1387",
+        "code": "BS-EN0018",
+        "url": "/encoders/encoder-pg-card-mctc-pg-d",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-d/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-d",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Encoder PG card: MCTC-PG-F",
+        "description": "ERN 1387",
+        "code": "BS-EN0019",
+        "url": "/encoders/encoder-pg-card-mctc-pg-f",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-f/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-f",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -2850,6 +3037,16 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0002",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door Drive NSFC01-02",
+        "description": "AAD03011DK",
+        "code": "BS-DD0009",
+        "url": "/door-drives/door-drive-nsfc01-02",
+        "image": "/img/products/door-drives/door-drive-nsfc01-02/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-drives/door-drive-nsfc01-02",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -2926,7 +3123,45 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/signalization/duplex-lop-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Step LOP set: UP + Lock",
+        "description": "",
+        "code": "BS-SG0007",
+        "url": "/signalization/step-lop-set-up-lock",
+        "image": "/img/products/signalization/step-lop-set-up-lock/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Step LOP set: UP + Down",
+        "description": "",
+        "code": "BS-SG0008",
+        "url": "/signalization/step-lop-set-up-down",
+        "image": "/img/products/signalization/step-lop-set-up-lock/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Step LOP set: Down",
+        "description": "",
+        "code": "BS-SG0009",
+        "url": "/signalization/step-lop-set-down",
+        "image": "/img/products/signalization/step-lop-set-down/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-down",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Duplex set: UP + Down",
+        "description": "",
+        "code": "BS-SG0010",
+        "url": "/signalization/duplex-set-up-down",
+        "image": "/img/products/signalization/duplex-set-up-down/1.jpg",
+        "slider":["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/signalization/duplex-set-up-down",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
+      
     ]
   },
   {
@@ -3108,7 +3343,37 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/ucmp-mctc-scb-a1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Step Motherboard SM.01 F5021",
+        "description": "MCTC-SCB-A1",
+        "code": "BS-PB0012",
+        "url": "/pcb-boards/step-motherboard-sm01-f5021",
+        "image": "/img/products/pcb-boards/step-motherboard-sm01-f5021/1.jpg",
+        "slider": ["1", "2", "3"],
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/step-motherboard-sm01-f5021",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "AS380 Communication Board SM.02/G",
+        "description": "MCTC-SCB-A1",
+        "code": "BS-PB0013",
+        "url": "/pcb-boards/as380-communication-board-sm02g",
+        "image": "/img/products/pcb-boards/as380-communication-board-sm02g/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/as380-communication-board-sm02g",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "PCB Power Board: Zws30-12/J PWB-655h",
+        "description": "MCTC-SCB-A1",
+        "code": "BS-PB0015",
+        "url": "/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
+        "image": "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
+      
+      
     ]
   },
   {
@@ -3210,6 +3475,15 @@
         "url": "/keys/h-key",
         "image": "/img/products/keys/h-key/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/keys/h-key",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Mitsubishi Door open Key",
+        "description": "",
+        "code": "BS-KY0008",
+        "url": "/keys/h-key",
+        "image": "/img/products/keys/mitsubishi-door-open-key/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/keys/mitsubishi-door-open-key",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
