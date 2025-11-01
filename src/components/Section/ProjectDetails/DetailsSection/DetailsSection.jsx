@@ -55,7 +55,7 @@ const DetailsSection = ({ product, category }) => {
           <div className="col-xl-8">
             <div className="services-details-page__content">
               {/* Image Slider */}
-              <div className="image-slider">
+              <div className="image-slider mb-4">
                 <section className="slider__content">
                   <button
                     type="button"
@@ -99,6 +99,10 @@ const DetailsSection = ({ product, category }) => {
                   ))}
                 </nav>
               </div>
+              <div
+                dangerouslySetInnerHTML={{ __html: product.paragraph_text }}
+                className="productContent"
+              />
             </div>
           </div>
 

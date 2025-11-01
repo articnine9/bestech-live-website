@@ -1229,6 +1229,17 @@ label {
 .text-justify {
   text-align: justify;
 }
+.productContent {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.productContent ul {
+  margin-left: 20px;
+}
+.productContent ul li {
+  list-style: disc;
+}
 .sidebar-widget-container {
   position: relative;
   top: -150px;
@@ -5909,7 +5920,6 @@ Project Details Page
   border-radius: 4px;
   margin-top: 0px;
   padding: 36px 40px 45px;
-  height: 100%;
 }
 
 .project-details__sidebar-project-info .title {

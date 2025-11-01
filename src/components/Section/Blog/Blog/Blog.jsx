@@ -77,10 +77,15 @@ const Blog = () => {
                   <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {categories.map((cat, index) => (
-                      <li key={index} className="mb-2 d-flex align-items-center gap-1">
+                      <li
+                        key={index}
+                        className="mb-2 d-flex align-items-center gap-1"
+                      >
                         <FaArrowRight className="mr-2 text-gray-500" />
                         <Link
-                          href={`/category/${cat.toLowerCase().replace(/ /g, "-")}`}
+                          href={`/category/${cat
+                            .toLowerCase()
+                            .replace(/ /g, "-")}`}
                           className="text-blue-600 hover:underline"
                         >
                           {cat}
@@ -98,7 +103,10 @@ const Blog = () => {
                   <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {data.slice(0, 5).map((post, index) => (
-                      <li key={index} className="mb-2 d-flex align-items-center gap-1">
+                      <li
+                        key={index}
+                        className="mb-2 d-flex align-items-center gap-1"
+                      >
                         <FaArrowRight className="mr-2 text-gray-500" />
                         <Link
                           href={`/blog/${post.link}`}
