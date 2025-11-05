@@ -38,7 +38,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Google Site Verification */}
+        
         <meta
           name="google-site-verification"
           content="5G_g1LOKIRxZsx5OK2FRy3fE6BTHyqjaYx6oILOgRAs"

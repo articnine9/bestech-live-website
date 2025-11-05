@@ -311,6 +311,57 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Contactor 220VAC 25A",
+        "description": "Schneider LC1D80F7C",
+        "code": "BS-CT0009",
+        "url": "/contactors/contactor-220vac-25a",
+        "image": "/img/products/contactors/contactor-220vac-25a/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-220vac-25a",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Contactor AC110V 80A",
+        "description": "Schneider LC1D80F7C",
+        "code": "BS-CT0009",
+        "url": "/contactors/contactor-ac110v-80a",
+        "image": "/img/products/contactors/contactor-ac110v-80a/1.jpg",
+        "slider": ["1", "2", "3"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-80a",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Contactor AC110V 18A",
+        "description": "Schneider LC1D18F7C",
+        "code": "BS-CT00010",
+        "url": "/contactors/contactor-ac110v-18a",
+        "image": "/img/products/contactors/contactor-ac110v-18a/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-18a",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Auxillary Contactors LADN22",
+        "description": "Schneider LC1D18F7C",
+        "code": "BS-CT00011",
+        "url": "/contactors/auxillary-contactors-ladn22",
+        "image": "/img/products/contactors/auxillary-contactors-ladn22/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/auxillary-contactors-ladn22",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Contactor AC110V 115A ",
         "description": "",
         "code": "BS-CT00012",
@@ -404,6 +455,56 @@
         "keywords": "Elevator Circuit breaker MCB 10A 2P, Buy Miniature Circuit Breaker Dubai, UAE, best quality elevator circuit breaker sharjah",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "paragraph_text": "<h1>Safe and Durable Elevator Circuit Breaker MCB 10A 2P</h1>\n<p>The <strong>Elevator Circuit Breaker MCB 10A 2P</strong> provides dependable protection for <strong>two-wire electrical circuits</strong> against <strong>overloads</strong> and <strong>short circuits</strong>. Rated at <strong>10 amps</strong>, it automatically disconnects the power when the current exceeds safe limits, safeguarding wiring and elevator control systems from potential damage.</p>\n<p>Featuring a <strong>2-pole design</strong>, this MCB ensures complete disconnection of both the <strong>phase</strong> and <strong>neutral lines</strong>, enhancing safety and reliability. It is widely used in <strong>elevator control panels</strong> and <strong>auxiliary circuits</strong>, guaranteeing stable and continuous performance in modern elevator installations.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> MCB 10A 2P</li>\n  <li><strong>Poles:</strong> 2</li>\n  <li><strong>Rated Current:</strong> 10A</li>\n  <li><strong>Function:</strong> Overcurrent Protection</li>\n  <li><strong>Application:</strong> Elevator Control Panels, Auxiliary Circuits</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Trusted Elevator Circuit Breaker Spare Parts Supplier UAE</h2>\n<p><a href=\"https://www.bestechelevatorparts.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bestech</a> is a trusted <strong>elevator circuit breaker spare parts supplier in UAE</strong>, providing reliable and durable <strong>MCB solutions</strong> built for safety and long-lasting performance. Each unit is engineered to ensure smooth and safe operation across all major <strong>elevator systems</strong>.</p>"
+      },
+      {
+        "name": "Delixi MCB 10A 2P DZ47s",
+        "description": "MCB 10A 2P DZ47s",
+        "code": "BS-CB0006",
+        "url": "/circuit-breakers/delixi-mcb-10a-2p-dz47s",
+        "image": "/img/products/circuit-breakers/delixi-mcb-10a-2p-dz47s/1.jpg",
+        "slider": ["1", "2", "3"],
+        "meta_title": "",
+        "meta_description": "",
+        "canonical": "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-10a-2p-dz47s",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Delixi MCB 10A 1P DZ47s",
+        "description": "MCB 10A 1P DZ47s",
+        "code": "BS-CB0007",
+        "url": "/circuit-breakers/delixi-mcb-10a-1p-dz47s",
+        "image": "/img/products/circuit-breakers/delixi-mcb-10a-1p-dz47s/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "canonical": "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-10a-1p-dz47s",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Delixi MCB 63A 4P DZ47s",
+        "description": "MCB 63A 4P DZ47s",
+        "code": "BS-CB0008",
+        "url": "/circuit-breakers/delixi-mcb-63a-4p-dz47s",
+        "image": "/img/products/circuit-breakers/delixi-mcb-63a-4p-dz47s/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "canonical": "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-63a-4p-dz47s",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Delixi MCB 100A 4P DZ47s",
+        "description": "MCB 100A 4P DZ47s",
+        "code": "BS-CB0009",
+        "url": "/circuit-breakers/delixi-mcb-100a-4p-dz47s",
+        "image": "/img/products/circuit-breakers/delixi-mcb-100a-4p-dz47s/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "canonical": "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-100a-4p-dz47s",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": ""
       }
     ]
   },
@@ -869,6 +970,48 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "LOP Button: UP and Down Arrow",
+        "description": "Model: Monarch",
+        "code": "BS-BT0051",
+        "url": "/buttons/lop-button-up-and-down-arrow",
+        "image": "/img/products/buttons/lop-button-up-and-down-arrow/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "COP Button - Intercom",
+        "description": "Model-monarch",
+        "code": "BS-BT0052",
+        "url": "/buttons/cop-button-intercom",
+        "image": "/img/products/buttons/cop-button-intercom/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ELEVATOR BUTTON KM51071111H06",
+        "description": "Kone: KM51071111H06",
+        "code": "BS-BT0053",
+        "url": "/buttons/elevator-button-km51071111h06",
+        "image": "/img/products/buttons/elevator-button-km51071111h06/1.jpg",
+        "slider": ["1", "2"], 
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ELEVATOR BUTTON A4J43675",
+        "description": "OTIS: A4J43675",
+        "code": "BS-BT0054",
+        "url": "/buttons/elevator-button-a4j43675",
+        "image": "/img/products/buttons/elevator-button-a4j43675/1.jpg",
+        "slider": ["1", "2"], 
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Button Empty Holder",
+        "description": "Button Empty Holder",
+        "code": "BS-BT0055",
+        "url": "/buttons/button-empty-holder",
+        "image": "/img/products/buttons/button-empty-holder/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Elevator Square Button AK07",
         "description": "Model: BST",
         "code": "BS-BT0056",
@@ -1113,6 +1256,26 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/switches/monostable-switch",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Bestech brand: Roller Switch: BS-S3-B1370",
+        "description": " Bestech: BS-S3-B1370",
+        "code": "BS-SW0017",
+        "url": "/switches/bestech-brand-roller-switch-bs-s3-b1370",
+        "image": "/img/products/switches/bestech-brand-roller-switch-bs-s3-b1370/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/switches/bestech-brand-roller-switch-bs-s3-b1370",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Bestech brand Buffer switch: BS-UKS BS-UKT",
+        "description": "Bestech: BS-UKS BS-UKT",
+        "code": "BS-SW0017",
+        "url": "/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
+        "image": "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -1277,6 +1440,119 @@
         "paragraph_text": "<h1>Efficient Elevator Alarm System for Passenger Safety</h1>\n<p>The <strong>Elevator Alarm System</strong> is a critical <strong>safety device</strong> that enables passengers trapped inside an elevator car to request assistance. Activated by a clearly marked button, the alarm system connects directly to building staff or emergency responders, ensuring a fast and coordinated response during power failures, mechanical malfunctions, or other emergencies.</p>\n<p>Modern elevator alarm systems are designed for reliability, featuring both <strong>audio and visual indicators</strong> to enhance accessibility. They comply with international elevator safety standards, including ADA and EN requirements, ensuring safe and efficient communication in all situations. Built with durable components and user-friendly design, these alarm systems are essential for maintaining elevator safety and passenger confidence.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Type:</strong> Elevator Alarm System</li>\n  <li><strong>Function:</strong> Emergency Communication for Trapped Passengers</li>\n  <li><strong>Activation:</strong> Push Button Inside Elevator Car</li>\n  <li><strong>Compliance:</strong> Meets Safety Standards for Accessibility</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Quality Elevator Electrical Spare Parts Supplier in UAE</h2>\n<p><a href=\"https://www.bestechelevatorparts.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bestech</a> is a <strong>trusted elevator electrical spare parts supplier in UAE</strong>, offering <strong>high-quality elevator alarm systems</strong> and accessories designed for <strong>reliability</strong>, <strong>durability</strong>, and <strong>compliance</strong> with international safety standards. Our products ensure quick emergency communication, improved safety, and dependable performance across all major elevator systems.</p>"
       },
       {
+        "name": "CHINT Transformer 500VA",
+        "description": "CHINT: 500VA",
+        "code": "BS-EL0012",
+        "url": "/electrical/chint-transformer-500va",
+        "image": "/img/products/electrical/chint-transformer-500va/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Alarm NKT12(1-1)B1 12V",
+        "description": "CHINT: 500VA",
+        "code": "BS-EL0013",
+        "url": "/electrical/elevator-alarm-nkt121-1b1-12v",
+        "image": "/img/products/electrical/elevator-alarm-nkt121-1b1-12v/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Switching Power Supply SMPS - MS-250-24",
+        "description": "MS-250-24",
+        "code": "BS-EL0014",
+        "url": "/electrical/switching-power-supply-smps-ms-250-24",
+        "image": "/img/products/electrical/switching-power-supply-smps-ms-250-24/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Switching Power Supply SMPS - MS-100-24",
+        "description": "MS-100-24",
+        "code": "BS-EL0015",
+        "url": "/electrical/switching-power-supply-smps-ms-100-24",
+        "image": "/img/products/electrical/switching-power-supply-smps-ms-100-24/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/switching-power-supply-smps-ms-100-24",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Remote inspection box - Grey",
+        "description": "Remote Inspection Box",
+        "code": "BS-EL0016",
+        "url": "/electrical/remote-inspection-box-grey",
+        "image": "/img/products/electrical/remote-inspection-box-grey/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/remote-inspection-box-grey",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Remote inspection box - KM713856G23",
+        "description": "KONE-KM713856G23",
+        "code": "BS-EL0017",
+        "url": "/electrical/remote-inspection-box-km713856g23",
+        "image": "/img/products/electrical/remote-inspection-box-km713856g23/1.jpg",
+        "slider":["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/remote-inspection-box-km713856g23",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Transformer TDB-630-21",
+        "description": "TDB-630-21",
+        "code": "BS-EL0018",
+        "url": "/electrical/transformer-tdb-630-21",
+        "image": "/img/products/electrical/transformer-tdb-630-21/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/transformer-tdb-630-21",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Bestech brand: cross flow Fan GYBS-FB-9B",
+        "description": "TDB-630-21",
+        "code": "BS-EL0019",
+        "url": "/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
+        "image": "/img/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b/1.jpg",
+        "slider":["1", "2", "3"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Bestech brand: Intercom full set",
+        "description": "Bestech: Intercom 3 ways",
+        "code": "BS-EL0020",
+        "url": "/electrical/bestech-brand-intercom-full-set",
+        "image": "/img/products/electrical/bestech-brand-intercom-full-set/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/bestech-brand-intercom-full-set",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Bridge Rectfier KBPC3510",
         "description": "",
         "code": "BS-EL022",
@@ -1396,6 +1672,44 @@
         "url": "/cabinet-set/braking-resistor-5500w",
         "image": "/img/products/cabinet-set/braking-resistor-5500w/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-5500w",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Empty Control Cabinet - Blue",
+        "description": "1050(H) X 600(W) X 260(D)",
+        "code": "BS-CS0010",
+        "url": "/cabinet-set/empty-control-cabinet-blue",
+        "image": "/img/products/cabinet-set/empty-control-cabinet-blue/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/empty-control-cabinet-blue",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Car top communication box - Blue",
+        "description": "Bestech Car top box - Blue",
+        "code": "BS-CS0011",
+        "url": "/cabinet-set/car-top-communication-box-blue",
+        "image": "/img/products/cabinet-set/car-top-communication-box-blue/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box-blue",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Braking resistor - Type: 5500W",
+        "description": "Bestech controller - 7.5KW",
+        "code": "BS-CS0012",
+        "url": "/cabinet-set/control-cabinet-mrl-75kw-blue",
+        "image": "/img/products/cabinet-set/control-cabinet-mrl-75kw-blue/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-75kw-blue",
+        "slider": ["1", "2", "3", "4", "5"],
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Control cabinet -MRL 11KW - Blue",
+        "description": "Bestech controller - 11KW",
+        "code": "BS-CS0013",
+        "url": "/cabinet-set/control-cabinet-mrl-11kw-blue",
+        "image": "/img/products/cabinet-set/control-cabinet-mrl-11kw-blue/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-11kw-blue",
+        "slider": ["1", "2", "3", "4", "5"],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1573,6 +1887,51 @@
         "meta_title": "Buy Elevator Battery Rivet Machine | Bestechparts Dubai, UAE",
         "meta_description": "Shop elevator battery rivet machine in Sharjah, Dubai & UAE. Reliable lift riveting tool suppliers for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp.",
         "keywords": "buy elevator battery rivet machine, elevator riveting tool suppliers, lift battery rivet tool suppliers UAE",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door wire rope - 1720/1800/1900/2000",
+        "description": " 1720/1800/1900/2000",
+        "code": "BS-ME0014",
+        "url": "/mechanical/door-wire-rope-1720-1800-1900-2000",
+        "image": "/img/poducts/mechanical/door-wire-rope-1720-1800-1900-2000/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Rope Thimble rod - 12mm",
+        "description": " Dortalu: 11mm to 13mm",
+        "code": "BS-ME0015",
+        "url": "/mechanical/rope-thimble-rod-12mm",
+        "image": "/img/poducts/mechanical/rope-thimble-rod-12mm/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Round Magnet",
+        "description": "Round Magnet",
+        "code": "BS-ME0016",
+        "url": "/mechanical/round-magnet",
+        "image": "/img/poducts/mechanical/round-magnet/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Strip Magnet 1M",
+        "description": "Strip Magnet 1M",
+        "code": "BS-ME0017",
+        "url": "/mechanical/strip-magnet-1m",
+        "image": "/img/poducts/mechanical/strip-magnet-1m/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1885,12 +2244,32 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Door lock contact: 161 (Separate T)",
+        "description": "Mitsubishi: 161 (Separate T)",
+        "code": "BS-DL0032",
+        "url": "/door-locks/door-lock-contact-161-separate-t",
+        "image": "/img/products/door-locks/door-lock-contact-161-separate-t/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161-separate-t",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Lift Door locking device - Left side",
         "description": "",
         "code": "BS-DL0033",
         "url": "/door-locks/lift-door-locking-device-left-side",
         "image": "/img/products/door-locks/lift-door-locking-device-left-side/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/door-locks/lift-door-locking-device-left-side",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Landing Door Lock Roller: G509/102121A",
+        "description": "Otis: G509/102121A Roller",
+        "code": "BS-DL0036",
+        "url": "/door-locks/landing-door-lock-roller-g509102121a",
+        "image": "/img/products/door-locks/landing-door-lock-roller-g509102121a/1.jpg",
+        "slider":["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-roller-g509102121a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -2221,6 +2600,75 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-side-open",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Levelling sensor-U Type-SH-GS3A4",
+        "description": "Shenghao: SH-GS3A4",
+        "code": "BS-SR0011",
+        "url": "/sensors/levelling-sensor-u-type-sh-gs3a4",
+        "image": "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-u-type-sh-gs3a4",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Bestech brand: Levelling sensor-U BS-HPS-3",
+        "description": "Bestech: BS-HPS-3",
+        "code": "BS-SR0012",
+        "url": "/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
+        "image": "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Bestech brand Door sensor: 2M light curtain",
+        "description": "Bestech: 2M light curtain",
+        "code": "BS-SR0013",
+        "url": "/sensors/bestech-brand-door-sensor-2m-light-curtain",
+        "image": "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-2m-light-curtain",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Bestech brand Door sensor: 1M light curtain",
+        "description": "Bestech: 1M light curtain",
+        "code": "BS-SR0014",
+        "url": "/sensors/bestech-brand-door-sensor-1m-light-curtain",
+        "image": "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-1m-light-curtain",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Inductive Proximity sensor LJ12A3-4-Z/AX",
+        "description": "LJ12A3-4-Z/AX - NO",
+        "code": "BS-SR0015",
+        "url": "/sensors/inductive-proximity-sensor-lj12a3-4-zax",
+        "image": "/img/products/sensors/binductive-proximity-sensor-lj12a3-4-zax/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zax",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Inductive Proximity sensor LJ12A3-4-Z/BY",
+        "description": "LJ12A3-4-Z/BY - NC",
+        "code": "BS-SR0016",
+        "url": "/sensors/inductive-proximity-sensor-lj12a3-4-zby",
+        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zby",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "SLJ18A-Z5NK-DZ-T",
+        "description": "Toshiba: SLJ18A-Z5NK-DZ-T",
+        "code": "BS-SR0017",
+        "url": "/sensors/slj18a-z5nk-dz-t",
+        "image": "/img/products/sensors/slj18a-z5nk-dz-t/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/slj18a-z5nk-dz-t",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -2542,6 +2990,16 @@
         "image": "/img/products/guide-shoes/general-guide-shoe-insert-140-10-16/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-insert-140-10-16",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Guide wheel: 150X32X6204",
+        "description": "Hitachi: 150X32X6204",
+        "code": "BS-GS0033",
+        "url": "/guide-shoes/guide-wheel-150x32x6204",
+        "image": "/img/products/guide-shoes/guide-wheel-150x32x6204/1.jpg",
+        "slider":["1", "2", "3"],
+        "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-wheel-150x32x6204",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -2843,6 +3301,26 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "HENGSTLER 0541419 - Rotary Encoder",
+        "description": "TKE HENGSTLER 0541419",
+        "code": "BS-EN0015",
+        "url": "/encoders/hengstler-0541419-rotary-encoder",
+        "image": "/img/products/encoders/hengstler-0541419-rotary-encoder/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/encoders/hengstler-0541419-rotary-encoder",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ENCABIT PLUS MODULE - PG CARD",
+        "description": "Arkel: ENCABIT",
+        "code": "BS-EN0016",
+        "url": "/encoders/encabit-plus-module-pg-card",
+        "image": "/img/products/encoders/encabit-plus-module-pg-card/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/encoders/encabit-plus-module-pg-card",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Encoder PG card: MCTC-PG-E6",
         "description": "ERN 1387",
         "code": "BS-EN0017",
@@ -3015,6 +3493,81 @@
         "slider": ["1", "2", "3"],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-4015-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARD 3P-7.5KW 380V (TF)",
+        "description": "ARD 3P-7.5KW 380V (TF)",
+        "code": "BS-AR0004",
+        "url": "/ard/ard-3p-75kw-380v-tf",
+        "image": "/img/products/ard/ard-3p-75kw-380v-tf/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/ard/ard-3p-75kw-380v-tf",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARD 3P-11KW 380V (TF)",
+        "description": "ARD 3P-11KW 380V (TF)",
+        "code": "BS-AR0005",
+        "url": "/ard/ard-3p-11kw-380v-tf",
+        "image": "/img/products/ard/ard-3p-11kw-380v-tf/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/ard/ard-3p-11kw-380v-tf",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARD 3P-15KW 380V (TF)",
+        "description": "ARD 3P-15KW 380V (TF)",
+        "code": "BS-AR0006",
+        "url": "/ard/ard-3p-15kw-380v-tf",
+        "image": "/img/products/ard/ard-3p-15kw-380v-tf/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/ard-3p-15kw-380v-tf",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARD Type:ARD-4015-3P",
+        "description": "ARD 3P-18KW 380V (TF)",
+        "code": "BS-AR0007",
+        "url": "/ard/ard-4015-3p",
+        "image": "/img/product-default-img.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/ard-4015-3p",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARD 3P-22KW 380V (TF)",
+        "description": "ARD 3P-22KW 380V (TF)",
+        "code": "BS-AR0008",
+        "url": "/ard/ard-3p-22kw-380v-tf",
+        "image": "/img/products/ard/ard-3p-22kw-380v-tf/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/ard-3p-22kw-380v-tf",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARD 3P-30KW 380V (TF)",
+        "description": "ARD 3P-30KW 380V (TF)",
+        "code": "BS-AR0009",
+        "url": "/ard/ard-3p-30kw-380v-tf",
+        "image": "/img/products/ard/ard-3p-30kw-380v-tf/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/ard-3p-30kw-380v-tf",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARD 3P-37KW 380V (TF)",
+        "description": "ARD 3P-37KW 380V (TF)",
+        "code": "BS-AR0010",
+        "url": "/ard/ard-3p-37kw-380v-tf",
+        "image": "/img/products/ard/ard-3p-37kw-380v-tf/1.jpg",
+        "slider": ["1", "2", "3"],
+        "canonical": "https://www.bestechparts.ae/products/ard/ard-3p-37kw-380v-tf",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARD 3P-45KW 380V (TF)",
+        "description": "Type:ARD-4015-3P",
+        "code": "ARD 3P-45KW 380V (TF)",
+        "url": "/ard/ard-3p-45kw-380v-tf",
+        "image": "/img/products/ard/ard-3p-45kw-380v-tf/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/ard-3p-45kw-380v-tf",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -3047,6 +3600,45 @@
         "image": "/img/products/door-drives/door-drive-bs-dd0002/1.jpg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0002",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door Motor with Encoder PM61842",
+        "description": "PM61842 43W",
+        "code": "BS-DD0005",
+        "url": "/door-drives/door-motor-with-encoder-pm61842",
+        "image": "/img/products/door-drives/door-motor-with-encoder-pm61842/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0002",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "KM 10S Door Controller (Box)",
+        "description": "Arkel: KM-10S",
+        "code": "BS-DD0006",
+        "url": "/door-drives/km-10s-door-controller-box",
+        "image": "/img/products/door-drives/km-10s-door-controller-box/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-drives/km-10s-door-controller-box",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Door Controller V5+",
+        "description": "Fermator: V5+",
+        "code": "BS-DD0007",
+        "url": "/door-drives/elevator-door-controller-v5",
+        "image": "/img/products/door-drives/elevator-door-controller-v5/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-drives/elevator-door-controller-v5",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Door Controller DO3000S",
+        "description": "OTIS: DO3000S",
+        "code": "BS-DD0008",
+        "url": "/door-drives/elevator-door-controller-do3000s",
+        "image": "/img/product-default-img.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-drives/elevator-door-controller-do3000s",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -3273,6 +3865,36 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/displays/indicator-display",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "COP display Horizontal - CV-CCB-D5-SX",
+        "description": "CV-CCB-D5-SX",
+        "code": "BS-DI0010",
+        "url": "/displays/cop-display-horizontal-cv-ccb-d5-sx",
+        "image": "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/displays/cop-display-horizontal-cv-ccb-d5-sx",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Vertical segment display - CILVLE CV-D5",
+        "description": "CILVLE CV-D5",
+        "code": "BS-DI0011",
+        "url": "/displays/vertical-segment-display-cilvle-cv-d5",
+        "image": "/img/products/displays/vertical-segment-display-cilvle-cv-d5/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/displays/vertical-segment-display-cilvle-cv-d5",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Display MCTC-HCB-U673",
+        "description": "Monarch: MCTC-HCB-U673",
+        "code": "BS-DI0012",
+        "url": "/displays/display-mctc-hcb-u673",
+        "image": "/img/products/displays/display-mctc-hcb-u673/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/displays/display-mctc-hcb-u673",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -3346,6 +3968,52 @@
         "image": "/img/products/pcb-boards/ucmp-mctc-scb-a1/1.jpg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/ucmp-mctc-scb-a1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ML65X (Lift Controller)",
+        "description": "ML65X",
+        "code": "BS-PB0007",
+        "url": "/pcb-boards/ml65x-lift-controller",
+        "image": "/img/products/pcb-boards/ml65x-lift-controller/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/ml65x-lift-controller",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },  
+      {
+        "name": "MLSERI65 (Serial Communication Card)",
+        "description": "MLSERI65",
+        "code": "BS-PB0008",
+        "url": "/pcb-boards/mlseri65-serial-communication-card",
+        "image": "/img/products/pcb-boards/mlseri65-serial-communication-card/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/mlseri65-serial-communication-card",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "MLKR1 (Door Bridging Card)",
+        "description": "MLKR1",
+        "code": "BS-PB0009",
+        "url": "/pcb-boards/mlkr1-door-bridging-card",
+        "image": "/img/products/pcb-boards/mlkr1-door-bridging-card/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/mlkr1-door-bridging-card",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      }, 
+      {
+        "name": "LIFT CONTROLLER SET ARL-300",
+        "description": "Arkel: ARL-300",
+        "code": "BS-PB0010",
+        "url": "/pcb-boards/lift-controller-set-arl-300",
+        "image": "/img/products/pcb-boards/lift-controller-set-arl-300/1.jpg",
+         "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/lift-controller-set-arl-300",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      }, 
+      {
+        "name": "DHG-161 Hoistway Communication Board",
+        "description": "dhg-161-hoistway-communication-board",
+        "code": "BS-PB0011",
+        "url": "/pcb-boards/dhg-161-hoistway-communication-board",
+        "image": "/img/products/pcb-boards/dhg-161-hoistway-communication-board/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/dhg-161-hoistway-communication-board",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -3474,6 +4142,24 @@
         "url": "/keys/h-key",
         "image": "/img/products/keys/h-key/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/keys/h-key",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "SJ Black Control Cabinet key",
+        "description": "Kone Control cabinet key",
+        "code": "BS-KY0006",
+        "url": "/keys/sj-black-control-cabinet-key",
+        "image": "/img/products/keys/sj-black-control-cabinet-key/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/keys/sj-black-control-cabinet-key",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Type A key",
+        "description": "Kone COP Key",
+        "code": "BS-KY0007",
+        "url": "/keys/type-a-key",
+        "image": "/img/products/keys/type-a-key/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/type-a-key/h-key",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
