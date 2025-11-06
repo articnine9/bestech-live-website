@@ -991,7 +991,7 @@
         "code": "BS-BT0053",
         "url": "/buttons/elevator-button-km51071111h06",
         "image": "/img/products/buttons/elevator-button-km51071111h06/1.jpg",
-        "slider": ["1", "2"], 
+        "slider": ["1", "2"],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1000,7 +1000,7 @@
         "code": "BS-BT0054",
         "url": "/buttons/elevator-button-a4j43675",
         "image": "/img/products/buttons/elevator-button-a4j43675/1.jpg",
-        "slider": ["1", "2"], 
+        "slider": ["1", "2"],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1508,7 +1508,7 @@
         "code": "BS-EL0017",
         "url": "/electrical/remote-inspection-box-km713856g23",
         "image": "/img/products/electrical/remote-inspection-box-km713856g23/1.jpg",
-        "slider":["1", "2"],
+        "slider": ["1", "2"],
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
@@ -1533,7 +1533,7 @@
         "code": "BS-EL0019",
         "url": "/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
         "image": "/img/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b/1.jpg",
-        "slider":["1", "2", "3"],
+        "slider": ["1", "2", "3"],
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
@@ -1894,7 +1894,7 @@
         "description": " 1720/1800/1900/2000",
         "code": "BS-ME0014",
         "url": "/mechanical/door-wire-rope-1720-1800-1900-2000",
-        "image": "/img/poducts/mechanical/door-wire-rope-1720-1800-1900-2000/1.jpg",
+        "image": "/img/products/mechanical/door-wire-rope-1720-1800-1900-2000/1.jpg",
         "slider": ["1", "2"],
         "meta_title": "",
         "meta_description": "",
@@ -1906,7 +1906,7 @@
         "description": " Dortalu: 11mm to 13mm",
         "code": "BS-ME0015",
         "url": "/mechanical/rope-thimble-rod-12mm",
-        "image": "/img/poducts/mechanical/rope-thimble-rod-12mm/1.jpg",
+        "image": "/img/products/mechanical/rope-thimble-rod-12mm/1.jpg",
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
@@ -1917,7 +1917,7 @@
         "description": "Round Magnet",
         "code": "BS-ME0016",
         "url": "/mechanical/round-magnet",
-        "image": "/img/poducts/mechanical/round-magnet/1.jpg",
+        "image": "/img/products/mechanical/round-magnet/1.jpg",
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
@@ -1928,7 +1928,7 @@
         "description": "Strip Magnet 1M",
         "code": "BS-ME0017",
         "url": "/mechanical/strip-magnet-1m",
-        "image": "/img/poducts/mechanical/strip-magnet-1m/1.jpg",
+        "image": "/img/products/mechanical/strip-magnet-1m/1.jpg",
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
@@ -2268,7 +2268,7 @@
         "code": "BS-DL0036",
         "url": "/door-locks/landing-door-lock-roller-g509102121a",
         "image": "/img/products/door-locks/landing-door-lock-roller-g509102121a/1.jpg",
-        "slider":["1", "2"],
+        "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-roller-g509102121a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
@@ -2997,7 +2997,7 @@
         "code": "BS-GS0033",
         "url": "/guide-shoes/guide-wheel-150x32x6204",
         "image": "/img/products/guide-shoes/guide-wheel-150x32x6204/1.jpg",
-        "slider":["1", "2", "3"],
+        "slider": ["1", "2", "3"],
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-wheel-150x32x6204",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
@@ -3978,7 +3978,7 @@
         "image": "/img/products/pcb-boards/ml65x-lift-controller/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/ml65x-lift-controller",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      },  
+      },
       {
         "name": "MLSERI65 (Serial Communication Card)",
         "description": "MLSERI65",
@@ -3996,17 +3996,17 @@
         "image": "/img/products/pcb-boards/mlkr1-door-bridging-card/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/mlkr1-door-bridging-card",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      }, 
+      },
       {
         "name": "LIFT CONTROLLER SET ARL-300",
         "description": "Arkel: ARL-300",
         "code": "BS-PB0010",
         "url": "/pcb-boards/lift-controller-set-arl-300",
         "image": "/img/products/pcb-boards/lift-controller-set-arl-300/1.jpg",
-         "slider": ["1", "2"],
+        "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/lift-controller-set-arl-300",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      }, 
+      },
       {
         "name": "DHG-161 Hoistway Communication Board",
         "description": "dhg-161-hoistway-communication-board",
