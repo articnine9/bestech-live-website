@@ -38,6 +38,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        
+        <meta
+          name="google-site-verification"
+          content="5G_g1LOKIRxZsx5OK2FRy3fE6BTHyqjaYx6oILOgRAs"
+        />
+
         {/* Google Tag Manager */}
         <script
           dangerouslySetInnerHTML={{

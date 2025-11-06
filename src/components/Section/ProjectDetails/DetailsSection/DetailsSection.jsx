@@ -6,9 +6,9 @@ import RelatedProduct from "@/components/Section/Common/RelatedProduct";
 
 const DetailsSection = ({ product, category }) => {
   const [currentSlideIndex, setCurrentSlideIndex] = useState(0);
-  const [preloadedImages, setPreloadedImages] = useState({});
   const [lightboxOpen, setLightboxOpen] = useState(false);
 
+  // Safely build images array
   const images =
     Array.isArray(product?.slider) && product.slider.length > 0
       ? product.slider.map((num) => {
@@ -27,15 +27,6 @@ const DetailsSection = ({ product, category }) => {
     setCurrentSlideIndex(newIndex);
   };
 
-  // useEffect(() => {
-  //   const loaded = {};
-  //   images.forEach((src) => {
-  //     loaded[src] = new Image();
-  //     loaded[src].src = src;
-  //   });
-  //   setPreloadedImages(loaded);
-  // }, [images]);
-
   useEffect(() => {
     const handleKey = (e) => {
       if (e.key === "Escape") setLightboxOpen(false);
@@ -47,6 +38,11 @@ const DetailsSection = ({ product, category }) => {
     return () => document.removeEventListener("keydown", handleKey);
   }, [currentSlideIndex]);
 
+  if (!product) {
+    // Optional: render loading or placeholder
+    return <p>Loading product details...</p>;
+  }
+
   return (
     <section className="project-details-page padding">
       <div className="container">
@@ -55,54 +51,60 @@ const DetailsSection = ({ product, category }) => {
           <div className="col-xl-8">
             <div className="services-details-page__content">
               {/* Image Slider */}
-              <div className="image-slider mb-4">
-                <section className="slider__content">
-                  <button
-                    type="button"
-                    className="slider-control--button prev-button"
-                    onClick={() => goToSlide(currentSlideIndex - 1)}
-                  >
-                    &#8592;
-                  </button>
-                  <main
-                    className="image-display"
-                    onClick={() => setLightboxOpen(true)}
-                  >
-                    <img
-                      src={images[currentSlideIndex]}
-                      alt={`Slide ${currentSlideIndex + 1}`}
-                    />
-                  </main>
-                  <button
-                    type="button"
-                    className="slider-control--button next-button"
-                    onClick={() => goToSlide(currentSlideIndex + 1)}
-                  >
-                    &#8594;
-                  </button>
-                </section>
-
-                <nav className="slider-navigation">
-                  {images.map((imgSrc, index) => (
+              {images.length > 0 && (
+                <div className="image-slider mb-4">
+                  <section className="slider__content">
                     <button
-                      key={index}
-                      className="nav-button"
-                      aria-selected={index === currentSlideIndex}
-                      onClick={() => goToSlide(index)}
+                      type="button"
+                      className="slider-control--button prev-button"
+                      onClick={() => goToSlide(currentSlideIndex - 1)}
+                    >
+                      &#8592;
+                    </button>
+                    <main
+                      className="image-display"
+                      onClick={() => setLightboxOpen(true)}
                     >
                       <img
-                        className="thumbnail"
-                        src={imgSrc}
-                        alt={`Thumbnail ${index + 1}`}
+                        src={images[currentSlideIndex]}
+                        alt={`Slide ${currentSlideIndex + 1}`}
                       />
+                    </main>
+                    <button
+                      type="button"
+                      className="slider-control--button next-button"
+                      onClick={() => goToSlide(currentSlideIndex + 1)}
+                    >
+                      &#8594;
                     </button>
-                  ))}
-                </nav>
-              </div>
-              <div
-                dangerouslySetInnerHTML={{ __html: product.paragraph_text }}
-                className="productContent"
-              />
+                  </section>
+
+                  <nav className="slider-navigation">
+                    {images.map((imgSrc, index) => (
+                      <button
+                        key={index}
+                        className="nav-button"
+                        aria-selected={index === currentSlideIndex}
+                        onClick={() => goToSlide(index)}
+                      >
+                        <img
+                          className="thumbnail"
+                          src={imgSrc}
+                          alt={`Thumbnail ${index + 1}`}
+                        />
+                      </button>
+                    ))}
+                  </nav>
+                </div>
+              )}
+
+              {/* Product Description */}
+              {product.paragraph_text && (
+                <div
+                  dangerouslySetInnerHTML={{ __html: product.paragraph_text }}
+                  className="productContent"
+                />
+              )}
             </div>
           </div>
 
@@ -113,13 +115,11 @@ const DetailsSection = ({ product, category }) => {
         </div>
 
         {/* Related Products */}
-        <div>
-          <RelatedProduct category={category} />
-        </div>
+        {category && <RelatedProduct category={category} />}
       </div>
 
       {/* Lightbox */}
-      {lightboxOpen && (
+      {lightboxOpen && images.length > 0 && (
         <div
           className="lightbox-overlay"
           onClick={() => setLightboxOpen(false)}
