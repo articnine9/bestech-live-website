@@ -105,7 +105,7 @@ const Header = () => {
                                       <span className="icon-telephone-call"></span>
                                     </div>
                                     <p>
-                                      <Link href="tel:065227299">
+                                      <Link href="tel:+97165227299">
                                         06 522 7299 — Landline
                                       </Link>
                                     </p>
@@ -115,7 +115,7 @@ const Header = () => {
                                       <span className="icon-telephone-call"></span>
                                     </div>
                                     <p>
-                                      <Link href="tel:971543093833">
+                                      <Link href="tel:+971543093833">
                                         +971 54 309 3833 — Mobile
                                       </Link>
                                     </p>

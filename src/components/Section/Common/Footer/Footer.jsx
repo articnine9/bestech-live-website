@@ -273,7 +273,7 @@ const Footer = () => {
                         <div className="content-box">
                           <p>Landline</p>
                           <p>
-                            <Link href="tel:065227299">06 522 7299</Link>
+                            <Link href="tel:+97165227299">06 522 7299</Link>
                           </p>
                         </div>
                       </li>
@@ -284,7 +284,7 @@ const Footer = () => {
                         <div className="content-box">
                           <p>Mobile</p>
                           <p>
-                            <Link href="tel:971543093833">
+                            <Link href="tel:+971543093833">
                               +971 54 309 3833
                             </Link>
                           </p>
