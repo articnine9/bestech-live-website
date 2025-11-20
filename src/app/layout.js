@@ -13,7 +13,7 @@ import "../assets/css/react-adjustment.css";
 import "../assets/css/module-css/about.css";
 import "../assets/css/module-css/footer.css";
 import "../assets/css/module-css/header.css";
-
+import FloatingButtons from "@/components/FloatingButtons";
 import Loading from "../components/Section/Common/Loading/Loading";
 import Footer from "../components/Section/Common/Footer";
 import Header from "../components/Section/Common/Header";
@@ -242,6 +242,7 @@ export default function RootLayout({ children }) {
             <Header />
             {children}
             <ChatPopup />
+            <FloatingButtons />
             <Footer />
           </>
         )}
