@@ -1,6 +1,7 @@
 import path from "path";
 import fs from "fs";
 import ProductPageClient from "./ProductPageClient";
+import { notFound } from "next/navigation";
 
 // Server-side metadata generation
 export async function generateMetadata({ params }) {
@@ -11,6 +12,7 @@ export async function generateMetadata({ params }) {
   const found = data.find((cat) => cat.slug === params.slug);
 
   if (!found) {
+    // Still OK — only metadata fallback
     return {
       title: "Product Not Found",
       description: "The product category you are looking for does not exist.",
@@ -45,13 +47,18 @@ export async function generateMetadata({ params }) {
   };
 }
 
-// Server component passes initial category to client component
+// ⬇️ Server component
 export default async function Page({ params }) {
   const filePath = path.join(process.cwd(), "src/db/products.json");
   const fileContents = await fs.promises.readFile(filePath, "utf-8");
   const data = JSON.parse(fileContents);
 
-  const initialCategory = data.find((cat) => cat.slug === params.slug) || null;
+  const initialCategory = data.find((cat) => cat.slug === params.slug);
+
+  // ❌ If not found → show custom 404 page
+  if (!initialCategory) {
+    return notFound();
+  }
 
   return <ProductPageClient initialCategory={initialCategory} />;
 }
