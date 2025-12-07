@@ -157,12 +157,12 @@ const AboutSection = () => {
                     </p>
                     <br />
                     <ul className="mv-list">
-                      {message.map((value) => {
+                      {message.map((value, index) => {
                         return (
-                          <div style={{ display: "flex" }}>
-                            <FaCheckCircle className="mv-icon" />{" "}
+                          <div key={index} style={{ display: "flex" }}>
+                            <FaCheckCircle className="mv-icon" />
                             <li>
-                              <span>{value.desc} </span>
+                              <span>{value.desc}</span>
                             </li>
                           </div>
                         );
@@ -193,16 +193,17 @@ const AboutSection = () => {
                     </p>
                     <br />
                     <ul className="mv-list">
-                      {message1.map((value) => {
+                      {message1.map((value, index) => {
                         return (
-                          <div style={{ display: "flex" }}>
-                            <FaCheckCircle className="mv-icon" />{" "}
+                          <div key={index} style={{ display: "flex" }}>
+                            <FaCheckCircle className="mv-icon" />
                             <li>
-                              <span>{value.desc1} </span>
+                              <span>{value.desc1}</span>
                             </li>
                           </div>
                         );
                       })}
+
                       {/* <li><FaCheckCircle className="mv-icon" /> We supply safe and reliable spare parts for elevators that follow standard quality rules.</li>
                       <li><FaCheckCircle className="mv-icon" /> We keep a wide range of items ready so customers receive fast delivery across the UAE.</li>
                       <li><FaCheckCircle className="mv-icon" /> We guide service teams with clear product knowledge that helps them choose the right part.</li>
