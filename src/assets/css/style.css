@@ -6519,3 +6519,87 @@ Project Two Project Details
   font-family: var(--thm-heading-font);
   text-decoration: none;
 }
+.mv-wrapper {
+  display: flex;
+  gap: 30px;
+  margin-top: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.mv-card {
+  position: relative;
+  flex: 1 1 420px;
+  max-width: 100%;
+  background: #fff;
+  border-radius: 4px;
+  padding: 30px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+  overflow: hidden;
+  display: flex;
+  gap: 25px;
+
+  /* Static visible top border */
+  border-top: 4px solid #004a8f; 
+}
+
+/* Bottom and Right borders */
+.mv-card::before,
+.mv-card .border-right {
+  content: "";
+  position: absolute;
+  background: #004a8f;
+  transition: transform 0.5s ease;
+  z-index: 10;
+}
+
+/* Bottom border animation (right → left) */
+.mv-card::before {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  transform: translateX(100%); 
+}
+
+/* Right border animation (top → bottom) */
+.mv-card .border-right {
+  top: 0;
+  right: 0;
+  width: 4px;
+  height: 100%;
+  transform: translateY(-100%);
+}
+
+/* Trigger animation on hover */
+.mv-card:hover::before {
+  transform: translateX(0);
+}
+
+.mv-card:hover .border-right {
+  transform: translateY(0);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .mv-wrapper {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .mv-card {
+    max-width: 100%;
+  }
+}
+
+
+.mv-list li {
+  
+  margin-bottom: 15px;
+}
+
+.mv-icon {
+  color: #004a8f;     
+  font-size: 18px;
+  margin-top: 4px;
+  margin-right: 15px;
+}
