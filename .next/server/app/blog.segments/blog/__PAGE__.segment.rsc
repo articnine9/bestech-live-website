@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/739fc523504fc530.js","/_next/static/chunks/d4554e7916c14e59.js","/_next/static/chunks/fb7ed91ab305ba8a.js","/_next/static/chunks/1d5c89a5aa7d3b67.js"],""]
+3:I[33714,["/_next/static/chunks/739fc523504fc530.js","/_next/static/chunks/d4554e7916c14e59.js","/_next/static/chunks/fb7ed91ab305ba8a.js","/_next/static/chunks/1d5c89a5aa7d3b67.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"UzdrxJQs8mC2mQUvHKmgO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"body-dark-bg","children":["$","div",null,{"className":"fix","children":[["$","section",null,{"className":"page-header padding","children":[["$","div",null,{"className":"page-header__bg","style":{"backgroundImage":"url(/img/home/faq/2.jpg)"}}],["$","div",null,{"className":"container","children":["$","div",null,{"className":"page-header__inner text-center","children":[["$","h1",null,{"children":"Blog"}],["$","ul",null,{"className":"thm-breadcrumb","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/","children":"Home"}]}],["$","li",null,{"children":["$","span",null,{"className":"icon-right-arrow-5"}]}],["$","li",null,{"children":["Blog"," ",""]}]]}]]}]}]]}],["$","$L3",null,{}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/1d5c89a5aa7d3b67.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

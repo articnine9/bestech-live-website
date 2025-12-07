@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/middleware.js"],"sourcesContent":["import { NextResponse } from \"next/server\";\r\n\r\nexport function middleware(req) {\r\n  const url = req.nextUrl.clone();\r\n  const host = req.headers.get(\"host\");\r\n\r\n  // Redirect to www + HTTPS in one step\r\n  if (host === \"bestechparts.ae\" || req.nextUrl.protocol === \"http:\") {\r\n    url.protocol = \"https:\";\r\n    url.hostname = \"www.bestechparts.ae\";\r\n    return NextResponse.redirect(url, 301);\r\n  }\r\n\r\n  return NextResponse.next();\r\n}\r\n\r\nexport const config = {\r\n  matcher: \"/:path*\", // run on all routes\r\n};\r\n"],"names":[],"mappings":";;;;;;AAAA;AAAA;;AAEO,SAAS,WAAW,GAAG;IAC5B,MAAM,MAAM,IAAI,OAAO,CAAC,KAAK;IAC7B,MAAM,OAAO,IAAI,OAAO,CAAC,GAAG,CAAC;IAE7B,sCAAsC;IACtC,IAAI,SAAS,qBAAqB,IAAI,OAAO,CAAC,QAAQ,KAAK,SAAS;QAClE,IAAI,QAAQ,GAAG;QACf,IAAI,QAAQ,GAAG;QACf,OAAO,gMAAY,CAAC,QAAQ,CAAC,KAAK;IACpC;IAEA,OAAO,gMAAY,CAAC,IAAI;AAC1B;AAEO,MAAM,SAAS;IACpB,SAAS;AACX"}}]
+}

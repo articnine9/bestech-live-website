@@ -1,0 +1,3 @@
+{
+  "/api/sendContact": "pages/api/sendContact.js"
+}

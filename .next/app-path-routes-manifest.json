@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/blog/[url]/page": "/blog/[url]",
+  "/blog/page": "/blog",
+  "/brands/[slug]/page": "/brands/[slug]",
+  "/category/[category]/page": "/category/[category]",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/products/[slug]/[productSlug]/page": "/products/[slug]/[productSlug]",
+  "/products/[slug]/page": "/products/[slug]",
+  "/sitemap.xml/route": "/sitemap.xml"
+}

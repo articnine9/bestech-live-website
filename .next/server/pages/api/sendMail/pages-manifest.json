@@ -1,0 +1,3 @@
+{
+  "/api/sendMail": "pages/api/sendMail.js"
+}

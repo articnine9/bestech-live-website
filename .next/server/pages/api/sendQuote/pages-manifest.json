@@ -1,0 +1,3 @@
+{
+  "/api/sendQuote": "pages/api/sendQuote.js"
+}
