@@ -1,18 +1,27 @@
 import path from "path";
 import fs from "fs";
-import ProductPageClient from "./ProductPageClient";
 import { notFound } from "next/navigation";
+import ProductPageClient from "./ProductPageClient";
 
-// Server-side metadata generation
-export async function generateMetadata({ params }) {
+// ✅ Server-side metadata generation (Next.js 16 SAFE)
+export async function generateMetadata(props) {
+  const params = await props.params;
+  const slug = params?.slug;
+
+  if (!slug) {
+    return {
+      title: "Product Not Found",
+      robots: "noindex, nofollow",
+    };
+  }
+
   const filePath = path.join(process.cwd(), "src/db/products.json");
   const fileContents = await fs.promises.readFile(filePath, "utf-8");
   const data = JSON.parse(fileContents);
 
-  const found = data.find((cat) => cat.slug === params.slug);
+  const found = data.find((cat) => cat.slug === slug);
 
   if (!found) {
-    // Still OK — only metadata fallback
     return {
       title: "Product Not Found",
       description: "The product category you are looking for does not exist.",
@@ -47,13 +56,21 @@ export async function generateMetadata({ params }) {
   };
 }
 
-// ⬇️ Server component
-export default async function Page({ params }) {
+// ✅ Server Component Page (Next.js 16 SAFE)
+export default async function Page(props) {
+  const params = await props.params;
+  const slug = params?.slug;
+
+  // ✅ If routing ever breaks, fail safely
+  if (!slug) {
+    return notFound();
+  }
+
   const filePath = path.join(process.cwd(), "src/db/products.json");
   const fileContents = await fs.promises.readFile(filePath, "utf-8");
   const data = JSON.parse(fileContents);
 
-  const initialCategory = data.find((cat) => cat.slug === params.slug);
+  const initialCategory = data.find((cat) => cat.slug === slug);
 
   // ❌ If not found → show custom 404 page
   if (!initialCategory) {

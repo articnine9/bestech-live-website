@@ -2,11 +2,22 @@ import fs from "fs";
 import path from "path";
 import BlogContent from "./BlogContent";
 
-export async function generateMetadata({ params }) {
-  const { url: slug } = params;
+// ✅ Next.js 16 SAFE metadata
+export async function generateMetadata(props) {
+  const params = await props.params; // ✅ REQUIRED in Next 16
+  const slug = params?.url;
+
+  if (!slug) {
+    return {
+      title: "Blog Not Found",
+      description: "Invalid blog URL.",
+      alternates: { canonical: "https://www.bestechparts.ae/blog" },
+      robots: "noindex, nofollow",
+    };
+  }
 
   const filePath = path.join(process.cwd(), "src", "db", "blogsData.json");
-  const fileContents = fs.readFileSync(filePath, "utf-8");
+  const fileContents = await fs.promises.readFile(filePath, "utf-8");
   const blogs = JSON.parse(fileContents);
 
   const blog = blogs.find((item) => item.link === slug);
@@ -24,7 +35,7 @@ export async function generateMetadata({ params }) {
     title: blog.meta_title || blog.title,
     description:
       blog.meta_description || `Read more about ${blog.title} on our blog.`,
-    keywords: blog.keywords,
+    keywords: blog.keywords || "",
     alternates: {
       canonical: blog.canonical || `https://www.bestechparts.ae/blog/${slug}`,
     },
@@ -32,7 +43,14 @@ export async function generateMetadata({ params }) {
   };
 }
 
-// Server component renders the client blog content
-export default function Page({ params }) {
-  return <BlogContent slug={params.url} />;
+// ✅ Next.js 16 SAFE Server Component
+export default async function Page(props) {
+  const params = await props.params; // ✅ REQUIRED in Next 16
+  const slug = params?.url;
+
+  if (!slug) {
+    return <p className="text-center">Invalid blog URL</p>;
+  }
+
+  return <BlogContent slug={slug} />;
 }

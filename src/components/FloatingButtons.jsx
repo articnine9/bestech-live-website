@@ -6,7 +6,7 @@ export default function FloatingButtons() {
   return (
     <div className={styles.floatingContainer}>
       {/* Phone Call - Landline */}
-      <a href="tel:+97165227299" className={styles.floatingButton}>
+      <a href="tel:+971543093833" className={styles.floatingButton}>
         <FaPhoneAlt size={20} />
       </a>
 
