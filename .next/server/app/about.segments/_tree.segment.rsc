@@ -1,9 +1,0 @@
-:HL["/_next/static/chunks/5d2cd677b02ce0f3.css","style"]
-:HL["/_next/static/chunks/ac7d080e051f44c4.css","style"]
-:HL["/_next/static/chunks/9f8d93ff7b81ebc7.css","style"]
-:HL["/_next/static/chunks/39042b5b9e6be2e2.css","style"]
-:HL["/_next/static/chunks/cdceb401fc0557ef.css","style"]
-:HL["/img/shape/error-page-shape1.png","image"]
-:HL["/img/shape/error-page-shape2.png","image"]
-:HL["/img/icon/title-marker-4.png","image"]
-0:{"buildId":"UzdrxJQs8mC2mQUvHKmgO","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"about","paramType":null,"paramKey":"about","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

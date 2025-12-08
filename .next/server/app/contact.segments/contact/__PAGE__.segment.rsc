@@ -1,8 +1,0 @@
-1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/739fc523504fc530.js","/_next/static/chunks/d4554e7916c14e59.js","/_next/static/chunks/fb7ed91ab305ba8a.js","/_next/static/chunks/6c33b94bd3984366.js"],""]
-3:I[6015,["/_next/static/chunks/739fc523504fc530.js","/_next/static/chunks/d4554e7916c14e59.js","/_next/static/chunks/fb7ed91ab305ba8a.js","/_next/static/chunks/6c33b94bd3984366.js"],"default"]
-4:I[72758,["/_next/static/chunks/739fc523504fc530.js","/_next/static/chunks/d4554e7916c14e59.js","/_next/static/chunks/fb7ed91ab305ba8a.js","/_next/static/chunks/6c33b94bd3984366.js"],"default"]
-5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
-6:"$Sreact.suspense"
-0:{"buildId":"UzdrxJQs8mC2mQUvHKmgO","rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"page-header padding","children":[["$","div",null,{"className":"page-header__bg","style":{"backgroundImage":"url(/img/home/faq/2.jpg)"}}],["$","div",null,{"className":"container","children":["$","div",null,{"className":"page-header__inner text-center","children":[["$","h1",null,{"children":"Contact Us"}],["$","ul",null,{"className":"thm-breadcrumb","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/","children":"Home"}]}],["$","li",null,{"children":["$","span",null,{"className":"icon-right-arrow-5"}]}],["$","li",null,{"children":["Contact Us"," ",""]}]]}]]}]}]]}],["$","$L3",null,{}],["$","$L4",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/6c33b94bd3984366.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
-7:null
