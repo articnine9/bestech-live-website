@@ -1,75 +1,73 @@
 "use client";
 
-import BrandCardFour from "@/components/Ui/Cards/BrandCardFour";
+import Link from "next/link";
 import CategoriesCard from "~/components/Ui/Cards/CategoriesCard";
+
 const menuData = {
   categories: [
-    {
-      name: "Hyundai Parts",
-      slug: "hyundai",
-      code: "HY",
-    },
-    {
-      name: "KONE Parts",
-      slug: "kone",
-      code: "KN",
-    },
-    {
-      name: "Mitsubishi Parts",
-      slug: "mitsubishi",
-      code: "MI",
-    },
-    {
-      name: "Otis Parts",
-      slug: "otis",
-      code: "OT",
-    },
-    {
-      name: "Schindler Parts",
-      slug: "schindler",
-      code: "SH",
-    },
-    {
-      name: "Thyssenkrupp Parts",
-      slug: "thyssenkrupp",
-      code: "TK",
-    },
-    // {
-    //   name: "STEP Parts",
-    //   slug: "step",
-    //   code: "ST",
-    // },
-    // {
-    //   name: "Monarch Parts",
-    //   slug: "monarch",
-    //   code: "MO",
-    // },
+    { name: "Hyundai Parts", slug: "hyundai", code: "HY" },
+    { name: "KONE Parts", slug: "kone", code: "KN" },
+    { name: "Mitsubishi Parts", slug: "mitsubishi", code: "MI" },
+    { name: "Otis Parts", slug: "otis", code: "OT" },
+    { name: "Schindler Parts", slug: "schindler", code: "SH" },
+    { name: "Thyssenkrupp Parts", slug: "thyssenkrupp", code: "TK" },
   ],
 };
+
 const Brand = ({ category }) => {
-  const { slug, page_name, code, items = [] } = category;
+  const { slug, groups = [] } = category;
+
   return (
-    <section
-      className="blog-two blog-two--three blog-two--three--blog padding"
-      id="blog-cta"
-    >
+    <section className="blog-two blog-two--three padding">
       <section className="container">
-        <div className="alert alert-warning" role="alert">
+        <div className="alert alert-warning">
           <strong>Note:</strong> This is a general reference list of popular
-          spare parts and part numbers used globally across major elevator
-          brands. We are not affiliated with the listed manufacturers and all
-          items and part numbers are used solely for cross-reference and
-          informational purposes.
+          spare parts used globally across major elevator brands.
         </div>
       </section>
+
       <div className="container">
         <div className="row">
+          {/* ✅ LEFT SIDEBAR */}
           <div className="col-xl-3">
             <CategoriesCard menuName={menuData} parentLink={"brands"} />
           </div>
 
+          {/* ✅ RIGHT CONTENT: ONLY PARENT GROUPS WITH IMAGE */}
           <div className="col-xl-9">
-            <BrandCardFour items={items} productcode={code} />
+            <div className="row">
+              {groups.map((group, index) => {
+                const groupSlug = group.group_name
+                  .toLowerCase()
+                  .replace(/\s+/g, "-");
+
+                return (
+                  <div key={index} className="col-md-6 col-lg-4 mb-4">
+                    <Link
+                      href={`/brands/${slug}/${groupSlug}`}
+                      className="card shadow-sm h-100 text-decoration-none"
+                    >
+                      {/* ✅ IMAGE */}
+                      <img
+                        src={group.image || "/img/product-default-img.jpg"}
+                        alt={group.group_name}
+                        className="card-img-top"
+                        style={{ height: "180px", objectFit: "cover" }}
+                      />
+
+                      <div className="card-body text-center">
+                        <h5 className="fw-bold text-dark">
+                          {group.group_name}
+                        </h5>
+                        <p className="text-muted mb-0">
+                          {group.items?.length || 0} Products
+                        </p>
+                      </div>
+                    </Link>
+                  </div>
+                );
+              })}
+            </div>
           </div>
         </div>
       </div>

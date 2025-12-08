@@ -1,12 +1,12 @@
 import Brand from "~/components/Section/Common/Brand/brand";
-import CtaThree from "~/components/Section/Common/Cta/CtaThree";
 import data from "~/db/brands.json";
 import PageHeader from "~/components/Section/Common/PageHeader";
+import { notFound } from "next/navigation";
 
-// ✅ Next.js 16 SAFE generateMetadata
+// ✅ ✅ ✅ FIXED: AWAIT params (NO destructuring directly)
 export async function generateMetadata(props) {
-  const params = await props.params; // ✅ REQUIRED in Next 16
-  const { slug } = params || {};
+  const params = await props.params; // ✅ REQUIRED
+  const slug = params?.slug;
 
   if (!slug) {
     return {
@@ -16,7 +16,7 @@ export async function generateMetadata(props) {
     };
   }
 
-  const matchedCategory = data.find((category) => category.slug === slug);
+  const matchedCategory = data.find((item) => item.slug === slug);
 
   if (!matchedCategory) {
     return {
@@ -33,7 +33,8 @@ export async function generateMetadata(props) {
     keywords: matchedCategory.keywords || "",
     alternates: {
       canonical:
-        matchedCategory.canonical || `https://www.bestechparts.ae/${slug}`,
+        matchedCategory.canonical ||
+        `https://www.bestechparts.ae/brands/${slug}`,
     },
     robots:
       matchedCategory.robots ||
@@ -41,29 +42,22 @@ export async function generateMetadata(props) {
   };
 }
 
-// ✅ Next.js 16 SAFE App Router page
+// ✅ ✅ ✅ FIXED PAGE — params is awaited properly
 export default async function Page(props) {
-  const params = await props.params; // ✅ REQUIRED in Next 16
-  const { slug } = params || {};
+  const params = await props.params; // ✅ REQUIRED
+  const slug = params?.slug;
 
-  if (!slug) {
-    return <p className="text-center">No products found (invalid URL)</p>;
-  }
+  if (!slug) return notFound();
 
-  const matchedCategory = data.find((category) => category.slug === slug);
+  const matchedCategory = data.find((item) => item.slug === slug);
 
-  if (!matchedCategory) {
-    return (
-      <p className="text-center">No products found for &quot;{slug}&quot;</p>
-    );
-  }
+  if (!matchedCategory) return notFound();
 
   return (
     <div className="body-dark-bg">
       <div className="fix">
         <PageHeader title={matchedCategory.page_name} />
         <Brand category={matchedCategory} />
-        {/* 🔽 Bootstrap 5 Styled Note Section */}
       </div>
     </div>
   );
