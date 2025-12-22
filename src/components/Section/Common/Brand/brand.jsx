@@ -28,26 +28,21 @@ const Brand = ({ category }) => {
 
       <div className="container">
         <div className="row">
-          {/* ✅ LEFT SIDEBAR */}
           <div className="col-xl-3">
             <CategoriesCard menuName={menuData} parentLink={"brands"} />
           </div>
 
-          {/* ✅ RIGHT CONTENT: ONLY PARENT GROUPS WITH IMAGE */}
           <div className="col-xl-9">
             <div className="row">
               {groups.map((group, index) => {
-                const groupSlug = group.group_name
-                  .toLowerCase()
-                  .replace(/\s+/g, "-");
-
+                const groupSlug = group.slug.toLowerCase().replace(/\s+/g, "-");
+                console.log(`sd ${groupSlug}`);
                 return (
                   <div key={index} className="col-md-6 col-lg-4 mb-4">
                     <Link
-                      href={`/brands/${slug}/${groupSlug}`}
+                      href={`/brands/${slug}/${group.slug}`}
                       className="card shadow-sm h-100 text-decoration-none"
                     >
-                      {/* ✅ IMAGE */}
                       <img
                         src={group.image || "/img/product-default-img.jpg"}
                         alt={group.group_name}
