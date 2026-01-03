@@ -50,14 +50,21 @@
         "items": [{ "name": "Door Slider - 96 X 42 X 11", "code": "HYDS01" }]
       },
       {
-        "group_name": "Door Lock & Triangle Lock",
-        "slug": "door-lock-triangle-lock",
+        "group_name": "Door Lock",
+        "slug": "door-lock",
         "items": [
           { "name": "Door Lock - GLKS-M34", "code": "HYLO01" },
-          { "name": "Triangle Lock", "code": "HYLO02" },
-          { "name": "Triangle Lock", "code": "HYLO03" },
+
           { "name": "Door Lock", "code": "HYLO04" },
           { "name": "Door Lock", "code": "HYLO05" }
+        ]
+      },
+      {
+        "group_name": "Triangle Lock",
+        "slug": "triangle-lock",
+        "items": [
+          { "name": "Triangle Lock", "code": "HYLO02" },
+          { "name": "Triangle Lock", "code": "HYLO03" }
         ]
       },
       {
