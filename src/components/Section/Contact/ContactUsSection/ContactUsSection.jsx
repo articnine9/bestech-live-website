@@ -77,14 +77,12 @@ const ContactUsSection = () => {
                     <span className="icon-telephone-call"></span>
                   </div>
 
-                  <div className="text-box">
-                    <h2>
-                      <Link href="tel:+97165227299">06 522 7299 (Landline)</Link>
-                      <br />
-                      <Link href="tel:+971543093833">
-                        +971 54 309 3833 (Mobile)
-                      </Link>
-                    </h2>
+                  <div className="text-box contact-no">
+                    <Link href="tel:+97165227299">06 522 7299 (Landline)</Link>
+                    <br />
+                    <Link href="tel:+971543093833">
+                      +971 54 309 3833 (Mobile)
+                    </Link>
                   </div>
                 </li>
 
@@ -94,10 +92,8 @@ const ContactUsSection = () => {
                   </div>
 
                   <div className="text-box">
-                    <h2>
-                      Shops 2-3-4, Building 1080, Fire Station Road, Muwaileh,
-                      Near to Muwaileh bus station, Sharjah, UAE.
-                    </h2>
+                    Shops 2-3-4, Building 1080, Fire Station Road, Muwaileh,
+                    Near to Muwaileh bus station, Sharjah, UAE.
                   </div>
                 </li>
 
@@ -107,11 +103,9 @@ const ContactUsSection = () => {
                   </div>
 
                   <div className="text-box">
-                    <h2>
-                      <Link href="mailto:sales@bestechparts.ae">
-                        sales@bestechparts.ae
-                      </Link>
-                    </h2>
+                    <Link href="mailto:sales@bestechparts.ae">
+                      sales@bestechparts.ae
+                    </Link>
                   </div>
                 </li>
 
@@ -121,10 +115,8 @@ const ContactUsSection = () => {
                   </div>
 
                   <div className="text-box">
-                    <h2>
-                      Monday - Saturday <br />
-                      08am : 06pm
-                    </h2>
+                    Monday - Saturday <br />
+                    08am : 06pm
                   </div>
                 </li>
               </ul>

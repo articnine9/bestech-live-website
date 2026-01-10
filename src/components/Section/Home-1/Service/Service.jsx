@@ -15,9 +15,9 @@ const RelatedProduct = () => {
         <div className="service-one__top">
           <div className="sec-title">
             <div className="sub-title">
-              <h5>
+              <div>
                 <span className="icon-right-arrow-1"></span> Our Product Range
-              </h5>
+              </div>
             </div>
             <h2>Explore Elevator Products by Category</h2>
           </div>

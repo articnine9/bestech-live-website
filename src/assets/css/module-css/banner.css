@@ -186,7 +186,7 @@
   letter-spacing: 0px;
 }
 
-.main-slider-one__content h2 {
+.main-slider-one__content .hero-title {
   color: var(--thm-white);
   font-size: 90px;
   line-height: 1em;
@@ -199,7 +199,7 @@
   transform: translateY(80px);
 }
 
-.main-slider .swiper-slide-active .main-slider-one__content h2 {
+.main-slider .swiper-slide-active .main-slider-one__content .hero-title {
   opacity: 1;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -207,7 +207,7 @@
   transition-delay: 1300ms;
 }
 
-.main-slider-one__content h2 span {
+.main-slider-one__content .hero-title span {
   color: var(--thm-primary);
 }
 

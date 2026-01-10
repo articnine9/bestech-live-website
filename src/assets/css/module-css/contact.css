@@ -97,6 +97,7 @@ Contact One Css
   display: block;
   margin-left: 20px;
   width: 100%;
+  color: black;
 }
 
 .contact-page__contact-info ul li .text-box p {
@@ -107,17 +108,17 @@ Contact One Css
   margin-bottom: 7px;
 }
 
-.contact-page__contact-info ul li .text-box h2 {
+.contact-page__contact-info ul li .text-box {
   font-size: 24px;
   line-height: 34px;
   font-weight: 500;
 }
 
-.contact-page__contact-info ul li .text-box h2 a {
+.contact-page__contact-info ul li .text-box a {
   color: var(--thm-black);
 }
 
-.contact-page__contact-info ul li .text-box h2 a::before {
+.contact-page__contact-info ul li .text-box a::before {
   content: "";
   position: absolute;
   left: 0;
@@ -128,7 +129,7 @@ Contact One Css
   transition: all 500ms ease;
 }
 
-.contact-page__contact-info ul li .text-box h2 a:hover::before {
+.contact-page__contact-info ul li .text-box a:hover::before {
   width: 100%;
 }
 

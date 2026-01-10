@@ -19,9 +19,9 @@ const Faq = () => {
             <div className="faq-one__faq">
               <div className="sec-title">
                 <div className="sub-title">
-                  <h5>
+                  <div>
                     <span className="icon-right-arrow-1"></span> FAQ ?
-                  </h5>
+                  </div>
                 </div>
                 <h2>Question & Answer</h2>
               </div>
@@ -32,10 +32,10 @@ const Faq = () => {
               >
                 <Accordion.Item eventKey="0">
                   <Accordion.Header>
-                    <h2>
+                    <div className="accordion-title">
                       <span>01.</span> Can I customize elevator components to
                       fit my requirements?
-                    </h2>
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <span>Answer:</span>
@@ -49,10 +49,10 @@ const Faq = () => {
 
                 <Accordion.Item eventKey="1">
                   <Accordion.Header>
-                    <h2>
+                    <div className="accordion-title">
                       <span>02.</span> Do your products comply with safety and
                       industry standards?
-                    </h2>
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <span>Answer:</span>
@@ -66,9 +66,9 @@ const Faq = () => {
 
                 <Accordion.Item eventKey="2">
                   <Accordion.Header>
-                    <h2>
+                    <div className="accordion-title">
                       <span>03.</span> How can I track the status of my order?
-                    </h2>
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <span>Answer:</span>
@@ -82,10 +82,10 @@ const Faq = () => {
 
                 <Accordion.Item eventKey="3">
                   <Accordion.Header>
-                    <h2>
+                    <div className="accordion-title">
                       <span>04.</span> Do you provide technical support or
                       installation guidance?
-                    </h2>
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <span>Answer:</span>

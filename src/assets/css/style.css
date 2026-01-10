@@ -171,7 +171,16 @@ h6 {
   font-weight: var(--thm-heading-font-weight);
   text-transform: inherit;
 }
-
+.hero-title {
+  font-family: var(--thm-heading-font);
+  color: var(--thm-heading-font-color);
+  margin-top: 0px;
+  margin-bottom: 0;
+  font-style: normal;
+  line-height: 1.2em;
+  font-weight: var(--thm-heading-font-weight);
+  text-transform: inherit;
+}
 h1 a,
 h2 a,
 h3 a,
@@ -287,6 +296,7 @@ h6 {
   position: relative;
   display: block;
   margin-bottom: 15px;
+  color: #000;
 }
 
 .sec-title .sub-title h5 {
@@ -307,7 +317,8 @@ h6 {
   padding-right: 2px;
 }
 
-.sec-title h2 {
+.sec-title h2,
+.sec-title h3 {
   color: var(--thm-heading-font-color);
   font-size: 40px;
   line-height: 1.2em;
@@ -1745,7 +1756,9 @@ label {
 .faq-one__faq .sec-title h2 {
   color: var(--thm-white);
 }
-
+.faq-one__faq .sub-title {
+  color: var(--thm-white);
+}
 .faq-one__accrodion {
   position: relative;
   display: block;
@@ -6534,13 +6547,13 @@ Project Two Project Details
   background: #fff;
   border-radius: 4px;
   padding: 30px;
-  box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   display: flex;
   gap: 25px;
 
   /* Static visible top border */
-  border-top: 4px solid #004a8f; 
+  border-top: 4px solid #004a8f;
 }
 
 /* Bottom and Right borders */
@@ -6559,7 +6572,7 @@ Project Two Project Details
   left: 0;
   width: 100%;
   height: 4px;
-  transform: translateX(100%); 
+  transform: translateX(100%);
 }
 
 /* Right border animation (top → bottom) */
@@ -6591,15 +6604,22 @@ Project Two Project Details
   }
 }
 
-
 .mv-list li {
-  
   margin-bottom: 15px;
 }
 
 .mv-icon {
-  color: #004a8f;     
+  color: #004a8f;
   font-size: 18px;
   margin-top: 4px;
   margin-right: 15px;
+}
+.service-one__top .sec-title {
+  display: flex;
+  gap: 10px;
+  color: var(--thm-heading-font-color);
+  text-transform: capitalize;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.2em;
 }

@@ -15,11 +15,11 @@ const Service = ({ category }) => {
         <div className="service-one__top">
           <div className="sec-title">
             <div className="sub-title">
-              <h5>
+              <div>
                 <span className="icon-right-arrow-1"></span>
-              </h5>
+              </div>
             </div>
-            <h2>Related Product</h2>
+            <div className="section-title-text">Related Product</div>
           </div>
 
           {/* <div className="btn-box">

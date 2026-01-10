@@ -174,7 +174,7 @@ const Header = () => {
                                 <li>
                                   <Link href="/about">About</Link>
                                 </li>
-                              
+
                                 <li className="dropdown menu-item-has-children position-static">
                                   <Link
                                     href="#"
@@ -196,9 +196,9 @@ const Header = () => {
                                         {/* Category 1 - Electrical Components */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <h5 className="mega-menu-title">
+                                            <div className="mega-menu-title">
                                               Electrical Components
-                                            </h5>
+                                            </div>
                                             <ul className="mega-menu-list">
                                               <li>
                                                 <Link href="/products/electrical">
@@ -237,9 +237,9 @@ const Header = () => {
                                         {/* Category 2 - Door Systems */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <h5 className="mega-menu-title">
+                                            <div className="mega-menu-title">
                                               Door Systems
-                                            </h5>
+                                            </div>
                                             <ul className="mega-menu-list">
                                               <li>
                                                 <Link href="/products/door-locks">
@@ -273,9 +273,9 @@ const Header = () => {
                                         {/* Category 3 - Control Systems */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <h5 className="mega-menu-title">
+                                            <div className="mega-menu-title">
                                               Control Systems
-                                            </h5>
+                                            </div>
                                             <ul className="mega-menu-list">
                                               <li>
                                                 <Link href="/products/buttons">
@@ -309,9 +309,9 @@ const Header = () => {
                                         {/* Category 4 - Other Components */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <h5 className="mega-menu-title">
+                                            <div className="mega-menu-title">
                                               Other Components
-                                            </h5>
+                                            </div>
                                             <ul className="mega-menu-list">
                                               <li>
                                                 <Link href="/products/encoders">
@@ -407,7 +407,7 @@ const Header = () => {
                                     </li>
                                   </ul>
                                 </li>
-                                  <li>
+                                <li>
                                   <Link href="/blog">Blog</Link>
                                 </li>
                                 <li>
@@ -772,9 +772,11 @@ const Header = () => {
                           ></span>
                         </div>
                       </li>
-                        <li>
-                                  <Link href="/blog" onClick={mobileMenuClose}>Blog</Link>
-                                </li>
+                      <li>
+                        <Link href="/blog" onClick={mobileMenuClose}>
+                          Blog
+                        </Link>
+                      </li>
                       <li>
                         <Link href="/contact" onClick={mobileMenuClose}>
                           Contact Us

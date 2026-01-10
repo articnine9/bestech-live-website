@@ -1363,6 +1363,9 @@ Sidebar Css
 .blog-standard-page__single-content ul li {
   list-style: circle;
 }
+.blog-standard-page__single-content ol li {
+  list-style: decimal;
+}
 .blog-standard-page__single-content .meta-box {
   position: relative;
   display: flex;
@@ -1928,4 +1931,10 @@ Sidebar Css
 .blog-details__form .contact-page__form textarea {
   height: 150px;
   margin-bottom: 11px;
+}
+.sidebar h2 {
+  font-size: 1.25rem;
+}
+.blog-share h2 {
+  font-size: 1.25rem;
 }

@@ -131,7 +131,7 @@ const ProjectInfoCard = ({ product, category }) => {
 
         <div className="project-details__sidebar-contact mt-5">
           <form onSubmit={handleSubmit}>
-            <h5 className="mb-3">| Product Message</h5>
+            <h2 className="mb-3">| Product Message</h2>
             <p className="mb-4">
               Get in touch with our team in a timely manner and be happy You
               offer help

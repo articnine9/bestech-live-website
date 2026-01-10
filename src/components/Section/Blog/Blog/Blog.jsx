@@ -56,9 +56,9 @@ const Blog = () => {
               <aside className="sidebar">
                 {/* Search Box */}
                 <div className="card mb-4 p-3 shadow-sm">
-                  <h5 className="card-title mb-2 d-flex align-items-center gap-1">
+                  <h2 className="card-title mb-2 d-flex align-items-center gap-1">
                     <FaSearch className="text-blue-600" /> Search
-                  </h5>
+                  </h2>
                   <hr className="my-2 border-gray-300" />
                   <input
                     type="text"
@@ -71,9 +71,9 @@ const Blog = () => {
 
                 {/* Categories Box */}
                 <div className="card mb-4 p-3 shadow-sm">
-                  <h5 className="card-title mb-2 d-flex align-items-center gap-1">
+                  <h2 className="card-title mb-2 d-flex align-items-center gap-1">
                     <FaFolderOpen className="text-blue-600" /> Categories
-                  </h5>
+                  </h2>
                   <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {categories.map((cat, index) => (
@@ -97,9 +97,9 @@ const Blog = () => {
 
                 {/* Recent Posts Box */}
                 <div className="card mb-4 p-3 shadow-sm">
-                  <h5 className="card-title mb-2 d-flex align-items-center gap-1">
+                  <h2 className="card-title mb-2 d-flex align-items-center gap-1">
                     <FaClock className="text-blue-600" /> Recent Posts
-                  </h5>
+                  </h2>
                   <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {data.slice(0, 5).map((post, index) => (

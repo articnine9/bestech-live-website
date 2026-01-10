@@ -12,9 +12,9 @@ const ChooseUs = () => {
       <div className="container">
         <div className="sec-title text-center">
           <div className="sub-title">
-            <h5>
+            <div>
               <span className="icon-right-arrow-1"></span> Why Choose Us
-            </h5>
+            </div>
           </div>
           <h2>Some reasons to choose us</h2>
         </div>

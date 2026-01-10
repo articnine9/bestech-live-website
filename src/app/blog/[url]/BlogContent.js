@@ -99,7 +99,7 @@ export default function BlogContent({ slug }) {
 
                     {/* Social Share */}
                     <div className="blog-share mt-4">
-                      <h5 className="mb-2">Share this post:</h5>
+                      <h2 className="mb-2">Share this post:</h2>
                       <div className="d-flex gap-2 flex-wrap">
                         <button
                           className="btn btn-primary"

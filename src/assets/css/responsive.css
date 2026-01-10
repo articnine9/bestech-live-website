@@ -2728,7 +2728,7 @@
     z-index: -1;
   }
 
-  .main-slider-one__content h2 {
+  .main-slider-one__content .hero-title {
     font-size: 65px;
     line-height: 1.1em;
   }
@@ -2817,12 +2817,12 @@
     line-height: 28px;
   }
 
-  .main-slider-one__content h2 {
+  .main-slider-one__content .hero-title {
     font-size: 45px;
     line-height: 1.1em;
   }
 
-  .main-slider-one__content h2 br {
+  .main-slider-one__content .hero-title br {
     display: none;
   }
 

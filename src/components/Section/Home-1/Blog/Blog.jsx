@@ -20,11 +20,11 @@ const Blog = () => {
         <div className="blog-one__top">
           <div className="sec-title">
             <div className="sub-title">
-              <h5>
+              <div>
                 <span className="icon-right-arrow-1"></span> LATEST POST
-              </h5>
+              </div>
             </div>
-            <h2>latest news & blog</h2>
+            <h3>latest news & blog</h3>
           </div>
           {/* <div className="btn-box">
             <Link className="thm-btn" href="blog">

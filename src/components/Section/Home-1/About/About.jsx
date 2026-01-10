@@ -30,11 +30,11 @@ const About = () => {
               <div className="about-one__content-top">
                 <div className="sec-title">
                   <div className="sub-title">
-                    <h5>
+                    <div>
                       <span className="icon-right-arrow-1"></span> Who We Are
-                    </h5>
+                    </div>
                   </div>
-                  <h2>Elevator Parts – Sharjah & UAE</h2>
+                  <h1>Elevator Spare Parts UAE</h1>
                 </div>
 
                 <div className="text">
