@@ -1349,12 +1349,20 @@ Sidebar Css
 .blog-standard-page__single-content a {
   color: #d0ae43;
 }
+.blog-standard-page__single-content p {
+  text-align: justify;
+}
 .blog-standard-page__single-content .logo-box {
   position: absolute;
   bottom: 40px;
   right: 50px;
 }
-
+.blog-standard-page__single-content ul {
+  margin-left: 40px;
+}
+.blog-standard-page__single-content ul li {
+  list-style: circle;
+}
 .blog-standard-page__single-content .meta-box {
   position: relative;
   display: flex;

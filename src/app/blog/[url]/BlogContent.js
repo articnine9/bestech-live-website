@@ -93,7 +93,7 @@ export default function BlogContent({ slug }) {
                       <div
                         key={index}
                         dangerouslySetInnerHTML={{ __html: item }}
-                        className="mb-3 text-justify"
+                        className="mb-3 "
                       />
                     ))}
 
