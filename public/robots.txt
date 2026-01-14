@@ -1,9 +1,4 @@
-# *
 User-agent: *
-Allow: /
+Disallow:
 
-# Host
-Host: https://bestechparts.ae
-
-# Sitemaps
-Sitemap: https://bestechparts.ae/sitemap.xml
+Sitemap: https://www.bestechparts.ae/sitemap.xml
