@@ -1,12 +1,60 @@
-"use client";
-
-import { useParams, notFound } from "next/navigation";
+import { notFound } from "next/navigation";
 import BrandCardFour from "@/components/Ui/Cards/BrandCardFour";
 import data from "@/db/brands.json";
 import PageHeader from "~/components/Section/Common/PageHeader";
 
-export default function Page() {
-  const params = useParams();
+// 🔥 Force dynamic for Vercel
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+
+// ✅ METADATA
+export async function generateMetadata({ params }) {
+  const { slug, groupSlug } = params || {};
+
+  if (!slug || !groupSlug) {
+    return {
+      title: "Page Not Found | Bestech",
+      description: "No metadata available",
+      robots: "noindex, nofollow",
+    };
+  }
+
+  const brand = data.find((b) => b.slug === slug);
+  if (!brand || !Array.isArray(brand.groups)) {
+    return {
+      title: "Page Not Found | Bestech",
+      description: "Invalid brand",
+      robots: "noindex, nofollow",
+    };
+  }
+
+  const group = brand.groups.find((g) => g.slug === groupSlug);
+  if (!group) {
+    return {
+      title: "Page Not Found | Bestech",
+      description: "Invalid group",
+      robots: "noindex, nofollow",
+    };
+  }
+
+  return {
+    title:
+      group.meta_title || `${group.group_name} - ${brand.page_name} | Bestech`,
+    description:
+      group.meta_description ||
+      `Explore ${group.group_name} from ${brand.page_name} at Bestech Parts UAE.`,
+    keywords: group.keywords || brand.keywords || "",
+    alternates: {
+      canonical: `https://www.bestechparts.ae/brands/${slug}/${groupSlug}`,
+    },
+    robots:
+      group.robots ||
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  };
+}
+
+// ✅ PAGE
+export default async function Page({ params }) {
   const { slug, groupSlug } = params || {};
 
   if (!slug || !groupSlug) return notFound();
@@ -21,10 +69,10 @@ export default function Page() {
     <>
       <PageHeader title={`${group.group_name} - ${brand.page_name}`} />
 
-      {/* ✅ PRODUCT LIST */}
       <section className="container padding pb-120">
         <BrandCardFour items={group.items} productcode={brand.code} />
-        {/* ✅ SEO CONTENT SECTION (ONLY IF AVAILABLE) */}
+
+        {/* ✅ SEO CONTENT */}
         {group.paragraph_text && (
           <section className="container padding">
             <div
