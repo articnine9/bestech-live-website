@@ -88,6 +88,9 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
+        "meta_title": "Hyundai Elevator Display Board | HYDI01 to HYDI05",
+        "meta_description": "Shop Hyundai Elevator Display Board models HYDI01 to HYDI05 for clear floor display, direction arrows, and message alerts inside the lift car.",
+        "keywords": "Hyundai Elevator Display Board, Hyundai Display Board HYDI01 - HIPD-CAN, Hyundai Display Board HYDI02 - HIP-CM, Hyundai Display Board HYDI03 - OPB-CAN-INDICATOR, Hyundai Display Board HYDI04 - HIPD-CAN-LCD, Hyundai Display Board HYDI05 - HPID-CAN",
         "items": [
           {
             "name": "Display Board - STVF5/STVF7",
@@ -590,9 +593,7 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
-        "meta_title": "Hyundai Elevator Display Board | HYDI01 to HYDI05",
-        "meta_description": "Shop Hyundai Elevator Display Board models HYDI01 to HYDI05 for clear floor display, direction arrows, and message alerts inside the lift car.",
-        "keywords": "Hyundai Elevator Display Board, Hyundai Display Board HYDI01 - HIPD-CAN, Hyundai Display Board HYDI02 - HIP-CM, Hyundai Display Board HYDI03 - OPB-CAN-INDICATOR, Hyundai Display Board HYDI04 - HIPD-CAN-LCD, Hyundai Display Board HYDI05 - HPID-CAN",
+
         "items": [
           { "name": "Landing Display Board", "code": "KODI01" },
           {
