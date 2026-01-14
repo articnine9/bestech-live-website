@@ -3,15 +3,18 @@ import BrandCardFour from "@/components/Ui/Cards/BrandCardFour";
 import data from "@/db/brands.json";
 import PageHeader from "~/components/Section/Common/PageHeader";
 
-// 🔥 Force dynamic for Vercel
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
-// ✅ METADATA
-export async function generateMetadata({ params }) {
+// ✅ NEXT 16 SAFE METADATA
+export async function generateMetadata(props) {
+  const params = await props.params; // ✅ REQUIRED
   const { slug, groupSlug } = params || {};
 
+  console.log("🧩 generateMetadata params:", { slug, groupSlug });
+
   if (!slug || !groupSlug) {
+    console.log("❌ Missing slug or groupSlug");
     return {
       title: "Page Not Found | Bestech",
       description: "No metadata available",
@@ -20,7 +23,10 @@ export async function generateMetadata({ params }) {
   }
 
   const brand = data.find((b) => b.slug === slug);
+  console.log("📂 Matched brand:", brand);
+
   if (!brand || !Array.isArray(brand.groups)) {
+    console.log("❌ Brand not found or no groups");
     return {
       title: "Page Not Found | Bestech",
       description: "Invalid brand",
@@ -29,7 +35,10 @@ export async function generateMetadata({ params }) {
   }
 
   const group = brand.groups.find((g) => g.slug === groupSlug);
+  console.log("📁 Matched group:", group);
+
   if (!group) {
+    console.log("❌ Group not found");
     return {
       title: "Page Not Found | Bestech",
       description: "Invalid group",
@@ -53,17 +62,33 @@ export async function generateMetadata({ params }) {
   };
 }
 
-// ✅ PAGE
-export default async function Page({ params }) {
+// ✅ NEXT 16 SAFE PAGE
+export default async function Page(props) {
+  const params = await props.params; // ✅ REQUIRED
   const { slug, groupSlug } = params || {};
 
-  if (!slug || !groupSlug) return notFound();
+  console.log("🧩 Page params:", { slug, groupSlug });
+
+  if (!slug || !groupSlug) {
+    console.log("❌ Missing slug or groupSlug → 404");
+    return notFound();
+  }
 
   const brand = data.find((b) => b.slug === slug);
-  if (!brand || !Array.isArray(brand.groups)) return notFound();
+  console.log("📂 Page matched brand:", brand);
+
+  if (!brand || !Array.isArray(brand.groups)) {
+    console.log("❌ Brand invalid → 404");
+    return notFound();
+  }
 
   const group = brand.groups.find((g) => g.slug === groupSlug);
-  if (!group) return notFound();
+  console.log("📁 Page matched group:", group);
+
+  if (!group) {
+    console.log("❌ Group invalid → 404");
+    return notFound();
+  }
 
   return (
     <>
