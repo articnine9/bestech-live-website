@@ -6627,8 +6627,13 @@ Project Two Project Details
   display: flex;
   flex-direction: column;
   gap: 20px;
-  
 }
 .pb-120 {
   padding-bottom: 120px;
+}
+.seo-content ul {
+  padding-left: 40px;
+}
+.seo-content ul li {
+  list-style: disc;
 }
