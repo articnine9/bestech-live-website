@@ -6623,3 +6623,12 @@ Project Two Project Details
   font-weight: 700;
   line-height: 1.2em;
 }
+.seo-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  
+}
+.pb-120 {
+  padding-bottom: 120px;
+}

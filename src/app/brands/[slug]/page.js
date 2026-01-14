@@ -57,7 +57,9 @@ export default async function Page(props) {
     <div className="body-dark-bg">
       <div className="fix">
         <PageHeader title={matchedCategory.page_name} />
-        <Brand category={matchedCategory} />
+        <div className="pb-120">
+          <Brand category={matchedCategory} />
+        </div>
       </div>
     </div>
   );

@@ -20,8 +20,19 @@ export default function Page() {
   return (
     <>
       <PageHeader title={`${group.group_name} - ${brand.page_name}`} />
-      <section className="container padding">
+
+      {/* ✅ PRODUCT LIST */}
+      <section className="container padding pb-120">
         <BrandCardFour items={group.items} productcode={brand.code} />
+        {/* ✅ SEO CONTENT SECTION (ONLY IF AVAILABLE) */}
+        {group.paragraph_text && (
+          <section className="container padding">
+            <div
+              className="seo-content flex flex-col gap-[10px] pb-[200px]"
+              dangerouslySetInnerHTML={{ __html: group.paragraph_text }}
+            />
+          </section>
+        )}
       </section>
     </>
   );
