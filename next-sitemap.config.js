@@ -1,6 +1,6 @@
 module.exports = {
-  siteUrl: "https://bestechparts.ae",
-  generateRobotsTxt: true,
+  siteUrl: "https://www.bestechparts.ae",
+  generateRobotsTxt: false,
   changefreq: "daily",
   priority: 0.7,
 };
