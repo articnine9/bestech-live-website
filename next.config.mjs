@@ -2,8 +2,22 @@
 const nextConfig = {
   async redirects() {
     return [
+      // Existing redirects
       { source: "/brands/monarch", destination: "/", permanent: true },
       { source: "/brands/step", destination: "/", permanent: true },
+
+      // ✅ Force non-www → www (SEO fix)
+      {
+        source: "/:path*",
+        has: [
+          {
+            type: "host",
+            value: "bestechparts.ae",
+          },
+        ],
+        destination: "https://www.bestechparts.ae/:path*",
+        permanent: true, // 308 Permanent Redirect
+      },
     ];
   },
 
