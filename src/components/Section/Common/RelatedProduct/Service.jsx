@@ -19,7 +19,7 @@ const Service = ({ category }) => {
                 <span className="icon-right-arrow-1"></span>
               </div>
             </div>
-            <div className="section-title-text">Related Product</div>
+            <h2 className="section-title-text">Related Product</h2>
           </div>
 
           {/* <div className="btn-box">

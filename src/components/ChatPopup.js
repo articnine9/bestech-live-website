@@ -85,7 +85,7 @@ export default function ChatPopup() {
               className="rounded-circle me-2"
               style={{ width: "40px", height: "40px" }}
             />
-            <h6 className="m-0 fw-bold">Online Consultation</h6>
+            <div className="m-0 fw-bold">Online Consultation</div>
             <button
               className="btn-close position-absolute end-0 me-3"
               onClick={() => {
