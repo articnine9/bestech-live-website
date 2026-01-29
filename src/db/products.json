@@ -202,6 +202,42 @@
         "keywords": "",
         "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-type-command-board-90cm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Button Cables - Assorted",
+        "description": "For all button models",
+        "code": "BS-CW0014",
+        "url": "/cables-and-wires/button-cables-assorted",
+        "image": "/img/products/cables-and-wires/button-cables-assorted/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/button-cables-assorted",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Wire 4mm - 100m/roll",
+        "description": "Wire 4mm",
+        "code": "BS-CW0017",
+        "url": "/cables-and-wires/wire-4mm-100m-roll",
+        "image": "/img/products/cables-and-wires/wire-4mm-100m-roll/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/wire-4mm-100m-roll",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Display cables - Assorted",
+        "description": "For all display models",
+        "code": "BS-CW0018",
+        "url": "/cables-and-wires/display-cables-assorted",
+        "image": "/img/products/cables-and-wires/display-cables-assorted/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/display-cables-assorted",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -339,7 +375,7 @@
       {
         "name": "Contactor AC110V 18A",
         "description": "Schneider LC1D18F7C",
-        "code": "BS-CT00010",
+        "code": "BS-CT0010",
         "url": "/contactors/contactor-ac110v-18a",
         "image": "/img/products/contactors/contactor-ac110v-18a/1.jpg",
         "slider": ["1", "2"],
@@ -352,7 +388,7 @@
       {
         "name": "Auxillary Contactors LADN22",
         "description": "Schneider LC1D18F7C",
-        "code": "BS-CT00011",
+        "code": "BS-CT0011",
         "url": "/contactors/auxillary-contactors-ladn22",
         "image": "/img/products/contactors/auxillary-contactors-ladn22/1.jpg",
         "meta_title": "",
@@ -364,7 +400,7 @@
       {
         "name": "Contactor AC110V 115A ",
         "description": "Schneider LC1D11500F7C",
-        "code": "BS-CT00012",
+        "code": "BS-CT0012",
         "url": "/contactors/contactor-ac110v-115a",
         "image": "/img/products/contactors/contactor-ac110v-115a/1.jpg",
         "slider": ["1", "2", "3"],
@@ -372,6 +408,56 @@
         "meta_description": "",
         "keywords": "",
         "canonical": "https://www.bestechparts.ae/products/contactors/contactor-ac110v-115a",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Schneider 110VAC 25A - LC1D25F7C ",
+        "description": "Schneider - LC1D25F7C",
+        "code": "BS-CT0014",
+        "url": "/contactors/schneider-110vac-25a-lc1d25f7c",
+        "image": "/img/products/contactors/schneider-110vac-25a-lc1d25f7c/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vac-25a-lc1d25f7c",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Schneider 110VAC 32A - LC1D32F7C",
+        "description": "Schneider - LC1D32F7C",
+        "code": "BS-CT0015",
+        "url": "/contactors/schneider-110vac-32a-lc1d32f7c",
+        "image": "/img/products/contactors/schneider-110vac-32a-lc1d32f7c/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vac-32a-lc1d32f7c",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Schneider 110VAC 50A - LC1D50AF7C",
+        "description": "Schneider - LC1D50AF7C",
+        "code": "BS-CT0016",
+        "url": "/contactors/schneider-110vac-50a-lc1d50af7c",
+        "image": "/img/products/contactors/schneider-110vac-50a-lc1d50af7c/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vac-50a-lc1d50af7c",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Schneider 110VAC 65A - LC1D65AF7C",
+        "description": "Schneider - LC1D65AF7C",
+        "code": "BS-CT0017",
+        "url": "/contactors/schneider-110vac-65a-lc1d65af7c",
+        "image": "/img/products/contactors/schneider-110vac-65a-lc1d65af7c/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vac-65a-lc1d65af7c",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -1280,6 +1366,31 @@
         "url": "/buttons/g-floor-button-cover-green",
         "image": "/img/products/buttons/g-floor-button-cover-green/1.jpg",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Button Stickers",
+        "description": "Mitsubishi ",
+        "code": "BS-BT0068",
+        "url": "/buttons/button-stickers",
+        "image": "/img/products/buttons/button-stickers/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Touchless COP Buttons TF-LB38R ",
+        "description": "TF-LB38R COP Buttons ",
+        "code": "BS-BT0069",
+        "url": "/buttons/touchless-cop-buttons-tf-lb38r",
+        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r/1.jpg",
+        "slider": ["1", "2"],
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Touchless LOP Buttons TF-LB38R ",
+        "description": "TF-LB38R LOP Buttons",
+        "code": "BS-BT0070",
+        "url": "/buttons/touchless-lop-buttons-tf-lb38r",
+        "image": "/img/products/buttons/touchless-lop-buttons-tf-lb38r/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -1813,7 +1924,7 @@
       {
         "name": "XSN1 MRL Overspeed Governor",
         "description": "XSN1 MRL OSG - 1m/s",
-        "code": "BS-EL021",
+        "code": "BS-EL0021",
         "url": "/electrical/xsn1-mrl-overspeed-governor",
         "image": "/img/products/electrical/xsn1-mrl-overspeed-governor/1.jpg",
         "meta_title": "",
@@ -1825,7 +1936,7 @@
       {
         "name": "Bridge Rectfier KBPC3510",
         "description": "KBPC3510",
-        "code": "BS-EL022",
+        "code": "BS-EL0022",
         "url": "/electrical/bridge-rectfier-kbpc3510",
         "image": "/img/products/electrical/bridge-rectfier-kbpc3510/1.jpg",
         "meta_title": "",
@@ -1837,7 +1948,7 @@
       {
         "name": "Transformor BK-50VA",
         "description": "BK-50VA(INPUT 220V-380V)",
-        "code": "BS-EL023",
+        "code": "BS-EL0023",
         "url": "/electrical/transformor-bk-50va",
         "image": "/img/products/electrical/transformor-bk-50va/1.jpg",
         "meta_title": "",
@@ -1849,13 +1960,50 @@
       {
         "name": "Elevator Arrival Charm NKB24V",
         "description": "Elevator Arrival Charm NKB24V",
-        "code": "BS-EL024",
+        "code": "BS-EL0024",
         "url": "/electrical/elevator-arrival-charm-nkb24v",
         "image": "/img/products/electrical/elevator-arrival-charm-nkb24v/1.jpg",
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
         "canonical": "https://www.bestechparts.ae/products/electrical/elevator-arrival-charm-nkb24v",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Power supply unit - SPLG50-DL2",
+        "description": "Sigma SPLG50-DL2",
+        "code": "BS-EL0026",
+        "url": "/electrical/power-supply-unit-splg50-dl2",
+        "image": "/img/products/electrical/power-supply-unit-splg50-dl2/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/power-supply-unit-splg50-dl2",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Terminal connectors ",
+        "description": "Terminal connectors 50 pcs / box",
+        "code": "BS-EL0027",
+        "url": "/electrical/terminal-connectors",
+        "image": "/img/products/electrical/terminal-connectors/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/terminal-connectors",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Connector Name Tags NB5",
+        "description": "NB5 tags 100pcs/box",
+        "code": "BS-EL0028",
+        "url": "/electrical/connector-name-tags-nb5",
+        "image": "/img/products/electrical/connector-name-tags-nb5/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/connector-name-tags-nb5",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -2263,6 +2411,40 @@
         "meta_description": "",
         "keywords": "",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Coupling shaft",
+        "description": "6 and 6",
+        "code": "BS-ME0020",
+        "url": "/mechanical/coupling-shaft",
+        "image": "/img/products/mechanical/coupling-shaft/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Wire rope fasteners - Thimble 12-13mm C",
+        "description": "China Thimble rods 12-13mm",
+        "code": "BS-ME0021",
+        "url": "/mechanical/wire-rope-fasteners-thimble-12-13mm-c",
+        "image": "/img/products/mechanical/wire-rope-fasteners-thimble-12-13mm-c/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Traction Sheave: 620*4*12 M",
+        "description": "Mitsubishi Sheave: 620*4*12 M",
+        "code": "BS-ME0022",
+        "url": "/mechanical/traction-sheave-620-4-12-m",
+        "image": "/img/products/mechanical/traction-sheave-620-4-12-m/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -2553,6 +2735,16 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Landing Door Lock Roller: G509/102121A",
+        "description": "Otis: G509/102121A Roller",
+        "code": "BS-DL0030",
+        "url": "/door-locks/landing-door-lock-roller-g509102121a",
+        "image": "/img/products/door-locks/landing-door-lock-roller-g509102121a/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-roller-g509102121a",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Key switch lock - A4N19290 / A4J19289 ",
         "description": "",
         "code": "BS-DL0031",
@@ -2582,13 +2774,12 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
-        "name": "Landing Door Lock Roller: G509/102121A",
-        "description": "Otis: G509/102121A Roller",
-        "code": "BS-DL0030",
-        "url": "/door-locks/landing-door-lock-roller-g509102121a",
-        "image": "/img/products/door-locks/landing-door-lock-roller-g509102121a/1.jpg",
-        "slider": ["1", "2"],
-        "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-roller-g509102121a",
+        "name": "Elevator Door Triangle Lock S",
+        "description": "Schindler Door Triangle Lock",
+        "code": "BS-DL0034",
+        "url": "/door-locks/elevator-door-triangle-lock-s",
+        "image": "/img/products/door-locks/elevator-door-triangle-lock-s/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-locks/elevator-door-triangle-lock-s",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -2807,6 +2998,15 @@
         "image": "/img/products/door-wheels/door-wheel-3201-05-0032-c/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/door-wheels/door-wheel-3201-05-0032-c",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door wheel roller 70*25*6204",
+        "description": "Door wheel roller 70*25*6204",
+        "code": "BS-DW0022",
+        "url": "/door-wheels/door-wheel-roller-70-25-6204",
+        "image": "/img/products/door-wheels/door-wheel-roller-70-25-6204/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-wheels/door-wheel-roller-70-25-6204",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -2987,6 +3187,25 @@
         "image": "/img/products/sensors/slj18a-z5nk-dz-t/1.jpg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/sensors/slj18a-z5nk-dz-t",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "SGD31-GG-TZ2B2P with plastic shell",
+        "description": "Inovance: SGD31-GG-TZ2B2P",
+        "code": "BS-SR0019",
+        "url": "/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
+        "image": "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Escalator Pressure sensor FP-A1PNP5M",
+        "description": " OTIS GAA177GZ1 FP-A1 PNP 5M",
+        "code": "BS-SR0020",
+        "url": "/sensors/escalator-pressure-sensor-fp-a1pnp5m",
+        "image": "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/escalator-pressure-sensor-fp-a1pnp5m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -3737,6 +3956,24 @@
         "image": "/img/products/encoders/encoder-pg-card-mctc-pg-f/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-f",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "7M Cable for 1313 Encoder (Open)",
+        "description": "Encoder cable open terminals",
+        "code": "BS-EN0021",
+        "url": "/encoders/7m-cable-for-1313-encoder",
+        "image": "/img/products/encoders/7m-cable-for-1313-encoder/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/encoders/7m-cable-for-1313-encoder",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "7M Cable for 1387 Encoder (Open)",
+        "description": "Encoder cable open terminals",
+        "code": "BS-EN0022",
+        "url": "/encoders/7m-cable-for-1387-encoder",
+        "image": "/img/products/encoders/7m-cable-for-1387-encoder/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/encoders/7m-cable-for-1387-encoder",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -3841,6 +4078,17 @@
         "canonical": "https://www.bestechparts.ae/products/inverters/inverter-11kw-as380",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "paragraph_text": "<h2>Elevator Inverter 11KW: AS380 for Reliable Lift Control</h2>\n<p>The <strong>Elevator Inverter 11KW: AS380</strong> is a high-performance integrated drive and controller developed by <strong>Shanghai STEP Electric Corporation</strong>. Designed to manage both motor control and drive functions, it ensures <strong>efficient, stable, and smooth elevator operation</strong>. With advanced <strong>closed-loop vector control</strong> technology, it offers precise motor speed regulation, improved torque balance, and consistent acceleration and braking performance.</p>\n<p>Operating on a <strong>380V AC three-phase input</strong>, the AS380 delivers reliable performance for <strong>mid- to high-capacity elevator systems</strong>. Compact and energy-efficient, it is built for durability and long service life, helping enhance control accuracy, passenger comfort, and operational reliability in modern lifts.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> AS380</li>\n  <li><strong>Power Rating:</strong> 11 KW</li>\n  <li><strong>Manufacturer:</strong> Shanghai STEP Electric Corporation</li>\n  <li><strong>Function:</strong> Integrated Inverter and Controller</li>\n  <li><strong>Input Voltage:</strong> 380V AC (Three-Phase)</li>\n  <li><strong>Control Type:</strong> Closed-Loop Vector Control</li>\n  <li><strong>Application:</strong> Elevator Drive and Motor Control</li>\n</ul>\n<h2>Quality Elevator Inverter Drive Solutions for UAE Systems</h2>\n<p><a href=\"https://www.bestechelevatorparts.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bestech</a> supplies <strong>high-quality elevator inverter drives</strong> in the UAE, engineered for reliable performance, extended durability, and smooth control across all major elevator systems. Each inverter is tested for precision, ensuring safe and efficient operation for both commercial and residential applications.</p>"
+      },
+      {
+        "name": "Inverter 5.5KW: NICE-L-C",
+        "description": "Type:NICE-L-C-4005",
+        "code": "BS-IN0007",
+        "url": "/inverters/inverter-5-5kw-nice-l-c",
+        "image": "/img/products/inverters/inverter-5-5kw-nice-l-c/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/inverters/inverter-5-5kw-nice-l-c",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        
       }
     ]
   },
@@ -4061,6 +4309,26 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/door-drives/door-drive-nsfc01-02",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Door Motor YVP90-6",
+        "description": "Elevator Door Motor YVP90-6",
+        "code": "BS-DD0010",
+        "url": "/door-drives/elevator-door-motor-yvp90-6",
+        "image": "/img/products/door-drives/elevator-door-motor-yvp90-6/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Door Motor YVP90-6B1",
+        "description": "Elevator Door Motor YVP90-6B1",
+        "code": "BS-DD0011",
+        "url": "/door-drives/elevator-door-motor-yvp90-6b1",
+        "image": "/img/products/door-drives/elevator-door-motor-yvp90-6b1/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6b1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -4189,6 +4457,24 @@
         "url": "/signalization/cop-full-set-g-3",
         "image": "/img/products/signalization/cop-full-set-g-3/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/signalization/cop-full-set-g-3",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCGCM001 SS Hairline - COP G+2",
+        "description": "BCGCM001 SS Hairline - COP G+2",
+        "code": "BS-SG0015",
+        "url": "/signalization/bcgcm001-ss-hairline-cop-g2",
+        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g2",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCGCM001 SS Hairline - COP G+4",
+        "description": "BCGCM001 SS Hairline - COP G+4",
+        "code": "BS-SG0016",
+        "url": "/signalization/bcgcm001-ss-hairline-cop-g4",
+        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g4",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -4324,8 +4610,27 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/displays/display-mctc-hcb-u673",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Display Vertical - MCTC-HCB-T647",
+        "description": "MCTC-HCB-T647",
+        "code": "BS-DI0015",
+        "url": "/displays/display-vertical-mctc-hcb-t647",
+        "image": "/img/products/displays/display-vertical-mctc-hcb-t647/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/displays/display-vertical-mctc-hcb-t647",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Display Horizontal - MCTC-HCB-U672",
+        "description": "MCTC-HCB-U672",
+        "code": "BS-DI0016",
+        "url": "/displays/display-horizontal-mctc-hcb-u672",
+        "image": "/img/products/displays/display-horizontal-mctc-hcb-u672/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/displays/display-horizontal-mctc-hcb-u672",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
+    
   },
 
   {
@@ -4521,6 +4826,16 @@
         "image": "/img/products/tool-kits/tool-kit-keypad/1.jpg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/tool-kits/tool-kit-keypad",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "DOA-100+ Tool Kit",
+        "description": "Sigma DOA-100+ ",
+        "code": "BS-TL0004",
+        "url": "/tool-kits/doa-100-tool-kit",
+        "image": "/img/products/tool-kits/doa-100-tool-kit/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/tool-kits/doa-100-tool-kit",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
