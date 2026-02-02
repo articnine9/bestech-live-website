@@ -33,16 +33,10 @@ export default function Home() {
         <Hero />
         <About />
         <Service />
-        {/* <Video />
-        <WorkingProcess /> */}
-        {/* <Cta /> */}
+
         <ChooseUs />
-        {/* <Fact /> */}
-        {/* <RecentProjects />
-        <RequestService /> */}
+
         <Faq />
-        {/* <Testimonial /> */}
-        {/* <Team /> */}
 
         <Blog />
       </div>

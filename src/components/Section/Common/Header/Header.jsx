@@ -509,7 +509,7 @@ const Header = () => {
                               </li>
                               <li>
                                 <Link
-                                  href="/products/cables-wires"
+                                  href="/products/cables-and-wires"
                                   onClick={mobileMenuClose}
                                 >
                                   Cables and wires

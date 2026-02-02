@@ -27,7 +27,7 @@ const Blog = () => {
     (item) =>
       item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
       (item.description &&
-        item.description.toLowerCase().includes(searchTerm.toLowerCase()))
+        item.description.toLowerCase().includes(searchTerm.toLowerCase())),
   );
 
   return (
@@ -82,14 +82,15 @@ const Blog = () => {
                         className="mb-2 d-flex align-items-center gap-1"
                       >
                         <FaArrowRight className="mr-2 text-gray-500" />
-                        <Link
+                        <p className="text-blue-600 hover:underline">{cat}</p>
+                        {/* <Link
                           href={`/category/${cat
                             .toLowerCase()
                             .replace(/ /g, "-")}`}
                           className="text-blue-600 hover:underline"
                         >
                           {cat}
-                        </Link>
+                        </Link> */}
                       </li>
                     ))}
                   </ul>

@@ -216,6 +216,30 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Travelling Cable 24 core",
+        "description": "Travelling Cable 24 core",
+        "code": "BS-CW0015",
+        "url": "/cables-and-wires/travelling-cable-24-core",
+        "image": "/img/products/cables-and-wires/travelling-cable-24-core/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/travelling-cable-24-core",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "RR Cable 0.75mm",
+        "description": "RR Cable 0.75mm",
+        "code": "BS-CW0016",
+        "url": "/cables-and-wires/rr-cable-075mm",
+        "image": "/img/products/cables-and-wires/rr-cable-075mm/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/rr-cable-075mm",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Wire 4mm - 100m/roll",
         "description": "Wire 4mm",
         "code": "BS-CW0017",
@@ -377,7 +401,7 @@
         "code": "BS-CT0009",
         "url": "/contactors/contactor-ac110v-80a",
         "image": "/img/products/contactors/contactor-ac110v-80a/1.jpg",
-        "slider": ["1", "2", "3"],
+        "slider": ["1", "2"],
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
@@ -485,6 +509,18 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Schneider 220VAC 32A - LC1D32M7",
+        "description": "Schneider 220VAC 32A - LC1D32M7",
+        "code": "BS-CT0018",
+        "url": "/contactors/schneider-220vac-32a-lc1d32m7",
+        "image": "/img/products/contactors/schneider-220vac-32a-lc1d32m7/1.jpeg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/schneider-220vac-32a-lc1d32m7",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "ABB-AF09-30-10-13 25A",
         "description": "ABB-AF09-30-10-13 25A",
         "code": "BS-CT0019",
@@ -585,7 +621,7 @@
         "code": "BS-CB0006",
         "url": "/circuit-breakers/delixi-mcb-10a-2p-dz47s",
         "image": "/img/products/circuit-breakers/delixi-mcb-10a-2p-dz47s/1.jpg",
-        "slider": ["1", "2", "3"],
+
         "meta_title": "",
         "meta_description": "",
         "canonical": "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-10a-2p-dz47s",
@@ -1439,6 +1475,57 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Push buttons AK-29B",
+        "description": "Sigma round - Push buttons AK-29B",
+        "code": "BS-BT0072",
+        "url": "/buttons/push-buttons-ak-29b",
+        "image": "/img/products/buttons/push-buttons-ak-29b/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "COP Button - Monarch 13",
+        "description": "Monarch: 13-25. Blue/Red",
+        "code": "BS-BT0073",
+        "url": "/buttons/cop-button-monarch-13",
+        "image": "/img/products/buttons/cop-button-monarch-13/1.jpg",
+        "slider": ["1", "2"],
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "KDS button: Square with screws",
+        "description": "Kone buttons. Red",
+        "code": "BS-BT0074",
+        "url": "/buttons/kds-button-square-with-screws",
+        "image": "/img/products/buttons/kds-button-square-with-screws/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Push Button Round: AN306",
+        "description": "Push Button Red: AN306",
+        "code": "BS-BT0075",
+        "url": "/buttons/push-button-round-an306",
+        "image": "/img/products/buttons/push-button-round-an306/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Push Button KA1060",
+        "description": "Elevator Push Button KA1060",
+        "code": "BS-BT0076",
+        "url": "/buttons/elevator-push-button-ka1060",
+        "image": "/img/products/buttons/elevator-push-button-ka1060/1.jpg",
+        "slider": ["1", "2"],
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+
+      {
+        "name": "Touchless COP Buttons TF-LB38R - Silver",
+        "description": "Touchless COP Buttons TF-LB38R - Silver",
+        "code": "BS-BT0077",
+        "url": "/buttons/touchless-cop-buttons-tf-lb38r-silver",
+        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "COP buttons NY20041659H01",
         "description": "COP buttons NY20041659H01",
         "code": "BS-BT0078",
@@ -1698,6 +1785,35 @@
         "image": "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/1.jpg",
 
         "canonical": "https://www.bestechparts.ae/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Limit Switch ME-8108",
+        "description": "Elevator Limit Switch ME-8108",
+        "code": "BS-SW0019",
+        "url": "/switches/elevator-limit-switch-me-8108",
+        "image": "/img/products/switches/elevator-limit-switch-me-8108/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-me-8108",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Limit Switch RL8108",
+        "description": "Elevator Limit Switch RL8108",
+        "code": "BS-SW0020",
+        "url": "/switches/elevator-limit-switch-rl8108",
+        "image": "/img/products/switches/elevator-limit-switch-rl8108/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-rl8108",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Limit Switch AZ8108",
+        "description": "Elevator Limit Switch AZ8108",
+        "code": "BS-SW0021",
+        "url": "/switches/elevator-limit-switch-az8108",
+        "image": "/img/products/switches/elevator-limit-switch-az8108/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-az8108",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -2371,6 +2487,63 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Control cabinet - 45KW - Bestech",
+        "description": "Control cabinet - 45KW - Blue",
+        "code": "BS-CS0016",
+        "url": "/cabinet-set/control-cabinet-45kw-blue",
+        "image": "/img/products/cabinet-set/control-cabinet-45kw-blue/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-45kw-blue",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Braking resistor - Type: 4500W 40Ω",
+        "description": "Type: 4500W 40Ω",
+        "code": "BS-CS0017",
+        "url": "/cabinet-set/braking-resistor-type-4500w-40ohm",
+        "image": "/img/products/cabinet-set/braking-resistor-type-4500w-40ohm/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-4500w-40ohm",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Cabinet Encloser - Small",
+        "description": "Cabinet Encloser - Small",
+        "code": "BS-CS0018",
+        "url": "/cabinet-set/cabinet-encloser-small",
+        "image": "/img/products/cabinet-set/cabinet-encloser-small/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/cabinet-encloser-small",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Braking resistor - Type: 1600W 110Ω",
+        "description": "Type: 1600W 110Ω",
+        "code": "BS-CS0019",
+        "url": "/cabinet-set/braking-resistor-type-1600w-110",
+        "image": "/img/products/cabinet-set/braking-resistor-type-1600w-110/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-1600w-110",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Control cabinet - 22KW - Bestech",
+        "description": " Control cabinet - 22KW - Blue",
+        "code": "BS-CS0020",
+        "url": "/cabinet-set/control-cabinet-22kw-blue",
+        "image": "/img/products/cabinet-set/control-cabinet-22kw-blue/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-22kw-blue",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ARCUBE - Car Top Inspection Box",
+        "description": "ARCUBE - Car Top Inspection Box",
+        "code": "BS-CS0021",
+        "url": "/cabinet-set/arcube-car-top-inspection-box",
+        "image": "/img/products/cabinet-set/arcube-car-top-inspection-box/1.jpeg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/arcube-car-top-inspection-box",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Control cabinet - 18KW - Bestech",
         "description": "Control cabinet - 18KW - Bestech",
         "code": "BS-CS0022",
@@ -2642,6 +2815,17 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Steel core Rope 8mm",
+        "description": "Steel core Rope 8mm",
+        "code": "BS-ME0019",
+        "url": "/mechanical/steel-core-rope-8mm",
+        "image": "/img/products/mechanical/steel-core-rope-8mm/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Coupling shaft",
         "description": "6 and 6",
         "code": "BS-ME0020",
@@ -2670,6 +2854,85 @@
         "url": "/mechanical/traction-sheave-620-4-12-m",
         "image": "/img/products/mechanical/traction-sheave-620-4-12-m/1.jpg",
         "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Traction sheave: 620*6*12 M",
+        "description": "Mitsubishi sheave: 620*6*12 M",
+        "code": "BS-ME0023",
+        "url": "/mechanical/traction-sheave-620-6-12-m",
+        "image": "/img/products/mechanical/traction-sheave-620-6-12-m/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Traction sheave: 605*3*12 S",
+        "description": "Sigma sheave: 605*3*12 S",
+        "code": "BS-ME0024",
+        "url": "/mechanical/traction-sheave-605-3-12-s",
+        "image": "/img/products/mechanical/traction-sheave-605-3-12-s/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Traction sheave: 605*3*12 S",
+        "description": "Sigma sheave: 605*3*12 S",
+        "code": "BS-ME0025",
+        "url": "/mechanical/traction-sheave-605-3-12-s",
+        "image": "/img/products/mechanical/traction-sheave-605-3-12-s/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Traction sheave: 605*4*12 S",
+        "description": "Sigma sheave: 605*4*12 S",
+        "code": "BS-ME0026",
+        "url": "/mechanical/traction-sheave-605-4-12-s",
+        "image": "/img/products/mechanical/traction-sheave-605-4-12-s/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Traction sheave: 505*4*12 S",
+        "description": "Sigma sheave: 505*4*12 S",
+        "code": "BS-ME0027",
+        "url": "/mechanical/traction-sheave-505-4-12-s",
+        "image": "/img/products/mechanical/traction-sheave-505-4-12-s/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Escalator Handrail Belt Tool",
+        "description": "Escalator Handrail Belt Tool",
+        "code": "BS-ME0028",
+        "url": "/mechanical/escalator-handrail-belt-tool",
+        "image": "/img/products/mechanical/escalator-handrail-belt-tool/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Shock Absorber - Swing Manual Doors",
+        "description": "Can Lift - Shock Absorber Swing doors",
+        "code": "BS-ME0029",
+        "url": "/mechanical/shock-absorber-swing-manual-doors",
+        "image": "/img/products/mechanical/shock-absorber-swing-manual-doors/1.jpg",
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
@@ -3288,7 +3551,7 @@
         "code": "BS-DL0032",
         "url": "/door-locks/door-lock-contact-161-separate-t",
         "image": "/img/products/door-locks/door-lock-contact-161-separate-t/1.jpg",
-        "slider": ["1", "2"],
+
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161-separate-t",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -3317,6 +3580,15 @@
         "url": "/door-locks/ty-161-door-female-lock-dl-1102",
         "image": "/img/products/door-locks/ty-161-door-female-lock-dl-1102/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/door-locks/ty-161-door-female-lock-dl-1102",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Controller lock and key",
+        "description": "Controller lock and key",
+        "code": "BS-DL0036",
+        "url": "/door-locks/controller-lock-and-key",
+        "image": "/img/products/door-locks/controller-lock-and-key/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-locks/controller-lock-and-key",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -3701,7 +3973,7 @@
         "code": "BS-SR0014",
         "url": "/sensors/bestech-brand-door-sensor-1m-light-curtain",
         "image": "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/1.jpg",
-        "slider": ["1", "2"],
+
         "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-1m-light-curtain",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -3736,6 +4008,16 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Bistable sensor - Italy",
+        "description": "Bistable sensor - Italy",
+        "code": "BS-SR0018",
+        "url": "/sensors/bistable-sensor-italy",
+        "image": "/img/products/sensors/bistable-sensor-italy/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/bistable-sensor-italy",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "SGD31-GG-TZ2B2P with plastic shell",
         "description": "Inovance: SGD31-GG-TZ2B2P",
         "code": "BS-SR0019",
@@ -3752,6 +4034,62 @@
         "image": "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/1.jpg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/sensors/escalator-pressure-sensor-fp-a1pnp5m",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Sensor: E3JK-R4M1",
+        "description": "Sensor: E3JK-R4M1",
+        "code": "BS-SR0021",
+        "url": "/sensors/sensor-e3jk-r4m1",
+        "image": "/img/products/sensors/sensor-e3jk-r4m1/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/sensors/sensor-e3jk-r4m1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Sensor: BUP-30",
+        "description": "Sensor: BUP-30",
+        "code": "BS-SR0022",
+        "url": "/sensors/sensor-bup-30",
+        "image": "/img/products/sensors/sensor-bup-30/1.jpg",
+        "slider": ["1", "2", "3"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/sensor-bup-30",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Sensor: D2VW-01-2MS",
+        "description": "Sensor: D2VW-01-2MS",
+        "code": "BS-SR0023",
+        "url": "/sensors/sensor-d2vw-01-2ms",
+        "image": "/img/products/sensors/sensor-d2vw-01-2ms/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/sensors/sensor-d2vw-01-2ms",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Sensor: PSN17-5DN",
+        "description": "Sensor: PSN17-5DN",
+        "code": "BS-SR0024",
+        "url": "/sensors/sensor-psn17-5dn",
+        "image": "/img/products/sensors/sensor-psn17-5dn/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/sensor-psn17-5dn",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Sensor BEL10M - TFR",
+        "description": "Autonics - BEL10M-TFR",
+        "code": "BS-SR0025",
+        "url": "/sensors/sensor-bel10m-tfr",
+        "image": "/img/products/sensors/sensor-bel10m-tfr/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/sensors/sensor-bel10m-tfr",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Sensor: DAA629Q1",
+        "description": "OTIS DAA629Q1 JCA00629AAB001",
+        "code": "BS-SR0026",
+        "url": "/sensors/sensor-daa629q1",
+        "image": "/img/products/sensors/sensor-daa629q1/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/sensors/sensor-daa629q1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -4106,12 +4444,39 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Guide shoes: Full set Yellow O / K",
+        "description": "Full set Yellow O / K - 10 / 16mm",
+        "code": "BS-GS0035",
+        "url": "/guide-shoes/guide-shoes-full-set-yellow-o-k",
+        "image": "/img/products/guide-shoes/guide-shoes-full-set-yellow-o-k/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoes-full-set-yellow-o-k",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Doppler Guide rail Shoe 120X29",
         "description": "Doppler Guide rail Shoe 120X29",
         "code": "BS-GS0036",
         "url": "/guide-shoes/doppler-guide-rail-shoe-120x29",
         "image": "/img/products/guide-shoes/doppler-guide-rail-shoe-120x29/1.jpeg",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/doppler-guide-rail-shoe-120x29",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Guide shoe: 140*10/16 T White",
+        "description": "TKE: 140*10/16 white",
+        "code": "BS-GS0037",
+        "url": "/guide-shoes/guide-shoe-140-10-16-white",
+        "image": "/img/products/guide-shoes/guide-shoe-140-10-16-white/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-140-10-16-white",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Guide Shoe Insert 150*10/16",
+        "description": "Elevator Guide Shoe Insert 150*10/16",
+        "code": "BS-GS0038",
+        "url": "/guide-shoes/elevator-guide-shoe-insert-150-10-16",
+        "image": "/img/products/guide-shoes/elevator-guide-shoe-insert-150-10-16/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/guide-shoes/elevator-guide-shoe-insert-150-10-16",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -4282,6 +4647,42 @@
         "url": "/door-sliders/m-door-slider",
         "image": "/img/products/door-sliders/m-door-slider/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/m-door-slider",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door slider 31mmX15mm",
+        "description": "Door slider 31mmX15mm",
+        "code": "BS-DS0016",
+        "url": "/door-sliders/door-slider-31mmx15mm",
+        "image": "/img/products/door-sliders/door-slider-31mmx15mm/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-31mmx15mm",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door slider 39mmX14mm",
+        "description": "Door slider 39mmX14mm",
+        "code": "BS-DS0017",
+        "url": "/door-sliders/door-slider-39mmx14mm",
+        "image": "/img/products/door-sliders/door-slider-39mmx14mm/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-39mmx14mm",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door slider White 18mmX25mm - S",
+        "description": "Door slider White 18mmX25mm - Schindler",
+        "code": "BS-DS0018",
+        "url": "/door-sliders/door-slider-white-18mmx25mm-s",
+        "image": "/img/products/door-sliders/door-slider-white-18mmx25mm-s/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-white-18mmx25mm-s",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door Slider black - 12X50",
+        "description": "OTIS Door Slider black - 12X50",
+        "code": "BS-DS0019",
+        "url": "/door-sliders/door-slider-black-12x50",
+        "image": "/img/products/door-sliders/door-slider-black-12x50/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-black-12x50",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -4541,6 +4942,15 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "ROTARY ENCODER H-40-8-1024VL",
+        "description": "LS ROTARY ENCODER H-40-8-1024VL",
+        "code": "BS-EN0020",
+        "url": "/encoders/rotary-encoder-h-40-8-1024vl",
+        "image": "/img/products/encoders/rotary-encoder-h-40-8-1024vl/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/encoders/rotary-encoder-h-40-8-1024vl",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "7M Cable for 1313 Encoder (Open)",
         "description": "Encoder cable open terminals",
         "code": "BS-EN0021",
@@ -4556,6 +4966,34 @@
         "url": "/encoders/7m-cable-for-1387-encoder",
         "image": "/img/products/encoders/7m-cable-for-1387-encoder/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/encoders/7m-cable-for-1387-encoder",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Encoder: H40-8-2500UL",
+        "description": "Penon H40-8-2500UL",
+        "code": "BS-EN0023",
+        "url": "/encoders/encoder-h40-8-2500ul",
+        "image": "/img/products/encoders/encoder-h40-8-2500ul/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/encoders/encoder-h40-8-2500ul",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ENCA Encoder Board",
+        "description": "Arkel: ENCA Encoder board",
+        "code": "BS-EN0024",
+        "url": "/encoders/enca-encoder-board",
+        "image": "/img/products/encoders/enca-encoder-board/1.jpeg",
+        "canonical": "https://www.bestechparts.ae/products/encoders/enca-encoder-board",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "1387 Encoder cable 20M",
+        "description": "1387 Encoder cable 20M with shield",
+        "code": "BS-EN0025",
+        "url": "/encoders/1387-encoder-cable-20m",
+        "image": "/img/products/encoders/1387-encoder-cable-20m/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/encoders/1387-encoder-cable-20m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -4703,6 +5141,16 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Monospace KDL 16L",
+        "description": "Kone Monospace KDL16L 12A 400V",
+        "code": "BS-IN0010",
+        "url": "/inverters/monospace-kdl-16l",
+        "image": "/img/products/inverters/monospace-kdl-16l/1.jpg",
+        "slider": ["1", "2", "3", "4"],
+        "canonical": "https://www.bestechparts.ae/products/inverters/monospace-kdl-16l",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Delta VFD Inverter VFD022E43A 2.2KW",
         "description": "Delta VFD Inverter VFD022E43A 2.2KW",
         "code": "BS-IN0011",
@@ -4816,7 +5264,7 @@
         "code": "BS-AR0010",
         "url": "/ard/hh-ard-3p-37kw-380v-tf",
         "image": "/img/products/ard/ard-3p-37kw-380v-tf/1.jpg",
-        "slider": ["1", "2", "3"],
+
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-37kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5166,6 +5614,25 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Mikrolift - SS LOP full set",
+        "description": "Mikrolift - SS LOP full set",
+        "code": "BS-SG0013",
+        "url": "/signalization/mikrolift-ss-lop-full-set",
+        "image": "/img/products/signalization/mikrolift-ss-lop-full-set/1.jpeg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/mikrolift-ss-lop-full-set",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "F-K12 Access control system",
+        "description": "F-K12 Access control system ",
+        "code": "BS-SG0014",
+        "url": "/signalization/f-k12-access-control-system",
+        "image": "/img/products/signalization/f-k12-access-control-system/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/signalization/f-k12-access-control-system",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "BCGCM001 SS Hairline - COP G+2",
         "description": "BCGCM001 SS Hairline - COP G+2",
         "code": "BS-SG0015",
@@ -5271,6 +5738,26 @@
         "url": "/signalization/bxgdm007-white-glass-lop",
         "image": "/img/products/signalization/bxgdm007-white-glass-lop/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-white-glass-lop",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Full LOP set - HPI-L0430VRI-1",
+        "description": "XIZI OTIS LOP set - HPI-L0430VRI-1",
+        "code": "BS-SG0027",
+        "url": "/signalization/full-lop-set-hpi-l0430vri-1",
+        "image": "/img/products/signalization/full-lop-set-hpi-l0430vri-1/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/signalization/full-lop-set-hpi-l0430vri-1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "White LOP Full set ",
+        "description": "Schindler LOP full set (3 types)",
+        "code": "BS-SG0028",
+        "url": "/signalization/white-lop-full-set",
+        "image": "/img/products/signalization/white-lop-full-set/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/signalization/white-lop-full-set",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -5401,7 +5888,7 @@
         "url": "/displays/lcd-display-sftc-hcb-sl-blue",
         "image": "/img/products/displays/lcd-display-sftc-hcb-sl-blue/1.jpg",
         "slider": ["1", "2"],
-        "canonical": "https://www.bestechparts.ae/products/displays/indicator-display",
+        "canonical": "https://www.bestechparts.ae/products/displays/lcd-display-sftc-hcb-sl-blue",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -5435,6 +5922,24 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "KS208 - 7 Segment indicator with arrows",
+        "description": "KS208 - 7 Segment with arrows",
+        "code": "BS-DI0013",
+        "url": "/displays/ks208-7-segment-indicator-with-arrows",
+        "image": "/img/products/displays/ks208-7-segment-indicator-with-arrows/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ks208-7-segment-indicator-with-arrows",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "KS308 - 7 Segment indicator Single",
+        "description": "KS308 - 7 Segment Single",
+        "code": "BS-DI0014",
+        "url": "/displays/ks308-7-segment-indicator-single",
+        "image": "/img/products/displays/ks308-7-segment-indicator-single/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ks308-7-segment-indicator-single",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Display Vertical - MCTC-HCB-T647",
         "description": "MCTC-HCB-T647",
         "code": "BS-DI0015",
@@ -5450,6 +5955,26 @@
         "url": "/displays/display-horizontal-mctc-hcb-u672",
         "image": "/img/products/displays/display-horizontal-mctc-hcb-u672/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/displays/display-horizontal-mctc-hcb-u672",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BC-D3X INDICATOR (RED)",
+        "description": "Arkel: BC-D3X INDICATOR (RED)",
+        "code": "BS-DI0017",
+        "url": "/displays/bc-d3x-indicator-red",
+        "image": "/img/products/displays/bc-d3x-indicator-red/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/displays/bc-d3x-indicator-red",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "STEP: Display Board SM.04V16",
+        "description": "STEP: Display Board SM.04V16",
+        "code": "BS-DI0018",
+        "url": "/displays/step-display-board-sm-04v16",
+        "image": "/img/products/displays/step-display-board-sm-04v16/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/displays/step-display-board-sm-04v16",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -5607,6 +6132,16 @@
         "url": "/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
         "image": "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Step SM-02 D (5021)",
+        "description": " Step SM-02 D (5021)",
+        "code": "BS-PB0016",
+        "url": "/pcb-boards/step-sm02-d-5021",
+        "image": "/img/products/pcb-boards/step-sm02-d-5021/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/step-sm02-d-5021",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -5782,7 +6317,7 @@
         "code": "BS-KY0007",
         "url": "/keys/type-a-key",
         "image": "/img/products/keys/type-a-key/1.jpg",
-        "canonical": "https://www.bestechparts.ae/products/type-a-key/h-key",
+        "canonical": "https://www.bestechparts.ae/products/type-a-key",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
