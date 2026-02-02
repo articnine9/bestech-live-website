@@ -238,6 +238,18 @@
         "keywords": "",
         "canonical": "https://www.bestechparts.ae/products/cables-and-wires/display-cables-assorted",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Cables - LOP display to button",
+        "description": "Cables - LOP display to button",
+        "code": "BS-CW0019",
+        "url": "/cables-and-wires/cables-lop-display-to-button",
+        "image": "/img/products/cables-and-wires/cables-lop-display-to-button/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cables-lop-display-to-button",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -411,6 +423,18 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "Schneider 24VDC 18A - LC1D18",
+        "description": "Schneider LC1D18 24VDC 18A",
+        "code": "BS-CT0013",
+        "url": "/contactors/schneider-24vdc-18a-lc1d18",
+        "image": "/img/products/contactors/schneider-24vdc-18a-lc1d18/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/schneider-24vdc-18a-lc1d18",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Schneider 110VAC 25A - LC1D25F7C ",
         "description": "Schneider - LC1D25F7C",
         "code": "BS-CT0014",
@@ -458,6 +482,19 @@
         "meta_description": "",
         "keywords": "",
         "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vac-65a-lc1d65af7c",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "ABB-AF09-30-10-13 25A",
+        "description": "ABB-AF09-30-10-13 25A",
+        "code": "BS-CT0019",
+        "url": "/contactors/abb-af09-30-10-13-25a",
+        "image": "/img/products/contactors/abb-af09-30-10-13-25a/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/contactors/abb-af09-30-10-13-25a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -1391,6 +1428,23 @@
         "url": "/buttons/touchless-lop-buttons-tf-lb38r",
         "image": "/img/products/buttons/touchless-lop-buttons-tf-lb38r/1.jpg",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BST PUSH BUTTON MA1200 SS",
+        "description": "BST PUSH BUTTON MA1200 SS",
+        "code": "BS-BT0071",
+        "url": "/buttons/bst-push-button-ma1200-ss",
+        "image": "/img/products/buttons/bst-push-button-ma1200-ss/1.jpg",
+        "slider": ["1", "2"],
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "COP buttons NY20041659H01",
+        "description": "COP buttons NY20041659H01",
+        "code": "BS-BT0078",
+        "url": "/buttons/cop-buttons-ny20041659h01",
+        "image": "/img/products/buttons/cop-buttons-ny20041659h01/1.jpg",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -1644,6 +1698,25 @@
         "image": "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/1.jpg",
 
         "canonical": "https://www.bestechparts.ae/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Escalator Switch - 5791 3864  (TAYEE)",
+        "description": "Schindler - 5791 3864  (TAYEE)",
+        "code": "BS-SW0022",
+        "url": "/switches/escalator-switch-5791-3864-tayee",
+        "image": "/img/products/switches/escalator-switch-5791-3864-tayee/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/switches/escalator-switch-5791-3864-tayee",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Escalator Switch - XBA26220AB2",
+        "description": "OTIS Escalator Switch - XBA26220AB2",
+        "code": "BS-SW0023",
+        "url": "/switches/escalator-switch-xba26220ab2",
+        "image": "/img/products/switches/escalator-switch-xba26220ab2/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/switches/escalator-switch-xba26220ab2",
+        "slider": ["1", "2"],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -1970,6 +2043,18 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
+        "name": "24 VDC Relay With Base",
+        "description": "RXMAB2BD Schneider 24VDC",
+        "code": "BS-EL0025",
+        "url": "/electrical/24-vdc-relay-with-base",
+        "image": "/img/products/electrical/24-vdc-relay-with-base/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/24-vdc-relay-with-base",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
         "name": "Power supply unit - SPLG50-DL2",
         "description": "Sigma SPLG50-DL2",
         "code": "BS-EL0026",
@@ -2004,6 +2089,92 @@
         "meta_description": "",
         "keywords": "",
         "canonical": "https://www.bestechparts.ae/products/electrical/connector-name-tags-nb5",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "230 VAC Relay With Base",
+        "description": "RXM4AB1P7 Schneider 230VAC",
+        "code": "BS-EL0029",
+        "url": "/electrical/230-vac-relay-with-base",
+        "image": "/img/products/electrical/230-vac-relay-with-base/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/230-vac-relay-with-base",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Cabin Crossflow fan FB-9B 220VAC",
+        "description": "Cabin Crossflow fan FB-9B 220VAC",
+        "code": "BS-EL0030",
+        "url": "/electrical/cabin-crossflow-fan-fb-9b-220vac",
+        "image": "/img/products/electrical/cabin-crossflow-fan-fb-9b-220vac/1.jpg",
+        "slider": ["1", "2", "3"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/cabin-crossflow-fan-fb-9b-220vac",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Fireman Switch Box",
+        "description": "Fireman Switch Box",
+        "code": "BS-EL0031",
+        "url": "/electrical/fireman-switch-box",
+        "image": "/img/products/electrical/fireman-switch-box/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/fireman-switch-box",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Inspection box full set - Bestech",
+        "description": " Inspection box full set - Bestech",
+        "code": "BS-EL0032",
+        "url": "/electrical/inspection-box-full-set-bestech",
+        "image": "/img/products/electrical/inspection-box-full-set-bestech/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/fireman-switch-box",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator intercom Z6B02-40",
+        "description": "Mitsubishi Elevator intercom Z6B02-40",
+        "code": "BS-EL0033",
+        "url": "/electrical/elevator-intercom-z6b02-40",
+        "image": "/img/products/electrical/elevator-intercom-z6b02-40/2.jpg",
+        "slider": ["2", "1", "3"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/elevator-intercom-z6b02-40",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "48VDC Relay With Base 14 pin",
+        "description": "48VDC Relay With Base 14 pin",
+        "code": "BS-EL0034",
+        "url": "/electrical/48vdc-relay-with-base-14-pin",
+        "image": "/img/products/electrical/48vdc-relay-with-base-14-pin/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/elevator-intercom-z6b02-40",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "SMPS RT-85C",
+        "description": "SMPS RT-85C (15V)",
+        "code": "BS-EL0035",
+        "url": "/electrical/smps-rt-85c",
+        "image": "/img/products/electrical/smps-rt-85c/1.jpeg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/smps-rt-85c",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -2187,6 +2358,64 @@
         "image": "/img/products/cabinet-set/braking-resistor-type-6500w/1.jpg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-6500w",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Control cabinet - 15KW - Bestech",
+        "description": " Control cabinet - 15KW - Blue",
+        "code": "BS-CS0015",
+        "url": "/cabinet-set/control-cabinet-15kw-blue",
+        "image": "/img/products/cabinet-set/control-cabinet-15kw-blue/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-15kw-blue",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Control cabinet - 18KW - Bestech",
+        "description": "Control cabinet - 18KW - Bestech",
+        "code": "BS-CS0022",
+        "url": "/cabinet-set/control-cabinet-18kw-blue",
+        "image": "/img/products/cabinet-set/control-cabinet-18kw-blue/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-18kw-blue",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Control cabinet - 5.5KW - Blue",
+        "description": " Control cabinet - 5.5KW - Blue",
+        "code": "BS-CS0023",
+        "url": "/cabinet-set/control-cabinet-5.5kw-blue",
+        "image": "/img/products/cabinet-set/control-cabinet-5.5kw-blue/1.jpeg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-5.5kw-blue",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "MRL Control Cabinet 5.5KW - Bestech",
+        "description": "MRL Control Cabinet 5.5KW - Bestech",
+        "code": "BS-CS0024",
+        "url": "/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
+        "image": "/img/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech/1.jpeg",
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Monarch controller cabinet MRL 5.5KW",
+        "description": "Monarch controller cabinet MRL 5.5KW",
+        "code": "BS-CS0025",
+        "url": "/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
+        "image": "/img/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Monarch controller cabinet MRL 11KW",
+        "description": "Monarch controller cabinet MRL 11KW",
+        "code": "BS-CS0026",
+        "url": "/cabinet-set/monarch-controller-cabinet-mrl-11kw",
+        "image": "/img/products/cabinet-set/monarch-controller-cabinet-mrl-11kw/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-11kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -2441,6 +2670,305 @@
         "url": "/mechanical/traction-sheave-620-4-12-m",
         "image": "/img/products/mechanical/traction-sheave-620-4-12-m/1.jpg",
         "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door Spring 250",
+        "description": "Door Spring 250",
+        "code": "BS-ME0030",
+        "url": "/mechanical/door-spring-250",
+        "image": "/img/products/mechanical/door-spring-250/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Rope Thimble rod - 6mm ",
+        "description": "China Rope Thimble rod - 6mm",
+        "code": "BS-ME0031",
+        "url": "/mechanical/rope-thimble-rod-6mm",
+        "image": "/img/products/mechanical/rope-thimble-rod-6mm/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Rope Thimble rod - 8mm",
+        "description": "China Rope Thimble rod - 8mm",
+        "code": "BS-ME0032",
+        "url": "/mechanical/rope-thimble-rod-8mm",
+        "image": "/img/products/mechanical/rope-thimble-rod-8mm/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Rope Thimble rod - 10mm",
+        "description": "China Rope Thimble rod - 10mm",
+        "code": "BS-ME0033",
+        "url": "/mechanical/rope-thimble-rod-10mm",
+        "image": "/img/products/mechanical/rope-thimble-rod-10mm/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Speed Governor OX-200 - Tension weight",
+        "description": "Speed Governor OX-200 - Tension weight",
+        "code": "BS-ME0034",
+        "url": "/mechanical/speed-governor-ox-200-tension-weight",
+        "image": "/img/products/mechanical/speed-governor-ox-200-tension-weight/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Over Speed Governor OX-208",
+        "description": "Over Speed Governor OX-208",
+        "code": "BS-ME0035",
+        "url": "/mechanical/over-speed-governor-ox-208",
+        "image": "/img/products/mechanical/over-speed-governor-ox-208/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door springs - Assorted",
+        "description": "Otis/Hyundai/Fermator",
+        "code": "BS-ME0036",
+        "url": "/mechanical/door-springs-assorted",
+        "image": "/img/products/mechanical/door-springs-assorted/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Buffer OH-J11",
+        "description": "Buffer OH-J11",
+        "code": "BS-ME0037",
+        "url": "/mechanical/buffer-oh-j11",
+        "image": "/img/products/mechanical/buffer-oh-j11/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Buffer OH-J21",
+        "description": "Buffer OH-J21",
+        "code": "BS-ME0038",
+        "url": "/mechanical/buffer-oh-j21",
+        "image": "/img/products/mechanical/buffer-oh-j21/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Buffer OH-80",
+        "description": "Buffer OH-80",
+        "code": "BS-ME0039",
+        "url": "/mechanical/buffer-oh-80",
+        "image": "/img/products/mechanical/buffer-oh-80/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Buffer OH-175E",
+        "description": "Buffer OH-175E",
+        "code": "BS-ME0040",
+        "url": "/mechanical/buffer-oh-175e",
+        "image": "/img/products/mechanical/buffer-oh-175e/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Buffer OH-210H",
+        "description": "Buffer OH-210H",
+        "code": "BS-ME0041",
+        "url": "/mechanical/buffer-oh-210h",
+        "image": "/img/products/mechanical/buffer-oh-210h/1.jpg",
+        "slider": ["1", "2"],
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door Sill 800MM 1.55M - K",
+        "description": "Kone 800MM 1.55M",
+        "code": "BS-ME0042",
+        "url": "/mechanical/door-sill-800mm-1-55m-k",
+        "image": "/img/products/mechanical/door-sill-800mm-1-55m-k/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 900MM 1.75M - K",
+        "description": "Kone 900MM 1.75M",
+        "code": "BS-ME0043",
+        "url": "/mechanical/door-sill-900mm-1-75m-k",
+        "image": "/img/products/mechanical/door-sill-900mm-1-75m-k/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 1100MM 2.15M - K",
+        "description": "Kone 1100MM 2.15M",
+        "code": "BS-ME0044",
+        "url": "/mechanical/door-sill-1100mm-2-15m-k",
+        "image": "/img/products/mechanical/door-sill-1100mm-2-15m-k/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 800MM 1.56M - Si",
+        "description": "Sigma 800MM 1.56M",
+        "code": "BS-ME0045",
+        "url": "/mechanical/door-sill-800mm-1-56m-si",
+        "image": "/img/products/mechanical/door-sill-800mm-1-56m-si/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 900MM 1.76M -Si",
+        "description": "Sigma 900MM 1.76M",
+        "code": "BS-ME0046",
+        "url": "/mechanical/door-sill-900mm-1-76m-si",
+        "image": "/img/products/mechanical/door-sill-900mm-1-76m-si/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 1000MM 1.96M - Si",
+        "description": "Sigma 1000MM 1.96M",
+        "code": "BS-ME0047",
+        "url": "/mechanical/door-sill-1000mm-1-96m-si",
+        "image": "/img/products/mechanical/door-sill-1000mm-1-96m-si/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 800MM 1.64M - O",
+        "description": "Otis 800MM 1.64M",
+        "code": "BS-ME0048",
+        "url": "/mechanical/door-sill-800mm-1-64m-o",
+        "image": "/img/products/mechanical/door-sill-800mm-1-64m-o/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 900MM 1.84M - O",
+        "description": "Otis 900MM 1.84M",
+        "code": "BS-ME0049",
+        "url": "/mechanical/door-sill-900mm-1-84m-o",
+        "image": "/img/products/mechanical/door-sill-900mm-1-84m-o/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 1000MM 2.04M - O",
+        "description": "Otis 1000MM 2.04M",
+        "code": "BS-ME0050",
+        "url": "/mechanical/door-sill-1000mm-2-04m-o",
+        "image": "/img/products/mechanical/door-sill-1000mm-2-04m-o/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 800MM 1.6M - M",
+        "description": "Mitsubishi 800MM 1.6M",
+        "code": "BS-ME0051",
+        "url": "/mechanical/door-sill-800mm-1-6m-m",
+        "image": "/img/products/mechanical/door-sill-800mm-1-6m-m/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 900MM 1.8M - M",
+        "description": "Mitsubishi 900MM 1.8M",
+        "code": "BS-ME0052",
+        "url": "/mechanical/door-sill-900mm-1-8m-m",
+        "image": "/img/products/mechanical/door-sill-900mm-1-8m-m/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 1000MM 2.0M - M",
+        "description": "Mitsubishi 1000MM 2.0M",
+        "code": "BS-ME0053",
+        "url": "/mechanical/door-sill-1000mm-2-0m-m",
+        "image": "/img/products/mechanical/door-sill-1000mm-2-0m-m/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 800MM 1.665M - F",
+        "description": "fermator models 800MM 1.665M",
+        "code": "BS-ME0054",
+        "url": "/mechanical/door-sill-800mm-1-665m-f",
+        "image": "/img/products/mechanical/door-sill-800mm-1-665m-f/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 900MM 1.865M - F",
+        "description": "fermator models 900MM 1.865M",
+        "code": "BS-ME0055",
+        "url": "/mechanical/door-sill-900mm-1-865m-f",
+        "image": "/img/products/mechanical/door-sill-900mm-1-865m-f/1.jpg",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door sill 1000MM 2.065M - F",
+        "description": "fermator models 1000MM 2.065M",
+        "code": "BS-ME0056",
+        "url": "/mechanical/door-sill-1000mm-2-065m-f",
+        "image": "/img/products/mechanical/door-sill-1000mm-2-065m-f/1.jpg",
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
@@ -2780,6 +3308,24 @@
         "url": "/door-locks/elevator-door-triangle-lock-s",
         "image": "/img/products/door-locks/elevator-door-triangle-lock-s/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/door-locks/elevator-door-triangle-lock-s",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "TY-161 Door Female Lock (DL-1102)",
+        "description": "TY-161 Door Female Lock (DL-1102)",
+        "code": "BS-DL0035",
+        "url": "/door-locks/ty-161-door-female-lock-dl-1102",
+        "image": "/img/products/door-locks/ty-161-door-female-lock-dl-1102/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/door-locks/ty-161-door-female-lock-dl-1102",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Fermator Landing Door Lock",
+        "description": "Fermator Landing Door Lock",
+        "code": "BS-DL0037",
+        "url": "/door-locks/fermator-landing-door-lock",
+        "image": "/img/products/door-locks/fermator-landing-door-lock/1.jpeg",
+        "canonical": "https://www.bestechparts.ae/products/door-locks/fermator-landing-door-lock",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -3207,6 +3753,16 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/sensors/escalator-pressure-sensor-fp-a1pnp5m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "61U 61N 30 monostable - NC Switch",
+        "description": " 61U 61N 30 monostable - NC Switch",
+        "code": "BS-SR0027",
+        "url": "/sensors/61u-61n-30-monostable-nc-switch",
+        "image": "/img/products/sensors/61u-61n-30-monostable-nc-switch/1.jpeg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/sensors/61u-61n-30-monostable-nc-switch",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -3547,6 +4103,33 @@
         "image": "/img/products/guide-shoes/guide-shoe-full-set-k/1.jpg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-k",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Doppler Guide rail Shoe 120X29",
+        "description": "Doppler Guide rail Shoe 120X29",
+        "code": "BS-GS0036",
+        "url": "/guide-shoes/doppler-guide-rail-shoe-120x29",
+        "image": "/img/products/guide-shoes/doppler-guide-rail-shoe-120x29/1.jpeg",
+        "canonical": "https://www.bestechparts.ae/products/guide-shoes/doppler-guide-rail-shoe-120x29",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Guide Shoe Full set - 6mm",
+        "description": "OTIS Guide Shoe Full set - 6mm",
+        "code": "BS-GS0039",
+        "url": "/guide-shoes/guide-shoe-full-set-6mm",
+        "image": "/img/products/guide-shoes/guide-shoe-full-set-6mm/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-6mm",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Guide Shoe Insert - 6mm",
+        "description": "OTIS Guide Shoe Insert - 6mm",
+        "code": "BS-GS0040",
+        "url": "/guide-shoes/guide-shoe-insert-6mm",
+        "image": "/img/products/guide-shoes/guide-shoe-insert-6mm/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-6mm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -3974,6 +4557,16 @@
         "image": "/img/products/encoders/7m-cable-for-1387-encoder/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/encoders/7m-cable-for-1387-encoder",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Elevator Encoder X65AC11 - 512 45mm",
+        "description": "Mitsubishi Elevator Encoder X65AC11",
+        "code": "BS-EN0026",
+        "url": "/encoders/elevator-encoder-x65ac11-512-45mm",
+        "image": "/img/products/encoders/elevator-encoder-x65ac11-512-45mm/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/encoders/elevator-encoder-x65ac11-512-45mm",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -4088,7 +4681,35 @@
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/inverters/inverter-5-5kw-nice-l-c",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-        
+      },
+      {
+        "name": "NICE-L-C-4030 30KW",
+        "description": "NICE-L-C-4030 30KW",
+        "code": "BS-IN0008",
+        "url": "/inverters/nice-l-c-4030-30kw",
+        "image": "/img/products/inverters/nice-l-c-4030-30kw/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/inverters/nice-l-c-4030-30kw",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "NICE-L-C-4045 45KW",
+        "description": "NICE-L-C-4045 45KW",
+        "code": "BS-IN0009",
+        "url": "/inverters/nice-l-c-4045-45kw",
+        "image": "/img/products/inverters/nice-l-c-4045-45kw/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/inverters/nice-l-c-4045-45kw",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Delta VFD Inverter VFD022E43A 2.2KW",
+        "description": "Delta VFD Inverter VFD022E43A 2.2KW",
+        "code": "BS-IN0011",
+        "url": "/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
+        "image": "/img/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -4206,6 +4827,81 @@
         "url": "/ard/hh-ard-3p-45kw-380v-tf",
         "image": "/img/products/ard/ard-3p-45kw-380v-tf/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-45kw-380v-tf",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Battey 12V 7AH",
+        "description": "Battey 12V 7AH",
+        "code": "BS-AR0012",
+        "url": "/ard/battery-12v-7ah",
+        "image": "/img/products/ard/battery-12v-7ah/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-7ah",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Battery 12V 9AH",
+        "description": "Battery 12V 9AH",
+        "code": "BS-AR0013",
+        "url": "/ard/battery-12v-9ah",
+        "image": "/img/products/ard/battery-12v-9ah/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-9ah",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Battery 12V 12AH",
+        "description": "Battery 12V 12AH",
+        "code": "BS-AR0014",
+        "url": "/ard/battery-12v-12ah",
+        "image": "/img/products/ard/battery-12v-12ah/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-12ah",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "UPS 1500VA 900W",
+        "description": "UPS 1500VA 900W",
+        "code": "BS-AR0015",
+        "url": "/ard/ups-1500va-900w",
+        "image": "/img/products/ard/ups-1500va-900w/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/ard/ups-1500va-900w",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "TMR-ARD-3P-15KW",
+        "description": "TMR-ARD-3P-15KW",
+        "code": "BS-AR0016",
+        "url": "/ard/tmr-ard-3p-15kw",
+        "image": "/img/products/ard/tmr-ard-3p-15kw/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-15kw",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "TMR-ARD-3P-45KW",
+        "description": "TMR-ARD-3P-45KW",
+        "code": "BS-AR0017",
+        "url": "/ard/tmr-ard-3p-45kw",
+        "image": "/img/products/ard/tmr-ard-3p-45kw/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-45kw",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "HH-ARD-18.5KW",
+        "description": "HH-ARD-18.5KW",
+        "code": "BS-AR0018",
+        "url": "/ard/hh-ard-18.5kw",
+        "image": "/img/products/ard/hh-ard-18.5kw/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-18.5kw",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Inovance ARD 3P 7.5KW",
+        "description": "Inovance ARD 3P 7.5KW",
+        "code": "BS-AR0019",
+        "url": "/ard/inovance-ard-3p-7.5kw",
+        "image": "/img/products/ard/inovance-ard-3p-7.5kw/1.jpg",
+        "slider": ["1", "2", "3"],
+        "canonical": "https://www.bestechparts.ae/products/ard/inovance-ard-3p-7.5kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -4326,6 +5022,16 @@
         "code": "BS-DD0011",
         "url": "/door-drives/elevator-door-motor-yvp90-6b1",
         "image": "/img/products/door-drives/elevator-door-motor-yvp90-6b1/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6b1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door Motor GR63X55 24VDC Dunkermotoren",
+        "description": "Door Motor GR63X55 24VDC Dunkermotoren",
+        "code": "BS-DD0012",
+        "url": "/door-drives/door-motor-gr63x55-24vdc-dunkermotoren",
+        "image": "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/1.jpeg",
         "slider": ["1", "2"],
         "canonical": "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6b1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -4475,6 +5181,123 @@
         "url": "/signalization/bcgcm001-ss-hairline-cop-g4",
         "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g4",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BXGFM019 SS Hairline - LOP",
+        "description": "BXGFM019 SS Hairline - LOP",
+        "code": "BS-SG0017",
+        "url": "/signalization/bxgfm019-ss-hairline-lop",
+        "image": "/img/products/signalization/bxgfm019-ss-hairline-lop/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bxgfm019-ss-hairline-lop",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCGBF001 SS Hairline - COP G+1",
+        "description": "BCGBF001 SS Hairline - COP G+1",
+        "code": "BS-SG0018",
+        "url": "/signalization/bcgbf001-ss-hairline-cop-g1",
+        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCGBF001 SS Hairline - COP G+3",
+        "description": "BXGAS004 SS Hairline - COP G+3",
+        "code": "BS-SG0019",
+        "url": "/signalization/bcgbf001-ss-hairline-cop-g3",
+        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g3",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BXGAS004 SS Hairline - LOP",
+        "description": "BXGAS004 SS Hairline - LOP",
+        "code": "BS-SG0020",
+        "url": "/signalization/bxgas004-ss-hairline-lop",
+        "image": "/img/products/signalization/bxgas004-ss-hairline-lop/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bxgas004-ss-hairline-lop",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCG401 black glass - COP G+2",
+        "description": "BCG401 black glass - COP G+2",
+        "code": "BS-SG0021",
+        "url": "/signalization/bcg401-black-glass-cop-g2",
+        "image": "/img/products/signalization/bcg401-black-glass-cop-g2/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g2",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCG401 black glass - COP G+4",
+        "description": "BCG401 black glass - COP G+4",
+        "code": "BS-SG0022",
+        "url": "/signalization/bcg401-black-glass-cop-g4",
+        "image": "/img/products/signalization/bcg401-black-glass-cop-g4/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g4",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BXGDM007 black glass - LOP",
+        "description": "BXGDM007 black - LOP",
+        "code": "BS-SG0023",
+        "url": "/signalization/bxgdm007-black-glass-lop",
+        "image": "/img/products/signalization/bxgdm007-black-glass-lop/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-black-glass-lop",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCG401 white glass - COP G+1",
+        "description": "BCG401 white glass - COP G+1",
+        "code": "BS-SG0024",
+        "url": "/signalization/bcg401-white-glass-cop-g1",
+        "image": "/img/products/signalization/bcg401-white-glass-cop-g1/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCG401 white glass - COP G+3",
+        "description": "BCG401 white glass - COP G+3",
+        "code": "BS-SG0025",
+        "url": "/signalization/bcg401-white-glass-cop-g3",
+        "image": "/img/products/signalization/bcg401-white-glass-cop-g3/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g3",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BXGDM007 white glass - LOP",
+        "description": "BXGDM007 white glass - LOP",
+        "code": "BS-SG0026",
+        "url": "/signalization/bxgdm007-white-glass-lop",
+        "image": "/img/products/signalization/bxgdm007-white-glass-lop/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-white-glass-lop",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "White LOP Full set - Without display",
+        "description": "Schindler LOP - Without display",
+        "code": "BS-SG0029",
+        "url": "/signalization/white-lop-full-set-without-display",
+        "image": "/img/products/signalization/white-lop-full-set-without-display/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/white-lop-full-set-without-display",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCG451 Black Glass COP G+1",
+        "description": "BCG451 Black Glass COP G+1",
+        "code": "BS-SG0030",
+        "url": "/signalization/bcg451-black-glass-cop-g1",
+        "image": "/img/products/signalization/bcg451-black-glass-cop-g1/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-cop-g1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "BCG451 Black Glass LOP",
+        "description": "BCG451 Black Glass LOP",
+        "code": "BS-SG0031",
+        "url": "/signalization/bcg451-black-glass-lop",
+        "image": "/img/products/signalization/bcg451-black-glass-lop/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -4630,7 +5453,6 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
-    
   },
 
   {
@@ -4786,6 +5608,54 @@
         "image": "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "MCTC-MCB-C2",
+        "description": "Monarch: MCTC-MCB-C2",
+        "code": "BS-PB0017",
+        "url": "/pcb-boards/mctc-mcb-c2",
+        "image": "/img/products/pcb-boards/mctc-mcb-c2/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c2",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+
+      {
+        "name": "MCTC-MCB-C3",
+        "description": "Monarch: MCTC-MCB-C3",
+        "code": "BS-PB0018",
+        "url": "/pcb-boards/mctc-mcb-c3",
+        "image": "/img/products/pcb-boards/mctc-mcb-c3/1.jpg",
+        "slider": ["1", "2"],
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c3",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "MNK Bluetooth",
+        "description": "MNK Bluetooth",
+        "code": "BS-PB0019",
+        "url": "/pcb-boards/mnk-bluetooth",
+        "image": "/img/products/pcb-boards/mnk-bluetooth/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/mnk-bluetooth",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "MCTC-CCB-B COP Board",
+        "description": "MCTC-CCB-B COP Board",
+        "code": "BS-PB0021",
+        "url": "/pcb-boards/mctc-ccb-b-cop-board",
+        "image": "/img/products/pcb-boards/mctc-ccb-b-cop-board/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/mctc-ccb-b-cop-board",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "FAA23600AB1 - Arrival Gong PCB",
+        "description": "FAA23600AB1 - Arrival Gong PCB OTIS",
+        "code": "BS-PB0022",
+        "url": "/pcb-boards/arrival-gong-pcb-faa23600ab1",
+        "image": "/img/products/pcb-boards/arrival-gong-pcb-faa23600ab1/1.jpeg",
+        "canonical": "https://www.bestechparts.ae/products/pcb-boards/arrival-gong-pcb-faa23600ab1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
   },
@@ -4922,6 +5792,15 @@
         "url": "/keys/mitsubishi-door-open-key",
         "image": "/img/products/keys/mitsubishi-door-open-key/1.jpg",
         "canonical": "https://www.bestechparts.ae/products/keys/mitsubishi-door-open-key",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "Door Key 1000mm K",
+        "description": "Door Key 1000mm K",
+        "code": "BS-KY0009",
+        "url": "/keys/door-key-1000mm-k",
+        "image": "/img/products/keys/door-key-1000mm-k/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/keys/door-key-1000mm-k",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
