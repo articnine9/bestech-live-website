@@ -4,7 +4,7 @@ import BlogContent from "./BlogContent";
 
 // ✅ Next.js 16 SAFE metadata
 export async function generateMetadata(props) {
-  const params = await props.params; // ✅ REQUIRED in Next 16
+  const params = await props.params;
   const slug = params?.url;
 
   if (!slug) {
@@ -31,21 +31,54 @@ export async function generateMetadata(props) {
     };
   }
 
+  const url = blog.canonical || `https://www.bestechparts.ae/blog/${slug}`;
+
+  // ✅ OG Image fallback
+  const ogImage = blog.og_image
+    ? `https://www.bestechparts.ae${blog.og_image}`
+    : blog.image
+      ? `https://www.bestechparts.ae${blog.image}`
+      : "https://www.bestechparts.ae/images/og-default.jpg";
+
   return {
     title: blog.meta_title || blog.title,
     description:
       blog.meta_description || `Read more about ${blog.title} on our blog.`,
     keywords: blog.keywords || "",
+
     alternates: {
-      canonical: blog.canonical || `https://www.bestechparts.ae/blog/${slug}`,
+      canonical: url,
     },
+
     robots: blog.robots || "index, follow",
+
+    openGraph: {
+      type: "article",
+      siteName: "Bestech Parts",
+      title: blog.meta_title || blog.title,
+      description: blog.meta_description,
+      url,
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+        },
+      ],
+    },
+
+    twitter: {
+      card: "summary_large_image",
+      title: blog.meta_title || blog.title,
+      description: blog.meta_description,
+      images: [ogImage],
+    },
   };
 }
 
 // ✅ Next.js 16 SAFE Server Component
 export default async function Page(props) {
-  const params = await props.params; // ✅ REQUIRED in Next 16
+  const params = await props.params;
   const slug = params?.url;
 
   if (!slug) {
