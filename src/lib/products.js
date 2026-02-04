@@ -4,14 +4,15 @@ export const products = [
     slug: "cables-and-wires",
     page_name: "Cables and Wires",
     code: "BS-CW",
-    meta_title: "Elevator Cables & Wires | Bestech UAE",
+    meta_title:
+      "Elevator Wire Rope Supplier UAE | Cables & Wires in Dubai Sharjah",
     meta_description:
-      "Elevator Wire Rope Supplier UAE | Cables & Wires in Dubai Sharjah  Find trusted Elevator Wire Rope Supplier UAE. Bestech offers lift cables, steel wire ropes, and quality elevator wire suppliers in Dubai, Sharjah, and across UAE",
+      "Find trusted Elevator Wire Rope Supplier UAE. Bestech offers lift cables, steel wire ropes, and quality elevator wire suppliers in Dubai, Sharjah, and across UAE.",
+    keywords:
+      "Elevator Wire Rope Supplier UAE, lift cables suppliers UAE, elevator Steel Wire Rope Suppliers UAE, Quality elevator wire suppliers Dubai, stell wire rope suppliers Sharjah",
     canonical: "https://www.bestechparts.ae/products/cables-and-wires",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    keywords:
-      "Elevator Wire Rope Supplier UAE, lift cables suppliers UAE, elevator Steel Wire Rope Suppliers UAE, Quality elevator wire suppliers Dubai, stell wire rope suppliers Sharjah ",
 
     items: [
       {
@@ -21,9 +22,12 @@ export const products = [
         url: "/cables-and-wires/wire-0-75mm",
         image: "/img/products/cables-and-wires/wire-0-75mm/1.jpg",
         slider: ["1", "2", "3"],
-        meta_title: "0.75mm Elevator Wire (BS-CW0001) | Bestech Parts UAE",
+        meta_title:
+          "Buy Elevator Wire Rope 0.75mm in Dubai, UAE | Bestechparts",
         meta_description:
-          "Shop 0.75mm high-quality elevator wire (BS-CW0001) for safe and reliable installations. Available now at Bestech Parts with UAE-wide delivery.",
+          "Buy elevator wire rope in Dubai from Bestechparts. Premium 0.75mm wire rope, ideal for lifts & escalators in Sharjah, Dubai & UAE. Get quality brands like Otis, Kone, Mitsubishi.",
+        keywords:
+          "Buy elevator wire rope in Dubai, elevator rope supplier in UAE, wire 0.75mm rope suppliers in UAE, buy 100m roll wire rope",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/wire-0-75mm",
         robots:
@@ -36,9 +40,12 @@ export const products = [
         url: "/cables-and-wires/wire-6mm",
         image: "/img/products/cables-and-wires/wire-6mm/1.jpg",
         slider: ["1", "2", "3"],
-        meta_title: "6mm Elevator Wire – BS-CW0002 | Bestech Parts UAE",
+        meta_title:
+          "Buy Elevator Wire Rope 6mm in Sharjah & Dubai | Bestechparts UAE",
         meta_description:
-          "Shop durable 6mm wires (BS-CW0002) for elevator and escalator systems. High-quality build, fast UAE delivery – only at Bestech Parts.",
+          "Buy elevator wire rope in Sharjah from Bestechparts. 6mm high-quality lift wires for Dubai & UAE. Including trusted brands like Schindler, Thyssenkrupp, Otis, and Mitsubishi.",
+        keywords:
+          "Buy elevator wire rope in Sharjah, elevator rope supplier Dubai, UAE, wire 6mm rope suppliers in UAE, buy 6mm roll wire rope",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/wire-6mm",
         robots:
@@ -51,9 +58,11 @@ export const products = [
         url: "/cables-and-wires/wire-8mm",
         image: "/img/products/cables-and-wires/wire-8mm/1.jpg",
         slider: ["1", "2", "3"],
-        meta_title: "8mm Elevator Wire – BS-CW0003 | Bestech Parts UAE",
+        meta_title: "Buy Elevator 8mm Wire Rope in Dubai, UAE | Bestechparts",
         meta_description:
-          "Shop durable 8mm elevator wire (BS-CW0003) for safe and efficient lift operations. High-quality cables, fast delivery across UAE.",
+          "Buy elevator 8mm wire rope in Dubai at Bestechparts. Durable 8mm lift wires for Sharjah & UAE. Compatible with Otis, Kone, Mitsubishi & Thyssenkrupp elevators.",
+        keywords:
+          "Buy elevator 8mm wire rope in Dubai, wire 8mm rope suppliers in UAE, 8mm elevator wire rope",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/wire-8mm",
         robots:
@@ -67,9 +76,11 @@ export const products = [
         image: "/img/products/cables-and-wires/wire-10mm/1.jpg",
         slider: ["1", "2", "3"],
         meta_title:
-          "10mm Elevator Wire – Durable & High-Quality | Bestech Parts UAE",
+          "Buy 10mm Elevator Cable in Dubai | Bestechparts Lifts & Wires",
         meta_description:
-          "Shop BS-CW0004 10mm elevator wire for reliable performance and safety. Ideal for lift systems. Fast delivery across UAE from Bestech Parts.",
+          "Buy 10mm elevator cable in Dubai from Bestechparts. High-quality 100m lift wire rolls for Sharjah & UAE. Compatible with Otis, Schindler, Mitsubishi & Kone.",
+        keywords:
+          "Buy 10mm elevator cable Dubai, lift wire 100m roll cable, Elevator cable wire 100m roll",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/wire-10mm",
         robots:
@@ -81,9 +92,12 @@ export const products = [
         code: "BS-CW0005",
         url: "/cables-and-wires/wire-lugs-0-75mm",
         image: "/img/products/cables-and-wires/wire-lugs-0-75mm/1.jpg",
-        meta_title: "0.75mm Wire Lugs – BS-CW0005 | Bestech Parts UAE ",
+        meta_title:
+          "Buy Elevator Wire Lugs 0.75mm in Dubai, UAE | Bestechparts",
         meta_description:
-          "Shop 0.75mm wire lugs (BS-CW0005) for safe and secure electrical connections. High-quality, durable, and available across UAE at Bestech Parts.",
+          "Buy elevator wire lugs 0.75mm in Dubai at Bestechparts. Wholesale 1000pcs packs for lifts in Sharjah & UAE. Compatible with Otis, Hyundai, Mitsubishi elevators.",
+        keywords:
+          "elevator Wire lugs 0.75mm, wholesale lift wire lugs 1000pcs pack, Buy elevator wire lugs in Dubai, UAE",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-0-75mm",
         robots:
@@ -95,9 +109,12 @@ export const products = [
         code: "BS-CW0006",
         url: "/cables-and-wires/wire-lugs-1-5mm",
         image: "/img/products/cables-and-wires/wire-lugs-1-5mm/1.jpg",
-        meta_title: "1.5mm Wire Lugs – Durable Cable Connectors | Bestech UAE ",
+        meta_title:
+          "Buy Elevator Wire Lugs 1.5mm in Sharjah, UAE | Bestechparts",
         meta_description:
-          "Shop 1.5mm wire lugs (BS-CW0006) for secure cable connections. High-quality, corrosion-resistant lugs ideal for elevators and control panels.",
+          "Buy elevator wire lugs 1.5mm in Sharjah from Bestechparts. Premium wiring supplies for lifts & escalators in Dubai & UAE. Shop trusted brands like Kone, Otis, and Mitsubishi today!",
+        keywords:
+          "elevator Wire lugs 1.5mm, best wire lugs suppliers in UAE, elevator wiring supplies Sharjah",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-1-5mm",
         robots:
@@ -109,9 +126,12 @@ export const products = [
         code: "BS-CW0007",
         url: "/cables-and-wires/wire-lugs-6mm",
         image: "/img/products/cables-and-wires/wire-lugs-6mm/1.jpg",
-        meta_title: "6mm Wire Lugs – BS-CW0007 | Bestech Parts UAE",
+        meta_title:
+          "Buy Elevator Wire Lugs 6mm in Dubai, UAE | Bestechparts Lifts",
         meta_description:
-          "Shop 6mm wire lugs (BS-CW0007) for secure electrical connections. Durable, high-quality cable terminals available online at Bestech Parts UAE.",
+          "Buy elevator wire lugs 6mm in Dubai at Bestechparts. 1000pcs lift wiring spare parts for Sharjah & UAE. Compatible with Hyundai, Otis, Thyssenkrupp elevators.",
+        keywords:
+          "elevator Wire lugs 6mm, elevator spare parts wire lugs 1000pcs",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-6mm",
         robots:
@@ -123,10 +143,11 @@ export const products = [
         code: "BS-CW0008",
         url: "/cables-and-wires/wire-lugs-10mm",
         image: "/img/products/cables-and-wires/wire-lugs-10mm/1.jpg",
-        meta_title:
-          "10mm Wire Lugs – Durable Cable Connectors | Bestech Parts UAE",
+        meta_title: "Buy Elevator Wire Lugs 10mm in Dubai, UAE | Bestechparts",
         meta_description:
-          "Shop 10mm wire lugs (BS-CW0008) for secure cable connections. High-quality, corrosion-resistant, and ideal for elevator systems. Fast UAE delivery.",
+          "Buy elevator wire lugs 10mm in Dubai at Bestechparts. Premium lift spare parts for Sharjah & UAE. Works with Otis, Kone, Mitsubishi, Thyssenkrupp & Schindler.",
+        keywords:
+          "elevator Wire lugs 10mm, elevator spare parts wire lugs suppliers UAE",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/wire-lugs-10mm",
         robots:
@@ -139,13 +160,18 @@ export const products = [
         url: "/cables-and-wires/cable-db9-5m",
         image: "/img/products/cables-and-wires/cable-db9-5m/1.jpg",
         slider: ["1", "2"],
-        meta_title: "DB9 Cable 5M – BS-CW0001 | Bestech Parts UAE",
+        meta_title:
+          "Mitsubishi DB9 Elevator Cable 5m in Dubai, UAE | Bestechparts",
         meta_description:
-          " Shop DB9 5-meter cable (BS-CW0001) for reliable signal transmission. High-quality, durable, and ideal for elevator systems. Fast UAE delivery.",
+          "Buy Mitsubishi DB9 elevator cable 5m in Dubai at Bestechparts. High-quality extension cables for lifts in Sharjah & UAE. Trusted for Otis, Kone, Thyssenkrupp elevators.",
+        keywords:
+          "Mitsubishi Modbus Display Cable 5m, DB9-5m elevator Extension Cable, elevator cable DB9 5m, DB9 cable 5m for elevator control panel",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/cable-db9-5m",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Mitsubishi Modbus DB9 5M Display Cable for Elevator Systems</h2>\n<p>The <strong>Mitsubishi Modbus DB9 5M Display Cable</strong> is a high-quality 5-meter <strong>RS-232 serial interface cable</strong> designed for elevator systems. It connects the CTB (Control Terminal Board) to the CCB (Control Communication Board), allowing technicians to perform essential tasks such as diagnostics, programming, and configuration of Mitsubishi elevator controllers and display units.</p>\n<p>Engineered for reliable signal transmission, this Modbus display cable ensures stable and accurate data exchange. Its durable design supports consistent performance in maintenance, monitoring, and troubleshooting operations, reducing downtime and enhancing overall elevator reliability.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Cable Length:</strong> 5 Meters</li>\n  <li><strong>Interface:</strong> RS-232 Serial</li>\n  <li><strong>Function:</strong> Diagnostics, Programming, and Configuration</li>\n  <li><strong>Application:</strong> Mitsubishi Elevator Controllers and Displays</li>\n  <li><strong>Compatibility:</strong> CTB to CCB Communication</li>\n</ul>\n<h2>Top Elevator Power Cable &amp; Wire Provider in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a dependable <strong>elevator power cable and wire supplier in UAE</strong>, offering high-performance cables that ensure efficient communication, superior reliability, and compatibility with leading elevator brands, including Mitsubishi.</p>',
       },
       {
         name: "Cable - Type: DB9 10M",
@@ -154,13 +180,17 @@ export const products = [
         url: "/cables-and-wires/cable-db9-10m",
         image: "/img/products/cables-and-wires/cable-db9-10m/1.jpg",
         meta_title:
-          "Mitsubishi Modbus Display Cable BS-CW0004 | Bestech Parts UAE",
+          "Mitsubishi DB9 Elevator Cable 10m in Dubai, UAE | Bestechparts",
         meta_description:
-          "Buy BS-CW0004 Mitsubishi Modbus cable for display units. High-quality, durable wiring for reliable elevator control. Fast UAE shipping.",
+          "Buy Mitsubishi DB9 elevator cable 10m in Dubai at Bestechparts. Reliable extension cables for lifts in Sharjah & UAE. Works with Kone, Otis, Thyssenkrupp.",
+        keywords:
+          "Mitsubishi Modbus Display Cable, DB9-10m elevator Extension Cable, elevator cable DB9 10m, DB9 cable 10m for elevator control panel",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/cable-db9-10m",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Mitsubishi Modbus DB9 10M Display Cable for Elevator Systems</h2>\n<p>The <strong>Mitsubishi Modbus DB9 10M Display Cable</strong> is a 10-meter <strong>RS-232 serial interface cable</strong> specifically designed for Mitsubishi elevator systems. It connects the CTB (Control Terminal Board) to the CCB (Control Communication Board), enabling technicians to perform diagnostics, programming, and configuration tasks efficiently.</p>\n<p>Engineered for consistent and stable signal transmission, this Modbus cable ensures accurate data communication between elevator components. It enhances system monitoring, facilitates troubleshooting, and reduces downtime during maintenance or setup operations. With its durable build and high-quality shielding, the cable maintains elevator reliability and long-term performance.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Cable Length:</strong> 10 Meters</li>\n  <li><strong>Interface:</strong> RS-232 Serial</li>\n  <li><strong>Function:</strong> Diagnostics, Programming, and Configuration</li>\n  <li><strong>Application:</strong> Mitsubishi Elevator Controllers and Displays</li>\n  <li><strong>Compatibility:</strong> CTB to CCB Communication</li>\n</ul>\n<h2>Trusted Source for Elevator Power Cables &amp; Wires UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a reliable <strong>elevator power cable and wire supplier in UAE</strong>, offering durable and tested cables that ensure uninterrupted elevator operations, smooth communication, and maximum system efficiency across major elevator brands including Mitsubishi.</p>',
       },
       {
         name: "Cable - Type: command board",
@@ -169,13 +199,18 @@ export const products = [
         url: "/cables-and-wires/cable-command-board-70cm",
         image: "/img/products/cables-and-wires/cable-command-board-70cm/1.jpg",
         slider: ["1", "2", "3"],
-        meta_title: "Cable for Command Board 70cm – Bestech Parts UAE",
+        meta_title:
+          "Command Board Cable 70cm Elevator in Dubai, UAE | Bestechparts",
         meta_description:
-          "Buy 70cm command board cable for elevators and escalators. Durable, high-quality wiring solution. Fast delivery across UAE from Bestech Parts.",
+          "Buy command board cable 70cm for elevator control boards in Dubai at Bestechparts. Perfect for lifts in Sharjah & UAE. Compatible with Otis, Kone, Mitsubishi.",
+        keywords:
+          "DB9 cable 5m for elevator displays, command board cable 70cm for elevator control board",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/cable-command-board-70cm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Command Board Cable 70cm for Elevator Control Board</h2>\n<p>The <strong>Command Board Cable 70cm</strong> for elevator control board is a specialized connection cable used to link the elevator <strong>push button panel</strong> to the <strong>calling PCB (Printed Circuit Board)</strong> inside the <strong>Car Operating Panel (COP)</strong>. It ensures precise transmission of passenger commands—such as floor selections and door operations—enabling smooth communication with the elevator control system.</p>\n<p>Built with durable materials and tested for consistent signal flow, this cable enhances the reliability and safety of elevator operations. Installing a high-quality command board cable helps maintain system efficiency, minimizes communication errors, and reduces maintenance downtime.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Length:</strong> 70 cm</li>\n  <li><strong>Function:</strong> Connects Push Button Panel to Calling PCB</li>\n  <li><strong>Application:</strong> Car Operating Panel (COP)</li>\n  <li><strong>Compatibility:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, KONE, and more</li>\n</ul>\n<h2>Premium Elevator Power Cable &amp; Wire Supplier UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> provides premium <strong>elevator power cable and wire solutions</strong> in UAE, designed for reliability, long service life, and compatibility with leading elevator brands. Each cable is manufactured to support smooth communication and efficient performance in modern elevator systems.</p>',
       },
       {
         name: "Display Mitsubishi cable",
@@ -184,11 +219,114 @@ export const products = [
         url: "/cables-and-wires/display-mitsubishi-modbus-cable",
         image:
           "/img/products/cables-and-wires/display-mitsubishi-modbus-cable/1.jpg",
-        meta_title: "AC Contactor 110V 25A (1NO+1NC) | Bestech Parts UAE",
+        meta_title:
+          "Mitsubishi Display Modbus Cable Elevator in Dubai, UAE | Bestechparts",
         meta_description:
-          "Shop AC110V 25A contactor with 1NO+1NC configuration at Bestech Parts. Ideal for lift and industrial control panels. Fast UAE delivery.",
+          "Buy Mitsubishi display Modbus elevator cable in Sharjah from Bestechparts. High-quality lift communication cable for Dubai & UAE. Works with Otis, Kone, Thyssenkrupp.",
+        keywords:
+          "elevator communication cable supplier Sharjah, Display Mitsubishi cable BS-CW0012 sharjah",
         canonical:
           "https://www.bestechparts.ae/products/cables-and-wires/display-mitsubishi-modbus-cable",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Cable - Type: command board: 90cm",
+        description: "Type: command board: 90cm",
+        code: "BS-CW0013",
+        url: "/cables-and-wires/cable-type-command-board-90cm",
+        image:
+          "/img/products/cables-and-wires/cable-type-command-board-90cm/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/cables-and-wires/cable-type-command-board-90cm",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Button Cables - Assorted",
+        description: "For all button models",
+        code: "BS-CW0014",
+        url: "/cables-and-wires/button-cables-assorted",
+        image: "/img/products/cables-and-wires/button-cables-assorted/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/cables-and-wires/button-cables-assorted",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Travelling Cable 24 core",
+        description: "Travelling Cable 24 core",
+        code: "BS-CW0015",
+        url: "/cables-and-wires/travelling-cable-24-core",
+        image: "/img/products/cables-and-wires/travelling-cable-24-core/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/cables-and-wires/travelling-cable-24-core",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "RR Cable 0.75mm",
+        description: "RR Cable 0.75mm",
+        code: "BS-CW0016",
+        url: "/cables-and-wires/rr-cable-075mm",
+        image: "/img/products/cables-and-wires/rr-cable-075mm/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/cables-and-wires/rr-cable-075mm",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Wire 4mm - 100m/roll",
+        description: "Wire 4mm",
+        code: "BS-CW0017",
+        url: "/cables-and-wires/wire-4mm-100m-roll",
+        image: "/img/products/cables-and-wires/wire-4mm-100m-roll/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/cables-and-wires/wire-4mm-100m-roll",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Display cables - Assorted",
+        description: "For all display models",
+        code: "BS-CW0018",
+        url: "/cables-and-wires/display-cables-assorted",
+        image: "/img/products/cables-and-wires/display-cables-assorted/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/cables-and-wires/display-cables-assorted",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Cables - LOP display to button",
+        description: "Cables - LOP display to button",
+        code: "BS-CW0019",
+        url: "/cables-and-wires/cables-lop-display-to-button",
+        image:
+          "/img/products/cables-and-wires/cables-lop-display-to-button/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/cables-and-wires/cables-lop-display-to-button",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -198,14 +336,16 @@ export const products = [
     slug: "contactors",
     page_name: "Contactors",
     code: "BS-CT",
-    meta_title: "Elevator spare parts contractors in UAE near me",
+    meta_title:
+      "Elevator Contactors Suppliers in UAE | Lift Parts Dubai Sharjah",
     meta_description:
-      "Elevator Contactors Suppliers in UAE | Lift Parts Dubai Sharjah  Top Elevator Contactors Suppliers in UAE. Find quality lift contactor supplier in Sharjah, trusted contactor supplier in UAE & reliable lift electrical suppliers UAE",
-    canonical: "https://www.bestechparts.ae/products/contactors",
+      "Top Elevator Contactors Suppliers in UAE. Find quality lift contactor supplier in Sharjah, trusted contactor supplier in UAE & reliable lift electrical suppliers UAE.",
     keywords:
       "Elevator Contactors Suppliers in UAE, quality lift contactor supplier in Sharjah, Contactor supplier in UAE, lift electrical suppliers UAE",
+    canonical: "https://www.bestechparts.ae/products/contactors",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Contactor AC110V 25A 1NO+1NC",
@@ -214,13 +354,18 @@ export const products = [
         url: "/contactors/contactor-ac110v-25a-1no-1nc",
         image: "/img/products/contactors/contactor-ac110v-25a-1no-1nc/1.jpg",
         slider: ["1", "2"],
-        meta_title: "AC Contactor 110V 32A (1NO+1NC) | Bestech Parts UAE",
+        meta_title:
+          "Elevator Contactor AC110V 25A 1NO 1NC Supplier in Sharjah, Dubai UAE",
         meta_description:
-          "Buy AC 110V 32A contactor with 1NO+1NC configuration at Bestech Parts. Reliable performance and fast delivery across UAE.",
+          "Buy AC110V 25A 1NO 1NC elevator contactor from Bestechparts. Trusted supplier in Sharjah, Dubai & across UAE for Otis, Sigma and Fuji lift spare parts.",
+        keywords:
+          "Elevator Contactor AC110V 25A 1NO 1NC, elevator contactor AC110V 25A, elevator parts sharjah, otis contactor Dubai, sigma contactor UAE, lift spare parts supplier, elevator control parts",
         canonical:
           "https://www.bestechparts.ae/products/contactors/contactor-ac110v-25a-1no-1nc",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>High-Performance Elevator Contactor AC110V 25A 1NO+1NC</h2>\n<p>The <strong>Elevator Contactor AC110V 25A 1NO+1NC</strong> is designed for reliable performance in elevator brake and motor control systems. Its durable construction reduces maintenance needs and ensures long-term stability, making it a trusted choice for smooth and consistent elevator operation.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Coil Voltage:</strong> AC110V</li>\n  <li><strong>Current Rating:</strong> 25A</li>\n  <li><strong>Contact Configuration:</strong> 1NO + 1NC</li>\n  <li><strong>Application:</strong> Brake &amp; Motor Contactor</li>\n  <li><strong>Supported Brands:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, LG, KONE and more</li>\n</ul>\n<h2>Your Trusted Elevator Contactors Spare Parts Supplier</h2>\n<p>As a leading <a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Elevator Contactors spare parts supplier</a>, Bestech provides high-quality and compatible replacements for all major elevator systems. We offer fast shipping, reliable service, and technical support to ensure optimal performance for your elevators.</p>',
       },
       {
         name: "Contactor AC110V 32A 1NO+1NC",
@@ -229,13 +374,18 @@ export const products = [
         url: "/contactors/contactor-ac110v-32a-1no-1nc",
         image: "/img/products/contactors/contactor-ac110v-32a-1no-1nc/1.jpg",
         slider: ["1", "2", "3"],
-        meta_title: "AC Contactor 110V 50A (1NO+1NC) | Bestech Parts UAE ",
+        meta_title:
+          "Elevator Contactor AC110V 32A 1NO 1NC Supplier in Sharjah, UAE",
         meta_description:
-          "Shop AC110V 50A contactor with 1NO+1NC configuration. Reliable performance for elevator systems. Fast UAE delivery from Bestech Parts.",
+          "Order AC110V 32A 1NO 1NC elevator contactor from Bestechparts. Leading supplier in Sharjah, Dubai & UAE for Fuji, Otis and Sigma lift spare parts.",
+        keywords:
+          "Elevator Contactor AC110V 32A 1NO 1NC, elevator contactor AC110V 32A, power contactor 32A UAE, fuji elevator contactor Dubai, elevator contactor parts sharjah, electric lift contactor",
         canonical:
           "https://www.bestechparts.ae/products/contactors/contactor-ac110v-32a-1no-1nc",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>High-Performance Elevator Contactor AC110V 32A 1NO+1NC</h2>\n<p>The <strong>Elevator Contactor AC110V 32A 1NO+1NC</strong> is designed for reliable elevator brake and motor control operation. Rated at 32A with an AC110V coil, it delivers stable performance under frequent switching conditions, ensuring efficiency and long-term durability in elevator systems.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Coil Voltage:</strong> AC110V</li>\n  <li><strong>Current Rating:</strong> 32A</li>\n  <li><strong>Contact Configuration:</strong> 1NO + 1NC</li>\n  <li><strong>Application:</strong> Brake and Motor Contactor</li>\n  <li><strong>Supported Brands:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, LG, KONE, and more</li>\n</ul>\n<h2>Your Trusted Elevator Contactor Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a trusted elevator contactors spare parts supplier, offering quality-tested components built for durability and compatibility with leading elevator systems, ensuring safe and consistent performance.</p>',
       },
       {
         name: "Contactor AC110V 50A 1NO+1NC",
@@ -244,13 +394,18 @@ export const products = [
         url: "/contactors/contactor-ac110v-50a-1no-1nc",
         image: "/img/products/contactors/contactor-ac110v-50a-1no-1nc/1.jpg",
         slider: ["1", "2"],
-        meta_title: " AC110V 65A Contactor (1NO+1NC) | Bestech Parts UAE",
+        meta_title:
+          "Elevator Contactor AC110V 50A 1NO 1NC Supplier in Dubai, UAE",
         meta_description:
-          "Shop durable AC110V 65A contactors with 1NO+1NC configuration at Bestech Parts. Reliable performance for lift & industrial systems. UAE delivery available.",
+          "Shop AC110V 50A elevator contactor at Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Otis, Kone and Mitsubishi lift spare parts.",
+        keywords:
+          "Elevator Contactor AC110V 50A 1NO 1NC, elevator contactor AC110V 50A, elevator spare parts UAE, otis contactor Dubai, lift control contactor sharjah, elevator contactor supplier",
         canonical:
           "https://www.bestechparts.ae/products/contactors/contactor-ac110v-50a-1no-1nc",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Reliable Elevator Contactor for Motor and Brake Systems – AC110V 32A 1NO+1NC</h2>\n<p>The <strong>Elevator Contactor AC110V 50A 1NO+1NC</strong> is made for brake and motor control in elevators. It handles up to 50 amps of load and operates on a 110-volt AC coil. The contactor includes one Normally Open (1NO) and one Normally Closed (1NC) auxiliary contact, providing flexibility in control logic. Its construction is designed for repeated switching cycles demanded by elevator systems. This contactor is compatible with major elevator brands such as OTIS, SIGMA, and FUJI, and can be used across control panels for both drive and braking circuits. Built for durability, it minimizes wear and reduces maintenance over time.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Coil Voltage:</strong> AC110V</li>\n  <li><strong>Current Rating:</strong> 32A</li>\n  <li><strong>Contact Configuration:</strong> 1NO + 1NC</li>\n  <li><strong>Application:</strong> Brake and Motor Contactor</li>\n  <li><strong>Supported Brands:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, LG, KONE, and more</li>\n</ul>\n<h2>Your Reliable Elevator Contactor Spare Parts Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a trusted elevator contactors spare parts supplier delivering tested and durable contactors designed to meet industry standards for safety, reliability, and consistent performance.</p>',
       },
       {
         name: "Contactor AC110V 65A 1NO+1NC",
@@ -258,14 +413,17 @@ export const products = [
         code: "BS-CT0004",
         url: "/contactors/contactor-ac110v-65a-1no-1nc",
         image: "/img/products/contactors/contactor-ac110v-65a-1no-1nc/1.jpg",
-        meta_title:
-          " DC 110V 18A Contactor – Buy Online in UAE | Bestech Parts",
+        meta_title: "Elevator Contactor AC110V 65A 1NO 1NC Supplier in Sharjah",
         meta_description:
-          "Shop DC 110V 18A contactor for elevators and industrial use. Durable, high-performance component. Fast delivery across UAE.",
+          "Get AC110V 65A elevator contactor from Bestechparts. Reliable distributor in Sharjah, Dubai & UAE for Otis, Schindler and Thyssenkrupp lift parts.",
+        keywords:
+          "Elevator Contactor AC110V 65A 1NO 1NC, elevator contactor AC110V 65A, otis brand contactor supplier, elevator control contactor UAE, lift contactor parts sharjah, elevator spare supplier",
         canonical:
           "https://www.bestechparts.ae/products/contactors/contactor-ac110v-65a-1no-1nc",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Durable Elevator Contactor AC110V 65A 1NO+1NC for Reliable Operation</h2>\n<p>The <strong>Elevator Contactor AC110V 65A 1NO+1NC</strong> is engineered for efficient and reliable control of elevator brake and motor systems. Featuring a coil voltage of AC110V and a current rating of 65A, this contactor ensures steady switching performance and dependable operation under continuous use. Its robust construction makes it suitable for major elevator systems, including OTIS, SIGMA, FUJI, MITSUBISHI, and KONE. With one Normally Open (1NO) and one Normally Closed (1NC) contact, it offers flexibility for various control panel configurations.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Coil Voltage:</strong> AC110V</li>\n  <li><strong>Current Rating:</strong> 65A</li>\n  <li><strong>Contact Configuration:</strong> 1NO + 1NC</li>\n  <li><strong>Application:</strong> Elevator Brake &amp; Motor Contactor</li>\n  <li><strong>Compatible Brands:</strong> OTIS, SIGMA, FUJI, KONE, MITSUBISHI, LG</li>\n</ul>\n<h2>Reliable Elevator Contactors Spare Parts Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> stands as a trusted elevator contactors spare parts supplier, providing tested and compatible components designed for smooth and safe elevator operation. Each contactor is manufactured to meet strict quality standards, ensuring long-lasting durability and consistent performance.</p>',
       },
       {
         name: "Contactor DC110V 18A",
@@ -274,27 +432,37 @@ export const products = [
         url: "/contactors/contactor-dc110v-18a",
         image: "/img/products/contactors/contactor-dc110v-18a/1.jpg",
         meta_title:
-          "DC 110V 18A Contactor – Buy Online in UAE | Bestech Parts ",
+          "Elevator Contactor DC110V 18A Supplier in Dubai, Sharjah UAE",
         meta_description:
-          "Shop DC 110V 18A contactor for elevators and industrial use. Durable, high-performance component. Fast delivery across UAE.",
+          "Buy DC110V 18A elevator contactor from Bestechparts. Leading supplier in Dubai, Sharjah & UAE for Sigma, Otis and Fuji lift spare components.",
+        keywords:
+          "Elevator Contactor DC110V 18A, elevator contactor DC110V 18A, sigma elevator contactor Dubai, elevator dc contactor UAE, lift contactor 18A sharjah, elevator spare part",
         canonical:
           "https://www.bestechparts.ae/products/contactors/contactor-dc110v-18a",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>High-Quality Elevator Contactor DC110V 18A for Motor and Brake Systems</h2>\n<p>The <strong>Elevator Contactor DC110V 18A</strong> is engineered for consistent and reliable operation in elevator motor and brake control circuits. Built with a durable DC110V coil and rated at 18A, it delivers stable switching performance even under continuous or high-frequency operation. Its robust design ensures longevity, making it ideal for both maintenance and replacement applications in elevator systems.</p>\n<p>This contactor is compatible with major elevator brands such as OTIS, SIGMA, FUJI, MITSUBISHI, and KONE, providing wide compatibility and ease of integration in various control panels.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Coil Voltage:</strong> DC110V</li>\n  <li><strong>Current Rating:</strong> 18A</li>\n  <li><strong>Application:</strong> Elevator Motor &amp; Brake Control</li>\n  <li><strong>Supported Brands:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, KONE</li>\n</ul>\n<h2>Your Reliable Elevator Contactor Spare Parts Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> stands as a trusted elevator contactors spare parts supplier, offering tested components that meet strict industry standards for quality, safety, and performance. Each contactor is designed to ensure dependable function, reduced downtime, and long service life in modern elevator systems.</p>',
       },
+
       {
         name: "Contactor DC110V 32A",
         description: "",
         code: "BS-CT0006",
         url: "/contactors/contactor-dc110v-32a",
         image: "/img/products/contactors/contactor-dc110v-32a/1.jpg",
-        meta_title: "DC Contactor 110V 32A – Durable & Reliable | Bestech UAE",
+        meta_title:
+          "Elevator Contactor DC110V 32A Supplier in Dubai, Sharjah UAE",
         meta_description:
-          "Shop DC 110V 32A contactor ideal for elevator and industrial use. High performance, reliable, and ready to ship across UAE at Bestech Parts.",
+          "Order DC110V 32A elevator contactor at Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Fuji, Otis and Kone lift spare parts.",
+        keywords:
+          "Elevator Contactor DC110V 32A, elevator contactor DC110V 32A, fuji elevator contactor Dubai, otis dc contactor UAE, elevator dc spare part sharjah, lift contactor supplier",
         canonical:
           "https://www.bestechparts.ae/products/contactors/contactor-dc110v-32a",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Durable Elevator Contactor DC110V 32A for Motor and Brake Applications</h2>\n<p>The <strong>Elevator Contactor DC110V 32A</strong> is designed for reliable operation in elevator motor and brake control systems. Featuring a durable DC110V coil and a 32A current rating, it ensures smooth and efficient performance even in demanding environments. The contactor includes one Normally Open (1NO) and one Normally Closed (1NC) contact configuration, providing flexibility for various control setups.</p>\n<p>Built to handle frequent switching cycles, this contactor supports long-lasting performance and minimal maintenance. It is compatible with major elevator brands such as OTIS, SIGMA, FUJI, MITSUBISHI, and KONE, fitting seamlessly into most elevator control panels for maintenance and replacement needs.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Coil Voltage:</strong> DC110V</li>\n  <li><strong>Current Rating:</strong> 32A</li>\n  <li><strong>Contact Configuration:</strong> 1NO + 1NC</li>\n  <li><strong>Application:</strong> Elevator Motor &amp; Brake Control</li>\n  <li><strong>Supported Brands:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, KONE</li>\n</ul>\n<h2>Trusted Elevator Contactor Spare Parts Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a trusted elevator contactors spare parts supplier, offering high-quality, tested components that ensure long-lasting durability, reduced downtime, and consistent performance in elevator systems.</p>',
       },
       {
         name: "Auxiliary F4-22 2NO+2NC",
@@ -303,11 +471,188 @@ export const products = [
         url: "/contactors/auxiliary-f4-22-2no-2nc",
         image: "/img/products/contactors/auxiliary-f4-22-2no-2nc/1.jpg",
         meta_title:
-          "ABB Auxiliary Contactor F4-22 (2NO+2NC) | Bestech Parts UAE",
+          "Elevator Contactor Auxiliary F4 22 2NO 2NC Supplier in UAE",
         meta_description:
-          "Shop ABB F4-22 auxiliary contactor with 2NO+2NC configuration. Reliable performance for control circuits. Fast UAE delivery from Bestech Parts.",
+          "Shop F4 22 2NO 2NC elevator contactor auxiliary at Bestechparts. Supplier in Dubai, Sharjah & UAE for Otis and Sigma lift spare accessories.",
+        keywords:
+          "Elevator Contactor Auxiliary F4 22 2NO 2NC, elevator contactor auxiliary F4 22, otis contactor auxiliary Dubai, elevator spare auxiliary UAE, lift auxiliary part sharjah",
         canonical:
           "https://www.bestechparts.ae/products/contactors/auxiliary-f4-22-2no-2nc",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Contactor 220VAC 25A",
+        description: "Schneider LC1D258M7",
+        code: "BS-CT0008",
+        url: "/contactors/contactor-220vac-25a",
+        image: "/img/products/contactors/contactor-220vac-25a/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/contactor-220vac-25a",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Contactor AC110V 80A",
+        description: "Schneider LC1D80F7C",
+        code: "BS-CT0009",
+        url: "/contactors/contactor-ac110v-80a",
+        image: "/img/products/contactors/contactor-ac110v-80a/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/contactor-ac110v-80a",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Contactor AC110V 18A",
+        description: "Schneider LC1D18F7C",
+        code: "BS-CT0010",
+        url: "/contactors/contactor-ac110v-18a",
+        image: "/img/products/contactors/contactor-ac110v-18a/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/contactor-ac110v-18a",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Auxillary Contactors LADN22",
+        description: "Schneider LC1D18F7C",
+        code: "BS-CT0011",
+        url: "/contactors/auxillary-contactors-ladn22",
+        image: "/img/products/contactors/auxillary-contactors-ladn22/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/auxillary-contactors-ladn22",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Contactor AC110V 115A ",
+        description: "Schneider LC1D11500F7C",
+        code: "BS-CT0012",
+        url: "/contactors/contactor-ac110v-115a",
+        image: "/img/products/contactors/contactor-ac110v-115a/1.jpg",
+        slider: ["1", "2", "3"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/contactor-ac110v-115a",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Schneider 24VDC 18A - LC1D18",
+        description: "Schneider LC1D18 24VDC 18A",
+        code: "BS-CT0013",
+        url: "/contactors/schneider-24vdc-18a-lc1d18",
+        image: "/img/products/contactors/schneider-24vdc-18a-lc1d18/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/schneider-24vdc-18a-lc1d18",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Schneider 110VAC 25A - LC1D25F7C ",
+        description: "Schneider - LC1D25F7C",
+        code: "BS-CT0014",
+        url: "/contactors/schneider-110vac-25a-lc1d25f7c",
+        image: "/img/products/contactors/schneider-110vac-25a-lc1d25f7c/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/schneider-110vac-25a-lc1d25f7c",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Schneider 110VAC 32A - LC1D32F7C",
+        description: "Schneider - LC1D32F7C",
+        code: "BS-CT0015",
+        url: "/contactors/schneider-110vac-32a-lc1d32f7c",
+        image: "/img/products/contactors/schneider-110vac-32a-lc1d32f7c/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/schneider-110vac-32a-lc1d32f7c",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Schneider 110VAC 50A - LC1D50AF7C",
+        description: "Schneider - LC1D50AF7C",
+        code: "BS-CT0016",
+        url: "/contactors/schneider-110vac-50a-lc1d50af7c",
+        image: "/img/products/contactors/schneider-110vac-50a-lc1d50af7c/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/schneider-110vac-50a-lc1d50af7c",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Schneider 110VAC 65A - LC1D65AF7C",
+        description: "Schneider - LC1D65AF7C",
+        code: "BS-CT0017",
+        url: "/contactors/schneider-110vac-65a-lc1d65af7c",
+        image: "/img/products/contactors/schneider-110vac-65a-lc1d65af7c/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/schneider-110vac-65a-lc1d65af7c",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Schneider 220VAC 32A - LC1D32M7",
+        description: "Schneider 220VAC 32A - LC1D32M7",
+        code: "BS-CT0018",
+        url: "/contactors/schneider-220vac-32a-lc1d32m7",
+        image: "/img/products/contactors/schneider-220vac-32a-lc1d32m7/1.jpeg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/schneider-220vac-32a-lc1d32m7",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "ABB-AF09-30-10-13 25A",
+        description: "ABB-AF09-30-10-13 25A",
+        code: "BS-CT0019",
+        url: "/contactors/abb-af09-30-10-13-25a",
+        image: "/img/products/contactors/abb-af09-30-10-13-25a/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/contactors/abb-af09-30-10-13-25a",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -317,14 +662,16 @@ export const products = [
     slug: "circuit-breakers",
     page_name: "Circuit Breakers",
     code: "BS-CB",
-    meta_title: "Buy Contactors in UAE | Bestech Parts",
+    meta_title:
+      "Elevator Circuit Breakers in UAE | Lift Suppliers Dubai Sharjah",
     meta_description:
-      "Elevator Circuit Breakers in UAE | Lift Suppliers Dubai Sharjah Buy Elevator Circuit Breakers in UAE. Trusted lift circuit breakers dealers Sharjah & lift electrical product suppliers Dubai. Serving across Dubai, Sharjah & UAE.",
-    canonical: "https://www.bestechparts.ae/products/circuit-breakers",
+      "Buy Elevator Circuit Breakers in UAE. Trusted lift circuit breakers dealers Sharjah & lift electrical product suppliers Dubai. Serving across Dubai, Sharjah & UAE.",
     keywords:
       "elevator Circuit Breakers in UAE, lift Circuit Breakers dealers Sharjah, lift electrical product suppliers Dubai",
+    canonical: "https://www.bestechparts.ae/products/circuit-breakers",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "MCB 63A 4P",
@@ -333,13 +680,18 @@ export const products = [
         url: "/circuit-breakers/mcb-63a-4p",
         image: "/img/products/circuit-breakers/mcb-63a-4p/1.jpg",
         slider: ["1", "2"],
-        meta_title: " MCB 63A 4P Circuit Breaker | Bestech Parts UAE",
+        meta_title:
+          " Elevator Circuit breaker MCB 63A 4P for UAE | Lift Safety Parts",
         meta_description:
-          "Shop 63A 4 Pole MCB circuit breakers for safe electrical protection. High quality, reliable, and available online at Bestech Parts UAE.",
+          "Elevator Circuit breaker MCB 63A 4P guarantees lift and escalator safety in Sharjah, UAE. Genuine spare parts from Bestechparts for Otis, KONE, Hyundai, and Mitsubishi elevators.",
         canonical:
           "https://www.bestechparts.ae/products/circuit-breakers/mcb-63a-4p",
+        keywords:
+          "Elevator Circuit breaker MCB 63A 4P, Elevator Circuit breaker supplier in UAE, Buy quality elevator circuit breaker",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Reliable Elevator Circuit Breaker MCB 63A 4P</h2>\n<p>The <strong>Elevator Circuit Breaker MCB 63A 4P</strong> is designed to protect <strong>three-phase elevator circuits</strong> with a neutral line from electrical faults. This compact yet powerful <strong>miniature circuit breaker (MCB)</strong> automatically interrupts the current flow during <strong>overloads</strong> or <strong>short circuits</strong>, preventing damage to elevator wiring, control panels, and other electrical components.</p>\n<p>Featuring a <strong>4-pole (4P) design</strong>, the MCB 63A 4P ensures <strong>simultaneous disconnection</strong> of all three phases and the neutral, providing complete safety during faults. Its <strong>thermal-magnetic trip mechanism</strong> offers reliable protection under varying electrical loads, making it ideal for <strong>modern elevator systems</strong> and other <strong>heavy-duty applications</strong> requiring precise electrical safety.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> MCB 63A 4P</li>\n  <li><strong>Function:</strong> Overcurrent Protection</li>\n  <li><strong>Poles:</strong> 4P (Three-Phase + Neutral)</li>\n  <li><strong>Mechanism:</strong> Thermal-Magnetic Trip</li>\n  <li><strong>Application:</strong> Elevator Control Panels, Heavy-Duty Electrical Circuits</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Trusted Elevator Circuit Breaker Spare Parts Supplier UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a leading <strong>elevator circuit breaker spare parts supplier in the UAE</strong>, providing <strong>durable, high-quality MCBs</strong> built for <strong>reliable performance, electrical safety,</strong> and <strong>long-term operation</strong> across all major elevator systems.</p>',
       },
       {
         name: "MCB 6A 1P",
@@ -348,13 +700,18 @@ export const products = [
         url: "/circuit-breakers/mcb-6a-1p",
         image: "/img/products/circuit-breakers/mcb-6a-1p/1.jpg",
         slider: ["1", "2", "3"],
-        meta_title: "MCB 6A 1P – Miniature Circuit Breaker | Bestech Parts UAE",
+        meta_title:
+          "Elevator Circuit breaker MCB 6A 1P UAE | Lift & Escalator Parts",
         meta_description:
-          "Shop 6A single-pole MCB for reliable circuit protection. High-quality and durable breakers available at Bestech Parts UAE. Fast delivery.",
+          "Elevator Circuit breaker MCB 6A 1P for lift protection in Dubai, UAE. Trusted MCB spare parts at Bestechparts for Schindler, thyssenkrupp and leading elevator brands.",
         canonical:
           "https://www.bestechparts.ae/products/circuit-breakers/mcb-6a-1p",
+        keywords:
+          "Elevator Circuit breaker MCB 6A 1P, Buy MCB circuit breaker in Dubai, MCB circuit breaker supplier in UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>MCB 6A 1P Elevator Protection Device</h2>\n<p>The <strong>Elevator Circuit Breaker MCB 6A 1P</strong> is a compact and efficient electrical protection device engineered to safeguard <strong>single-phase circuits</strong> from <strong>overload</strong> and <strong>short-circuit faults</strong>. It automatically interrupts power when the current exceeds the rated limit, preventing equipment damage, electrical hazards, and system failures.</p>\n<p>With a rated current of <strong>6 amps</strong> and a <strong>single-pole (1P)</strong> configuration, this MCB is widely used in <strong>elevator panels</strong>, <strong>control circuits</strong>, and <strong>lighting systems</strong>. Its <strong>thermal-magnetic trip mechanism</strong> ensures quick response and reliable protection. Designed for <strong>continuous operation</strong> and <strong>easy installation</strong>, it provides long-lasting safety and stability in modern elevator electrical setups.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> MCB 6A 1P</li>\n  <li><strong>Function:</strong> Overload and Short Circuit Protection</li>\n  <li><strong>Poles:</strong> 1P (Single Phase)</li>\n  <li><strong>Rated Current:</strong> 6A</li>\n  <li><strong>Mechanism:</strong> Thermal-Magnetic Trip</li>\n  <li><strong>Application:</strong> Elevator Panels, Control Boards, Lighting Circuits</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Leading Elevator Circuit Breaker Spare Parts Supplier in the UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a trusted <strong>elevator circuit breaker spare parts supplier in the UAE</strong>, offering <strong>tested and reliable MCB solutions</strong> designed for <strong>safety, performance,</strong> and <strong>long-term reliability</strong> across all major elevator brands.</p>',
       },
       {
         name: "MCB 10A 1P",
@@ -363,13 +720,18 @@ export const products = [
         url: "/circuit-breakers/mcb-10a-1p",
         image: "/img/products/circuit-breakers/mcb-10a-1p/1.jpg",
         slider: ["1", "2", "3", "4"],
-        meta_title: "MCB 10A 1P – Miniature Circuit Breaker | Bestech UAE",
+        meta_title:
+          "Elevator Circuit breaker MCB 10A 1P UAE | Reliable Lift Spares",
         meta_description:
-          "Shop 10A 1 Pole MCB for reliable circuit protection. High-quality miniature circuit breakers at Bestech Parts. Fast delivery across UAE.",
+          "Elevator Circuit breaker MCB 10A 1P supports safe lift performance in Sharjah, UAE. Buy genuine elevator parts from Bestechparts for global escalator brands.",
         canonical:
           "https://www.bestechparts.ae/products/circuit-breakers/mcb-10a-1p",
+        keywords:
+          "Elevator Circuit breaker MCB 10A 1P, Buy MCB circuit breaker Sharjah, best elevator circuit breaker supplier Sharjah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Durable Elevator Circuit Breaker MCB 10A 1P for Reliable Protection</h2>\n<p>The <strong>Elevator Circuit Breaker MCB 10A 1P</strong> is a dependable and high-quality safety device designed to safeguard <strong>single-phase electrical circuits</strong> from <strong>overload</strong> and <strong>short-circuit conditions</strong>. With a rated current of <strong>10 amperes</strong>, it ensures immediate disconnection during excess current flow, preventing equipment damage and ensuring operational safety.</p>\n<p>This compact and durable <strong>MCB</strong> is widely used in <strong>elevator control panels</strong>, <strong>lighting systems</strong>, and <strong>auxiliary circuits</strong>. Its <strong>thermal-magnetic trip mechanism</strong> provides quick, reliable response and consistent circuit protection. Easy to install with <strong>DIN rail mounting</strong>, this breaker offers long-lasting performance, making it suitable for both commercial and residential elevator systems.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> Elevator Circuit Breaker MCB 10A 1P</li>\n  <li><strong>Rated Current:</strong> 10 Amperes</li>\n  <li><strong>Poles:</strong> 1 Pole (Single Phase)</li>\n  <li><strong>Function:</strong> Protects against overload and short-circuit faults</li>\n  <li><strong>Trip Mechanism:</strong> Thermal-Magnetic Release for Quick Response</li>\n  <li><strong>Application:</strong> Elevator Control Panels, Auxiliary Circuits, Lighting Systems</li>\n  <li><strong>Mounting Type:</strong> DIN Rail, Easy Installation</li>\n  <li><strong>Compliance:</strong> Built as per IEC Standards for Electrical Safety</li>\n</ul>\n<h2>UAE’s Dependable Supplier for Elevator Circuit Breaker Components</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is one of the most <strong>trusted elevator circuit breaker spare parts suppliers in UAE</strong>, providing <strong>high-grade components</strong> that ensure <strong>electrical safety</strong>, <strong>long service life</strong>, and <strong>reliable operation</strong> across all major elevator systems.</p>',
       },
       {
         name: "MCB 6A 2P",
@@ -378,13 +740,17 @@ export const products = [
         url: "/circuit-breakers/mcb-6a-2p",
         image: "/img/products/circuit-breakers/mcb-6a-2p/1.jpg",
         meta_title:
-          "MCB 6A 2P Circuit Breaker – Buy Online in UAE | Bestech Parts",
+          "Elevator Circuit breaker MCB 6A 2P UAE | Miniature Lift Breaker",
         meta_description:
-          "Shop 6A 2P MCB circuit breakers for reliable protection. Durable, compact, and ideal for electrical panels. Fast delivery across the UAE.",
+          "Elevator Circuit breaker MCB 6A 2P protects lift electrical safety in Sharjah, UAE. Shop miniature breakers from Bestechparts, trusted elevator parts supplier.",
         canonical:
           "https://www.bestechparts.ae/products/circuit-breakers/mcb-6a-2p",
+        keywords:
+          "Elevator Circuit breaker MCB 6A 2P, elevator miniature circuit breaker supplier, Buy Miniature Circuit Breaker sharjah, UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>High-Safety Elevator Circuit Breaker MCB 6A 2P</h2>\n<p>The <strong>Elevator Circuit Breaker MCB 6A 2P</strong> provides dependable protection for <strong>two-wire electrical circuits</strong>, ensuring both the live and neutral lines are safely disconnected during <strong>overloads</strong> or <strong>short circuits</strong>. With a rated current of <strong>6 amperes</strong>, it guarantees safe current flow and fast fault isolation, minimizing the risk of electrical damage in elevator control systems.</p>\n<p>Featuring a <strong>2-pole design</strong>, this MCB enhances overall circuit safety and system stability. It is commonly used in <strong>elevator control panels</strong>, <strong>lighting systems</strong>, and <strong>auxiliary electrical circuits</strong>. Built from durable materials, it ensures long-lasting reliability and consistent performance in modern elevator setups.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> MCB 6A 2P</li>\n  <li><strong>Type:</strong> Miniature Circuit Breaker (2-Pole)</li>\n  <li><strong>Rated Current:</strong> 6 Amps</li>\n  <li><strong>Protection:</strong> Overload and Short Circuit</li>\n  <li><strong>Application:</strong> Elevator Control Panels, Auxiliary Circuits, and Lighting Systems</li>\n  <li><strong>Function:</strong> Disconnects Both Live and Neutral Lines for Enhanced Safety</li>\n</ul>\n<h2>Elevator Circuit Breaker Spare Parts Supplier UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a trusted <strong>elevator circuit breaker spare parts supplier in UAE</strong>, offering certified and high-quality MCBs designed to meet strict <strong>elevator safety standards</strong>. Each product ensures consistent protection, easy installation, and efficient performance across <strong>residential</strong>, <strong>commercial</strong>, and <strong>industrial elevator systems</strong>.</p>',
       },
       {
         name: "MCB 10A 2P",
@@ -394,13 +760,75 @@ export const products = [
         image: "/img/products/circuit-breakers/mcb-10a-2p/1.jpg",
         slider: ["1", "2", "3"],
         meta_title:
-          " MCB 10A 2P Circuit Breaker – Buy Online in UAE | Bestech Parts",
+          "Elevator Circuit breaker MCB 10A 2P UAE | Premium Lift Parts",
         meta_description:
-          "Shop 10A 2 Pole MCB circuit breakers at Bestech Parts. Reliable protection for electrical systems. Fast delivery across UAE.",
+          "Elevator Circuit breaker MCB 10A 2P designed for escalator and lift safety in Sharjah and Dubai, UAE. High quality spares at Bestechparts for major elevator manufacturers.",
         canonical:
           "https://www.bestechparts.ae/products/circuit-breakers/mcb-10a-2p",
+        keywords:
+          "Elevator Circuit breaker MCB 10A 2P, Buy Miniature Circuit Breaker Dubai, UAE, best quality elevator circuit breaker sharjah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Safe and Durable Elevator Circuit Breaker MCB 10A 2P</h2>\n<p>The <strong>Elevator Circuit Breaker MCB 10A 2P</strong> provides dependable protection for <strong>two-wire electrical circuits</strong> against <strong>overloads</strong> and <strong>short circuits</strong>. Rated at <strong>10 amps</strong>, it automatically disconnects the power when the current exceeds safe limits, safeguarding wiring and elevator control systems from potential damage.</p>\n<p>Featuring a <strong>2-pole design</strong>, this MCB ensures complete disconnection of both the <strong>phase</strong> and <strong>neutral lines</strong>, enhancing safety and reliability. It is widely used in <strong>elevator control panels</strong> and <strong>auxiliary circuits</strong>, guaranteeing stable and continuous performance in modern elevator installations.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> MCB 10A 2P</li>\n  <li><strong>Poles:</strong> 2</li>\n  <li><strong>Rated Current:</strong> 10A</li>\n  <li><strong>Function:</strong> Overcurrent Protection</li>\n  <li><strong>Application:</strong> Elevator Control Panels, Auxiliary Circuits</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Trusted Elevator Circuit Breaker Spare Parts Supplier UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a trusted <strong>elevator circuit breaker spare parts supplier in UAE</strong>, providing reliable and durable <strong>MCB solutions</strong> built for safety and long-lasting performance. Each unit is engineered to ensure smooth and safe operation across all major <strong>elevator systems</strong>.</p>',
+      },
+      {
+        name: "Delixi MCB 10A 2P DZ47s",
+        description: "MCB 10A 2P DZ47s",
+        code: "BS-CB0006",
+        url: "/circuit-breakers/delixi-mcb-10a-2p-dz47s",
+        image: "/img/products/circuit-breakers/delixi-mcb-10a-2p-dz47s/1.jpg",
+
+        meta_title: "",
+        meta_description: "",
+        canonical:
+          "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-10a-2p-dz47s",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Delixi MCB 10A 1P DZ47s",
+        description: "MCB 10A 1P DZ47s",
+        code: "BS-CB0007",
+        url: "/circuit-breakers/delixi-mcb-10a-1p-dz47s",
+        image: "/img/products/circuit-breakers/delixi-mcb-10a-1p-dz47s/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        canonical:
+          "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-10a-1p-dz47s",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Delixi MCB 63A 4P DZ47s",
+        description: "MCB 63A 4P DZ47s",
+        code: "BS-CB0008",
+        url: "/circuit-breakers/delixi-mcb-63a-4p-dz47s",
+        image: "/img/products/circuit-breakers/delixi-mcb-63a-4p-dz47s/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        canonical:
+          "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-63a-4p-dz47s",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Delixi MCB 100A 4P DZ47s",
+        description: "MCB 100A 4P DZ47s",
+        code: "BS-CB0009",
+        url: "/circuit-breakers/delixi-mcb-100a-4p-dz47s",
+        image: "/img/products/circuit-breakers/delixi-mcb-100a-4p-dz47s/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        canonical:
+          "https://www.bestechparts.ae/products/circuit-breakers/delixi-mcb-100a-4p-dz47s",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text: "",
       },
     ],
   },
@@ -416,6 +844,7 @@ export const products = [
     canonical: "https://www.bestechparts.ae/products/buttons",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Stop Push button (NC)",
@@ -469,7 +898,7 @@ export const products = [
         description: "LA137-CW35M2",
         code: "BS-BT0005",
         url: "/buttons/red-push-button-with-light-no",
-        image: "/img/product-default-img.jpg",
+        image: "/img/products/buttons/red-push-button-with-light-no/1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/buttons/red-push-button-with-light-no",
         robots:
@@ -482,10 +911,18 @@ export const products = [
         url: "/buttons/button-kds330-kds220",
         image: "/img/products/buttons/button-kds330-kds220/1.jpg",
         slider: ["1", "2"],
+        "meta-title":
+          "Elevator Push Button KDS330 & KDS220 Supplier in UAE | Bestech",
+        meta_description:
+          "Buy KDS330 & KDS220 elevator push buttons from Bestech in Sharjah, Dubai & UAE. Fits Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp lifts.",
+        keywords:
+          "elevator push button KDS330 and KDS220, lift push buttons KDS330 KDS220, elevator push button supplier in UAE",
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-kds330-kds220",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Elevator Push Button KDS330 and KDS220</h2>\n<p>The <strong>elevator push buttons KDS330 and KDS220</strong> are part of <strong>KONE’s signalisation product lines</strong>, known for their durable build and precise functionality. These buttons are designed to provide clear response feedback and a long service life, ensuring smooth and dependable passenger operation. The KDS330 and KDS220 models integrate easily into both new and modernised systems. Built from high-quality materials, they combine reliability, ease of use, and aesthetic consistency across elevator interiors.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Series:</strong> KDS330 / KDS220</li>\n  <li><strong>Manufacturer:</strong> KONE Corporation</li>\n  <li><strong>Type:</strong> Car and Landing Push Buttons</li>\n  <li><strong>Function:</strong> Floor Selection and Call Registration</li>\n  <li><strong>Features:</strong> Durable construction, clear feedback, long service life</li>\n  <li><strong>Application:</strong> Compatible with KONE elevator systems</li>\n</ul>\n<h2>Buy Best Quality Elevator Buttons UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> supplies the <strong>best quality elevator buttons in the UAE</strong>, offering genuine <strong>KONE components</strong> that meet performance and reliability standards for modern elevator installations.</p>',
       },
       {
         name: "Button:  MTD482 DA482A101",
@@ -494,10 +931,18 @@ export const products = [
         url: "/buttons/button-mtd482-da482a101",
         image: "/img/products/buttons/button-mtd482-da482a101/1.jpg",
         slider: ["1", "2"],
+        "meta-title":
+          "Elevator Push Button MTD482 & DA482A101 in Sharjah | Bestech",
+        meta_description:
+          "Order original MTD482 & DA482A101 elevator push buttons in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Hyundai, Mitsubishi and Schindler elevators.",
+        keywords:
+          "elevator push button MTD482 and DA482A101, lift push buttons MTD482 DA482A101, elevator push button supplier in Sharjah",
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-mtd482-da482a101",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Elevator Push Button MTD482 and DA482A101</h2>\n<p>The <strong>elevator push buttons MTD482 and DA482A101</strong> are genuine <strong>Mitsubishi Electric</strong> components designed for smooth and reliable operation in elevator systems. Known for their precision engineering, these push buttons provide responsive feedback and long-term durability under frequent use. Commonly installed in <strong>Mitsubishi elevator control panels</strong>, they ensure consistent performance and easy integration with existing systems. Built from high-quality materials, the MTD482 and DA482A101 models maintain both functionality and visual appeal, supporting efficient passenger control and safety.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Numbers:</strong> MTD482 / DA482A101 (variants include DA482A101G03)</li>\n  <li><strong>Manufacturer:</strong> Mitsubishi Electric</li>\n  <li><strong>Type:</strong> Car and Landing Push Buttons</li>\n  <li><strong>Function:</strong> Floor Selection and Call Registration</li>\n  <li><strong>Features:</strong> High durability, smooth tactile response, easy installation</li>\n  <li><strong>Application:</strong> Compatible with Mitsubishi elevator systems</li>\n</ul>\n<h2>Shop Durable and Tested Elevator Buttons in the UAE</h2>\n<p>When you plan to <strong>buy best quality elevator buttons in the UAE</strong>, <a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers original <strong>Mitsubishi push buttons</strong> that ensure dependable performance, safety, and compatibility for modern elevator systems.</p>',
       },
       {
         name: "Button: MTD340",
@@ -509,6 +954,13 @@ export const products = [
         canonical: "https://www.bestechparts.ae/products/buttons/button-mtd340",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button MTD340 for Lifts in UAE | Bestech",
+        meta_description:
+          "Buy MTD340 elevator push button in Sharjah, Dubai & UAE. Genuine spare part for Otis, Kone, Schindler, Hyundai, thyssenkrupp & Mitsubishi lift systems.",
+        keywords:
+          "elevator push button MTD340, lift push button MTD340, buy elevator button Sharjah UAE",
+        paragraph_text:
+          '<h2>Elevator Push Button MTD340</h2>\n<p>The <strong>elevator push button MTD340</strong> is a high-quality call button designed for reliable performance in elevator control panels. Commonly compatible with <strong>Hitachi systems</strong> and certain <strong>Mitsubishi models</strong>, this push button ensures precise operation and long service life under regular use. Built with durable materials, the MTD340 provides smooth tactile feedback and consistent functionality, making it suitable for both cabin and landing control panels. Its clear illumination and sturdy design support safe, efficient passenger movement across various elevator applications.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Number:</strong> MTD340</li>\n  <li><strong>Manufacturer:</strong> Compatible with Hitachi and Mitsubishi systems</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Function:</strong> Call Registration and Floor Selection</li>\n  <li><strong>Features:</strong> Durable construction, smooth response, easy installation</li>\n  <li><strong>Application:</strong> Suitable for Hitachi and Mitsubishi elevator systems</li>\n</ul>\n<h2>Order Genuine Elevator Buttons from Trusted UAE Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is the right place to <strong>buy best quality elevator buttons in the UAE</strong>, providing a complete range of original and compatible models trusted by maintenance professionals. These buttons meet safety and performance standards for modern elevator installations.</p>',
       },
       {
         name: "Button: AK2026F",
@@ -521,6 +973,14 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-ak2026f",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "AK2026F Elevator Control Panel Button Supplier in UAE | Bestech",
+        meta_description:
+          "Get AK2026F elevator control panel button from Bestech in Sharjah, Dubai & UAE. Fits Otis, Kone, Hyundai, Schindler, Mitsubishi & thyssenkrupp lifts.",
+        keywords:
+          "elevator control panel AK2026F button, AK2026F elevator spare button Sharjah, elevator push button AK2026F UAE",
+        paragraph_text:
+          '<h2>Elevator Push Button AK2026F for Hitachi Systems</h2>\n<p>The <strong>elevator push button AK2026F</strong> is a precision-engineered component commonly used in <strong>Hitachi elevator systems</strong>. Designed for reliability and ease of operation, it provides smooth tactile feedback and durable performance even under frequent use. This model is often installed in car and landing panels, ensuring accurate signal transmission for call registration and floor selection. Built with high-quality materials and tested for consistent operation, the AK2026F helps maintain efficiency, safety, and comfort in modern elevator environments.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Number:</strong> AK2026F</li>\n  <li><strong>Manufacturer:</strong> Hitachi</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Function:</strong> Floor Call and Selection Control</li>\n  <li><strong>Features:</strong> Long service life, durable build, reliable signal response</li>\n  <li><strong>Application:</strong> Compatible with Hitachi elevator systems</li>\n</ul>\n<h2>Premium Elevator Buttons for Reliable Performance in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a trusted source to <strong>buy best quality elevator buttons in the UAE</strong>, offering original and compatible models like the <strong>AK2026F</strong>. Each product is carefully inspected to ensure dependable performance, safety, and seamless integration within modern elevator systems.</p>',
       },
       {
         name: "Button: BR27C/A311",
@@ -533,6 +993,14 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-br27c-a311",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Push Button BR27C-A311 Supplier in UAE | Bestech",
+        meta_description:
+          "Shop BR27C-A311 elevator push button spare parts in Sharjah, Dubai & UAE. Works with Otis, Schindler, Kone, Hyundai, Mitsubishi and thyssenkrupp lifts.",
+        keywords:
+          "elevator push button BR27C-A311, button A311 elevator spare parts Sharjah, elevator spare parts push button UAE",
+        paragraph_text:
+          '<h2>Elevator Push Button BR27C-A311</h2>\n<p>The <strong>Elevator push button BR27C-A311</strong> is a dependable and precise control component designed for elevator systems requiring consistent performance and durability. Commonly used in car and landing panels, it provides smooth tactile feedback and ensures reliable operation under frequent use. Built with robust materials, the BR27C-A311 maintains a long service life and consistent electrical contact, reducing maintenance needs. Its compact structure and quality design make it suitable for modern lift control panels and compatible with various elevator models used across the UAE.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Number:</strong> BR27C-A311 (also referred to as BR27C or A311)</li>\n  <li><strong>Type:</strong> Elevator Car and Landing Push Button</li>\n  <li><strong>Function:</strong> Call registration and floor selection</li>\n  <li><strong>Features:</strong> High durability, smooth operation, and easy installation</li>\n  <li><strong>Application:</strong> Compatible with standard elevator control systems</li>\n</ul>\n<h2>High-Quality Elevator Buttons for Modern Lift Systems</h2>\n<p>If you are looking to <strong>buy best quality elevator buttons in the UAE</strong>, <a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> provides trusted solutions like the <strong>BR27C-A311</strong> model. Built for safety and efficiency, these push buttons deliver excellent tactile feedback and are compatible with most elevator control panels. They combine durability and performance to meet the demands of commercial and residential lift systems.</p>',
       },
       {
         name: "Button: CN03010009/A4J16354",
@@ -545,6 +1013,14 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-cn03010009-a4j16354",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Push Button CN03010009-A4J16354 in UAE | Bestech",
+        meta_description:
+          "Buy CN03010009-A4J16354 elevator push button in Sharjah, Dubai & UAE. Trusted spare part for Otis, Kone, Schindler, Mitsubishi, Hyundai & more lift brands.",
+        keywords:
+          "elevator push button CN03010009-A4J16354, elevator spare buttons supplier UAE, top brands elevator button supplier",
+        paragraph_text:
+          '<h2>Elevator Push Button CN03010009-A4J16354</h2>\n<p>The <strong>Elevator push button CN03010009-A4J16354</strong> is a precision-engineered component widely used in modern elevator control panels. Compatible with interchangeable models such as <strong>CN03010009</strong>, <strong>A4J16354</strong>, <strong>A4J16354A3</strong>, and <strong>FAA25090A7</strong>, this button ensures reliable operation and smooth response for both car and landing call stations. Built from durable materials, it offers consistent tactile feedback, easy installation, and long service life. Designed to meet strict elevator system standards, the CN03010009-A4J16354 is an ideal choice for maintaining safe and efficient lift performance in commercial and residential applications.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Numbers:</strong> CN03010009 / A4J16354 / A4J16354A3 / FAA25090A7</li>\n  <li><strong>Type:</strong> Car and Landing Call Push Button</li>\n  <li><strong>Function:</strong> Call registration and floor selection</li>\n  <li><strong>Material:</strong> High-quality, durable construction for long service life</li>\n  <li><strong>Compatibility:</strong> Suitable for multiple elevator systems</li>\n  <li><strong>Features:</strong> Smooth tactile response, easy installation, consistent performance</li>\n  <li><strong>Application:</strong> Ideal for modern elevator control panels and replacement use</li>\n</ul>\n<h2>Quality Elevator Button Components for All Systems</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> supplies a wide selection of original and compatible elevator buttons across the UAE. Customers who wish to <strong>buy best quality elevator buttons in the UAE</strong> can rely on our tested, performance-driven components that ensure durability, precision, and long-term reliability in every installation.</p>',
       },
       {
         name: "Button: A3N47136/KAS441",
@@ -556,6 +1032,13 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-a3n47136-kas441",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button A3N47136-KAS441 for OTIS | Bestech",
+        meta_description:
+          "A3N47136-KAS441 OTIS elevator push button available in Sharjah, Dubai & UAE. Original lift spare compatible with OTIS and other major elevator brands.",
+        keywords:
+          "elevator push button A3N47136-KAS441, OTIS elevator push button Sharjah, KAS441 lift button",
+        paragraph_text:
+          '<h2>Elevator Push Button A3N47136-KAS441</h2>\n<p>The <strong>elevator push button A3N47136-KAS441</strong> is a reliable and durable component commonly used in modern elevator systems. Also listed under model numbers <strong>A4J47135</strong> and <strong>A4N58820</strong>, this button is designed for consistent performance and seamless integration with various elevator control panels. It features a sturdy build, smooth tactile response, and long operational life, making it suitable for both replacement and new installations. Engineered for precision and reliability, the A3N47136-KAS441 ensures safe and responsive user operation across different building types.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Numbers:</strong> A3N47136-KAS441 / A4J47135 / A4N58820</li>\n  <li><strong>Type:</strong> Car and Landing Call Push Button</li>\n  <li><strong>Function:</strong> Floor selection and call registration</li>\n  <li><strong>Material:</strong> High-durability construction for extended use</li>\n  <li><strong>Features:</strong> Smooth tactile feedback, easy installation, reliable contact performance</li>\n  <li><strong>Compatibility:</strong> Suitable for a wide range of elevator systems</li>\n  <li><strong>Application:</strong> Designed for use in modern elevator control panels</li>\n</ul>\n<h2>Trusted Source for Elevator Push Buttons in the UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers a wide range of genuine elevator push buttons in the UAE, including trusted models like the <strong>A3N47136-KAS441</strong>. Customers can <strong>buy best quality elevator buttons in the UAE</strong> with confidence, knowing they meet industry standards for performance, durability, and safety in every application.</p>',
       },
       {
         name: "Button: A3N47325/AJ47324A2",
@@ -568,6 +1051,14 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-a3n47325-aj47324a2",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Push Button A3N47325 & AJ47324A2 in UAE | Bestech",
+        meta_description:
+          "Order A3N47325 & AJ47324A2 elevator push buttons in Sharjah, Dubai & UAE. Genuine spare parts for Otis, Kone, Schindler, Mitsubishi, Hyundai lifts.",
+        keywords:
+          "elevator push button A3N47325 and AJ47324A2, elevator lop button supplier, buy elevator push button",
+        paragraph_text:
+          '<h2>Elevator Push Button A3N47325 and AJ47324A2</h2>\n<p>The <strong>Elevator push button A3N47325 and AJ47324A2</strong> is a precision-built elevator call button commonly used in modern lift control panels. Designed for dependable response and long service life, these buttons ensure smooth and consistent operation in both car and landing stations. Compatible with various elevator systems, including models where part numbers <strong>A4J47324</strong> and similar variants are used, this push button maintains excellent tactile performance and durability under frequent use. Its quality construction supports safe and efficient passenger control, making it suitable for replacements or system upgrades in commercial and residential buildings.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Numbers:</strong> A3N47325 / AJ47324A2 / A4J47324</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Function:</strong> Call registration and floor selection</li>\n  <li><strong>Features:</strong> Durable build, smooth operation, easy integration</li>\n  <li><strong>Application:</strong> Compatible with modern elevator systems</li>\n</ul>\n<h2>Genuine Elevator Push Buttons Available in UAE</h2>\n<p>At <a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a>, you can <strong>buy best quality elevator buttons in the UAE</strong> that meet high standards of durability and performance. Our range includes genuine models like <strong>A3N47325</strong> and <strong>AJ47324A2</strong>, built for precision response and easy integration with leading elevator control systems.</p>',
       },
       {
         name: "Button: KD550",
@@ -579,6 +1070,13 @@ export const products = [
         canonical: "https://www.bestechparts.ae/products/buttons/button-kd550",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button KD550 | Silver Lift Button, UAE",
+        meta_description:
+          "Buy KD550 silver elevator push button from Bestech in Sharjah, Dubai & UAE. Fits Otis, Kone, Hyundai, Schindler, Mitsubishi & thyssenkrupp elevators.",
+        keywords:
+          "elevator push button KD550, elevator lift spare parts button, silver elevator push button",
+        paragraph_text:
+          '<h2>Elevator Push Button KD550 for KONE Systems</h2>\n<p>The <strong>Elevator push button KD550</strong> is a genuine component commonly used in <strong>KONE elevator systems</strong>, particularly within the <strong>KDS50</strong> and <strong>KDS300 series</strong>. Designed for smooth operation and reliability, this button ensures accurate signal transmission between the user interface and the elevator control board. Built with precision engineering, it delivers a responsive tactile feel, durability, and aesthetic consistency with modern elevator panels. The KD550 model is suitable for both car and landing panels, supporting efficient and safe passenger control in residential and commercial buildings.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model Number:</strong> KD550</li>\n  <li><strong>Manufacturer:</strong> KONE Corporation</li>\n  <li><strong>Series Compatibility:</strong> KDS50 / KDS300 elevator systems</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Function:</strong> Floor selection and call registration</li>\n  <li><strong>Design:</strong> Durable construction with smooth tactile response</li>\n  <li><strong>Material:</strong> High-quality plastic and metal components for long-term reliability</li>\n  <li><strong>Application:</strong> Compatible with KONE elevator panels for residential and commercial installations</li>\n</ul>\n<h2>Your Trusted Elevator Button Supplier in the UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers a trusted range of elevator push buttons, including the <strong>KD550</strong> model from <strong>KONE</strong>. <strong>Buy best quality elevator buttons in the UAE</strong> to ensure dependable performance, long service life, and compatibility with all major elevator systems.</p>',
       },
       {
         name: "Square button",
@@ -591,6 +1089,13 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/square-button-kds300",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button KDS300 | Kone Square LOP, UAE",
+        meta_description:
+          "Shop KDS300 square elevator push button for Kone lifts in Sharjah, Dubai & UAE. Genuine LOP spare compatible with major elevator brands. Fast delivery.",
+        keywords:
+          "elevator push button KDS300, KDS300 LOP square button UAE, Kone elevator push button KDS300",
+        paragraph_text:
+          '<h2>Durable Elevator Push Button KDS300</h2>\n<p>The <strong>Elevator push button KDS300</strong> is a square-style elevator button designed for <strong>KONE elevator systems</strong>. Known for its durable construction and precise operation, this button ensures smooth functionality and a refined look for car and landing panels. The KDS300 model provides clear tactile feedback, making it reliable for daily passenger use while maintaining long-term performance. Built to KONE’s quality standards, it integrates seamlessly into both new and existing elevator systems, ensuring consistent response and minimal maintenance. This button supports user safety and accessibility in modern elevator environments.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> KDS300</li>\n  <li><strong>Manufacturer:</strong> KONE</li>\n  <li><strong>Shape:</strong> Square</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Features:</strong> Durable design, tactile response, easy installation</li>\n  <li><strong>Application:</strong> Compatible with KONE elevator systems</li>\n</ul>\n<h2>High-Performance Elevator Buttons Available in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers the <strong>best quality elevator buttons in the UAE</strong>. Our <strong>KONE KDS300</strong> buttons are known for their precision design, long-term durability, and smooth functionality. Each unit undergoes strict quality testing to guarantee safety, compatibility, and consistent performance across multiple elevator systems.</p>',
       },
       {
         name: "Button: KMBS7782G0",
@@ -615,6 +1120,13 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/giant-button-a4j16467-a4j16465-a4j20057",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Giant Button A4J16467 A4J16465 A4J20057 | UAE",
+        meta_description:
+          "Buy elevator giant buttons A4J16467, A4J16465 & A4J20057 in Sharjah, Dubai & UAE. Premium spare parts for Otis, Kone, Hyundai, Schindler, Mitsubishi lifts.",
+        keywords:
+          "elevator giant button a4j16467-a4j16465-a4j20057, buy elevator giant button Dubai, elevator giant button suppliers sharjah UAE",
+        paragraph_text:
+          "<h2>Giant COP Button Set for Lift Panels</h2>\n<p>The elevator giant button a4j16467-a4j16465-a4j20057 group refers to part codes used for extra-large push buttons fitted on lift panels. These models are used when a wider press area is needed, such as in public sites, hospitals, or places where clear touch control is important. They do not point to any floor number but serve as general push buttons that fit into matching COP layouts. Each code relates to a size or style used by the maker.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Button type:</strong> Giant COP push button</li>\n  <li><strong>Codes:</strong> a4j16467, a4j16465, a4j20057</li>\n  <li><strong>Fit:</strong> Standard COP frame with large slot</li>\n  <li><strong>Action:</strong> Wide press surface</li>\n  <li><strong>Use:</strong> Public and high-access areas</li>\n</ul>\n<h2>Large-Size Button Options for UAE Lift Systems</h2>\n<p>Teams who plan to buy best quality elevator buttons UAE rely on these giant types when they need better press access and an easy grip. The broad front plate gives a clean view and smooth feel, making it simple for daily users. These buttons fit well with standard wiring points and help support safe, simple use in both new and upgraded lift cabins.</p>",
       },
       {
         name: "Button: MTD511G01/DA511G01",
@@ -627,6 +1139,13 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-mtd511g01-da511g01",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button MTD511G01 & DA511G01 | UAE",
+        meta_description:
+          "Order MTD511G01 & DA511G01 elevator push buttons from Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Schindler, Hyundai & Mitsubishi lifts.",
+        keywords:
+          "elevator push button MTD511G01 and DA511G01, buy elevator push button Dubai, elevator push button suppliers Sharjah UAE",
+        paragraph_text:
+          "<h2>Mitsubishi-Type Elevator Push Button Set</h2>\n<p>The elevator push button MTD511G01 and DA511G01 are part numbers used for push buttons made for Mitsubishi lift systems. These buttons are built for clear actuation and stable use in standard COP panels. They serve as general push buttons in the lift cabin and are chosen for their fit with Mitsubishi wiring and plate systems. Each code points to a model type used during service or part swaps.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Button type:</strong> COP push button</li>\n  <li><strong>Part codes:</strong> MTD511G01, DA511G01</li>\n  <li><strong>Fit:</strong> Mitsubishi-type panels</li>\n  <li><strong>Action:</strong> Clear press with steady response</li>\n  <li><strong>Use:</strong> Service, repair, and part replacement</li>\n</ul>\n<h2>Push Button Options for UAE Lift Service Teams</h2>\n<p>Many service teams who plan to buy best quality elevator buttons UAE choose these models when working on Mitsubishi units. They fit well with the maker’s panels and support smooth daily use. Their simple press action, steady feel, and safe wiring design make them suitable for both upgrades and direct part change work in many lift cabins.</p>",
       },
       {
         name: "Button: DA180/MTD180",
@@ -639,6 +1158,8 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-da180-mtd180",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Durable Elevator Push Button DA180-MTD180</h2>\n<p>The <strong>Elevator push button DA180-MTD180</strong> is a precision-engineered component designed for <strong>Mitsubishi elevator systems</strong>. Recognised for its sturdy build and smooth functionality, this button ensures reliable operation and a professional finish for both car and landing panels. The DA180-MTD180 model delivers clear tactile feedback, making it ideal for frequent passenger use while maintaining long-lasting performance. Built to meet Mitsubishi’s standards, it integrates effortlessly into existing systems, ensuring consistent response and reduced maintenance needs. This button promotes safety, accessibility, and efficiency in modern elevator applications.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> DA180-MTD180</li>\n  <li><strong>Manufacturer:</strong> Mitsubishi</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Design:</strong> Round-style, durable construction</li>\n  <li><strong>Features:</strong> Tactile feedback, long service life, easy installation</li>\n  <li><strong>Application:</strong> Compatible with Mitsubishi elevator systems</li>\n</ul>\n<h2>Quality Elevator Buttons Available in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> provides <strong>high-quality elevator buttons in the UAE</strong> to enhance your elevator systems. Our <strong>Mitsubishi-compatible DA180-MTD180</strong> buttons are tested for durability, accuracy, and safety. Each unit is engineered to deliver reliable performance in diverse environments, making it ideal for maintenance, replacement, and modernisation projects.</p>',
       },
       {
         name: "Button: SL-TC",
@@ -650,6 +1171,14 @@ export const products = [
         canonical: "https://www.bestechparts.ae/products/buttons/button-sl-tc",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Push Button SL-TC | Calling Button Supplier in UAE",
+        meta_description:
+          "Buy SL-TC elevator calling push button from Bestech in Sharjah, Dubai & UAE. High-quality lift spare part compatible with Otis, Kone, Schindler & more.",
+        keywords:
+          "elevator push button SL-TC, elevator calling push button, quality elevator push button UAE",
+        paragraph_text:
+          '<h2>Reliable Elevator Push Button SL-TC</h2>\n<p>The <strong>Elevator push button SL-TC</strong> is a dependable and precisely designed component commonly used in <strong>Hitachi elevator systems</strong>. Built with robust materials and refined engineering, this button ensures smooth and responsive operation for both car and landing panels. The SL-TC model provides clear tactile feedback, offering comfort and reliability for daily passenger use. It integrates seamlessly into existing control systems, maintaining consistent performance and durability under continuous operation. Designed to meet Hitachi’s quality standards, it supports safe and efficient elevator control with minimal maintenance.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> SL-TC</li>\n  <li><strong>Manufacturer:</strong> Hitachi</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Design:</strong> Round-style with smooth tactile response</li>\n  <li><strong>Features:</strong> Durable structure, reliable performance, easy installation</li>\n  <li><strong>Application:</strong> Compatible with Hitachi elevator systems</li>\n</ul>\n<h2>Premium Elevator Buttons for Reliable Performance in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers <strong>high-quality elevator buttons in the UAE</strong>, including the trusted <strong>SL-TC model</strong> for Hitachi elevators. Each button is tested for long service life, precise operation, and seamless compatibility with elevator systems. Designed to meet strict safety and performance standards, these buttons ensure smooth control and dependable function in every application.</p>',
       },
       {
         name: "Button: HD60-1",
@@ -661,6 +1190,13 @@ export const products = [
         canonical: "https://www.bestechparts.ae/products/buttons/button-hd60-1",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button HD60-1 | Lift Spare Parts, UAE",
+        meta_description:
+          "Shop HD60-1 elevator push button from Bestech in Sharjah, Dubai & UAE. Durable replacement spare part for Otis, Kone, Mitsubishi, Schindler lifts.",
+        keywords:
+          "elevator push button HD60-1, spare elevator push button Sharjah UAE",
+        paragraph_text:
+          '<h2>Elevator Push Button HD60-1 for Reliable Operation</h2>\n<p>The <strong>Elevator push button HD60-1</strong> is a high-performance component designed for use in <strong>Hyundai elevator systems</strong>, particularly compatible with the <strong>Hyundai STVF9 series</strong>. Built for precision and long-term durability, this button offers smooth tactile response and consistent operation even under frequent passenger use. It ensures dependable performance and seamless integration with Hyundai control panels, maintaining both functionality and modern design appeal. The HD60-1 model supports efficient floor selection and enhances user safety through its durable build and high-quality engineering.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> HD60-1</li>\n  <li><strong>Manufacturer:</strong> Hyundai</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Compatible Series:</strong> Hyundai STVF9</li>\n  <li><strong>Features:</strong> Reliable operation, tactile feedback, durable build</li>\n  <li><strong>Application:</strong> Designed for Hyundai elevator systems</li>\n</ul>\n<h2>High-Performance Elevator Buttons Available in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers <strong>high-quality elevator buttons in the UAE</strong>, including the reliable <strong>HD60-1 model</strong> for Hyundai elevators. Each button is tested for safety, endurance, and precision to ensure long service life and smooth operation in both residential and commercial elevators.</p>',
       },
       {
         name: "Button: KAS040/AMV243/AAD7442",
@@ -673,6 +1209,13 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-kas040-amv243-aad7442",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button KAS040-AMV243-AAD7442 in UAE",
+        meta_description:
+          "Order KAS040-AMV243-AAD7442 elevator push button in Sharjah, Dubai & UAE. Reliable lift spare part suitable for Otis, Kone, Hyundai & Schindler elevators.",
+        keywords:
+          "elevator push button KAS040-AMV243-AAD7442, lift push button KAS040 Sharjah",
+        paragraph_text:
+          '<h2>Elevator Push Button KAS040-AMV243-AAD7442 for Hyundai Systems</h2>\n<p>The <strong>elevator push button KAS040-AMV243-AAD7442</strong> is a precision-engineered component designed for <strong>Hyundai elevator systems</strong>, delivering dependable performance and smooth operation. Built with durable materials, it ensures accurate response, consistent functionality, and long service life even under frequent use. Its user-friendly design allows for easy installation in both car and landing panels, making it ideal for maintenance, replacement, and modernisation projects. The button enhances safety, reliability, and passenger comfort across various Hyundai elevator setups.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> KAS040-AMV243-AAD7442</li>\n  <li><strong>Manufacturer:</strong> Hyundai</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Features:</strong> Durable design, responsive operation, easy installation</li>\n  <li><strong>Application:</strong> Compatible with Hyundai elevator systems</li>\n</ul>\n<h2>Elevator Button Solutions for Modern Lifts in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is your trusted source to <strong>buy best quality elevator buttons in the UAE</strong>, including genuine Hyundai-compatible models like the <strong>KAS040-AMV243-AAD7442</strong>. Each button is tested for endurance, safety, and performance, ensuring long-lasting reliability and smooth operation in both residential and commercial elevator systems.</p>',
       },
       {
         name: "Button: CS-41-GG",
@@ -685,6 +1228,13 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-cs-41-gg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button CS-41-GG | Lift Spare Parts, UAE",
+        meta_description:
+          "Buy CS-41-GG elevator push button from Bestech in Sharjah, Dubai & UAE. Quality lift spare parts supplier for Otis, Kone, Mitsubishi and Schindler.",
+        keywords:
+          "elevator push button button-cs-41-gg, elevator parts button cs-41-gg, lift button cs-41-gg",
+        paragraph_text:
+          '<h2>Long-Lasting Elevator Push Button CS-41-GG for Toshiba Systems</h2>\n<p>The <strong>elevator push button CS-41-GG</strong> is a genuine component designed specifically for <strong>Toshiba elevator systems</strong>, offering dependable performance and precise functionality. Constructed from premium materials, it provides excellent tactile feedback, smooth operation, and resistance to daily wear and tear. Suitable for both car and landing panels, this button ensures long-term reliability and efficient passenger control. Engineered to meet Toshiba’s high standards, the CS-41-GG model integrates seamlessly with existing systems, ensuring consistent performance and durability in modern lift applications.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> CS-41-GG</li>\n  <li><strong>Manufacturer:</strong> Toshiba</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Features:</strong> Durable build, precise response, easy installation</li>\n  <li><strong>Application:</strong> Compatible with Toshiba elevator systems</li>\n</ul>\n<h2>Superior Elevator Control Buttons Available in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is your trusted supplier to <strong>buy best quality elevator buttons in the UAE</strong>, providing reliable solutions for all major brands. The <strong>CS-41-GG push button</strong> combines safety, efficiency, and long-lasting performance—making it an excellent choice for new installations and elevator modernisation projects.</p>',
       },
       {
         name: "Button: MTD118",
@@ -696,6 +1246,14 @@ export const products = [
         canonical: "https://www.bestechparts.ae/products/buttons/button-mtd118",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Push Button MTD118 | Lift Button Supplier in UAE",
+        meta_description:
+          "Get MTD118 elevator push button in Sharjah, Dubai & UAE. Genuine lift spare used in Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp systems.",
+        keywords:
+          "elevator push button MTD118, lift push button MTD118, buy lift push button MTD118",
+        paragraph_text:
+          '<h2>Elevator Push Button MTD118 for Mitsubishi & FUJI Systems</h2>\n<p>The <strong>elevator push button MTD118</strong> is a precisely engineered component designed for <strong>Mitsubishi</strong> and <strong>FUJI elevator systems</strong>. Built for durability and reliable performance, this model is ideal for both car and landing panels. Its robust construction and accurate tactile feedback ensure a smooth and safe experience for daily passenger use. The MTD118 button maintains consistent operation under regular load conditions, making it a trusted choice for maintenance, repair, or modernisation in commercial and residential elevator environments.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> MTD118</li>\n  <li><strong>Manufacturer Compatibility:</strong> Mitsubishi, FUJI</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Shape:</strong> Round</li>\n  <li><strong>Material:</strong> High-durability plastic with metallic finish</li>\n  <li><strong>Features:</strong> Tactile feedback, long operational life, easy installation</li>\n  <li><strong>Application:</strong> Suitable for maintenance, repair, and modernisation of Mitsubishi and FUJI elevator systems</li>\n</ul>\n<h2>Quality-Tested Elevator Buttons Supplied Across UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> supplies <strong>best quality elevator buttons in the UAE</strong>, offering reliable solutions for leading brands. Each <strong>MTD118 push button</strong> is rigorously tested for safety, performance, and compatibility—ensuring dependable functionality, long service life, and seamless integration within Mitsubishi and FUJI elevator systems.</p>',
       },
       {
         name: "Button: A4J13868/A4N13869",
@@ -708,6 +1266,13 @@ export const products = [
           "https://www.bestechparts.ae/products/buttons/button-a4j13868-a4n13869",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Push Button A4J13868-A4N13869 | Round Type",
+        meta_description:
+          "Buy A4J13868-A4N13869 round elevator push button in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Schindler, Hyundai and Mitsubishi lift panels.",
+        keywords:
+          "elevator push button A4J13868-A4N13869, lift push button A4J13868, elevator round push button",
+        paragraph_text:
+          '<h2>Durable Elevator Push Button A4J13868-A4N13869</h2>\n<p>The <strong>elevator push button A4J13868-A4N13869</strong> is a precision-engineered component designed for use as a reliable replacement part in select elevator systems. Manufactured from durable materials and rigorously tested for consistent performance, this button ensures smooth operation and responsive tactile feedback for daily passenger use. Its user-friendly design supports easy installation and seamless compatibility with existing car and landing panels, maintaining both functionality and visual appeal. Suitable for modernisation and maintenance projects, it delivers long service life and dependable operation essential for safe and efficient elevator control.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> A4J13868-A4N13869</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Design:</strong> Durable construction with smooth tactile feedback</li>\n  <li><strong>Compatibility:</strong> Suitable for selected elevator systems</li>\n  <li><strong>Application:</strong> Replacement and maintenance part</li>\n</ul>\n<h2>Premium Elevator Push Buttons for Reliable Performance in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers <strong>best quality elevator buttons in the UAE</strong>, including trusted models like the <strong>A4J13868-A4N13869</strong>. Each button is engineered for long-term reliability, precise response, and user safety. Ideal for replacement or maintenance applications, these buttons provide consistent performance and durability for modern elevator systems.</p>',
       },
       {
         name: "Emergency light round - COP",
@@ -716,9 +1281,16 @@ export const products = [
         url: "/buttons/emergency-light-round-cop",
         image: "/img/products/buttons/emergency-light-round-cop/1.jpg",
         canonical:
-          "https://www.bestechparts.ae/products/buttons/button-da411-b113-mtd411",
+          "https://www.bestechparts.ae/products/buttons/emergency-light-round-cop",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Emergency Light Round COP | Safety Part in UAE",
+        meta_description:
+          "Order round COP emergency light for elevators in Sharjah, Dubai & UAE. Essential safety component for passenger lifts from top global elevator brands.",
+        keywords:
+          "elevator emergency light round cop, emergency light for passenger elevator parts, lift safety emergency cop",
+        paragraph_text:
+          '<h2>Long-Lasting Elevator Emergency Light Round Model</h2>\n<p>The <strong>elevator emergency light round COP</strong> is an essential safety feature designed to provide illumination and security during power interruptions. Built with durable materials and reliable lighting performance, this round-style emergency light fits seamlessly within the <strong>car operating panel (COP)</strong> of modern elevator systems. It delivers consistent brightness, excellent energy efficiency, and a long service life, making it a critical component for elevator safety, maintenance, and modernisation projects. Suitable for various elevator models, it ensures operational reliability and passenger safety in all conditions.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> Emergency Light Round COP</li>\n  <li><strong>Type:</strong> Elevator Car Operating Panel Light</li>\n  <li><strong>Function:</strong> Safety illumination during power failure</li>\n  <li><strong>Design:</strong> Round, compact, and durable construction</li>\n  <li><strong>Application:</strong> Compatible with multiple elevator systems</li>\n</ul>\n<h2>Advanced Round Emergency Light for Modern Lifts</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers <strong>best quality elevator buttons and components in the UAE</strong>, including the <strong>Elevator Emergency Light Round COP</strong>. Built for precision and reliability, this light provides consistent illumination and meets international safety standards, ensuring dependable performance in all elevator installations.</p>',
       },
       {
         name: "Button: DA411/B113/MTD411",
@@ -729,213 +1301,657 @@ export const products = [
         slider: ["1", "2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Push Button DA411-B113-MTD411 | Lift Spare, UAE",
+        meta_description:
+          "Buy DA411-B113-MTD411 elevator push button in Sharjah, Dubai & UAE. Genuine lift panel spare for Otis, Kone, Schindler, Mitsubishi and Hyundai elevators.",
+        keywords:
+          " elevator push button DA411-B113-MTD411, lift push button DA411, elevator push button panel DA411 B113 MTD411",
+        paragraph_text:
+          "<h2>Mitsubishi-Compatible Elevator Push Button DA411-B113-MTD411</h2>\n<p>The Elevator push button DA411-B113-MTD411 is a high-quality component commonly used in Mitsubishi elevator systems and occasionally as a compatible part for Canny elevators. Built for reliability and precise performance, this button ensures smooth operation and long-lasting response under frequent use. Designed with durable materials and refined tactile feedback, it supports efficient passenger control while maintaining a modern appearance. Each unit is manufactured to meet strict quality standards, ensuring dependable functionality and seamless system integration in both new and existing elevator panels.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> DA411-B113-MTD411</li>\n  <li><strong>Manufacturer:</strong> Mitsubishi (compatible with Canny)</li>\n  <li><strong>Type:</strong> Car and Landing Push Button</li>\n  <li><strong>Features:</strong> High durability, smooth tactile response, reliable contact performance</li>\n  <li><strong>Application:</strong> Suitable for Mitsubishi and compatible elevator systems</li>\n</ul>\n<h2>Superior Elevator Buttons for Commercial and Residential Use</h2>\n<p>At Bestech, you can buy best quality elevator buttons UAE for superior reliability and endurance. The DA411-B113-MTD411 push button is engineered to meet Mitsubishi elevator standards, ensuring accurate operation and extended service life. Designed for both residential and commercial applications, it offers smooth control and lasting performance.</p>",
       },
       {
         name: "COP button - Open",
-        description: "Model: BST",
+        description: "COP button - Open",
         code: "BS-BT0028",
         url: "/buttons/cop-button-open",
         image: "/img/products/buttons/cop-button-open/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Door Open Button | Lift Spare, UAE",
+        meta_description:
+          "Shop COP door open button for elevators in Sharjah, Dubai & UAE. Fits Otis, Kone, Mitsubishi, thyssenkrupp and Schindler control operating panels.",
+        keywords:
+          "elevator cop open button, elevator cop door open buttons suppliers UAE, buy lift cop open button Dubai",
+        paragraph_text:
+          "<h2>Efficient Elevator COP Open Button for Reliable Door Control</h2>\n<p>The Elevator COP open button is a key component of the car operating panel, designed to control the door-opening function inside the elevator cabin. Built for precision and frequent use, this button ensures smooth and reliable operation, allowing passengers to conveniently hold doors open when required. Crafted with high-quality materials, it provides a clear tactile response and long service life, making it suitable for both commercial and residential lift systems. The COP open button meets strict safety and performance standards, ensuring consistent operation and easy integration with modern elevator panels.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Door Open Button (COP)</li>\n  <li><strong>Function:</strong> Manual door-opening control from inside the elevator car</li>\n  <li><strong>Design:</strong> Durable, responsive, and easy to install</li>\n  <li><strong>Application:</strong> Compatible with multiple elevator systems</li>\n  <li><strong>Material:</strong> High-strength, wear-resistant construction</li>\n</ul>\n<h2>Buy the best quality elevator buttons in the UAE for safety and endurance</h2>\n<p>For smooth and secure lift operation, buy best quality elevator buttons UAE through Bestech. Each COP open button undergoes strict quality testing to guarantee reliability, strength, and efficient function under continuous use in elevator environments.</p>",
       },
       {
         name: "COP button - Close",
-        description: "Model: BST",
+        description: "COP button - Close",
         code: "BS-BT0029",
         url: "/buttons/cop-button-close",
         image: "/img/products/buttons/cop-button-close/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Door Close Button | Lift Spare, UAE",
+        meta_description:
+          "Buy COP door close button for elevators in Sharjah, Dubai & UAE. Compatible with most lift brands including Otis, Kone, Schindler, Hyundai and Mitsubishi.",
+        keywords:
+          "elevator cop close button, elevator cop door close buttons suppliers UAE, buy lift cop close button Dubai",
+        paragraph_text:
+          "<h2>Elevator COP Close Button Designed for Performance</h2>\n<p>The Elevator COP close button is a key component installed on the car operating panel, allowing passengers to manually close the elevator doors when required. Designed for precision and durability, it ensures smooth operation and long-term reliability in various lift systems. Built with high-quality materials, the COP close button provides a clear tactile response and maintains consistent performance under frequent use. Suitable for modernisation projects or replacements, it supports safety and efficiency in both residential and commercial elevators.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> COP Close Button</li>\n  <li><strong>Function:</strong> Door Close Operation</li>\n  <li><strong>Design:</strong> Durable construction with clear tactile feedback</li>\n  <li><strong>Application:</strong> Car Operating Panel (COP) in elevator systems</li>\n  <li><strong>Compatibility:</strong> Suitable for multiple elevator brands</li>\n</ul>\n<h2>Best Performance Elevator Buttons Available in UAE</h2>\n<p>Buy best quality elevator buttons UAE from Bestech and ensure dependable performance for every lift installation. Our COP close buttons are precision-engineered for long-lasting use, tested for safety, and compatible with a wide range of elevator systems, ensuring reliability and efficient operation in all environments.</p>",
       },
       {
         name: "COP button - P1",
-        description: "Model: BST",
+        description: "COP button - P1",
         code: "BS-BT0030",
         url: "/buttons/cop-button-p1",
         image: "/img/products/buttons/cop-button-p1/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Button P1 for Lift Panels in UAE | Bestech",
+        meta_description:
+          "Order COP Button P1 for elevator control panels from Bestech in Sharjah, Dubai & UAE. Fits Otis, Kone, Schindler, Mitsubishi, Hyundai and other lift brands.",
+        keywords:
+          "elevator cop button p1, buy lift cop button p1 Dubai, push button elevator COP p1",
+        paragraph_text:
+          "<h2>Elevator COP Button P1 for smooth operation</h2>\n<p>The Elevator COP button P1 is a durable floor selection control designed for the Car Operating Panel of passenger elevators. It indicates a specific floor level and provides responsive actuation with clear backlighting for user convenience. Built to meet modern lift standards, the button ensures smooth operation, stable contact performance, and resistance to wear. Its clean design and reliability make it suitable for a wide range of residential, commercial, and industrial applications.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> P1 COP Button</li>\n  <li><strong>Application:</strong> Floor selection (Car Operating Panel)</li>\n  <li><strong>Compatibility:</strong> Standard with multiple elevator systems</li>\n  <li><strong>Function:</strong> Indicates and selects a specific floor level</li>\n  <li><strong>Material:</strong> High-durability plastic with metallic or illuminated finish</li>\n  <li><strong>Features:</strong> Smooth press action, long service life, and bright illumination</li>\n  <li><strong>Usage:</strong> Suitable for passenger and service lifts</li>\n</ul>\n<h2>Trusted Elevator COP Button P1 for Modern Lift Systems</h2>\n<p>Bestech offers a wide selection of reliable elevator control components to meet international standards. If you plan to buy best quality elevator buttons UAE, the COP Button P1 is an ideal option for projects that demand high accuracy and long-lasting operation. Each button is designed with careful attention to safety, lighting consistency, and tactile feedback, making it a trusted element in lift system maintenance.</p>",
       },
       {
         name: "COP button - P2",
-        description: "Model: BST",
+        description: "COP button - P2",
         code: "BS-BT0031",
         url: "/buttons/cop-button-p2",
         image: "/img/products/buttons/cop-button-p2/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Button P2 for Lift Panels in UAE | Bestech",
+        meta_description:
+          "Shop original COP Button P2 for elevators in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp lift systems.",
+        keywords:
+          "elevator cop button p2, buy lift cop button p2 Dubai, push button elevator COP p2",
+        paragraph_text:
+          "<h2>Elevator COP Floor Selection Button P2</h2>\n<p>The Elevator COP button P2 is designed as a reliable floor selection control within the Car Operating Panel, allowing passengers to easily access designated building levels. Built for endurance and precision, this button maintains smooth functionality, tactile feedback, and bright illumination even under frequent use. It is commonly integrated into modern elevator systems for both new installations and maintenance upgrades, ensuring dependable operation and long service life. Bestech provides genuine and compatible elevator buttons engineered to meet international standards for safety and performance.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> P2</li>\n  <li><strong>Type:</strong> Car Operating Panel (COP) Floor Selection Button</li>\n  <li><strong>Design:</strong> Illuminated, durable, and easy to install</li>\n  <li><strong>Application:</strong> Suitable for modern elevator systems and refurbishments</li>\n  <li><strong>Features:</strong> Smooth operation, clear visibility, long-lasting reliability</li>\n</ul>\n<h2>Shop Quality Elevator Buttons UAE with Bestech</h2>\n<p>When you buy best quality elevator buttons UAE from Bestech, you invest in components that prioritise safety, performance, and durability. The P2 COP button exemplifies precision engineering and consistent response and is trusted by technicians and building operators for its quality and endurance in daily operation. Each button undergoes strict testing to ensure reliable integration and long-term performance across various elevator systems.</p>",
       },
       {
         name: "COP button - P3",
-        description: "Model: BST",
+        description: "COP button - P3",
         code: "BS-BT0032",
         url: "/buttons/cop-button-p3",
         image: "/img/products/buttons/cop-button-p3/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button P3 for Lift Systems in UAE | Bestech",
+        meta_description:
+          "Buy COP Button P3 for elevator panels in Sharjah, Dubai & UAE. Genuine spare for Otis, Kone, Schindler, Hyundai, Mitsubishi and thyssenkrupp elevators.",
+        keywords:
+          "elevator cop button p3, buy lift cop button p3 Dubai, push button elevator COP p3",
+        paragraph_text:
+          "<h2>Sturdy Elevator COP Button P3 Designed for Safety</h2>\n<p>The Elevator COP button P3 is a dependable floor selection component designed for precision and consistent response within the Car Operating Panel. Built for smooth operation, it ensures accurate level selection and long-lasting reliability in daily use. Engineered with durable materials and tested for electrical safety, the P3 button maintains stable performance even under frequent passenger operation. It integrates seamlessly into most elevator control systems, supporting clear illumination and a tactile press feel for improved accessibility and safety in both commercial and residential settings.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> COP Button P3</li>\n  <li><strong>Type:</strong> Car Operating Panel Floor Selection Button</li>\n  <li><strong>Function:</strong> Floor designation and passenger control</li>\n  <li><strong>Features:</strong> Durable construction, tactile response, illumination support</li>\n  <li><strong>Application:</strong> Compatible with standard elevator COP assemblies</li>\n</ul>\n<h2>Dependable Elevator Buttons for Modern Lift Systems in UAE</h2>\n<p>Buy best quality elevator buttons UAE from Bestech, offering precision-tested components that ensure long service life, consistent function, and compliance with elevator safety standards. The P3 COP button delivers the reliability and performance demanded by modern lift systems, making it a trusted choice for maintenance and upgrades across the region.</p>",
       },
       {
         name: "COP button - P4",
-        description: "Model: BST",
+        description: "COP button - P4",
         code: "BS-BT0033",
         url: "/buttons/cop-button-p4",
         image: "/img/products/buttons/cop-button-p4/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Button P4 for Lift Control Panels | UAE",
+        meta_description:
+          "Get COP Button P4 for elevators in Sharjah, Dubai & UAE from Bestech. Works with Kone, Otis, Hyundai, Schindler, Mitsubishi and other top elevator brands.",
+        keywords:
+          "elevator cop button p4, buy lift cop button p4 Dubai, push button elevator COP p4",
+        paragraph_text:
+          "<h2>Long-Lasting Elevator P4 COP Button for Consistent Use</h2>\n<p>The Elevator COP button P4 is a precisely engineered floor selection button designed for modern lift systems. It enables passengers to select the designated P4 floor efficiently and is built to endure continuous use in commercial and residential elevators. This button features clear illumination, smooth tactile feedback, and durable internal contacts that maintain accuracy over time. Manufactured to meet international lift standards, it ensures safety, usability, and long-term reliability for any lift configuration.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> P4</li>\n  <li><strong>Type:</strong> Car Operating Panel (COP) Floor Selection Button</li>\n  <li><strong>Function:</strong> Designates P4 floor in elevator systems</li>\n  <li><strong>Features:</strong> Durable construction, tactile feedback, clear illumination</li>\n  <li><strong>Application:</strong> Compatible with various modern elevator systems</li>\n</ul>\n<h2>Buy Best Quality Elevator Buttons UAE</h2>\n<p>A trusted source for original and compatible lift components. Each button is tested for electrical integrity, mechanical endurance, and illumination clarity to ensure reliable operation. Bestech delivers performance-tested solutions that meet the expectations of maintenance experts and lift manufacturers across the UAE.</p>",
       },
       {
         name: "COP button - P5",
-        description: "Model: BST",
+        description: "COP button - P5",
         code: "BS-BT0034",
         url: "/buttons/cop-button-p5",
         image: "/img/products/buttons/cop-button-p5/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Button P5 | High Quality Lift Buttons, UAE",
+        meta_description:
+          "Buy premium elevator COP button P5 from Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Schindler, Mitsubishi, Hyundai & thyssenkrupp lifts.",
+        keywords:
+          "elevator cop button P5, buy elevator cop button P5, high quality elevator cop button P5 Sharjah UAE",
+        paragraph_text:
+          "<h2>Premium COP Button P5 for Lift Control Panels</h2>\n<p>The Best Elevator COP Button P5 is designed for clear and dependable floor selection within modern lift cabins. Built with durable materials and steady illumination, it provides accurate response and easy identification for daily passenger use. Its compact form and clean finish make it suitable for both new installations and replacement needs, while maintaining consistent electrical performance across standard elevator control panels.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> P5 COP Button</li>\n  <li><strong>Function:</strong> Floor selection</li>\n  <li><strong>Illumination:</strong> Integrated indicator light</li>\n  <li><strong>Build:</strong> Durable, wear-resistant design</li>\n  <li><strong>Application:</strong> Standard elevator operating panels</li>\n</ul>\n<h2>High-Quality Lift Buttons for Professional Use in UAE</h2>\n<p>Buy best quality elevator buttons UAE from Bestech and equip your lift systems with components that meet strict performance expectations. The P5 button is checked for reliability, wiring safety, and compatibility, offering smooth operation for residential, commercial, and service elevators.</p>",
       },
       {
         name: "COP button - G",
-        description: "Model: BST",
+        description: "COP button - G",
         code: "BS-BT0035",
         url: "/buttons/cop-button-g",
         image: "/img/products/buttons/cop-button-g/1.jpg",
         slider: ["1", "2", "3"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Button G | High Quality Lift Buttons, UAE",
+        meta_description:
+          "Order elevator COP button G from Bestech in Sharjah, Dubai & UAE. Genuine lift spare fits Otis, Kone, Schindler, Mitsubishi, Hyundai & thyssenkrupp.",
+        keywords:
+          " elevator cop button G, buy elevator cop button G, high quality elevator cop button G Sharjah UAE",
+        paragraph_text:
+          "<h2>COP Button G Designed for Ground Floor Selection</h2>\n<p>The elevator COP button G is specifically designed for the main entrance (ground) level selection in modern lift cabins. Its durable build and clear illumination ensure passengers can easily identify and select the ground floor, contributing to safe and efficient vertical transport. The button is ideal for both new installations and maintenance upgrades, as it maintains consistent tactile feedback, reliable contact performance, and seamless integration with standard Car Operating Panels (COP).</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> G COP Button</li>\n  <li><strong>Function:</strong> Ground/Main Entrance Floor Selection</li>\n  <li><strong>Illumination:</strong> Backlit indicator for clear visibility</li>\n  <li><strong>Build:</strong> Wear-resistant and sturdy design</li>\n  <li><strong>Application:</strong> Suited for standard elevator COP panels in all building types</li>\n</ul>\n<h2>Performance-Driven Elevator Buttons for UAE Systems</h2>\n<p>Choose Bestech to buy best quality elevator buttons UAE and ensure dependable performance across your elevator systems. The COP button G is quality-tested for long life, safety compliance, and compatibility with both residential and commercial lifts in the UAE, offering peace of mind and operational stability for building operators.</p>",
       },
       {
         name: "COP button - M",
-        description: "Model: BST",
+        description: "COP button - M",
         code: "BS-BT0036",
         url: "/buttons/cop-button-m",
         image: "/img/products/buttons/cop-button-m/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button M | Durable Lift Button Supplier in UAE",
+        meta_description:
+          "Get elevator COP button M from Bestech in Sharjah, Dubai & UAE. Trusted supplier of Otis, Kone, Schindler, Mitsubishi, Hyundai & thyssenkrupp parts.",
+        keywords:
+          "elevator cop button M, buy elevator cop button M, high quality elevator cop button M Sharjah UAE",
+        paragraph_text:
+          "<h2>Professional Elevator COP Button M for Safe Operation</h2>\n<p>The Elevator COP Button M serves as a key floor selection control within the Car Operating Panel, designating a specific level within the building. Engineered for durable performance, it features smooth tactile feedback and clear illumination for enhanced user experience. Built to meet professional lift-system standards, the button supports consistent operation under frequent use, making it suitable for both new installations and refurbishment projects.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> COP Button M</li>\n  <li><strong>Function:</strong> Floor level selection – designated ‘M’ floor</li>\n  <li><strong>Illumination:</strong> Built-in indicator light for visibility</li>\n  <li><strong>Build:</strong> Robust construction with wear-resistant materials</li>\n  <li><strong>Application:</strong> Compatible with standard elevator COP panels in UAE</li>\n</ul>\n<h2>Buy the Best Quality Elevator Buttons in the UAE for All Lift Systems</h2>\n<p>When you choose to buy best quality elevator buttons UAE, select from Bestech Parts’ tested range of COP buttons, including the Button M model. Each unit is verified for reliability, safety, and compatibility across commercial and residential lift systems, ensuring dependable operation and long service life.</p>",
       },
       {
         name: "COP button - 1",
-        description: "Model: BST",
+        description: "COP button - 1",
         code: "BS-BT0037",
         url: "/buttons/cop-button-1",
         image: "/img/products/buttons/cop-button-1/1.jpg",
         slider: ["1", "2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Button 1 | Lift Panel Spare Parts in UAE",
+        meta_description:
+          "Buy elevator COP button 1 from Bestech in Sharjah, Dubai & UAE. Original spare for Otis, Kone, Mitsubishi, Schindler, Hyundai & thyssenkrupp lifts.",
+        keywords:
+          "elevator cop button 1, buy elevator cop button 1, high quality elevator cop button 1 Sharjah UAE",
+        paragraph_text:
+          "<h2>Elevator COP Button 1 for Smooth Operation</h2>\n<p>The elevator COP button 1 is a standard floor selection control used to indicate the first floor on a Car Operating Panel. Designed for clear visibility and smooth operation, this button supports consistent performance in daily lift use. Its build quality ensures accurate input response, stable illumination, and dependable function across a wide range of elevator systems. This makes it suitable for routine replacements, maintenance tasks, and modernisation work carried out by lift technicians.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> COP Button 1</li>\n  <li><strong>Function:</strong> First-floor selection button</li>\n  <li><strong>Panel Type:</strong> Car Operating Panel (COP)</li>\n  <li><strong>Illumination:</strong> Clear, stable light output</li>\n  <li><strong>Operation:</strong> Smooth tactile response</li>\n  <li><strong>Application:</strong> Compatible with various elevator systems in commercial and residential buildings</li>\n  <li><strong>Build Quality:</strong> Durable construction suitable for frequent daily use</li>\n</ul>\n<h2>Trusted Supplier for High-Quality Elevator Buttons in UAE</h2>\n<p>Service teams rely on this COP button for its smooth action and consistent lighting output. By opting to buy best quality elevator buttons UAE, you secure parts that meet recognised safety and performance standards. The design of the button labelled 1 allows easy integration into standard control panels.</p>",
       },
       {
         name: "COP button - 2",
-        description: "Model: BST",
+        description: "COP button - 2",
         code: "BS-BT0037",
         url: "/buttons/cop-button-2",
         image: "/img/products/buttons/cop-button-2/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Button 2 | Lift Control Buttons in UAE",
+        meta_description:
+          "Shop elevator COP button 2 at Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Schindler, Mitsubishi, Hyundai & thyssenkrupp elevators.",
+        keywords:
+          "elevator cop button 2, buy elevator cop button 2, high quality elevator cop button 2 Sharjah UAE",
+        paragraph_text:
+          "<h2>Reliable Elevator COP Button 2 for Smooth Operation</h2>\n<p>The elevator COP button 2 is a standard floor selection component used to mark the second floor within lift systems. Built with a stable switch mechanism and clear illumination, it offers steady response and long-term usability. Its design supports accurate passenger input and fits well into modern and upgraded car operating panels, making it suitable for commercial and residential elevators.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Label:</strong> Floor 2</li>\n  <li><strong>Type:</strong> COP floor selection button</li>\n  <li><strong>Function:</strong> Passenger floor input</li>\n  <li><strong>Build:</strong> Durable body with clear illumination</li>\n  <li><strong>Application:</strong> Compatible with standard elevator COP panels</li>\n</ul>\n<h2>A Smart Option When You Buy Best Quality Elevator Buttons in the UAE</h2>\n<p>The button maintains accurate input and supports the overall safety of the operating panel. For teams looking to buy best quality elevator buttons UAE, this piece provides dependable quality and smooth integration.</p>",
       },
       {
         name: "COP button - 3",
-        description: "Model: BST",
+        description: "COP button - 3",
         code: "BS-BT0039",
         url: "/buttons/cop-button-3",
         image: "/img/products/buttons/cop-button-3/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 3 | Best Lift Button Supplier in UAE",
+        meta_description:
+          "Get elevator COP button 3 from Bestech in Sharjah, Dubai & UAE. High quality compatible spare for Otis, Kone, Schindler, Hyundai & Mitsubishi lifts.",
+        keywords:
+          "elevator cop button 3, buy elevator cop button 3, high quality elevator cop button 3 Sharjah UAE",
+        paragraph_text:
+          "<h2>COP Button 3 Designed for Smooth Passenger Use</h2>\n<p>The Elevator COP button 3 is designed for clear and dependable floor selection within any lift system. Marked for the third floor, this button helps passengers choose their level with ease while keeping the panel layout simple and recognisable. Its build quality supports repeated daily use, making it suitable for residential, commercial, and mixed-use buildings across the UAE.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Marking:</strong> Number 3</li>\n  <li><strong>Function:</strong> Third-floor selection</li>\n  <li><strong>Build:</strong> Durable, lift-grade materials</li>\n  <li><strong>Fit:</strong> Compatible with common COP panels</li>\n  <li><strong>Operation:</strong> Smooth tactile response</li>\n</ul>\n<h2>Your Source to Buy the Best Quality Elevator Buttons in the UAE</h2>\n<p>This COP button is produced to meet common lift standards, offering smooth actuation, clear visibility, and a secure fit within modern and older panel designs. It is a practical choice for maintenance work, upgrades, or full replacements. Buyers looking to buy best quality elevator buttons UAE will find it a reliable part that fits well with most established lift systems.</p>",
       },
       {
         name: "COP button - 4",
-        description: "Model: BST",
+        description: "COP button - 4",
         code: "BS-BT0040",
         url: "/buttons/cop-button-4",
         image: "/img/products/buttons/cop-button-4/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator COP Button 4 | Lift Spare Supplier in UAE",
+        meta_description:
+          "Purchase elevator COP button 4 from Bestech in Sharjah, Dubai & UAE. Genuine spare compatible with Otis, Kone, Schindler, Hyundai & Mitsubishi lifts.",
+        keywords:
+          "elevator cop button 4, buy elevator cop button 4, high quality elevator cop button 4 Sharjah UAE",
+        paragraph_text:
+          "<h2>COP Button 4 for Accurate Floor Selection</h2>\n<p>The Elevator COP button 4 is a clearly marked and reliable floor selection control designed for lifts that serve a fourth floor. It is built to provide a steady response, clear visibility, and dependable performance in residential, commercial, and mixed-use buildings, making it suitable for daily passenger movement.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Marking:</strong> Number 4</li>\n  <li><strong>Function:</strong> Fourth-floor selection</li>\n  <li><strong>Build:</strong> Lift-grade durable materials</li>\n  <li><strong>Compatibility:</strong> Fits common COP systems</li>\n  <li><strong>Operation:</strong> Smooth tactile feedback</li>\n</ul>\n<h2>Engineered for Stability in High-Use Environments</h2>\n<p>This button offers a clean tactile feel and is designed to keep its performance consistent over time. It integrates easily with common COP panels and supports safe, efficient lift movement. Those planning to buy best quality elevator buttons UAE can rely on this option for solid build quality and long-term reliability.</p>",
       },
       {
         name: "COP button - 5",
-        description: "Model: BST",
+        description: "COP button - 5",
         code: "BS-BT0041",
         url: "/buttons/cop-button-5",
         image: "/img/products/buttons/cop-button-5/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 5 | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Buy elevator COP button 5 from Bestech in Sharjah, Dubai & UAE. Durable lift spare compatible with Otis, Kone, Schindler, Hyundai & Mitsubishi brands.",
+        keywords:
+          "elevator cop button 5, buy elevator cop button 5, high quality elevator cop button 5 Sharjah UAE",
+        paragraph_text:
+          "<h2>COP Button for Fifth Floor Selection</h2>\n<p>The Elevator COP button 5 is a standard floor selection control used on the Car Operating Panel to indicate and access the fifth floor of a building. It is designed to offer clear illumination, steady response, and reliable performance in daily lift operation. Its construction supports long service life, making it suitable for commercial, residential, and mixed-use properties that require dependable passenger movement.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Floor designation:</strong> 5</li>\n  <li><strong>Mounting:</strong> Standard COP fitting</li>\n  <li><strong>Illumination:</strong> Clear, uniform LED light</li>\n  <li><strong>Material:</strong> Durable panel-grade construction</li>\n  <li><strong>Compatibility:</strong> Suitable for most lift systems using standard COP layouts</li>\n</ul>\n<h2>A Practical Choice for Upgrades and Replacements</h2>\n<p>Engineers appreciate this button for its long service life and stable operation. Anyone who wants to buy best quality elevator buttons UAE will find it a dependable option, as it supports safe passenger flow and matches common specifications used across modern lift systems.</p>",
       },
       {
         name: "COP button - 6",
-        description: "Model: BST",
+        description: "COP button - 6",
         code: "BS-BT0042",
         url: "/buttons/cop-button-6",
         image: "/img/products/buttons/cop-button-6/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 6 | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Buy high quality Elevator COP Button 6 from Bestech in Sharjah, Dubai & UAE. Suitable for Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp lifts.",
+        keywords:
+          "elevator cop button 6, buy elevator cop button 6, high quality elevator cop button 6 sharjah UAE",
+        paragraph_text:
+          "<h2>Sixth-Floor Selection Button for Lift Panels</h2>\n<p>The elevator COP button 6 is a standard floor selection control used to indicate and access the sixth level within a lift system. It is designed for clear visibility, smooth actuation, and reliable response, making it suitable for both new installations and replacement work. Its construction supports steady performance in commercial and residential buildings where daily passenger flow is high.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Floor designation:</strong> 6</li>\n  <li><strong>Application:</strong> Standard COP floor selection</li>\n  <li><strong>Illumination:</strong> Consistent and easy to read</li>\n  <li><strong>Build quality:</strong> Durable for routine lift traffic</li>\n  <li><strong>Compatibility:</strong> Suited for common elevator COP assemblies</li>\n</ul>\n<h2>Reliable Choices for Lift Technicians and Maintenance Teams</h2>\n<p>Technicians who need to buy best quality elevator buttons UAE will choose this model for its consistent operation and straightforward fit within standard COP panels. It performs well under frequent use and maintains dependable illumination, offering a practical option for ongoing lift servicing.</p>",
       },
       {
         name: "COP button - 7",
-        description: "Model: BST",
+        description: "COP button - 7",
         code: "BS-BT0043",
         url: "/buttons/cop-button-7",
         image: "/img/products/buttons/cop-button-7/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 7 | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Shop premium Elevator COP Button 7 at Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Schindler, Hyundai, Mitsubishi lift systems.",
+        keywords:
+          "elevator cop button 7, buy elevator cop button 7, high quality elevator cop button 7 sharjah UAE",
+        paragraph_text:
+          "<h2>Standard COP Button Used for Floor 7</h2>\n<p>The elevator COP button 7 is used to mark and operate the seventh-floor level within standard lift control panels. It is built with a reliable switching mechanism that supports clear actuation and steady illumination for ease of use. This button fits most modern COP layouts and is widely chosen by technicians for routine replacements and system upgrades. Its durable build and clean marking ensure a long service life in both residential and commercial lift environments.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> COP Button 7</li>\n  <li><strong>Function:</strong> Seventh-floor selection</li>\n  <li><strong>Panel Type:</strong> Car Operating Panel (COP)</li>\n  <li><strong>Features:</strong> Clear illumination, stable actuation, durable construction</li>\n  <li><strong>Application:</strong> Compatible with standard lift systems</li>\n</ul>\n<h2>Essential Button Components for UAE Installations</h2>\n<p>Many service teams choose this button for its steady performance and reliable build. Those aiming to buy best quality elevator buttons UAE often prefer this model because it fits easily into standard control panels and maintains accurate response over years of use. Its stable electrical design supports safe operation in both commercial and residential lifts.</p>",
       },
       {
         name: "COP button - 8",
-        description: "Model: BST",
+        description: "COP button - 8",
         code: "BS-BT0044",
         url: "/buttons/cop-button-8",
         image: "/img/products/buttons/cop-button-8/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 8 | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Buy Elevator COP Button 8 from Bestech in Sharjah, Dubai & UAE. Trusted spare compatible with major lift brands like Otis, Kone, Hyundai, Schindler.",
+        keywords:
+          "elevator cop button 8, buy elevator cop button 8, high quality elevator cop button 8 sharjah UAE",
+        paragraph_text:
+          "<h2>Eighth-Floor Elevator COP Button</h2>\n<p>The elevator COP button 8 is a designated floor-selection component used for the eighth level in standard lift systems. It is designed to provide clear actuation, steady illumination, and dependable response during daily use. Built to suit common COP layouts, this button offers stable electrical contact, good visibility, and a long service life. Its construction supports safe and accurate passenger operation, making it suitable for both residential and commercial lift environments.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> COP Button 8</li>\n  <li><strong>Function:</strong> Floor Selection (Eighth Floor)</li>\n  <li><strong>Type:</strong> Car Operating Panel Button</li>\n  <li><strong>Features:</strong> Clear actuation, durable build, illumination support</li>\n  <li><strong>Application:</strong> Compatible with standard elevator COP panels</li>\n</ul>\n<h2>Reliable Button Choices for UAE Installations</h2>\n<p>Technicians and maintenance teams who intend to buy best quality elevator buttons UAE regard this model as a practical and reliable option. It performs consistently under frequent use, aligns well with standard wiring arrangements, and supports smooth lift operation across different building types.</p>",
       },
       {
         name: "COP button - 9",
-        description: "Model: BST",
+        description: "COP button - 9",
         code: "BS-BT0045",
         url: "/buttons/cop-button-9",
         image: "/img/products/buttons/cop-button-9/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 9 | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Order Elevator COP Button 9 in Sharjah, Dubai & UAE from Bestech. Ideal for Otis, thyssenkrupp, Kone, Mitsubishi, Schindler and Hyundai elevators.",
+        keywords:
+          "elevator cop button 9, buy elevator cop button 9, high quality elevator cop button 9 sharjah UAE",
+        paragraph_text:
+          "<h2>Ninth-Floor Elevator COP Button</h2>\n<p>The elevator COP button 9 is a dedicated floor-selection control designed for lifts serving a ninth-floor level. It offers steady illumination, dependable actuation, and a clear visual marker for passengers. Built with durable materials, it supports daily use in busy lift cabins and fits neatly into standard COP layouts. The button is engineered to provide stable electrical contact and long-term reliability, making it a suitable choice for both commercial and residential buildings.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Model:</strong> COP Button 9</li>\n  <li><strong>Function:</strong> Ninth-Floor Selection</li>\n  <li><strong>Type:</strong> Car Operating Panel Button</li>\n  <li><strong>Features:</strong> Durable construction, clear actuation, illumination support</li>\n  <li><strong>Application:</strong> Compatible with standard COP panels in various lift systems</li>\n</ul>\n<h2>A trusted fit for modern lift interiors across the UAE</h2>\n<p>Maintenance teams and facility operators who plan to buy best quality elevator buttons UAE often choose this model for its consistent performance and ease of integration. It maintains dependable response during frequent operation and supports safe, accurate passenger control across a wide range of lift environments.</p>",
       },
       {
         name: "COP button - 10",
-        description: "Model: BST",
+        description: "COP button - 10",
         code: "BS-BT0046",
         url: "/buttons/cop-button-10",
         image: "/img/products/buttons/cop-button-10/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 10 | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Shop Elevator COP Button 10 at Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp lifts.",
+        keywords:
+          "elevator cop button 10, buy elevator cop button 10, high quality elevator cop button 10 sharjah UAE",
+        paragraph_text:
+          "<h2>Tenth-Level Selection Button for Car Panels</h2>\n<p>The Elevator COP button 10 is designed for clear and accurate floor selection within the lift car. Marked with the number ten, it helps passengers choose the Tenth Floor quickly and confidently. The button is built with a steady electrical response, a firm press action, and durable surface materials suited to regular use in commercial and residential buildings across the UAE. Its simple layout and clear marking support both ease of recognition and long-term service.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Marking:</strong> Number 10 for Tenth-Floor selection</li>\n  <li><strong>Application:</strong> Standard Car Operating Panel use</li>\n  <li><strong>Build:</strong> Durable faceplate with steady tactile response</li>\n  <li><strong>Compatibility:</strong> Fits common elevator control panel designs</li>\n  <li><strong>Performance:</strong> Stable electrical function for daily operation</li>\n  <li><strong>Usage:</strong> Suitable for commercial and residential buildings in the UAE</li>\n</ul>\n<h2>Suitable Solutions for UAE Building Requirements</h2>\n<p>If you want to buy best quality elevator buttons UAE, get a practical fit for ongoing maintenance and replacement needs. It is designed for consistent performance, smooth integration with standard control panels, and dependable operation in varied building conditions. This makes it a sound choice for lift companies, maintenance teams, and property managers seeking reliable components for safe daily movement.</p>",
       },
       {
         name: "COP button - 11",
-        description: "Model: BST",
+        description: "COP button - 11",
         code: "BS-BT0047",
         url: "/buttons/cop-button-11",
         image: "/img/products/buttons/cop-button-11/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 11 | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Buy Elevator COP Button 11 from Bestech in Sharjah, Dubai & UAE. Quality spare part suitable for Otis, Kone, Schindler, Hyundai, Mitsubishi elevators.",
+        keywords:
+          "elevator cop button 11, buy elevator cop button 11, high quality elevator cop button 11 sharjah UAE",
+        paragraph_text:
+          "<h2>Standard Eleventh-Floor Button for Lift COP Units</h2>\n<p>The elevator COP button 11 is used for direct selection of the eleventh floor in a lift car. It is designed to support regular passenger use with a clear numeral marking, steady illumination, and a firm tactile response. Its build helps maintain reliable performance during daily operation in commercial and residential settings across the UAE. This button fits common COP layouts, allowing smooth replacement or installation without changes to the existing panel structure.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Floor designation:</strong> 11</li>\n  <li><strong>Application:</strong> Standard Car Operating Panel</li>\n  <li><strong>Marking:</strong> Clear numeral with uniform backlight</li>\n  <li><strong>Build quality:</strong> Durable switch mechanism for repeated use</li>\n  <li><strong>Compatibility:</strong> Fits common COP panel cut-outs</li>\n  <li><strong>Response:</strong> Stable actuation with consistent feedback</li>\n  <li><strong>Installation:</strong> Straightforward replacement or new fitting</li>\n  <li><strong>Usage:</strong> Suitable for commercial and residential lifts in the UAE</li>\n</ul>\n<h2>Steady Performance Options for UAE Installations</h2>\n<p>Many service professionals prefer this option when they need to buy best quality elevator buttons UAE because it offers steady contact behaviour and clean feedback. It works well with standard COP layouts and keeps floor commands clear and reliable. Its reinforced design helps extend service life and reduces unplanned downtime.</p>",
       },
       {
         name: "COP button - 12",
-        description: "Model: BST",
+        description: "COP button - 12",
         code: "BS-BT0048",
         url: "/buttons/cop-button-12",
         image: "/img/products/buttons/cop-button-12/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button 12 | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Get Elevator COP Button 12 at Bestech in Sharjah, Dubai & UAE. Perfect replacement for Otis, Kone, Hyundai, Schindler, Mitsubishi lift systems.",
+        keywords:
+          "elevator cop button 12, buy elevator cop button 12, high quality elevator cop button 12 sharjah UAE",
+        paragraph_text:
+          "<h2>Twelfth-Floor COP Button for Lift Panels</h2>\n<p>The elevator COP button 12 is used on the Car Operating Panel to mark the twelfth floor. It is built for daily use and gives clear feedback when pressed, which helps passengers choose their floor with ease. Its steady contact action supports safe and smooth lift movement, making it a suitable choice for new units or replacement work.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Marking:</strong> Number 12</li>\n  <li><strong>Use:</strong> Lift Car Operating Panel</li>\n  <li><strong>Fit:</strong> Standard cut-out sizes</li>\n  <li><strong>Action:</strong> Clear press feedback</li>\n  <li><strong>Finish:</strong> Wear-resistant surface</li>\n</ul>\n<h2>Suitable Options for UAE Lift Projects</h2>\n<p>Teams looking to buy best quality elevator buttons UAE choose this type for its steady response and simple fitment. It works well with common lift systems and keeps floor selection clear for users. Its firm build helps reduce the need for repeat service and keeps the panel functioning as expected in commercial and residential sites.</p>",
       },
       {
         name: "COP button - R",
-        description: "Model: BST",
+        description: "COP button - R",
         code: "BS-BT0049",
         url: "/buttons/cop-button-r",
         image: "/img/products/buttons/cop-button-r/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator COP Button R | High Quality Lift Buttons in UAE",
+        meta_description:
+          "Buy Elevator COP Button R from Bestech in Sharjah, Dubai & UAE. Reliable spare part compatible with Otis, Kone, Hyundai, Schindler and Mitsubishi lifts.",
+        keywords:
+          "elevator cop button r, buy elevator cop button r, high quality elevator cop button r sharjah UAE",
+        paragraph_text:
+          "<h2>COP Button Marked R for Lift Control Panels</h2>\n<p>The elevator COP button R is used on the Car Operating Panel to mark a special function linked to the letter R. In many buildings, it is used to show the roof level, while in some systems it can stand for a return or specific service mode. The button is built for steady use and gives a clear press action, helping users or authorised staff select the intended function without confusion.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Marking:</strong> Letter R</li>\n  <li><strong>Use:</strong> Lift Car Operating Panel</li>\n  <li><strong>Fit:</strong> Standard panel cut-out</li>\n  <li><strong>Action:</strong> Clear press feedback</li>\n  <li><strong>Finish:</strong> Wear-resistant surface</li>\n</ul>\n<h2>Options That Suit UAE Lift Setups</h2>\n<p>Teams looking to buy best quality elevator buttons UAE choose this model for its clear marking, neat fit, and smooth operation. It works well with common lift panels and helps keep the control layout easy to read. Its firm surface and steady contact action support long-term use in both home and commercial buildings.</p>",
       },
       {
         name: "COP button - Alarm",
-        description: "Model: BST",
+        description: "COP button - Alarm",
         code: "BS-BT0050",
         url: "/buttons/cop-button-alarm",
         image: "/img/products/buttons/cop-button-alarm/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Alarm Button | High Quality Lift Spare in UAE",
+        meta_description:
+          "Shop high quality elevator alarm buttons from Bestech in Sharjah, Dubai & UAE. Trusted spare compatible with Otis, Kone, Schindler, Hyundai and Mitsubishi.",
+        keywords:
+          "elevator alarm button, buy elevator alarm button, high quality elevator alarm button suppliers",
+        paragraph_text:
+          "<h2>COP Alarm Button for Lift Safety Panels</h2>\n<p>The elevator alarm button is placed on the Car Operating Panel to give passengers a clear way to call for help during a lift stop or fault. When pressed, it sends a signal to the set alert system so the issue can be seen by the building team or monitoring unit. The button is shaped and marked for quick use, with a firm press feel that helps prevent wrong triggers.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Function:</strong> Passenger alert signal</li>\n  <li><strong>Marking:</strong> Alarm symbol</li>\n  <li><strong>Fit:</strong> Standard COP slot</li>\n  <li><strong>Action:</strong> Firm press feedback</li>\n  <li><strong>Surface:</strong> Wear-resistant finish</li>\n</ul>\n<h2>Alarm Control Options for UAE Lift Systems</h2>\n<p>Teams who plan to buy best quality elevator buttons UAE choose this alarm model for its steady action, clear marking, and fit with common lift control layouts. It works smoothly with standard wiring points and keeps the safety panel simple to read. Its strong front surface and steady contact help support daily use in homes, shops, offices, and other sites.</p>",
+      },
+      {
+        name: "LOP Button: UP and Down Arrow",
+        description: "Model: Monarch",
+        code: "BS-BT0051",
+        url: "/buttons/lop-button-up-and-down-arrow",
+        image: "/img/products/buttons/lop-button-up-and-down-arrow/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "COP Button - Intercom",
+        description: "Model-monarch",
+        code: "BS-BT0052",
+        url: "/buttons/cop-button-intercom",
+        image: "/img/products/buttons/cop-button-intercom/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "ELEVATOR BUTTON KM51071111H06",
+        description: "Kone: KM51071111H06",
+        code: "BS-BT0053",
+        url: "/buttons/elevator-button-km51071111h06",
+        image: "/img/products/buttons/elevator-button-km51071111h06/1.jpg",
+        slider: ["1", "2"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "ELEVATOR BUTTON A4J43675",
+        description: "OTIS: A4J43675",
+        code: "BS-BT0054",
+        url: "/buttons/elevator-button-a4j43675",
+        image: "/img/products/buttons/elevator-button-a4j43675/1.jpg",
+        slider: ["1", "2"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Button Empty Holder",
+        description: "Button Empty Holder",
+        code: "BS-BT0055",
+        url: "/buttons/button-empty-holder",
+        image: "/img/products/buttons/button-empty-holder/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Square Button AK07",
+        description: "AK07",
+        code: "BS-BT0056",
+        url: "/buttons/elevator-square-button-ak07",
+        image: "/img/products/buttons/elevator-square-button-ak07/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Push Button AK25 MTD265",
+        description: "LG Sigma: AK25 MTD265",
+        code: "BS-BT0057",
+        url: "/buttons/elevator-push-button-ak25-mtd265",
+        image: "/img/products/buttons/elevator-push-button-ak25-mtd265/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "A4N11286 Elevator LED Push Button",
+        description: "A4N11286",
+        code: "BS-BT0058",
+        url: "/buttons/a4n11286-elevator-led-push-button",
+        image: "/img/products/buttons/a4n11286-elevator-led-push-button/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BST Elevator Button A3N18489",
+        description: "BST: A3N18489",
+        code: "BS-BT0059",
+        url: "/buttons/bst-elevator-button-a3n18489",
+        image: "/img/products/buttons/bst-elevator-button-a3n18489/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Push Button KDS50 (Round)",
+        description: "KONE: KDS50 863233H03",
+        code: "BS-BT0060",
+        url: "/buttons/elevator-push-button-kds50-round",
+        image: "/img/products/buttons/elevator-push-button-kds50-round/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Button LHB-005B",
+        description: "Mitsubishi: LHB-005B",
+        code: "BS-BT0061",
+        url: "/buttons/elevator-button-lhb-005b",
+        image: "/img/products/buttons/elevator-button-lhb-005b/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Button LHB-006B",
+        description: "Mitsubishi: LHB-006B",
+        code: "BS-BT0062",
+        url: "/buttons/elevator-button-lhb-006b",
+        image: "/img/products/buttons/elevator-button-lhb-006b/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Button LHB-007B",
+        description: "Mitsubishi: LHB-007B",
+        code: "BS-BT0063",
+        url: "/buttons/elevator-button-lhb-007b",
+        image: "/img/products/buttons/elevator-button-lhb-007b/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "OTIS button lock 27MM (Flush)",
+        description:
+          "1/2/3/4/5/open/close/6 to 40/G, alarm, intercom B1, B2, B3, P1, P2, P3, M",
+        code: "BS-BT0064",
+        url: "/buttons/otis-button-lock-27mm-flush",
+        image: "/img/products/buttons/otis-button-lock-27mm-flush/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "OTIS button lock 27MM (Screw)",
+        description:
+          "1/2/3/4/5/open/close/6 to 40/G, alarm, intercom B1, B2, B3, P1, P2, P3, M",
+        code: "BS-BT0065",
+        url: "/buttons/otis-button-lock-27mm-screw",
+        image: "/img/products/buttons/otis-button-lock-27mm-screw/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Push buttons: A4N135161",
+        description: "Hyundai: A4N135161",
+        code: "BS-BT0066",
+        url: "/buttons/elevator-push-button-a4n135161",
+        image: "/img/products/buttons/elevator-push-button-a4n135161/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+
+      {
+        name: "G floor button cover (Green)",
+        description: "Mitsubishi G floor button cover (Green)",
+        code: "BS-BT0067",
+        url: "/buttons/g-floor-button-cover-green",
+        image: "/img/products/buttons/g-floor-button-cover-green/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Button Stickers",
+        description: "Mitsubishi ",
+        code: "BS-BT0068",
+        url: "/buttons/button-stickers",
+        image: "/img/products/buttons/button-stickers/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Touchless COP Buttons TF-LB38R ",
+        description: "TF-LB38R COP Buttons ",
+        code: "BS-BT0069",
+        url: "/buttons/touchless-cop-buttons-tf-lb38r",
+        image: "/img/products/buttons/touchless-cop-buttons-tf-lb38r/1.jpg",
+        slider: ["1", "2"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Touchless LOP Buttons TF-LB38R ",
+        description: "TF-LB38R LOP Buttons",
+        code: "BS-BT0070",
+        url: "/buttons/touchless-lop-buttons-tf-lb38r",
+        image: "/img/products/buttons/touchless-lop-buttons-tf-lb38r/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BST PUSH BUTTON MA1200 SS",
+        description: "BST PUSH BUTTON MA1200 SS",
+        code: "BS-BT0071",
+        url: "/buttons/bst-push-button-ma1200-ss",
+        image: "/img/products/buttons/bst-push-button-ma1200-ss/1.jpg",
+        slider: ["1", "2"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Push buttons AK-29B",
+        description: "Sigma round - Push buttons AK-29B",
+        code: "BS-BT0072",
+        url: "/buttons/push-buttons-ak-29b",
+        image: "/img/products/buttons/push-buttons-ak-29b/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "COP Button - Monarch 13",
+        description: "Monarch: 13-25. Blue/Red",
+        code: "BS-BT0073",
+        url: "/buttons/cop-button-monarch-13",
+        image: "/img/products/buttons/cop-button-monarch-13/1.jpg",
+        slider: ["1", "2"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "KDS button: Square with screws",
+        description: "Kone buttons. Red",
+        code: "BS-BT0074",
+        url: "/buttons/kds-button-square-with-screws",
+        image: "/img/products/buttons/kds-button-square-with-screws/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Push Button Round: AN306",
+        description: "Push Button Red: AN306",
+        code: "BS-BT0075",
+        url: "/buttons/push-button-round-an306",
+        image: "/img/products/buttons/push-button-round-an306/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Push Button KA1060",
+        description: "Elevator Push Button KA1060",
+        code: "BS-BT0076",
+        url: "/buttons/elevator-push-button-ka1060",
+        image: "/img/products/buttons/elevator-push-button-ka1060/1.jpg",
+        slider: ["1", "2"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+
+      {
+        name: "Touchless COP Buttons TF-LB38R - Silver",
+        description: "Touchless COP Buttons TF-LB38R - Silver",
+        code: "BS-BT0077",
+        url: "/buttons/touchless-cop-buttons-tf-lb38r-silver",
+        image:
+          "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/1.jpg",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "COP buttons NY20041659H01",
+        description: "COP buttons NY20041659H01",
+        code: "BS-BT0078",
+        url: "/buttons/cop-buttons-ny20041659h01",
+        image: "/img/products/buttons/cop-buttons-ny20041659h01/1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -945,14 +1961,15 @@ export const products = [
     slug: "switches",
     page_name: "Switches",
     code: "BS-SW",
-    meta_title: "Industrial Elevator Switches | Bestech Parts UAE",
+    meta_title: "Elevator Switches in UAE | Electrical & Lift Switch Suppliers",
     meta_description:
-      "Elevator Switches in UAE | Electrical & Lift Switch Suppliers  Find elevator switches in UAE with trusted electrical switches suppliers. Best electrical switch dealers in Sharjah & lift switch suppliers across Dubai & UAE.  ",
-    canonical: "https://www.bestechparts.ae/products/switches",
+      "Find elevator switches in UAE with trusted electrical switches suppliers. Best electrical switch dealers in Sharjah & lift switch suppliers across Dubai & UAE.",
     keywords:
-      "elevator switches in UAE, electrical switches suppliers UAE, best Electrical Switch dealers Sharjah, lift Switch suppliers sharjah ",
+      "elevator switches in UAE, electrical switches suppliers UAE, best Electrical Switch dealers Sharjah, lift Switch suppliers sharjah",
+    canonical: "https://www.bestechparts.ae/products/switches",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Inspection / normal switch (NO)",
@@ -962,13 +1979,17 @@ export const products = [
         image: "/img/products/switches/inspection-normal-switch-no/1.jpg",
         slider: ["1", "2"],
         meta_title:
-          "Inspection Normal Switch (NO) – Reliable & Durable | BestTechParts",
+          "Elevator Inspection Normal Switch No. Supplier in UAE | Bestech",
         meta_description:
-          "Shop the Inspection Normal Switch (NO) for dependable performance in control systems. Ideal for elevator and industrial applications, built for long-lasting use.",
+          "Buy elevator inspection normal switch No. in Sharjah, Dubai & UAE. High-quality lift control box parts for Otis, Kone, Mitsubishi, Schindler, Hyundai & more brands.",
         canonical:
           "https://www.bestechparts.ae/products/switches/inspection-normal-switch-no",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        keywords:
+          "elevator inspection normal switch no, elevator control box suppliers in sharjah, elevator inspection switch control box",
+        paragraph_text:
+          "<h2>Inspection to Normal Mode Switch for Lift Safety</h2>\n<p>The Elevator inspection normal switch is a key part used during lift checks and repair work. This switch allows the cabin to be moved in a slow, controlled way when the lift is in inspection mode. Once the work is finished, the switch is turned back to normal mode so the lift can run in its usual automatic setting. It helps technicians carry out floor-by-floor checks, door tests, and other tasks with safe control over cabin movement.</p>\n<p>This switch is placed in areas such as the lift car top, machine room, or control cabinet, based on the lift design. Its simple layout, clear toggle action, and firm locking position help reduce mistakes during service work. It is used in many lift models and supports routine checks, fault tracing, and repair steps that require controlled motion of the lift car.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Function:</strong> Changeover between inspection and normal modes</li>\n  <li><strong>Action type:</strong> Manual toggle with fixed positions</li>\n  <li><strong>Use area:</strong> Car top, machine room, or control cabinet</li>\n  <li><strong>Purpose:</strong> Safe cabin movement during service checks</li>\n  <li><strong>Fit:</strong> General lift maintenance and repair work</li>\n</ul>",
       },
       {
         name: "Inspection / normal switch light (NO)",
@@ -976,13 +1997,18 @@ export const products = [
         code: "BS-SW0002",
         url: "/switches/inspection-normal-switch-light-no",
         image: "/img/products/switches/inspection-normal-switch-light-no/1.jpg",
-        meta_title: "Inspection Normal Switch with Light (NO) | BestTechParts",
+        meta_title:
+          "Elevator Inspection Light Switch NO Supplier in UAE | Bestech",
         meta_description:
-          "Buy the Inspection Normal Switch with built-in light (NO) for enhanced visibility and control. Perfect for elevator and industrial use—durable, safe, and reliable. ",
+          "Get elevator inspection light switch No. from Bestech in Sharjah, Dubai & UAE. Quality lift lighting switches for Otis, Kone, Schindler, Hyundai & Mitsubishi.",
         canonical:
           "https://www.bestechparts.ae/products/switches/inspection-normal-switch-light-no",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        keywords:
+          "elevator inspection normal switch light no, buy elevator switch light, elevator switch light no suppliers sharjah UAE",
+        paragraph_text:
+          "<h2>Inspection to Normal Mode Switch with Indicator Light</h2>\n<p>The Elevator inspection normal switch with indicator light refers to a switch-and-light setup that shows whether the lift is in inspection mode or has been returned to normal operation. When the lift is placed in inspection mode, the cabin can be moved in a slow and controlled way for repair work or checks. The indicator light helps technicians confirm the current mode so there is no confusion during service tasks. When the light stays off, it usually signals that the switch is not in the inspection position or the mode has not been activated.</p>\n<p>This type of switch is found on the car top, in the machine room, or inside the control cabinet, based on the lift model. It helps teams carry out door tests, shaft checks, and cabin movement checks with clear visual status. Its simple layout and fixed positions help prevent mistakes when shifting between modes.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Function:</strong> Mode change with light status indication</li>\n  <li><strong>Indicator:</strong> Light shows mode state</li>\n  <li><strong>Action:</strong> Manual switch with fixed positions</li>\n  <li><strong>Use points:</strong> Car top, machine room, control cabinet</li>\n  <li><strong>Purpose:</strong> Safe and clear mode confirmation during lift service</li>\n</ul>",
       },
       {
         name: "Bistable switch",
@@ -994,6 +2020,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/bistable-switch-mkg131-03",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Bistable Switch MKG131-03 for Elevators in UAE | Bestechparts",
+        meta_description:
+          "Order MKG131-03 elevator bistable switch in Sharjah, Dubai & UAE. Ideal for lift door systems from Otis, Kone, Mitsubishi, Schindler, Hyundai & thyssenkrupp.",
+        keywords:
+          " elevator bistable switch mkg131-03, buy elevator bistable switch, mini bistable switch with light, elevator door parts suppliers sharjah UAE",
+        paragraph_text:
+          "<h2>Bistable Door Control Switch for Lift Systems</h2>\n<p>The Elevator bistable switch mkg131-03 is a door-related control part used in many lift models. A bistable switch stays in one set position until it is shifted to the other, which makes it useful for steady door commands without the need for constant pressure. In elevator systems, this type of switch helps manage door signals in a stable way, supporting clear open and close instructions during normal use or service checks. It also plays a role in keeping the door circuit steady so the lift panel receives the correct input during operation.</p>\n<p>This switch is placed inside the lift control area or near the door mechanism, depending on the design. Its simple action and fixed positions help reduce faults and give maintenance teams a clear point of control when checking door behaviour or adjusting related components.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Bistable electrical switch</li>\n  <li><strong>Main use:</strong> Door instruction and circuit support</li>\n  <li><strong>Action:</strong> Holds its state until changed manually</li>\n  <li><strong>Fit:</strong> Used in many lift control setups</li>\n  <li><strong>Benefit:</strong> Clear and steady command input during door operation</li>\n</ul>",
       },
       {
         name: "Emergency stop switch",
@@ -1006,6 +2040,13 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/emergency-stop-switch-lay7",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Emergency Stop Switch LAY7 in UAE | Bestech",
+        meta_description:
+          "Buy LAY7 elevator emergency stop switch in Sharjah, Dubai & UAE. Reliable lift safety part compatible with Otis, Kone, Schindler, Hyundai & Mitsubishi systems.",
+        keywords:
+          "elevator emergency stop switch lay7, buy elevator emergency stop switch box sharjah, elevator door parts suppliers Dubai UAE",
+        paragraph_text:
+          "<h2>Emergency Stop Switch for Lift Safety Control</h2>\n<p>The Elevator emergency stop switch lay7 is a key safety part used in lift panels and service areas. It is designed to stop the lift’s movement at once when pressed, giving technicians and users a clear point of control during urgent situations. This switch is built with a push-to-lock action, which means it stays in the locked position until it is released by turning or pulling, depending on the model. In many lift systems, it is placed inside the car panel, on the top of the car, or in the machine room to support safe inspection work and help prevent unwanted lift motion.</p>\n<p>This switch is made to handle steady use in technical spaces and follows common safety expectations for lift maintenance. Its bright colour and large head allow quick access, while its firm action helps avoid accidental resets during checks or repairs.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Push-to-lock emergency stop switch</li>\n  <li><strong>Function:</strong> Immediate lift stop during service or emergency</li>\n  <li><strong>Reset:</strong> Manual release based on model</li>\n  <li><strong>Fit:</strong> Used in car panels, inspection points, and machine rooms</li>\n  <li><strong>Build:</strong> Designed for clear action and safe handling</li>\n</ul>",
       },
       {
         name: "Buffer switch",
@@ -1018,6 +2059,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/buffer-switch-uks-ukt",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Buffer Switch UKS & UKT Supplier in UAE | Bestech",
+        meta_description:
+          "Get UKS & UKT elevator buffer switches in Sharjah, Dubai & UAE. Premium lift safety parts compatible with Otis, Kone, Schindler, Hyundai, Mitsubishi brands.",
+        keywords:
+          "elevator buffer switch uks ukt, elevator buffer switch suppliers sharjah, buy quality elevator buffer switch uks ukt",
+        paragraph_text:
+          "<h2>Elevator Buffer Switch for Pit-Level Safety Monitoring</h2>\n<p>The elevator buffer switch uks ukt is a safety device placed near the lift buffer to sense the car position when it reaches the lower stopping range. It sends a clear signal to the control panel, which helps prevent unwanted movement during service checks or fault conditions. This switch is built for steady use in lift pits, where dust, moisture, and vibration are common. It helps technicians confirm buffer contact, check system response, and carry out safe inspection work. Its simple on-off action makes it suitable for many lift models used in the region.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Switch Type:</strong> Mechanical safety switch for pit buffers</li>\n  <li><strong>Function:</strong> Detects car settling on buffer and signals the controller</li>\n  <li><strong>Build:</strong> Dust-resistant housing suitable for pit environments</li>\n  <li><strong>Compatibility:</strong> Fits a wide range of lift designs and buffer systems</li>\n  <li><strong>Installation Area:</strong> Lift pit, near the buffer unit</li>\n  <li><strong>Operation:</strong> Clear contact action with stable signalling</li>\n  <li><strong>Use Case:</strong> Inspection mode checks, safety confirmation, maintenance tasks</li>\n</ul>",
       },
       {
         name: "Pit buffer switch",
@@ -1031,6 +2080,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Pit Buffer Switch LXP1-3SE3-020-1A in UAE | Bestech",
+        meta_description:
+          "Purchase LXP1-3SE3-020-1A pit buffer switch in Sharjah, Dubai & UAE. Trusted lift safety spare for Otis, Kone, Hyundai, Schindler, Mitsubishi elevators.",
+        keywords:
+          "elevator pit buffer switch lxp1-3SE3-020-1a, elevator pit buffer switch suppliers sharjah, buy quality elevator pit buffer switch",
+        paragraph_text:
+          "<h2>Elevator Pit Buffer Switch for Lower-Level Safety Control</h2>\n<p>The elevator pit buffer switch lxp1-3SE3-020-1a is a limit switch used near the lift pit to sense when the car reaches the buffer area. Its job is to send a clear signal to the controller so the system can stop movement during checks or when the car rests on the buffer. This switch is made for steady use in lift pits where dust, moisture, and vibration are present. It supports safe inspection work, helps confirm buffer contact, and ensures that the lift responds correctly during maintenance or fault conditions. Its simple contact action and secure mounting design make it suitable for many lift models used in the region.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Switch Type:</strong> Pit buffer limit switch</li>\n  <li><strong>Function:</strong> Detects car reach to buffer area and signals the controller</li>\n  <li><strong>Build:</strong> Durable housing suited for pit conditions</li>\n  <li><strong>Contact Type:</strong> Standard mechanical contact with clear signal output</li>\n  <li><strong>Installation Area:</strong> Lift pit, near buffer unit</li>\n  <li><strong>Compatibility:</strong> Works with many lift systems used in the UAE</li>\n  <li><strong>Use Case:</strong> Safety checks, inspection mode confirmation, routine maintenance</li>\n</ul>",
       },
       {
         name: "Door switch",
@@ -1043,6 +2100,13 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/door-switch-ds-131",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Door Switch DS-131 Supplier in UAE | Bestech",
+        meta_description:
+          "Buy DS-131 elevator door switch in Sharjah, Dubai & UAE. High-quality lift door spare for Otis, Kone, Schindler, Mitsubishi, Hyundai & thyssenkrupp.",
+        keywords:
+          "elevator door switch ds 131, elevator door switch suppliers Dubai, buy quality elevator door switch sharjah UAE",
+        paragraph_text:
+          "<h2>Elevator Door Lock Switch for Safe Landing Control</h2>\n<p>The elevator door switch ds 131 is a door lock contact used to confirm that the lift doors are fully closed before the car can move. This switch is widely fitted in Mitsubishi lift systems and in many compatible installations across the UAE. It helps the controller check door status, prevents movement during unsafe conditions, and supports smooth door operation during daily use. The DS-131 is designed for steady electrical contact, firm mounting, and long service life, making it suitable for busy residential and commercial buildings. It also helps reduce shutdowns caused by door-related faults.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Switch Type:</strong> Door lock/door contact</li>\n  <li><strong>Function:</strong> Confirms full door closure before car movement</li>\n  <li><strong>Build:</strong> Sturdy body for daily operation</li>\n  <li><strong>Contact Type:</strong> Standard mechanical contact with stable output</li>\n  <li><strong>Mounting:</strong> Fits common door mechanisms used in Mitsubishi and compatible lifts</li>\n  <li><strong>Area of Use:</strong> Landing door system</li>\n  <li><strong>Benefit:</strong> Helps prevent door faults and supports safe lift movement</li>\n</ul>",
       },
       {
         name: "Door machine switch",
@@ -1054,6 +2118,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/door-machine-switch-ya043d166-04",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Door Machine Switch YA043D166-04 in UAE | Bestech",
+        meta_description:
+          "Order YA043D166-04 elevator door machine switch in Sharjah, Dubai & UAE. Reliable lift spare compatible with Otis, Kone, Schindler, Hyundai & Mitsubishi.",
+        keywords:
+          "elevator door machine switch ya043d166-04, elevator door machine switch suppliers Dubai, buy quality elevator door machine switch sharjah UAE, elevator spare parts door switch suppliers",
+        paragraph_text:
+          "<h2>Elevator Door Machine Sensor Switch</h2>\n<p>The elevator door machine switch YA043D166-04 is a photoelectric sensor commonly fitted on the drive unit that runs the lift doors. It senses the door’s position to inform the controller whether the door is open, closing, or fully closed. By providing accurate feedback, this switch helps ensure the doors stop or reverse safely if something blocks them, or allow movement when fully closed. It supports smooth, precise door motion and adds a key safety checkpoint in the system.</p>\n<p>This switch is often used in modern lift systems where door motion must be monitored closely. Its compact design and stable operation make it reliable during daily use and maintenance. In UAE installations, it helps reduce errors in door alignment, improves performance, and supports safe elevator operation.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Photoelectric door position sensor</li>\n  <li><strong>Model:</strong> YA043D166-04</li>\n  <li><strong>Function:</strong> Detects door position and movement</li>\n  <li><strong>Mounting:</strong> Door machine/drive system</li>\n  <li><strong>Signal Type:</strong> On-off or continuous signalling based on position</li>\n  <li><strong>Use:</strong> Supports safe and precise door motion in elevator systems</li>\n  <li><strong>Benefit:</strong> Reduces door faults and enhances system safety</li>\n</ul>",
       },
       {
         name: "Limit switch",
@@ -1066,6 +2138,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/limit-switch-d4na-4132-d4n-4a72",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Limit Switch D4NA-4132 & D4N-4A72 in UAE | Bestech",
+        meta_description:
+          "Buy D4NA-4132 & D4N-4A72 elevator limit switches in Sharjah, Dubai & UAE. Durable lift control parts for Otis, Kone, Hyundai, Mitsubishi & Schindler brands.",
+        keywords:
+          "elevator limit switch d4na-4132-d4n-4a72, elevator limit switch suppliers Dubai, buy quality elevator limit switch sharjah UAE",
+        paragraph_text:
+          "<h2>Limit Switch D4NA-4132 / D4N-4A72</h2>\n<p>The elevator limit switch d4na-4132-d4n-4a72 is part of the OMRON D4N safety series, designed for reliable position detection in machinery, including lift systems. These switches use a snap-action contact mechanism to provide accurate and consistent detection at critical points such as door zones and shaft positions. With robust housing rated to IP67, they withstand dust, water, and daily mechanical use. Suitable for UAE lift environments, the switches operate across a wide temperature range and are built for long-term mechanical durability.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Series:</strong> OMRON D4N Safety Limit Switch</li>\n  <li><strong>Actuator:</strong> Roller plunger / Roller lever (depending on model)</li>\n  <li><strong>Contact form:</strong> 1NC/1NO</li>\n  <li><strong>Protection rating:</strong> IP67</li>\n  <li><strong>Operating temperature:</strong> –30°C to +70°C</li>\n  <li><strong>Mechanical durability:</strong> 15 million operations</li>\n  <li><strong>Mechanism:</strong> Snap-action contact</li>\n  <li><strong>Use points:</strong> Shaft positions, door zones, and other limit points</li>\n</ul>",
       },
       {
         name: "Overload switch",
@@ -1078,6 +2158,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/overload-switch-hd-mv01a",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Overload Switch HD-MV01A Supplier in UAE | Bestech",
+        meta_description:
+          "Get HD-MV01A elevator overload switch in Sharjah, Dubai & UAE. Premium lift protection spare for Otis, Kone, Schindler, Mitsubishi, Hyundai elevators.",
+        keywords:
+          "elevator overload switch hd mv01a, elevator overload switch suppliers Dubai, buy quality elevator overload switch sharjah UAE",
+        paragraph_text:
+          "<h2>Weight-Sensing Elevator Switch HD-MV01A</h2>\n<p>The elevator overload switch hd mv01a is a precision load detection device designed to monitor cabin weight in lift systems. It ensures safety by preventing operation when the car exceeds its rated capacity, protecting both passengers and machinery. The HD-MV01A features reliable mechanical contacts and compact construction suitable for integration into UAE elevator systems. Its robust design allows consistent performance under frequent usage while providing accurate feedback to the control system for smooth, safe operation. This switch is ideal for both new installations and maintenance upgrades.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Function:</strong> Weight detection and overload protection</li>\n  <li><strong>Type:</strong> Elevator weighing overload switch / load detection device</li>\n  <li><strong>Mechanism:</strong> Mechanical contact sensing</li>\n  <li><strong>Use points:</strong> Lift cabin or control integration</li>\n  <li><strong>Safety feature:</strong> Prevents operation above rated load</li>\n  <li><strong>Build:</strong> Durable for frequent elevator operation</li>\n</ul>",
       },
       {
         name: "Micro switch",
@@ -1090,6 +2178,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/micro-switch-x-10gq-b",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Micro Switch X-10GQ-B Supplier in UAE | Bestech",
+        meta_description:
+          "Buy X-10GQ-B elevator micro switch from Bestechparts in Sharjah, Dubai & UAE. Trusted lift part for Otis, Kone, Schindler, Mitsubishi & Hyundai systems.",
+        keywords:
+          "elevator micro switch x-10gq-b, elevator micro switch suppliers Dubai, buy quality elevator micro switch sharjah UAE",
+        paragraph_text:
+          "<h2>OMRON X-10GQ-B Micro Switch for Elevators</h2>\n<p>The elevator micro switch x-10gq-b from OMRON is a reliable general-purpose switch designed for DC (Direct Current) circuits. Its compact design and precise snap-action mechanism ensure consistent performance in various lift applications, including door control, position detection, and safety interlocks. The X-10GQ-B provides durable operation even under frequent switching cycles, making it suitable for UAE elevator systems that require dependable and accurate electrical control. Its simple yet robust construction allows easy integration into new installations or maintenance upgrades.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Series:</strong> OMRON X-10GQ-B Micro Switch</li>\n  <li><strong>Function:</strong> General-purpose switching for DC circuits</li>\n  <li><strong>Mechanism:</strong> Snap-action contact</li>\n  <li><strong>Electrical rating:</strong> Suitable for low-voltage DC applications</li>\n  <li><strong>Durability:</strong> High mechanical and electrical lifespan</li>\n  <li><strong>Use points:</strong> Elevator doors, position detection, safety interlocks</li>\n  <li><strong>Build:</strong> Compact and reliable for frequent operation</li>\n</ul>",
       },
       {
         name: "Limit switch",
@@ -1102,6 +2198,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/limit-switch-s3-b1270-s3-1371",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Limit Switch S3-B1270 & S3-1371 in UAE | Bestech",
+        meta_description:
+          "Order S3-B1270 & S3-1371 elevator limit switches in Sharjah, Dubai & UAE. Reliable lift parts compatible with Otis, Kone, Hyundai, Schindler, Mitsubishi brands.",
+        keywords:
+          "elevator limit switch s3-b1270-s3-1371, elevator limit switch suppliers sharjah, buy quality elevator limit switch Dubai UAE",
+        paragraph_text:
+          "<h2>Reliable Elevator Limit Switch S3-B1270 / S3-1371</h2>\n<p>The elevator limit switch s3-b1270-s3-1371 is designed for precise position detection in lift systems. These switches ensure safe and reliable operation by signalling when the elevator reaches specific points within the shaft or door zones. Built for durability, they feature robust mechanical contacts and a compact design suitable for frequent use in UAE elevator installations. The S3-B1270 and S3-1371 provide consistent performance under heavy operational cycles, making them ideal for both new lifts and maintenance projects that require dependable position sensing.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Series:</strong> S3-B1270 / S3-1371 Limit Switch</li>\n  <li><strong>Function:</strong> Position detection for elevator travel</li>\n  <li><strong>Mechanism:</strong> Snap-action contact</li>\n  <li><strong>Durability:</strong> Long-lasting mechanical operation</li>\n  <li><strong>Use points:</strong> Shaft positions, door zones, and limit points</li>\n  <li><strong>Build:</strong> Compact and robust for frequent use</li>\n  <li><strong>Application:</strong> Elevator and lift systems</li>\n</ul>",
       },
       {
         name: "Brake detection switch",
@@ -1115,6 +2219,14 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/brake-detection-switch-b3181-83186",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title":
+          "Elevator Brake Detection Switch B3181-83186 in UAE | Bestech",
+        meta_description:
+          "Buy B3181-83186 brake detection switch in Sharjah, Dubai & UAE. Genuine lift safety spare for Otis, Kone, Schindler, Hyundai, Mitsubishi & thyssenkrupp.",
+        keywords:
+          "elevator brake detection switch b3181-83186, elevator brake detection switch suppliers Dubai, buy quality elevator brake detection switch sharjah UAE",
+        paragraph_text:
+          "<h2>Brake Detection Switch B3181 / 83186</h2>\n<p>The elevator brake detection switch b3181-83186 is designed to monitor the operational status of elevator brakes, ensuring safe and controlled lift operation. This microswitch provides reliable feedback to the control system, confirming whether the brake is engaged or released. Built for durability and frequent use, it suits UAE elevator systems and other industrial applications where precise brake monitoring is essential. The compact design and robust contacts allow seamless integration into existing control circuits, supporting both new installations and maintenance upgrades.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Series:</strong> B3181 / 83186 Brake Detection Switch</li>\n  <li><strong>Function:</strong> Monitors elevator brake status</li>\n  <li><strong>Mechanism:</strong> Microswitch with reliable contact feedback</li>\n  <li><strong>Durability:</strong> Long operational life for frequent use</li>\n  <li><strong>Use points:</strong> Elevator brake circuits, industrial machinery</li>\n  <li><strong>Build:</strong> Compact and robust for easy integration</li>\n  <li><strong>Application:</strong> Lifts and industrial equipment requiring brake monitoring</li>\n</ul>",
       },
       {
         name: "Door Switch",
@@ -1127,6 +2239,13 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/door-switch-kcb-jua-kcb-jub",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Door Switch KCB-JUA & KCB-JUB in UAE | Bestech",
+        meta_description:
+          "Shop KCB-JUA & KCB-JUB elevator door switches in Sharjah, Dubai & UAE. Trusted lift door spares for Otis, Kone, Mitsubishi, Schindler & Hyundai elevators.",
+        keywords:
+          "elevator door switch kcb-jua-kcb-jub, best elevator door switch suppliers in Dubai, elevator door switch spare parts suppliers",
+        paragraph_text:
+          "<h2>Compact Elevator Door Control Switch KCB-JUA / KCB-JUB</h2>\n<p>The elevator door switch kcb-jua-kcb-jub is a bistable magnetic switch designed for accurate monitoring of lift door operations. These switches provide reliable feedback to the control system, confirming whether doors are fully open or closed, which ensures safe and smooth elevator functioning. Built for frequent operation, the KCB-JUA and KCB-JUB feature durable construction and consistent performance under UAE lift conditions. Their compact design allows easy integration into new installations or maintenance upgrades, supporting precise door control in modern elevator systems.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Series:</strong> KCB-JUA / KCB-JUB Door Switch</li>\n  <li><strong>Type:</strong> Bistable magnetic switch</li>\n  <li><strong>Function:</strong> Detects door open/close status</li>\n  <li><strong>Mechanism:</strong> Magnetic actuation with reliable contact feedback</li>\n  <li><strong>Durability:</strong> Designed for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Elevator door control circuits</li>\n  <li><strong>Build:</strong> Compact and robust for easy integration</li>\n  <li><strong>Application:</strong> Lift systems requiring precise door monitoring</li>\n</ul>",
       },
       {
         name: "Bistable switch",
@@ -1139,6 +2258,13 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/bistable-switch",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Bistable Switch Supplier in UAE | Bestech",
+        meta_description:
+          "Buy elevator bistable switch from Bestechparts in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Mitsubishi, Schindler, Hyundai & thyssenkrupp elevators.",
+        keywords:
+          "elevator bistable switch, elevator bistable switch suppliers Dubai, buy quality elevator bistable switch sharjah UAE",
+        paragraph_text:
+          "<h2>Precision Bistable Switch for Lift Systems</h2>\n<p>The elevator bistable switch is a latching switch designed to maintain its current state - ON or OFF, until it receives a control signal to change. This feature ensures reliable operation in elevator systems where consistent status feedback is critical, such as door controls, safety circuits, or machine interlocks. Bistable switches provide precise and durable switching performance, suitable for frequent use in UAE lift installations. Their compact and robust design allows easy integration into both new setups and maintenance upgrades, supporting efficient and safe elevator operations.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Bistable / Latching switch</li>\n  <li><strong>Mechanism:</strong> Electrical impulse control</li>\n  <li><strong>Durability:</strong> Designed for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Door control, safety circuits, interlocks</li>\n  <li><strong>Build:</strong> Compact and robust for reliable integration</li>\n  <li><strong>Application:</strong> Elevators and industrial systems requiring stable switch states</li>\n</ul>",
       },
       {
         name: "Monostable switch",
@@ -1151,6 +2277,97 @@ export const products = [
           "https://www.bestechparts.ae/products/switches/monostable-switch",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Monostable Switch Supplier in UAE | Bestech",
+        meta_description:
+          "Order elevator monostable switch in Sharjah, Dubai & UAE. High-quality lift switch spare for Otis, Kone, Mitsubishi, Schindler, Hyundai & other brands.",
+        keywords:
+          "elevator monostable switch, elevator monostable switch suppliers Dubai, buy quality elevator monostable switch sharjah UAE",
+        paragraph_text:
+          "<h2>High-Durability Elevator Monostable Switch</h2>\n<p>The elevator monostable switch is a momentary or spring-return switch designed with a single stable state. It returns to its default position automatically after being pressed, providing precise control in elevator systems. This switch is ideal for applications such as call buttons, door release controls, and safety interlocks, where temporary activation is required. Built for durability, the monostable switch ensures reliable performance under frequent use in UAE lift installations. Its compact design allows easy integration into both new elevator setups and maintenance upgrades, supporting safe and efficient operation.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Monostable / Momentary / Spring-return switch</li>\n  <li><strong>Function:</strong> Single stable state with automatic return</li>\n  <li><strong>Mechanism:</strong> Electrical impulse with spring return</li>\n  <li><strong>Durability:</strong> Suitable for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Call buttons, door release, safety circuits</li>\n  <li><strong>Build:</strong> Compact and robust for reliable integration</li>\n  <li><strong>Application:</strong> Elevators and industrial systems requiring temporary switch activation</li>\n</ul>",
+      },
+      {
+        name: "Bestech brand: Roller Switch: BS-S3-B1370",
+        description: " Bestech: BS-S3-B1370",
+        code: "BS-SW0017",
+        url: "/switches/bestech-brand-roller-switch-bs-s3-b1370",
+        image:
+          "/img/products/switches/bestech-brand-roller-switch-bs-s3-b1370/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/switches/bestech-brand-roller-switch-bs-s3-b1370",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Bestech brand Buffer switch: BS-UKS BS-UKT",
+        description: "Bestech: BS-UKS BS-UKT",
+        code: "BS-SW0018",
+        url: "/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
+        image:
+          "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/1.jpg",
+
+        canonical:
+          "https://www.bestechparts.ae/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Limit Switch ME-8108",
+        description: "Elevator Limit Switch ME-8108",
+        code: "BS-SW0019",
+        url: "/switches/elevator-limit-switch-me-8108",
+        image: "/img/products/switches/elevator-limit-switch-me-8108/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/switches/elevator-limit-switch-me-8108",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Limit Switch RL8108",
+        description: "Elevator Limit Switch RL8108",
+        code: "BS-SW0020",
+        url: "/switches/elevator-limit-switch-rl8108",
+        image: "/img/products/switches/elevator-limit-switch-rl8108/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/switches/elevator-limit-switch-rl8108",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Limit Switch AZ8108",
+        description: "Elevator Limit Switch AZ8108",
+        code: "BS-SW0021",
+        url: "/switches/elevator-limit-switch-az8108",
+        image: "/img/products/switches/elevator-limit-switch-az8108/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/switches/elevator-limit-switch-az8108",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Escalator Switch - 5791 3864  (TAYEE)",
+        description: "Schindler - 5791 3864  (TAYEE)",
+        code: "BS-SW0022",
+        url: "/switches/escalator-switch-5791-3864-tayee",
+        image: "/img/products/switches/escalator-switch-5791-3864-tayee/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/switches/escalator-switch-5791-3864-tayee",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Escalator Switch - XBA26220AB2",
+        description: "OTIS Escalator Switch - XBA26220AB2",
+        code: "BS-SW0023",
+        url: "/switches/escalator-switch-xba26220ab2",
+        image: "/img/products/switches/escalator-switch-xba26220ab2/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/switches/escalator-switch-xba26220ab2",
+        slider: ["1", "2"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
     ],
   },
@@ -1158,9 +2375,10 @@ export const products = [
     slug: "electrical",
     page_name: "Electrical",
     code: "BS-EL",
-    meta_title: "Electrical Elevator Parts | Bestech UAE",
+    meta_title:
+      "Elevator Electrical Spare Parts Supplier in Dubai, Sharjah UAE",
     meta_description:
-      "Elevator Electrical Spare Parts Supplier in Dubai, Sharjah UAE  Elevator electrical spare parts supplier in UAE. Get trusted lift electrical spare parts in Sharjah and elevator spare parts in Dubai with fast UAE-wide service.",
+      "Elevator electrical spare parts supplier in UAE. Get trusted lift electrical spare parts in Sharjah and elevator spare parts in Dubai with fast UAE-wide service.",
     keywords:
       "elevator electrical spare parts supplier, elevator electrical parts supplier in UAE, lift electrical spare parts Sharjah, elevator spare parts Dubai",
     canonical: "https://www.bestechparts.ae/products/electrical",
@@ -1174,9 +2392,11 @@ export const products = [
         url: "/electrical/connector-pt2-5",
         image: "/img/products/electrical/connector-pt2-5/1.jpg",
         slider: ["1", "2"],
-        meta_title: "PT2.5 Electrical Connector | Bestech Parts UAE",
+        meta_title: "Electrical Connector PT2.5 UAE | Bestech Spare Parts",
         meta_description:
-          "Shop the PT2.5 electrical connector for reliable wiring solutions. Durable, easy to install, and ideal for elevator systems. Fast delivery across UAE.",
+          "Buy PT2.5 connector in UAE for elevator parts. Bestech is the best PT2.5 connector supplier in Sharjah and Dubai. Shop industrial electrical connectors now!",
+        keywords:
+          "Electrical connector PT2.5, Buy PT2.5 Connector UAE, Buy Connector PT2.5 for elevator parts in UAE, Best PT2.5 connector supplier in Sharjah, PT2.5 spare connector Dubai, Buy Industrial Electrical Connectors Sharjah",
         canonical:
           "https://www.bestechparts.ae/products/electrical/connector-pt2-5",
         robots:
@@ -1189,10 +2409,11 @@ export const products = [
         url: "/electrical/connector-pt6",
         image: "/img/products/electrical/connector-pt6/1.jpg",
         slider: ["1", "2"],
-        meta_title:
-          "PT6 Electrical Connector for Elevators | Bestech Parts UAE",
+        meta_title: "Best PT6 Connector Supplier Sharjah | Bestech UAE",
         meta_description:
-          "Shop PT6 elevator electrical connector at Bestech Parts. Durable, high-quality connector for smooth elevator operations. Fast UAE delivery. ",
+          "Buy PT6 connector in UAE for elevator electrical parts. Bestech is the best PT6 connector supplier in Sharjah and Dubai. Order PT6 spare connectors today!",
+        keywords:
+          "Electrical Connector PT6, Buy PT6 Connector UAE, Buy Connector PT6 for elevator parts in Dubai, elevator electrical parts, Best PT6 connector supplier in Sharjah, PT6 spare connector UAE",
         canonical:
           "https://www.bestechparts.ae/products/electrical/connector-pt6",
         robots:
@@ -1205,25 +2426,28 @@ export const products = [
         url: "/electrical/connector-pt10",
         image: "/img/products/electrical/connector-pt10/1.jpg",
         slider: ["1", "2"],
-        meta_title:
-          "PT10 Connector – Elevator Electrical Connector | Bestech Parts UAE",
+        meta_title: "Get Electrical Connector PT10 in Sharjah and Dubai, UAE",
         meta_description:
-          "Shop PT10 electrical connector for elevators and escalators at Bestech Parts. Durable, reliable, and available for fast delivery across the UAE.",
+          "Purchase Electrical Connector PT10 for elevator spare parts in UAE. Bestechparts provides PT10 connectors in Dubai & Sharjah for Otis, Kone & Thyssenkrupp.",
+        keywords:
+          "Electrical connector PT10, Buy PT10 Connector UAE, Buy Connector PT10 for elevator parts in UAE, Best PT10 connector supplier in Sharjah, PT10 spare connector UAE",
         canonical:
           "https://www.bestechparts.ae/products/electrical/connector-pt10",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+
       {
         name: "Inspection box",
         description: "outer shell only",
         code: "BS-EL0004",
         url: "/electrical/inspection-box",
         image: "/img/products/electrical/inspection-box/1.jpg",
-        meta_title:
-          "Elevator Inspection Boxes – Electrical Parts | Bestech UAE",
+        meta_title: "Elevator Inspection Box Supplier in Dubai & Sharjah, UAE",
         meta_description:
-          "Shop durable elevator inspection boxes at Bestech Parts. Reliable electrical components with fast delivery across the UAE.",
+          "Buy Elevator Inspection Box from Bestechparts, top supplier in Sharjah, Dubai & UAE. Grab your maintenance boxes for elevators & escalators.",
+        keywords:
+          "Elevator Inspection Box Supplier in UAE, Elevator maintenance box Dubai, buy elevator inspection box Sharjah, UAE",
         canonical:
           "https://www.bestechparts.ae/products/electrical/inspection-box",
         robots:
@@ -1236,13 +2460,17 @@ export const products = [
         url: "/electrical/switching-power-supply-smps",
         image: "/img/products/electrical/switching-power-supply-smps/1.jpg",
         slider: ["1", "2", "3"],
-        meta_title: "Switching Power Supply (SMPS) for Elevators | Bestech UAE",
+        meta_title: "Elevator Switching Power Supply SMPS in Dubai, UAE",
         meta_description:
-          "Shop reliable SMPS units for elevator and escalator systems. High performance, durable, and available across UAE at Bestech Parts.",
+          "Buy Elevator Switching Power Supply SMPS in Dubai, Sharjah & UAE. Bestechparts provides LRS‑150‑24 connectors for lifts, escalators & Otis, Kone parts.",
+        keywords:
+          "Elevator Switching Power Supply, Power supply connector LRS‑150‑24, Buy elevator switching power supply Dubai, Elevator SMPS connector in UAE",
         canonical:
           "https://www.bestechparts.ae/products/electrical/switching-power-supply-smps",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>High-Efficiency Elevator Switching Power Supply LRS-150-24</h2>\n<p>The <strong>Elevator Switching Power Supply LRS-150-24</strong> is an advanced <strong>Switched-Mode Power Supply (SMPS)</strong> engineered specifically for elevator control systems. It efficiently converts electrical energy using high-frequency switching, ensuring <strong>stable and consistent DC output</strong> while minimizing power loss.</p>\n<p>Unlike traditional linear power supplies that generate excess heat, this SMPS offers superior <strong>energy efficiency</strong> and reliable performance. Delivering a <strong>24V DC output</strong>, it powers critical elevator functions such as <strong>motor and brake control</strong>, supporting smooth and safe operation in modern elevator systems.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> LRS-150-24</li>\n  <li><strong>Type:</strong> Switching Power Supply (SMPS)</li>\n  <li><strong>Output Voltage:</strong> 24V DC</li>\n  <li><strong>Rated Power:</strong> 150W</li>\n  <li><strong>Application:</strong> Elevator Control Panels, Motor & Brake Circuits</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Your Reliable Elevator Switching Power Supply Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a <strong>trusted supplier of elevator electrical spare parts in UAE</strong>, offering <strong>high-quality, tested, and energy-efficient power solutions</strong> for all major elevator systems. Each power unit is designed to ensure <strong>long-term reliability, operational safety, and performance consistency</strong>.</p>',
       },
       {
         name: "Phase Sequence Relay",
@@ -1251,43 +2479,17 @@ export const products = [
         url: "/electrical/phase-sequence-relay",
         image: "/img/products/electrical/phase-sequence-relay/1.jpg",
         slider: ["1", "2"],
-        meta_title: "Phase Sequence Relay for Elevators | Bestech Parts UAE",
+        meta_title: "Elevator Phase Sequence Relay XJ12-A in Sharjah, UAE",
         meta_description:
-          "Buy durable and reliable phase sequence relays for elevator systems. Best price, fast delivery across UAE. Trusted quality at Bestech Parts. ",
+          "Buy Elevator Phase Sequence Relay XJ12-A in Sharjah, Dubai & UAE from Bestechparts. Trustable lift relay parts for Otis, Kone & Mitsubishi elevators.",
+        keywords:
+          "Elevator phase sequence relay XJ12-A, buy phase sequence relay XJ12‑A Dubai, shop lift phase sequence relay Sharjah",
         canonical:
           "https://www.bestechparts.ae/products/electrical/phase-sequence-relay",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-      },
-      {
-        name: "Intercom - Handset",
-        description: "",
-        code: "BS-EL0007",
-        url: "/electrical/intercom-handset",
-        image: "/img/products/electrical/intercom-handset/1.jpg",
-        slider: ["1", "2", "3"],
-        meta_title: "Elevator Intercom Handset | Buy Lift Intercoms in UAE",
-        meta_description:
-          "Shop durable elevator intercom handsets at Bestech Parts UAE. Ensure clear communication in lifts. Fast delivery & quality guaranteed.",
-        canonical:
-          "https://www.bestechparts.ae/products/electrical/intercom-handset",
-        robots:
-          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-      },
-      {
-        name: "Intercom - COP unit",
-        description: "",
-        code: "BS-EL0008",
-        url: "/electrical/intercom-cop-unit",
-        image: "/img/products/electrical/intercom-cop-unit/1.jpg",
-        slider: ["1", "2", "3"],
-        meta_title: "Intercom COP Unit for Elevators | Bestech Parts UAE",
-        meta_description:
-          "Shop reliable elevator intercom COP units at Bestech Parts. Ensure clear in-cab communication. Fast delivery across UAE.",
-        canonical:
-          "https://www.bestechparts.ae/products/electrical/intercom-cop-unit",
-        robots:
-          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Reliable Elevator Phase Sequence Relay XJ12-A</h2>\n<p>The <strong>Elevator Phase Sequence Relay XJ12-A</strong> is engineered to protect <strong>three-phase elevator systems</strong> by continuously monitoring the correct phase order — <strong>R (L1), Y (L2), and B (L3)</strong>. Maintaining proper phase sequence is essential for the <strong>safe and smooth operation</strong> of motors, compressors, and other rotating components within the elevator control system.</p>\n<p>This relay quickly detects <strong>incorrect wiring</strong> or <strong>phase loss</strong>, helping to prevent equipment damage and operational failures. Designed for durability and accuracy, it ensures long-term, stable performance in elevator control panels and electrical systems.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> XJ12-A</li>\n  <li><strong>Function:</strong> Phase Sequence and Phase Loss Detection</li>\n  <li><strong>Input:</strong> Three-Phase Power (R, Y, B)</li>\n  <li><strong>Application:</strong> Elevator Control Panels, Motor Protection</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Your Trusted Elevator Phase Sequence Relay Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a <strong>trusted elevator electrical spare parts supplier in UAE</strong>, offering precision-built and reliable <strong>phase sequence relays</strong> that ensure protection, performance, and durability across all major elevator systems.</p>',
       },
       {
         name: "Power supply unit",
@@ -1296,14 +2498,56 @@ export const products = [
         url: "/electrical/power-supply-unit",
         image: "/img/products/electrical/power-supply-unit/1.jpg",
         slider: ["1", "2", "3"],
-        meta_title:
-          "Power Supply Units for Elevators & Escalators | Bestech UAE",
+        meta_title: "Elevator Power Supply Unit in Dubai | Spare Parts UAE",
         meta_description:
-          "Shop reliable power supply units for elevators and escalators. Bestech Parts offers quality-tested components with fast UAE delivery.",
+          "Get Elevator Power Supply Unit spare parts in Dubai, Sharjah & UAE. Bestechparts offers quality lift & escalator units for Kone, Otis, Mitsubishi, Thyssenkrupp.",
+        keywords:
+          "Elevator power supply unit spare parts UAE, best elevator power supply unit Dubai, Sharjah",
         canonical:
           "https://www.bestechparts.ae/products/electrical/power-supply-unit",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Reliable Elevator Emergency Power Supply Unit (EPSU)</h2>\n<p>The <strong>Elevator Emergency Power Supply Unit (EPSU)</strong> ensures <strong>safe elevator operation during a main power failure</strong> by providing a dependable backup power source. It maintains essential elevator functions such as <strong>cabin lighting</strong>, <strong>ventilation</strong>, and <strong>control systems</strong>, allowing the elevator to travel to the nearest floor and open its doors safely for passengers.</p>\n<p>Built for <strong>reliability and safety</strong>, this power supply unit guarantees uninterrupted emergency operation and supports consistent performance across leading elevator brands. It is a critical component for enhancing passenger safety and ensuring system stability during unexpected power disruptions.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> EPSU (Emergency Power Supply Unit)</li>\n  <li><strong>Function:</strong> Backup Power for Elevator Systems</li>\n  <li><strong>Output:</strong> Stable DC Supply for Lighting, Control, and Ventilation</li>\n  <li><strong>Input:</strong> AC Mains Power with Automatic Switch to Backup</li>\n  <li><strong>Application:</strong> Elevator Control Panels, Emergency Operation</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Your Trusted Elevator Electrical Spare Parts Supplier</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a <strong>trusted elevator electrical spare parts supplier in the UAE</strong>, offering <strong>tested and durable EPSU components</strong> that deliver reliable backup power, long service life, and safe elevator operation across all major brands.</p>',
+      },
+      {
+        name: "Intercom - COP unit",
+        description: "",
+        code: "BS-EL0008",
+        url: "/electrical/intercom-cop-unit",
+        image: "/img/products/electrical/intercom-cop-unit/1.jpg",
+        slider: ["1", "2", "3"],
+        meta_title: "Buy Elevator COP Intercom Unit Online in Sharjah, UAE",
+        meta_description:
+          "Buy Elevator COP Intercom Unit in Dubai, Sharjah & UAE from Bestechparts. Top quality lift communication systems for Otis, Kone, Mitsubishi & Thyssenkrupp.",
+        keywords:
+          "buy Elevator Cop Intercom UAE, shop best quality elevator COP intercom Dubai, Elevator Cop Emergency Intercom, Best elevator cop intercom parts Sharjah",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/intercom-cop-unit",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>High-Quality Elevator COP Intercom Unit</h2>\n<p>The <strong>Elevator COP Unit (Car Operating Panel)</strong> is the main passenger control interface located inside the elevator cabin. It features <strong>floor selection buttons</strong>, <strong>door open/close controls</strong>, an <strong>emergency alarm</strong>, and an integrated <strong>intercom system</strong> for instant communication during emergencies. Designed for <strong>user convenience</strong> and <strong>passenger safety</strong>, this COP unit provides smooth and reliable operation for all major elevator brands.</p>\n<p>Manufactured with durable materials and built to meet international elevator standards, it ensures <strong>long service life</strong> and <strong>consistent performance</strong> in commercial, residential, and industrial elevators.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Component:</strong> Car Operating Panel (COP)</li>\n  <li><strong>Functions:</strong> Floor Selection, Door Control, Emergency Alarm, Intercom</li>\n  <li><strong>Design:</strong> Durable and User-Friendly Interface</li>\n  <li><strong>Application:</strong> Passenger Elevators, Commercial & Residential Systems</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Your Trusted Elevator Electrical Spare Parts Supplier in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a <strong>reliable elevator electrical spare parts supplier in UAE</strong>, offering <strong>high-quality COP intercom units</strong> and accessories that ensure <strong>safety</strong>, <strong>reliability</strong>, and <strong>long-term performance</strong> across all major elevator systems.</p>',
+      },
+      {
+        name: "Intercom - Handset",
+        description: "",
+        code: "BS-EL0007",
+        url: "/electrical/intercom-handset",
+        image: "/img/products/electrical/intercom-handset/1.jpg",
+        slider: ["1", "2", "3"],
+        meta_title:
+          "Dependable Elevator Intercom Handset Supplier in Dubai & Sharjah",
+        meta_description:
+          "Shop Reliable Elevator Intercom Handset in Sharjah, Dubai & UAE. Bestechparts provides lift communication systems for Kone, Otis, Mitsubishi & Thyssenkrupp.",
+        keywords:
+          "Reliable Elevator Intercom handset, Buy lift communicator Dubai, UAE, Elevator Intercom System Supplier, Shop lift Intercom Handset in Sharjah, UAE",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/intercom-handset",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Reliable Elevator Intercom Handset for Emergency Communication</h2>\n<p>The <strong>Elevator Intercom Handset</strong> is a crucial <strong>emergency communication device</strong> installed inside the elevator car. Traditionally designed like a telephone handset, it allowed passengers to directly communicate with building staff during <strong>power failures</strong> or <strong>emergency situations</strong>. Modern systems, in line with <strong>ADA</strong> and <strong>EN safety regulations</strong>, now support <strong>hands-free or two-way communication</strong> for enhanced accessibility and safety.</p>\n<p>This intercom handset integrates seamlessly with the <strong>Car Operating Panel (COP)</strong>, elevator alarm, and control systems, ensuring reliable and clear voice communication at all times. Ideal for commercial and residential elevators, it provides peace of mind through effective passenger-to-staff connectivity.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Type:</strong> Emergency Elevator Intercom Handset</li>\n  <li><strong>Communication:</strong> Two-Way / Hands-Free (As per Safety Standards)</li>\n  <li><strong>Integration:</strong> Works with COP Unit and Elevator Alarm System</li>\n  <li><strong>Function:</strong> Passenger-to-Staff Communication during Emergencies</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Trusted Supplier of Elevator Electrical Spare Parts in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a <strong>trusted elevator electrical spare parts supplier in UAE</strong>, offering <strong>high-quality intercom handsets</strong> and communication units built for <strong>safety</strong>, <strong>durability</strong>, and <strong>reliable integration</strong> with leading elevator systems. Our components ensure <strong>smooth operation</strong> and <strong>dependable emergency communication</strong> in all elevator installations.</p>',
       },
       {
         name: "Emergency light",
@@ -1313,13 +2557,17 @@ export const products = [
         image: "/img/products/electrical/emergency-light/1.jpg",
         slider: ["1", "2", "3"],
         meta_title:
-          "Emergency Light Round COP – Elevator Electrical Part | Bestech UAE",
+          "Buy Elevator Emergency Light UAE – Top Lift Parts Supplier Dubai",
         meta_description:
-          "Buy round COP emergency lights for elevators at Bestech Parts UAE. Reliable quality, fast delivery, and trusted by lift professionals.",
+          "Buy Elevator Emergency Light UAE at Bestechparts. Top-quality emergency lights for Otis, Kone, Mitsubishi lifts. Serving Dubai, Sharjah & UAE.",
+        keywords:
+          "Buy Elevator Emergency Light UAE, Shop best elevator emergency light Dubai, Best Emergency light supplier in Sharjah",
         canonical:
           "https://www.bestechparts.ae/products/electrical/emergency-light",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Dependable Elevator Emergency Light for Passenger Safety</h2>\n<p>The <strong>Elevator Emergency Light</strong> is a vital <strong>safety feature</strong> that automatically activates during a power outage, ensuring continuous illumination inside the elevator car. It helps prevent panic, maintains visibility, and provides a safe environment for passengers until normal power is restored. Designed for high-rise buildings and modern elevator systems, this emergency light supports full compliance with elevator safety regulations.</p>\n<p>Built with energy-efficient LED technology and durable materials, it guarantees reliable performance and long operational life. Whether for residential, commercial, or industrial elevators, the emergency light ensures peace of mind and passenger safety during unexpected power failures.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Type:</strong> Emergency Elevator Light</li>\n  <li><strong>Function:</strong> Automatic Illumination During Power Failure</li>\n  <li><strong>Application:</strong> Elevator Cars, High-Rise Buildings</li>\n  <li><strong>Installation:</strong> Integrated with Elevator Control System</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Top Elevator Electrical Spare Parts Supplier in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a <strong>trusted elevator electrical spare parts supplier in UAE</strong>, offering <strong>premium-quality emergency lights</strong> designed for <strong>safety</strong>, <strong>reliability</strong>, and <strong>easy integration</strong> with leading elevator systems. Our products ensure continuous illumination, long service life, and compliance with modern elevator safety standards.</p>',
       },
       {
         name: "Alarm",
@@ -1328,11 +2576,364 @@ export const products = [
         url: "/electrical/alarm",
         image: "/img/products/electrical/alarm/1.jpg",
         slider: ["1", "2"],
-        meta_title: "Buy Elevator Alarm Systems Online | Bestech Parts UAE",
+        meta_title:
+          "Best Emergency Alarm for Elevators – Top Lift Alarm Supplier UAE",
         meta_description:
-          "Shop reliable elevator alarm systems for safety and emergency use. Fast delivery across UAE. Buy now from Bestech Parts.",
+          "Best Emergency Alarm for Elevators at Bestechparts. Quality lift alarms for Otis, Schindler, Hyundai, Thyssenkrupp. Serving Dubai, Sharjah & UAE.",
+        keywords:
+          "Best Emergency Alarm for Elevators, Buy Elevator alarm UAE, Best elevator alarm supplier in Sharjah, Quality lift alarm suppliers in Dubai",
+        canonical: "https://www.bestechparts.ae/products/electrical/alarm",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Efficient Elevator Alarm System for Passenger Safety</h2>\n<p>The <strong>Elevator Alarm System</strong> is a critical <strong>safety device</strong> that enables passengers trapped inside an elevator car to request assistance. Activated by a clearly marked button, the alarm system connects directly to building staff or emergency responders, ensuring a fast and coordinated response during power failures, mechanical malfunctions, or other emergencies.</p>\n<p>Modern elevator alarm systems are designed for reliability, featuring both <strong>audio and visual indicators</strong> to enhance accessibility. They comply with international elevator safety standards, including ADA and EN requirements, ensuring safe and efficient communication in all situations. Built with durable components and user-friendly design, these alarm systems are essential for maintaining elevator safety and passenger confidence.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Type:</strong> Elevator Alarm System</li>\n  <li><strong>Function:</strong> Emergency Communication for Trapped Passengers</li>\n  <li><strong>Activation:</strong> Push Button Inside Elevator Car</li>\n  <li><strong>Compliance:</strong> Meets Safety Standards for Accessibility</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Quality Elevator Electrical Spare Parts Supplier in UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a <strong>trusted elevator electrical spare parts supplier in UAE</strong>, offering <strong>high-quality elevator alarm systems</strong> and accessories designed for <strong>reliability</strong>, <strong>durability</strong>, and <strong>compliance</strong> with international safety standards. Our products ensure quick emergency communication, improved safety, and dependable performance across all major elevator systems.</p>',
+      },
+      {
+        name: "CHINT Transformer 500VA",
+        description: "CHINT: 500VA",
+        code: "BS-EL0012",
+        url: "/electrical/chint-transformer-500va",
+        image: "/img/products/electrical/chint-transformer-500va/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
         canonical:
-          "https://www.bestechparts.ae/products/electrical/emergency-alarm",
+          "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Alarm NKT12(1-1)B1 12V",
+        description: " NKT12(1-1)B1 12V",
+        code: "BS-EL0013",
+        url: "/electrical/elevator-alarm-nkt121-1b1-12v",
+        image: "/img/products/electrical/elevator-alarm-nkt121-1b1-12v/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Switching Power Supply SMPS - MS-250-24",
+        description: "MS-250-24",
+        code: "BS-EL0014",
+        url: "/electrical/switching-power-supply-smps-ms-250-24",
+        image:
+          "/img/products/electrical/switching-power-supply-smps-ms-250-24/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Switching Power Supply SMPS - MS-100-24",
+        description: "MS-100-24",
+        code: "BS-EL0015",
+        url: "/electrical/switching-power-supply-smps-ms-100-24",
+        image:
+          "/img/products/electrical/switching-power-supply-smps-ms-100-24/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/switching-power-supply-smps-ms-100-24",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Remote inspection box - Grey",
+        description: "Remote Inspection Box",
+        code: "BS-EL0016",
+        url: "/electrical/remote-inspection-box-grey",
+        image: "/img/products/electrical/remote-inspection-box-grey/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/remote-inspection-box-grey",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Remote inspection box - KM713856G23",
+        description: "KONE-KM713856G23",
+        code: "BS-EL0017",
+        url: "/electrical/remote-inspection-box-km713856g23",
+        image:
+          "/img/products/electrical/remote-inspection-box-km713856g23/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/remote-inspection-box-km713856g23",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Transformer TDB-630-21",
+        description: "TDB-630-21",
+        code: "BS-EL0018",
+        url: "/electrical/transformer-tdb-630-21",
+        image: "/img/products/electrical/transformer-tdb-630-21/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/transformer-tdb-630-21",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Bestech brand: cross flow Fan GYBS-FB-9B",
+        description: "Bestech: GYBS-FB-9B",
+        code: "BS-EL0019",
+        url: "/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
+        image:
+          "/img/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b/1.jpg",
+        slider: ["1", "2", "3"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Bestech brand: Intercom full set",
+        description: "Bestech: Intercom 3 ways",
+        code: "BS-EL0020",
+        url: "/electrical/bestech-brand-intercom-full-set",
+        image: "/img/products/electrical/bestech-brand-intercom-full-set/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/bestech-brand-intercom-full-set",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "XSN1 MRL Overspeed Governor",
+        description: "XSN1 MRL OSG - 1m/s",
+        code: "BS-EL0021",
+        url: "/electrical/xsn1-mrl-overspeed-governor",
+        image: "/img/products/electrical/xsn1-mrl-overspeed-governor/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/xsn1-mrl-overspeed-governor",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Bridge Rectfier KBPC3510",
+        description: "KBPC3510",
+        code: "BS-EL0022",
+        url: "/electrical/bridge-rectfier-kbpc3510",
+        image: "/img/products/electrical/bridge-rectfier-kbpc3510/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/bridge-rectfier-kbpc3510",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Transformor BK-50VA",
+        description: "BK-50VA(INPUT 220V-380V)",
+        code: "BS-EL0023",
+        url: "/electrical/transformor-bk-50va",
+        image: "/img/products/electrical/transformor-bk-50va/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/transformor-bk-50va",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Arrival Charm NKB24V",
+        description: "Elevator Arrival Charm NKB24V",
+        code: "BS-EL0024",
+        url: "/electrical/elevator-arrival-charm-nkb24v",
+        image: "/img/products/electrical/elevator-arrival-charm-nkb24v/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/elevator-arrival-charm-nkb24v",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "24 VDC Relay With Base",
+        description: "RXMAB2BD Schneider 24VDC",
+        code: "BS-EL0025",
+        url: "/electrical/24-vdc-relay-with-base",
+        image: "/img/products/electrical/24-vdc-relay-with-base/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/24-vdc-relay-with-base",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Power supply unit - SPLG50-DL2",
+        description: "Sigma SPLG50-DL2",
+        code: "BS-EL0026",
+        url: "/electrical/power-supply-unit-splg50-dl2",
+        image: "/img/products/electrical/power-supply-unit-splg50-dl2/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/power-supply-unit-splg50-dl2",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Terminal connectors ",
+        description: "Terminal connectors 50 pcs / box",
+        code: "BS-EL0027",
+        url: "/electrical/terminal-connectors",
+        image: "/img/products/electrical/terminal-connectors/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/terminal-connectors",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Connector Name Tags NB5",
+        description: "NB5 tags 100pcs/box",
+        code: "BS-EL0028",
+        url: "/electrical/connector-name-tags-nb5",
+        image: "/img/products/electrical/connector-name-tags-nb5/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/connector-name-tags-nb5",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "230 VAC Relay With Base",
+        description: "RXM4AB1P7 Schneider 230VAC",
+        code: "BS-EL0029",
+        url: "/electrical/230-vac-relay-with-base",
+        image: "/img/products/electrical/230-vac-relay-with-base/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/230-vac-relay-with-base",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Cabin Crossflow fan FB-9B 220VAC",
+        description: "Cabin Crossflow fan FB-9B 220VAC",
+        code: "BS-EL0030",
+        url: "/electrical/cabin-crossflow-fan-fb-9b-220vac",
+        image:
+          "/img/products/electrical/cabin-crossflow-fan-fb-9b-220vac/1.jpg",
+        slider: ["1", "2", "3"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/cabin-crossflow-fan-fb-9b-220vac",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Fireman Switch Box",
+        description: "Fireman Switch Box",
+        code: "BS-EL0031",
+        url: "/electrical/fireman-switch-box",
+        image: "/img/products/electrical/fireman-switch-box/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/fireman-switch-box",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Inspection box full set - Bestech",
+        description: " Inspection box full set - Bestech",
+        code: "BS-EL0032",
+        url: "/electrical/inspection-box-full-set-bestech",
+        image: "/img/products/electrical/inspection-box-full-set-bestech/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/fireman-switch-box",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator intercom Z6B02-40",
+        description: "Mitsubishi Elevator intercom Z6B02-40",
+        code: "BS-EL0033",
+        url: "/electrical/elevator-intercom-z6b02-40",
+        image: "/img/products/electrical/elevator-intercom-z6b02-40/2.jpg",
+        slider: ["2", "1", "3"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/elevator-intercom-z6b02-40",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "48VDC Relay With Base 14 pin",
+        description: "48VDC Relay With Base 14 pin",
+        code: "BS-EL0034",
+        url: "/electrical/48vdc-relay-with-base-14-pin",
+        image: "/img/products/electrical/48vdc-relay-with-base-14-pin/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/elevator-intercom-z6b02-40",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "SMPS RT-85C",
+        description: "SMPS RT-85C (15V)",
+        code: "BS-EL0035",
+        url: "/electrical/smps-rt-85c",
+        image: "/img/products/electrical/smps-rt-85c/1.jpeg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        canonical:
+          "https://www.bestechparts.ae/products/electrical/smps-rt-85c",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1350,6 +2951,7 @@ export const products = [
     canonical: "https://www.bestechparts.ae/products/cabinet-set",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Control cabinet -W8L 11KW",
@@ -1362,6 +2964,12 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-11kw",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator Control Cabinet Set W8L 11kW | UAE Supplier",
+        meta_description:
+          "Buy elevator control cabinet set W8L 11kW from a trusted UAE supplier. High-performance control panels designed for smooth, safe, and efficient lift operation.",
+        keywords: "elevator control cabinet set w8l 11kw",
+        paragraph_text:
+          "<h2>W8L 11kW Elevator Integrated Control Cabinet</h2>\n<p>The <strong>W8L 11kW Elevator Control Cabinet Set</strong> is a compact and reliable solution designed for stable lift operation in daily use. Known as the <strong>control-cabinet-w8l-11kw</strong>, this unit functions as a <strong>VVVF elevator integrated control cabinet</strong> with an <strong>11 kW power rating</strong>, delivering smooth drive response and dependable lift control.</p>\n<p>Engineered for small and medium elevator systems, the cabinet features a clean internal layout that allows for easy wiring, simple maintenance, and quick service access. It supports safe lift operation, consistent performance, and clear control functions, helping ensure smooth and efficient elevator trips in everyday building use.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> control-cabinet-w8l-11kw</li>\n  <li><strong>Type:</strong> VVVF Elevator Integrated Control Cabinet</li>\n  <li><strong>Power Rating:</strong> 11 kW</li>\n  <li><strong>Use:</strong> Lift Control and Drive Support</li>\n  <li><strong>Build:</strong> Compact Layout for Quick Service Access</li>\n</ul>",
       },
       {
         name: "Control cabinet -W8L 7.5KW",
@@ -1374,6 +2982,12 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-75kw",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator Control Cabinet Set W8L 75kW | UAE Supplier",
+        meta_description:
+          "Premium elevator control cabinet set W8L 75kW for reliable lift performance. Available in UAE with quality components for commercial and residential elevators.",
+        keywords: "elevator control cabinet set",
+        paragraph_text:
+          "<h2>W8L 7.5kW Elevator Integrated Control Cabinet</h2>\n<p>The <strong>W8L Elevator Control Cabinet Set</strong> with model <strong>control-cabinet-w8l-75kw</strong> is a <strong>VVVF elevator integrated control cabinet</strong> designed to manage a traction motor rated at <strong>7.5 kW</strong>. It provides clear control functions and steady lift operation, making it suitable for everyday elevator use.</p>\n<p>Ideal for small and medium lift systems, this cabinet set supports safe control, easy access, and straightforward handling. Its compact design helps keep the lift system simple to manage while ensuring service and maintenance work remain direct and well organized.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> control-cabinet-w8l-75kw</li>\n  <li><strong>Type:</strong> VVVF Elevator Integrated Control Cabinet</li>\n  <li><strong>Motor Rating:</strong> 7.5 kW</li>\n  <li><strong>Use:</strong> Lift Control and Drive Support</li>\n  <li><strong>Build:</strong> Compact Setup for Quick Service Access</li>\n</ul>",
       },
       {
         name: "Car top Communication box",
@@ -1386,6 +3000,9 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        keywords: "elevator car top communication box",
+        paragraph_text:
+          "<h2>Elevator Car Top Communication Box</h2>\n<p>The <strong>Elevator Car Top Communication Box</strong> with model <strong>car-top-communication-box</strong> is an essential component of an elevator system. Installed on the roof of the lift car, it serves as the connection point between the car-top controls and the main control system.</p>\n<p>This unit helps keep signal transmission clear and reliable, allowing service teams to work safely when the lift is under inspection or maintenance. Designed with a simple and practical layout, it supports basic control points, clean connection paths, and smooth day-to-day elevator operation without adding complexity to the system.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> car-top-communication-box</li>\n  <li><strong>Type:</strong> Car-Top Communication Box (CTC Box)</li>\n  <li><strong>Location:</strong> Mounted on Top of the Lift Car</li>\n  <li><strong>Use:</strong> Signal Link Between Car-Top Controls and Main Control System</li>\n  <li><strong>Build:</strong> Simple Layout for Quick Service Access</li>\n</ul>",
       },
       {
         name: "Socket and wire - 20CM",
@@ -1397,6 +3014,12 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/socket-and-wire-20cm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator Socket and Wire 20cm | Lift Parts UAE",
+        meta_description:
+          "Durable elevator socket and wire 20cm for control cabinets and lift wiring. Reliable electrical connectivity supplied by a trusted UAE spare parts dealer.",
+        keywords: "elevator socket and wire 20cm",
+        paragraph_text:
+          "<h2>Elevator Socket and Wire – 20cm</h2>\n<p>The <strong>Elevator Socket and Wire</strong> with model <strong>socket-and-wire-20cm</strong> is a simple pre-assembled component used in lift systems to provide steady and reliable electrical connections. It features a female connector attached to a <strong>20 cm wire</strong>, offering a short and clear connection path for basic electrical needs.</p>\n<p>This part is commonly used in small lift circuits where a neat and organized plug point is required. Its compact size allows service teams to perform checks easily while keeping the wiring setup clean, direct, and easy to manage during installation or maintenance.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> socket-and-wire-20cm</li>\n  <li><strong>Type:</strong> Female Connector with Pre-Fixed Wire</li>\n  <li><strong>Wire Length:</strong> 20 cm</li>\n  <li><strong>Use:</strong> Short Electrical Links in Lift Systems</li>\n  <li><strong>Build:</strong> Simple Layout for Quick Fit and Service Access</li>\n</ul>",
       },
       {
         name: "DIN Rail 35mm 2M",
@@ -1409,6 +3032,12 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/din-rail-35mm-2m",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator DIN Rail 35mm 2m | Control Panel Parts",
+        meta_description:
+          "Buy elevator DIN rail 35mm 2m for secure mounting of control components. Ideal for elevator control panels and cabinets across UAE.",
+        keywords: "elevator din rail 35mm-2m",
+        paragraph_text:
+          "<h2>Elevator DIN Rail 35mm – 2m</h2>\n<p>The <strong>Elevator DIN Rail</strong> with model <strong>din-rail-35mm-2m</strong> is a standard mounting rail used inside lift control cabinets. It is designed to hold components such as breakers, relays, and other control parts in a firm and well-organized line.</p>\n<p>With a common <strong>35 mm width</strong> and a <strong>2 metre length</strong>, this DIN rail fits most lift panels and provides sufficient space for clear and simple component placement. Its solid build helps keep the control panel neat and makes routine service checks easy for teams handling daily elevator maintenance.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> din-rail-35mm-2m</li>\n  <li><strong>Type:</strong> 35 mm Mounting Rail</li>\n  <li><strong>Length:</strong> 2 Metres</li>\n  <li><strong>Use:</strong> Mounting Control Parts Inside Lift Panels</li>\n  <li><strong>Build:</strong> Solid Strip for Steady and Simple Placement</li>\n</ul>",
       },
       {
         name: "Trunking 2M",
@@ -1420,6 +3049,12 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/trunking-2m",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator Trunking 2m | Electrical Cable Management",
+        meta_description:
+          "Strong elevator trunking 2m for organized cable management inside control cabinets. Suitable for elevators and lift systems in UAE.",
+        keywords: "elevator trunking 2m",
+        paragraph_text:
+          "<h2>Elevator Cable Trunking – 2m</h2>\n<p>The <strong>Elevator Trunking</strong> with model <strong>trunking-2m</strong> is a 2-metre cable channel designed to guide and protect wiring inside lift control panels. It helps keep cables arranged in clear paths and prevents loose wires from causing issues during inspections or maintenance.</p>\n<p>This trunking supports a neat and organized layout for basic cable runs, making day-to-day service work inside control areas easier and safer. Its practical length allows for simple cutting and fitting to suit the available space within the panel.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> trunking-2m</li>\n  <li><strong>Type:</strong> Cable Trunking Channel</li>\n  <li><strong>Length:</strong> 2 Metres</li>\n  <li><strong>Use:</strong> Cable Management Inside Lift Systems</li>\n  <li><strong>Build:</strong> Simple Channel for Neat and Safe Cable Paths</li>\n</ul>",
       },
       {
         name: "Braking resistor - Type: 2500W",
@@ -1431,6 +3066,12 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-2500w",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator Braking Resistor 2500W | Lift Spare UAE",
+        meta_description:
+          "High-quality elevator braking resistor 2500W for efficient speed control and safety. Available in UAE for various elevator drive systems.",
+        keywords: "elevator braking resistor 2500w",
+        paragraph_text:
+          "<h2>Elevator Braking Resistor 2500W</h2>\n<p>The <strong>Elevator Braking Resistor</strong> with model <strong>braking-resistor-2500w</strong> is a high-power component used to support dynamic braking in lift motor systems. It operates with drives that use a <strong>VFD or inverter</strong>, helping the motor slow down smoothly and in a controlled manner.</p>\n<p>This resistor safely absorbs excess energy generated during braking, keeping the lift drive path stable and reliable. Designed for installation inside lift control panels, its construction supports proper heat dissipation and safe spacing, making it suitable for continuous day-to-day elevator operation.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> braking-resistor-2500w</li>\n  <li><strong>Type:</strong> Dynamic Braking Resistor</li>\n  <li><strong>Power Rating:</strong> 2500 W</li>\n  <li><strong>Use:</strong> Braking Support for Lift Motors with VFD or Inverter</li>\n  <li><strong>Build:</strong> High-Power Unit for Safe Heat Control Inside Lift Panels</li>\n</ul>",
       },
       {
         name: "Braking resistor - Type: 3500W",
@@ -1442,6 +3083,12 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-3500w",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator Braking Resistor 3500W | Control Panel Part",
+        meta_description:
+          "Reliable elevator braking resistor 3500W designed for smooth braking performance. Supplied in UAE for modern elevator applications.",
+        keywords: "elevator braking resistor 3500w",
+        paragraph_text:
+          "<h2>Elevator Braking Resistor 3500W</h2>\n<p>The <strong>Elevator Braking Resistor</strong> with model <strong>braking-resistor-3500w</strong> is a high-power unit designed for dynamic braking in lift motor systems. It works with <strong>VFD or inverter control</strong> to slow the motor in a steady, controlled, and safe manner.</p>\n<p>This resistor absorbs excess energy generated during braking, helping maintain an organized and stable drive setup. Built for installation inside lift control panels, it supports controlled heat flow and proper spacing, making it suitable for reliable day-to-day elevator operation.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> braking-resistor-3500w</li>\n  <li><strong>Type:</strong> Dynamic Braking Resistor</li>\n  <li><strong>Power Rating:</strong> 3500 W</li>\n  <li><strong>Use:</strong> Braking Support for Lift Motors with VFD or Inverter</li>\n  <li><strong>Build:</strong> High-Power Unit for Controlled Heat Flow in Lift Panels</li>\n</ul>",
       },
       {
         name: "Braking resistor - Type: 5500W",
@@ -1453,6 +3100,218 @@ export const products = [
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-5500w",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator Braking Resistor 5500W | Lift Spare Parts",
+        meta_description:
+          "Buy elevator braking resistor 5500W for heavy-duty elevator control systems. Ensures safe energy dissipation and stable lift operation in UAE.",
+        keywords: "elevator braking resistor 5500w",
+        paragraph_text:
+          "<h2>Elevator Braking Resistor 5500W</h2>\n<p>The <strong>Elevator Braking Resistor</strong> with model <strong>braking-resistor-5500w</strong> is a high-power component used in <strong>Dynamic Braking</strong> systems. It works with <strong>VFD or servo drive control</strong> to help the motor slow down safely and steadily.</p>\n<p>This resistor absorbs excess energy produced during braking, maintaining an organized and stable drive setup. With a <strong>5.5 kW (5500 W) rating</strong>, it is ideal for lift panels that require proper heat handling and safe spacing for day-to-day operation.</p>\n<h2>Product Details</h2>\n<ul>\n  <li><strong>Model:</strong> braking-resistor-5500w</li>\n  <li><strong>Type:</strong> Dynamic Braking Resistor</li>\n  <li><strong>Power Rating:</strong> 5500 W (5.5 kW)</li>\n  <li><strong>Use:</strong> Braking Support for Motors with VFD or Servo Drive</li>\n  <li><strong>Build:</strong> High-Power Unit for Steady Heat Flow Inside Lift Panels</li>\n</ul>",
+      },
+      {
+        name: "Empty Control Cabinet - Blue",
+        description: "1050(H) X 600(W) X 260(D)",
+        code: "BS-CS0010",
+        url: "/cabinet-set/empty-control-cabinet-blue",
+        image: "/img/products/cabinet-set/empty-control-cabinet-blue/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/empty-control-cabinet-blue",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Car top communication box - Blue",
+        description: "Bestech Car top box - Blue",
+        code: "BS-CS0011",
+        url: "/cabinet-set/car-top-communication-box-blue",
+        image: "/img/products/cabinet-set/car-top-communication-box-blue/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box-blue",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        meta_title: "Elevator Car Top Communication Box | Lift Spare UAE",
+        meta_description:
+          "High-quality elevator car top communication box for safe technician access and maintenance. Supplied across UAE for modern elevator systems.",
+        keywords: "elevator car top communication box",
+      },
+      {
+        name: "Control cabinet -MRL 7.5KW - Blue",
+        description: "Bestech controller - 7.5KW",
+        code: "BS-CS0012",
+        url: "/cabinet-set/control-cabinet-mrl-75kw-blue",
+        image: "/img/products/cabinet-set/control-cabinet-mrl-75kw-blue/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-75kw-blue",
+        slider: ["1", "2", "3", "4", "5"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Control cabinet -MRL 11KW - Blue",
+        description: "Bestech controller - 11KW",
+        code: "BS-CS0013",
+        url: "/cabinet-set/control-cabinet-mrl-11kw-blue",
+        image: "/img/products/cabinet-set/control-cabinet-mrl-11kw-blue/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-11kw-blue",
+        slider: ["1", "2", "3", "4", "5"],
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Braking resistor - Type: 6500W",
+        description: "Braking resistor - Type: 6500W",
+        code: "BS-CS0014",
+        url: "/cabinet-set/braking-resistor-type-6500w",
+        image: "/img/products/cabinet-set/braking-resistor-type-6500w/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-6500w",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Control cabinet - 15KW - Bestech",
+        description: " Control cabinet - 15KW - Blue",
+        code: "BS-CS0015",
+        url: "/cabinet-set/control-cabinet-15kw-blue",
+        image: "/img/products/cabinet-set/control-cabinet-15kw-blue/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-15kw-blue",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Control cabinet - 45KW - Bestech",
+        description: "Control cabinet - 45KW - Blue",
+        code: "BS-CS0016",
+        url: "/cabinet-set/control-cabinet-45kw-blue",
+        image: "/img/products/cabinet-set/control-cabinet-45kw-blue/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-45kw-blue",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Braking resistor - Type: 4500W 40Ω",
+        description: "Type: 4500W 40Ω",
+        code: "BS-CS0017",
+        url: "/cabinet-set/braking-resistor-type-4500w-40ohm",
+        image:
+          "/img/products/cabinet-set/braking-resistor-type-4500w-40ohm/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-4500w-40ohm",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Cabinet Encloser - Small",
+        description: "Cabinet Encloser - Small",
+        code: "BS-CS0018",
+        url: "/cabinet-set/cabinet-encloser-small",
+        image: "/img/products/cabinet-set/cabinet-encloser-small/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/cabinet-encloser-small",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Braking resistor - Type: 1600W 110Ω",
+        description: "Type: 1600W 110Ω",
+        code: "BS-CS0019",
+        url: "/cabinet-set/braking-resistor-type-1600w-110",
+        image:
+          "/img/products/cabinet-set/braking-resistor-type-1600w-110/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-1600w-110",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Control cabinet - 22KW - Bestech",
+        description: " Control cabinet - 22KW - Blue",
+        code: "BS-CS0020",
+        url: "/cabinet-set/control-cabinet-22kw-blue",
+        image: "/img/products/cabinet-set/control-cabinet-22kw-blue/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-22kw-blue",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "ARCUBE - Car Top Inspection Box",
+        description: "ARCUBE - Car Top Inspection Box",
+        code: "BS-CS0021",
+        url: "/cabinet-set/arcube-car-top-inspection-box",
+        image: "/img/products/cabinet-set/arcube-car-top-inspection-box/1.jpeg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/arcube-car-top-inspection-box",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Control cabinet - 18KW - Bestech",
+        description: "Control cabinet - 18KW - Bestech",
+        code: "BS-CS0022",
+        url: "/cabinet-set/control-cabinet-18kw-blue",
+        image: "/img/products/cabinet-set/control-cabinet-18kw-blue/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-18kw-blue",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Control cabinet - 5.5KW - Blue",
+        description: " Control cabinet - 5.5KW - Blue",
+        code: "BS-CS0023",
+        url: "/cabinet-set/control-cabinet-5.5kw-blue",
+        image: "/img/products/cabinet-set/control-cabinet-5.5kw-blue/1.jpeg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-5.5kw-blue",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "MRL Control Cabinet 5.5KW - Bestech",
+        description: "MRL Control Cabinet 5.5KW - Bestech",
+        code: "BS-CS0024",
+        url: "/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
+        image:
+          "/img/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech/1.jpeg",
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Monarch controller cabinet MRL 5.5KW",
+        description: "Monarch controller cabinet MRL 5.5KW",
+        code: "BS-CS0025",
+        url: "/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
+        image:
+          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Monarch controller cabinet MRL 11KW",
+        description: "Monarch controller cabinet MRL 11KW",
+        code: "BS-CS0026",
+        url: "/cabinet-set/monarch-controller-cabinet-mrl-11kw",
+        image:
+          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-11kw/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-11kw",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
     ],
   },
@@ -1460,13 +3319,14 @@ export const products = [
     slug: "mechanical",
     page_name: "Mechanical",
     code: "BS-ME",
+    meta_title: "Best Elevator Mechanical Spare Parts Supplier in UAE | Dubai",
+    meta_description:
+      "Best elevator mechanical spare parts supplier in Dubai, Sharjah & all over UAE. Trusted lift spare parts suppliers offering quality, durability & support.",
+    keywords:
+      "best elevator mechanical spare parts supplier, elevator spare parts suppliers Sharjah, UAE, Lift mechanical spare parts suppliers",
+    canonical: "https://www.bestechparts.ae/products/mechanical",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-    keywords:
-      "best elevator mechanical spare parts supplier, elevator spare parts suppliers Sharjah, UAE, Lift mechanical spare parts suppliers ",
-      canonical: "https://www.bestechparts.ae/products/mechanical",
-    content:
-      "Best Elevator Mechanical Spare Parts Supplier in UAE | Dubai  Best elevator mechanical spare parts supplier in Dubai, Sharjah & all over UAE. Trusted lift spare parts suppliers offering quality, durability & support. ",
     items: [
       {
         name: "Rivet nuts JX-F-M3-R-ST",
@@ -1475,6 +3335,12 @@ export const products = [
         url: "/mechanical/rivet-nuts-jx-f-m3-r-st",
         image: "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Buy Mechanical Rivet nuts JX-F-M3-R-ST UAE | Best Lift Parts in Dubai, Sharjah",
+        meta_description:
+          "Buy Mechanical Rivet nuts JX-F-M3-R-ST UAE from Bestechparts. Top lift mechanical spare parts suppliers in Dubai & Sharjah, serving all elevator brands in UAE.",
+        keywords:
+          "Buy Mechanical Rivet nuts UAE, lift mechanical spare parts suppliers Dubai, Best Mechanical Rivet nuts supplier in Sharjah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1485,6 +3351,12 @@ export const products = [
         url: "/mechanical/rivet-nuts-jx-f-m4-r-st",
         image: "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Blind Rivet Suppliers JX-F-M4-R-ST UAE | Rivet Nuts for Elevators in Dubai",
+        meta_description:
+          "Get blind rivet JX-F-M4-R-ST from suppliers in UAE at Bestechparts. Best lift mechanical rivet nuts in Sharjah & Dubai for Otis, Kone, Schindler & Mitsubishi elevators.",
+        keywords:
+          "blind rivet suppliers in UAE, Best Rivet nuts JX-F-M4-R-ST nut suppliers in UAE, lift mechanical rivet nuts Sharjah, buy rivet nuts elevator spare parts Dubai",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1495,6 +3367,12 @@ export const products = [
         url: "/mechanical/rivet-nuts-jx-f-m5-r-st",
         image: "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Blind Rivet Suppliers JX-F-M5-R-ST in UAE | Elevator Nuts Dubai & Sharjah",
+        meta_description:
+          "Buy blind rivet JX-F-M5-R-ST from suppliers in UAE at Bestechparts. Premium lift mechanical rivet nuts in Sharjah & Dubai for Otis, Hyundai, Kone & Mitsubishi lifts.",
+        keywords:
+          "blind rivet suppliers in UAE, Best Rivet nuts JX-F-M5-R-ST nut suppliers in UAE, lift mechanical rivet nuts Sharjah, buy rivet nuts elevator spare parts Dubai",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1505,6 +3383,12 @@ export const products = [
         url: "/mechanical/rivet-nuts-jx-f-m6-r-st",
         image: "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Blind Rivet JX-F-M6-R-ST Suppliers in UAE | Best Lift Nuts Dubai Sharjah",
+        meta_description:
+          "Find blind rivet JX-F-M6-R-ST suppliers in UAE at Bestechparts.ae. Top lift mechanical rivet nuts for elevators in Dubai & Sharjah. Serving Otis, Thyssenkrupp & Kone.",
+        keywords:
+          "blind rivet suppliers in UAE, Best Rivet nuts JX-F-M6-R-ST nut suppliers in UAE, lift mechanical rivet nuts Sharjah, buy rivet nuts elevator spare parts Dubai",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1516,6 +3400,11 @@ export const products = [
         image:
           "/img/products/mechanical/steel-socket-head-screws-m3x20mm/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Buy Elevator Steel Socket Screws M3x20mm in Dubai, UAE",
+        meta_description:
+          "Buy elevator steel socket screws m3x20mm from Bestechparts. Best supplier in Sharjah, Dubai & UAE for Mitsubishi, Kone, Otis & Thyssenkrupp lifts.",
+        keywords:
+          "buy elevator steel socket screws m3x20mm, buy steel socket head screws Sharjah, steel socket head screws m3x20mm supplier UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1527,6 +3416,11 @@ export const products = [
         image:
           "/img/products/mechanical/steel-socket-head-screws-m3x30mm/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Buy Elevator Steel Socket Screws M3x30mm in Dubai, UAE",
+        meta_description:
+          "Get elevator steel socket screws m3x30mm from Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Otis, Schindler, Kone & Mitsubishi elevators.",
+        keywords:
+          "buy elevator steel socket screws m3x30mm, buy steel socket head screws Dubai, steel socket head screws m3x30mm supplier UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1538,6 +3432,11 @@ export const products = [
         image:
           "/img/products/mechanical/steel-socket-head-screws-m4x20mm/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Buy Elevator Steel Socket Screws M4x20mm in Dubai, UAE",
+        meta_description:
+          "Buy elevator steel socket screws m4x20mm from Bestechparts. Top supplier in Dubai, Sharjah & UAE for Otis, Thyssenkrupp, Kone & Schindler lifts.",
+        keywords:
+          "buy elevator steel socket screws m4x20mm, buy elevator steel socket head screws Dubai, steel socket head screws m4x20mm supplier UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1549,6 +3448,11 @@ export const products = [
         image:
           "/img/products/mechanical/steel-socket-head-screws-m4x30mm/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Buy Elevator Steel Socket Screws M4x30mm in Dubai, UAE",
+        meta_description:
+          "Purchase elevator steel socket screws m4x30mm at Bestechparts. Leading supplier in Dubai, Sharjah & UAE for Kone, Otis, Mitsubishi & Schindler lifts.",
+        keywords:
+          "buy elevator steel socket screws m4x30mm, buy elevator steel socket head screws Dubai, steel socket head screws m4x30mm supplier UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1560,6 +3464,12 @@ export const products = [
         image:
           "/img/products/mechanical/steel-socket-head-screws-m5x20mm/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Buy Elevator Steel Socket Screws M5x20mm | Bestechparts, UAE",
+        meta_description:
+          "Shop elevator steel socket head screws M5x20mm in Sharjah, Dubai & UAE. Trusted supplier for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp spare parts.",
+        keywords:
+          "buy elevator steel socket screws m5x20mm, shop elevator steel socket head screws Sharjah, steel socket head screws m5x20mm supplier UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1571,6 +3481,12 @@ export const products = [
         image:
           "/img/products/mechanical/steel-socket-head-screws-m5x30mm/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Elevator Steel Socket Screws M5x30mm | Bestechparts Dubai, UAE",
+        meta_description:
+          "Find the best elevator steel socket head screws M5x30mm in Sharjah, Dubai & UAE. Genuine spare parts for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp.",
+        keywords:
+          "buy elevator steel socket screws m5x30mm, best elevator steel socket head screws, steel socket head screws m5x30mm supplier UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1582,6 +3498,12 @@ export const products = [
         image:
           "/img/products/mechanical/steel-socket-head-screws-m6x20mm/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Elevator Steel Socket Screws M6x20mm | Bestechparts Dubai, UAE",
+        meta_description:
+          "Order elevator steel socket head screws M6x20mm in Sharjah, Dubai & UAE. Premium spare parts for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp lifts.",
+        keywords:
+          "buy elevator steel socket screws m5x20mm, best elevator steel socket head screws, steel socket head screws m5x20mm supplier UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1593,6 +3515,12 @@ export const products = [
         image:
           "/img/products/mechanical/steel-socket-head-screws-m6x30mm/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Elevator Steel Socket Screws M6x30mm | Bestechparts Sharjah, UAE",
+        meta_description:
+          "Get elevator steel socket head screws M6x30mm in Sharjah, Dubai & UAE. Quality spare parts compatible with Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp.",
+        keywords:
+          "buy elevator steel socket screws m6x20mm, all brands elevator steel socket head screws, steel socket head screws m6x20mm supplier UAE",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1602,7 +3530,538 @@ export const products = [
         code: "BS-ME0013",
         url: "/mechanical/battery-rivet-machine",
         image: "/img/product-default-img.jpg",
-        canonical: "",
+        meta_title:
+          "Buy Elevator Battery Rivet Machine | Bestechparts Dubai, UAE",
+        meta_description:
+          "Shop elevator battery rivet machine in Sharjah, Dubai & UAE. Reliable lift riveting tool suppliers for Otis, Hyundai, Kone, Mitsubishi, Schindler, Thyssenkrupp.",
+        keywords:
+          "buy elevator battery rivet machine, elevator riveting tool suppliers, lift battery rivet tool suppliers UAE",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door wire rope - 1720/1800/1900/2000",
+        description: " 1720/1800/1900/2000",
+        code: "BS-ME0014",
+        url: "/mechanical/door-wire-rope-1720-1800-1900-2000",
+        image:
+          "/img/products/mechanical/door-wire-rope-1720-1800-1900-2000/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Rope Thimble rod - 12mm",
+        description: " Dortalu: 11mm to 13mm",
+        code: "BS-ME0015",
+        url: "/mechanical/rope-thimble-rod-12mm",
+        image: "/img/products/mechanical/rope-thimble-rod-12mm/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Round Magnet",
+        description: "Round Magnet",
+        code: "BS-ME0016",
+        url: "/mechanical/round-magnet",
+        image: "/img/products/mechanical/round-magnet/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Strip Magnet 1M",
+        description: "Strip Magnet 1M",
+        code: "BS-ME0017",
+        url: "/mechanical/strip-magnet-1m",
+        image: "/img/products/mechanical/strip-magnet-1m/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Oil Cups - Assorted",
+        description: "Oil Cups (8 models)",
+        code: "BS-ME0018",
+        url: "/mechanical/oil-cups-assorted",
+        image: "/img/products/mechanical/oil-cups-assorted/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Steel core Rope 8mm",
+        description: "Steel core Rope 8mm",
+        code: "BS-ME0019",
+        url: "/mechanical/steel-core-rope-8mm",
+        image: "/img/products/mechanical/steel-core-rope-8mm/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Coupling shaft",
+        description: "6 and 6",
+        code: "BS-ME0020",
+        url: "/mechanical/coupling-shaft",
+        image: "/img/products/mechanical/coupling-shaft/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Wire rope fasteners - Thimble 12-13mm C",
+        description: "China Thimble rods 12-13mm",
+        code: "BS-ME0021",
+        url: "/mechanical/wire-rope-fasteners-thimble-12-13mm-c",
+        image:
+          "/img/products/mechanical/wire-rope-fasteners-thimble-12-13mm-c/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Traction Sheave: 620*4*12 M",
+        description: "Mitsubishi Sheave: 620*4*12 M",
+        code: "BS-ME0022",
+        url: "/mechanical/traction-sheave-620-4-12-m",
+        image: "/img/products/mechanical/traction-sheave-620-4-12-m/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Traction sheave: 620*6*12 M",
+        description: "Mitsubishi sheave: 620*6*12 M",
+        code: "BS-ME0023",
+        url: "/mechanical/traction-sheave-620-6-12-m",
+        image: "/img/products/mechanical/traction-sheave-620-6-12-m/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Traction sheave: 605*3*12 S",
+        description: "Sigma sheave: 605*3*12 S",
+        code: "BS-ME0024",
+        url: "/mechanical/traction-sheave-605-3-12-s",
+        image: "/img/products/mechanical/traction-sheave-605-3-12-s/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Traction sheave: 605*3*12 S",
+        description: "Sigma sheave: 605*3*12 S",
+        code: "BS-ME0025",
+        url: "/mechanical/traction-sheave-605-3-12-s",
+        image: "/img/products/mechanical/traction-sheave-605-3-12-s/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Traction sheave: 605*4*12 S",
+        description: "Sigma sheave: 605*4*12 S",
+        code: "BS-ME0026",
+        url: "/mechanical/traction-sheave-605-4-12-s",
+        image: "/img/products/mechanical/traction-sheave-605-4-12-s/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Traction sheave: 505*4*12 S",
+        description: "Sigma sheave: 505*4*12 S",
+        code: "BS-ME0027",
+        url: "/mechanical/traction-sheave-505-4-12-s",
+        image: "/img/products/mechanical/traction-sheave-505-4-12-s/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Escalator Handrail Belt Tool",
+        description: "Escalator Handrail Belt Tool",
+        code: "BS-ME0028",
+        url: "/mechanical/escalator-handrail-belt-tool",
+        image: "/img/products/mechanical/escalator-handrail-belt-tool/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Shock Absorber - Swing Manual Doors",
+        description: "Can Lift - Shock Absorber Swing doors",
+        code: "BS-ME0029",
+        url: "/mechanical/shock-absorber-swing-manual-doors",
+        image:
+          "/img/products/mechanical/shock-absorber-swing-manual-doors/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door Spring 250",
+        description: "Door Spring 250",
+        code: "BS-ME0030",
+        url: "/mechanical/door-spring-250",
+        image: "/img/products/mechanical/door-spring-250/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Rope Thimble rod - 6mm ",
+        description: "China Rope Thimble rod - 6mm",
+        code: "BS-ME0031",
+        url: "/mechanical/rope-thimble-rod-6mm",
+        image: "/img/products/mechanical/rope-thimble-rod-6mm/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Rope Thimble rod - 8mm",
+        description: "China Rope Thimble rod - 8mm",
+        code: "BS-ME0032",
+        url: "/mechanical/rope-thimble-rod-8mm",
+        image: "/img/products/mechanical/rope-thimble-rod-8mm/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Rope Thimble rod - 10mm",
+        description: "China Rope Thimble rod - 10mm",
+        code: "BS-ME0033",
+        url: "/mechanical/rope-thimble-rod-10mm",
+        image: "/img/products/mechanical/rope-thimble-rod-10mm/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Speed Governor OX-200 - Tension weight",
+        description: "Speed Governor OX-200 - Tension weight",
+        code: "BS-ME0034",
+        url: "/mechanical/speed-governor-ox-200-tension-weight",
+        image:
+          "/img/products/mechanical/speed-governor-ox-200-tension-weight/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Over Speed Governor OX-208",
+        description: "Over Speed Governor OX-208",
+        code: "BS-ME0035",
+        url: "/mechanical/over-speed-governor-ox-208",
+        image: "/img/products/mechanical/over-speed-governor-ox-208/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door springs - Assorted",
+        description: "Otis/Hyundai/Fermator",
+        code: "BS-ME0036",
+        url: "/mechanical/door-springs-assorted",
+        image: "/img/products/mechanical/door-springs-assorted/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Buffer OH-J11",
+        description: "Buffer OH-J11",
+        code: "BS-ME0037",
+        url: "/mechanical/buffer-oh-j11",
+        image: "/img/products/mechanical/buffer-oh-j11/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Buffer OH-J21",
+        description: "Buffer OH-J21",
+        code: "BS-ME0038",
+        url: "/mechanical/buffer-oh-j21",
+        image: "/img/products/mechanical/buffer-oh-j21/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Buffer OH-80",
+        description: "Buffer OH-80",
+        code: "BS-ME0039",
+        url: "/mechanical/buffer-oh-80",
+        image: "/img/products/mechanical/buffer-oh-80/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Buffer OH-175E",
+        description: "Buffer OH-175E",
+        code: "BS-ME0040",
+        url: "/mechanical/buffer-oh-175e",
+        image: "/img/products/mechanical/buffer-oh-175e/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Buffer OH-210H",
+        description: "Buffer OH-210H",
+        code: "BS-ME0041",
+        url: "/mechanical/buffer-oh-210h",
+        image: "/img/products/mechanical/buffer-oh-210h/1.jpg",
+        slider: ["1", "2"],
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door Sill 800MM 1.55M - K",
+        description: "Kone 800MM 1.55M",
+        code: "BS-ME0042",
+        url: "/mechanical/door-sill-800mm-1-55m-k",
+        image: "/img/products/mechanical/door-sill-800mm-1-55m-k/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 900MM 1.75M - K",
+        description: "Kone 900MM 1.75M",
+        code: "BS-ME0043",
+        url: "/mechanical/door-sill-900mm-1-75m-k",
+        image: "/img/products/mechanical/door-sill-900mm-1-75m-k/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 1100MM 2.15M - K",
+        description: "Kone 1100MM 2.15M",
+        code: "BS-ME0044",
+        url: "/mechanical/door-sill-1100mm-2-15m-k",
+        image: "/img/products/mechanical/door-sill-1100mm-2-15m-k/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 800MM 1.56M - Si",
+        description: "Sigma 800MM 1.56M",
+        code: "BS-ME0045",
+        url: "/mechanical/door-sill-800mm-1-56m-si",
+        image: "/img/products/mechanical/door-sill-800mm-1-56m-si/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 900MM 1.76M -Si",
+        description: "Sigma 900MM 1.76M",
+        code: "BS-ME0046",
+        url: "/mechanical/door-sill-900mm-1-76m-si",
+        image: "/img/products/mechanical/door-sill-900mm-1-76m-si/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 1000MM 1.96M - Si",
+        description: "Sigma 1000MM 1.96M",
+        code: "BS-ME0047",
+        url: "/mechanical/door-sill-1000mm-1-96m-si",
+        image: "/img/products/mechanical/door-sill-1000mm-1-96m-si/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 800MM 1.64M - O",
+        description: "Otis 800MM 1.64M",
+        code: "BS-ME0048",
+        url: "/mechanical/door-sill-800mm-1-64m-o",
+        image: "/img/products/mechanical/door-sill-800mm-1-64m-o/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 900MM 1.84M - O",
+        description: "Otis 900MM 1.84M",
+        code: "BS-ME0049",
+        url: "/mechanical/door-sill-900mm-1-84m-o",
+        image: "/img/products/mechanical/door-sill-900mm-1-84m-o/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 1000MM 2.04M - O",
+        description: "Otis 1000MM 2.04M",
+        code: "BS-ME0050",
+        url: "/mechanical/door-sill-1000mm-2-04m-o",
+        image: "/img/products/mechanical/door-sill-1000mm-2-04m-o/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 800MM 1.6M - M",
+        description: "Mitsubishi 800MM 1.6M",
+        code: "BS-ME0051",
+        url: "/mechanical/door-sill-800mm-1-6m-m",
+        image: "/img/products/mechanical/door-sill-800mm-1-6m-m/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 900MM 1.8M - M",
+        description: "Mitsubishi 900MM 1.8M",
+        code: "BS-ME0052",
+        url: "/mechanical/door-sill-900mm-1-8m-m",
+        image: "/img/products/mechanical/door-sill-900mm-1-8m-m/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 1000MM 2.0M - M",
+        description: "Mitsubishi 1000MM 2.0M",
+        code: "BS-ME0053",
+        url: "/mechanical/door-sill-1000mm-2-0m-m",
+        image: "/img/products/mechanical/door-sill-1000mm-2-0m-m/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 800MM 1.665M - F",
+        description: "fermator models 800MM 1.665M",
+        code: "BS-ME0054",
+        url: "/mechanical/door-sill-800mm-1-665m-f",
+        image: "/img/products/mechanical/door-sill-800mm-1-665m-f/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 900MM 1.865M - F",
+        description: "fermator models 900MM 1.865M",
+        code: "BS-ME0055",
+        url: "/mechanical/door-sill-900mm-1-865m-f",
+        image: "/img/products/mechanical/door-sill-900mm-1-865m-f/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door sill 1000MM 2.065M - F",
+        description: "fermator models 1000MM 2.065M",
+        code: "BS-ME0056",
+        url: "/mechanical/door-sill-1000mm-2-065m-f",
+        image: "/img/products/mechanical/door-sill-1000mm-2-065m-f/1.jpg",
+        meta_title: "",
+        meta_description: "",
+        keywords: "",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1612,14 +4071,16 @@ export const products = [
     slug: "door-locks",
     page_name: "Door Locks",
     code: "BS-DL",
-    meta_title: "Elevator door locks supplier Dubai | Bestech Parts UAE",
+    meta_title:
+      "Best Elevator Door Locks Suppliers UAE | Dubai & Sharjah Parts",
     meta_description:
-      "Best Elevator Door Locks Suppliers UAE | Dubai & Sharjah Parts  Best elevator door locks suppliers UAE offering durable lift door locks in Sharjah and quality elevator door accessories in Dubai. Trusted parts across UAE.",
-    canonical: "https://www.bestechparts.ae/products/door-locks",
+      "Best elevator door locks suppliers UAE offering durable lift door locks in Sharjah and quality elevator door accessories in Dubai. Trusted parts across UAE.",
     keywords:
-      "best elevator door locks suppliers UAE, elevator Door Accessories in Dubai lift door locks in Sharjah",
+      "best elevator door locks suppliers UAE, elevator Door Accessories in Dubai, lift door locks in Sharjah",
+    canonical: "https://www.bestechparts.ae/products/door-locks",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Door Triangle Lock",
@@ -1660,7 +4121,7 @@ export const products = [
         description: "MKG_161-06",
         code: "BS-DL0004",
         url: "/door-locks/landing-door-lock-mkg-161-06",
-        image: "/img/product-default-img.jpg",
+        image: "/img/products/door-locks/landing-door-lock-mkg-161-06/1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-mkg-161-06",
         robots:
@@ -1956,20 +4417,117 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "Landing Door Lock Roller: G509/102121A",
+        description: "Otis: G509/102121A Roller",
+        code: "BS-DL0030",
+        url: "/door-locks/landing-door-lock-roller-g509102121a",
+        image:
+          "/img/products/door-locks/landing-door-lock-roller-g509102121a/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-locks/landing-door-lock-roller-g509102121a",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Key switch lock - A4N19290 / A4J19289 ",
+        description: "",
+        code: "BS-DL0031",
+        url: "/door-locks/key-switch-lock-a4n19290-a4j19289",
+        image:
+          "/img/products/door-locks/key-switch-lock-a4n19290-a4j19289/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-locks/key-switch-lock-a4n19290-a4j19289",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door lock contact: 161 (Separate T)",
+        description: "Mitsubishi: 161 (Separate T)",
+        code: "BS-DL0032",
+        url: "/door-locks/door-lock-contact-161-separate-t",
+        image:
+          "/img/products/door-locks/door-lock-contact-161-separate-t/1.jpg",
+
+        canonical:
+          "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161-separate-t",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Lift Door locking device - Left side",
+        description: "Manual door locking device - Left side",
+        code: "BS-DL0033",
+        url: "/door-locks/lift-door-locking-device-left-side",
+        image:
+          "/img/products/door-locks/lift-door-locking-device-left-side/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-locks/lift-door-locking-device-left-side",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Door Triangle Lock S",
+        description: "Schindler Door Triangle Lock",
+        code: "BS-DL0034",
+        url: "/door-locks/elevator-door-triangle-lock-s",
+        image: "/img/products/door-locks/elevator-door-triangle-lock-s/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-locks/elevator-door-triangle-lock-s",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "TY-161 Door Female Lock (DL-1102)",
+        description: "TY-161 Door Female Lock (DL-1102)",
+        code: "BS-DL0035",
+        url: "/door-locks/ty-161-door-female-lock-dl-1102",
+        image: "/img/products/door-locks/ty-161-door-female-lock-dl-1102/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-locks/ty-161-door-female-lock-dl-1102",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Controller lock and key",
+        description: "Controller lock and key",
+        code: "BS-DL0036",
+        url: "/door-locks/controller-lock-and-key",
+        image: "/img/products/door-locks/controller-lock-and-key/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-locks/controller-lock-and-key",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Fermator Landing Door Lock",
+        description: "Fermator Landing Door Lock",
+        code: "BS-DL0037",
+        url: "/door-locks/fermator-landing-door-lock",
+        image: "/img/products/door-locks/fermator-landing-door-lock/1.jpeg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-locks/fermator-landing-door-lock",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
   {
     slug: "door-wheels",
     page_name: "Door Wheels",
     code: "BS-DW",
-    meta_title: "Elevator Door Wheels in UAE | Bestech Parts UAE",
+    meta_title:
+      "Elevator Door Wheels in UAE | Lift Door Belt Wheels Dubai Sharjah",
     meta_description:
-      "Elevator Door Wheels in UAE | Lift Door Belt Wheels Dubai Sharjah  Buy top-quality elevator door wheels in UAE. We supply lift door belt wheels Dubai, door machine positioning wheel UAE, and door wheel bracket Sharjah.",
-    canonical: "https://www.bestechparts.ae/products/door-wheels",
+      "Buy top-quality elevator door wheels in UAE. We supply lift door belt wheels Dubai, door machine positioning wheel UAE, and door wheel bracket Sharjah.",
     keywords:
-      "elevator door wheels in UAE   elevator door hanging wheels UAE, lift door belt wheels Dubai, elevator Door machine positioning wheel UAE, elevator Door wheel bracket Sharjah  ",
+      "elevator door wheels in UAE, elevator door hanging wheels UAE, lift door belt wheels Dubai, elevator Door machine positioning wheel UAE, elevator Door wheel bracket Sharjah",
+    canonical: "https://www.bestechparts.ae/products/door-wheels",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Door hanging wheel small: 85 X 20 X 6204",
@@ -2002,7 +4560,7 @@ export const products = [
         description: "52 X 16 X 6003",
         code: "BS-DW0003",
         url: "/door-wheels/door-hanging-wheel-52-16-6003",
-        image: "/img/product-default-img.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-52-16-6003/1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-52-16-6003",
         robots:
@@ -2013,7 +4571,7 @@ export const products = [
         description: "50 X 14 X 6201",
         code: "BS-DW0004",
         url: "/door-wheels/door-hanging-wheel-50-14-6201",
-        image: "/img/product-default-img.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-50-14-6201/1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-50-14-6201",
         robots:
@@ -2037,7 +4595,7 @@ export const products = [
         description: "74 X 18 X 6203",
         code: "BS-DW0006",
         url: "/door-wheels/door-hanging-wheel-74-18-6203",
-        image: "/img/product-default-img.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-74-18-6203/1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-74-18-6203",
         robots:
@@ -2214,9 +4772,20 @@ export const products = [
         description: "3201.05.0032/C",
         code: "BS-DW0021",
         url: "/door-wheels/door-wheel-3201-05-0032-c",
-        image: "/img/product-default-img.jpg",
+        image: "/img/products/door-wheels/door-wheel-3201-05-0032-c/1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-3201-05-0032-c",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door wheel roller 70*25*6204",
+        description: "Door wheel roller 70*25*6204",
+        code: "BS-DW0022",
+        url: "/door-wheels/door-wheel-roller-70-25-6204",
+        image: "/img/products/door-wheels/door-wheel-roller-70-25-6204/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-wheels/door-wheel-roller-70-25-6204",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -2226,7 +4795,7 @@ export const products = [
     slug: "sensors",
     page_name: "Sensors",
     code: "BS-SR",
-    meta_title: " Elevator Sensors Dubai | Otis Photo & Control Sensors UAE",
+    meta_title: "Elevator Sensors Dubai | Otis Photo & Control Sensors UAE",
     meta_description:
       "Find premium Elevator Sensors Dubai, Sharjah & all over UAE. Reliable suppliers of Otis elevator sensors, photo sensors & control system components.",
     keywords:
@@ -2234,6 +4803,7 @@ export const products = [
     canonical: "https://www.bestechparts.ae/products/sensors",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Load sensor: DW -C1",
@@ -2356,6 +4926,209 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "Levelling sensor-U Type-SH-GS3A4",
+        description: "Shenghao: SH-GS3A4",
+        code: "BS-SR0011",
+        url: "/sensors/levelling-sensor-u-type-sh-gs3a4",
+        image: "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/levelling-sensor-u-type-sh-gs3a4",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Bestech brand: Levelling sensor-U BS-HPS-3",
+        description: "Bestech: BS-HPS-3",
+        code: "BS-SR0012",
+        url: "/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
+        image:
+          "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Bestech brand Door sensor: 2M light curtain",
+        description: "Bestech: 2M light curtain",
+        code: "BS-SR0013",
+        url: "/sensors/bestech-brand-door-sensor-2m-light-curtain",
+        image:
+          "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-2m-light-curtain",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Bestech brand Door sensor: 1M light curtain",
+        description: "Bestech: 1M light curtain",
+        code: "BS-SR0014",
+        url: "/sensors/bestech-brand-door-sensor-1m-light-curtain",
+        image:
+          "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/1.jpg",
+
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-1m-light-curtain",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Inductive Proximity sensor LJ12A3-4-Z/AX",
+        description: "LJ12A3-4-Z/AX - NO",
+        code: "BS-SR0015",
+        url: "/sensors/inductive-proximity-sensor-lj12a3-4-zax",
+        image:
+          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zax",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Inductive Proximity sensor LJ12A3-4-Z/BY",
+        description: "LJ12A3-4-Z/BY - NC",
+        code: "BS-SR0016",
+        url: "/sensors/inductive-proximity-sensor-lj12a3-4-zby",
+        image:
+          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zby",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "SLJ18A-Z5NK-DZ-T",
+        description: "Toshiba: SLJ18A-Z5NK-DZ-T",
+        code: "BS-SR0017",
+        url: "/sensors/slj18a-z5nk-dz-t",
+        image: "/img/products/sensors/slj18a-z5nk-dz-t/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/slj18a-z5nk-dz-t",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Bistable sensor - Italy",
+        description: "Bistable sensor - Italy",
+        code: "BS-SR0018",
+        url: "/sensors/bistable-sensor-italy",
+        image: "/img/products/sensors/bistable-sensor-italy/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/bistable-sensor-italy",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "SGD31-GG-TZ2B2P with plastic shell",
+        description: "Inovance: SGD31-GG-TZ2B2P",
+        code: "BS-SR0019",
+        url: "/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
+        image: "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Escalator Pressure sensor FP-A1PNP5M",
+        description: " OTIS GAA177GZ1 FP-A1 PNP 5M",
+        code: "BS-SR0020",
+        url: "/sensors/escalator-pressure-sensor-fp-a1pnp5m",
+        image:
+          "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/escalator-pressure-sensor-fp-a1pnp5m",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Sensor: E3JK-R4M1",
+        description: "Sensor: E3JK-R4M1",
+        code: "BS-SR0021",
+        url: "/sensors/sensor-e3jk-r4m1",
+        image: "/img/products/sensors/sensor-e3jk-r4m1/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/sensor-e3jk-r4m1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Sensor: BUP-30",
+        description: "Sensor: BUP-30",
+        code: "BS-SR0022",
+        url: "/sensors/sensor-bup-30",
+        image: "/img/products/sensors/sensor-bup-30/1.jpg",
+        slider: ["1", "2", "3"],
+        canonical: "https://www.bestechparts.ae/products/sensors/sensor-bup-30",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Sensor: D2VW-01-2MS",
+        description: "Sensor: D2VW-01-2MS",
+        code: "BS-SR0023",
+        url: "/sensors/sensor-d2vw-01-2ms",
+        image: "/img/products/sensors/sensor-d2vw-01-2ms/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/sensor-d2vw-01-2ms",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Sensor: PSN17-5DN",
+        description: "Sensor: PSN17-5DN",
+        code: "BS-SR0024",
+        url: "/sensors/sensor-psn17-5dn",
+        image: "/img/products/sensors/sensor-psn17-5dn/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/sensor-psn17-5dn",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Sensor BEL10M - TFR",
+        description: "Autonics - BEL10M-TFR",
+        code: "BS-SR0025",
+        url: "/sensors/sensor-bel10m-tfr",
+        image: "/img/products/sensors/sensor-bel10m-tfr/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/sensor-bel10m-tfr",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Sensor: DAA629Q1",
+        description: "OTIS DAA629Q1 JCA00629AAB001",
+        code: "BS-SR0026",
+        url: "/sensors/sensor-daa629q1",
+        image: "/img/products/sensors/sensor-daa629q1/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/sensor-daa629q1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "61U 61N 30 monostable - NC Switch",
+        description: " 61U 61N 30 monostable - NC Switch",
+        code: "BS-SR0027",
+        url: "/sensors/61u-61n-30-monostable-nc-switch",
+        image: "/img/products/sensors/61u-61n-30-monostable-nc-switch/1.jpeg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/sensors/61u-61n-30-monostable-nc-switch",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
 
@@ -2364,14 +5137,15 @@ export const products = [
     page_name: "Guide Shoes",
     code: "BS-GS",
     meta_title:
-      " Elevator Guide Shoes UAE | Lift Guide Shoes Supplier in Dubai, Sharjah",
+      "Elevator Guide Shoes UAE | Lift Guide Shoes Supplier in Dubai, Sharjah",
     meta_description:
       "Buy Elevator Guide Shoes across UAE from trusted spare parts supplier in Dubai, Sharjah & all over UAE. Premium quality lift guide shoes for elevators at best price.",
-    canonical: "https://www.bestechparts.ae/products/guide-shoes",
     keywords:
       "Elevator Guide Shoes UAE, Guide Shoes spare parts supplier Sharjah, Guide Shoes for Elevators UAE, Lift Guide Shoes Sharjah",
+    canonical: "https://www.bestechparts.ae/products/guide-shoes",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Guide shoe: 100/100 X 10/16 S",
@@ -2435,7 +5209,7 @@ export const products = [
         description: "100 X 25 X 62052",
         code: "BS-GS0006",
         url: "/guide-shoes/guide-shoe-wheel-100-25-62052",
-        image: "/img/product-default-img.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-100-25-62052/1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-100-25-62052",
         robots:
@@ -2749,20 +5523,114 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "Guide wheel: 150X32X6204",
+        description: "Hitachi: 150X32X6204",
+        code: "BS-GS0033",
+        url: "/guide-shoes/guide-wheel-150x32x6204",
+        image: "/img/products/guide-shoes/guide-wheel-150x32x6204/1.jpg",
+        slider: ["1", "2", "3"],
+        canonical:
+          "https://www.bestechparts.ae/products/guide-shoes/guide-wheel-150x32x6204",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Guide shoe full set K",
+        description: "Kone: 16mm 10mm",
+        code: "BS-GS0034",
+        url: "/guide-shoes/guide-shoe-full-set-k",
+        image: "/img/products/guide-shoes/guide-shoe-full-set-k/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-k",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Guide shoes: Full set Yellow O / K",
+        description: "Full set Yellow O / K - 10 / 16mm",
+        code: "BS-GS0035",
+        url: "/guide-shoes/guide-shoes-full-set-yellow-o-k",
+        image:
+          "/img/products/guide-shoes/guide-shoes-full-set-yellow-o-k/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/guide-shoes/guide-shoes-full-set-yellow-o-k",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Doppler Guide rail Shoe 120X29",
+        description: "Doppler Guide rail Shoe 120X29",
+        code: "BS-GS0036",
+        url: "/guide-shoes/doppler-guide-rail-shoe-120x29",
+        image:
+          "/img/products/guide-shoes/doppler-guide-rail-shoe-120x29/1.jpeg",
+        canonical:
+          "https://www.bestechparts.ae/products/guide-shoes/doppler-guide-rail-shoe-120x29",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Guide shoe: 140*10/16 T White",
+        description: "TKE: 140*10/16 white",
+        code: "BS-GS0037",
+        url: "/guide-shoes/guide-shoe-140-10-16-white",
+        image: "/img/products/guide-shoes/guide-shoe-140-10-16-white/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-140-10-16-white",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Guide Shoe Insert 150*10/16",
+        description: "Elevator Guide Shoe Insert 150*10/16",
+        code: "BS-GS0038",
+        url: "/guide-shoes/elevator-guide-shoe-insert-150-10-16",
+        image:
+          "/img/products/guide-shoes/elevator-guide-shoe-insert-150-10-16/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/guide-shoes/elevator-guide-shoe-insert-150-10-16",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Guide Shoe Full set - 6mm",
+        description: "OTIS Guide Shoe Full set - 6mm",
+        code: "BS-GS0039",
+        url: "/guide-shoes/guide-shoe-full-set-6mm",
+        image: "/img/products/guide-shoes/guide-shoe-full-set-6mm/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-6mm",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Guide Shoe Insert - 6mm",
+        description: "OTIS Guide Shoe Insert - 6mm",
+        code: "BS-GS0040",
+        url: "/guide-shoes/guide-shoe-insert-6mm",
+        image: "/img/products/guide-shoes/guide-shoe-insert-6mm/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-6mm",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
   {
     slug: "door-sliders",
     page_name: "Door Sliders",
     code: "BS-DS",
-    meta_title: " Elevator Door Sliders UAE | Otis & Schindler Suppliers Dubai",
+    meta_title: "Elevator Door Sliders UAE | Otis & Schindler Suppliers Dubai",
     meta_description:
       "Buy Elevator Door Sliders in the UAE from trusted suppliers in Dubai, Sharjah & all over UAE. Quality lift door slider spare parts for Otis, Schindler & more brands.",
-    canonical: "https://www.bestechparts.ae/products/door-sliders",
     keywords:
-      "Elevator Door Sliders UAE, Elevator Door Sliders Sharjah, Lift Door Sliders spare parts supplier UAE, Elevator Spare Parts Door SlidersDoor Sliders UAE, otis Door Slider suppliers UAE, schindler door slider Dubai ",
+      "Elevator Door Sliders UAE, Elevator Door Sliders Sharjah, Lift Door Sliders spare parts supplier UAE, Elevator Spare Parts Door Sliders UAE, otis Door Slider suppliers UAE, schindler door slider Dubai",
+    canonical: "https://www.bestechparts.ae/products/door-sliders",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "K-Door slider",
@@ -2933,6 +5801,50 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "Door slider 31mmX15mm",
+        description: "Door slider 31mmX15mm",
+        code: "BS-DS0016",
+        url: "/door-sliders/door-slider-31mmx15mm",
+        image: "/img/products/door-sliders/door-slider-31mmx15mm/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-sliders/door-slider-31mmx15mm",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door slider 39mmX14mm",
+        description: "Door slider 39mmX14mm",
+        code: "BS-DS0017",
+        url: "/door-sliders/door-slider-39mmx14mm",
+        image: "/img/products/door-sliders/door-slider-39mmx14mm/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-sliders/door-slider-39mmx14mm",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door slider White 18mmX25mm - S",
+        description: "Door slider White 18mmX25mm - Schindler",
+        code: "BS-DS0018",
+        url: "/door-sliders/door-slider-white-18mmx25mm-s",
+        image: "/img/products/door-sliders/door-slider-white-18mmx25mm-s/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-sliders/door-slider-white-18mmx25mm-s",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door Slider black - 12X50",
+        description: "OTIS Door Slider black - 12X50",
+        code: "BS-DS0019",
+        url: "/door-sliders/door-slider-black-12x50",
+        image: "/img/products/door-sliders/door-slider-black-12x50/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-sliders/door-slider-black-12x50",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
   {
@@ -2943,169 +5855,411 @@ export const products = [
     meta_description:
       "Looking for lift encoder suppliers in UAE? Bestech offers high-quality elevator encoders in Dubai, Sharjah & all over UAE for smooth lift operations.",
     keywords:
-      "Elevator Encoder suppliers Sharjah, lift Encoder Supplier UAE, Bestech Encoders UAE ",
+      "Elevator Encoder suppliers Sharjah, lift Encoder Supplier UAE, Bestech Encoders UAE",
     canonical: "https://www.bestechparts.ae/products/encoders",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
-        name: "Encoder cable 5M",
-        description: "cable 5M",
+        name: "Elevator Encoder Cable 5M",
+        description: "Encoder cable 5M",
         code: "BS-EN0001",
         url: "/encoders/encoder-cable-5m",
         image: "/img/products/encoders/encoder-cable-5m/1.jpg",
+        slider: ["1"],
+        meta_title: "Elevator Encoder Cable 5m for Lift Feedback Use | UAE",
+        meta_description:
+          "Elevator encoder cable 5m for lifts and control systems. Shielded cable for clear position and speed feedback between encoder and drive units in UAE setups.",
+        keywords:
+          "Elevator encoder cable 5m, elevator encoder cable UAE, lift encoder cable supplier, encoder feedback cable",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-cable-5m",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder Cable 5M</h2>\n<p>The <strong>Elevator encoder cable 5m</strong> is used in lift systems to transfer position and speed signals from the encoder to the control drive. This shielded multi-core cable ensures accurate and stable signal transmission during elevator operation.</p>\n<p>Its <strong>5 metre length</strong> is ideal for elevator panels and machine room installations where fixed routing is required. The shielding design helps reduce signal interference and loss, keeping lift movement smooth, stable, and reliable.</p>\n<p>This encoder cable is widely used in elevator control setups and industrial systems that require consistent feedback for safe and efficient lift operation under UAE working conditions.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-cable-5m</li>\n  <li><strong>Cable Length:</strong> 5 metres</li>\n  <li><strong>Type:</strong> Shielded multi-core encoder cable</li>\n  <li><strong>Use:</strong> Position, speed, and feedback signal transfer</li>\n  <li><strong>Application:</strong> Elevator and control systems</li>\n</ul>",
       },
       {
-        name: "Encoder cable 10M",
-        description: "cable 10M",
+        name: "Elevator Encoder Cable 10M",
+        description: "Encoder cable 10M",
         code: "BS-EN0002",
         url: "/encoders/encoder-cable-10m",
         image: "/img/products/encoders/encoder-cable-10m/1.jpg",
+        slider: ["1"],
+        meta_title: "Elevator Encoder Cable 10m for Lift Control Systems | UAE",
+        meta_description:
+          "Pre assembled elevator encoder cable 10m for lift systems in UAE. Supports position and speed feedback between encoder and controller.",
+        keywords:
+          "Elevator encoder cable 10m, lift encoder cable UAE, pre assembled encoder cable, elevator feedback cable",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-cable-10m",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder Cable 10M</h2>\n<p>The <strong>Elevator encoder cable 10m</strong> is designed for lift and control systems that require longer cable routing. This pre assembled cable connects the encoder to the drive unit inside elevator systems.</p>\n<p>Its <strong>10 metre length</strong> allows flexible installation between the motor area and control panel. The cable transfers position and speed feedback signals accurately during lift operation.</p>\n<p>This encoder cable supports stable signal flow, helping the lift respond correctly and maintain smooth travel. It is suitable for elevator and industrial control setups widely used across the UAE.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-cable-10m</li>\n  <li><strong>Cable Length:</strong> 10 metres</li>\n  <li><strong>Type:</strong> Pre assembled encoder cable</li>\n  <li><strong>Use:</strong> Position and speed feedback</li>\n  <li><strong>Application:</strong> Elevator and control systems</li>\n</ul>",
       },
       {
-        name: "Encoder cable 15M",
-        description: "cable 15M",
+        name: "Elevator Encoder Cable 15M",
+        description: "Encoder cable 15M",
         code: "BS-EN0003",
         url: "/encoders/encoder-cable-15m",
         image: "/img/products/encoders/encoder-cable-15m/1.jpg",
+        slider: ["1"],
+        meta_title: "Elevator Encoder Cable 15m for Lift Systems | UAE",
+        meta_description:
+          "Elevator encoder cable 15m for lift and servo systems. Suitable for long cable runs to carry position and speed feedback between encoder and control units in UAE.",
+        keywords:
+          "Elevator encoder cable 15m, lift encoder cable UAE, servo encoder cable, elevator feedback cable",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-cable-15m",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder Cable 15M</h2>\n<p>The <strong>Elevator encoder cable 15m</strong> is designed for lift systems where longer cable routing is required. This 15 metre cable connects the encoder to the drive or control unit inside the elevator setup.</p>\n<p>It is suitable for <strong>servo based systems</strong> that require accurate and stable feedback during lift travel. The cable supports reliable transfer of position and speed signals from the encoder to the controller.</p>\n<p>This encoder cable is widely used in elevators and automation systems across the UAE where extended cable length and stable signal transmission are essential.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-cable-15m</li>\n  <li><strong>Cable Length:</strong> 15 metres</li>\n  <li><strong>Type:</strong> Encoder connection cable</li>\n  <li><strong>Signal Use:</strong> Position and speed feedback</li>\n  <li><strong>Application:</strong> Elevator and servo systems</li>\n</ul>",
       },
       {
-        name: "Encoder Roller 37mm",
-        description: "Roller 37mm",
+        name: "Elevator Encoder Roller 37mm",
+        description: "Encoder roller 37mm",
         code: "BS-EN0004",
         url: "/encoders/encoder-roller-37mm",
         image: "/img/products/encoders/encoder-roller-37mm/1.jpg",
+        slider: ["1"],
+        meta_title: "Elevator Encoder Roller 37mm for Lift Position Control",
+        meta_description:
+          "Elevator encoder roller 37mm for lift systems. Used for position reading and speed control by supporting accurate encoder movement in UAE elevator setups.",
+        keywords:
+          "Elevator encoder roller 37mm, lift encoder roller, elevator position roller, encoder spare part UAE",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-roller-37mm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder Roller 37mm</h2>\n<p>The <strong>Elevator encoder roller 37mm</strong> is a lift spare part designed to support smooth encoder movement during elevator travel. The roller runs along the encoder tape or guide surface to assist in reading lift position and speed.</p>\n<p>Its <strong>37 mm size</strong> ensures steady contact and smooth rotation, allowing the encoder to transmit accurate feedback to the lift control unit.</p>\n<p>This encoder roller plays an important role in maintaining precise floor leveling, safe speed monitoring, and stable elevator performance. It is suitable for use in elevator systems across the UAE.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-roller-37mm</li>\n  <li><strong>Roller Size:</strong> 37 mm</li>\n  <li><strong>Part Type:</strong> Encoder roller</li>\n  <li><strong>Use:</strong> Position and speed reading</li>\n  <li><strong>Application:</strong> Elevator systems</li>\n</ul>",
       },
       {
-        name: "Encoder Roller 75mm",
-        description: "Roller 75mm",
+        name: "Elevator Encoder Roller 75mm",
+        description: "Encoder roller 75mm",
         code: "BS-EN0005",
         url: "/encoders/encoder-roller-75mm",
         image: "/img/products/encoders/encoder-roller-75mm/1.jpg",
+        slider: ["1"],
+        meta_title: "Elevator Encoder Roller 75mm for Lift Movement Reading",
+        meta_description:
+          "Elevator encoder roller 75mm for lift systems. Friction roller used with encoders to measure elevator movement and support position and speed reading in UAE lifts.",
+        keywords:
+          "Elevator encoder roller 75mm, lift encoder friction roller, elevator position roller, encoder spare part UAE",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-roller-75mm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder Roller 75mm</h2>\n<p>The <strong>Elevator encoder roller 75mm</strong> is a lift spare part used to measure elevator movement during travel. This roller functions as a friction wheel that rolls along a fixed surface or encoder tape inside the lift system.</p>\n<p>As the roller rotates, it helps the encoder accurately read lift <strong>position and speed</strong>. The <strong>75 mm diameter</strong> ensures stable contact and smooth rolling for reliable signal feedback.</p>\n<p>This encoder roller supports precise movement tracking and safe elevator operation. It is widely used in elevator installations across the UAE where accurate lift monitoring is essential.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-roller-75mm</li>\n  <li><strong>Roller Diameter:</strong> 75 mm</li>\n  <li><strong>Part Type:</strong> Encoder roller</li>\n  <li><strong>Working Type:</strong> Friction wheel</li>\n  <li><strong>Function:</strong> Position and speed reading</li>\n  <li><strong>Application:</strong> Elevator systems</li>\n</ul>",
       },
       {
-        name: "Encoder 1387",
-        description: "1387",
+        name: "Elevator Encoder 1387",
+        description: "Encoder 1387",
         code: "BS-EN0006",
         url: "/encoders/encoder-1387",
         image: "/img/products/encoders/encoder-1387/1.jpg",
         slider: ["1", "2", "3"],
+        meta_title: "Buy Elevator Encoder 1387 for Lift Speed Control in UAE",
+        meta_description:
+          "Buy elevator encoder 1387 for lift systems. Incremental rotary encoder used to monitor shaft movement and support smooth lift control in UAE.",
+        keywords:
+          "buy elevator encoder 1387, elevator encoder 1387 UAE, lift rotary encoder, incremental encoder for elevator",
         canonical: "https://www.bestechparts.ae/products/encoders/encoder-1387",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder 1387</h2>\n<p>The <strong>encoder-1387</strong> is an incremental rotary encoder used to measure motor shaft rotation and provide accurate speed and position data in elevator systems. It is commonly manufactured by Heidenhain and supports lift control units during operation.</p>\n<p>When the shaft rotates, the encoder generates pulse signals that allow the system to track elevator movement, stopping points, and travel speed. This feedback helps maintain smooth ride quality and safe lift control.</p>\n<p>The encoder-1387 is widely used in lift drive systems where precise motion reading is required. It is suitable for elevator installations across the UAE. You can buy elevator encoder 1387 for lift repair, modernization, and routine maintenance.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> encoder-1387</li>\n  <li><strong>Encoder Type:</strong> Incremental</li>\n  <li><strong>Reading Type:</strong> Rotary shaft movement</li>\n  <li><strong>Feedback Use:</strong> Speed and position data</li>\n  <li><strong>Usage Area:</strong> Elevator systems</li>\n</ul>",
       },
       {
-        name: "Encoder 1024-30mm",
-        description: "1024-30mm",
+        name: "Elevator Encoder 1024 30mm",
+        description: "Encoder 1024 30mm",
         code: "BS-EN0007",
         url: "/encoders/encoder-1024-30mm",
         image: "/img/products/encoders/encoder-1024-30mm/1.jpg",
+        slider: ["1"],
+        meta_title: "Buy Elevator Encoder 1024 30mm for Lift Systems | UAE",
+        meta_description:
+          "Buy elevator encoder 1024 30mm for lift systems. Incremental rotary encoder with 1024 pulses and 30 mm shaft for position and speed feedback.",
+        keywords:
+          "buy elevator encoder 1024 30mm, elevator encoder 1024 ppr, lift rotary encoder UAE, incremental encoder for elevator",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-1024-30mm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder 1024 30mm</h2>\n<p>The <strong>encoder-1024-30mm</strong> is an incremental rotary encoder used in elevator drive systems to read motor shaft movement. It delivers <strong>1024 pulses per revolution</strong>, allowing accurate position and speed monitoring during lift travel.</p>\n<p>This model supports a <strong>30 mm shaft</strong>, making it suitable for elevator motors and drive units. As the shaft rotates, the encoder transmits pulse signals that guide lift movement and improve stopping accuracy.</p>\n<p>The encoder supports stable operation and smooth motion control in daily elevator use. You can buy elevator encoder 1024 30mm for lift systems across the UAE where reliable feedback is essential.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-1024-30mm</li>\n  <li><strong>Encoder Type:</strong> Incremental rotary</li>\n  <li><strong>Resolution:</strong> 1024 pulses per revolution</li>\n  <li><strong>Shaft Size:</strong> 30 mm</li>\n  <li><strong>Output:</strong> Pulse feedback for position and speed</li>\n  <li><strong>Application:</strong> Elevator drive systems</li>\n</ul>",
       },
       {
-        name: "Encoder 1024-35mm",
-        description: "1024-35mm",
+        name: "Elevator Encoder 1024 35mm",
+        description: "Encoder 1024 35mm",
         code: "BS-EN0008",
         url: "/encoders/encoder-1024-35mm",
         image: "/img/products/encoders/encoder-1024-35mm/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Buy Elevator Encoder 1024 35mm for Lift Systems in UAE",
+        meta_description:
+          "Buy elevator encoder 1024 35mm for lift systems in UAE. Incremental rotary encoder with 1024 pulses and 35 mm shaft for accurate speed and position feedback.",
+        keywords:
+          "buy elevator encoder 1024 35mm, elevator encoder 1024 ppr, lift rotary encoder UAE, incremental encoder for elevator",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-1024-35mm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder 1024 35mm</h2>\n<p>The <strong>encoder-1024-35mm</strong> is an incremental rotary encoder designed for lift control systems to accurately read shaft rotation during operation. It provides <strong>1024 pulses per revolution</strong>, allowing precise monitoring of lift movement and speed.</p>\n<p>This model supports a <strong>35 mm hollow or solid shaft</strong>, making it suitable for different elevator drive setups. As the shaft rotates, the encoder sends pulse signals that help manage lift travel and stopping accuracy.</p>\n<p>The encoder delivers stable performance and reliable feedback for daily elevator operation. You can buy elevator encoder 1024 35mm for elevator installations across the UAE where consistent motion tracking is required.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-1024-35mm</li>\n  <li><strong>Encoder Type:</strong> Incremental rotary encoder</li>\n  <li><strong>Resolution:</strong> 1024 pulses per revolution (PPR)</li>\n  <li><strong>Shaft Size:</strong> 35 mm hollow or solid shaft</li>\n  <li><strong>Output Type:</strong> Pulse signal for position and speed</li>\n  <li><strong>Application:</strong> Elevator drive systems</li>\n</ul>",
       },
       {
-        name: "Encoder 1024-40mm",
-        description: "1024-40mm",
+        name: "Elevator Encoder 1024 40mm",
+        description: "Encoder 1024 40mm",
         code: "BS-EN0009",
         url: "/encoders/encoder-1024-40mm",
         image: "/img/products/encoders/encoder-1024-40mm/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Elevator Encoder 1024 40mm for Lift Control Systems | UAE",
+        meta_description:
+          "Buy elevator encoder 1024 40mm for UAE lift systems. Incremental rotary encoder designed to provide clear position and speed feedback.",
+        keywords:
+          "buy elevator encoder 1024 40mm, elevator encoder 1024 ppr, lift rotary encoder UAE, incremental encoder for elevator",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-1024-40mm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder 1024 40mm</h2>\n<p>The <strong>encoder-1024-40mm</strong> is an incremental rotary encoder used in elevator drive systems to track shaft rotation accurately. It provides <strong>1024 pulses per revolution</strong>, helping the controller monitor lift position and speed during movement.</p>\n<p>This model supports a <strong>40 mm hollow or solid shaft</strong>, making it suitable for a wide range of elevator motors and drive units. As the shaft rotates, the encoder generates pulse signals that guide lift travel and improve stopping accuracy.</p>\n<p>The encoder delivers stable motion feedback and reliable control performance. You can buy elevator encoder 1024 40mm for elevator service, modernization, and replacement use across the UAE.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-1024-40mm</li>\n  <li><strong>Encoder Type:</strong> Incremental rotary</li>\n  <li><strong>Resolution:</strong> 1024 pulses per revolution</li>\n  <li><strong>Shaft Size:</strong> 40 mm hollow bore or shaft</li>\n  <li><strong>Function:</strong> Position and speed feedback</li>\n  <li><strong>Application:</strong> Elevator drive systems</li>\n</ul>",
       },
       {
-        name: "Encoder 1024-45mm",
-        description: "1024-45mm",
+        name: "Elevator Encoder 1024 45mm",
+        description: "Encoder 1024 45mm",
         code: "BS-EN0010",
         url: "/encoders/encoder-1024-45mm",
         image: "/img/products/encoders/encoder-1024-45mm/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Elevator Encoder 1024 45mm for Lift Systems in UAE",
+        meta_description:
+          "Elevator encoder 1024 45mm for lift systems. Incremental rotary encoder with 1024 pulses and 45mm shaft for position and speed feedback.",
+        keywords:
+          "elevator encoder 1024 45mm, lift encoder 1024 ppr, incremental encoder UAE, elevator rotary encoder",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-1024-45mm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder 1024 45mm</h2>\n<p>The <strong>encoder-1024-45mm</strong> is an incremental rotary encoder used in elevator drive systems to accurately track shaft rotation. It delivers <strong>1024 pulses per revolution</strong>, helping the control unit monitor lift position and speed during operation.</p>\n<p>This model supports a <strong>45 mm hollow or solid shaft</strong>, making it suitable for elevator motors and drive units. As the shaft rotates, the encoder sends pulse signals that ensure correct lift travel and precise stopping.</p>\n<p>The encoder provides steady feedback for safe and smooth elevator performance. You can buy elevator encoder 1024 45mm for lift systems across the UAE where reliable motion control is required.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-1024-45mm</li>\n  <li><strong>Encoder Type:</strong> Incremental rotary</li>\n  <li><strong>Resolution:</strong> 1024 pulses per revolution</li>\n  <li><strong>Shaft Size:</strong> 45 mm hollow or solid</li>\n  <li><strong>Function:</strong> Position and speed feedback</li>\n  <li><strong>Application:</strong> Elevator drive systems</li>\n</ul>",
       },
       {
-        name: "Encoder PG card: MCTC-PG-E",
-        description: "PG card: MCTC-PG-E",
+        name: "Elevator Encoder PG Card MCTC-PG-E",
+        description: "PG card MCTC-PG-E",
         code: "BS-EN0011",
         url: "/encoders/encoder-pg-card-mctc-pg-e",
         image: "/img/products/encoders/encoder-pg-card-mctc-pg-e/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Elevator Encoder PG Card MCTC-PG-E for Lift Systems | UAE",
+        meta_description:
+          "Elevator encoder pg card mctc-pg-e for lift systems. PG card used with Monarch Nice 3000+ inverter to process encoder speed and position signals.",
+        keywords:
+          "elevator encoder pg card mctc-pg-e, monarch pg card, nice 3000 pg card, elevator encoder interface card UAE",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-e",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder PG Card MCTC-PG-E</h2>\n<p>The <strong>encoder-pg-card-mctc-pg-e</strong> is an encoder PG card used in elevator systems to process encoder pulse signals. This model, known as the Monarch <strong>MCTC-PG-E</strong>, is designed for use with the Monarch Nice 3000+ inverter.</p>\n<p>The card receives encoder input signals and transfers pulse data to the drive unit so elevator movement, speed, and stopping positions can be controlled correctly. This supports smooth lift travel and stable operation.</p>\n<p>The elevator encoder PG card MCTC-PG-E is installed inside elevator control panels and is commonly used for service replacement and maintenance in UAE lift systems.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-pg-card-mctc-pg-e</li>\n  <li><strong>Card Type:</strong> Encoder PG card</li>\n  <li><strong>Use:</strong> Encoder pulse signal handling</li>\n  <li><strong>Drive Support:</strong> Monarch Nice 3000+ inverter</li>\n  <li><strong>Function:</strong> Speed and position feedback</li>\n  <li><strong>Application:</strong> Elevator control panels</li>\n</ul>",
       },
       {
-        name: "Encoder PG card: MCTC-PG-A2",
-        description: "PG card: MCTC-PG-A2",
+        name: "Elevator Encoder PG Card MCTC PG A2",
+        description: "PG card MCTC-PG-A2",
         code: "BS-EN0012",
         url: "/encoders/encoder-pg-card-mctc-pg-a2",
         image: "/img/products/encoders/encoder-pg-card-mctc-pg-a2/1.jpg",
         slider: ["1", "2"],
+        meta_title:
+          "Elevator Encoder PG Card MCTC PG A2 for Lift Systems | UAE",
+        meta_description:
+          "Elevator encoder pg card mctc-pg-a2 for lift systems. PG card used with Monarch NICE series inverters to process encoder speed and position signals.",
+        keywords:
+          "elevator encoder pg card mctc-pg-a2, monarch nice pg card, elevator pg interface card UAE, encoder signal card",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-a2",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder PG Card MCTC PG A2</h2>\n<p>The <strong>encoder-pg-card-mctc-pg-a2</strong> is used in elevator systems to process encoder pulse input for smooth and accurate lift control. It is compatible with <strong>Monarch NICE series inverters</strong> and supports stable encoder signal transfer to the drive unit.</p>\n<p>The card receives encoder pulses and converts them into usable speed and position data, helping the lift maintain correct movement and stopping accuracy during operation.</p>\n<p>This PG card is installed inside elevator control panels and is widely used for service, repair, and replacement in UAE lift systems where reliable feedback is required.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-pg-card-mctc-pg-a2</li>\n  <li><strong>Card Type:</strong> Encoder PG card</li>\n  <li><strong>Supported Inverter:</strong> Monarch NICE series</li>\n  <li><strong>Function:</strong> Encoder pulse signal handling</li>\n  <li><strong>Feedback Type:</strong> Speed and position data</li>\n  <li><strong>Application:</strong> Elevator control panels</li>\n</ul>",
       },
       {
-        name: "ECN 1313 Encoder with 7M cable",
-        description: "with 7M cable",
+        name: "ECN 1313 Encoder with 7M Cable",
+        description: "ECN 1313 encoder with 7M cable",
         code: "BS-EN0013",
         url: "/encoders/ecn-1313-encoder-with-7m-cable",
         image: "/img/products/encoders/ecn-1313-encoder-with-7m-cable/1.jpg",
         slider: ["1", "2"],
+        meta_title: "ECN 1313 Encoder 7m Cable for Elevator Systems | UAE",
+        meta_description:
+          "ECN 1313 encoder 7m cable for elevator systems in UAE. Absolute rotary encoder by Heidenhain with fixed 7 metre cable for clear and steady position feedback.",
+        keywords:
+          "ecn 1313 encoder 7m cable, heidenhain ecn 1313 encoder, elevator absolute encoder UAE, elevator position encoder",
         canonical:
           "https://www.bestechparts.ae/products/encoders/ecn-1313-encoder-with-7m-cable",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>ECN 1313 Encoder with 7M Cable</h2>\n<p>The <strong>ecn-1313-encoder-with-7m-cable</strong> is an absolute rotary encoder used in elevator systems to read shaft position during lift travel. This model is manufactured by <strong>Heidenhain</strong> and is supplied with a fixed <strong>7 metre cable</strong> for direct connection to the control unit.</p>\n<p>The encoder provides continuous position data, even during power loss, helping the lift system maintain correct floor reference and safe operation.</p>\n<p>The ECN 1313 encoder 7m cable setup supports smooth lift movement and accurate stopping. It is widely used in elevator drive systems across the UAE where steady position feedback is required.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> ecn-1313-encoder-with-7m-cable</li>\n  <li><strong>Encoder Type:</strong> Absolute rotary encoder</li>\n  <li><strong>Cable Length:</strong> 7 metres</li>\n  <li><strong>Feedback:</strong> Position data</li>\n  <li><strong>Mounting Use:</strong> Elevator drive shaft</li>\n  <li><strong>Application:</strong> Elevator systems</li>\n</ul>",
       },
       {
-        name: "Encoder ERN 1387",
-        description: "ERN 1387",
+        name: "Elevator Encoder ERN 1387",
+        description: "Encoder ERN 1387",
         code: "BS-EN0014",
         url: "/encoders/encoder-ern-1387",
         image: "/img/products/encoders/encoder-ern-1387/1.jpg",
         slider: ["1", "2"],
+        meta_title: "Elevator Encoder ERN 1387 for Lift Systems in UAE",
+        meta_description:
+          "Elevator encoder ERN 1387 for lift systems in UAE. Incremental rotary encoder by Heidenhain used to provide clear speed and position feedback in elevators.",
+        keywords:
+          "elevator encoder ern 1387, heidenhain ern 1387 encoder, lift rotary encoder UAE, incremental encoder for elevator",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-ern-1387",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          "<h2>Elevator Encoder ERN 1387</h2>\n<p>The <strong>encoder-ern-1387</strong> is an incremental rotary encoder used in elevator and servo motor systems to accurately read shaft movement during operation. This model is manufactured by <strong>Heidenhain</strong> and is designed for lift systems that require clear speed and position feedback.</p>\n<p>As the shaft rotates, the encoder generates pulse signals that allow the control unit to manage lift travel and stopping points with precision. This ensures smooth movement and stable lift performance.</p>\n<p>The elevator encoder ERN 1387 is widely used in elevator drive systems across the UAE for service, replacement, and modernization projects.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product Number:</strong> encoder-ern-1387</li>\n  <li><strong>Encoder Type:</strong> Incremental rotary</li>\n  <li><strong>Signal Output:</strong> Pulse based feedback</li>\n  <li><strong>Function:</strong> Speed and position reading</li>\n  <li><strong>Fitment:</strong> Elevator drive shaft</li>\n  <li><strong>Application:</strong> Elevator and servo systems</li>\n</ul>",
+      },
+      {
+        name: "HENGSTLER 0541419 - Rotary Encoder",
+        description: "TKE HENGSTLER 0541419",
+        code: "BS-EN0015",
+        url: "/encoders/hengstler-0541419-rotary-encoder",
+        image: "/img/products/encoders/hengstler-0541419-rotary-encoder/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/hengstler-0541419-rotary-encoder",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "ENCABIT PLUS MODULE - PG CARD",
+        description: "Arkel: ENCABIT",
+        code: "BS-EN0016",
+        url: "/encoders/encabit-plus-module-pg-card",
+        image: "/img/products/encoders/encabit-plus-module-pg-card/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/encabit-plus-module-pg-card",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Encoder PG card: MCTC-PG-E6",
+        description: "Encoder PG card: MCTC-PG-E6",
+        code: "BS-EN0017",
+        url: "/encoders/encoder-pg-card-mctc-pg-e6",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e6/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-e6",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Encoder PG card: MCTC-PG-D",
+        description: "Encoder PG card: MCTC-PG-D",
+        code: "BS-EN0018",
+        url: "/encoders/encoder-pg-card-mctc-pg-d",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-d/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-d",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Encoder PG card: MCTC-PG-F",
+        description: "Encoder PG card: MCTC-PG-F",
+        code: "BS-EN0019",
+        url: "/encoders/encoder-pg-card-mctc-pg-f",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-f/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-f",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "ROTARY ENCODER H-40-8-1024VL",
+        description: "LS ROTARY ENCODER H-40-8-1024VL",
+        code: "BS-EN0020",
+        url: "/encoders/rotary-encoder-h-40-8-1024vl",
+        image: "/img/products/encoders/rotary-encoder-h-40-8-1024vl/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/rotary-encoder-h-40-8-1024vl",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "7M Cable for 1313 Encoder (Open)",
+        description: "Encoder cable open terminals",
+        code: "BS-EN0021",
+        url: "/encoders/7m-cable-for-1313-encoder",
+        image: "/img/products/encoders/7m-cable-for-1313-encoder/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/7m-cable-for-1313-encoder",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "7M Cable for 1387 Encoder (Open)",
+        description: "Encoder cable open terminals",
+        code: "BS-EN0022",
+        url: "/encoders/7m-cable-for-1387-encoder",
+        image: "/img/products/encoders/7m-cable-for-1387-encoder/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/7m-cable-for-1387-encoder",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Encoder: H40-8-2500UL",
+        description: "Penon H40-8-2500UL",
+        code: "BS-EN0023",
+        url: "/encoders/encoder-h40-8-2500ul",
+        image: "/img/products/encoders/encoder-h40-8-2500ul/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/encoder-h40-8-2500ul",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "ENCA Encoder Board",
+        description: "Arkel: ENCA Encoder board",
+        code: "BS-EN0024",
+        url: "/encoders/enca-encoder-board",
+        image: "/img/products/encoders/enca-encoder-board/1.jpeg",
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/enca-encoder-board",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "1387 Encoder cable 20M",
+        description: "1387 Encoder cable 20M with shield",
+        code: "BS-EN0025",
+        url: "/encoders/1387-encoder-cable-20m",
+        image: "/img/products/encoders/1387-encoder-cable-20m/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/1387-encoder-cable-20m",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Encoder X65AC11 - 512 45mm",
+        description: "Mitsubishi Elevator Encoder X65AC11",
+        code: "BS-EN0026",
+        url: "/encoders/elevator-encoder-x65ac11-512-45mm",
+        image: "/img/products/encoders/elevator-encoder-x65ac11-512-45mm/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/encoders/elevator-encoder-x65ac11-512-45mm",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -3127,10 +6281,11 @@ export const products = [
     meta_description:
       "Buy Elevator Inverters spare parts Dubai, Sharjah & all over UAE. Trusted lift inverter suppliers & distributors. Models 22KW NICE-L-C-4022 & 11KW AS380 available.",
     keywords:
-      "Elevator Inverters spare parts Dubai, Elevator Inverter parts supplier Dubai, Lift Inverters distributers UAE, lift Inverter Spare Parts UAE, Elevator Inverter 22KW: NICE-L-C-4022 sharjah, Elevator Inverter 11KW: AS380 UAE ",
+      "Elevator Inverters spare parts Dubai, Elevator Inverter parts supplier Dubai, Lift Inverters distributers UAE, lift Inverter Spare Parts UAE, Elevator Inverter 22KW: NICE-L-C-4022 sharjah, Elevator Inverter 11KW: AS380 UAE",
     canonical: "https://www.bestechparts.ae/products/inverters",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Inverter 7.5KW: NICE-L-C-4007",
@@ -3139,10 +6294,18 @@ export const products = [
         url: "/inverters/inverter-7-5kw-nice-l-c-4007",
         image: "/img/products/inverters/inverter-7-5kw-nice-l-c-4007/3.jpg",
         slider: ["3", "2", "1"],
+        meta_title:
+          "Monarch Elevator Inverter 7.5KW NICE-L-C-4007 for Lift Control UAE",
+        meta_description:
+          "Monarch Elevator Inverter 7.5KW NICE-L-C-4007, keeps lifts stable in Sharjah and Dubai, UAE. Premium elevator spare parts from reputable supplier for major lift brands.",
+        keywords:
+          "Monarch Elevator Inverter 7.5KW NICE-L-C-4007, Monarch Elevator Inverter supplier sharjah, Escalator inverter supplier UAE",
         canonical:
           "https://www.bestechparts.ae/products/inverters/inverter-7-5kw-nice-l-c-4007",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Monarch Elevator Inverter 7.5KW: NICE-L-C-400</h2>\n<p>The <strong>Monarch Elevator Inverter 7.5KW: NICE-L-C-400</strong> is a compact and integrated controller engineered for precision and reliability in elevator systems. It provides accurate regulation of <strong>motor speed, torque, and direction</strong>, ensuring smooth acceleration, deceleration, and ride comfort with minimal vibration and jerk.</p>\n<p>With a robust <strong>7.5 kW power rating</strong>, this inverter can manage heavy elevator loads and frequent switching cycles efficiently. Its intelligent control design supports modern elevator systems, improving operational safety and energy efficiency while extending equipment lifespan.</p>\n<p>Compatible with various elevator control boards and systems, including <strong>OTIS, SIGMA, FUJI, MITSUBISHI, and KONE</strong>, this inverter is a reliable solution for consistent elevator performance and long-term durability.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Power Rating:</strong> 7.5 KW</li>\n  <li><strong>Function:</strong> Motor Speed and Torque Control</li>\n  <li><strong>Type:</strong> Integrated Elevator Inverter</li>\n  <li><strong>Application:</strong> Elevator Drive Control</li>\n  <li><strong>Compatibility:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, KONE, and more</li>\n</ul>\n<h2>Buy Elevator Inverter Drive UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers high-quality <strong>elevator inverter drives</strong> in UAE, providing durable and reliable solutions for smooth, safe, and efficient vertical transport systems. Each inverter is tested to meet international standards for performance, safety, and energy efficiency.</p>',
       },
       {
         name: "Inverter 11KW: NICE-L-C-4011",
@@ -3151,10 +6314,18 @@ export const products = [
         url: "/inverters/inverter-11kw-nice-l-c-4011",
         image: "/img/products/inverters/inverter-11kw-nice-l-c-4011/3.jpg",
         slider: ["3", "2", "1"],
+        meta_title:
+          "Monarch Elevator Inverter 11KW NICE-L-C-4011 | Dubai Spare Parts",
+        meta_description:
+          "Monarch Elevator Inverter 11KW NICE-L-C-4011 ensures smooth lift operation in Dubai, UAE. Reliable spare parts support for Otis, Kone, and Hyundai elevators.",
+        keywords:
+          "Monarch Elevator Inverter 11KW NICE-L-C-4011, Monarch Elevator Inverter supplier Dubai, Escalator inverter supplier Dubai",
         canonical:
           "https://www.bestechparts.ae/products/inverters/inverter-11kw-nice-l-c-4011",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Monarch Elevator Inverter 11KW: NICE-L-C-4011</h2>\n<p>The <strong>Monarch Elevator Inverter 11KW: NICE-L-C-4011</strong> is a compact and integrated controller that combines motor drive and control functions into a single reliable unit. Utilizing advanced <strong>vector control technology</strong>, it ensures precise speed regulation, smooth acceleration and deceleration, and optimized energy efficiency throughout elevator operation.</p>\n<p>Engineered for <strong>medium-sized elevator systems</strong>, this inverter supports frequent starts and stops while maintaining exceptional control stability and passenger comfort. The NICE-L-C-4011 is built to handle heavy usage with consistent performance and reduced maintenance requirements, making it an ideal solution for modern elevator installations.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Power Rating:</strong> 11 KW</li>\n  <li><strong>Function:</strong> Motor Drive and Control</li>\n  <li><strong>Type:</strong> Integrated Elevator Inverter</li>\n  <li><strong>Application:</strong> Medium-Sized Elevator Systems</li>\n  <li><strong>Compatibility:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, KONE, and more</li>\n</ul>\n<h2>High-Quality Elevator Inverter Drives UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> is a trusted provider of <strong>elevator inverter drives</strong> in the UAE, offering reliable and efficient solutions designed for smooth operation, reduced wear, and long-lasting performance in modern elevator systems. Each inverter is rigorously tested to ensure durability and energy efficiency for consistent vertical transport.</p>',
       },
       {
         name: "Inverter 15KW: NICE-L-C-4015",
@@ -3163,10 +6334,18 @@ export const products = [
         url: "/inverters/inverter-15kw-nice-l-c-4015",
         image: "/img/products/inverters/inverter-15kw-nice-l-c-4015/3.jpg",
         slider: ["3", "2", "1"],
+        meta_title:
+          "Monarch Elevator Inverter 15KW NICE-L-C-4015 Supply | Sharjah",
+        meta_description:
+          "Monarch Elevator Inverter 15KW NICE-L-C-4015 designed for reliable escalator and lift control in UAE. Explore trusted stock from expert suppliers for global lift brands.",
+        keywords:
+          "Monarch Elevator Inverter 15KW NICE-L-C-4015, Monarch Elevator Inverter supplier UAE, Escalator inverter supplier Sharjah",
         canonical:
           "https://www.bestechparts.ae/products/inverters/inverter-15kw-nice-l-c-4015",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>High-Performance Monarch Elevator Inverter 15KW: NICE-L-C-4015</h2>\n<p>The <strong>NICE-L-C-4015</strong> is a <strong>15 kW integrated elevator inverter</strong> designed for precise and reliable motor control. It efficiently manages <strong>speed, torque, and direction</strong>, ensuring smooth acceleration and deceleration during elevator operation. Built with advanced vector control technology, it minimizes vibration and ensures superior ride comfort.</p>\n<p>Operating on a <strong>three-phase AC 380V–440V</strong> power supply, this inverter supports both <strong>medium and heavy-duty elevators</strong> from major global brands such as OTIS, SIGMA, FUJI, MITSUBISHI, and KONE. The NICE-L-C-4015 combines high durability with energy efficiency, delivering consistent performance and safety in every elevator cycle.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> NICE-L-C-4015</li>\n  <li><strong>Power:</strong> 15 KW</li>\n  <li><strong>Input Voltage:</strong> 380V–440V AC</li>\n  <li><strong>Function:</strong> Motor Speed &amp; Torque Controller</li>\n  <li><strong>Application:</strong> Elevator Motor &amp; Brake Control</li>\n  <li><strong>Compatible Brands:</strong> OTIS, SIGMA, FUJI, MITSUBISHI, KONE</li>\n</ul>\n<h2>Advanced Elevator Inverter Solutions for Smooth Control</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> provides advanced <strong>elevator inverter drive solutions</strong> in UAE, engineered for precise motor control, energy efficiency, and smooth speed regulation. Designed for long-lasting reliability, these inverters ensure stable and safe operation for all types of elevator systems.</p>',
       },
       {
         name: "Inverter 18KW: NICE-L-C-4018",
@@ -3175,10 +6354,18 @@ export const products = [
         url: "/inverters/inverter-18kw-nice-l-c-4018",
         image: "/img/products/inverters/inverter-18kw-nice-l-c-4018/3.jpg",
         slider: ["3", "2", "1"],
+        meta_title:
+          "Monarch Elevator Inverter 18KW NICE-L-C-4018 Power Supply, UAE",
+        meta_description:
+          "Monarch Elevator Inverter 18KW NICE-L-C-4018 makes sure reliable lift movement in Sharjah, UAE. Get quality spare parts compatible with Otis and Kone elevators.",
+        keywords:
+          "Monarch Elevator Inverter 18KW NICE-L-C-4018, elevator inverter supplier Sharjah, buy elevator inverter Sharjah",
         canonical:
           "https://www.bestechparts.ae/products/inverters/inverter-18kw-nice-l-c-4018",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Reliable Monarch Elevator Inverter 18KW: NICE-L-C-4018</h2>\n<p>The <strong>Monarch Elevator Inverter 18KW: NICE-L-C-4018</strong> is an integrated inverter and controller specifically designed for modern elevator systems. Manufactured by <strong>Suzhou Monarch Control Technology Co., Ltd. (MCTC)</strong> — a trusted brand under the <strong>Inovance Group</strong> — this inverter combines motor drive and control functions into a single compact and efficient unit.</p>\n<p>Using advanced <strong>high-performance vector control</strong> technology, the NICE-L-C-4018 ensures <strong>smooth acceleration</strong>, <strong>precise speed regulation</strong>, and <strong>optimized energy efficiency</strong>. It is ideal for <strong>medium-sized elevator systems</strong> that demand both reliability and space-saving design. Built to handle continuous operation with minimal maintenance, this inverter delivers steady torque control and smooth motor performance for an enhanced passenger experience.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> NICE-L-C-4018</li>\n  <li><strong>Power Rating:</strong> 18 KW</li>\n  <li><strong>Function:</strong> Integrated Inverter and Controller</li>\n  <li><strong>Control:</strong> Vector Control, Smooth Acceleration/Deceleration</li>\n  <li><strong>Application:</strong> Medium-Sized Elevator Systems</li>\n  <li><strong>Compatible Brands:</strong> OTIS / SIGMA / FUJI / MITSUBISHI / KONE</li>\n</ul>\n<h2>Efficient Elevator Inverter Drive UAE – Monarch NICE-L-C-4018</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> offers the <strong>Monarch NICE-L-C-4018 elevator inverter drive</strong> in the UAE, providing <strong>durable construction</strong>, <strong>precise motor control</strong>, and <strong>smooth elevator operation</strong> across all leading elevator brands. Choose Bestech for dependable inverter solutions that enhance efficiency, safety, and long-term system reliability.</p>',
       },
       {
         name: "Inverter 22KW: NICE-L-C-4022",
@@ -3187,10 +6374,18 @@ export const products = [
         url: "/inverters/inverter-22kw-nice-l-c-4022",
         image: "/img/products/inverters/inverter-22kw-nice-l-c-4022/3.jpg",
         slider: ["3", "2", "1"],
+        meta_title:
+          "Monarch Elevator Inverter 22KW NICE-L-C-4022 Parts in Dubai",
+        meta_description:
+          "Monarch Elevator Inverter 22KW NICE-L-C-4022 for durable lift and escalator function in UAE. Purchase proven quality spares suitable for global elevator systems.",
+        keywords:
+          "Monarch Elevator Inverter 22KW NICE-L-C-4022, elevator inverter supplier UAE, buy Escalator inverter Dubai",
         canonical:
           "https://www.bestechparts.ae/products/inverters/inverter-22kw-nice-l-c-4022",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Monarch Elevator Inverter 22KW: NICE-L-C-4022</h2>\n<p>The <strong>Monarch Elevator Inverter 22KW: NICE-L-C-4022</strong> is an advanced integrated controller and inverter developed by <strong>Suzhou Monarch Control Technology Co., Ltd. (MCTC)</strong>, part of the <strong>Inovance Group</strong>. Designed for <strong>medium to large elevator systems</strong>, it delivers precise motor control with stable torque, accurate speed regulation, and smooth directional transitions for enhanced ride comfort.</p>\n<p>This 22 KW inverter employs <strong>high-performance vector control technology</strong> to ensure <strong>efficient, quiet, and reliable operation</strong>. Its compact structure, durable design, and robust build make it ideal for <strong>high-rise buildings and multi-elevator installations</strong>. The NICE-L-C-4022 offers consistent performance under frequent switching and demanding conditions, making it a trusted choice for modern elevator control systems.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> NICE-L-C-4022</li>\n  <li><strong>Power Rating:</strong> 22 KW</li>\n  <li><strong>Manufacturer:</strong> Suzhou Monarch Control Technology Co., Ltd. (MCTC) – Inovance Group</li>\n  <li><strong>Input Voltage:</strong> Three-Phase 380V–440V AC</li>\n  <li><strong>Control Type:</strong> High-Performance Vector Control</li>\n  <li><strong>Function:</strong> Integrated Inverter and Controller</li>\n  <li><strong>Application:</strong> Medium to Large Elevator Systems</li>\n  <li><strong>Features:</strong> Compact Design, Stable Speed Control, Smooth Acceleration and Deceleration, Energy Efficient</li>\n</ul>\n<h2>Trusted Supplier of Elevator Inverter Drives in the UAE</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> provides <strong>reliable elevator inverter drives</strong> in the UAE. The <strong>Monarch NICE-L-C-4022</strong> supports <strong>smooth acceleration</strong>, <strong>accurate speed control</strong>, and <strong>energy-efficient performance</strong> across major elevator brands, ensuring long-lasting reliability and safety in vertical transport systems.</p>',
       },
       {
         name: "Inverter 11KW: AS380",
@@ -3199,8 +6394,76 @@ export const products = [
         url: "/inverters/inverter-11kw-as380",
         image: "/img/products/inverters/inverter-11kw-as380/3.jpg",
         slider: ["3", "2", "1"],
+        meta_title:
+          "Elevator Inverter 11KW AS380 High-Performance Lift Drives, UAE",
+        meta_description:
+          "Elevator Inverter 11KW AS380 supports safety and smooth lift motion in Dubai, UAE. Get original spare parts compatible with Otis, Kone, and Hyundai elevators.",
+        keywords:
+          "Elevator Inverter 11KW AS380, elevator inverter supplier Dubai, buy Escalator inverter UAE",
         canonical:
           "https://www.bestechparts.ae/products/inverters/inverter-11kw-as380",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        paragraph_text:
+          '<h2>Elevator Inverter 11KW: AS380 for Reliable Lift Control</h2>\n<p>The <strong>Elevator Inverter 11KW: AS380</strong> is a high-performance integrated drive and controller developed by <strong>Shanghai STEP Electric Corporation</strong>. Designed to manage both motor control and drive functions, it ensures <strong>efficient, stable, and smooth elevator operation</strong>. With advanced <strong>closed-loop vector control</strong> technology, it offers precise motor speed regulation, improved torque balance, and consistent acceleration and braking performance.</p>\n<p>Operating on a <strong>380V AC three-phase input</strong>, the AS380 delivers reliable performance for <strong>mid- to high-capacity elevator systems</strong>. Compact and energy-efficient, it is built for durability and long service life, helping enhance control accuracy, passenger comfort, and operational reliability in modern lifts.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Model:</strong> AS380</li>\n  <li><strong>Power Rating:</strong> 11 KW</li>\n  <li><strong>Manufacturer:</strong> Shanghai STEP Electric Corporation</li>\n  <li><strong>Function:</strong> Integrated Inverter and Controller</li>\n  <li><strong>Input Voltage:</strong> 380V AC (Three-Phase)</li>\n  <li><strong>Control Type:</strong> Closed-Loop Vector Control</li>\n  <li><strong>Application:</strong> Elevator Drive and Motor Control</li>\n</ul>\n<h2>Quality Elevator Inverter Drive Solutions for UAE Systems</h2>\n<p><a href="https://www.bestechelevatorparts.com" target="_blank" rel="noopener noreferrer">Bestech</a> supplies <strong>high-quality elevator inverter drives</strong> in the UAE, engineered for reliable performance, extended durability, and smooth control across all major elevator systems. Each inverter is tested for precision, ensuring safe and efficient operation for both commercial and residential applications.</p>',
+      },
+      {
+        name: "Inverter 5.5KW: NICE-L-C",
+        description: "Type:NICE-L-C-4005",
+        code: "BS-IN0007",
+        url: "/inverters/inverter-5-5kw-nice-l-c",
+        image: "/img/products/inverters/inverter-5-5kw-nice-l-c/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/inverters/inverter-5-5kw-nice-l-c",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "NICE-L-C-4030 30KW",
+        description: "NICE-L-C-4030 30KW",
+        code: "BS-IN0008",
+        url: "/inverters/nice-l-c-4030-30kw",
+        image: "/img/products/inverters/nice-l-c-4030-30kw/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/inverters/nice-l-c-4030-30kw",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "NICE-L-C-4045 45KW",
+        description: "NICE-L-C-4045 45KW",
+        code: "BS-IN0009",
+        url: "/inverters/nice-l-c-4045-45kw",
+        image: "/img/products/inverters/nice-l-c-4045-45kw/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/inverters/nice-l-c-4045-45kw",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Monospace KDL 16L",
+        description: "Kone Monospace KDL16L 12A 400V",
+        code: "BS-IN0010",
+        url: "/inverters/monospace-kdl-16l",
+        image: "/img/products/inverters/monospace-kdl-16l/1.jpg",
+        slider: ["1", "2", "3", "4"],
+        canonical:
+          "https://www.bestechparts.ae/products/inverters/monospace-kdl-16l",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Delta VFD Inverter VFD022E43A 2.2KW",
+        description: "Delta VFD Inverter VFD022E43A 2.2KW",
+        code: "BS-IN0011",
+        url: "/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
+        image:
+          "/img/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -3210,15 +6473,16 @@ export const products = [
     slug: "ard",
     page_name: "ARD",
     code: "BS-AR",
-    canonical: "https://www.bestechparts.ae/products/ard",
     meta_title:
       "Elevator ARD Spare Parts Suppliers UAE | Bestech Dubai Sharjah",
     meta_description:
       "Looking for Elevator ARD spare parts suppliers in UAE? Bestech offers ARD lift spare parts in Dubai, Sharjah & all over UAE with reliable service.",
     keywords:
-      "Elevator ARD spare parts suppliers UAE, Bestech ARD lift spare parts sellers UAE, lift Automatic Rescue Device suppliers Dubai ",
+      "Elevator ARD spare parts suppliers UAE, Bestech ARD lift spare parts sellers UAE, lift Automatic Rescue Device suppliers Dubai",
+    canonical: "https://www.bestechparts.ae/products/ard",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "ARD 7KW: Type:ARD-4007-3P",
@@ -3255,6 +6519,181 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "TMR ARD 3P-7.5KW 380V (TF)",
+        description: "TMR ARD 3P-7.5KW 380V (TF)",
+        code: "BS-AR0004",
+        url: "/ard/tmr-ard-3p-7-5kw-380v-tf",
+        image: "/img/products/ard/ard-3p-75kw-380v-tf/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/ard/tmr-ard-3p-7-5kw-380v-tf",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "TMR ARD 3P-11KW 380V (TF)",
+        description: "TMR ARD 3P-11KW 380V (TF)",
+        code: "BS-AR0005",
+        url: "/ard/tmr-ard-3p-11kw-380v-tf",
+        image: "/img/products/ard/ard-3p-11kw-380v-tf/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/ard/tmr-ard-3p-11kw-380v-tf",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "HH ARD 3P-15KW 380V (TF)",
+        description: "HH ARD 3P-15KW 380V (TF)",
+        code: "BS-AR0006",
+        url: "/ard/hh-ard-3p-15kw-380v-tf",
+        image: "/img/products/ard/ard-3p-15kw-380v-tf/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/ard/hh-ard-3p-15kw-380v-tf",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "TMR ARD 3P-18KW 380V (TF)",
+        description: "TMR ARD 3P-18KW 380V (TF)",
+        code: "BS-AR0007",
+        url: "/ard/tmr-ard-3p-18kw-380v-tf",
+        image: "/img/products/ard/tmr-ard-3p-18kw-380v-tf/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/ard/tmr-ard-3p-18kw-380v-tf",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "HH ARD 3P-22KW 380V (TF)",
+        description: "HH ARD 3P-22KW 380V (TF)",
+        code: "BS-AR0008",
+        url: "/ard/hh-ard-3p-22kw-380v-tf",
+        image: "/img/products/ard/ard-3p-22kw-380v-tf/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/ard/hh-ard-3p-22kw-380v-tf",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "HH ARD 3P-30KW 380V (TF)",
+        description: "HH ARD 3P-30KW 380V (TF)",
+        code: "BS-AR0009",
+        url: "/ard/hh-ard-3p-30kw-380v-tf",
+        image: "/img/products/ard/ard-3p-30kw-380v-tf/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/ard/hh-ard-3p-30kw-380v-tf",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "HH ARD 3P-37KW 380V (TF)",
+        description: "HH ARD 3P-37KW 380V (TF)",
+        code: "BS-AR0010",
+        url: "/ard/hh-ard-3p-37kw-380v-tf",
+        image: "/img/products/ard/ard-3p-37kw-380v-tf/1.jpg",
+
+        canonical:
+          "https://www.bestechparts.ae/products/ard/hh-ard-3p-37kw-380v-tf",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "HH ARD 3P-45KW 380V (TF)",
+        description: "HH ARD 3P-45KW 380V (TF)",
+        code: "BS-AR0011",
+        url: "/ard/hh-ard-3p-45kw-380v-tf",
+        image: "/img/products/ard/ard-3p-45kw-380v-tf/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/ard/hh-ard-3p-45kw-380v-tf",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Battey 12V 7AH",
+        description: "Battey 12V 7AH",
+        code: "BS-AR0012",
+        url: "/ard/battery-12v-7ah",
+        image: "/img/products/ard/battery-12v-7ah/1.jpg",
+        canonical: "https://www.bestechparts.ae/products/ard/battery-12v-7ah",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Battery 12V 9AH",
+        description: "Battery 12V 9AH",
+        code: "BS-AR0013",
+        url: "/ard/battery-12v-9ah",
+        image: "/img/products/ard/battery-12v-9ah/1.jpg",
+        canonical: "https://www.bestechparts.ae/products/ard/battery-12v-9ah",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Battery 12V 12AH",
+        description: "Battery 12V 12AH",
+        code: "BS-AR0014",
+        url: "/ard/battery-12v-12ah",
+        image: "/img/products/ard/battery-12v-12ah/1.jpg",
+        canonical: "https://www.bestechparts.ae/products/ard/battery-12v-12ah",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "UPS 1500VA 900W",
+        description: "UPS 1500VA 900W",
+        code: "BS-AR0015",
+        url: "/ard/ups-1500va-900w",
+        image: "/img/products/ard/ups-1500va-900w/1.jpg",
+        slider: ["1", "2"],
+        canonical: "https://www.bestechparts.ae/products/ard/ups-1500va-900w",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "TMR-ARD-3P-15KW",
+        description: "TMR-ARD-3P-15KW",
+        code: "BS-AR0016",
+        url: "/ard/tmr-ard-3p-15kw",
+        image: "/img/products/ard/tmr-ard-3p-15kw/1.jpg",
+        canonical: "https://www.bestechparts.ae/products/ard/tmr-ard-3p-15kw",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "TMR-ARD-3P-45KW",
+        description: "TMR-ARD-3P-45KW",
+        code: "BS-AR0017",
+        url: "/ard/tmr-ard-3p-45kw",
+        image: "/img/products/ard/tmr-ard-3p-45kw/1.jpg",
+        canonical: "https://www.bestechparts.ae/products/ard/tmr-ard-3p-45kw",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "HH-ARD-18.5KW",
+        description: "HH-ARD-18.5KW",
+        code: "BS-AR0018",
+        url: "/ard/hh-ard-18.5kw",
+        image: "/img/products/ard/hh-ard-18.5kw/1.jpg",
+        slider: ["1", "2"],
+        canonical: "https://www.bestechparts.ae/products/ard/hh-ard-18.5kw",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Inovance ARD 3P 7.5KW",
+        description: "Inovance ARD 3P 7.5KW",
+        code: "BS-AR0019",
+        url: "/ard/inovance-ard-3p-7.5kw",
+        image: "/img/products/ard/inovance-ard-3p-7.5kw/1.jpg",
+        slider: ["1", "2", "3"],
+        canonical:
+          "https://www.bestechparts.ae/products/ard/inovance-ard-3p-7.5kw",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
   {
@@ -3265,11 +6704,12 @@ export const products = [
       "Elevator Door Drives UAE | Lift Door Drive Parts Dubai & Sharjah",
     meta_description:
       "Buy Elevator Door Drives in UAE from trusted suppliers. Lift door drives spare parts sellers in Dubai & Sharjah with quality parts across the UAE.",
-    canonical: "https://www.bestechparts.ae/products/door-drives",
     keywords:
-      "Elevator Door Drives UAE, lift Door Drives spare parts sellers Sharjah, Elevator Door Drive Parts UAE ",
+      "Elevator Door Drives UAE, lift Door Drives spare parts sellers Sharjah, Elevator Door Drive Parts UAE",
+    canonical: "https://www.bestechparts.ae/products/door-drives",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Door Drive",
@@ -3295,6 +6735,128 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "DC Door Drive: 24V",
+        description: "HAS DC Door Drive: 24V",
+        code: "BS-DD0003",
+        url: "/door-drives/dc-door-drive-24v",
+        image: "/img/product-default-img.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/dc-door-drive-24v",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "DC Door Drive - DR2009C 200W",
+        description: "DC Door Drive - DR2009C",
+        code: "BS-DD0004",
+        url: "/door-drives/dc-door-drive-dr2009c-200w",
+        image: "/img/products/door-drives/dc-door-drive-dr2009c-200w/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/dc-door-drive-dr2009c-200w",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door Motor with Encoder PM61842",
+        description: "PM61842 43W",
+        code: "BS-DD0005",
+        url: "/door-drives/door-motor-with-encoder-pm61842",
+        image:
+          "/img/products/door-drives/door-motor-with-encoder-pm61842/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0002",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "KM 10S Door Controller (Box)",
+        description: "Arkel: KM-10S",
+        code: "BS-DD0006",
+        url: "/door-drives/km-10s-door-controller-box",
+        image: "/img/products/door-drives/km-10s-door-controller-box/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/km-10s-door-controller-box",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Door Controller V5+",
+        description: "Fermator: V5+",
+        code: "BS-DD0007",
+        url: "/door-drives/elevator-door-controller-v5",
+        image: "/img/products/door-drives/elevator-door-controller-v5/1.jpg",
+
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/elevator-door-controller-v5",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Door Controller DO3000S",
+        description: "OTIS: DO3000S",
+        code: "BS-DD0008",
+        url: "/door-drives/elevator-door-controller-do3000s",
+        image:
+          "/img/products/door-drives/elevator-door-controller-do3000s/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/elevator-door-controller-do3000s",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door Drive NSFC01-02",
+        description: "NBSL NSFC01-02",
+        code: "BS-DD0009",
+        url: "/door-drives/door-drive-nsfc01-02",
+        image: "/img/products/door-drives/door-drive-nsfc01-02/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/door-drive-nsfc01-02",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Door Motor YVP90-6",
+        description: "Elevator Door Motor YVP90-6",
+        code: "BS-DD0010",
+        url: "/door-drives/elevator-door-motor-yvp90-6",
+        image: "/img/products/door-drives/elevator-door-motor-yvp90-6/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Elevator Door Motor YVP90-6B1",
+        description: "Elevator Door Motor YVP90-6B1",
+        code: "BS-DD0011",
+        url: "/door-drives/elevator-door-motor-yvp90-6b1",
+        image: "/img/products/door-drives/elevator-door-motor-yvp90-6b1/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6b1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door Motor GR63X55 24VDC Dunkermotoren",
+        description: "Door Motor GR63X55 24VDC Dunkermotoren",
+        code: "BS-DD0012",
+        url: "/door-drives/door-motor-gr63x55-24vdc-dunkermotoren",
+        image:
+          "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/1.jpeg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6b1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
 
@@ -3310,6 +6872,7 @@ export const products = [
     canonical: "https://www.bestechparts.ae/products/signalization",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "LOP - UP and Down",
@@ -3383,6 +6946,286 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "Step LOP set: UP + Lock",
+        description: "",
+        code: "BS-SG0007",
+        url: "/signalization/step-lop-set-up-lock",
+        image: "/img/products/signalization/step-lop-set-up-lock/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Step LOP set: UP + Down",
+        description: "",
+        code: "BS-SG0008",
+        url: "/signalization/step-lop-set-up-down",
+        image: "/img/products/signalization/step-lop-set-up-lock/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Step LOP set: Down",
+        description: "",
+        code: "BS-SG0009",
+        url: "/signalization/step-lop-set-down",
+        image: "/img/products/signalization/step-lop-set-down/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/step-lop-set-down",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Duplex set: UP + Down",
+        description: "",
+        code: "BS-SG0010",
+        url: "/signalization/duplex-set-up-down",
+        image: "/img/products/signalization/duplex-set-up-down/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/duplex-set-up-down",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "COP Full set - G+1",
+        description: "Monarch COP G+1",
+        code: "BS-SG0011",
+        url: "/signalization/cop-full-set-g-1",
+        image: "/img/products/signalization/cop-full-set-g-1/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/cop-full-set-g-1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "COP Full set - G+3",
+        description: "Monarch COP G+3",
+        code: "BS-SG0012",
+        url: "/signalization/cop-full-set-g-3",
+        image: "/img/products/signalization/cop-full-set-g-3/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/cop-full-set-g-3",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Mikrolift - SS LOP full set",
+        description: "Mikrolift - SS LOP full set",
+        code: "BS-SG0013",
+        url: "/signalization/mikrolift-ss-lop-full-set",
+        image: "/img/products/signalization/mikrolift-ss-lop-full-set/1.jpeg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/mikrolift-ss-lop-full-set",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "F-K12 Access control system",
+        description: "F-K12 Access control system ",
+        code: "BS-SG0014",
+        url: "/signalization/f-k12-access-control-system",
+        image: "/img/products/signalization/f-k12-access-control-system/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/f-k12-access-control-system",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCGCM001 SS Hairline - COP G+2",
+        description: "BCGCM001 SS Hairline - COP G+2",
+        code: "BS-SG0015",
+        url: "/signalization/bcgcm001-ss-hairline-cop-g2",
+        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g2",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCGCM001 SS Hairline - COP G+4",
+        description: "BCGCM001 SS Hairline - COP G+4",
+        code: "BS-SG0016",
+        url: "/signalization/bcgcm001-ss-hairline-cop-g4",
+        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g4",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BXGFM019 SS Hairline - LOP",
+        description: "BXGFM019 SS Hairline - LOP",
+        code: "BS-SG0017",
+        url: "/signalization/bxgfm019-ss-hairline-lop",
+        image: "/img/products/signalization/bxgfm019-ss-hairline-lop/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bxgfm019-ss-hairline-lop",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCGBF001 SS Hairline - COP G+1",
+        description: "BCGBF001 SS Hairline - COP G+1",
+        code: "BS-SG0018",
+        url: "/signalization/bcgbf001-ss-hairline-cop-g1",
+        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCGBF001 SS Hairline - COP G+3",
+        description: "BXGAS004 SS Hairline - COP G+3",
+        code: "BS-SG0019",
+        url: "/signalization/bcgbf001-ss-hairline-cop-g3",
+        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g3",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BXGAS004 SS Hairline - LOP",
+        description: "BXGAS004 SS Hairline - LOP",
+        code: "BS-SG0020",
+        url: "/signalization/bxgas004-ss-hairline-lop",
+        image: "/img/products/signalization/bxgas004-ss-hairline-lop/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bxgas004-ss-hairline-lop",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCG401 black glass - COP G+2",
+        description: "BCG401 black glass - COP G+2",
+        code: "BS-SG0021",
+        url: "/signalization/bcg401-black-glass-cop-g2",
+        image: "/img/products/signalization/bcg401-black-glass-cop-g2/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g2",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCG401 black glass - COP G+4",
+        description: "BCG401 black glass - COP G+4",
+        code: "BS-SG0022",
+        url: "/signalization/bcg401-black-glass-cop-g4",
+        image: "/img/products/signalization/bcg401-black-glass-cop-g4/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g4",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BXGDM007 black glass - LOP",
+        description: "BXGDM007 black - LOP",
+        code: "BS-SG0023",
+        url: "/signalization/bxgdm007-black-glass-lop",
+        image: "/img/products/signalization/bxgdm007-black-glass-lop/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bxgdm007-black-glass-lop",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCG401 white glass - COP G+1",
+        description: "BCG401 white glass - COP G+1",
+        code: "BS-SG0024",
+        url: "/signalization/bcg401-white-glass-cop-g1",
+        image: "/img/products/signalization/bcg401-white-glass-cop-g1/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCG401 white glass - COP G+3",
+        description: "BCG401 white glass - COP G+3",
+        code: "BS-SG0025",
+        url: "/signalization/bcg401-white-glass-cop-g3",
+        image: "/img/products/signalization/bcg401-white-glass-cop-g3/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g3",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BXGDM007 white glass - LOP",
+        description: "BXGDM007 white glass - LOP",
+        code: "BS-SG0026",
+        url: "/signalization/bxgdm007-white-glass-lop",
+        image: "/img/products/signalization/bxgdm007-white-glass-lop/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bxgdm007-white-glass-lop",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Full LOP set - HPI-L0430VRI-1",
+        description: "XIZI OTIS LOP set - HPI-L0430VRI-1",
+        code: "BS-SG0027",
+        url: "/signalization/full-lop-set-hpi-l0430vri-1",
+        image: "/img/products/signalization/full-lop-set-hpi-l0430vri-1/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/full-lop-set-hpi-l0430vri-1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "White LOP Full set ",
+        description: "Schindler LOP full set (3 types)",
+        code: "BS-SG0028",
+        url: "/signalization/white-lop-full-set",
+        image: "/img/products/signalization/white-lop-full-set/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/white-lop-full-set",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "White LOP Full set - Without display",
+        description: "Schindler LOP - Without display",
+        code: "BS-SG0029",
+        url: "/signalization/white-lop-full-set-without-display",
+        image:
+          "/img/products/signalization/white-lop-full-set-without-display/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/white-lop-full-set-without-display",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCG451 Black Glass COP G+1",
+        description: "BCG451 Black Glass COP G+1",
+        code: "BS-SG0030",
+        url: "/signalization/bcg451-black-glass-cop-g1",
+        image: "/img/products/signalization/bcg451-black-glass-cop-g1/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-cop-g1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BCG451 Black Glass LOP",
+        description: "BCG451 Black Glass LOP",
+        code: "BS-SG0031",
+        url: "/signalization/bcg451-black-glass-lop",
+        image: "/img/products/signalization/bcg451-black-glass-lop/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-lop",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
   {
@@ -3392,11 +7235,12 @@ export const products = [
     meta_title: "Elevator Displays UAE | LCD Display Units Sharjah & Dubai",
     meta_description:
       "Elevator displays UAE for lifts. Buy LCD display units in Sharjah and Dubai with Bestech Elevator Displays. Quality spare parts available across the UAE.",
-    canonical: "https://www.bestechparts.ae/products/displays",
     keywords:
-      "elevator displays UAE, Elevator lcd display sharjah, Bestech Elevator Displays UAE, Elevator Display Units UAE,",
+      "elevator displays UAE, Elevator lcd display sharjah, Bestech Elevator Displays UAE, Elevator Display Units UAE",
+    canonical: "https://www.bestechparts.ae/products/displays",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "COP Display - Green: MCTC-HCB-R1",
@@ -3503,7 +7347,114 @@ export const products = [
         image: "/img/products/displays/lcd-display-sftc-hcb-sl-blue/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/displays/indicator-display",
+          "https://www.bestechparts.ae/products/displays/lcd-display-sftc-hcb-sl-blue",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "COP display Horizontal - CV-CCB-D5-SX",
+        description: "CV-CCB-D5-SX",
+        code: "BS-DI0010",
+        url: "/displays/cop-display-horizontal-cv-ccb-d5-sx",
+        image:
+          "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/displays/cop-display-horizontal-cv-ccb-d5-sx",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Vertical segment display - CILVLE CV-D5",
+        description: "CILVLE CV-D5",
+        code: "BS-DI0011",
+        url: "/displays/vertical-segment-display-cilvle-cv-d5",
+        image:
+          "/img/products/displays/vertical-segment-display-cilvle-cv-d5/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/displays/vertical-segment-display-cilvle-cv-d5",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Display MCTC-HCB-U673",
+        description: "Monarch: MCTC-HCB-U673",
+        code: "BS-DI0012",
+        url: "/displays/display-mctc-hcb-u673",
+        image: "/img/products/displays/display-mctc-hcb-u673/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/displays/display-mctc-hcb-u673",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "KS208 - 7 Segment indicator with arrows",
+        description: "KS208 - 7 Segment with arrows",
+        code: "BS-DI0013",
+        url: "/displays/ks208-7-segment-indicator-with-arrows",
+        image:
+          "/img/products/displays/ks208-7-segment-indicator-with-arrows/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/ks208-7-segment-indicator-with-arrows",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "KS308 - 7 Segment indicator Single",
+        description: "KS308 - 7 Segment Single",
+        code: "BS-DI0014",
+        url: "/displays/ks308-7-segment-indicator-single",
+        image: "/img/products/displays/ks308-7-segment-indicator-single/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/ks308-7-segment-indicator-single",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Display Vertical - MCTC-HCB-T647",
+        description: "MCTC-HCB-T647",
+        code: "BS-DI0015",
+        url: "/displays/display-vertical-mctc-hcb-t647",
+        image: "/img/products/displays/display-vertical-mctc-hcb-t647/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/displays/display-vertical-mctc-hcb-t647",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Display Horizontal - MCTC-HCB-U672",
+        description: "MCTC-HCB-U672",
+        code: "BS-DI0016",
+        url: "/displays/display-horizontal-mctc-hcb-u672",
+        image: "/img/products/displays/display-horizontal-mctc-hcb-u672/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/displays/display-horizontal-mctc-hcb-u672",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "BC-D3X INDICATOR (RED)",
+        description: "Arkel: BC-D3X INDICATOR (RED)",
+        code: "BS-DI0017",
+        url: "/displays/bc-d3x-indicator-red",
+        image: "/img/products/displays/bc-d3x-indicator-red/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/displays/bc-d3x-indicator-red",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "STEP: Display Board SM.04V16",
+        description: "STEP: Display Board SM.04V16",
+        code: "BS-DI0018",
+        url: "/displays/step-display-board-sm-04v16",
+        image: "/img/products/displays/step-display-board-sm-04v16/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/displays/step-display-board-sm-04v16",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -3517,11 +7468,12 @@ export const products = [
     meta_title: "Elevator PCB Boards UAE | Command Boards Dubai & Sharjah",
     meta_description:
       "Elevator PCB boards UAE for lifts. Order elevator command boards in Sharjah and Dubai. Bestech provides quality PCB spare parts for elevators all over UAE.",
-    canonical: "https://www.bestechparts.ae/products/pcb-boards",
     keywords:
       "Elevator PCB Boards UAE, elevator pcb board dubai, elevator command board sharjah, Elevator Spare Parts PCB Boards",
+    canonical: "https://www.bestechparts.ae/products/pcb-boards",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Car top board: MCTC-CTB-A",
@@ -3596,6 +7548,180 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "ML65X (Lift Controller)",
+        description: "ML65X",
+        code: "BS-PB0007",
+        url: "/pcb-boards/ml65x-lift-controller",
+        image: "/img/products/pcb-boards/ml65x-lift-controller/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/ml65x-lift-controller",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "MLSERI65 (Serial Communication Card)",
+        description: "MLSERI65",
+        code: "BS-PB0008",
+        url: "/pcb-boards/mlseri65-serial-communication-card",
+        image:
+          "/img/products/pcb-boards/mlseri65-serial-communication-card/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/mlseri65-serial-communication-card",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "MLKR1 (Door Bridging Card)",
+        description: "MLKR1",
+        code: "BS-PB0009",
+        url: "/pcb-boards/mlkr1-door-bridging-card",
+        image: "/img/products/pcb-boards/mlkr1-door-bridging-card/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/mlkr1-door-bridging-card",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "LIFT CONTROLLER SET ARL-300",
+        description: "Arkel: ARL-300",
+        code: "BS-PB0010",
+        url: "/pcb-boards/lift-controller-set-arl-300",
+        image: "/img/products/pcb-boards/lift-controller-set-arl-300/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/lift-controller-set-arl-300",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "DHG-161 Hoistway Communication Board",
+        description: "DHG-161 OTIS Sigma PCB",
+        code: "BS-PB0011",
+        url: "/pcb-boards/dhg-161-hoistway-communication-board",
+        image:
+          "/img/products/pcb-boards/dhg-161-hoistway-communication-board/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/dhg-161-hoistway-communication-board",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Step Motherboard SM.01 F5021",
+        description: "Step Motherboard SM.01 F5021",
+        code: "BS-PB0012",
+        url: "/pcb-boards/step-motherboard-sm01-f5021",
+        image: "/img/products/pcb-boards/step-motherboard-sm01-f5021/1.jpg",
+        slider: ["1", "2", "3"],
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/step-motherboard-sm01-f5021",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "AS380 Communication Board SM.02/G",
+        description: "SM.02/G",
+        code: "BS-PB0013",
+        url: "/pcb-boards/as380-communication-board-sm02g",
+        image: "/img/products/pcb-boards/as380-communication-board-sm02g/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/as380-communication-board-sm02g",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Group control board: MCTC-GCB-B2",
+        description: "Monarch: MCTC-GCB-B2 (4 lifts)",
+        code: "BS-PB0014",
+        url: "/pcb-boards/group-control-board-mctc-gcb-b2",
+        image: "/img/products/pcb-boards/group-control-board-mctc-gcb-b2/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/group-control-board-mctc-gcb-b2",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "PCB Power Board: Zws30-12/J PWB-655h",
+        description: "Mitsubishi: Zws30-12/J PWB-655h",
+        code: "BS-PB0015",
+        url: "/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
+        image:
+          "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Step SM-02 D (5021)",
+        description: " Step SM-02 D (5021)",
+        code: "BS-PB0016",
+        url: "/pcb-boards/step-sm02-d-5021",
+        image: "/img/products/pcb-boards/step-sm02-d-5021/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/step-sm02-d-5021",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "MCTC-MCB-C2",
+        description: "Monarch: MCTC-MCB-C2",
+        code: "BS-PB0017",
+        url: "/pcb-boards/mctc-mcb-c2",
+        image: "/img/products/pcb-boards/mctc-mcb-c2/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c2",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+
+      {
+        name: "MCTC-MCB-C3",
+        description: "Monarch: MCTC-MCB-C3",
+        code: "BS-PB0018",
+        url: "/pcb-boards/mctc-mcb-c3",
+        image: "/img/products/pcb-boards/mctc-mcb-c3/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c3",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "MNK Bluetooth",
+        description: "MNK Bluetooth",
+        code: "BS-PB0019",
+        url: "/pcb-boards/mnk-bluetooth",
+        image: "/img/products/pcb-boards/mnk-bluetooth/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/mnk-bluetooth",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "MCTC-CCB-B COP Board",
+        description: "MCTC-CCB-B COP Board",
+        code: "BS-PB0021",
+        url: "/pcb-boards/mctc-ccb-b-cop-board",
+        image: "/img/products/pcb-boards/mctc-ccb-b-cop-board/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/mctc-ccb-b-cop-board",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "FAA23600AB1 - Arrival Gong PCB",
+        description: "FAA23600AB1 - Arrival Gong PCB OTIS",
+        code: "BS-PB0022",
+        url: "/pcb-boards/arrival-gong-pcb-faa23600ab1",
+        image: "/img/products/pcb-boards/arrival-gong-pcb-faa23600ab1/1.jpeg",
+        canonical:
+          "https://www.bestechparts.ae/products/pcb-boards/arrival-gong-pcb-faa23600ab1",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
   {
@@ -3605,11 +7731,12 @@ export const products = [
     meta_title: "Elevator Tool Kits UAE | Lift Maintenance Tools Dubai Sharjah",
     meta_description:
       "Buy elevator maintenance tool kits in the UAE with durable lift tools. Professional kits available in Sharjah and Dubai from Bestech, with spare parts across the UAE.",
-    canonical: "https://www.bestechparts.ae/products/tool-kits",
     keywords:
       "Elevator Maintenance Tool Kits UAE, Lift Tool Kits Sharjah, Elevator Tool Kits UAE, Elevator Spare Parts Tool Kits UAE",
+    canonical: "https://www.bestechparts.ae/products/tool-kits",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "K-Tool kit",
@@ -3643,6 +7770,18 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "DOA-100+ Tool Kit",
+        description: "Sigma DOA-100+ ",
+        code: "BS-TL0004",
+        url: "/tool-kits/doa-100-tool-kit",
+        image: "/img/products/tool-kits/doa-100-tool-kit/1.jpg",
+        slider: ["1", "2"],
+        canonical:
+          "https://www.bestechparts.ae/products/tool-kits/doa-100-tool-kit",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
     ],
   },
   {
@@ -3652,11 +7791,12 @@ export const products = [
     meta_title: "Elevator Keys UAE | Spare Parts & Control Keys Dubai Sharjah",
     meta_description:
       "Get elevator spare parts keys for lifts across the UAE. Control keys, emergency keys, and key components supplied in Dubai and Sharjah by Bestech.",
-    canonical: "https://www.bestechparts.ae/products/keys",
     keywords:
       "Elevator Spare Parts Keys UAE, Keys for Elevators Dubai, elevator key set Sharjah, elevator control keys dubai, Elevator Key Components Sharjah, elevator emergency key UAE, Elevator Maintenance Keys UAE",
+    canonical: "https://www.bestechparts.ae/products/keys",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+
     items: [
       {
         name: "Door open key",
@@ -3706,6 +7846,49 @@ export const products = [
         url: "/keys/h-key",
         image: "/img/products/keys/h-key/1.jpg",
         canonical: "https://www.bestechparts.ae/products/keys/h-key",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "SJ Black Control Cabinet key",
+        description: "Kone Control cabinet key",
+        code: "BS-KY0006",
+        url: "/keys/sj-black-control-cabinet-key",
+        image: "/img/products/keys/sj-black-control-cabinet-key/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/keys/sj-black-control-cabinet-key",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Type A key",
+        description: "Kone COP Key",
+        code: "BS-KY0007",
+        url: "/keys/type-a-key",
+        image: "/img/products/keys/type-a-key/1.jpg",
+        canonical: "https://www.bestechparts.ae/products/type-a-key",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Mitsubishi Door open Key",
+        description: "Yellow handle key",
+        code: "BS-KY0008",
+        url: "/keys/mitsubishi-door-open-key",
+        image: "/img/products/keys/mitsubishi-door-open-key/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/keys/mitsubishi-door-open-key",
+        robots:
+          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      },
+      {
+        name: "Door Key 1000mm K",
+        description: "Door Key 1000mm K",
+        code: "BS-KY0009",
+        url: "/keys/door-key-1000mm-k",
+        image: "/img/products/keys/door-key-1000mm-k/1.jpg",
+        canonical:
+          "https://www.bestechparts.ae/products/keys/door-key-1000mm-k",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
