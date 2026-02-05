@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Script from "next/script"; // ✅ ADD THIS
 import data from "~/db/blogsData.json";
 import PageHeader from "~/components/Section/Common/PageHeader";
 import {
@@ -9,11 +10,11 @@ import {
   FaClock,
   FaArrowRight,
   FaFacebookF,
-  FaTwitter,
   FaLinkedinIn,
   FaWhatsapp,
 } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
+
 const categories = [
   "Motors & Drives",
   "Control Panels",
@@ -50,12 +51,34 @@ export default function BlogContent({ slug }) {
 
   return (
     <>
-      <PageHeader title={blog.title} />
+      {/* ✅ FAQ SCHEMA — PAGE SPECIFIC */}
+      {blog.faq && blog.faq.length > 0 && (
+        <Script
+          id={`faq-schema-${blog.link}`}
+          type="application/ld+json"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              mainEntity: blog.faq.map((item) => ({
+                "@type": "Question",
+                name: item.question,
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: item.answer,
+                },
+              })),
+            }),
+          }}
+        />
+      )}
 
-      {/* Breadcrumb */}
+      <PageHeader title={blog.title} />
 
       <section className="blog-details padding" id="blog-cta">
         <div className="container">
+          {/* Breadcrumb */}
           <nav aria-label="breadcrumb" className="mb-4">
             <ol className="breadcrumb">
               <li className="breadcrumb-item">
@@ -74,6 +97,7 @@ export default function BlogContent({ slug }) {
             </ol>
           </nav>
         </div>
+
         <div className="container">
           <div className="row justify-content-start">
             {/* Main Blog */}
@@ -87,13 +111,13 @@ export default function BlogContent({ slug }) {
                       className="img-fluid"
                     />
                   </div>
+
                   <div className="blog-standard-page__single-content">
-                    {/* <h2>{blog.title}</h2> */}
                     {blog.paragraph.map((item, index) => (
                       <div
                         key={index}
                         dangerouslySetInnerHTML={{ __html: item }}
-                        className="mb-3 "
+                        className="mb-3"
                       />
                     ))}
 
@@ -106,9 +130,9 @@ export default function BlogContent({ slug }) {
                           onClick={() =>
                             window.open(
                               `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-                                currentURL
+                                currentURL,
                               )}`,
-                              "_blank"
+                              "_blank",
                             )
                           }
                         >
@@ -120,9 +144,9 @@ export default function BlogContent({ slug }) {
                           onClick={() =>
                             window.open(
                               `https://twitter.com/intent/tweet?url=${encodeURIComponent(
-                                currentURL
+                                currentURL,
                               )}&text=${encodeURIComponent(blog.title)}`,
-                              "_blank"
+                              "_blank",
                             )
                           }
                         >
@@ -134,9 +158,9 @@ export default function BlogContent({ slug }) {
                           onClick={() =>
                             window.open(
                               `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
-                                currentURL
+                                currentURL,
                               )}`,
-                              "_blank"
+                              "_blank",
                             )
                           }
                         >
@@ -148,9 +172,9 @@ export default function BlogContent({ slug }) {
                           onClick={() =>
                             window.open(
                               `https://api.whatsapp.com/send?text=${encodeURIComponent(
-                                blog.title + " " + currentURL
+                                blog.title + " " + currentURL,
                               )}`,
-                              "_blank"
+                              "_blank",
                             )
                           }
                         >
@@ -197,21 +221,15 @@ export default function BlogContent({ slug }) {
                 {/* Categories */}
                 <div className="card mb-4 p-3 shadow-sm">
                   <p className="card-title mb-2 d-flex align-items-center gap-1">
-                    <FaFolderOpen className="text-blue-600" /> Categories
+                    <FaFolderOpen /> Categories
                   </p>
-                  <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {categories.map((cat, index) => (
-                      <li
-                        key={index}
-                        className="mb-2 d-flex align-items-center gap-1"
-                      >
-                        <FaArrowRight className="text-gray-500" />
+                      <li key={index}>
                         <Link
                           href={`/category/${cat
                             .toLowerCase()
                             .replace(/ /g, "-")}`}
-                          className="text-blue-600 hover:underline"
                         >
                           {cat}
                         </Link>
@@ -223,22 +241,12 @@ export default function BlogContent({ slug }) {
                 {/* Recent Posts */}
                 <div className="card mb-4 p-3 shadow-sm">
                   <p className="card-title mb-2 d-flex align-items-center gap-1">
-                    <FaClock className="text-blue-600" /> Recent Posts
+                    <FaClock /> Recent Posts
                   </p>
-                  <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {recentPosts.map((post, index) => (
-                      <li
-                        key={index}
-                        className="mb-2 d-flex align-items-center gap-1"
-                      >
-                        <FaArrowRight className="text-gray-500" />
-                        <Link
-                          href={`/blog/${post.link}`}
-                          className="text-blue-600 hover:underline"
-                        >
-                          {post.title}
-                        </Link>
+                      <li key={index}>
+                        <Link href={`/blog/${post.link}`}>{post.title}</Link>
                       </li>
                     ))}
                   </ul>
