@@ -3,6 +3,8 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import QuoteForm from "@/components/Section/Common/QuoteForm/QuoteForm";
 import { Modal, Button } from "react-bootstrap";
+import { useRouter } from "next/navigation";
+import products from "@/db/products.json";
 
 const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
@@ -14,6 +16,33 @@ const Header = () => {
 
   const [quoteMessage, setQuoteMessage] = useState("");
   const [showQuoteSuccess, setShowQuoteSuccess] = useState(false);
+  const router = useRouter();
+  const [searchQuery, setSearchQuery] = useState("");
+
+  // Flatten all products
+  const allProducts = products.flatMap((category) => category.items);
+
+  // Filter products
+  const searchResults = allProducts.filter(
+    (item) =>
+      item.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      item.code.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      item.description.toLowerCase().includes(searchQuery.toLowerCase()),
+  );
+
+  // Navigate to product page
+  const handleSearchNavigate = (url) => {
+    setIsActive(false);
+    setSearchQuery("");
+    document.body.classList.remove("locked");
+
+    // Ensure products prefix
+    const finalUrl = url.startsWith("/products")
+      ? url
+      : `/products${url.startsWith("/") ? url : `/${url}`}`;
+
+    router.push(finalUrl);
+  };
 
   const handleQuoteSuccess = (message) => {
     setShow(false); // Close the form modal
@@ -845,22 +874,41 @@ const Header = () => {
             <span className="icon-plus"></span>
           </div>
         </div>
+
         <div className="search-popup__content">
-          <form action="#">
-            <label htmlFor="search" className="sr-only">
-              search here
-            </label>
-            <input type="text" id="search" placeholder="Search Here..." />
-            <button
-              type="submit"
-              aria-label="search submit"
-              className="btn-box"
-            >
-              <i className="icon-magnifying-glass"></i>
-            </button>
-          </form>
+          <label htmlFor="search" className="sr-only">
+            search here
+          </label>
+
+          <input
+            type="text"
+            id="search"
+            placeholder="Search products..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
+
+          {searchQuery && (
+            <ul className="search-results">
+              {searchResults.length > 0 ? (
+                searchResults.map((item, index) => (
+                  <li
+                    key={index}
+                    className="search-item"
+                    onClick={() => handleSearchNavigate(item.url)}
+                  >
+                    <div className="search-item-name">{item.name}</div>
+                    <div className="search-item-code">{item.code}</div>
+                  </li>
+                ))
+              ) : (
+                <li className="no-result">No products found</li>
+              )}
+            </ul>
+          )}
         </div>
       </div>
+
       <Modal
         show={showQuoteSuccess}
         onHide={() => setShowQuoteSuccess(false)}

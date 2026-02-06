@@ -588,7 +588,9 @@ h6 {
   background-color: var(--thm-primary-color);
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
-  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+  transition:
+    transform 0.4s ease,
+    -webkit-transform 0.4s ease;
   transform-origin: bottom right;
   -webkit-transform: scale(1, 0);
   transform: scale(1, 0);
@@ -737,10 +739,18 @@ label {
   align-items: center;
   -webkit-transform: translateY(-110%);
   transform: translateY(-110%);
-  -webkit-transition: opacity 500ms ease, -webkit-transform 500ms ease;
-  transition: opacity 500ms ease, -webkit-transform 500ms ease;
-  transition: transform 500ms ease, opacity 500ms ease;
-  transition: transform 500ms ease, opacity 500ms ease,
+  -webkit-transition:
+    opacity 500ms ease,
+    -webkit-transform 500ms ease;
+  transition:
+    opacity 500ms ease,
+    -webkit-transform 500ms ease;
+  transition:
+    transform 500ms ease,
+    opacity 500ms ease;
+  transition:
+    transform 500ms ease,
+    opacity 500ms ease,
     -webkit-transform 500ms ease;
 }
 
@@ -794,7 +804,8 @@ label {
   max-width: 560px;
 }
 
-.search-popup__content form {
+.search-popup__content form,
+.search-popup__content {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -807,7 +818,9 @@ label {
 }
 
 .search-popup__content form input[type="search"],
-.search-popup__content form input[type="text"] {
+.search-popup__content form input[type="text"],
+.search-popup__content input[type="search"],
+.search-popup__content input[type="text"] {
   width: 100%;
   background-color: var(--thm-white);
   font-size: 16px;
@@ -1575,7 +1588,9 @@ label {
   background-color: var(--thm-secondary);
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
-  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+  transition:
+    transform 0.4s ease,
+    -webkit-transform 0.4s ease;
   transform-origin: top right;
   -webkit-transform: scale(1, 0);
   transform: scale(1, 0);
@@ -1654,7 +1669,9 @@ label {
   background-color: var(--thm-secondary);
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
-  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+  transition:
+    transform 0.4s ease,
+    -webkit-transform 0.4s ease;
   transform-origin: bottom right;
   -webkit-transform: scale(1, 0);
   transform: scale(1, 0);
@@ -2101,7 +2118,9 @@ label {
   background-color: var(--thm-secondary);
   transition: -webkit-transform 0.5s ease;
   transition: transform 0.5s ease;
-  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  transition:
+    transform 0.5s ease,
+    -webkit-transform 0.5s ease;
   transform-origin: top right;
   -webkit-transform: scale(1, 0);
   transform: scale(1, 0);
@@ -4413,7 +4432,9 @@ Project Two
   );
   transition: -webkit-transform 0.6s ease;
   transition: transform 0.6s ease;
-  transition: transform 0.6s ease, -webkit-transform 0.6s ease;
+  transition:
+    transform 0.6s ease,
+    -webkit-transform 0.6s ease;
   transform-origin: bottom right;
   -webkit-transform: scale(1, 0);
   transform: scale(1, 0);
@@ -6636,4 +6657,36 @@ Project Two Project Details
 }
 .seo-content ul li {
   list-style: disc;
+}
+.search-results {
+  margin-top: 15px;
+  list-style: none;
+  padding: 0;
+  max-height: 300px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.search-item {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+.search-item:hover {
+  background: #f5f5f5;
+}
+
+.search-item-name {
+  font-weight: 600;
+}
+
+.search-item-code {
+  font-size: 12px;
+  color: #777;
+}
+
+.no-result {
+  padding: 10px;
+  color: red;
 }
