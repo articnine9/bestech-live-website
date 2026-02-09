@@ -883,9 +883,15 @@ const Header = () => {
           <input
             type="text"
             id="search"
+            name="search-field"
             placeholder="Search products..."
             value={searchQuery}
+            readOnly
+            onFocus={(e) => e.target.removeAttribute("readonly")}
             onChange={(e) => setSearchQuery(e.target.value)}
+            autoComplete="off"
+            autoCorrect="off"
+            spellCheck="false"
           />
 
           {searchQuery && (

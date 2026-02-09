@@ -3675,19 +3675,7 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
-      {
-        name: "Traction sheave: 605*3*12 S",
-        description: "Sigma sheave: 605*3*12 S",
-        code: "BS-ME0025",
-        url: "/mechanical/traction-sheave-605-3-12-s",
-        image: "/img/products/mechanical/traction-sheave-605-3-12-s/1.jpg",
-        slider: ["1", "2"],
-        meta_title: "",
-        meta_description: "",
-        keywords: "",
-        robots:
-          "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-      },
+
       {
         name: "Traction sheave: 605*4*12 S",
         description: "Sigma sheave: 605*4*12 S",

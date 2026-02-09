@@ -65,16 +65,33 @@ export default async function sitemap() {
     }
   });
 
-  // 3️⃣ Brands
+  // 3️⃣ Brands + Brand Groups
   const brands = await getAllBrands();
+
   brands.forEach((brand) => {
-    if (brand?.slug) {
-      const brandUrl = `${baseUrl}/brands/${brand.slug}`;
-      urls.push({
-        url: brandUrl,
-        lastModified: new Date().toISOString(),
+    if (!brand?.slug) return;
+
+    // Brand main page
+    const brandUrl = `${baseUrl}/brands/${brand.slug}`;
+    urls.push({
+      url: brandUrl,
+      lastModified: new Date().toISOString(),
+    });
+    console.log("Brand added:", brandUrl);
+
+    // Brand group pages (IMPORTANT PART)
+    if (Array.isArray(brand.groups)) {
+      brand.groups.forEach((group) => {
+        if (!group?.slug) return;
+
+        const groupUrl = `${baseUrl}/brands/${brand.slug}/${group.slug}`;
+        urls.push({
+          url: groupUrl,
+          lastModified: new Date().toISOString(),
+        });
+
+        console.log("Brand group added:", groupUrl);
       });
-      console.log("Brand added:", brandUrl);
     }
   });
 
