@@ -52,27 +52,28 @@ export default function BlogContent({ slug }) {
   return (
     <>
       {/* ✅ FAQ SCHEMA — PAGE SPECIFIC */}
-      {blog.faq && blog.faq.length > 0 && (
-        <Script
-          id={`faq-schema-${blog.link}`}
-          type="application/ld+json"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "FAQPage",
-              mainEntity: blog.faq.map((item) => ({
-                "@type": "Question",
-                name: item.question,
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: item.answer,
-                },
-              })),
-            }),
-          }}
-        />
-      )}
+     {blog?.faq?.length > 0 && (
+  <Script
+    id="faq-schema"
+    type="application/ld+json"
+    strategy="beforeInteractive"
+    dangerouslySetInnerHTML={{
+      __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: blog.faq.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answer.replace(/<[^>]*>?/gm, ""),
+          },
+        })),
+      }),
+    }}
+  />
+)}
+
 
       <PageHeader title={blog.title} />
 
