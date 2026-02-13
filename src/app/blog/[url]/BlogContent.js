@@ -52,28 +52,27 @@ export default function BlogContent({ slug }) {
   return (
     <>
       {/* ✅ FAQ SCHEMA — PAGE SPECIFIC */}
-     {blog?.faq?.length > 0 && (
-  <Script
-    id="faq-schema"
-    type="application/ld+json"
-    strategy="beforeInteractive"
-    dangerouslySetInnerHTML={{
-      __html: JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        mainEntity: blog.faq.map((item) => ({
-          "@type": "Question",
-          name: item.question,
-          acceptedAnswer: {
-            "@type": "Answer",
-            text: item.answer.replace(/<[^>]*>?/gm, ""),
-          },
-        })),
-      }),
-    }}
-  />
-)}
-
+      {blog?.faq?.length > 0 && (
+        <Script
+          id="faq-schema"
+          type="application/ld+json"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              mainEntity: blog.faq.map((item) => ({
+                "@type": "Question",
+                name: item.question,
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: item.answer.replace(/<[^>]*>?/gm, ""),
+                },
+              })),
+            }),
+          }}
+        />
+      )}
 
       <PageHeader title={blog.title} />
 
@@ -108,7 +107,7 @@ export default function BlogContent({ slug }) {
                   <div className="blog-standard-page__single-img mb-3">
                     <img
                       src={blog.image}
-                      alt={blog.title}
+                      alt={blog.alttext ? blog.alttext : blog.title}
                       className="img-fluid"
                     />
                   </div>
@@ -196,8 +195,9 @@ export default function BlogContent({ slug }) {
                           <img
                             src={post.image}
                             className="card-img-top"
-                            alt={post.title}
+                            alt={post.alttext || post.title}
                           />
+
                           <div className="card-body">
                             <h3 className="card-title">
                               <Link
