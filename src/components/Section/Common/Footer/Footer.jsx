@@ -20,7 +20,7 @@ const Footer = () => {
             <div className="footer-one__top-inner">
               <div className="logo-box">
                 <Link href="/">
-                  <BrandLogo imageSrc="/img/bestect-white-logo.png" />
+                  <BrandLogo imageSrc="/img/bestect-white-logo.webp" />
                 </Link>
               </div>
               <div className="footer-one__top-right">
