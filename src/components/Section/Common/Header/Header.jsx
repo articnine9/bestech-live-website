@@ -103,7 +103,7 @@ const Header = () => {
             <div className="container">
               <div className="mobile_div">
                 <Link href="/" className="logo w-100 d-md-none">
-                  <img src="/img/bestect-logo.png" alt="Logo" />
+                  <img src="/img/bestect-logo.webp" alt="Logo" />
                 </Link>
 
                 <div className="menu-area__inner">
@@ -194,7 +194,7 @@ const Header = () => {
                           <div className="main-header-one__bottom-left">
                             <div className="navbar-wrap main-menu">
                               <Link href="/" className="logo w-25">
-                                <img src="/img/bestect-logo.png" alt="Logo" />
+                                <img src="/img/bestect-logo.webp" alt="Logo" />
                               </Link>
                               <ul className="navigation">
                                 <li>
@@ -496,7 +496,7 @@ const Header = () => {
                   </div>
                   <div className="nav-logo">
                     <Link href="/">
-                      <img src="/img/bestect-logo.png" alt="Logo" />
+                      <img src="/img/bestect-logo.webp" alt="Logo" />
                     </Link>
                   </div>
                   <div className="menu-outer">

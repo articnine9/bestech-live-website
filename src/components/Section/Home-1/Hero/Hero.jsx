@@ -30,7 +30,7 @@ const Hero = () => {
         <SwiperSlide>
           <div
             className="image-layer"
-            style={{ backgroundImage: "url(/img/header/slider/1.jpg)" }}
+            style={{ backgroundImage: "url(/img/header/slider/1.webp)" }}
           ></div>
 
           <div className="big-title">
@@ -77,7 +77,7 @@ const Hero = () => {
         <SwiperSlide>
           <div
             className="image-layer"
-            style={{ backgroundImage: "url(/img/header/slider/2.jpg)" }}
+            style={{ backgroundImage: "url(/img/header/slider/2.webp)" }}
           ></div>
 
           <div className="big-title">
@@ -124,7 +124,7 @@ const Hero = () => {
         <SwiperSlide>
           <div
             className="image-layer"
-            style={{ backgroundImage: "url(/img/header/slider/3.jpg)" }}
+            style={{ backgroundImage: "url(/img/header/slider/3.webp)" }}
           ></div>
 
           <div className="big-title">
