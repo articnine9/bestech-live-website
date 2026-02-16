@@ -12,7 +12,7 @@ const Footer = () => {
       <ScrollToTop />
       <div
         className="footer-one__bg"
-        style={{ backgroundImage: "url(/img/footer/footer-bg.jpg)" }}
+        style={{ backgroundImage: "url(/img/footer/footer-bg.webp)" }}
       ></div>
       <div className="footer-main padding">
         <div className="container">
