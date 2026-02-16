@@ -80,7 +80,7 @@ export default function ChatPopup() {
           {/* Header */}
           <div className="bg-light d-flex align-items-center p-3 position-relative">
             <img
-              src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+              src="/img/avatar.webp"
               alt="avatar"
               className="rounded-circle me-2"
               style={{ width: "40px", height: "40px" }}

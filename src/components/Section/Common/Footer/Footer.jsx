@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Link from "next/link";
-import ScrollToTop from "react-scroll-to-top";
+import ScrollToTop from "@/components/Ui/ScrollToTop";
 
 import BrandLogo from "@/components/Ui/Logo/BrandLogo";
 
@@ -9,15 +9,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   return (
     <footer className="footer-one ">
-      <ScrollToTop
-        smooth
-        top="80"
-        color="white"
-        style={{
-          backgroundColor: "#FFD550",
-          "&:hover": { backgroundColor: "#186265" },
-        }}
-      />
+      <ScrollToTop />
       <div
         className="footer-one__bg"
         style={{ backgroundImage: "url(/img/footer/footer-bg.jpg)" }}
