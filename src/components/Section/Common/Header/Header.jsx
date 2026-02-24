@@ -291,8 +291,8 @@ const Header = () => {
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/door-drives">
-                                                  Door drives
+                                                <Link href="/products/door-drives-and-motors">
+                                                  Door Drives and Motors
                                                 </Link>
                                               </li>
                                             </ul>
@@ -609,10 +609,10 @@ const Header = () => {
                               </li>
                               <li>
                                 <Link
-                                  href="/products/door-drives"
+                                  href="/products/door-drives-and-motors"
                                   onClick={mobileMenuClose}
                                 >
-                                  Door drives
+                                  Door Drives and Motors
                                 </Link>
                               </li>
                             </ul>

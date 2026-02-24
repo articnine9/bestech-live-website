@@ -187,8 +187,8 @@ const Footer = () => {
                             <Link href="/products/ard">ARD (BS-AR)</Link>
                           </li>
                           <li>
-                            <Link href="/products/door-drives">
-                              Door Drives (BS-DD)
+                            <Link href="/products/door-drives-and-motors">
+                              Door Drives and Motors (BS-DD)
                             </Link>
                           </li>
                           <li>

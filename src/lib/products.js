@@ -6685,22 +6685,22 @@ export const products = [
     ],
   },
   {
-    slug: "door-drives",
-    page_name: "Door Drives",
+    slug: "door-drives-and-motors",
+    page_name: "Door Drives and Motors",
     code: "BS-DD",
     meta_title:
-      "Elevator Door Drives UAE | Lift Door Drive Parts Dubai & Sharjah",
+      "Elevator Door Drives and Motors UAE | Lift Door Drive Parts Dubai & Sharjah",
     meta_description:
-      "Buy Elevator Door Drives in UAE from trusted suppliers. Lift door drives spare parts sellers in Dubai & Sharjah with quality parts across the UAE.",
+      "Buy Elevator Door Drives and Motors in UAE from trusted suppliers. Lift Door Drives and Motors spare parts sellers in Dubai & Sharjah with quality parts across the UAE.",
     keywords:
-      "Elevator Door Drives UAE, lift Door Drives spare parts sellers Sharjah, Elevator Door Drive Parts UAE",
+      "Elevator Door Drives and Motors UAE, lift Door Drives and Motors spare parts sellers Sharjah, Elevator Door Drive Parts UAE",
     canonical: "https://www.bestechparts.ae/products/door-drives",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
 
     items: [
       {
-        name: "Door Drive",
+        name: "Door Drives and Motors",
         description: "NICE-D-A-SP04",
         code: "BS-DD0001",
         url: "/door-drives/door-drive-bs-dd0001",
@@ -6712,7 +6712,7 @@ export const products = [
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "Door Drive",
+        name: "Door Drives and Motors",
         description: "AAD03011DK",
         code: "BS-DD0002",
         url: "/door-drives/door-drive-bs-dd0002",
@@ -6724,8 +6724,8 @@ export const products = [
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "DC Door Drive: 24V",
-        description: "HAS DC Door Drive: 24V",
+        name: "DC Door Drives and Motors: 24V",
+        description: "HAS DC Door Drives and Motors: 24V",
         code: "BS-DD0003",
         url: "/door-drives/dc-door-drive-24v",
         image: "/img/product-default-img.jpg",
@@ -6735,8 +6735,8 @@ export const products = [
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "DC Door Drive - DR2009C 200W",
-        description: "DC Door Drive - DR2009C",
+        name: "DC Door Drives and Motors - DR2009C 200W",
+        description: "DC Door Drives and Motors - DR2009C",
         code: "BS-DD0004",
         url: "/door-drives/dc-door-drive-dr2009c-200w",
         image: "/img/products/door-drives/dc-door-drive-dr2009c-200w/1.jpg",
@@ -6797,7 +6797,7 @@ export const products = [
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "Door Drive NSFC01-02",
+        name: "Door Drives and Motors NSFC01-02",
         description: "NBSL NSFC01-02",
         code: "BS-DD0009",
         url: "/door-drives/door-drive-nsfc01-02",

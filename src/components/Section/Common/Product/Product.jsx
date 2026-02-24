@@ -85,7 +85,7 @@ const menuData = {
       code: "BS-AR",
     },
     {
-      name: "Door drives",
+      name: "Door Drives and Motors",
       slug: "door-drives",
       code: "BS-DD",
     },
