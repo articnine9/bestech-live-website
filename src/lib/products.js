@@ -6694,7 +6694,7 @@ export const products = [
       "Buy Elevator Door Drives and Motors in UAE from trusted suppliers. Lift Door Drives and Motors spare parts sellers in Dubai & Sharjah with quality parts across the UAE.",
     keywords:
       "Elevator Door Drives and Motors UAE, lift Door Drives and Motors spare parts sellers Sharjah, Elevator Door Drive Parts UAE",
-    canonical: "https://www.bestechparts.ae/products/door-drives",
+    canonical: "https://www.bestechparts.ae/products/door-drives-and-motors",
     robots:
       "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
 
@@ -6703,11 +6703,11 @@ export const products = [
         name: "Door Drives and Motors",
         description: "NICE-D-A-SP04",
         code: "BS-DD0001",
-        url: "/door-drives/door-drive-bs-dd0001",
+        url: "/door-drives-and-motors/door-drive-bs-dd0001",
         image: "/img/products/door-drives/door-drive-bs-dd0001/1.jpg",
         slider: ["1", "2", "3"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0001",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0001",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6715,11 +6715,11 @@ export const products = [
         name: "Door Drives and Motors",
         description: "AAD03011DK",
         code: "BS-DD0002",
-        url: "/door-drives/door-drive-bs-dd0002",
+        url: "/door-drives-and-motors/door-drive-bs-dd0002",
         image: "/img/products/door-drives/door-drive-bs-dd0002/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0002",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6727,10 +6727,10 @@ export const products = [
         name: "DC Door Drives and Motors: 24V",
         description: "HAS DC Door Drives and Motors: 24V",
         code: "BS-DD0003",
-        url: "/door-drives/dc-door-drive-24v",
+        url: "/door-drives-and-motors/dc-door-drive-24v",
         image: "/img/product-default-img.jpg",
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/dc-door-drive-24v",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-24v",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6738,11 +6738,11 @@ export const products = [
         name: "DC Door Drives and Motors - DR2009C 200W",
         description: "DC Door Drives and Motors - DR2009C",
         code: "BS-DD0004",
-        url: "/door-drives/dc-door-drive-dr2009c-200w",
+        url: "/door-drives-and-motors/dc-door-drive-dr2009c-200w",
         image: "/img/products/door-drives/dc-door-drive-dr2009c-200w/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/dc-door-drive-dr2009c-200w",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-dr2009c-200w",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6750,12 +6750,12 @@ export const products = [
         name: "Door Motor with Encoder PM61842",
         description: "PM61842 43W",
         code: "BS-DD0005",
-        url: "/door-drives/door-motor-with-encoder-pm61842",
+        url: "/door-drives-and-motors/door-motor-with-encoder-pm61842",
         image:
           "/img/products/door-drives/door-motor-with-encoder-pm61842/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/door-drive-bs-dd0002",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6763,11 +6763,11 @@ export const products = [
         name: "KM 10S Door Controller (Box)",
         description: "Arkel: KM-10S",
         code: "BS-DD0006",
-        url: "/door-drives/km-10s-door-controller-box",
+        url: "/door-drives-and-motors/km-10s-door-controller-box",
         image: "/img/products/door-drives/km-10s-door-controller-box/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/km-10s-door-controller-box",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/km-10s-door-controller-box",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6775,11 +6775,11 @@ export const products = [
         name: "Elevator Door Controller V5+",
         description: "Fermator: V5+",
         code: "BS-DD0007",
-        url: "/door-drives/elevator-door-controller-v5",
+        url: "/door-drives-and-motors/elevator-door-controller-v5",
         image: "/img/products/door-drives/elevator-door-controller-v5/1.jpg",
 
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/elevator-door-controller-v5",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-v5",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6787,12 +6787,12 @@ export const products = [
         name: "Elevator Door Controller DO3000S",
         description: "OTIS: DO3000S",
         code: "BS-DD0008",
-        url: "/door-drives/elevator-door-controller-do3000s",
+        url: "/door-drives-and-motors/elevator-door-controller-do3000s",
         image:
           "/img/products/door-drives/elevator-door-controller-do3000s/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/elevator-door-controller-do3000s",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-do3000s",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6800,11 +6800,11 @@ export const products = [
         name: "Door Drives and Motors NSFC01-02",
         description: "NBSL NSFC01-02",
         code: "BS-DD0009",
-        url: "/door-drives/door-drive-nsfc01-02",
+        url: "/door-drives-and-motors/door-drive-nsfc01-02",
         image: "/img/products/door-drives/door-drive-nsfc01-02/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/door-drive-nsfc01-02",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-nsfc01-02",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6812,11 +6812,11 @@ export const products = [
         name: "Elevator Door Motor YVP90-6",
         description: "Elevator Door Motor YVP90-6",
         code: "BS-DD0010",
-        url: "/door-drives/elevator-door-motor-yvp90-6",
+        url: "/door-drives-and-motors/elevator-door-motor-yvp90-6",
         image: "/img/products/door-drives/elevator-door-motor-yvp90-6/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6824,11 +6824,11 @@ export const products = [
         name: "Elevator Door Motor YVP90-6B1",
         description: "Elevator Door Motor YVP90-6B1",
         code: "BS-DD0011",
-        url: "/door-drives/elevator-door-motor-yvp90-6b1",
+        url: "/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
         image: "/img/products/door-drives/elevator-door-motor-yvp90-6b1/1.jpg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6b1",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6836,12 +6836,12 @@ export const products = [
         name: "Door Motor GR63X55 24VDC Dunkermotoren",
         description: "Door Motor GR63X55 24VDC Dunkermotoren",
         code: "BS-DD0012",
-        url: "/door-drives/door-motor-gr63x55-24vdc-dunkermotoren",
+        url: "/door-drives-and-motors/door-motor-gr63x55-24vdc-dunkermotoren",
         image:
           "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/1.jpeg",
         slider: ["1", "2"],
         canonical:
-          "https://www.bestechparts.ae/products/door-drives/elevator-door-motor-yvp90-6b1",
+          "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
