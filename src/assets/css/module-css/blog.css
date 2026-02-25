@@ -334,7 +334,7 @@
 }
 
 .blog-two__single-content h2 {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 500;
   line-height: 36px;
   text-transform: capitalize;
@@ -799,7 +799,9 @@ Sidebar Css
   background-color: var(--thm-primary);
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
-  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+  transition:
+    transform 0.4s ease,
+    -webkit-transform 0.4s ease;
   transform-origin: bottom right;
   -webkit-transform: scale(1, 0);
   transform: scale(1, 0);
