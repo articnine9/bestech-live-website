@@ -3,12 +3,14 @@ import Link from "next/link";
 const BlogCard = ({ item }) => {
   return (
     <div className="blog-one__single">
-      <div className="blog-one__single-img">
-        <div className="inner">
-          <img src={item?.image} alt="#" />
-          <div className="text-box">{item?.category}</div>
+      <Link href={`/blog/${item?.link}`}>
+        <div className="blog-one__single-img">
+          <div className="inner">
+            <img src={item?.image} alt="#" />
+            <div className="text-box">{item?.category}</div>
+          </div>
         </div>
-      </div>
+      </Link>
       <div className="blog-one__single-content">
         <h2>
           <Link href={`/blog/${item?.link}`}>{item?.title}</Link>
