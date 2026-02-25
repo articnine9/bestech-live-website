@@ -94,6 +94,13 @@ export const blogPosts = [
     description:
       "Learn the types of elevator buttons and their functions with a simple guide on choosing the right buttons for your lift system across the UAE.",
   },
+  {
+    slug: "common-elevator-spare-parts-replacement-guide-uae",
+    title: "Common Elevator Spare Parts Replacement Guide, UAE",
+    date: "2025-03-10",
+    description:
+      "Learn the types of elevator buttons and their functions with a simple guide on choosing the right buttons for your lift system across the UAE.",
+  },
 ];
 
 // Function to fetch all blog posts
