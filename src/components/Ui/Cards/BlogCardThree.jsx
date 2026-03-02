@@ -15,7 +15,7 @@ const BlogCardThree = ({ item }) => {
             </div> */}
             </div>
             <div className="inner">
-              <img src={item.image} alt="#" />
+              <img src={item.image} alt={item.alttext || item.title} />
             </div>
           </div>
         </Link>
