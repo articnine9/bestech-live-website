@@ -220,7 +220,7 @@ export default function BlogContent({ slug }) {
             <div className="col-xl-3">
               <aside className="sidebar">
                 {/* Categories */}
-                <div className="card mb-4 p-3 shadow-sm">
+                {/* <div className="card mb-4 p-3 shadow-sm">
                   <p className="card-title mb-2 d-flex align-items-center gap-1">
                     <FaFolderOpen /> Categories
                   </p>
@@ -237,7 +237,7 @@ export default function BlogContent({ slug }) {
                       </li>
                     ))}
                   </ul>
-                </div>
+                </div> */}
 
                 {/* Recent Posts */}
                 <div className="card mb-4 p-3 shadow-sm">
