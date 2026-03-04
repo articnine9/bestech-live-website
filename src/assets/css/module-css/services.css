@@ -245,6 +245,18 @@
   transform: scaleX(1);
 }
 
+
+.service-main-slider__nav .swiper-button-next, .service-main-slider__nav .swiper-button-prev {
+  
+  background: var(--thm-secondary) !important;
+  color: white !important;
+  
+}
+.service-main-slider__nav .swiper-button-next:hover, .service-main-slider__nav .swiper-button-prev:hover {
+  background: var(--thm-primary) !important;
+  border: none !important;
+}
+
 /*=============================
 	Services Two Css
 ===============================*/

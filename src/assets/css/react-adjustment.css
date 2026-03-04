@@ -688,6 +688,14 @@ body.disable-scroll {
   background-color: #fff0;
   padding: 18px 0px;
 }
+.accordion-button:not(.collapsed):after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.accordion-button:after {
+ 
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
 
 .accordion-body span {
   color: #fff;
@@ -730,7 +738,7 @@ body.disable-scroll {
   font-weight: 800;
 }
 
-.accordion-one .accordion-button::after {
+/* .accordion-one .accordion-button::after {
   font-family: "Font Awesome 5 Free";
   font-weight: 600;
   width: 15px;
@@ -742,9 +750,9 @@ body.disable-scroll {
   justify-content: center;
   color: white;
   font-size: 17px;
-}
+} */
 
-.accordion-one .accordion-button:not(.collapsed)::after {
+/* .accordion-one .accordion-button:not(.collapsed)::after {
   font-family: "Font Awesome 5 Free";
   font-weight: 600;
   width: 15px;
@@ -757,7 +765,7 @@ body.disable-scroll {
   color: #fff;
   transform: rotateX(180deg);
   font-size: 20px;
-}
+} */
 
 /* Accordion one styles end here */
 
@@ -784,7 +792,7 @@ body.disable-scroll {
   font-weight: 800;
 }
 
-.accordion-two .accordion-button::after {
+/* .accordion-two .accordion-button::after {
   font-family: "icomoon" !important;
   font-weight: 900;
   content: "\e932";
@@ -794,9 +802,9 @@ body.disable-scroll {
   justify-content: center;
   color: white;
   font-size: 15px;
-}
+} */
 
-.accordion-two .accordion-button:not(.collapsed)::after {
+/* .accordion-two .accordion-button:not(.collapsed)::after {
   font-family: "icomoon" !important;
   font-weight: 900;
   content: "\e932";
@@ -804,7 +812,7 @@ body.disable-scroll {
   color: #ff5e15;
   transform: rotate(180deg);
   font-size: 15px;
-}
+} */
 
 /* Accordion two styles end here */
 
@@ -825,13 +833,13 @@ body.disable-scroll {
   color: #6f7174;
 }
 
-.accordion-three .accordion-button::after {
+/* .accordion-three .accordion-button::after {
   color: black;
-}
+} */
 
-.accordion-three .accordion-button:not(.collapsed)::after {
+/* .accordion-three .accordion-button:not(.collapsed)::after {
   color: #ffd550;
-}
+} */
 
 /* Accordion three styles end here */
 

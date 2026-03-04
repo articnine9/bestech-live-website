@@ -50,8 +50,9 @@ const Blog = () => {
               prevEl: "#team-one__swiper-button-prev",
             }}
             autoplay={{
-              delay: 5000,
-            }}
+            delay: 5000,
+            disableOnInteraction: true,
+          }}
             breakpoints={{
               0: {
                 slidesPerView: 1,
@@ -89,6 +90,20 @@ const Blog = () => {
             </div>
           </Swiper>
           <div className="swiper-pagination" id="blog-one__pagination"></div>
+           <div className="main-slider__nav blog-slider__nav">
+          <div
+            className="swiper-button-prev"
+            id="team-one__swiper-button-prev"
+          >
+            <i className="fa fa-angle-left"></i>
+          </div>
+          <div
+            className="swiper-button-next"
+            id="team-one__swiper-button-next"
+          >
+            <i className="fa fa-angle-right"></i>
+          </div>
+        </div>
         </div>
       </div>
     </section>

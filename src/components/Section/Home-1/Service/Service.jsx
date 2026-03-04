@@ -45,6 +45,7 @@ const RelatedProduct = () => {
           }}
           autoplay={{
             delay: 5000,
+            disableOnInteraction: true,
           }}
           breakpoints={{
             0: {
@@ -82,7 +83,21 @@ const RelatedProduct = () => {
             ))}
           </div>
         </Swiper>
-        <div className="swiper-pagination" id="service-one__pagination"></div>
+        <div className="swiper-pagination " id="service-one__pagination"></div>
+        <div className="main-slider__nav service-main-slider__nav">
+          <div
+            className="swiper-button-prev "
+            id="team-one__swiper-button-prev"
+          >
+            <i className="fa fa-angle-left"></i>
+          </div>
+          <div
+            className="swiper-button-next"
+            id="team-one__swiper-button-next"
+          >
+            <i className="fa fa-angle-right"></i>
+          </div>
+        </div>
       </div>
     </section>
   );

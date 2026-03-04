@@ -8,6 +8,7 @@ const DetailsSection = ({ product, category }) => {
   const [currentSlideIndex, setCurrentSlideIndex] = useState(0);
   const [lightboxOpen, setLightboxOpen] = useState(false);
 
+
   // Safely build images array
   const images =
     Array.isArray(product?.slider) && product.slider.length > 0

@@ -264,6 +264,21 @@
 #blog-one__pagination .swiper-pagination-bullet:hover {
   transform: scaleX(1);
 }
+.blog-slider__nav{
+  bottom: 0 !important;
+  right:0 !important;
+}
+
+.blog-slider__nav .swiper-button-next, .blog-slider__nav .swiper-button-prev {
+  
+  background: var(--thm-secondary) !important;
+  color: white !important;
+  
+}
+.blog-slider__nav .swiper-button-next:hover, .blog-slider__nav .swiper-button-prev:hover {
+  background: var(--thm-primary) !important;
+  border: none !important;
+}
 
 /*=============================
 	Blog Two Css

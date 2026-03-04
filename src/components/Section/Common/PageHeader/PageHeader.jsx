@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 const PageHeader = ({ title, bgImage = "/img/home/faq/2.jpg" }) => {
+ 
   return (
     <section className="page-header padding">
       <div

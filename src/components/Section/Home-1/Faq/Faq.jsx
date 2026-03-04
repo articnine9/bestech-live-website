@@ -2,6 +2,8 @@
 import Link from "next/link";
 import Accordion from "react-bootstrap/Accordion";
 
+
+
 const Faq = () => {
   return (
     <section className="faq-one padding" style={{ backgroundColor: "#004b83" }}>

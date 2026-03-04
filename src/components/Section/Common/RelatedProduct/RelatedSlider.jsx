@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 const RelatedProduct = ({ item }) => {
+  
   return (
     <div className="service-one__single">
       <div className="service-one__single-img">

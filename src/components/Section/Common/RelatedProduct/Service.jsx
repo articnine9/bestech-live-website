@@ -9,6 +9,7 @@ import "swiper/css/pagination";
 import RelatedProduct from "./RelatedSlider";
 
 const Service = ({ category }) => {
+  
   return (
     <section className="service-one pb-0">
       <div className="container">
