@@ -13,15 +13,15 @@ const DetailsSection = ({ product, category }) => {
   const images =
     Array.isArray(product?.slider) && product.slider.length > 0
       ? product.slider.map((num) => {
-          const basePath = product.image?.substring(
-            0,
-            product.image.lastIndexOf("/") + 1
-          );
-          return `${basePath}${num}.jpg`;
-        })
+        const basePath = product.image?.substring(
+          0,
+          product.image.lastIndexOf("/") + 1
+        );
+        return `${basePath}${num}.jpg`;
+      })
       : product?.image
-      ? [product.image]
-      : [];
+        ? [product.image]
+        : [];
 
   const goToSlide = (index) => {
     const newIndex = (index + images.length) % images.length;
@@ -100,12 +100,12 @@ const DetailsSection = ({ product, category }) => {
               )}
 
               {/* Product Description */}
-              {product.paragraph_text && (
-                <div
-                  dangerouslySetInnerHTML={{ __html: product.paragraph_text }}
-                  className="productContent"
-                />
-              )}
+              
+              {product.paragraph_text?.map((item, index) => (
+                <div key={index} dangerouslySetInnerHTML={{ __html: item }} className="productContent mb-3 mx-3" />
+              ))}
+
+              
             </div>
           </div>
 
