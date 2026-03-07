@@ -8,17 +8,16 @@ const DetailsSection = ({ product, category }) => {
   const [currentSlideIndex, setCurrentSlideIndex] = useState(0);
   const [lightboxOpen, setLightboxOpen] = useState(false);
 
-
   // Safely build images array
   const images =
     Array.isArray(product?.slider) && product.slider.length > 0
       ? product.slider.map((num) => {
-        const basePath = product.image?.substring(
-          0,
-          product.image.lastIndexOf("/") + 1
-        );
-        return `${basePath}${num}.jpg`;
-      })
+          const basePath = product.image?.substring(
+            0,
+            product.image.lastIndexOf("/") + 1,
+          );
+          return `${basePath}${num}.jpg`;
+        })
       : product?.image
         ? [product.image]
         : [];
@@ -100,12 +99,22 @@ const DetailsSection = ({ product, category }) => {
               )}
 
               {/* Product Description */}
-              
-              {product.paragraph_text?.map((item, index) => (
-                <div key={index} dangerouslySetInnerHTML={{ __html: item }} className="productContent mb-3 mx-3" />
-              ))}
 
-              
+              {/* Product Description */}
+              {Array.isArray(product?.paragraph_text) ? (
+                product.paragraph_text.map((item, index) => (
+                  <div
+                    key={index}
+                    className="productContent mb-3 mx-3"
+                    dangerouslySetInnerHTML={{ __html: item }}
+                  />
+                ))
+              ) : product?.paragraph_text ? (
+                <div
+                  className="productContent mb-3 mx-3"
+                  dangerouslySetInnerHTML={{ __html: product.paragraph_text }}
+                />
+              ) : null}
             </div>
           </div>
 
