@@ -1,0 +1,311 @@
+/* [project]/src/assets/css/icomoon.css [app-client] (css) */
+@font-face {
+  font-family: icomoon;
+  src: url("/fonts/icomoon.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  speak: never;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  font-family: icomoon !important;
+}
+
+.icon-pin:before {
+  content: "";
+}
+
+.icon-mobile:before {
+  content: "";
+}
+
+.icon-paper-plane:before {
+  content: "";
+}
+
+.icon-out-call:before {
+  content: "";
+}
+
+.icon-telephone-handle-silhouette:before {
+  content: "";
+}
+
+.icon-left-arrow:before {
+  content: "";
+}
+
+.icon-right-arrow1:before {
+  content: "";
+}
+
+.icon-up-arrow:before {
+  content: "";
+}
+
+.icon-down-arrow:before {
+  content: "";
+}
+
+.icon-magnifying-glass:before {
+  content: "";
+}
+
+.icon-right-arrow:before {
+  content: "";
+}
+
+.icon-right-arrow-1:before {
+  content: "";
+}
+
+.icon-up:before {
+  content: "";
+}
+
+.icon-star:before {
+  content: "";
+}
+
+.icon-call:before {
+  content: "";
+}
+
+.icon-up-right-arrow:before {
+  content: "";
+}
+
+.icon-facebook:before {
+  content: "";
+}
+
+.icon-twitter:before {
+  content: "";
+}
+
+.icon-instagram:before {
+  content: "";
+}
+
+.icon-linkedin:before {
+  content: "";
+}
+
+.icon-right-arrow-2:before {
+  content: "";
+}
+
+.icon-right-arrow-3:before {
+  content: "";
+}
+
+.icon-play-button-arrowhead:before {
+  content: "";
+}
+
+.icon-check:before {
+  content: "";
+}
+
+.icon-down-arrow-1:before {
+  content: "";
+}
+
+.icon-plus:before {
+  content: "";
+  color: #1e2959;
+}
+
+.icon-right-arrow-4:before {
+  content: "";
+}
+
+.icon-left-arrow-5:before {
+  content: "";
+}
+
+.icon-right-arrow-5:before {
+  content: "";
+}
+
+.icon-telephone-call:before {
+  content: "";
+}
+
+.icon-location:before {
+  content: "";
+}
+
+.icon-email:before {
+  content: "";
+}
+
+.icon-time:before {
+  content: "";
+}
+
+.icon-user:before {
+  content: "";
+}
+
+.icon-calendar:before {
+  content: "";
+}
+
+.icon-chat:before {
+  content: "";
+}
+
+.icon-supermarket:before {
+  content: "";
+}
+
+.icon-reply-arrow:before {
+  content: "";
+}
+
+.icon-airplane:before {
+  content: "";
+}
+
+.icon-shipped:before {
+  content: "";
+}
+
+.icon-menu:before {
+  content: "";
+}
+
+.icon-menu-button-of-three-horizontal-lines:before {
+  content: "";
+}
+
+.icon-right-time-delivery-1:before {
+  content: "";
+}
+
+.icon-safe-package:before {
+  content: "";
+}
+
+.icon-warehousing:before {
+  content: "";
+}
+
+.icon-air-transport:before {
+  content: "";
+}
+
+.icon-cargo-container:before {
+  content: "";
+}
+
+.icon-checked-2:before {
+  content: "";
+}
+
+.icon-check-marked-1:before {
+  content: "";
+}
+
+.icon-clients:before {
+  content: "";
+}
+
+.icon-comments:before {
+  content: "";
+}
+
+.icon-date:before {
+  content: "";
+}
+
+.icon-enter-product-details:before {
+  content: "";
+}
+
+.icon-esteemed-company:before {
+  content: "";
+}
+
+.icon-experience:before {
+  content: "";
+}
+
+.icon-fast-worldwide-delivery:before {
+  content: "";
+}
+
+.icon-global-network:before {
+  content: "";
+}
+
+.icon-ocean-freight1:before {
+  content: "";
+}
+
+.icon-online-support:before {
+  content: "";
+}
+
+.icon-pay-your-service-tag:before {
+  content: "";
+}
+
+.icon-ready-to-go-your-goods:before {
+  content: "";
+}
+
+.icon-satisfied3:before {
+  content: "";
+}
+
+.icon-shipped1:before {
+  content: "";
+}
+
+.icon-special-shipments:before {
+  content: "";
+}
+
+.icon-support:before {
+  content: "";
+}
+
+.icon-tag:before {
+  content: "";
+}
+
+.icon-user1:before {
+  content: "";
+}
+
+.icon-vehicles:before {
+  content: "";
+}
+
+.icon-worldwide:before {
+  content: "";
+}
+
+.icon-quote11:before {
+  content: "";
+}
+
+.icon-right-time-delivery:before {
+  content: "";
+}
+
+.icon-road-transport:before {
+  content: "";
+}
+
+/*# sourceMappingURL=src_assets_css_icomoon_css_bad6b30c._.single.css.map*/

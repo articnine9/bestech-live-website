@@ -1,0 +1,99 @@
+/* [project]/src/assets/css/module-css/partner.css [app-client] (css) */
+.brand-one {
+  background: var(--thm-black2);
+  border-top: 2px solid rgba(var(--thm-white-rgb), .2);
+  z-index: 1;
+  margin-top: 145px;
+  padding: 125px 0 124px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.brand-one .shape1 {
+  z-index: -1;
+  position: absolute;
+  bottom: 0;
+  right: -30px;
+}
+
+.brand-one .big-title {
+  color: rgba(var(--thm-white-rgb), .05);
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  font-size: 190px;
+  font-weight: 700;
+  line-height: 1em;
+  font-family: var(--thm-heading-font);
+  z-index: -1;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.brand-one .swiper-slide {
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  transition: all .5s;
+  display: flex;
+  overflow: hidden;
+}
+
+.brand-one .swiper-slide .img-box {
+  -o-transition: all .3s ease;
+  transition: all .3s;
+  display: block;
+  position: relative;
+}
+
+.brand-one .swiper-slide:hover .img-box {
+  transform: translateY(-100%);
+}
+
+.brand-one .swiper-slide .img-box img {
+  opacity: .8;
+  width: auto;
+}
+
+.brand-one .swiper-slide .img-box2 {
+  text-align: center;
+  -o-transition: all .3s ease;
+  justify-content: center;
+  align-items: center;
+  transition: all .3s;
+  display: flex;
+  position: absolute;
+  inset: 0;
+  transform: translateY(100%);
+}
+
+.brand-one .swiper-slide:hover .img-box2 {
+  transform: translateY(0);
+}
+
+.brand-one--two {
+  background: var(--thm-gray-bg);
+  z-index: 1;
+  border-top: 0;
+  margin-top: 0;
+  padding: 115px 0 165px;
+  display: block;
+  position: relative;
+}
+
+.brand-one--two .big-title-box {
+  text-align: center;
+  color: rgba(var(--thm-black-rgb), .02);
+  text-transform: uppercase;
+  font-size: 220px;
+  font-weight: 700;
+  line-height: 1em;
+  font-family: var(--thm-heading-font);
+  position: absolute;
+  top: 65px;
+  left: 0;
+  right: 0;
+}
+
+/*# sourceMappingURL=src_assets_css_module-css_partner_css_bad6b30c._.single.css.map*/
