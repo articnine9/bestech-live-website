@@ -2,6 +2,5 @@
   "/_not-found/page": "app/_not-found/page.js",
   "/blog/page": "app/blog/page.js",
   "/page": "app/page.js",
-  "/products/[slug]/[productSlug]/page": "app/products/[slug]/[productSlug]/page.js",
   "/products/[slug]/page": "app/products/[slug]/page.js"
 }
