@@ -1,9 +1,9 @@
-[00:00:01.547] Server  LOG      ✓ Ready in 1079ms
-[00:00:12.191] Server  LOG      ○ Compiling / ...
-[00:00:17.854] Server  ERROR   React does not recognize the `xmlnsXhtml` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `xmlnsxhtml` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
-[00:00:18.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:19.153] Browser ERROR   React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. xmlnsXhtml xmlnsxhtml
-[00:00:19.153] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:00:03.120] Server  LOG      ✓ Ready in 2.4s
+[00:00:07.335] Server  LOG      ○ Compiling / ...
+[00:00:10.279] Server  ERROR   React does not recognize the `xmlnsXhtml` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `xmlnsxhtml` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[00:00:11.214] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:11.489] Browser ERROR   React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. xmlnsXhtml xmlnsxhtml
+[00:00:11.709] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -54,64 +54,9 @@ It can also happen if the client has a browser extension installed which messes 
         ...
       ...
 
-[00:00:32.681] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:08:37.966] Server  LOG      ✓ Compiled in 61ms
-[00:08:41.028] Server  LOG      ✓ Compiled in 48ms
-[00:08:42.191] Server  LOG      ✓ Compiled in 104ms
-[00:09:10.869] Server  LOG      ✓ Compiled in 67ms
-[00:09:11.772] Browser ERROR   ./src/components/Section/ProjectDetails/DetailsSection/DetailsSection.jsx:70:79
-Parsing ecmascript source code failed
-  68 |                       <img
-  69 |                         src={images[currentSlideIndex]}
-> 70 |                         alt={`${images?.alttext} ${currentSlideIndex + 1} || `Slide ${currentSlideIndex + 1}`}
-     |                                                                               ^^^^^
-  71 |                       />
-  72 |                     </main>
-  73 |                     <button
-
-Expected '</', got 'Slide'
-
-Import traces:
-  Client Component Browser:
-    ./src/components/Section/ProjectDetails/DetailsSection/DetailsSection.jsx [Client Component Browser]
-    ./src/app/products/[slug]/[productSlug]/ProductDetailsPageClient.js [Client Component Browser]
-    ./src/app/products/[slug]/[productSlug]/ProductDetailsPageClient.js [Server Component]
-    ./src/app/products/[slug]/[productSlug]/page.js [Server Component]
-
-  Client Component SSR:
-    ./src/components/Section/ProjectDetails/DetailsSection/DetailsSection.jsx [Client Component SSR]
-    ./src/app/products/[slug]/[productSlug]/ProductDetailsPageClient.js [Client Component SSR]
-    ./src/app/products/[slug]/[productSlug]/ProductDetailsPageClient.js [Server Component]
-    ./src/app/products/[slug]/[productSlug]/page.js [Server Component]
-[00:09:15.973] Server  LOG      ✓ Compiled in 120ms
-[00:09:16.765] Browser ERROR   ./src/components/Section/ProjectDetails/DetailsSection/DetailsSection.jsx:93:33
-Parsing ecmascript source code failed
-  91 |                           className="thumbnail"
-  92 |                           src={imgSrc}
-> 93 |                           alt={`Thumbnail ${index + 1}`}
-     |                                 ^^^^^^^^^
-  94 |                         />
-  95 |                       </button>
-  96 |                     ))}
-
-Expected '</', got 'Thumbnail'
-
-Import traces:
-  Client Component Browser:
-    ./src/components/Section/ProjectDetails/DetailsSection/DetailsSection.jsx [Client Component Browser]
-    ./src/app/products/[slug]/[productSlug]/ProductDetailsPageClient.js [Client Component Browser]
-    ./src/app/products/[slug]/[productSlug]/ProductDetailsPageClient.js [Server Component]
-    ./src/app/products/[slug]/[productSlug]/page.js [Server Component]
-
-  Client Component SSR:
-    ./src/components/Section/ProjectDetails/DetailsSection/DetailsSection.jsx [Client Component SSR]
-    ./src/app/products/[slug]/[productSlug]/ProductDetailsPageClient.js [Client Component SSR]
-    ./src/app/products/[slug]/[productSlug]/ProductDetailsPageClient.js [Server Component]
-    ./src/app/products/[slug]/[productSlug]/page.js [Server Component]
-[00:09:21.341] Server  LOG      ✓ Compiled in 105ms
-[00:09:35.260] Server  LOG      ✓ Compiled in 54ms
-[00:10:11.190] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:10:12.214] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:00:22.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:40.885] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:41.412] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -129,7 +74,7 @@ It can also happen if the client has a browser extension installed which messes 
         <ReplaySsrOnlyErrors>
         <DevRootHTTPAccessFallbackBoundary>
           <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
-            <HTTPAccessFallbackErrorBoundary pathname="/products/..." notFound={<NotAllowedRootHTTPFallbackError>} ...>
+            <HTTPAccessFallbackErrorBoundary pathname="/hg" notFound={<NotAllowedRootHTTPFallbackError>} ...>
               <RedirectBoundary>
                 <RedirectErrorBoundary router={{...}}>
                   <Head>
@@ -137,6 +82,7 @@ It can also happen if the client has a browser extension installed which messes 
                     <SegmentViewNode type="layout" pagePath="layout.js">
                       <SegmentTrieNode>
                       <link>
+                      <script>
                       <script>
                       <script>
                       <script>
@@ -152,10 +98,8 @@ It can also happen if the client has a browser extension installed which messes 
                           >
                   ...
 
-[00:10:18.760] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:10:36.417] Server  LOG      ✓ Compiled in 188ms
-[00:10:42.981] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:10:44.101] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+[00:07:17.253] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:18.453] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -173,7 +117,7 @@ https://react.dev/link/hydration-mismatch
         <ReplaySsrOnlyErrors>
         <DevRootHTTPAccessFallbackBoundary>
           <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
-            <HTTPAccessFallbackErrorBoundary pathname="/products/..." notFound={<NotAllowedRootHTTPFallbackError>} ...>
+            <HTTPAccessFallbackErrorBoundary pathname="/hg" notFound={<NotAllowedRootHTTPFallbackError>} ...>
               <RedirectBoundary>
                 <RedirectErrorBoundary router={{...}}>
                   <Head>
@@ -181,6 +125,7 @@ https://react.dev/link/hydration-mismatch
                     <SegmentViewNode type="layout" pagePath="layout.js">
                       <SegmentTrieNode>
                       <link>
+                      <script>
                       <script>
                       <script>
                       <script>
@@ -196,36 +141,16 @@ https://react.dev/link/hydration-mismatch
                           >
                             <head>
                             ...
-                              <p>
-                                <LinkComponent href="tel:+97165...">
+                              <li>
+                                <LinkComponent href="/products/...">
                                   <a
                                     ref={function}
                                     onClick={function onClick}
                                     onMouseEnter={function onMouseEnter}
                                     onTouchStart={function onTouchStart}
-                                    href="tel:+97165227299"
+                                    href="/products/door-drives-and-motors"
                                   >
-+                                   06 522 7299 — Landline
--                                   06 522 7299 — Telefunu fissu
++                                   Door Drives and Motors (BS-DD)
+-                                   Azionamenti è Motori di Porte (BS-DD)
                   ...
 
-[00:11:59.746] Server  LOG      ✓ Compiled in 57ms
-[00:12:26.726] Server  LOG      ✓ Compiled in 65ms
-[00:12:32.512] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:11.441] Server  LOG      ✓ Compiled in 73ms
-[00:17:54.664] Server  LOG      ✓ Compiled in 65ms
-[00:18:03.356] Server  LOG      ✓ Compiled in 55ms
-[00:18:15.253] Server  LOG      ✓ Compiled in 72ms
-[00:18:20.695] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:19:18.820] Server  LOG      ✓ Compiled in 49ms
-[00:19:47.244] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:20:56.304] Server  LOG      ✓ Compiled in 50ms
-[00:21:14.332] Server  LOG      ✓ Compiled in 162ms
-[00:21:39.470] Server  LOG      ✓ Compiled in 164ms
-[00:22:00.186] Server  LOG      ✓ Compiled in 54ms
-[00:22:15.143] Server  LOG      ✓ Compiled in 218ms
-[00:22:39.021] Server  LOG      ✓ Compiled in 237ms
-[00:22:52.862] Server  LOG      ✓ Compiled in 208ms
-[00:22:54.718] Server  LOG      ✓ Compiled in 194ms
-[00:22:59.174] Server  LOG      ✓ Compiled in 190ms
-[00:23:50.870] Server  LOG      ✓ Compiled in 56ms

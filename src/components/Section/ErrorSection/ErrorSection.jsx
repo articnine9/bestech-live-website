@@ -5,9 +5,9 @@ const ErrorSection = () => {
     <section className="error-page padding">
       <div
         className="error-page__bg"
-        style={{
-          backgroundImage: "url(/img/background/error-page-bg.jpg)",
-        }}
+        // style={{
+        //   backgroundImage: "url(/img/background/error-page-bg.jpg)",
+        // }}
       ></div>
       <div className="container mt-5">
         <div className="row">
@@ -32,7 +32,7 @@ const ErrorSection = () => {
                 </p>
                 <div className="btn-box">
                   <Link className="thm-btn" href="/">
-                    <span className="txt">Back to Homepage</span>
+                    <span className="txt" style={{color:"white"}}>Back to Homepage</span>
                   </Link>
                 </div>
               </div>

@@ -298,10 +298,7 @@ const ErrorSection = ()=>{
         className: "error-page padding",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "error-page__bg",
-                style: {
-                    backgroundImage: "url(/img/background/error-page-bg.jpg)"
-                }
+                className: "error-page__bg"
             }, void 0, false, {
                 fileName: "[project]/src/components/Section/ErrorSection/ErrorSection.jsx",
                 lineNumber: 6,
@@ -386,6 +383,9 @@ const ErrorSection = ()=>{
                                             href: "/",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "txt",
+                                                style: {
+                                                    color: "white"
+                                                },
                                                 children: "Back to Homepage"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Section/ErrorSection/ErrorSection.jsx",
