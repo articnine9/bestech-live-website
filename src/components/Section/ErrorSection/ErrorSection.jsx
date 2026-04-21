@@ -9,7 +9,7 @@ const ErrorSection = () => {
           backgroundImage: "url(/img/background/error-page-bg.jpg)",
         }}
       ></div>
-      <div className="container">
+      <div className="container mt-5">
         <div className="row">
           <div className="col-xl-12">
             <div className="error-page__wrapper text-center">

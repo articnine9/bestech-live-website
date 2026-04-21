@@ -4,7 +4,7 @@ import ErrorSection from "@/components/Section/ErrorSection";
 const NotFoundPage = () => {
   return (
     <>
-      <PageHeader title="404" />
+      {/* <PageHeader title="404" /> */}
       <ErrorSection />
     </>
   );

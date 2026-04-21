@@ -147,38 +147,21 @@ const BlogCardFour = ({ items, productcode })=>{
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "overlay-img__outer",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "name",
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    children: item?.name
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/Ui/Cards/BlogCardFour.jsx",
-                                                    lineNumber: 20,
-                                                    columnNumber: 23
-                                                }, ("TURBOPACK compile-time value", void 0))
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "name",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                children: item?.name
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Ui/Cards/BlogCardFour.jsx",
-                                                lineNumber: 19,
-                                                columnNumber: 21
-                                            }, ("TURBOPACK compile-time value", void 0)),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "overlay-img",
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                    src: item?.image || "https://placehold.co/400x250",
-                                                    alt: item?.name || "Product image"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/Ui/Cards/BlogCardFour.jsx",
-                                                    lineNumber: 24,
-                                                    columnNumber: 23
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/Ui/Cards/BlogCardFour.jsx",
-                                                lineNumber: 23,
-                                                columnNumber: 21
+                                                lineNumber: 20,
+                                                columnNumber: 23
                                             }, ("TURBOPACK compile-time value", void 0))
-                                        ]
-                                    }, void 0, true, {
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/Ui/Cards/BlogCardFour.jsx",
+                                            lineNumber: 19,
+                                            columnNumber: 21
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    }, void 0, false, {
                                         fileName: "[project]/src/components/Ui/Cards/BlogCardFour.jsx",
                                         lineNumber: 18,
                                         columnNumber: 19
@@ -187,7 +170,7 @@ const BlogCardFour = ({ items, productcode })=>{
                                         className: "inner",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                             src: item?.image || "https://placehold.co/400x250",
-                                            alt: item?.name || "Product image"
+                                            alt: item?.alttext || "Product image"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Ui/Cards/BlogCardFour.jsx",
                                             lineNumber: 31,

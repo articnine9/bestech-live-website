@@ -20,17 +20,17 @@ const BlogCardFour = ({ items, productcode }) => {
                       <p>{item?.name}</p>
                     </div>
 
-                    <div className="overlay-img">
+                    {/* <div className="overlay-img">
                       <img
-                        src={item?.image || "https://placehold.co/400x250"} // Updated to use item.image
-                        alt={item?.name || "Product image"}
+                        src={item?.image || "https://placehold.co/400x250"} 
+                        alt={item?.alttext || "Product image"}
                       />
-                    </div>
+                    </div> */}
                   </div>
                   <div className="inner">
                     <img
                       src={item?.image || "https://placehold.co/400x250"} // Updated to use item.image
-                      alt={item?.name || "Product image"}
+                      alt={item?.alttext || "Product image"}
                     />
                   </div>
                 </div>
