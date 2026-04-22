@@ -39,6 +39,7 @@ const Hero = () => {
               alt="Bestech Slider"
               fill
               priority
+              sizes="100vw"
               style={{ objectFit: "cover" }}
             />
           </div>
