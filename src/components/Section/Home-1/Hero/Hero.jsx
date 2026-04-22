@@ -1,6 +1,7 @@
 "use client";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay, EffectFade } from "swiper/modules";
+import Image from "next/image";
 import "swiper/css";
 import "swiper/css/effect-fade";
 import "swiper/css/navigation";
@@ -28,11 +29,19 @@ const Hero = () => {
         modules={[Autoplay, Pagination, Navigation, EffectFade]}
       >
         <SwiperSlide>
-          <div
+          {/* <div
             className="image-layer"
             style={{ backgroundImage: "url(/img/header/slider/1.webp)" }}
-          ></div>
-
+          ></div> */}
+          <div className="image-layer">
+            <Image
+              src="/img/header/slider/1.webp"
+              alt="Bestech Slider"
+              fill
+              priority
+              style={{ objectFit: "cover" }}
+            />
+          </div>
           <div className="big-title">
             <div>Bestech</div>
           </div>
