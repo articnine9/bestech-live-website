@@ -22,19 +22,14 @@ export default function About() {
         });
     }, []);
     useEffect(() => {
-        const handleScroll = () => {
-            const section = document.getElementById("about-two");
-            if (section) {
-                const rect = section.getBoundingClientRect();
-                const isVisible = rect.top <= window.innerHeight && rect.bottom >= 0;
-                setIsVisible(isVisible);
-            }
-        };
-        window.addEventListener("scroll", handleScroll);
-
-        return () => {
-            window.removeEventListener("scroll", handleScroll);
-        };
+        const section = document.getElementById("about-two");
+        if (!section) return;
+        const observer = new IntersectionObserver(
+            ([entry]) => { if (entry.isIntersecting) setIsVisible(true); },
+            { threshold: 0.1 }
+        );
+        observer.observe(section);
+        return () => observer.disconnect();
     }, []);
     useEffect(() => {
         const fetchComponent = async () => {

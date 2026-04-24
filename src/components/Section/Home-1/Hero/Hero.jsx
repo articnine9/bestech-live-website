@@ -11,16 +11,6 @@ import Link from "next/link";
 const Hero = () => {
   return (
     <section className="main-slider main-slider-one">
-      <div className="hero-static">
-        <Image
-          src="/img/header/slider/1.webp"
-          alt="Bestech Slider"
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover"
-        />
-      </div>
       <Swiper
         className="swiper-container thm-swiper__slider"
         slidesPerView={1}
