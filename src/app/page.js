@@ -1,9 +1,12 @@
-import About from "~/components/Section/Home-1/About";
-import Blog from "~/components/Section/Home-1/Blog";
-import ChooseUs from "~/components/Section/Home-1/ChooseUs/ChooseUs";
-import Faq from "~/components/Section/Home-1/Faq/Faq";
+import dynamic from "next/dynamic";
 import Hero from "~/components/Section/Home-1/Hero";
-import Service from "~/components/Section/Home-1/Service";
+
+// Below-fold sections — loaded after page is interactive
+const About   = dynamic(() => import("~/components/Section/Home-1/About"));
+const Service = dynamic(() => import("~/components/Section/Home-1/Service"));
+const ChooseUs = dynamic(() => import("~/components/Section/Home-1/ChooseUs/ChooseUs"));
+const Faq     = dynamic(() => import("~/components/Section/Home-1/Faq/Faq"));
+const Blog    = dynamic(() => import("~/components/Section/Home-1/Blog"));
 
 export const metadata = {
   title: "Elevator Spare Parts Supplier in Dubai, UAE | Bestech Parts",

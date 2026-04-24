@@ -3,11 +3,8 @@
 import "../assets/css/bootstrap.min.css";
 import "../assets/css/all.min.css";
 import "../assets/css/style.css";
-import "../assets/css/animate.min.css";
-import "../assets/css/custom-animate.css";
 import "../assets/css/responsive.css";
 import "../assets/css/icomoon.css";
-import "../assets/css/color-2.css";
 import "../assets/css/color-3.css";
 import "../assets/css/react-adjustment.css";
 import "../assets/css/module-css/about.css";
@@ -18,6 +15,7 @@ import Loading from "../components/Section/Common/Loading/Loading";
 import Footer from "../components/Section/Common/Footer";
 import Header from "../components/Section/Common/Header";
 import ChatPopup from "@/components/ChatPopup";
+import Script from "next/script";
 
 import React, { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
@@ -33,6 +31,26 @@ export default function RootLayout({ children }) {
     }, 200);
     return () => clearTimeout(timer);
   }, [pathname]);
+
+  // ✅ Defer non-critical animation CSS — loaded after page is interactive
+  useEffect(() => {
+    const deferredStyles = ["/css/animate.min.css", "/css/custom-animate.css"];
+    const load = () => {
+      deferredStyles.forEach((href) => {
+        if (!document.querySelector(`link[href="${href}"]`)) {
+          const link = document.createElement("link");
+          link.rel = "stylesheet";
+          link.href = href;
+          document.head.appendChild(link);
+        }
+      });
+    };
+    if (document.readyState === "complete") {
+      load();
+    } else {
+      window.addEventListener("load", load, { once: true });
+    }
+  }, []);
 
   // ✅ JSON-LD Structured Data
   const schemaData = {
@@ -205,19 +223,6 @@ export default function RootLayout({ children }) {
           content="5G_g1LOKIRxZsx5OK2FRy3fE6BTHyqjaYx6oILOgRAs"
         />
 
-        {/* ✅ Google Tag Manager */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-              })(window,document,'script','dataLayer','GTM-M6PZHR4B');
-            `,
-          }}
-        />
-
         {/* ✅ JSON-LD Structured Data */}
         <script
           type="application/ld+json"
@@ -228,6 +233,19 @@ export default function RootLayout({ children }) {
       </head>
 
       <body>
+        {/* ✅ GTM — deferred until page is interactive, not blocking render */}
+        <Script
+          id="gtm-init"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-M6PZHR4B');`,
+          }}
+        />
+
         {/* ✅ GTM noscript fallback */}
         <noscript>
           <iframe
