@@ -1,0 +1,8 @@
+.custom-bullets {
+  list-style: disc !important;
+  padding-left: 20px !important;
+}
+
+.custom-bullets li::marker {
+  color: red !important;
+}

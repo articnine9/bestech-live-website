@@ -226,7 +226,8 @@ export default function BlogContent({ slug }) {
                   </p>
                   <ul className="list-unstyled mb-0">
                     {categories.map((cat, index) => (
-                      <li key={index}>
+                      <li key={index} className="d-flex align-items-center gap-2">
+                         <FaArrowRight size={14} color="#004b83" />
                         <Link
                           href={`/category/${cat
                             .toLowerCase()
@@ -246,7 +247,8 @@ export default function BlogContent({ slug }) {
                   </p>
                   <ul className="list-unstyled mb-0">
                     {recentPosts.map((post, index) => (
-                      <li key={index}>
+                      <li key={index} className="d-flex align-items-start gap-2">
+                        <FaArrowRight size={35} color="#004b83" />
                         <Link href={`/blog/${post.link}`}>{post.title}</Link>
                       </li>
                     ))}
