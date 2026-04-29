@@ -43,6 +43,13 @@ const DetailsSection = ({ product, category }) => {
     return <p>Loading product details...</p>;
   }
 
+  const getAltText = (imagePath, index) => {
+  const parts = imagePath.split("/");
+  const folderName = parts[parts.length - 2]; // gets the folder name
+  const cleanName = folderName.replace(/-/g, " "); // replace - with space
+  return `${cleanName} Slide ${index + 1}`;
+};
+
   return (
     <section className="project-details-page padding">
       <div className="container">
@@ -67,7 +74,7 @@ const DetailsSection = ({ product, category }) => {
                     >
                       <img
                         src={images[currentSlideIndex]}
-                        alt={`Slide ${currentSlideIndex + 1}`}
+                        alt={getAltText(images[currentSlideIndex], currentSlideIndex)}
                       />
                     </main>
                     <button
@@ -90,7 +97,7 @@ const DetailsSection = ({ product, category }) => {
                         <img
                           className="thumbnail"
                           src={imgSrc}
-                          alt={`Thumbnail ${index + 1}`}
+                          alt={`Slide ${index + 1}`}
                         />
                       </button>
                     ))}

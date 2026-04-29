@@ -17,9 +17,11 @@ export default function CategoryClient({ categoryParam }) {
 
   const filteredBlogs = data.filter(
     (blog) =>
-      blog.category === categoryName &&
+      blog.category.toLowerCase().replace(/ /g, "-") === categoryParam &&
       blog.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
+
+  console.log("filterd Blogs", filteredBlogs)
 
   const recentPosts = data.slice(0, 5);
 
@@ -66,8 +68,8 @@ export default function CategoryClient({ categoryParam }) {
                   <hr className="my-2 border-gray-300" />
                   <ul className="list-unstyled mb-0">
                     {recentPosts.map((post, index) => (
-                      <li key={index} className="mb-2 d-flex align-items-center gap-1">
-                        <FaArrowRight className="text-gray-500" />
+                      <li key={index} className="mb-2 d-flex align-items-start gap-2">
+                         <FaArrowRight size={25} color="#004b83" />
                         <Link
                           href={`/blog/${post.link}`}
                           className="text-blue-600 hover:underline"

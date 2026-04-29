@@ -7,20 +7,26 @@ import data from "~/db/blogsData.json";
 import { FaFolderOpen, FaClock, FaArrowRight, FaSearch } from "react-icons/fa";
 
 const categories = [
-  "Motors & Drives",
+  "Elevator Buttons",
+  "Elevator Contactors",
   "Control Panels",
+  "Cables and Wires",
+  "Circuit Breakers",
+  "Elevator Inverters",
   "Door Systems",
-  "Sensors & Switches",
+  // "Sensors & Switches",
   "Safety Devices",
-  "Passenger Elevators",
-  "Freight Elevators",
-  "Residential Elevators",
-  "Hospital / Medical Elevators",
-  "Dumbwaiters",
+  // "Passenger Elevators",
+  // "Freight Elevators",
+  // "Residential Elevators",
+  // "Hospital / Medical Elevators",
+  // "Dumbwaiters",
+  "Elevator Spare Parts"
 ];
 
 const Blog = () => {
   const [searchTerm, setSearchTerm] = useState("");
+  const [isClickCategory, setIsClickCategory] = useState(false)
 
   // Filter posts based on title or description
   const filteredData = data.filter(
@@ -79,9 +85,9 @@ const Blog = () => {
                     {categories.map((cat, index) => (
                       <li
                         key={index}
-                        className="mb-2 d-flex align-items-center gap-1"
+                        className="d-flex align-items-center gap-2"
                       >
-                        <FaArrowRight className="mr-2 text-gray-500" />
+                        <FaArrowRight size={14} color="#004b83" />
                         <p className="text-blue-600 hover:underline">{cat}</p>
                         {/* <Link
                           href={`/category/${cat
@@ -106,9 +112,9 @@ const Blog = () => {
                     {data.slice(0, 5).map((post, index) => (
                       <li
                         key={index}
-                        className="mb-2 d-flex align-items-center gap-1"
+                        className="d-flex align-items-start gap-2"
                       >
-                        <FaArrowRight className="mr-2 text-gray-500" />
+                        <FaArrowRight size={35} color="#004b83" />
                         <Link
                           href={`/blog/${post.link}`}
                           className="text-blue-600 hover:underline"
