@@ -132,7 +132,7 @@ const DetailsSection = ({ product, category }) => {
         </div>
 
         {/* Related Products */}
-        {category && <RelatedProduct category={category} />}
+        {category && <RelatedProduct category={category} product={product}/>}
       </div>
 
       {/* Lightbox */}

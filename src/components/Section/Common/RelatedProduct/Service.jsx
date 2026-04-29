@@ -8,7 +8,10 @@ import "swiper/css/pagination";
 
 import RelatedProduct from "./RelatedSlider";
 
-const Service = ({ category }) => {
+const Service = ({ category,product}) => {
+  console.log("Product",product)
+
+  const relatedProducts = category?.items.filter((item)=>item.name !== product.name)
   
   return (
     <section className="service-one pb-0">
@@ -76,7 +79,7 @@ const Service = ({ category }) => {
           modules={[Autoplay, Navigation]}
         >
           <div className="swiper-wrapper">
-            {category?.items?.map((item, index) => (
+            {relatedProducts.map((item, index) => (
               <SwiperSlide className="swiper-slide" key={index}>
                 <RelatedProduct item={item} />
               </SwiperSlide>

@@ -1077,8 +1077,7 @@
         "image": "/img/products/buttons/button-sl-tc/1.jpg",
         "slider": [
           "1",
-          "2",
-          "3"
+          "2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-sl-tc",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2347,7 +2346,7 @@
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
-        "canonical": "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
+        "canonical": "https://www.bestechparts.ae/products/electrical/elevator-alarm-nkt121-1b1-12v",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -2364,7 +2363,7 @@
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
-        "canonical": "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
+        "canonical": "https://www.bestechparts.ae/products/electrical/switching-power-supply-smps-ms-250-24",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -2620,7 +2619,7 @@
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
-        "canonical": "https://www.bestechparts.ae/products/electrical/fireman-switch-box",
+        "canonical": "https://www.bestechparts.ae/products/electrical/inspection-box-full-set-bestech",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -2651,7 +2650,7 @@
         "meta_title": "",
         "meta_description": "",
         "keywords": "",
-        "canonical": "https://www.bestechparts.ae/products/electrical/elevator-intercom-z6b02-40",
+        "canonical": "https://www.bestechparts.ae/products/electrical/48vdc-relay-with-base-14-pin",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -4696,7 +4695,7 @@
           "<p>The <strong>DW-C1 load sensor</strong> is a load measurement device used in lift systems to measure the weight inside the car. It plays an important safety role by sending weight data to the lift control system.</p>",
           "<p>When the car load exceeds the set limit, the system can stop the lift from moving and display an overload alert. This protects lift parts and supports safe daily use.</p>",
           "<p>As a <strong>lift load sensor supplier</strong> in the UAE, Bestech provides the DW-C1 model for new lift projects and maintenance work. The product is supplied for use in standard passenger lift systems where car load control is required.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> DW-C1 Load Sensor</li><li><strong>Product code:</strong> BS-SR0001</li><li><strong>Category:</strong> Door Sensors</li><li><strong>Application:</strong> Passenger lift systems</li><li><strong>Function:</strong> Measures lift car load and sends signal to controller</li><li><strong>Use Case:</strong> Overload protection and load monitoring</li><li><strong>Installation Area:</strong> Lift car base or suspension structure (as per design)</li><li><strong>Signal Output:</strong> Connected to lift control system</li></ul>"
         ]
       },
@@ -4720,7 +4719,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The 61U, 61N, 30, 77U and 77N are magnetic switches used as levelling and door zone sensors in Kone lift systems. These units detect the car position at each landing and send a signal to the lift control system.</p>",
           "<p>The <strong>elevator levelling sensor 61U 61N</strong> models are fitted in many Kone installations for accurate floor alignment and door zone control. When installed and set correctly, they help the lift stop at the right level and allow the doors to open only within the safe zone.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Type:</Strong> Magnetic levelling and door zone switch</li><li><strong>Product code:</strong> BS-SR0002</li><li><strong>Model numbers:</strong> 61U, 61N, 30, 77U, 77N</li><li><strong>Application:</strong> Kone lift systems</li><li><strong>Function:</strong> Car levelling and door zone detection</li><li><strong>Sensing method:</strong> Magnetic switch</li><li><strong>Installation Area:</strong> Lift shaft / landing zone</li><li><strong>Use case:</strong> Maintenance and replacement</li></ul>"
         ]
       },
@@ -4740,7 +4739,7 @@
           "<p><strong>U-Type levelling sensor (DS-25 / KM86420G03)</strong> is a non-contact device used in lift systems to detect the elevator car position at each landing. It sends a signal to the control panel when the lift reaches the correct floor level and door zone area.</p>",
           "<p>The <strong>U type levelling sensor elevator</strong> unit works with targets fixed on the shaft. When the lift car aligns with the target at a landing, the sensor detects the position. This helps the system stop the car at the correct height and allow safe door opening.</p>",
           "<p>If you are looking to <strong>buy lift u type levelling sensor</strong>, it is important to confirm voltage rating, mounting size, and compatibility with the lift control system. The unit must match the original system setup.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Type:</Strong> U-type levelling sensor</li><li><strong>Product code:</strong> BS-SR0003</li><li><strong>Model / Reference:</strong> DS-25 / KM86420G03</li><li><strong>Internal Code:</strong> BS-SR0003</li><li><strong>Application:</strong> Passenger and freight elevators</li><li><strong>Function:</strong> Floor levelling and door zone position detection</li><li><strong>Operating Principle:</strong> Non-contact (sensor type to be verified)</li><li><strong>Mounting Style:</strong> U-bracket design</li><li><strong>Installation Area:</strong> Lift shaft or car frame</li><li><strong>Compatibility:</strong> Used with position targets installed on shaft or lift car</li><li><strong>Usage:</strong> New installation and replacement</li></ul>",
           "<p><b><u>Note:</u></b> The sensing method should be verified from the manufacturer or datasheet if exact electrical and mounting details are needed for installation.</p>"
         ]
@@ -4766,7 +4765,7 @@
           "<p>This unit uses photoelectric sensing technology. It detects a target fixed in the shaft. When the lift aligns with the target, the sensor changes state and confirms the correct position to the control system.</p>",
           "<p>There is less mechanical wear compared to magnetic switches because it is a non-contact sensor. This supports stable operation over time when installed and maintained as per manufacturer guidelines.</p>",
           "<p>The sensor is suitable for use in passenger and goods lifts where reliable door zone detection is required. Proper installation and wiring must follow CEDES technical instructions.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Type:</Strong> Photoelectric levelling sensor</li><li><strong>Product code:</strong> BS-SR0004</li><li><strong>Model:</strong> GLS126NT2.NC/NO</li><li><strong>Manufacturer:</strong> CEDES</li><li><strong>Application:</strong> Elevator floor levelling and door zone detection</li><li><strong>Technology:</strong> Photoelectric sensing</li><li><strong>Output Type:</strong> NC and NO outputs</li><li><strong>Use Case:</strong> Passenger lifts and goods lifts</li><li><strong>Installation:</strong> Mounted in lift shaft, aligned with fixed target</li></ul>"
         ]
       },
@@ -4795,7 +4794,7 @@
           "<p>The YG-28/25/2561/128 levelling sensor plays a key role in floor levelling control. In Mitsubishi lift systems, correct alignment at each landing is required for safe passenger entry and exit.</p>",
           "<p>This magnetic induction switch detects the presence of a magnetic field from a fixed target. When the lift car aligns with the target, the sensor sends a signal to the control system. This confirms that the car is within the door zone and at the correct height.</p>",
           "<p>If you are looking to <strong>buy lift levelling sensor</strong> units for Mitsubishi systems, it is important to confirm model compatibility and part number before installation. </p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> YG-28/25/2561/128</li><li><strong>Product code:</strong> BS-SR0005</li><li><strong>Category:</strong> Door Sensors</li><li><strong>Type:</strong> Magnetic induction switch</li><li><strong>Application:</strong> Mitsubishi elevator systems</li><li><strong>Function:</strong> Lift car position detection and door zone signal</li><li><strong>Installation Area:</strong> Inside elevator shaft</li><li><strong>Use Case:</strong> Floor levelling confirmation and door zone sensing</li><li><strong>Compatibility:</strong> Mitsubishi lift systems (model confirmation required before purchase)</li></ul>"
         ]
       },
@@ -4815,7 +4814,7 @@
           "<p>The ZPAD01-001 levelling sensor is an elevator position switch made for Mitsubishi lift systems. It detects the exact car position at each landing and sends a signal to the lift control panel when the car reaches the correct floor level and door zone.</p>",
           "<p>The <strong>elevator levelling sensor ZPAD01-001</strong> works with fixed targets inside the shaft. When the car aligns with the target, the sensor changes state and confirms the position. This helps the lift stop at the right level for safe entry and exit.</p>",
           "<p>As experienced <strong>lift levelling sensor suppliers</strong> in the UAE, we supply verified parts based on model number and system requirement. Each unit is checked for correct specification before supply to ensure it matches the intended Mitsubishi application.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Type:</Strong> ZPAD01-001 Levelling Sensor</li><li><strong>Product code:</strong> BS-SR0006</li><li><strong>Category:</strong> Door Sensors</li><li><strong>Application:</strong> Mitsubishi elevator systems</li><li><strong>Function:</strong> Car position detection and floor levelling signal</li><li><strong>Type:</strong> Elevator position switch</li><li><strong>Installation Area:</strong> Lift shaft (aligned with landing targets)</li><li><strong>Usage:</strong> Maintenance and replacement part</li></ul>"
         ]
       },
@@ -4841,7 +4840,7 @@
           "<p>The sensor operates with fixed targets placed at each landing. When the lift car aligns with the target, the device changes its signal state. This confirms that the car has reached the correct level and is within the door zone.</p>",
           "<p>Accurate levelling helps reduce trip risk, supports smooth door operation and limits wear on mechanical parts. The GLS-TK sensor is used in both commercial and residential buildings where correct floor alignment is required.</p>",
           "<p>Each unit should be installed and tested by qualified lift technicians to ensure safe and proper operation.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> GLS-TK</li><li><strong>Product code:</strong> BS-SR0007</li><li><strong>Product type:</strong> Photoelectric elevator levelling sensor</li><li><strong>Application:</strong> ThyssenKrupp elevator systems</li><li><strong>Function:</strong> Floor levelling and door zone detection</li><li><strong>Detection method:</strong> Photoelectric (light-based)</li><li><strong>Installation Area:</strong> Lift shaft</li><li><strong>Category:</strong> Door Sensors</li><li><strong>Use Case:</strong> Maintenance and replacement part</li></ul>"
         ]
       },
@@ -4865,7 +4864,7 @@
           "<p>The MKF71ASAKX is a magnetic door zone sensor used in lift systems to confirm correct car position at each landing. It is also known as a door zone sensor. The unit works with a magnetic target fixed in the lift shaft. It detects the magnetic field and sends a signal to the control system when the lift car enters the door zone area.</p>",
           "<p>The <strong>elevator MKF71ASAKX door zone sensor</strong> plays a key role in safe boarding and alighting. It helps the lift doors open only when the car is level with the floor. This reduces the risk of mis-levelling and supports smooth operation.</p>",
           "<p>This model is used in commercial and residential lift systems where reliable floor detection is required.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product code:</strong> BS-SR0008</li><li><strong>Model:</strong> MKF71ASAKX</li><li><strong>Type:</strong> Magnetic door zone / levelling sensor</li><li><strong>Application:</strong> Elevator door zone detection</li><li><strong>Sensing method:</strong> Magnetic field detection</li><li><strong>Installation:</strong> Car-mounted, used with fixed magnetic target</li><li><strong>Output:</strong> Signal change when within door zone range</li><li><strong>Contact type:</strong> Non-contact sensing</li><li><strong>Use Case:</strong> Confirms correct floor level before door opening</li></ul>"
         ]
       },
@@ -4892,7 +4891,7 @@
           "<p>The system is non-contact and has no moving parts. This reduces wear and supports long service life. The slim design fits neatly within the door profile of most center-opening lift systems.</p>",
           "<p>Each unit includes transmitter strip, receiver strip, mounting accessories, and connection cable. It connects directly to the lift controller and works with standard elevator safety circuits.</p>",
           "<p>If you need to buy lift light curtain door sensor units for repair or upgrade work, ensure compatibility with the door operator and control voltage before installation.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Type:</strong> Light curtain door sensor</li><li><strong>Product code:</strong> BS-SR0009</li><li><strong>Application:</strong> Center-open elevator doors</li><li><strong>Detection Method:</strong> Infrared multi-beam light curtain</li><li><strong>Coverage:</strong> Full door height protection</li><li><strong>Response Time:</strong> Fast signal output when beam is interrupted</li><li><strong>Mounting Type:</strong> Vertical mounting on both sides of door frame</li><li><strong>Output Signal:</strong> Compatible with standard elevator control systems</li><li><strong>Power Supply:</strong> Low voltage supply (check model rating before use)</li><li><strong>Operating Environment:</strong> Suitable for indoor lift shafts</li><li><strong>Designed for:</strong> Commercial and residential buildings in the UAE</li></ul>"
         ]
       },
@@ -4917,7 +4916,7 @@
           "<p>The <strong>side open elevator light curtain sensor</strong> uses multiple infrared beams placed across the door opening. When any beam is blocked by a person or object, the system sends a signal to the lift controller to stop or reopen the door.</p>",
           "<p>Unlike single beam sensors, this system covers the entire height of the entrance. It helps prevent door contact with passengers, luggage, or small items near the floor.</p>",
           "<p>As a trusted <strong>lift curtain door sensor supplier</strong> in the UAE, we provide units built for long service life, stable signal response, and easy fitment inside the door frame.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Type:</strong> Light curtain door sensor</li><li><strong>Product code:</strong> BS-SR0010</li><li><strong>Application:</strong> Side-opening elevator doors</li><li><strong>Detection Method:</strong> Infrared multi-beam detection</li><li><strong>Coverage Area:</strong> Full door height protection</li><li><strong>Operation:</strong> Non-contact safety barrier</li><li><strong>Response Action:</strong> Sends signal to reopen or stop door</li><li><strong>Installation:</strong> Slim profile mounting on door frame</li><li><strong>Moving Parts:</strong> None</li><li><strong>Use Case:</strong> Passenger lifts in residential and commercial buildings</li></ul>"
         ]
       },
@@ -5011,8 +5010,7 @@
         "url": "/sensors/bistable-sensor-italy",
         "image": "/img/products/sensors/bistable-sensor-italy/1.jpg",
         "slider": [
-          "1",
-          "2"
+          "1"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/bistable-sensor-italy",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5104,10 +5102,10 @@
       },
       {
         "name": "61U 61N 30 monostable - NC Switch",
-        "description": " 61U 61N 30 monostable - NC Switch",
+        "description": "61U 61N 30 monostable - NC Switch",
         "code": "BS-SR0027",
         "url": "/sensors/61u-61n-30-monostable-nc-switch",
-        "image": "/img/products/sensors/61u-61n-30-monostable-nc-switch/1.jpeg",
+        "image": "/img/products/sensors/61u-61n-30-monostable-nc-switch/1.jpg",
         "slider": [
           "1",
           "2"
@@ -6637,7 +6635,7 @@
           "<p>The unit receives open and close signals from the lift control system. It also works with door safety devices such as light curtains and door protection sensors.</p>",
           "<p>For contractors looking for <strong>lift door drive suppliers</strong>, this model is commonly available in the UAE market through authorised spare parts distributors.</p>",
           "<p>If you plan to <strong>buy lift door drive UAE</strong>, confirm voltage rating, motor power, and wiring layout before installation.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Type:</Strong> Lift door drive inverter</li><li><strong>Product code:</strong> BS-DD0001</li><li><strong>Model:</strong> NICE-D-A-SOP4</li><li><strong>Motor Type:</strong> Three-phase asynchronous motor</li><li><strong>Control Method: </strong> Variable Voltage Variable Frequency (VVVF)</li><li><strong>Application:</strong> Automatic lift door systems</li><li><strong>Installation:</strong> Control panel mounting</li><li><strong>Function:</strong> Controls door opening and closing speed</li></ul>"
         ]
       },
@@ -6661,7 +6659,7 @@
           "<p>The <strong>elevator door drive BS-DD0002</strong> is an electronic drive unit used to control lift door motors. It manages door opening and closing speed, direction, and stopping position.</p>",
           "<p>This unit is designed for use inside the lift control cabinet. It works with the door motor and related sensors to support smooth door movement and accurate stopping.</p>",
           "<p>For building owners and maintenance teams searching for reliable lift door drive dealers, this model is suitable for replacement and new installation where compatible with the existing system.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Type:</Strong> Elevator door drive controller</li><li><strong>Product code:</strong> BS-DD0002</li><li><strong>Model:</strong> Door Drives and Motors</li><li><strong>Motor Type:</strong> AAD03011DK</li><li><strong>Application:</strong> Lift door motor control</li><li><strong>Mounting:</strong> Control cabinet installation</li><li><strong>Function:</strong> Speed regulation, smooth start and stop</li><li><strong>Motor Control:</strong> Variable speed output for door motor</li><li><strong>System Integration:</strong> Compatible with lift door sensors and control boards</li><li><strong>Usage Area:</strong> Passenger and service lifts (subject to system match)</li></ul>",
           "<p><strong><u>Note</u>:</strong> Always confirm voltage, phase, and motor rating before replacement.</p>"
         ]
@@ -6698,7 +6696,7 @@
           "1",
           "2"
         ],
-        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
+        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-motor-with-encoder-pm61842",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -6780,12 +6778,12 @@
         "description": "Door Motor GR63X55 24VDC Dunkermotoren",
         "code": "BS-DD0012",
         "url": "/door-drives-and-motors/door-motor-gr63x55-24vdc-dunkermotoren",
-        "image": "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/1.jpeg",
+        "image": "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/1.jpg",
         "slider": [
           "1",
           "2"
         ],
-        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motorselevator-door-motor-yvp90-6b1",
+        "canonical": "https://www.bestechparts.ae/products/door-motor-gr63x55-24vdc-dunkermotoren",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -6896,7 +6894,7 @@
         "code": "BS-SG0008",
         "url": "/signalization/step-lop-set-up-down",
         "image": "/img/products/signalization/step-lop-set-up-lock/1.jpg",
-        "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
+        "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -7154,7 +7152,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The COP display green MCTC HCB R1 is a green-coloured display unit used inside the lift’s Car Operating Panel (COP). It is typically used to provide visual information within the lift car, such as floor indication, operational status, or other panel display functions, depending on system configuration.</p>",
           "<p>Manufactured by Monarch, this display is designed for MCTC-HCB-R1 panel applications and forms part of the in-car operating panel system within compatible lift setups.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> COP Display Green MCTC-HCB-R1</li><li><strong>Product code:</strong> BS-DI0001</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong> Car Operating Panel (COP) Display</li><li><strong>Colour:</strong> Green</li><li><strong>Manufacturer:</strong>  Monarch</li><li><strong>Model Number:</strong>  MCTC-HCB-R1</li><li><strong>Application:</strong> Lift car operating panel systems</li><li><strong>System Role:</strong> Part of car operating panel display setup</li><li><strong>Compatibility:</strong> MCTC-HCB-R1 model applications</li></ul>"
         ]
       },
@@ -7169,7 +7167,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The COP display black MCTC HCB R1 is a black-coloured Car Operating Panel (COP) display manufactured by Monarch for lift car operating panel systems using the MCTC-HCB-R1 control board. Its main use is to serve as the in-car display unit within the lift panel setup.</p>",
           "<p>Typically used inside the lift car, this display helps present visual panel information depending on system configuration. Designed for MCTC-HCB-R1 applications, it forms part of the lift’s car operating panel system within compatible setups.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> COP Display Black MCTC-HCB-R1</li><li><strong>Product code:</strong> BS-DI0002</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong> Car Operating Panel (COP) Display</li><li><strong>Colour:</strong> Black</li><li><strong>Manufacturer:</strong>  Monarch</li><li><strong>Control Board:</strong>  MCTC-HCB-R1</li><li><strong>Application:</strong> Lift car operating panel systems</li><li><strong>System Role:</strong> Part of car operating panel system</li><li><strong>Compatibility:</strong> MCTC-HCB-R1 model applicationsMCTC-HCB-R1 control board applications</li></ul>"
         ],
         "code": "BS-DI0002",
@@ -7194,7 +7192,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The LOP LED display elevator is a Landing Operating Panel display that uses LED technology and is commonly installed outside lift entrances. Its main purpose is to act as a floor indicator, helping passengers view floor-related information from landing areas.</p>",
           "<p>Used as part of the landing operating panel system, this LED display supports visible floor indication at elevator entrances and forms part of the external lift display setup. It is commonly used in lift systems where landing-level visual indication is required.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> LOP Display LED</li><li><strong>Product code:</strong> BS-DI0003</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong> Landing Operating Panel (LOP) LED Display</li><li><strong>Technology:</strong> LED</li><li><strong>Application:</strong>  Lift landing entrances</li><li><strong>System Role:</strong>  External floor indication display</li><li><strong>Installation Area:</strong> Outside elevator entrances</li><li><strong>Primary Use:</strong> Floor indication and landing display</li><li><strong>Compatibility:</strong> Landing operating panel systems</li></ul>"
         ],
         "url": "/displays/lop-display-led",
@@ -7219,7 +7217,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The vertical dot matrix display elevator is an electronic display screen, typically using LEDs arranged in a grid, mounted in a vertical portrait orientation. Its main purpose in lift systems is to provide visible display information in a taller screen format where portrait-style installation is required.</p>",
           "<p>Typically used in lift display systems, this vertical dot matrix display can support floor indication, directional display, or other visual panel content depending on system configuration. Its portrait-style layout makes it suitable for installations that require vertical display presentation.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Dot Matrix Display Vertical</li><li><strong>Product code:</strong> BS-DI0004</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong>  Vertical Dot Matrix Display</li><li><strong>Technology:</strong> LED Grid / Dot Matrix</li><li><strong>Orientation:</strong> Vertical / Portrait/li><li><strong>Application:</strong> Vertical lift display systems</li><li><strong>System Role:</strong> Vertical display indicator</li><li><strong>Installation Use:</strong> Portrait lift display panel applications</li><li><strong>Compatibility:</strong> Portrait lift display panel applications</li></ul>"
         ],
         "url": "/displays/dot-matrix-display-vertical",
@@ -7244,7 +7242,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The horizontal dot matrix display elevator is a position indicator used in lift systems that uses a grid of LEDs to display information in a horizontal, landscape orientation. Its main purpose is to present visible lift-related display information in a wider screen format.</p>",
           "<p>Typically used in lift display systems, this horizontal dot matrix display can support floor indication, directional display, or other position-related panel content depending on system configuration. Its landscape-style layout makes it suitable for installations that require horizontal display presentation.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Dot Matrix Display Horizontal</li><li><strong>Product code:</strong> BS-DI0005</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong> Horizontal Dot Matrix Display</li><li><strong>Technology:</strong> LED Grid / Dot Matrix</li><li><strong>Orientation:</strong> Horizontal / Landscape</li><li><strong>Application:</strong> Lift position indicator systems</li><li><strong>System Role:</strong> Position indicator display</li><li><strong>Installation Use:</strong> Horizontal lift display panel applications</li><li><strong>Compatibility:</strong> Elevator display system setups</li></ul>"
         ],
         "url": "/displays/dot-matrix-display-horizontal",
@@ -7268,7 +7266,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The vertical LCD display elevator is a Liquid Crystal Display screen mounted in a portrait orientation, making it taller than it is wide. Its main use in lift systems is to provide visual display functions in a vertical format where portrait screen installation is preferred.</p>",
           "<p>Typically used in lift panels or display systems, this vertical LCD display can support floor indication, directional information, or other visual panel content depending on system configuration. Its portrait-style design makes it suitable for lift setups that require a taller display format for clear vertical screen presentation.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> LCD Display Vertical</li><li><strong>Product code:</strong> BS-DI0006</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong>  Liquid Crystal Display (LCD)</li><li><strong>Orientation:</strong>  Vertical / Portrait</li><li><strong>Screen Format:</strong>  Taller than wide</li><li><strong>Application:</strong>  Vertical lift display panel systems</li><li><strong>System Role:</strong> Vertical display component</li><li><strong>Installation Use:</strong> Vertical display panel applications</li><li><strong>Compatibility:</strong> Elevator display system setups</li></ul>"
         ],
         "url": "/displays/lcd-display-vertical",
@@ -7288,7 +7286,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The horizontal LCD display elevator is a Liquid Crystal Display (LCD) screen designed in a horizontal layout, with a wider screen format suited for landscape-style panel installation. Its main use in lift systems is to provide visual display functions where wider screen presentation is preferred.</p>",
           "<p>Typically used in lift panels or display systems, this horizontal LCD display can support floor indication, directional information, or other visual panel content depending on system configuration. Its landscape-style design makes it suitable for lift setups that require wider screen visibility.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> LCD Display Horizontal</li><li><strong>Product code:</strong> BS-DI0007</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong> Liquid Crystal Display (LCD)</li><li><strong>Orientation:</strong> Horizontal / Landscape</li><li><strong>Screen Format:</strong> Wider than tall</li><li><strong>Application:</strong> Horizontal lift display panel systems</li><li><strong>System Role:</strong> Horizontal display component</li><li><strong>Installation Use:</strong> Landscape lift display panel applications</li><li><strong>Compatibility:</strong> Elevator display system setups</li></ul>"
         ],
         "url": "/displays/lcd-display-horizontal",
@@ -7312,7 +7310,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The 4 3 LED display elevator is an LED screen designed with a 4:3 aspect ratio, offering a square-like screen format with balanced width and height proportions. Its main use in lift systems is to provide visual display functions where a standard 4:3 screen layout is preferred for panel or display applications.</p>",
           "<p>Typically used in lift panels or display systems, this 4:3 LED display can support floor indication, directional information, or other visual panel content depending on system configuration. Its balanced screen format makes it suitable for installations requiring a structured display layout.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> 4:3 LED Display</li><li><strong>Product code:</strong> BS-DI0008</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong> LED Display</li><li><strong>Aspect Ratio:</strong> 4:3</li><li><strong>Screen Format:</strong> Square-like proportion</li><li><strong>Technology:</strong> LED</li><li><strong>Application:</strong> Lift display panel systems</li><li><strong>System Role:</strong> Visual display component</li><li><strong>Installation Use:</strong> 4:3 lift display panel applications</li><li><strong>Compatibility:</strong> Elevator display system setups</li></ul>"
         ],
         "url": "/displays/display-led-4-3",
@@ -7336,7 +7334,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The LCD display SFTC HCB SL blue is a blue-coloured LCD display designed for an elevator’s Landing Operating Panel (LOP). Its main use is to function as a landing panel display component within compatible lift systems.</p>",
           "<p>Typically installed at lift landing areas, this display forms part of the Landing Operating Panel system and can support floor indication, panel status, or other landing display content depending on system configuration. Designed for SFTC-HCB-SL-BLU applications, it is suited for compatible landing panel display setups.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> LCD Display SFTC-HCB-SL-BLUE</li><li><strong>Product code:</strong> BS-DI0009</li><li><strong>Category:</strong> Displays</li><li><strong>Display Type:</strong> LCD Display</li><li><strong>Colour:</strong> Blue</li><li><strong>Panel Type:</strong> Landing Operating Panel (LOP) Display</li><li><strong>Model Reference:</strong> SFTC-HCB-SL-BLU</li><li><strong>Application:</strong> Lift landing operating panel systems</li><li><strong>System Role:</strong> Landing panel display component</li><li><strong>Installation Use:</strong> Elevator landing panel display applications</li><li><strong>Compatibility:</strong> SFTC-HCB-SL-BLU LOP applications</li></ul>"
         ],
         "url": "/displays/lcd-display-sftc-hcb-sl-blue",
@@ -7490,7 +7488,7 @@
           "<p>The <strong>Monarch CTB-A car top board</strong> is a printed circuit board designed for installation on the lift car top. It forms part of the lift control system and supports safe operation during normal service and inspection mode.</p>",
           "<p>This <strong>elevator car top control board</strong> manages signals from door units, limit switches, inspection controls, and safety circuits. It allows clear communication between car top devices and the main controller.</p>",
           "<p>Installed on the car top, the board supports maintenance work by enabling engineers to control lift movement from the inspection station. Correct matching with the original lift control system is required to ensure stable performance and system safety.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Monarch CTB-A Car Top Board</li><li><strong>Product code:</strong> BS-PB0001</li><li><strong>Type:</strong> Elevator car top control PCB</li><li><strong>Application:</strong> Passenger and service lifts</li><li><strong>System Compatibility: </strong> Monarch lift control systems</li><li><strong>Installation Location:</strong> Lift car top</li><li><strong>Function:</strong> Signal control and communication between car top devices and main controller</li><li><strong>Material:</strong> Industrial-grade printed circuit board</li><li><strong>Operating Environment:</strong> Lift shaft environment (indoor use)</li></ul>",
           "<p><strong><u>Note:</u></strong> Technical ratings such as voltage and current must be verified from the product label or official Monarch documentation before installation</p>"
         ]
@@ -7515,7 +7513,7 @@
           "<p>The Monarch MCTC-CCB-A is a command printed circuit board used in an elevator Car Operating Panel (COP). It receives commands from the lift car buttons and sends the signals to the lift control system.</p>",
           "<p>Installed inside the COP, the board connects with floor buttons, indicators, and panel wiring. It allows the lift controller to receive passenger floor selection signals from the car panel.</p>",
           "<p>The board is part of the command system that manages communication between the car panel and the main elevator controller. As a key <strong>elevator car operating panel board,</strong> it helps maintain accurate signal transfer from the passenger interface to the lift system.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Monarch MCTC-CCB-A Command Board</li><li><strong>Product code:</strong> BS-PB0002</li><li><strong>Type:</strong> Elevator Command PCB</li><li><strong>Application:</strong> Passenger and service lifts</li><li><strong>System Role: </strong> Communication between COP and lift controller</li><li><strong>Installation Location:</strong> Lift car top</li><li><strong>Function:</strong> Processes passenger floor selection commands</li><li><strong>Compatible Systems:</strong> Monarch elevator control systems</li></ul>"
         ]
       },
@@ -7539,7 +7537,7 @@
           "<p>The <strong>STEP car top board PCB</strong> is a printed circuit board used in elevator car top control systems made by STEP Electric. It is installed on the roof of the lift car and connects devices such as inspection controls, door systems, and safety switches.</p>",
           "<p>The <strong>STEP elevator CTB board</strong> sends and receives signals between the car top components and the main lift controller. This helps technicians control and check the lift during inspection and service work.</p>",
           "<p>As part of the lift control system, it supports stable signal communication between the car top equipment and the main elevator controller.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Car Top Board (CTB)</li><li><strong>Product code:</strong> BS-PB0003</li><li><strong>Category:</strong> PCB Board – Elevator Control System</li><li><strong>Manufacturer:</strong> STEP Electric</li><li><strong>Application:</strong> Used in elevator car top control systems</li><li><strong>Connected Components: </strong> Inspection control station, Door control unit, Limit switches, and Safety circuits</li><li><strong>Installation Location:</strong> Lift car roof (car top area</li><li><strong>Function:</strong> Signal communication between car top devices and the main lift controller</li><li><strong>System Compatibility:</strong> STEP Electric elevator control systems</li></ul>"
         ]
       },
@@ -7562,7 +7560,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The <strong>Shanghai STEP lift command board</strong> is designed for elevator car panels where passenger commands must be transmitted to the lift controller. When a passenger presses a floor button in the COP, the board reads the signal and sends it to the elevator control system.</p>",
           "<p>Installed inside the car operating panel, the <strong>elevator car panel control PCB</strong> connects with push buttons and panel circuits inside the COP. It acts as the signal interface between the passenger panel and the lift controller.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Elevator command PCB (CTB)</li><li><strong>Product code:</strong> BS-PB0004</li><li><strong>Category:</strong> PCB Board </li><li><strong>Manufacturer:</strong> Shanghai STEP Electric Corporation</li><li><strong>Application:</strong> Car Operating Panel (COP) in elevators</li><li><strong>Installation Location:</strong> Inside the elevator car operating panel</li><li><strong>Function:</strong> Processes passenger floor selection commands</li><li><strong>Signal Role:</strong> Transfers COP button signals to lift controller</li></ul>"
         ]
       },
@@ -7585,7 +7583,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The <strong>Monarch MCTC-SCB-A1</strong> is a safety control board designed to support the Unintended Car Movement Protection function in lift systems. It supports the safety system used to detect unintended lift car movement when the car is at a landing.</p>",
           "<p>When unintended movement is detected, the safety circuit activates protection measures to stop the lift. Installed as part of the lift safety circuit, it supports safe lift operation and the unintended car movement protection system.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Monarch MCTC-SCB-A1</li><li><strong>Product code:</strong> BS-PB0006</li><li><strong>Type:</strong> UCMP Safety Board </li><li><strong>Category:</strong> PCB Board</li><li><strong>Application:</strong> Lift unintended car movement protection system</li><li><strong>Installation Location:</strong> Lift control panel / safety circuit section</li><li><strong>Function:</strong> Supports protection circuit</li><li><strong>System Combatibility:</strong> Monarch lift control systems</li><li><strong>Safety Role:</strong> Part of the UCMP protection circuit</li></ul>"
         ]
       },
@@ -7608,7 +7606,7 @@
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The <strong>Monarch MCTC-SCB-A1</strong> is a safety control board designed to support the Unintended Car Movement Protection function in lift systems. It supports the safety system used to detect unintended lift car movement when the car is at a landing.</p>",
           "<p>When unintended movement is detected, the safety circuit activates protection measures to stop the lift. Installed as part of the lift safety circuit, it supports safe lift operation and the unintended car movement protection system.</p>",
-          "<h3><strong>Key specifications</Strong></h3>",
+          "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Monarch MCTC-SCB-A1</li><li><strong>Product code:</strong> BS-PB0006</li><li><strong>Type:</strong> UCMP Safety Board </li><li><strong>Category:</strong> PCB Board</li><li><strong>Application:</strong> Lift unintended car movement protection system</li><li><strong>Installation Location:</strong> Lift control panel / safety circuit section</li><li><strong>Function:</strong> Supports protection circuit</li><li><strong>System Combatibility:</strong> Monarch lift control systems</li><li><strong>Safety Role:</strong> Part of the UCMP protection circuit</li></ul>"
         ]
       },

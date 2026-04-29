@@ -50,7 +50,7 @@ export async function generateMetadata(props) {
     description: product.meta_description,
     keywords: product.keywords || "",
     alternates: {
-      canonical: product.canonical || url,
+      canonical: product?.canonical || url,
     },
     robots: product.robots || "index, follow",
 
