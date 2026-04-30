@@ -234,14 +234,14 @@ export default function BlogContent({ slug }) {
                     {categories.map((cat, index) => (
                       <li key={index} className="d-flex align-items-center gap-2">
                          <FaArrowRight size={14} color="#004b83" />
-                          <p className="text-blue-600 hover:underline">{cat}</p>
-                        {/* <Link
-                          href={`/category/${cat
+                          {/* <p className="text-blue-600 hover:underline">{cat}</p> */}
+                        <Link
+                          href={`/blog/category/${cat
                             .toLowerCase()
                             .replace(/ /g, "-")}`}
                         >
                           {cat}
-                        </Link> */}
+                        </Link>
                       </li>
                     ))}
                   </ul>

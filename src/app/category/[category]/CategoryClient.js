@@ -31,7 +31,7 @@ export default function CategoryClient({ categoryParam }) {
 
       <section className="blog-details padding">
         <div className="container">
-          <h2 className="mb-4">Category: {categoryName}</h2>
+          <h2 className="mb-4">{categoryName}</h2>
 
           {/* Search */}
           <div className="mb-4">

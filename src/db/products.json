@@ -6802,12 +6802,23 @@
         "name": "LOP - UP and Down",
         "description": "",
         "code": "BS-SG0001",
+        "meta_title": "Elevator LOP Up and Down Call Buttons | UAE ",
+        "meta_description": "Elevator LOP up and down buttons for lift signalization systems. Supports clear direction selection and smooth lift operation across all floors. ",
+        "keywords": "elevator LOP up and down, elevator up down call button, landing operating panel buttons, lift direction call switch",
+        "alttext": "Elevator LOP Up and Down Call Buttons",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator LOP up and down refers to the call buttons placed on each floor of a lift system. These buttons allow passengers to select their direction of travel before entering the lift.</p>",
+          "<p>As part of the landing operating panel, the elevator up down call button sends a signal to the lift control system, indicating whether the passenger wants to go up or down. These landing operating panel buttons are important for managing lift movement to ensure efficient passenger flow within the building.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Type:</Strong> Landing Operating Panel (LOP) Direction Buttons</li><li><strong>Product code:</strong> BS-SG0001</li><li><strong>Category:</strong> Signalization</li><li><strong>Function:</strong> Sends up or down call signal to lift system</li><li><strong>Application:</strong> Lift landing floors</li><li><strong>Component Type:</strong> Direction call buttons</li><li><strong>System Role:</strong>  Part of lift signalization system</li><li><strong>Compatibility:</strong> Standard lift control systems</li><li><strong>User Input:</strong> Up and Down direction selection</li><li><strong>Alternate Term:</strong> Lift direction call switch</li></ul>"
+        ],
         "url": "/signalization/lop-up-and-down",
-        "image": "/img/products/signalization/lop-up-and-down/1.jpg",
+        "image": "/img/products/signalization/lop-up-and-down/lop-up-and-down-1.jpg",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "lop-up-and-down-1",
+          "lop-up-and-down-2",
+          "lop-up-and-down-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/lop-up-and-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6816,11 +6827,22 @@
         "name": "LOP - UP + Lock",
         "description": "",
         "code": "BS-SG0002",
+        "meta_title": "Elevator LOP Up Lock Function | Lift Panel Lock UAE",
+        "meta_description": "Elevator LOP up lock function for lift landing panels. Part of lift signalization and panel control systems within landing operating setups.",
+        "keywords": "elevator LOP up lock, elevator up call lock function, lift landing panel lock system, elevator control panel locking feature",
+        "alttext": "Elevator LOP Up Lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator LOP up lock refers to a specific Landing Operating Panel (LOP) status or function related to the upward call direction in a lift system. It forms part of the landing panel control setup and is used within the lift system’s operating process.</p>",
+          "<p>As part of the landing operating panel, the elevator up call lock function is linked to panel status or programmed system operation. This lift landing panel lock system forms part of the wider lift control setup.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Type:</Strong> Landing Operating Panel (LOP) Up Lock Function</li><li><strong>Product code:</strong> BS-SG0002</li><li><strong>Category:</strong> Signalization</li><li><strong>Function:</strong>  Associated with LOP up lock status or control function</li><li><strong>Application:</strong> Lift landing operating panel systems</li><li><strong>Component Type:</strong> Landing panel status / control function</li><li><strong>System Role:</strong>  Part of lift signalization and panel control setup</li><li><strong>Compatibility:</strong> Landing operating panel systems</li><li><strong>Operational Role:</strong> Up call lock-related status or function</li><li><strong>Alternate Term:</strong> Elevator control panel locking feature</li></ul>"
+        ],
         "url": "/signalization/lop-up-lock",
-        "image": "/img/products/signalization/lop-up-lock/1.jpg",
+        "image": "/img/products/signalization/lop-up-lock/lop-up-lock-1.jpg",
         "slider": [
-          "1",
-          "2"
+          "lop-up-lock-1",
+          "lop-up-lock-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/lop-up-lock",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6829,12 +6851,23 @@
         "name": "LOP - Down",
         "description": "",
         "code": "BS-SG0003",
+        "meta_title": "Elevator LOP Down Button | Lift Landing Down Switch UAE",
+        "meta_description": "Elevator LOP down button for lift landing panels. Supports clear downward call requests and smooth passenger flow across building floors.",
+        "keywords": "elevator LOP down button, elevator down call button, lift landing down switch, elevator floor call panel",
+        "alttext": "Elevator LOP Down Button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator LOP down button is the landing operating panel button used on a floor to call the lift for downward travel. It allows passengers to request lift service for downward travel from that floor.</p>",
+          "<p>As part of the elevator floor call panel, the elevator down call button sends a signal to the lift control system to register a downward travel request. This lift landing down switch supports clear direction selection and helps manage smooth passenger movement within the building.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Type:</Strong> Landing Operating Panel (LOP) Down Button</li><li><strong>Product code:</strong> BS-SG0003</li><li><strong>Category:</strong> Signalization</li><li><strong>Function:</strong> Sends downward call signal to lift system</li><li><strong>Application:</strong> Lift landing floors</li><li><strong>Component Type:</strong>  Direction call button</li><li><strong>System Role:</strong> Part of lift signalization and floor call setup</li><li><strong>Compatibility:</strong> Landing operating panel systems</li><li><strong>User Input:</strong> Downward direction selection</li><li><strong>Alternate Term:</strong> Lift landing down switch</li></ul>"
+        ],
         "url": "/signalization/lop-down",
-        "image": "/img/products/signalization/lop-down/1.jpg",
+        "image": "/img/products/signalization/lop-down/lop-down-1.jpg",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "lop-down-1",
+          "lop-down-2",
+          "lop-down-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/lop-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6844,11 +6877,22 @@
         "description": "",
         "code": "BS-SG0004",
         "url": "/signalization/duplex-lop-up-and-down",
-        "image": "/img/products/signalization/duplex-lop-up-and-down/1.jpg",
+        "meta_title": "Duplex Elevator LOP Up and Down | Lift Panel UAE",
+        "meta_description": "Duplex elevator LOP up and down for two-car lift systems. Supports coordinated up and down landing calls within standard duplex lift control systems.",
+        "keywords": "duplex elevator LOP up and down, duplex lift call buttons, twin elevator landing panel, group control up down system",
+        "alttext": "Duplex Elevator LOP Up and Down",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The duplex elevator LOP up and down refers to the standard Landing Operating Panel (LOP) control setup used in a duplex, or two-car, elevator group. It includes both upward and downward call functions on landing panels and forms part of a coordinated group lift control system.</p>",
+          "<p>As part of the landing operating panel system, the duplex lift call buttons allow passengers to register both up and down travel requests within a duplex lift environment. This group control up down system supports standard landing call operation across duplex lift setups.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Type:</Strong> Duplex Landing Operating Panel (LOP) Up and Down Function</li><li><strong>Product code:</strong> BS-SG0004</li><li><strong>Category:</strong> Signalization</li><li><strong>Function:</strong> Supports up and down landing call input within duplex lift systems</li><li><strong>Application:</strong> Duplex (two-car) lift landing systems</li><li><strong>Component Type:</strong>  Landing operating panel direction control buttons</li><li><strong>System Role:</strong> Part of duplex/group lift call control setup</li><li><strong>Compatibility:</strong> Duplex and two-car group-controlled lift systems</li><li><strong>Operational Use:</strong> Registers up and down landing calls</li><li><strong>Alternate Term:</strong> Duplex lift call buttons</li></ul>"
+        ],
+        "image": "/img/products/signalization/duplex-lop-up-and-down/duplex-lop-up-and-down-1.jpg",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "duplex-lop-up-and-down-1",
+          "duplex-lop-up-and-down-2",
+          "duplex-lop-up-and-down-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/duplex-lop-up-and-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6858,10 +6902,21 @@
         "description": "",
         "code": "BS-SG0005",
         "url": "/signalization/duplex-lop-up-lock",
-        "image": "/img/products/signalization/duplex-lop-up-lock/1.jpg",
+        "meta_title": "Duplex Elevator LOP Up Lock | Group Lift Panel Lock UAE",
+        "meta_description": "Duplex elevator LOP up lock for group lift systems. Supports controlled upward call disable within coordinated duplex landing panel setups.",
+        "keywords": "duplex elevator LOP up lock, duplex elevator up call disable, group control up lock function, twin lift landing panel lock",
+        "alttext": "Duplex Elevator LOP Up Lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The duplex elevator LOP up lock refers to a group control function in a duplex lift system where the upward call button on the Landing Operating Panel (LOP) is disabled under specific operating conditions. It forms part of a coordinated lift control setup used in duplex or group-controlled environments.</p>",
+          "<p>As part of the landing operating panel system, the duplex elevator up call disable function is linked to group control logic to manage when upward landing calls are disabled. This group control up lock function supports controlled panel operation within duplex or group lift setups.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Type:</Strong>  Duplex Landing Operating Panel (LOP) Up Lock Function</li><li><strong>Product code:</strong> BS-SG0005</li><li><strong>Category:</strong> Signalization</li><li><strong>Function:</strong> Disables up call input within duplex/group lift systems</li><li><strong>Application:</strong> Duplex and group-controlled lift landing systems</li><li><strong>Component Type:</strong> Landing operating panel up lock function</li><li><strong>System Role:</strong> Part of duplex/group lift control and panel lock setup</li><li><strong>Compatibility:</strong> Duplex and group-controlled lift systems</li><li><strong>Operational Use:</strong> Upward call disable within coordinated lift setups</li><li><strong>Alternate Term:</strong> Duplex elevator up call disable</li></ul>"
+        ],
+        "image": "/img/products/signalization/duplex-lop-up-lock/duplex-lop-up-lock-1.jpg",
         "slider": [
-          "1",
-          "2"
+          "duplex-lop-up-lock-1",
+          "duplex-lop-up-lock-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/duplex-lop-up-lock",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6870,11 +6925,22 @@
         "name": "Duplex LOP - Down",
         "description": "",
         "code": "BS-SG0006",
+        "meta_title": "Duplex Elevator LOP DOWN Panel | Group Lift Control UAE",
+        "meta_description": "Duplex elevator LOP DOWN panel for group control elevator systems. Supports coordinated down call function within duplex lift system setups.",
+        "keywords": "duplex elevator LOP DOWN panel, elevator landing operating panel, group control elevator system, collective control elevator logic, duplex down call button, twin elevator control panel, multi car elevator call system",
+        "alttext": "Duplex Elevator LOP DOWN Panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The duplex elevator LOP DOWN panel refers to a Landing Operating Panel (LOP) down call function used within a duplex or group control elevator system. It forms part of a group or duplex lift control setup used within coordinated system operation.</p>",
+          "<p>As part of the elevator landing operating panel, the duplex down call button is linked to the group control elevator system to support down call registration within a shared lift environment. This setup supports down call operation within group-controlled lift systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Type:</Strong> Duplex Landing Operating Panel (LOP) Down Function</li><li><strong>Product code:</strong> BS-SG0006</li><li><strong>Category:</strong> Signalization</li><li><strong>Function:</strong> Supports down call function within duplex/group lift systems</li><li><strong>Application:</strong> Duplex and group-controlled lift landing systems</li><li><strong>Component Type:</strong> Landing operating panel down call function</li><li><strong>System Role:</strong> Part of duplex and group lift control setup</li><li><strong>Compatibility:</strong> Duplex and group-controlled lift systems</li><li><strong>Operational Use:</strong> Downward call input within coordinated lift systems</li><li><strong>Alternate Term:</strong> Duplex down call button</li></ul>"
+        ],
         "url": "/signalization/duplex-lop-down",
-        "image": "/img/products/signalization/duplex-lop-down/1.jpg",
+        "image": "/img/products/signalization/duplex-lop-down/duplex-lop-down-1.jpg",
         "slider": [
-          "1",
-          "2"
+          "duplex-lop-down-1",
+          "duplex-lop-down-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/duplex-lop-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6884,7 +6950,8 @@
         "description": "",
         "code": "BS-SG0007",
         "url": "/signalization/step-lop-set-up-lock",
-        "image": "/img/products/signalization/step-lop-set-up-lock/1.jpg",
+        "image": "/img/products/signalization/step-lop-set-up-lock/step-lop-set-up-lock-1.jpg",
+        "alttext":"Step LOP set: UP + Lock",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6893,7 +6960,8 @@
         "description": "",
         "code": "BS-SG0008",
         "url": "/signalization/step-lop-set-up-down",
-        "image": "/img/products/signalization/step-lop-set-up-lock/1.jpg",
+        "image": "/img/products/signalization/step-lop-set-up-down/step-lop-set-up-down-1.jpg",
+        "alttext":"Step LOP set: UP + Down",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6902,7 +6970,8 @@
         "description": "",
         "code": "BS-SG0009",
         "url": "/signalization/step-lop-set-down",
-        "image": "/img/products/signalization/step-lop-set-down/1.jpg",
+        "image": "/img/products/signalization/step-lop-set-down/step-lop-set-down-1.jpg",
+        "alttext":"Step LOP set: Down",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6911,10 +6980,11 @@
         "description": "",
         "code": "BS-SG0010",
         "url": "/signalization/duplex-set-up-down",
-        "image": "/img/products/signalization/duplex-set-up-down/1.jpg",
+        "image": "/img/products/signalization/duplex-set-up-down/duplex-set-up-down-1.jpg",
+        "alttext":"Duplex set: UP + Down",
         "slider": [
-          "1",
-          "2"
+          "duplex-set-up-down-1",
+          "duplex-set-up-down-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/duplex-set-up-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6924,7 +6994,8 @@
         "description": "Monarch COP G+1",
         "code": "BS-SG0011",
         "url": "/signalization/cop-full-set-g-1",
-        "image": "/img/products/signalization/cop-full-set-g-1/1.jpg",
+        "image": "/img/products/signalization/cop-full-set-g-1/cop-full-set-g-1-1.jpg",
+        "alttext":"COP Full set - G+1",
         "canonical": "https://www.bestechparts.ae/products/signalization/cop-full-set-g-1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6933,7 +7004,8 @@
         "description": "Monarch COP G+3",
         "code": "BS-SG0012",
         "url": "/signalization/cop-full-set-g-3",
-        "image": "/img/products/signalization/cop-full-set-g-3/1.jpg",
+        "image": "/img/products/signalization/cop-full-set-g-3/cop-full-set-g-3-1.jpg",
+        "alttext":"COP Full set - G+3",
         "canonical": "https://www.bestechparts.ae/products/signalization/cop-full-set-g-3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6942,7 +7014,8 @@
         "description": "Mikrolift - SS LOP full set",
         "code": "BS-SG0013",
         "url": "/signalization/mikrolift-ss-lop-full-set",
-        "image": "/img/products/signalization/mikrolift-ss-lop-full-set/1.jpeg",
+        "image": "/img/products/signalization/mikrolift-ss-lop-full-set/mikrolift-ss-lop-full-set-1.jpg",
+        "alttext":"Mikrolift - SS LOP full set",
         "canonical": "https://www.bestechparts.ae/products/signalization/mikrolift-ss-lop-full-set",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6951,10 +7024,11 @@
         "description": "F-K12 Access control system ",
         "code": "BS-SG0014",
         "url": "/signalization/f-k12-access-control-system",
-        "image": "/img/products/signalization/f-k12-access-control-system/1.jpg",
+        "image": "/img/products/signalization/f-k12-access-control-system/f-k12-access-control-system-1.jpg",
+        "alttext":"F-K12 Access control system",
         "slider": [
-          "1",
-          "2"
+          "f-k12-access-control-system-1",
+          "f-k12-access-control-system-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/f-k12-access-control-system",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6964,7 +7038,8 @@
         "description": "BCGCM001 SS Hairline - COP G+2",
         "code": "BS-SG0015",
         "url": "/signalization/bcgcm001-ss-hairline-cop-g2",
-        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/1.jpg",
+        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/bcgcm001-ss-hairline-cop-g2-1.jpg",
+        "alttext":"BCGCM001 SS Hairline - COP G+2",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6973,7 +7048,8 @@
         "description": "BCGCM001 SS Hairline - COP G+4",
         "code": "BS-SG0016",
         "url": "/signalization/bcgcm001-ss-hairline-cop-g4",
-        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/1.jpg",
+        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/bcgcm001-ss-hairline-cop-g4-1.jpg",
+        "alttext":"BCGCM001 SS Hairline - COP G+4",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g4",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6982,7 +7058,8 @@
         "description": "BXGFM019 SS Hairline - LOP",
         "code": "BS-SG0017",
         "url": "/signalization/bxgfm019-ss-hairline-lop",
-        "image": "/img/products/signalization/bxgfm019-ss-hairline-lop/1.jpg",
+        "image": "/img/products/signalization/bxgfm019-ss-hairline-lop/bxgfm019-ss-hairline-lop-1.jpg",
+        "alttext":"BXGFM019 SS Hairline - LOP",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgfm019-ss-hairline-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6991,7 +7068,8 @@
         "description": "BCGBF001 SS Hairline - COP G+1",
         "code": "BS-SG0018",
         "url": "/signalization/bcgbf001-ss-hairline-cop-g1",
-        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/1.jpg",
+        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/bcgbf001-ss-hairline-cop-g1-1.jpg",
+        "alttext":"BCGBF001 SS Hairline - COP G+1",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7000,7 +7078,8 @@
         "description": "BXGAS004 SS Hairline - COP G+3",
         "code": "BS-SG0019",
         "url": "/signalization/bcgbf001-ss-hairline-cop-g3",
-        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/1.jpg",
+        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/bcgbf001-ss-hairline-cop-g3-1.jpg",
+        "alttext":"BCGBF001 SS Hairline - COP G+3",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7009,7 +7088,8 @@
         "description": "BXGAS004 SS Hairline - LOP",
         "code": "BS-SG0020",
         "url": "/signalization/bxgas004-ss-hairline-lop",
-        "image": "/img/products/signalization/bxgas004-ss-hairline-lop/1.jpg",
+        "image": "/img/products/signalization/bxgas004-ss-hairline-lop/bxgas004-ss-hairline-lop-1.jpg",
+        "alttext":"BXGAS004 SS Hairline - LOP",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgas004-ss-hairline-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7018,7 +7098,8 @@
         "description": "BCG401 black glass - COP G+2",
         "code": "BS-SG0021",
         "url": "/signalization/bcg401-black-glass-cop-g2",
-        "image": "/img/products/signalization/bcg401-black-glass-cop-g2/1.jpg",
+        "image": "/img/products/signalization/bcg401-black-glass-cop-g2/bcg401-black-glass-cop-g2-1.jpg",
+        "alttext":"BCG401 black glass - COP G+2",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7027,7 +7108,8 @@
         "description": "BCG401 black glass - COP G+4",
         "code": "BS-SG0022",
         "url": "/signalization/bcg401-black-glass-cop-g4",
-        "image": "/img/products/signalization/bcg401-black-glass-cop-g4/1.jpg",
+        "image": "/img/products/signalization/bcg401-black-glass-cop-g4/bcg401-black-glass-cop-g4-1.jpg",
+        "alttext":"BCG401 black glass - COP G+4",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g4",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7036,7 +7118,8 @@
         "description": "BXGDM007 black - LOP",
         "code": "BS-SG0023",
         "url": "/signalization/bxgdm007-black-glass-lop",
-        "image": "/img/products/signalization/bxgdm007-black-glass-lop/1.jpg",
+        "image": "/img/products/signalization/bxgdm007-black-glass-lop/bxgdm007-black-glass-lop-1.jpg",
+        "alttext":"BXGDM007 black glass - LOP",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-black-glass-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7045,7 +7128,8 @@
         "description": "BCG401 white glass - COP G+1",
         "code": "BS-SG0024",
         "url": "/signalization/bcg401-white-glass-cop-g1",
-        "image": "/img/products/signalization/bcg401-white-glass-cop-g1/1.jpg",
+        "image": "/img/products/signalization/bcg401-white-glass-cop-g1/bcg401-white-glass-cop-g1-1.jpg",
+        "alttext":"BCG401 white glass - COP G+1",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7054,7 +7138,8 @@
         "description": "BCG401 white glass - COP G+3",
         "code": "BS-SG0025",
         "url": "/signalization/bcg401-white-glass-cop-g3",
-        "image": "/img/products/signalization/bcg401-white-glass-cop-g3/1.jpg",
+        "image": "/img/products/signalization/bcg401-white-glass-cop-g3/bcg401-white-glass-cop-g3-1.jpg",
+        "alttext":"BCG401 white glass - COP G+3",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7063,7 +7148,8 @@
         "description": "BXGDM007 white glass - LOP",
         "code": "BS-SG0026",
         "url": "/signalization/bxgdm007-white-glass-lop",
-        "image": "/img/products/signalization/bxgdm007-white-glass-lop/1.jpg",
+        "image": "/img/products/signalization/bxgdm007-white-glass-lop/bxgdm007-white-glass-lop-1.jpg",
+        "alttext":"BXGDM007 white glass - LOP",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-white-glass-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7072,23 +7158,25 @@
         "description": "XIZI OTIS LOP set - HPI-L0430VRI-1",
         "code": "BS-SG0027",
         "url": "/signalization/full-lop-set-hpi-l0430vri-1",
-        "image": "/img/products/signalization/full-lop-set-hpi-l0430vri-1/1.jpg",
+        "image": "/img/products/signalization/full-lop-set-hpi-l0430vri-1/full-lop-set-hpi-l0430vri-1-1.jpg",
+        "alttext":"Full LOP set - HPI-L0430VRI-1",
         "slider": [
-          "1",
-          "2"
+          "full-lop-set-hpi-l0430vri-1-1",
+          "full-lop-set-hpi-l0430vri-1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/full-lop-set-hpi-l0430vri-1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
-        "name": "White LOP Full set ",
+        "name": "White LOP Full set",
         "description": "Schindler LOP full set (3 types)",
         "code": "BS-SG0028",
         "url": "/signalization/white-lop-full-set",
-        "image": "/img/products/signalization/white-lop-full-set/1.jpg",
+        "image": "/img/products/signalization/white-lop-full-set/white-lop-full-set-1.jpg",
+        "alttext":"White LOP Full set",
         "slider": [
-          "1",
-          "2"
+          "white-lop-full-set-1",
+          "white-lop-full-set-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/white-lop-full-set",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -7098,7 +7186,8 @@
         "description": "Schindler LOP - Without display",
         "code": "BS-SG0029",
         "url": "/signalization/white-lop-full-set-without-display",
-        "image": "/img/products/signalization/white-lop-full-set-without-display/1.jpg",
+        "image": "/img/products/signalization/white-lop-full-set-without-display/white-lop-full-set-without-display-1.jpg",
+        "alttext":"White LOP Full set - Without display",
         "canonical": "https://www.bestechparts.ae/products/signalization/white-lop-full-set-without-display",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7107,7 +7196,8 @@
         "description": "BCG451 Black Glass COP G+1",
         "code": "BS-SG0030",
         "url": "/signalization/bcg451-black-glass-cop-g1",
-        "image": "/img/products/signalization/bcg451-black-glass-cop-g1/1.jpg",
+        "image": "/img/products/signalization/bcg451-black-glass-cop-g1/bcg451-black-glass-cop-g1-1.jpg",
+        "alttext":"BCG451 Black Glass COP G+1",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-cop-g1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7116,7 +7206,8 @@
         "description": "BCG451 Black Glass LOP",
         "code": "BS-SG0031",
         "url": "/signalization/bcg451-black-glass-lop",
-        "image": "/img/products/signalization/bcg451-black-glass-lop/1.jpg",
+        "image": "/img/products/signalization/bcg451-black-glass-lop/bcg451-black-glass-lop-1.jpg",
+        "alttext":"BCG451 Black Glass LOP",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
@@ -7302,7 +7393,7 @@
         "name": "Display LED - 4.3",
         "description": "4.3 inch",
         "code": "BS-DI0008",
-         "meta_title": "4:3 Aspect Ratio LED Display Elevator | UAE",
+        "meta_title": "4:3 Aspect Ratio LED Display Elevator | UAE",
         "meta_description": "4:3 LED display elevator for lift systems. Supports balanced screen panel applications where structured display format is preferred.",
         "keywords": "4 3 LED display elevator",
         "alttext": "Elevator Display LED - 4.3",
@@ -7352,7 +7443,7 @@
         "code": "BS-DI0010",
         "url": "/displays/cop-display-horizontal-cv-ccb-d5-sx",
         "image": "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/cop-display-horizontal-cv-ccb-d5-sx-1.jpg",
-        "alttext":"COP display Horizontal - CV-CCB-D5-SX",
+        "alttext": "COP display Horizontal - CV-CCB-D5-SX",
         "slider": [
           "cop-display-horizontal-cv-ccb-d5-sx-1",
           "cop-display-horizontal-cv-ccb-d5-sx-2"
@@ -7366,7 +7457,7 @@
         "code": "BS-DI0011",
         "url": "/displays/vertical-segment-display-cilvle-cv-d5",
         "image": "/img/products/displays/vertical-segment-display-cilvle-cv-d5/vertical-segment-display-cilvle-cv-d5-1.jpg",
-        "alttext":"Vertical segment display - CILVLE CV-D5",
+        "alttext": "Vertical segment display - CILVLE CV-D5",
         "slider": [
           "vertical-segment-display-cilvle-cv-d5-1",
           "vertical-segment-display-cilvle-cv-d5-2"
@@ -7380,7 +7471,7 @@
         "code": "BS-DI0012",
         "url": "/displays/display-mctc-hcb-u673",
         "image": "/img/products/displays/display-mctc-hcb-u673/display-mctc-hcb-u673-1.jpg",
-        "alttext":"Display MCTC-HCB-U673",
+        "alttext": "Display MCTC-HCB-U673",
         "slider": [
           "display-mctc-hcb-u673-1",
           "display-mctc-hcb-u673-2"
@@ -7394,7 +7485,7 @@
         "code": "BS-DI0013",
         "url": "/displays/ks208-7-segment-indicator-with-arrows",
         "image": "/img/products/displays/ks208-7-segment-indicator-with-arrows/ks208-7-segment-indicator-with-arrows-1.jpg",
-        "alttext":"KS208 - 7 Segment indicator with arrows",
+        "alttext": "KS208 - 7 Segment indicator with arrows",
         "canonical": "https://www.bestechparts.ae/products/ks208-7-segment-indicator-with-arrows",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7404,7 +7495,7 @@
         "code": "BS-DI0014",
         "url": "/displays/ks308-7-segment-indicator-single",
         "image": "/img/products/displays/ks308-7-segment-indicator-single/ks308-7-segment-indicator-single-1.jpg",
-        "alttext":"KS308 - 7 Segment indicator Single",
+        "alttext": "KS308 - 7 Segment indicator Single",
         "canonical": "https://www.bestechparts.ae/products/ks308-7-segment-indicator-single",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7414,7 +7505,7 @@
         "code": "BS-DI0015",
         "url": "/displays/display-vertical-mctc-hcb-t647",
         "image": "/img/products/displays/display-vertical-mctc-hcb-t647/display-vertical-mctc-hcb-t647-1.jpg",
-        "alttext":"Display Vertical - MCTC-HCB-T647",
+        "alttext": "Display Vertical - MCTC-HCB-T647",
         "canonical": "https://www.bestechparts.ae/products/displays/display-vertical-mctc-hcb-t647",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7424,7 +7515,7 @@
         "code": "BS-DI0016",
         "url": "/displays/display-horizontal-mctc-hcb-u672",
         "image": "/img/products/displays/display-horizontal-mctc-hcb-u672/display-horizontal-mctc-hcb-u672-1.jpg",
-        "alttext":"Display Horizontal - MCTC-HCB-U672",
+        "alttext": "Display Horizontal - MCTC-HCB-U672",
         "canonical": "https://www.bestechparts.ae/products/displays/display-horizontal-mctc-hcb-u672",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -7434,7 +7525,7 @@
         "code": "BS-DI0017",
         "url": "/displays/bc-d3x-indicator-red",
         "image": "/img/products/displays/bc-d3x-indicator-red/bc-d3x-indicator-red-1.jpg",
-        "alttext":"BC-D3X INDICATOR (RED)",
+        "alttext": "BC-D3X INDICATOR (RED)",
         "slider": [
           "bc-d3x-indicator-red-1",
           "bc-d3x-indicator-red-2"
@@ -7448,7 +7539,7 @@
         "code": "BS-DI0018",
         "url": "/displays/step-display-board-sm-04v16",
         "image": "/img/products/displays/step-display-board-sm-04v16/step-display-board-sm-04v16-1.jpg",
-        "alttext":"STEP: Display Board SM.04V16",
+        "alttext": "STEP: Display Board SM.04V16",
         "slider": [
           "step-display-board-sm-04v16-1",
           "step-display-board-sm-04v16-2"

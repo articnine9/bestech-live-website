@@ -5,6 +5,7 @@ const nextConfig = {
       // Existing redirects
       { source: "/brands/monarch", destination: "/", permanent: true },
       { source: "/brands/step", destination: "/", permanent: true },
+     
 
       // ✅ Force non-www → www (SEO fix)
       // {

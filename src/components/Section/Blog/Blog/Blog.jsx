@@ -26,7 +26,7 @@ const categories = [
 
 const Blog = () => {
   const [searchTerm, setSearchTerm] = useState("");
-  const [isClickCategory, setIsClickCategory] = useState(false)
+  
 
   // Filter posts based on title or description
   const filteredData = data.filter(
@@ -88,15 +88,15 @@ const Blog = () => {
                         className="d-flex align-items-center gap-2"
                       >
                         <FaArrowRight size={14} color="#004b83" />
-                        <p className="text-blue-600 hover:underline">{cat}</p>
-                        {/* <Link
-                          href={`/category/${cat
+                        {/* <p className="text-blue-600 hover:underline">{cat}</p> */}
+                        <Link
+                          href={`/blog/category/${cat
                             .toLowerCase()
                             .replace(/ /g, "-")}`}
                           className="text-blue-600 hover:underline"
                         >
                           {cat}
-                        </Link> */}
+                        </Link>
                       </li>
                     ))}
                   </ul>
