@@ -5644,10 +5644,11 @@
         "description": "",
         "code": "BS-DS0001",
         "url": "/door-sliders/k-door-slider",
-        "image": "/img/products/door-sliders/k-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/k-door-slider/k-door-slider-1.jpg",
+        "alttext":"K door slider elevator",
         "slider": [
-          "1",
-          "2"
+          "k-door-slider-1",
+          "k-door-slider-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-sliders/k-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5661,7 +5662,8 @@
         "description": "",
         "code": "BS-DS0002",
         "url": "/door-sliders/o-door-slider",
-        "image": "/img/products/door-sliders/o-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/o-door-slider/o-door-slider-1.jpg",
+        "alttext":"Elevator O door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/o-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Buy elevator O Door Slider for Otis Elevator Doors",
@@ -5674,7 +5676,8 @@
         "description": "",
         "code": "BS-DS0003",
         "url": "/door-sliders/o-nylon-rubber-door-slider",
-        "image": "/img/products/door-sliders/o-nylon-rubber-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/o-nylon-rubber-door-slider/o-nylon-rubber-door-slider-1.jpg",
+        "alttext":"Elevator O Nylon Rubber Door Slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/o-nylon-rubber-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator O Nylon Rubber Door Slider for Otis Doors",
@@ -5687,12 +5690,13 @@
         "description": "K200/S200",
         "code": "BS-DS0004",
         "url": "/door-sliders/door-slider-k200-s200",
-        "image": "/img/products/door-sliders/door-slider-k200-s200/1.jpg",
+        "image": "/img/products/door-sliders/door-slider-k200-s200/door-slider-k200-s200-1.jpg",
+        "alttext":"elevator K200 S200 door slider",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "door-slider-k200-s200-1",
+          "door-slider-k200-s200-2",
+          "door-slider-k200-s200-3",
+          "door-slider-k200-s200-4"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-k200-s200",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5706,7 +5710,8 @@
         "description": "",
         "code": "BS-DS0005",
         "url": "/door-sliders/s-door-slider",
-        "image": "/img/products/door-sliders/s-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/s-door-slider/s-door-slider-1.jpg",
+        "alttext":"S-Door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/s-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "S Door Slider Elevator | Compatible with Sigma & Schindler UAE",
@@ -5720,6 +5725,7 @@
         "code": "BS-DS0006",
         "url": "/door-sliders/lg-door-slider",
         "image": "/img/product-default-img.jpg",
+        "alttext":"LG-Door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/lg-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5728,7 +5734,8 @@
         "description": "",
         "code": "BS-DS0007",
         "url": "/door-sliders/to-door-slider",
-        "image": "/img/products/door-sliders/to-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/to-door-slider/to-door-slider-1.jpg",
+        "alttext":"TO-Door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/to-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "TO Door Slider Elevator | Toshiba & ThyssenKrupp Doors",
@@ -5741,10 +5748,11 @@
         "description": "",
         "code": "BS-DS0008",
         "url": "/door-sliders/hi-door-slider",
-        "image": "/img/products/door-sliders/hi-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/hi-door-slider/hi-door-slider-1.jpg",
+        "alttext":"Hi-Door slider",
         "slider": [
-          "1",
-          "2"
+          "hi-door-slider-1",
+          "hi-door-slider-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-sliders/hi-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5758,10 +5766,11 @@
         "description": "",
         "code": "BS-DS0009",
         "url": "/door-sliders/e-door-slider",
-        "image": "/img/products/door-sliders/e-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/e-door-slider/e-door-slider-1.jpg",
+        "alttext":"E Door Slider Elevator",
         "slider": [
-          "1",
-          "2"
+          "e-door-slider-1",
+          "e-door-slider-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-sliders/e-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5775,7 +5784,8 @@
         "description": "",
         "code": "BS-DS0010",
         "url": "/door-sliders/hy-door-slider",
-        "image": "/img/products/door-sliders/hy-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/hy-door-slider/hy-door-slider-1.jpg",
+        "alttext":"HY-Door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/hy-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "HY Door Slider Elevator for Hyundai and LG Sigma Lifts | UAE",
@@ -5788,7 +5798,8 @@
         "description": "",
         "code": "BS-DS0011",
         "url": "/door-sliders/c-door-slider",
-        "image": "/img/products/door-sliders/c-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/c-door-slider/c-door-slider-1.jpg",
+        "alttext":"C Door Slider Elevator",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/c-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Buy C Door Slider Elevator | UAE Lift Spare",
@@ -5801,7 +5812,8 @@
         "description": "",
         "code": "BS-DS0012",
         "url": "/door-sliders/i-door-slider",
-        "image": "/img/products/door-sliders/i-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/i-door-slider/i-door-slider-1.jpg",
+        "alttext":"I Door Slider Elevator",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/i-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "I Door Slider Elevator Spare Part in UAE",
@@ -5814,7 +5826,8 @@
         "description": "",
         "code": "BS-DS0013",
         "url": "/door-sliders/quilog-door-slider",
-        "image": "/img/products/door-sliders/quilog-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/quilog-door-slider/quilog-door-slider-1.jpg",
+        "alttext":"Quilog door slider elevator",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/quilog-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Quilog Door Slider for Elevator Doors | Lift Parts UAE",
@@ -5827,7 +5840,8 @@
         "description": "",
         "code": "BS-DS0014",
         "url": "/door-sliders/freight-elevator-door-slider",
-        "image": "/img/products/door-sliders/freight-elevator-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/freight-elevator-door-slider/freight-elevator-door-slider-1.jpg",
+        "alttext":"Freight Elevator door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/freight-elevator-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Freight Elevator Door Slider for Cargo Lifts | Door Guide",
@@ -5840,7 +5854,8 @@
         "description": "",
         "code": "BS-DS0015",
         "url": "/door-sliders/m-door-slider",
-        "image": "/img/products/door-sliders/m-door-slider/1.jpg",
+        "image": "/img/products/door-sliders/m-door-slider/m-door-slider-1.jpg",
+        "alttext":"M-Door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/m-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator M Door Slider for Mitsubishi Lift Systems",
@@ -5853,7 +5868,8 @@
         "description": "Door slider 31mmX15mm",
         "code": "BS-DS0016",
         "url": "/door-sliders/door-slider-31mmx15mm",
-        "image": "/img/products/door-sliders/door-slider-31mmx15mm/1.jpg",
+        "image": "/img/products/door-sliders/door-slider-31mmx15mm/door-slider-31mmx15mm-1.jpg",
+        "alttext":"Door slider 31mmX15mm",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-31mmx15mm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5862,7 +5878,8 @@
         "description": "Door slider 39mmX14mm",
         "code": "BS-DS0017",
         "url": "/door-sliders/door-slider-39mmx14mm",
-        "image": "/img/products/door-sliders/door-slider-39mmx14mm/1.jpg",
+        "image": "/img/products/door-sliders/door-slider-39mmx14mm/door-slider-39mmx14mm-1.jpg",
+        "alttext":"Door slider 39mmX14mm",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-39mmx14mm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5871,7 +5888,8 @@
         "description": "Door slider White 18mmX25mm - Schindler",
         "code": "BS-DS0018",
         "url": "/door-sliders/door-slider-white-18mmx25mm-s",
-        "image": "/img/products/door-sliders/door-slider-white-18mmx25mm-s/1.jpg",
+        "image": "/img/products/door-sliders/door-slider-white-18mmx25mm-s/door-slider-white-18mmx25mm-s-1.jpg",
+        "alttext":"Door slider White 18mmX25mm - S",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-white-18mmx25mm-s",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5880,7 +5898,8 @@
         "description": "OTIS Door Slider black - 12X50",
         "code": "BS-DS0019",
         "url": "/door-sliders/door-slider-black-12x50",
-        "image": "/img/products/door-sliders/door-slider-black-12x50/1.jpg",
+        "image": "/img/products/door-sliders/door-slider-black-12x50/door-slider-black-12x50-1.jpg",
+        "alttext":"Door Slider black - 12X50",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-black-12x50",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
@@ -6683,11 +6702,12 @@
         "description": "NICE-D-A-SP04",
         "code": "BS-DD0001",
         "url": "/door-drives-and-motors/door-drive-bs-dd0001",
-        "image": "/img/products/door-drives/door-drive-bs-dd0001/1.jpg",
+        "image": "/img/products/door-drives/door-drive-bs-dd0001/door-drive-bs-dd0001-1.jpg",
+        "alttext":"Door Drives and Motors: NICE-D-A-SOP4",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "door-drive-bs-dd0001-1",
+          "door-drive-bs-dd0001-2",
+          "door-drive-bs-dd0001-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0001",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6709,10 +6729,11 @@
         "description": "AAD03011DK",
         "code": "BS-DD0002",
         "url": "/door-drives-and-motors/door-drive-bs-dd0002",
-        "image": "/img/products/door-drives/door-drive-bs-dd0002/1.jpg",
+        "image": "/img/products/door-drives/door-drive-bs-dd0002/door-drive-bs-dd0002-1.jpg",
+        "alttext":"Door Drives and Motors: AAD03011DK",
         "slider": [
-          "1",
-          "2"
+          "door-drive-bs-dd0002-1",
+          "door-drive-bs-dd0002-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6732,6 +6753,7 @@
         "code": "BS-DD0003",
         "url": "/door-drives-and-motors/dc-door-drive-24v",
         "image": "/img/product-default-img.jpg",
+        "alttext":"DC Door Drives and Motors: 24V",
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-24v",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6740,10 +6762,11 @@
         "description": "DC Door Drives and Motors - DR2009C",
         "code": "BS-DD0004",
         "url": "/door-drives-and-motors/dc-door-drive-dr2009c-200w",
-        "image": "/img/products/door-drives/dc-door-drive-dr2009c-200w/1.jpg",
+        "image": "/img/products/door-drives/dc-door-drive-dr2009c-200w/dc-door-drive-dr2009c-200w-1.jpg",
+        "alttext":"DC Door Drives and Motors - DR2009C 200W",
         "slider": [
-          "1",
-          "2"
+          "dc-door-drive-dr2009c-200w-1",
+          "dc-door-drive-dr2009c-200w-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-dr2009c-200w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6753,10 +6776,11 @@
         "description": "PM61842 43W",
         "code": "BS-DD0005",
         "url": "/door-drives-and-motors/door-motor-with-encoder-pm61842",
-        "image": "/img/products/door-drives/door-motor-with-encoder-pm61842/1.jpg",
+        "image": "/img/products/door-drives/door-motor-with-encoder-pm61842/door-motor-with-encoder-pm61842-1.jpg",
+        "alttext":"Door Motor with Encoder PM61842",
         "slider": [
-          "1",
-          "2"
+          "door-motor-with-encoder-pm61842-1",
+          "door-motor-with-encoder-pm61842-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-motor-with-encoder-pm61842",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6766,10 +6790,11 @@
         "description": "Arkel: KM-10S",
         "code": "BS-DD0006",
         "url": "/door-drives-and-motors/km-10s-door-controller-box",
-        "image": "/img/products/door-drives/km-10s-door-controller-box/1.jpg",
+        "image": "/img/products/door-drives/km-10s-door-controller-box/km-10s-door-controller-box-1.jpg",
+        "alttext":"KM 10S Door Controller (Box)",
         "slider": [
-          "1",
-          "2"
+          "km-10s-door-controller-box-1",
+          "km-10s-door-controller-box-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/km-10s-door-controller-box",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6779,7 +6804,8 @@
         "description": "Fermator: V5+",
         "code": "BS-DD0007",
         "url": "/door-drives-and-motors/elevator-door-controller-v5",
-        "image": "/img/products/door-drives/elevator-door-controller-v5/1.jpg",
+        "image": "/img/products/door-drives/elevator-door-controller-v5/elevator-door-controller-v5-1.jpg",
+        "alttext":"Elevator Door Controller V5+",
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motorselevator-door-controller-v5",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6788,10 +6814,11 @@
         "description": "OTIS: DO3000S",
         "code": "BS-DD0008",
         "url": "/door-drives-and-motors/elevator-door-controller-do3000s",
-        "image": "/img/products/door-drives/elevator-door-controller-do3000s/1.jpg",
+        "image": "/img/products/door-drives/elevator-door-controller-do3000s/elevator-door-controller-do3000s-1.jpg",
+        "alttext":"Elevator Door Controller DO3000S",
         "slider": [
-          "1",
-          "2"
+          "elevator-door-controller-do3000s-1",
+          "elevator-door-controller-do3000s-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-do3000s",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6801,10 +6828,11 @@
         "description": "NBSL NSFC01-02",
         "code": "BS-DD0009",
         "url": "/door-drives-and-motors/door-drive-nsfc01-02",
-        "image": "/img/products/door-drives/door-drive-nsfc01-02/1.jpg",
+        "image": "/img/products/door-drives/door-drive-nsfc01-02/door-drive-nsfc01-02-1.jpg",
+        "alttext":"Door Drives and Motors NSFC01-02",
         "slider": [
-          "1",
-          "2"
+          "door-drive-nsfc01-02-1",
+          "door-drive-nsfc01-02-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-nsfc01-02",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6814,10 +6842,11 @@
         "description": "Elevator Door Motor YVP90-6",
         "code": "BS-DD0010",
         "url": "/door-drives-and-motors/elevator-door-motor-yvp90-6",
-        "image": "/img/products/door-drives/elevator-door-motor-yvp90-6/1.jpg",
+        "image": "/img/products/door-drives/elevator-door-motor-yvp90-6/elevator-door-motor-yvp90-6-1.jpg",
+        "alttext":"Elevator Door Motor YVP90-6",
         "slider": [
-          "1",
-          "2"
+          "elevator-door-motor-yvp90-6-1",
+          "elevator-door-motor-yvp90-6-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6827,10 +6856,11 @@
         "description": "Elevator Door Motor YVP90-6B1",
         "code": "BS-DD0011",
         "url": "/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
-        "image": "/img/products/door-drives/elevator-door-motor-yvp90-6b1/1.jpg",
+        "image": "/img/products/door-drives/elevator-door-motor-yvp90-6b1/elevator-door-motor-yvp90-6b1-1.jpg",
+        "alttext":"Elevator Door Motor YVP90-6B1",
         "slider": [
-          "1",
-          "2"
+          "elevator-door-motor-yvp90-6b1-1",
+          "elevator-door-motor-yvp90-6b1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6840,10 +6870,11 @@
         "description": "Door Motor GR63X55 24VDC Dunkermotoren",
         "code": "BS-DD0012",
         "url": "/door-drives-and-motors/door-motor-gr63x55-24vdc-dunkermotoren",
-        "image": "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/1.jpg",
+        "image": "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/door-motor-gr63x55-24vdc-dunkermotoren-1.jpg",
+        "alttext":"Door Motor GR63X55 24VDC Dunkermotoren",
         "slider": [
-          "1",
-          "2"
+          "door-motor-gr63x55-24vdc-dunkermotoren-1",
+          "door-motor-gr63x55-24vdc-dunkermotoren-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-motor-gr63x55-24vdc-dunkermotoren",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
