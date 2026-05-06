@@ -791,10 +791,11 @@
         "description": "LA137-BS542 40",
         "code": "BS-BT0001",
         "url": "/buttons/stop-push-button-nc",
-        "image": "/img/products/buttons/stop-push-button-nc/1.jpg",
+        "image": "/img/products/buttons/stop-push-button-nc/stop-push-button-nc-1.jpg",
+        "alttext":"Elevator Stop Push button",
         "slider": [
-          "1",
-          "2"
+          "stop-push-button-nc-1",
+          "stop-push-button-nc-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/stop-push-button-nc",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -804,10 +805,11 @@
         "description": "LA137-XB2-BA3341",
         "code": "BS-BT0002",
         "url": "/buttons/white-arrow-button-no",
-        "image": "/img/products/buttons/white-arrow-button-no/1.jpg",
+        "image": "/img/products/buttons/white-arrow-button-no/white-arrow-button-no-1.jpg",
+        "alttext":"Elevator White arrow button",
         "slider": [
-          "1",
-          "2"
+          "white-arrow-button-no-1",
+          "white-arrow-button-no-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/white-arrow-button-no",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -817,10 +819,11 @@
         "description": "LA137-XB2-BA3351",
         "code": "BS-BT0003",
         "url": "/buttons/black-arrow-button-no",
-        "image": "/img/products/buttons/black-arrow-button-no/1.jpg",
+        "image": "/img/products/buttons/black-arrow-button-no/black-arrow-button-no-1.jpg",
+        "alttext":"Elevator Black arrow button (NO)",
         "slider": [
-          "1",
-          "2"
+          "black-arrow-button-no-1",
+          "black-arrow-button-no-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/black-arrow-button-no",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -830,7 +833,8 @@
         "description": "LA137-CW35M1",
         "code": "BS-BT0004",
         "url": "/buttons/green-push-button-with-light-no",
-        "image": "/img/products/buttons/green-push-button-with-light-no/1.jpg",
+        "image": "/img/products/buttons/green-push-button-with-light-no/green-push-button-with-light-no-1.jpg",
+        "alttext":"Elevator Green push button with light",
         "canonical": "https://www.bestechparts.ae/products/buttons/green-push-button-with-light-no",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -839,7 +843,8 @@
         "description": "LA137-CW35M2",
         "code": "BS-BT0005",
         "url": "/buttons/red-push-button-with-light-no",
-        "image": "/img/products/buttons/red-push-button-with-light-no/1.jpg",
+        "image": "/img/products/buttons/red-push-button-with-light-no/red-push-button-with-light-no-1.jpg",
+        "alttext":"Elevator Red push button with light",
         "canonical": "https://www.bestechparts.ae/products/buttons/red-push-button-with-light-no",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -848,10 +853,11 @@
         "description": "KDS330/KDS220",
         "code": "BS-BT0006",
         "url": "/buttons/button-kds330-kds220",
-        "image": "/img/products/buttons/button-kds330-kds220/1.jpg",
+        "image": "/img/products/buttons/button-kds330-kds220/button-kds330-kds220-1.jpg",
+        "alttext":"Elevator Push Button KDS330 & KDS220",
         "slider": [
-          "1",
-          "2"
+          "button-kds330-kds220-1",
+          "button-kds330-kds220-2"
         ],
         "meta-title": "Elevator Push Button KDS330 & KDS220 Supplier in UAE | Bestech",
         "meta_description": "Buy KDS330 & KDS220 elevator push buttons from Bestech in Sharjah, Dubai & UAE. Fits Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp lifts.",
@@ -865,10 +871,11 @@
         "description": " MTD482 DA482A101",
         "code": "BS-BT0007",
         "url": "/buttons/button-mtd482-da482a101",
-        "image": "/img/products/buttons/button-mtd482-da482a101/1.jpg",
+        "image": "/img/products/buttons/button-mtd482-da482a101/button-mtd482-da482a101-1.jpg",
+        "alttext":"Elevator Push Button MTD482 & DA482A101",
         "slider": [
-          "1",
-          "2"
+          "button-mtd482-da482a101-1",
+          "button-mtd482-da482a101-2"
         ],
         "meta-title": "Elevator Push Button MTD482 & DA482A101 in Sharjah | Bestech",
         "meta_description": "Order original MTD482 & DA482A101 elevator push buttons in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Hyundai, Mitsubishi and Schindler elevators.",
@@ -882,12 +889,13 @@
         "description": "MTD340",
         "code": "BS-BT0008",
         "url": "/buttons/button-mtd340",
-        "image": "/img/products/buttons/button-mtd340/1.jpg",
+        "image": "/img/products/buttons/button-mtd340/button-mtd340-1.jpg",
+        "alttext":"Elevator Push Button MTD340",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "button-mtd340-1",
+          "button-mtd340-2",
+          "button-mtd340-3",
+          "button-mtd340-4"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-mtd340",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -902,9 +910,10 @@
         "code": "BS-BT0009",
         "url": "/buttons/button-ak2026f",
         "image": "/img/products/buttons/button-ak2026f/1.jpg",
+        "alttext":"AK2026F Elevator Control Panel Button",
         "slider": [
-          "1",
-          "2"
+          "button-ak2026f-1",
+          "button-ak2026f-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-ak2026f",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -918,10 +927,11 @@
         "description": "BR27C/A311",
         "code": "BS-BT0010",
         "url": "/buttons/button-br27c-a311",
-        "image": "/img/products/buttons/button-br27c-a311/1.jpg",
+        "image": "/img/products/buttons/button-br27c-a311/button-br27c-a311-1.jpg",
+        "alttext":"Elevator Push Button BR27C-A311",
         "slider": [
-          "1",
-          "2"
+          "button-br27c-a311-1",
+          "button-br27c-a311-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-br27c-a311",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -935,10 +945,11 @@
         "description": "CN03010009/A4J16354",
         "code": "BS-BT0011",
         "url": "/buttons/button-cn03010009-a4j16354",
-        "image": "/img/products/buttons/button-cn03010009-a4j16354/1.jpg",
+        "image": "/img/products/buttons/button-cn03010009-a4j16354/button-cn03010009-a4j16354-1.jpg",
+        "alttext":"Elevator Push Button CN03010009-A4J16354",
         "slider": [
-          "1",
-          "2"
+          "button-cn03010009-a4j16354-1",
+          "button-cn03010009-a4j16354-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-cn03010009-a4j16354",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -952,7 +963,8 @@
         "description": "A3N47136/KAS441",
         "code": "BS-BT0012",
         "url": "/buttons/button-a3n47136-kas441",
-        "image": "/img/products/buttons/button-a3n47136-kas441/1.jpg",
+        "image": "/img/products/buttons/button-a3n47136-kas441/button-a3n47136-kas441-1.jpg",
+        "alttext":"Elevator Push Button A3N47136-KAS441",
         "canonical": "https://www.bestechparts.ae/products/buttons/button-a3n47136-kas441",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator Push Button A3N47136-KAS441 for OTIS | Bestech",
@@ -965,10 +977,11 @@
         "description": "A3N47325/AJ47324A2",
         "code": "BS-BT0013",
         "url": "/buttons/button-a3n47325-aj47324a2",
-        "image": "/img/products/buttons/button-a3n47325-aj47324a2/1.jpg",
+        "image": "/img/products/buttons/button-a3n47325-aj47324a2/button-a3n47325-aj47324a2-1.jpg",
+        "alttext":"Elevator Push Button A3N47325 & AJ47324A2",
         "slider": [
-          "1",
-          "2"
+          "button-a3n47325-aj47324a2-1",
+          "button-a3n47325-aj47324a2-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-a3n47325-aj47324a2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -982,10 +995,11 @@
         "description": "KD550",
         "code": "BS-BT0014",
         "url": "/buttons/button-kd550",
-        "image": "/img/products/buttons/button-kd550/1.jpg",
+        "image": "/img/products/buttons/button-kd550/button-kd550-1.jpg",
+        "alttext":"Elevator Push Button KD550",
         "slider": [
-          "1",
-          "2"
+          "button-kd550-1",
+          "button-kd550-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-kd550",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -999,10 +1013,11 @@
         "description": "KDS300",
         "code": "BS-BT0015",
         "url": "/buttons/square-button-kds300",
-        "image": "/img/products/buttons/square-button-kds300/1.jpg",
+        "image": "/img/products/buttons/square-button-kds300/square-button-kds300-1.jpg",
+        "alttext":"Elevator Push Button KDS300",
         "slider": [
-          "1",
-          "2"
+          "square-button-kds300-1",
+          "square-button-kds300-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/square-button-kds300",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1017,6 +1032,7 @@
         "code": "BS-BT0016",
         "url": "/buttons/button-kmbs7782g0",
         "image": "/img/product-default-img.jpg",
+        "alttext":"Elevator Button KMBS7782G",
         "canonical": "https://www.bestechparts.ae/products/buttons/button-kmbs7782g0",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1025,10 +1041,11 @@
         "description": "A4J16467/A4J16465/A4J20057",
         "code": "BS-BT0017",
         "url": "/buttons/giant-button-a4j16467-a4j16465-a4j20057",
-        "image": "/img/products/buttons/giant-button-a4j16467-a4j16465-a4j20057/1.jpg",
+        "image": "/img/products/buttons/giant-button-a4j16467-a4j16465-a4j20057/giant-button-a4j16467-a4j16465-a4j20057-1.jpg",
+        "alttext":"Elevator Giant Button A4J16467 A4J16465 A4J20057",
         "slider": [
-          "1",
-          "2"
+          "giant-button-a4j16467-a4j16465-a4j20057-1",
+          "giant-button-a4j16467-a4j16465-a4j20057-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/giant-button-a4j16467-a4j16465-a4j20057",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1042,10 +1059,11 @@
         "description": "MTD511G01/DA511G01",
         "code": "BS-BT0018",
         "url": "/buttons/button-mtd511g01-da511g01",
-        "image": "/img/products/buttons/button-mtd511g01-da511g01/1.jpg",
+        "image": "/img/products/buttons/button-mtd511g01-da511g01/button-mtd511g01-da511g01-1.jpg",
+        "alttext":"Elevator Push Button MTD511G01 & DA511G01",
         "slider": [
-          "1",
-          "2"
+          "button-mtd511g01-da511g01-1",
+          "button-mtd511g01-da511g01-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-mtd511g01-da511g01",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1059,11 +1077,12 @@
         "description": "DA180/MTD180",
         "code": "BS-BT0019",
         "url": "/buttons/button-da180-mtd180",
-        "image": "/img/products/buttons/button-da180-mtd180/1.jpg",
+        "image": "/img/products/buttons/button-da180-mtd180/button-da180-mtd180-1.jpg",
+        "alttext":"Elevator Push Button DA180-MTD180",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "button-da180-mtd180-1",
+          "button-da180-mtd180-2",
+          "button-da180-mtd180-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-da180-mtd180",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1074,10 +1093,11 @@
         "description": "SL-TC",
         "code": "BS-BT0020",
         "url": "/buttons/button-sl-tc",
-        "image": "/img/products/buttons/button-sl-tc/1.jpg",
+        "image": "/img/products/buttons/button-sl-tc/button-sl-tc-1.jpg",
+        "alttext":"Elevator Push Button SL-TC",
         "slider": [
-          "1",
-          "2"
+          "button-sl-tc-1",
+          "button-sl-tc-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-sl-tc",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1091,10 +1111,11 @@
         "description": "HD60-1",
         "code": "BS-BT0021",
         "url": "/buttons/button-hd60-1",
-        "image": "/img/products/buttons/button-hd60-1/1.jpg",
+        "image": "/img/products/buttons/button-hd60-1/button-hd60-1-1.jpg",
+        "alttext":"Elevator Push Button HD60-1",
         "slider": [
-          "1",
-          "2"
+          "button-hd60-1-1",
+          "button-hd60-1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-hd60-1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1108,10 +1129,11 @@
         "description": "KAS040/AMV243/AAD7442",
         "code": "BS-BT0022",
         "url": "/buttons/button-kas040-amv243-aad7442",
-        "image": "/img/products/buttons/button-kas040-amv243-aad7442/1.jpg",
+        "image": "/img/products/buttons/button-kas040-amv243-aad7442/button-kas040-amv243-aad7442-1.jpg",
+        "alttext":"Elevator Push Button KAS040-AMV243-AAD7442",
         "slider": [
-          "1",
-          "2"
+          "button-kas040-amv243-aad7442-1",
+          "button-kas040-amv243-aad7442-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-kas040-amv243-aad7442",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1125,10 +1147,11 @@
         "description": "CS-41-GG",
         "code": "BS-BT0023",
         "url": "/buttons/button-cs-41-gg",
-        "image": "/img/products/buttons/button-cs-41-gg/1.jpg",
+        "image": "/img/products/buttons/button-cs-41-gg/button-cs-41-gg-1.jpg",
+        "alttext":"Elevator Push Button CS-41-GG",
         "slider": [
-          "1",
-          "2"
+          "button-cs-41-gg-1",
+          "button-cs-41-gg-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-cs-41-gg",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1142,10 +1165,11 @@
         "description": "MTD118",
         "code": "BS-BT0024",
         "url": "/buttons/button-mtd118",
-        "image": "/img/products/buttons/button-mtd118/1.jpg",
+        "image": "/img/products/buttons/button-mtd118/button-mtd118-1.jpg",
+        "alttext":"Elevator Push Button MTD118",
         "slider": [
-          "1",
-          "2"
+          "button-mtd118-1",
+          "button-mtd118-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-mtd118",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1159,10 +1183,11 @@
         "description": "A4J13868/A4N13869",
         "code": "BS-BT0025",
         "url": "/buttons/button-a4j13868-a4n13869",
-        "image": "/img/products/buttons/button-a4j13868-a4n13869/1.jpg",
+        "image": "/img/products/buttons/button-a4j13868-a4n13869/button-a4j13868-a4n13869-1.jpg",
+        "alttext":"Elevator Push Button A4J13868-A4N13869 ",
         "slider": [
-          "1",
-          "2"
+          "button-a4j13868-a4n13869-1",
+          "button-a4j13868-a4n13869-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/button-a4j13868-a4n13869",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1176,7 +1201,7 @@
         "description": "KA313-0",
         "code": "BS-BT0026",
         "url": "/buttons/emergency-light-round-cop",
-        "image": "/img/products/buttons/emergency-light-round-cop/1.jpg",
+        "image": "/img/products/buttons/emergency-light-round-cop/emergency-light-round-cop-1.jpg",
         "canonical": "https://www.bestechparts.ae/products/buttons/emergency-light-round-cop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator Emergency Light Round COP | Safety Part in UAE",
@@ -1189,10 +1214,12 @@
         "description": "DA411/B113/MTD411",
         "code": "BS-BT0027",
         "url": "/buttons/button-da411-b113-mtd411",
-        "image": "/img/products/buttons/button-da411-b113-mtd411/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/button-da411-b113-mtd411",
+        "image": "/img/products/buttons/button-da411-b113-mtd411/button-da411-b113-mtd411-1.jpg",
+        "alttext":"Elevator Push Button DA411-B113-MTD411",
         "slider": [
-          "1",
-          "2"
+          "button-da411-b113-mtd411-1",
+          "button-da411-b113-mtd411-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator Push Button DA411-B113-MTD411 | Lift Spare, UAE",
@@ -1205,7 +1232,9 @@
         "description": "COP button - Open",
         "code": "BS-BT0028",
         "url": "/buttons/cop-button-open",
-        "image": "/img/products/buttons/cop-button-open/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-open",
+        "image": "/img/products/buttons/cop-button-open/cop-button-open-1.jpg",
+        "alttext":"Elevator COP Door Open Button",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Door Open Button | Lift Spare, UAE",
         "meta_description": "Shop COP door open button for elevators in Sharjah, Dubai & UAE. Fits Otis, Kone, Mitsubishi, thyssenkrupp and Schindler control operating panels.",
@@ -1217,7 +1246,9 @@
         "description": "COP button - Close",
         "code": "BS-BT0029",
         "url": "/buttons/cop-button-close",
-        "image": "/img/products/buttons/cop-button-close/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-close",
+        "image": "/img/products/buttons/cop-button-close/cop-button-close-1.jpg",
+        "alttext":"Elevator COP Door Close Button",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Door Close Button | Lift Spare, UAE",
         "meta_description": "Buy COP door close button for elevators in Sharjah, Dubai & UAE. Compatible with most lift brands including Otis, Kone, Schindler, Hyundai and Mitsubishi.",
@@ -1229,7 +1260,9 @@
         "description": "COP button - P1",
         "code": "BS-BT0030",
         "url": "/buttons/cop-button-p1",
-        "image": "/img/products/buttons/cop-button-p1/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-p1",
+        "image": "/img/products/buttons/cop-button-p1/cop-button-p1-1.jpg",
+        "alttext":"Elevator COP Button P1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P1 for Lift Panels in UAE | Bestech",
         "meta_description": "Order COP Button P1 for elevator control panels from Bestech in Sharjah, Dubai & UAE. Fits Otis, Kone, Schindler, Mitsubishi, Hyundai and other lift brands.",
@@ -1241,7 +1274,9 @@
         "description": "COP button - P2",
         "code": "BS-BT0031",
         "url": "/buttons/cop-button-p2",
-        "image": "/img/products/buttons/cop-button-p2/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-p2",
+        "image": "/img/products/buttons/cop-button-p2/cop-button-p2-1.jpg",
+        "alttext":"Elevator COP Button P2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P2 for Lift Panels in UAE | Bestech",
         "meta_description": "Shop original COP Button P2 for elevators in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp lift systems.",
@@ -1253,7 +1288,9 @@
         "description": "COP button - P3",
         "code": "BS-BT0032",
         "url": "/buttons/cop-button-p3",
-        "image": "/img/products/buttons/cop-button-p3/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-p3",
+        "image": "/img/products/buttons/cop-button-p3/cop-button-p3-1.jpg",
+        "alttext":"Elevator COP Button P3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P3 for Lift Systems in UAE | Bestech",
         "meta_description": "Buy COP Button P3 for elevator panels in Sharjah, Dubai & UAE. Genuine spare for Otis, Kone, Schindler, Hyundai, Mitsubishi and thyssenkrupp elevators.",
@@ -1265,7 +1302,8 @@
         "description": "COP button - P4",
         "code": "BS-BT0033",
         "url": "/buttons/cop-button-p4",
-        "image": "/img/products/buttons/cop-button-p4/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-p4",
+        "image": "/img/products/buttons/cop-button-p4/cop-button-p4-1.jpg",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P4 for Lift Control Panels | UAE",
         "meta_description": "Get COP Button P4 for elevators in Sharjah, Dubai & UAE from Bestech. Works with Kone, Otis, Hyundai, Schindler, Mitsubishi and other top elevator brands.",
@@ -1277,7 +1315,9 @@
         "description": "COP button - P5",
         "code": "BS-BT0034",
         "url": "/buttons/cop-button-p5",
-        "image": "/img/products/buttons/cop-button-p5/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-p5",
+        "image": "/img/products/buttons/cop-button-p5/cop-button-p5-1.jpg",
+        "alttext":"Elevator COP Button P5",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P5 | High Quality Lift Buttons, UAE",
         "meta_description": "Buy premium elevator COP button P5 from Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Schindler, Mitsubishi, Hyundai & thyssenkrupp lifts.",
@@ -1289,11 +1329,13 @@
         "description": "COP button - G",
         "code": "BS-BT0035",
         "url": "/buttons/cop-button-g",
-        "image": "/img/products/buttons/cop-button-g/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-g",
+        "image": "/img/products/buttons/cop-button-g/cop-button-g-1.jpg",
+        "alttext":"Elevator COP Button G",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "cop-button-g-1",
+          "cop-button-g-2",
+          "cop-button-g-3"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button G | High Quality Lift Buttons, UAE",
@@ -1306,7 +1348,9 @@
         "description": "COP button - M",
         "code": "BS-BT0036",
         "url": "/buttons/cop-button-m",
-        "image": "/img/products/buttons/cop-button-m/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-m",
+        "image": "/img/products/buttons/cop-button-m/cop-button-m-1.jpg",
+        "alttext":"Elevator COP Button M",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button M | Durable Lift Button Supplier in UAE",
         "meta_description": "Get elevator COP button M from Bestech in Sharjah, Dubai & UAE. Trusted supplier of Otis, Kone, Schindler, Mitsubishi, Hyundai & thyssenkrupp parts.",
@@ -1318,10 +1362,12 @@
         "description": "COP button - 1",
         "code": "BS-BT0037",
         "url": "/buttons/cop-button-1",
-        "image": "/img/products/buttons/cop-button-1/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-1",
+        "image": "/img/products/buttons/cop-button-1/cop-button-1-1.jpg",
+        "alttext":"Elevator COP Button 1",
         "slider": [
-          "1",
-          "2"
+          "cop-button-1-1",
+          "cop-button-1-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 1 | Lift Panel Spare Parts in UAE",
@@ -1334,7 +1380,9 @@
         "description": "COP button - 2",
         "code": "BS-BT0037",
         "url": "/buttons/cop-button-2",
-        "image": "/img/products/buttons/cop-button-2/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-2",
+        "image": "/img/products/buttons/cop-button-2/cop-button-2-1.jpg",
+        "alttext":"Elevator COP Button 2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 2 | Lift Control Buttons in UAE",
         "meta_description": "Shop elevator COP button 2 at Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Schindler, Mitsubishi, Hyundai & thyssenkrupp elevators.",
@@ -1346,7 +1394,9 @@
         "description": "COP button - 3",
         "code": "BS-BT0039",
         "url": "/buttons/cop-button-3",
-        "image": "/img/products/buttons/cop-button-3/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-3",
+        "image": "/img/products/buttons/cop-button-3/cop-button-3-1.jpg",
+        "alttext":"Elevator COP Button 3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 3 | Best Lift Button Supplier in UAE",
         "meta_description": "Get elevator COP button 3 from Bestech in Sharjah, Dubai & UAE. High quality compatible spare for Otis, Kone, Schindler, Hyundai & Mitsubishi lifts.",
@@ -1358,7 +1408,9 @@
         "description": "COP button - 4",
         "code": "BS-BT0040",
         "url": "/buttons/cop-button-4",
-        "image": "/img/products/buttons/cop-button-4/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-4",
+        "image": "/img/products/buttons/cop-button-4/cop-button-4-1.jpg",
+        "alttext":"Elevator COP Button 4",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 4 | Lift Spare Supplier in UAE",
         "meta_description": "Purchase elevator COP button 4 from Bestech in Sharjah, Dubai & UAE. Genuine spare compatible with Otis, Kone, Schindler, Hyundai & Mitsubishi lifts.",
@@ -1370,7 +1422,9 @@
         "description": "COP button - 5",
         "code": "BS-BT0041",
         "url": "/buttons/cop-button-5",
-        "image": "/img/products/buttons/cop-button-5/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-5",
+        "image": "/img/products/buttons/cop-button-5/cop-button-5-1.jpg",
+        "alttext":"Elevator COP Button 5",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 5 | High Quality Lift Buttons in UAE",
         "meta_description": "Buy elevator COP button 5 from Bestech in Sharjah, Dubai & UAE. Durable lift spare compatible with Otis, Kone, Schindler, Hyundai & Mitsubishi brands.",
@@ -1382,7 +1436,9 @@
         "description": "COP button - 6",
         "code": "BS-BT0042",
         "url": "/buttons/cop-button-6",
-        "image": "/img/products/buttons/cop-button-6/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-6",
+        "image": "/img/products/buttons/cop-button-6/cop-button-6-1.jpg",
+        "alttext":"Elevator COP Button 6",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 6 | High Quality Lift Buttons in UAE",
         "meta_description": "Buy high quality Elevator COP Button 6 from Bestech in Sharjah, Dubai & UAE. Suitable for Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp lifts.",
@@ -1394,7 +1450,9 @@
         "description": "COP button - 7",
         "code": "BS-BT0043",
         "url": "/buttons/cop-button-7",
-        "image": "/img/products/buttons/cop-button-7/1.jpg",
+         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-7",
+        "image": "/img/products/buttons/cop-button-7/cop-button-7-1.jpg",
+        "alttext":"Elevator COP Button 7",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 7 | High Quality Lift Buttons in UAE",
         "meta_description": "Shop premium Elevator COP Button 7 at Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Schindler, Hyundai, Mitsubishi lift systems.",
@@ -1406,7 +1464,9 @@
         "description": "COP button - 8",
         "code": "BS-BT0044",
         "url": "/buttons/cop-button-8",
-        "image": "/img/products/buttons/cop-button-8/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-8",
+        "image": "/img/products/buttons/cop-button-8/cop-button-8-1.jpg",
+        "alttext":"Elevator COP Button 8",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 8 | High Quality Lift Buttons in UAE",
         "meta_description": "Buy Elevator COP Button 8 from Bestech in Sharjah, Dubai & UAE. Trusted spare compatible with major lift brands like Otis, Kone, Hyundai, Schindler.",
@@ -1418,7 +1478,9 @@
         "description": "COP button - 9",
         "code": "BS-BT0045",
         "url": "/buttons/cop-button-9",
-        "image": "/img/products/buttons/cop-button-9/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-9",
+        "image": "/img/products/buttons/cop-button-9/cop-button-9-1.jpg",
+        "alttext":"Elevator COP Button 9",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 9 | High Quality Lift Buttons in UAE",
         "meta_description": "Order Elevator COP Button 9 in Sharjah, Dubai & UAE from Bestech. Ideal for Otis, thyssenkrupp, Kone, Mitsubishi, Schindler and Hyundai elevators.",
@@ -1430,7 +1492,8 @@
         "description": "COP button - 10",
         "code": "BS-BT0046",
         "url": "/buttons/cop-button-10",
-        "image": "/img/products/buttons/cop-button-10/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-10",
+        "image": "/img/products/buttons/cop-button-10/cop-button-10-1.jpg",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 10 | High Quality Lift Buttons in UAE",
         "meta_description": "Shop Elevator COP Button 10 at Bestech in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Hyundai, Schindler, Mitsubishi and thyssenkrupp lifts.",
@@ -1442,7 +1505,9 @@
         "description": "COP button - 11",
         "code": "BS-BT0047",
         "url": "/buttons/cop-button-11",
-        "image": "/img/products/buttons/cop-button-11/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-11",
+        "image": "/img/products/buttons/cop-button-11/cop-button-11-1.jpg",
+        "alttext":"Elevator COP Button 11",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 11 | High Quality Lift Buttons in UAE",
         "meta_description": "Buy Elevator COP Button 11 from Bestech in Sharjah, Dubai & UAE. Quality spare part suitable for Otis, Kone, Schindler, Hyundai, Mitsubishi elevators.",
@@ -1454,7 +1519,9 @@
         "description": "COP button - 12",
         "code": "BS-BT0048",
         "url": "/buttons/cop-button-12",
-        "image": "/img/products/buttons/cop-button-12/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-12",
+        "image": "/img/products/buttons/cop-button-12/cop-button-12-1.jpg",
+        "alttext":"Elevator COP Button 12",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 12 | High Quality Lift Buttons in UAE",
         "meta_description": "Get Elevator COP Button 12 at Bestech in Sharjah, Dubai & UAE. Perfect replacement for Otis, Kone, Hyundai, Schindler, Mitsubishi lift systems.",
@@ -1466,7 +1533,9 @@
         "description": "COP button - R",
         "code": "BS-BT0049",
         "url": "/buttons/cop-button-r",
-        "image": "/img/products/buttons/cop-button-r/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-r",
+        "image": "/img/products/buttons/cop-button-r/cop-button-r-1.jpg",
+        "alttext":"Elevator COP Button R",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button R | High Quality Lift Buttons in UAE",
         "meta_description": "Buy Elevator COP Button R from Bestech in Sharjah, Dubai & UAE. Reliable spare part compatible with Otis, Kone, Hyundai, Schindler and Mitsubishi lifts.",
@@ -1478,7 +1547,9 @@
         "description": "COP button - Alarm",
         "code": "BS-BT0050",
         "url": "/buttons/cop-button-alarm",
-        "image": "/img/products/buttons/cop-button-alarm/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-alarm",
+        "image": "/img/products/buttons/cop-button-alarm/cop-button-alarm-1.jpg",
+        "alttext":"Elevator Alarm Button",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator Alarm Button | High Quality Lift Spare in UAE",
         "meta_description": "Shop high quality elevator alarm buttons from Bestech in Sharjah, Dubai & UAE. Trusted spare compatible with Otis, Kone, Schindler, Hyundai and Mitsubishi.",
@@ -1490,7 +1561,9 @@
         "description": "Model: Monarch",
         "code": "BS-BT0051",
         "url": "/buttons/lop-button-up-and-down-arrow",
-        "image": "/img/products/buttons/lop-button-up-and-down-arrow/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/lop-button-up-and-down-arrow",
+        "image": "/img/products/buttons/lop-button-up-and-down-arrow/lop-button-up-and-down-arrow-1.jpg",
+        "alttext":"LOP Button: UP and Down Arrow",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1498,7 +1571,9 @@
         "description": "Model-monarch",
         "code": "BS-BT0052",
         "url": "/buttons/cop-button-intercom",
-        "image": "/img/products/buttons/cop-button-intercom/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-intercom",
+        "image": "/img/products/buttons/cop-button-intercom/cop-button-intercom-1.jpg",
+        "alttext":"COP Button - Intercom",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1506,10 +1581,12 @@
         "description": "Kone: KM51071111H06",
         "code": "BS-BT0053",
         "url": "/buttons/elevator-button-km51071111h06",
-        "image": "/img/products/buttons/elevator-button-km51071111h06/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-km51071111h06",
+        "image": "/img/products/buttons/elevator-button-km51071111h06/elevator-button-km51071111h06-1.jpg",
+        "alttext":"ELEVATOR BUTTON KM51071111H06",
         "slider": [
-          "1",
-          "2"
+          "elevator-button-km51071111h06-1",
+          "elevator-button-km51071111h06-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1518,10 +1595,11 @@
         "description": "OTIS: A4J43675",
         "code": "BS-BT0054",
         "url": "/buttons/elevator-button-a4j43675",
-        "image": "/img/products/buttons/elevator-button-a4j43675/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-a4j43675",
+        "image": "/img/products/buttons/elevator-button-a4j43675/elevator-button-a4j43675-1.jpg",
         "slider": [
-          "1",
-          "2"
+          "elevator-button-a4j43675-1",
+          "elevator-button-a4j43675-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1530,7 +1608,9 @@
         "description": "Button Empty Holder",
         "code": "BS-BT0055",
         "url": "/buttons/button-empty-holder",
-        "image": "/img/products/buttons/button-empty-holder/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/button-empty-holder",
+        "image": "/img/products/buttons/button-empty-holder/button-empty-holder-1.jpg",
+        "alttext":"Button Empty Holder",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1538,7 +1618,9 @@
         "description": "AK07",
         "code": "BS-BT0056",
         "url": "/buttons/elevator-square-button-ak07",
-        "image": "/img/products/buttons/elevator-square-button-ak07/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-square-button-ak07",
+        "image": "/img/products/buttons/elevator-square-button-ak07/elevator-square-button-ak07-1.jpg",
+        "alttext":"Elevator Square Button AK07",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1546,7 +1628,9 @@
         "description": "LG Sigma: AK25 MTD265",
         "code": "BS-BT0057",
         "url": "/buttons/elevator-push-button-ak25-mtd265",
-        "image": "/img/products/buttons/elevator-push-button-ak25-mtd265/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-push-button-ak25-mtd265",
+        "image": "/img/products/buttons/elevator-push-button-ak25-mtd265/elevator-push-button-ak25-mtd265-1.jpg",
+        "alttext":"Elevator Push Button AK25 MTD265",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1554,7 +1638,9 @@
         "description": "A4N11286",
         "code": "BS-BT0058",
         "url": "/buttons/a4n11286-elevator-led-push-button",
-        "image": "/img/products/buttons/a4n11286-elevator-led-push-button/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/a4n11286-elevator-led-push-button",
+        "image": "/img/products/buttons/a4n11286-elevator-led-push-button/a4n11286-elevator-led-push-button-1.jpg",
+        "alttext":"A4N11286 Elevator LED Push Button",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1562,7 +1648,9 @@
         "description": "BST: A3N18489",
         "code": "BS-BT0059",
         "url": "/buttons/bst-elevator-button-a3n18489",
-        "image": "/img/products/buttons/bst-elevator-button-a3n18489/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/bst-elevator-button-a3n18489",
+        "image": "/img/products/buttons/bst-elevator-button-a3n18489/bst-elevator-button-a3n18489-1.jpg",
+        "alttext":"BST Elevator Button A3N18489",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1570,7 +1658,9 @@
         "description": "KONE: KDS50 863233H03",
         "code": "BS-BT0060",
         "url": "/buttons/elevator-push-button-kds50-round",
-        "image": "/img/products/buttons/elevator-push-button-kds50-round/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-push-button-kds50-round",
+        "image": "/img/products/buttons/elevator-push-button-kds50-round/elevator-push-button-kds50-round-1.jpg",
+        "alttext":"Elevator Push Button KDS50 (Round)",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1578,7 +1668,9 @@
         "description": "Mitsubishi: LHB-005B",
         "code": "BS-BT0061",
         "url": "/buttons/elevator-button-lhb-005b",
-        "image": "/img/products/buttons/elevator-button-lhb-005b/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-lhb-005b",
+        "image": "/img/products/buttons/elevator-button-lhb-005b/elevator-button-lhb-005b-1.jpg",
+        "alttext":"Elevator Button LHB-005B",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1586,7 +1678,9 @@
         "description": "Mitsubishi: LHB-006B",
         "code": "BS-BT0062",
         "url": "/buttons/elevator-button-lhb-006b",
-        "image": "/img/products/buttons/elevator-button-lhb-006b/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-lhb-006b",
+        "image": "/img/products/buttons/elevator-button-lhb-006b/elevator-button-lhb-006b-1.jpg",
+        "alttext":"Elevator Button LHB-006B",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1594,7 +1688,9 @@
         "description": "Mitsubishi: LHB-007B",
         "code": "BS-BT0063",
         "url": "/buttons/elevator-button-lhb-007b",
-        "image": "/img/products/buttons/elevator-button-lhb-007b/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-lhb-007b",
+        "image": "/img/products/buttons/elevator-button-lhb-007b/elevator-button-lhb-007b-1.jpg",
+        "alttext":"Elevator Button LHB-007B",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1602,7 +1698,9 @@
         "description": "1/2/3/4/5/open/close/6 to 40/G, alarm, intercom B1, B2, B3, P1, P2, P3, M",
         "code": "BS-BT0064",
         "url": "/buttons/otis-button-lock-27mm-flush",
-        "image": "/img/products/buttons/otis-button-lock-27mm-flush/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/otis-button-lock-27mm-flush",
+        "image": "/img/products/buttons/otis-button-lock-27mm-flush/otis-button-lock-27mm-flush-1.jpg",
+        "alttext":"OTIS button lock 27MM",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1610,7 +1708,9 @@
         "description": "1/2/3/4/5/open/close/6 to 40/G, alarm, intercom B1, B2, B3, P1, P2, P3, M",
         "code": "BS-BT0065",
         "url": "/buttons/otis-button-lock-27mm-screw",
-        "image": "/img/products/buttons/otis-button-lock-27mm-screw/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/otis-button-lock-27mm-screw",
+        "image": "/img/products/buttons/otis-button-lock-27mm-screw/otis-button-lock-27mm-screw-1.jpg",
+        "alttext":"OTIS button lock 27MM",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1618,7 +1718,9 @@
         "description": "Hyundai: A4N135161",
         "code": "BS-BT0066",
         "url": "/buttons/elevator-push-button-a4n135161",
-        "image": "/img/products/buttons/elevator-push-button-a4n135161/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-push-button-a4n135161",
+        "image": "/img/products/buttons/elevator-push-button-a4n135161/elevator-push-button-a4n135161-1.jpg",
+        "alttext":"Elevator Push buttons: A4N135161",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1626,7 +1728,9 @@
         "description": "Mitsubishi G floor button cover (Green)",
         "code": "BS-BT0067",
         "url": "/buttons/g-floor-button-cover-green",
-        "image": "/img/products/buttons/g-floor-button-cover-green/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/g-floor-button-cover-green",
+        "image": "/img/products/buttons/g-floor-button-cover-green/g-floor-button-cover-green-1.jpg",
+        "alttext":"G floor button cover (Green)",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1634,7 +1738,9 @@
         "description": "Mitsubishi ",
         "code": "BS-BT0068",
         "url": "/buttons/button-stickers",
-        "image": "/img/products/buttons/button-stickers/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/button-stickers",
+        "image": "/img/products/buttons/button-stickers/button-stickers-1.jpg",
+        "alttext":"Button Stickers",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1642,10 +1748,12 @@
         "description": "TF-LB38R COP Buttons ",
         "code": "BS-BT0069",
         "url": "/buttons/touchless-cop-buttons-tf-lb38r",
-        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/touchless-cop-buttons-tf-lb38r",
+        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r/touchless-cop-buttons-tf-lb38r-1.jpg",
+        "alttext":"Touchless COP Buttons TF-LB38R",
         "slider": [
-          "1",
-          "2"
+          "touchless-cop-buttons-tf-lb38r-1",
+          "touchless-cop-buttons-tf-lb38r-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1654,7 +1762,9 @@
         "description": "TF-LB38R LOP Buttons",
         "code": "BS-BT0070",
         "url": "/buttons/touchless-lop-buttons-tf-lb38r",
-        "image": "/img/products/buttons/touchless-lop-buttons-tf-lb38r/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/touchless-lop-buttons-tf-lb38r",
+        "image": "/img/products/buttons/touchless-lop-buttons-tf-lb38r/touchless-lop-buttons-tf-lb38r-1.jpg",
+        "alttext":"Touchless LOP Buttons TF-LB38R",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1662,10 +1772,12 @@
         "description": "BST PUSH BUTTON MA1200 SS",
         "code": "BS-BT0071",
         "url": "/buttons/bst-push-button-ma1200-ss",
-        "image": "/img/products/buttons/bst-push-button-ma1200-ss/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/bst-push-button-ma1200-ss",
+        "image": "/img/products/buttons/bst-push-button-ma1200-ss/bst-push-button-ma1200-ss-1.jpg",
+        "alttext":"BST PUSH BUTTON MA1200 SS",
         "slider": [
-          "1",
-          "2"
+          "bst-push-button-ma1200-ss-1",
+          "bst-push-button-ma1200-ss-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1674,7 +1786,9 @@
         "description": "Sigma round - Push buttons AK-29B",
         "code": "BS-BT0072",
         "url": "/buttons/push-buttons-ak-29b",
-        "image": "/img/products/buttons/push-buttons-ak-29b/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/bst-push-button-ma1200-ss",
+        "image": "/img/products/buttons/push-buttons-ak-29b/push-buttons-ak-29b-1.jpg",
+        "alttext":"Push buttons AK-29B",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1682,10 +1796,12 @@
         "description": "Monarch: 13-25. Blue/Red",
         "code": "BS-BT0073",
         "url": "/buttons/cop-button-monarch-13",
-        "image": "/img/products/buttons/cop-button-monarch-13/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/COP Button - Monarch 13",
+        "image": "/img/products/buttons/cop-button-monarch-13/cop-button-monarch-13-1.jpg",
+        "alttext":"COP Button - Monarch 13",
         "slider": [
-          "1",
-          "2"
+          "cop-button-monarch-13-1",
+          "cop-button-monarch-13-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1694,7 +1810,9 @@
         "description": "Kone buttons. Red",
         "code": "BS-BT0074",
         "url": "/buttons/kds-button-square-with-screws",
-        "image": "/img/products/buttons/kds-button-square-with-screws/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/kds-button-square-with-screws",
+        "image": "/img/products/buttons/kds-button-square-with-screws/kds-button-square-with-screws-1.jpg",
+        "alttext":"KDS button: Square with screws",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1702,7 +1820,9 @@
         "description": "Push Button Red: AN306",
         "code": "BS-BT0075",
         "url": "/buttons/push-button-round-an306",
-        "image": "/img/products/buttons/push-button-round-an306/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/push-button-round-an306",
+        "image": "/img/products/buttons/push-button-round-an306/push-button-round-an306-1.jpg",
+        "alttext":"Push Button Round: AN306",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1710,10 +1830,12 @@
         "description": "Elevator Push Button KA1060",
         "code": "BS-BT0076",
         "url": "/buttons/elevator-push-button-ka1060",
-        "image": "/img/products/buttons/elevator-push-button-ka1060/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-push-button-ka1060",
+        "image": "/img/products/buttons/elevator-push-button-ka1060/elevator-push-button-ka1060-1.jpg",
+        "alttext":"Elevator Push Button KA1060",
         "slider": [
-          "1",
-          "2"
+          "elevator-push-button-ka1060-1",
+          "elevator-push-button-ka1060-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -1722,7 +1844,9 @@
         "description": "Touchless COP Buttons TF-LB38R - Silver",
         "code": "BS-BT0077",
         "url": "/buttons/touchless-cop-buttons-tf-lb38r-silver",
-        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/touchless-cop-buttons-tf-lb38r-silver",
+        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/touchless-cop-buttons-tf-lb38r-silver-1.jpg",
+        "alttext":"Touchless COP Buttons TF-LB38R - Silver",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
@@ -1730,7 +1854,9 @@
         "description": "COP buttons NY20041659H01",
         "code": "BS-BT0078",
         "url": "/buttons/cop-buttons-ny20041659h01",
-        "image": "/img/products/buttons/cop-buttons-ny20041659h01/1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-buttons-ny20041659h01",
+        "image": "/img/products/buttons/cop-buttons-ny20041659h01/cop-buttons-ny20041659h01-1.jpg",
+        "alttext":"COP buttons NY20041659H01",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
@@ -4813,10 +4939,11 @@
         "keywords": "Elevator DW-C1 load sensor, lift load sensor supplier",
         "code": "BS-SR0001",
         "url": "/sensors/load-sensor-dw-c1",
-        "image": "/img/products/sensors/load-sensor-dw-c1/1.jpg",
+        "image": "/img/products/sensors/load-sensor-dw-c1/load-sensor-dw-c1-1.jpg",
+        "alttext":"Elevator Load sensor: DW -C1",
         "slider": [
-          "1",
-          "2"
+          "load-sensor-dw-c1-1",
+          "load-sensor-dw-c1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/load-sensor-dw-c1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4837,11 +4964,12 @@
         "description": "61U 61N 30 77U 77N",
         "code": "BS-SR0002",
         "url": "/sensors/levelling-sensor-61u-61n-30-77u-77n",
-        "image": "/img/products/sensors/levelling-sensor-61u-61n-30-77u-77n/1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-61u-61n-30-77u-77n/levelling-sensor-61u-61n-30-77u-77n-1.jpg",
+        "alttext":"Elevator Levelling sensor: 61U 61N 30 77U 77N",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "levelling-sensor-61u-61n-30-77u-77n-1",
+          "levelling-sensor-61u-61n-30-77u-77n-2",
+          "levelling-sensor-61u-61n-30-77u-77n-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-61u-61n-30-77u-77n",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4861,7 +4989,8 @@
         "description": "DS-25/KM86420G03",
         "code": "BS-SR0003",
         "url": "/sensors/u-type-levelling-sensor",
-        "image": "/img/products/sensors/u-type-levelling-sensor/1.jpg",
+        "image": "/img/products/sensors/u-type-levelling-sensor/u-type-levelling-sensor-1.jpg",
+        "alttext":"Elevator U-Type levelling sensor: DS-25/KM86420G03",
         "canonical": "https://www.bestechparts.ae/products/sensors/u-type-levelling-sensor",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "paragraph_text": [
@@ -4882,10 +5011,11 @@
         "description": "GLS126NT2NCNO",
         "code": "BS-SR0004",
         "url": "/sensors/levelling-sensor-gls126nt2ncno",
-        "image": "/img/products/sensors/levelling-sensor-gls126nt2ncno/1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-gls126nt2ncno/levelling-sensor-gls126nt2ncno-1.jpg",
+        "alttext":"Elevator Levelling sensor: GLS126NT2NCNO",
         "slider": [
-          "1",
-          "2"
+          "levelling-sensor-gls126nt2ncno-1",
+          "levelling-sensor-gls126nt2ncno-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-gls126nt2ncno",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4907,15 +5037,16 @@
         "description": "YG-28/25/2561/128",
         "code": "BS-SR0005",
         "url": "/sensors/levelling-sensor-yg-28-25-2561-128",
-        "image": "/img/products/sensors/levelling-sensor-yg-28-25-2561-128/1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-yg-28-25-2561-128/levelling-sensor-yg-28-25-2561-128-1.jpg",
+        "alttext":"Elevator Levelling sensor: YG-28/25/2561/128",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
+          "levelling-sensor-yg-28-25-2561-128-1",
+          "levelling-sensor-yg-28-25-2561-128-2",
+          "levelling-sensor-yg-28-25-2561-128-3",
+          "levelling-sensor-yg-28-25-2561-128-4",
+          "levelling-sensor-yg-28-25-2561-128-5",
+          "levelling-sensor-yg-28-25-2561-128-6",
+          "levelling-sensor-yg-28-25-2561-128-7"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-yg-28-25-2561-128",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4936,7 +5067,8 @@
         "description": "ZPAD01-001",
         "code": "BS-SR0006",
         "url": "/sensors/levelling-sensor-zpad01-001",
-        "image": "/img/products/sensors/levelling-sensor-zpad01-001/1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-zpad01-001/levelling-sensor-zpad01-001-1.jpg",
+        "alttext":"Elevator Levelling sensor: ZPAD01-001",
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-zpad01-001",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "paragraph_text": [
@@ -4956,11 +5088,12 @@
         "description": "GLS TK",
         "code": "BS-SR0007",
         "url": "/sensors/levelling-sensor-gls-tk",
-        "image": "/img/products/sensors/levelling-sensor-gls-tk/1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-gls-tk/levelling-sensor-gls-tk-1.jpg",
+        "alttext":"Elevator Levelling sensor: GLS TK",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "levelling-sensor-gls-tk-1",
+          "levelling-sensor-gls-tk-2",
+          "levelling-sensor-gls-tk-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-gls-tk",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4982,10 +5115,11 @@
         "description": "MKF71ASAKX",
         "code": "BS-SR0008",
         "url": "/sensors/levelling-sensor-mkf71asakx",
-        "image": "/img/products/sensors/levelling-sensor-mkf71asakx/1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-mkf71asakx/levelling-sensor-mkf71asakx-1.jpg",
+        "alttext":"Elevator Levelling sensor: MKF71ASAKX",
         "slider": [
-          "1",
-          "2"
+          "levelling-sensor-mkf71asakx-1",
+          "levelling-sensor-mkf71asakx-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-mkf71asakx",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5006,10 +5140,11 @@
         "description": "Photocell (Center open)",
         "code": "BS-SR0009",
         "url": "/sensors/light-curtain-door-sensor-center-open",
-        "image": "/img/products/sensors/light-curtain-door-sensor-center-open/2.jpg",
+        "image": "/img/products/sensors/light-curtain-door-sensor-center-open/light-curtain-door-sensor-center-open-2.jpg",
+        "alttext":"Elevator Light curtain - Door sensor (Center open)",
         "slider": [
-          "2",
-          "1"
+          "light-curtain-door-sensor-center-open-2",
+          "light-curtain-door-sensor-center-open-1"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-center-open",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5033,10 +5168,11 @@
         "description": "Photocell (side open)",
         "code": "BS-SR0010",
         "url": "/sensors/light-curtain-door-sensor-side-open",
-        "image": "/img/products/sensors/light-curtain-door-sensor-side-open/1.jpg",
+        "image": "/img/products/sensors/light-curtain-door-sensor-side-open/light-curtain-door-sensor-side-open-1.jpg",
+        "alttext":"Elevator Light curtain - Door sensor (side open)",
         "slider": [
-          "1",
-          "2"
+          "light-curtain-door-sensor-side-open-1",
+          "light-curtain-door-sensor-side-open-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-side-open",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5055,10 +5191,11 @@
         "description": "Shenghao: SH-GS3A4",
         "code": "BS-SR0011",
         "url": "/sensors/levelling-sensor-u-type-sh-gs3a4",
-        "image": "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/levelling-sensor-u-type-sh-gs3a4-1.jpg",
+        "alttext":"Elevator Levelling sensor-U Type-SH-GS3A4",
         "slider": [
-          "1",
-          "2"
+          "levelling-sensor-u-type-sh-gs3a4-1",
+          "levelling-sensor-u-type-sh-gs3a4-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-u-type-sh-gs3a4",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5068,7 +5205,8 @@
         "description": "Bestech: BS-HPS-3",
         "code": "BS-SR0012",
         "url": "/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
-        "image": "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/1.jpg",
+        "image": "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/bestech-brand-levelling-sensor-u-bs-hps-3-1.jpg",
+        "alttext":"Elevator Bestech brand: Levelling sensor-U BS-HPS-3",
         "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5077,10 +5215,11 @@
         "description": "Bestech: 2M light curtain",
         "code": "BS-SR0013",
         "url": "/sensors/bestech-brand-door-sensor-2m-light-curtain",
-        "image": "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/1.jpg",
+        "image": "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/bestech-brand-door-sensor-2m-light-curtain-1.jpg",
+        "alttext":"Bestech brand Door sensor: 2M light curtain",
         "slider": [
-          "1",
-          "2"
+          "bestech-brand-door-sensor-2m-light-curtain-1",
+          "bestech-brand-door-sensor-2m-light-curtain-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-2m-light-curtain",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5090,7 +5229,8 @@
         "description": "Bestech: 1M light curtain",
         "code": "BS-SR0014",
         "url": "/sensors/bestech-brand-door-sensor-1m-light-curtain",
-        "image": "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/1.jpg",
+        "image": "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/bestech-brand-door-sensor-1m-light-curtain-1.jpg",
+        "alttext":"Bestech brand Door sensor: 1M light curtain",
         "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-1m-light-curtain",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5099,10 +5239,11 @@
         "description": "LJ12A3-4-Z/AX - NO",
         "code": "BS-SR0015",
         "url": "/sensors/inductive-proximity-sensor-lj12a3-4-zax",
-        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/1.jpg",
+        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/inductive-proximity-sensor-lj12a3-4-zax-1.jpg",
+        "alttext":"Elevator Inductive Proximity sensor LJ12A3-4-Z/AX",
         "slider": [
-          "1",
-          "2"
+          "inductive-proximity-sensor-lj12a3-4-zax-1",
+          "inductive-proximity-sensor-lj12a3-4-zax-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zax",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5112,10 +5253,11 @@
         "description": "LJ12A3-4-Z/BY - NC",
         "code": "BS-SR0016",
         "url": "/sensors/inductive-proximity-sensor-lj12a3-4-zby",
-        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/1.jpg",
+        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/inductive-proximity-sensor-lj12a3-4-zby-1.jpg",
+        "alttext":"Elevator Inductive Proximity sensor LJ12A3-4-Z/BY",
         "slider": [
-          "1",
-          "2"
+          "inductive-proximity-sensor-lj12a3-4-zby-1",
+          "inductive-proximity-sensor-lj12a3-4-zby-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zby",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5125,10 +5267,11 @@
         "description": "Toshiba: SLJ18A-Z5NK-DZ-T",
         "code": "BS-SR0017",
         "url": "/sensors/slj18a-z5nk-dz-t",
-        "image": "/img/products/sensors/slj18a-z5nk-dz-t/1.jpg",
+        "image": "/img/products/sensors/slj18a-z5nk-dz-t/slj18a-z5nk-dz-t-1.jpg",
+        "alttext":"Elevator SLJ18A-Z5NK-DZ-T",
         "slider": [
-          "1",
-          "2"
+          "slj18a-z5nk-dz-t-1",
+          "slj18a-z5nk-dz-t-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/slj18a-z5nk-dz-t",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5138,9 +5281,10 @@
         "description": "Bistable sensor - Italy",
         "code": "BS-SR0018",
         "url": "/sensors/bistable-sensor-italy",
-        "image": "/img/products/sensors/bistable-sensor-italy/1.jpg",
+        "image": "/img/products/sensors/bistable-sensor-italy/bistable-sensor-italy-1.jpg",
+        "alttext":"/elevator Bistable sensor - Italy",
         "slider": [
-          "1"
+          "bistable-sensor-italy-1"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/bistable-sensor-italy",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5150,7 +5294,8 @@
         "description": "Inovance: SGD31-GG-TZ2B2P",
         "code": "BS-SR0019",
         "url": "/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
-        "image": "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/1.jpg",
+        "image": "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/sgd31-gg-tz2b2p-with-plastic-shell-1.jpg",
+        "alttext":"Elevator SGD31-GG-TZ2B2P with plastic shell ",
         "canonical": "https://www.bestechparts.ae/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5159,10 +5304,11 @@
         "description": " OTIS GAA177GZ1 FP-A1 PNP 5M",
         "code": "BS-SR0020",
         "url": "/sensors/escalator-pressure-sensor-fp-a1pnp5m",
-        "image": "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/1.jpg",
+        "image": "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/escalator-pressure-sensor-fp-a1pnp5m-1.jpg",
+        "alttext":"Elevator Escalator Pressure sensor FP-A1PNP5M",
         "slider": [
-          "1",
-          "2"
+          "escalator-pressure-sensor-fp-a1pnp5m-1",
+          "escalator-pressure-sensor-fp-a1pnp5m-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/escalator-pressure-sensor-fp-a1pnp5m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5172,7 +5318,8 @@
         "description": "Sensor: E3JK-R4M1",
         "code": "BS-SR0021",
         "url": "/sensors/sensor-e3jk-r4m1",
-        "image": "/img/products/sensors/sensor-e3jk-r4m1/1.jpg",
+        "image": "/img/products/sensors/sensor-e3jk-r4m1/sensor-e3jk-r4m1-1.jpg",
+        "alttext":"Elevator Sensor: E3JK-R4M1",
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-e3jk-r4m1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5181,11 +5328,12 @@
         "description": "Sensor: BUP-30",
         "code": "BS-SR0022",
         "url": "/sensors/sensor-bup-30",
-        "image": "/img/products/sensors/sensor-bup-30/1.jpg",
+        "image": "/img/products/sensors/sensor-bup-30/sensor-bup-30-1.jpg",
+        "alttext":"Elevator Sensor: BUP-30",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "sensor-bup-30-1",
+          "sensor-bup-30-2",
+          "sensor-bup-30-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-bup-30",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5195,7 +5343,8 @@
         "description": "Sensor: D2VW-01-2MS",
         "code": "BS-SR0023",
         "url": "/sensors/sensor-d2vw-01-2ms",
-        "image": "/img/products/sensors/sensor-d2vw-01-2ms/1.jpg",
+        "image": "/img/products/sensors/sensor-d2vw-01-2ms/sensor-d2vw-01-2ms-1.jpg",
+        "alttext":"Elevator Sensor: D2VW-01-2MS",
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-d2vw-01-2ms",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5204,10 +5353,11 @@
         "description": "Sensor: PSN17-5DN",
         "code": "BS-SR0024",
         "url": "/sensors/sensor-psn17-5dn",
-        "image": "/img/products/sensors/sensor-psn17-5dn/1.jpg",
+        "image": "/img/products/sensors/sensor-psn17-5dn/sensor-psn17-5dn-1.jpg",
+        "alttext":"Elevator Sensor: PSN17-5DN",
         "slider": [
-          "1",
-          "2"
+          "sensor-psn17-5dn-1",
+          "sensor-psn17-5dn-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-psn17-5dn",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5217,7 +5367,8 @@
         "description": "Autonics - BEL10M-TFR",
         "code": "BS-SR0025",
         "url": "/sensors/sensor-bel10m-tfr",
-        "image": "/img/products/sensors/sensor-bel10m-tfr/1.jpg",
+        "image": "/img/products/sensors/sensor-bel10m-tfr/sensor-bel10m-tfr-1.jpg",
+        "alttext":"Elevator Sensor BEL10M - TFR",
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-bel10m-tfr",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5226,7 +5377,8 @@
         "description": "OTIS DAA629Q1 JCA00629AAB001",
         "code": "BS-SR0026",
         "url": "/sensors/sensor-daa629q1",
-        "image": "/img/products/sensors/sensor-daa629q1/1.jpg",
+        "image": "/img/products/sensors/sensor-daa629q1/sensor-daa629q1-1.jpg",
+        "alttext":"Elevator Sensor: DAA629Q1",
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-daa629q1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5235,10 +5387,11 @@
         "description": "61U 61N 30 monostable - NC Switch",
         "code": "BS-SR0027",
         "url": "/sensors/61u-61n-30-monostable-nc-switch",
-        "image": "/img/products/sensors/61u-61n-30-monostable-nc-switch/1.jpg",
+        "image": "/img/products/sensors/61u-61n-30-monostable-nc-switch/61u-61n-30-monostable-nc-switch-1.jpg",
+        "alttext":"Elevator 61U 61N 30 monostable - NC Switch",
         "slider": [
-          "1",
-          "2"
+          "61u-61n-30-monostable-nc-switch-1",
+          "61u-61n-30-monostable-nc-switch-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/61u-61n-30-monostable-nc-switch",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6028,9 +6181,10 @@
         "description": "Encoder cable 5M",
         "code": "BS-EN0001",
         "url": "/encoders/encoder-cable-5m",
-        "image": "/img/products/encoders/encoder-cable-5m/1.jpg",
+        "image": "/img/products/encoders/encoder-cable-5m/encoder-cable-5m-1.jpg",
+        "alttxt":"Elevator Encoder Cable 5M",
         "slider": [
-          "1"
+          "encoder-cable-5m-1"
         ],
         "meta_title": "Elevator Encoder Cable 5m for Lift Feedback Use | UAE",
         "meta_description": "Elevator encoder cable 5m for lifts and control systems. Shielded cable for clear position and speed feedback between encoder and drive units in UAE setups.",
@@ -6044,9 +6198,10 @@
         "description": "Encoder cable 10M",
         "code": "BS-EN0002",
         "url": "/encoders/encoder-cable-10m",
-        "image": "/img/products/encoders/encoder-cable-10m/1.jpg",
+        "image": "/img/products/encoders/encoder-cable-10m/encoder-cable-10m-1.jpg",
+        "alttxt":"Elevator Encoder Cable 10M",
         "slider": [
-          "1"
+          "encoder-cable-10m-1"
         ],
         "meta_title": "Elevator Encoder Cable 10m for Lift Control Systems | UAE",
         "meta_description": "Pre assembled elevator encoder cable 10m for lift systems in UAE. Supports position and speed feedback between encoder and controller.",
@@ -6403,11 +6558,12 @@
         "description": "NICE-L-C-4007",
         "code": "BS-IN0001",
         "url": "/inverters/inverter-7-5kw-nice-l-c-4007",
-        "image": "/img/products/inverters/inverter-7-5kw-nice-l-c-4007/3.jpg",
+        "image": "/img/products/inverters/inverter-7-5kw-nice-l-c-4007/inverter-7-5kw-nice-l-c-4007-3.jpg",
+        "alttext":"Elevator Inverter 7.5KW: NICE-L-C-4007",
         "slider": [
-          "3",
-          "2",
-          "1"
+          "inverter-7-5kw-nice-l-c-4007-3",
+          "inverter-7-5kw-nice-l-c-4007-2",
+          "inverter-7-5kw-nice-l-c-4007-1"
         ],
         "meta_title": "Monarch Elevator Inverter 7.5KW NICE-L-C-4007 for Lift Control UAE",
         "meta_description": "Monarch Elevator Inverter 7.5KW NICE-L-C-4007, keeps lifts stable in Sharjah and Dubai, UAE. Premium elevator spare parts from reputable supplier for major lift brands.",
@@ -6421,11 +6577,12 @@
         "description": "NICE-L-C-4011",
         "code": "BS-IN0002",
         "url": "/inverters/inverter-11kw-nice-l-c-4011",
-        "image": "/img/products/inverters/inverter-11kw-nice-l-c-4011/3.jpg",
+        "image": "/img/products/inverters/inverter-11kw-nice-l-c-4011/inverter-11kw-nice-l-c-4011-3.jpg",
+        "alttext":"Monarch Elevator Inverter 11KW NICE-L-C-4011",
         "slider": [
-          "3",
-          "2",
-          "1"
+          "inverter-11kw-nice-l-c-4011-3",
+          "inverter-11kw-nice-l-c-4011-2",
+          "inverter-11kw-nice-l-c-4011-1"
         ],
         "meta_title": "Monarch Elevator Inverter 11KW NICE-L-C-4011 | Dubai Spare Parts",
         "meta_description": "Monarch Elevator Inverter 11KW NICE-L-C-4011 ensures smooth lift operation in Dubai, UAE. Reliable spare parts support for Otis, Kone, and Hyundai elevators.",
@@ -6439,11 +6596,12 @@
         "description": "NICE-L-C-4015",
         "code": "BS-IN0003",
         "url": "/inverters/inverter-15kw-nice-l-c-4015",
-        "image": "/img/products/inverters/inverter-15kw-nice-l-c-4015/3.jpg",
+        "image": "/img/products/inverters/inverter-15kw-nice-l-c-4015/inverter-15kw-nice-l-c-4015-3.jpg",
+        "alttext":"Monarch Elevator Inverter 15KW NICE-L-C-4015",
         "slider": [
-          "3",
-          "2",
-          "1"
+          "inverter-15kw-nice-l-c-4015-3",
+          "inverter-15kw-nice-l-c-4015-2",
+          "inverter-15kw-nice-l-c-4015-1"
         ],
         "meta_title": "Monarch Elevator Inverter 15KW NICE-L-C-4015 Supply | Sharjah",
         "meta_description": "Monarch Elevator Inverter 15KW NICE-L-C-4015 designed for reliable escalator and lift control in UAE. Explore trusted stock from expert suppliers for global lift brands.",
@@ -6457,11 +6615,12 @@
         "description": "NICE-L-C-4018",
         "code": "BS-IN0004",
         "url": "/inverters/inverter-18kw-nice-l-c-4018",
-        "image": "/img/products/inverters/inverter-18kw-nice-l-c-4018/3.jpg",
+        "image": "/img/products/inverters/inverter-18kw-nice-l-c-4018/inverter-18kw-nice-l-c-4018-3.jpg",
+        "alttext":"Elevator Inverter 18KW: NICE-L-C-4018",
         "slider": [
-          "3",
-          "2",
-          "1"
+          "inverter-18kw-nice-l-c-4018-3",
+          "inverter-18kw-nice-l-c-4018-2",
+          "inverter-18kw-nice-l-c-4018-1"
         ],
         "meta_title": "Monarch Elevator Inverter 18KW NICE-L-C-4018 Power Supply, UAE",
         "meta_description": "Monarch Elevator Inverter 18KW NICE-L-C-4018 makes sure reliable lift movement in Sharjah, UAE. Get quality spare parts compatible with Otis and Kone elevators.",
@@ -6475,11 +6634,12 @@
         "description": "NICE-L-C-4022",
         "code": "BS-IN0005",
         "url": "/inverters/inverter-22kw-nice-l-c-4022",
-        "image": "/img/products/inverters/inverter-22kw-nice-l-c-4022/3.jpg",
+        "image": "/img/products/inverters/inverter-22kw-nice-l-c-4022/inverter-22kw-nice-l-c-4022-3.jpg",
+        "alttext":"Monarch Elevator Inverter 22KW NICE-L-C-4022",
         "slider": [
-          "3",
-          "2",
-          "1"
+          "inverter-22kw-nice-l-c-4022-3",
+          "inverter-22kw-nice-l-c-4022-2",
+          "inverter-22kw-nice-l-c-4022-1"
         ],
         "meta_title": "Monarch Elevator Inverter 22KW NICE-L-C-4022 Parts in Dubai",
         "meta_description": "Monarch Elevator Inverter 22KW NICE-L-C-4022 for durable lift and escalator function in UAE. Purchase proven quality spares suitable for global elevator systems.",
@@ -6493,11 +6653,12 @@
         "description": "AS380",
         "code": "BS-IN0006",
         "url": "/inverters/inverter-11kw-as380",
-        "image": "/img/products/inverters/inverter-11kw-as380/3.jpg",
+        "image": "/img/products/inverters/inverter-11kw-as380/inverter-11kw-as380-3.jpg",
+        "alttext":"Elevator Inverter 11KW AS380",
         "slider": [
-          "3",
-          "2",
-          "1"
+          "inverter-11kw-as380-3",
+          "inverter-11kw-as380-2",
+          "inverter-11kw-as380-1"
         ],
         "meta_title": "Elevator Inverter 11KW AS380 High-Performance Lift Drives, UAE",
         "meta_description": "Elevator Inverter 11KW AS380 supports safety and smooth lift motion in Dubai, UAE. Get original spare parts compatible with Otis, Kone, and Hyundai elevators.",
@@ -6511,10 +6672,11 @@
         "description": "Type:NICE-L-C-4005",
         "code": "BS-IN0007",
         "url": "/inverters/inverter-5-5kw-nice-l-c",
-        "image": "/img/products/inverters/inverter-5-5kw-nice-l-c/1.jpg",
+        "image": "/img/products/inverters/inverter-5-5kw-nice-l-c/inverter-5-5kw-nice-l-c-1.jpg",
+        "alttext":"Elevator Inverter 5.5KW: NICE-L-C",
         "slider": [
-          "1",
-          "2"
+          "inverter-5-5kw-nice-l-c-1",
+          "inverter-5-5kw-nice-l-c-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/inverters/inverter-5-5kw-nice-l-c",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6524,10 +6686,11 @@
         "description": "NICE-L-C-4030 30KW",
         "code": "BS-IN0008",
         "url": "/inverters/nice-l-c-4030-30kw",
-        "image": "/img/products/inverters/nice-l-c-4030-30kw/1.jpg",
+        "image": "/img/products/inverters/nice-l-c-4030-30kw/nice-l-c-4030-30kw-1.jpg",
+        "alttext":"Elevator NICE-L-C-4030 30KW",
         "slider": [
-          "1",
-          "2"
+          "nice-l-c-4030-30kw-1",
+          "nice-l-c-4030-30kw-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/inverters/nice-l-c-4030-30kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6537,10 +6700,11 @@
         "description": "NICE-L-C-4045 45KW",
         "code": "BS-IN0009",
         "url": "/inverters/nice-l-c-4045-45kw",
-        "image": "/img/products/inverters/nice-l-c-4045-45kw/1.jpg",
+        "image": "/img/products/inverters/nice-l-c-4045-45kw/nice-l-c-4045-45kw-1.jpg",
+        "alttext":"Elevator NICE-L-C-4045 45KW",
         "slider": [
-          "1",
-          "2"
+          "nice-l-c-4045-45kw-1",
+          "nice-l-c-4045-45kw-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/inverters/nice-l-c-4045-45kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6550,12 +6714,13 @@
         "description": "Kone Monospace KDL16L 12A 400V",
         "code": "BS-IN0010",
         "url": "/inverters/monospace-kdl-16l",
-        "image": "/img/products/inverters/monospace-kdl-16l/1.jpg",
+        "image": "/img/products/inverters/monospace-kdl-16l/monospace-kdl-16l-1.jpg",
+        "alttext":"Elevator Monospace KDL 16L",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "monospace-kdl-16l-1",
+          "monospace-kdl-16l-2",
+          "monospace-kdl-16l-3",
+          "monospace-kdl-16l-4"
         ],
         "canonical": "https://www.bestechparts.ae/products/inverters/monospace-kdl-16l",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6565,7 +6730,8 @@
         "description": "Delta VFD Inverter VFD022E43A 2.2KW",
         "code": "BS-IN0011",
         "url": "/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
-        "image": "/img/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw/1.jpg",
+        "image": "/img/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw/delta-vfd-inverter-vfd022e43a-2-2kw-1.jpg",
+        "alttext":"Delta VFD Inverter VFD022E43A 2.2KW",
         "canonical": "https://www.bestechparts.ae/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
@@ -6586,13 +6752,14 @@
         "description": "ARD-4007-3P",
         "code": "BS-AR0001",
         "url": "/ard/ard-7kw-ard-4007-3p",
-        "image": "/img/products/ard/ard-7kw-ard-4007-3p/1.jpg",
+        "image": "/img/products/ard/ard-7kw-ard-4007-3p/ard-7kw-ard-4007-3p-1.jpg",
+        "alttext":"Elevator ARD 7KW: Type:ARD-4007-3P",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "ard-7kw-ard-4007-3p-1",
+          "ard-7kw-ard-4007-3p-2",
+          "ard-7kw-ard-4007-3p-3",
+          "ard-7kw-ard-4007-3p-4",
+          "ard-7kw-ard-4007-3p-5"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-7kw-ard-4007-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6602,11 +6769,12 @@
         "description": "ARD-4011-3P",
         "code": "BS-AR0002",
         "url": "/ard/ard-11kw-ard-4011-3p",
-        "image": "/img/products/ard/ard-11kw-ard-4011-3p/2.jpg",
+        "image": "/img/products/ard/ard-11kw-ard-4011-3p/ard-11kw-ard-4011-3p-2.jpg",
+        "alttext":"Elevator ARD 11KW: Type:ARD-4011-3P",
         "slider": [
-          "2",
-          "1",
-          "3"
+          "ard-11kw-ard-4011-3p-2",
+          "ard-11kw-ard-4011-3p-1",
+          "ard-11kw-ard-4011-3p-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-11kw-ard-4011-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6616,11 +6784,12 @@
         "description": "Type:ARD-4015-3P",
         "code": "BS-AR0003",
         "url": "/ard/ard-4015-3p",
-        "image": "/img/products/ard/ard-4015-3p/1.jpg",
+        "image": "/img/products/ard/ard-4015-3p/ard-4015-3p-1.jpg",
+        "alttext":"Elevator ARD Type:ARD-4015-3P",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "ard-4015-3p-1",
+          "ard-4015-3p-2",
+          "ard-4015-3p-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-4015-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6630,10 +6799,11 @@
         "description": "TMR ARD 3P-7.5KW 380V (TF)",
         "code": "BS-AR0004",
         "url": "/ard/tmr-ard-3p-7-5kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-75kw-380v-tf/1.jpg",
+        "image": "/img/products/ard/ard-3p-75kw-380v-tf/ard-3p-75kw-380v-tf-1.jpg",
+        "alttext":"Elevator TMR ARD 3P-7.5KW 380V (TF)",
         "slider": [
-          "1",
-          "2"
+          "ard-3p-75kw-380v-tf-1",
+          "ard-3p-75kw-380v-tf-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-7-5kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6643,10 +6813,11 @@
         "description": "TMR ARD 3P-11KW 380V (TF)",
         "code": "BS-AR0005",
         "url": "/ard/tmr-ard-3p-11kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-11kw-380v-tf/1.jpg",
+        "image": "/img/products/ard/ard-3p-11kw-380v-tf/ard-3p-11kw-380v-tf-1.jpg",
+        "alttext":"Elevator TMR ARD 3P-11KW 380V (TF)",
         "slider": [
-          "1",
-          "2"
+          "ard-3p-11kw-380v-tf-1",
+          "ard-3p-11kw-380v-tf-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-11kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6656,7 +6827,8 @@
         "description": "HH ARD 3P-15KW 380V (TF)",
         "code": "BS-AR0006",
         "url": "/ard/hh-ard-3p-15kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-15kw-380v-tf/1.jpg",
+        "image": "/img/products/ard/ard-3p-15kw-380v-tf/ard-3p-15kw-380v-tf-1.jpg",
+        "alttext":"Elevator HH ARD 3P-15KW 380V (TF)",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-15kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6665,7 +6837,8 @@
         "description": "TMR ARD 3P-18KW 380V (TF)",
         "code": "BS-AR0007",
         "url": "/ard/tmr-ard-3p-18kw-380v-tf",
-        "image": "/img/products/ard/tmr-ard-3p-18kw-380v-tf/1.jpg",
+        "image": "/img/products/ard/tmr-ard-3p-18kw-380v-tf/tmr-ard-3p-18kw-380v-tf-1.jpg",
+        "alttext":"Elevator TMR ARD 3P-18KW 380V (TF)",
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-18kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6674,7 +6847,8 @@
         "description": "HH ARD 3P-22KW 380V (TF)",
         "code": "BS-AR0008",
         "url": "/ard/hh-ard-3p-22kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-22kw-380v-tf/1.jpg",
+        "image": "/img/products/ard/ard-3p-22kw-380v-tf/ard-3p-22kw-380v-tf-1.jpg",
+        "alttext":"Elevator HH ARD 3P-22KW 380V (TF)",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-22kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6683,7 +6857,8 @@
         "description": "HH ARD 3P-30KW 380V (TF)",
         "code": "BS-AR0009",
         "url": "/ard/hh-ard-3p-30kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-30kw-380v-tf/1.jpg",
+        "image": "/img/products/ard/ard-3p-30kw-380v-tf/ard-3p-30kw-380v-tf-1.jpg",
+        "alttext":"Elevator HH ARD 3P-30KW 380V (TF)",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-30kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6692,7 +6867,8 @@
         "description": "HH ARD 3P-37KW 380V (TF)",
         "code": "BS-AR0010",
         "url": "/ard/hh-ard-3p-37kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-37kw-380v-tf/1.jpg",
+        "image": "/img/products/ard/ard-3p-37kw-380v-tf/ard-3p-37kw-380v-tf-1.jpg",
+        "alttext":"Elevator HH ARD 3P-37KW 380V (TF)",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-37kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6701,7 +6877,8 @@
         "description": "HH ARD 3P-45KW 380V (TF)",
         "code": "BS-AR0011",
         "url": "/ard/hh-ard-3p-45kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-45kw-380v-tf/1.jpg",
+        "image": "/img/products/ard/ard-3p-45kw-380v-tf/ard-3p-45kw-380v-tf-1.jpg",
+        "alttext":"Elevator HH ARD 3P-45KW 380V (TF)",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-45kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6710,7 +6887,8 @@
         "description": "Battey 12V 7AH",
         "code": "BS-AR0012",
         "url": "/ard/battery-12v-7ah",
-        "image": "/img/products/ard/battery-12v-7ah/1.jpg",
+        "image": "/img/products/ard/battery-12v-7ah/battery-12v-7ah-1.jpg",
+        "alttext":"Elevator Battey 12V 7AH",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-7ah",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6719,7 +6897,8 @@
         "description": "Battery 12V 9AH",
         "code": "BS-AR0013",
         "url": "/ard/battery-12v-9ah",
-        "image": "/img/products/ard/battery-12v-9ah/1.jpg",
+        "image": "/img/products/ard/battery-12v-9ah/battery-12v-9ah-1.jpg",
+        "alttext":"Elevator Battery 12V 9AH",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-9ah",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6728,7 +6907,8 @@
         "description": "Battery 12V 12AH",
         "code": "BS-AR0014",
         "url": "/ard/battery-12v-12ah",
-        "image": "/img/products/ard/battery-12v-12ah/1.jpg",
+        "image": "/img/products/ard/battery-12v-12ah/battery-12v-12ah-1.jpg",
+        "alttext":"Elevator Battery 12V 12AH",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-12ah",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6737,10 +6917,11 @@
         "description": "UPS 1500VA 900W",
         "code": "BS-AR0015",
         "url": "/ard/ups-1500va-900w",
-        "image": "/img/products/ard/ups-1500va-900w/1.jpg",
+        "image": "/img/products/ard/ups-1500va-900w/ups-1500va-900w-1.jpg",
+        "alttext":"Elevator UPS 1500VA 900W",
         "slider": [
-          "1",
-          "2"
+          "ups-1500va-900w-1",
+          "ups-1500va-900w-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ups-1500va-900w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6750,7 +6931,8 @@
         "description": "TMR-ARD-3P-15KW",
         "code": "BS-AR0016",
         "url": "/ard/tmr-ard-3p-15kw",
-        "image": "/img/products/ard/tmr-ard-3p-15kw/1.jpg",
+        "image": "/img/products/ard/tmr-ard-3p-15kw/tmr-ard-3p-15kw-1.jpg",
+        "alttext":"Elevator TMR-ARD-3P-15KW",
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-15kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6759,7 +6941,8 @@
         "description": "TMR-ARD-3P-45KW",
         "code": "BS-AR0017",
         "url": "/ard/tmr-ard-3p-45kw",
-        "image": "/img/products/ard/tmr-ard-3p-45kw/1.jpg",
+        "image": "/img/products/ard/tmr-ard-3p-45kw/tmr-ard-3p-45kw-1.jpg",
+        "alttext":"Elevator TMR-ARD-3P-45KW",
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-45kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6768,10 +6951,11 @@
         "description": "HH-ARD-18.5KW",
         "code": "BS-AR0018",
         "url": "/ard/hh-ard-18.5kw",
-        "image": "/img/products/ard/hh-ard-18.5kw/1.jpg",
+        "image": "/img/products/ard/hh-ard-18.5kw/hh-ard-18.5kw-1.jpg",
+        "alttext":"Elevator HH-ARD-18.5KW",
         "slider": [
-          "1",
-          "2"
+          "hh-ard-18.5kw-1",
+          "hh-ard-18.5kw-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-18.5kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6781,11 +6965,12 @@
         "description": "Inovance ARD 3P 7.5KW",
         "code": "BS-AR0019",
         "url": "/ard/inovance-ard-3p-7.5kw",
-        "image": "/img/products/ard/inovance-ard-3p-7.5kw/1.jpg",
+        "image": "/img/products/ard/inovance-ard-3p-7.5kw/inovance-ard-3p-7.5kw-1.jpg",
+        "alttext":"Elevator Inovance ARD 3P 7.5KW",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "inovance-ard-3p-7.5kw-1",
+          "inovance-ard-3p-7.5kw-2",
+          "inovance-ard-3p-7.5kw-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/inovance-ard-3p-7.5kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
