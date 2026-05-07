@@ -2809,12 +2809,13 @@
         "description": "W8L 11KW",
         "code": "BS-CS0001",
         "url": "/cabinet-set/control-cabinet-w8l-11kw",
-        "image": "/img/products/cabinet-set/control-cabinet-w8l-11kw/1.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-w8l-11kw/control-cabinet-w8l-11kw-1.jpg",
+      "alttxt":"Elevator Control Cabinet Set W8L 11kW",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "control-cabinet-w8l-11kw-1",
+          "control-cabinet-w8l-11kw-2",
+          "control-cabinet-w8l-11kw-3",
+          "control-cabinet-w8l-11kw-4"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-11kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2828,12 +2829,13 @@
         "description": "W8L 7.5KW",
         "code": "BS-CS0002",
         "url": "/cabinet-set/control-cabinet-w8l-75kw",
-        "image": "/img/products/cabinet-set/control-cabinet-w8l-75kw/1.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-w8l-75kw/control-cabinet-w8l-75kw-1.jpg",
+        "alttxt":"elevator Control cabinet -W8L 7.5KW",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "control-cabinet-w8l-75kw-1",
+          "control-cabinet-w8l-75kw-2",
+          "control-cabinet-w8l-75kw-3",
+          "control-cabinet-w8l-75kw-4"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-75kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2847,12 +2849,13 @@
         "description": "Communication box",
         "code": "BS-CS0003",
         "url": "/cabinet-set/car-top-communication-box",
-        "image": "/img/products/cabinet-set/car-top-communication-box/1.jpg",
+        "image": "/img/products/cabinet-set/car-top-communication-box/car-top-communication-box-1.jpg",
+        "alttxt":"Elevator Car top Communication box",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "car-top-communication-box-1",
+          "car-top-communication-box-2",
+          "car-top-communication-box-3",
+          "car-top-communication-box-4"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2864,7 +2867,8 @@
         "description": "20CM",
         "code": "BS-CS0004",
         "url": "/cabinet-set/socket-and-wire-20cm",
-        "image": "/img/products/cabinet-set/socket-and-wire-20cm/1.jpg",
+        "image": "/img/products/cabinet-set/socket-and-wire-20cm/socket-and-wire-20cm-1.jpg",
+        "alttxt":"Elevator Socket and wire - 20CM",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/socket-and-wire-20cm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator Socket and Wire 20cm | Lift Parts UAE",
@@ -2877,11 +2881,12 @@
         "description": "35mm 2M",
         "code": "BS-CS0005",
         "url": "/cabinet-set/din-rail-35mm-2m",
-        "image": "/img/products/cabinet-set/din-rail-35mm-2m/1.jpg",
+        "image": "/img/products/cabinet-set/din-rail-35mm-2m/din-rail-35mm-2m-1.jpg",
+        "alttxt":"Elevator DIN Rail 35mm 2M",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "din-rail-35mm-2m-1",
+          "din-rail-35mm-2m-2",
+          "din-rail-35mm-2m-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/din-rail-35mm-2m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2895,7 +2900,8 @@
         "description": "2M",
         "code": "BS-CS0006",
         "url": "/cabinet-set/trunking-2m",
-        "image": "/img/products/cabinet-set/trunking-2m/1.jpg",
+        "image": "/img/products/cabinet-set/trunking-2m/trunking-2m-1.jpg",
+        "alttxt":"Elevator Trunking 2M",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/trunking-2m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator Trunking 2m | Electrical Cable Management",
@@ -2908,7 +2914,8 @@
         "description": "Type: 2500W",
         "code": "BS-CS0007",
         "url": "/cabinet-set/braking-resistor-2500w",
-        "image": "/img/products/cabinet-set/braking-resistor-2500w/1.jpg",
+        "image": "/img/products/cabinet-set/braking-resistor-2500w/braking-resistor-2500w-1.jpg",
+        "alttxt":"Elevator Braking Resistor 2500W",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-2500w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator Braking Resistor 2500W | Lift Spare UAE",
@@ -2921,7 +2928,8 @@
         "description": "Type: 3500W",
         "code": "BS-CS0008",
         "url": "/cabinet-set/braking-resistor-3500w",
-        "image": "/img/products/cabinet-set/braking-resistor-3500w/1.jpg",
+        "image": "/img/products/cabinet-set/braking-resistor-3500w/braking-resistor-3500w-1.jpg",
+        "alttxt":"Elevator Braking resistor - Type: 3500W",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-3500w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator Braking Resistor 3500W | Control Panel Part",
@@ -2934,7 +2942,8 @@
         "description": "Type: 5500W",
         "code": "BS-CS0009",
         "url": "/cabinet-set/braking-resistor-5500w",
-        "image": "/img/products/cabinet-set/braking-resistor-5500w/1.jpg",
+        "image": "/img/products/cabinet-set/braking-resistor-5500w/braking-resistor-5500w-1.jpg",
+        "alttxt":"Elevator Braking Resistor 5500W",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-5500w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator Braking Resistor 5500W | Lift Spare Parts",
@@ -2947,7 +2956,8 @@
         "description": "1050(H) X 600(W) X 260(D)",
         "code": "BS-CS0010",
         "url": "/cabinet-set/empty-control-cabinet-blue",
-        "image": "/img/products/cabinet-set/empty-control-cabinet-blue/1.jpg",
+        "image": "/img/products/cabinet-set/empty-control-cabinet-blue/empty-control-cabinet-blue-1.jpg",
+        "alttxt":"Elevator Empty Control Cabinet - Blue",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/empty-control-cabinet-blue",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2956,7 +2966,8 @@
         "description": "Bestech Car top box - Blue",
         "code": "BS-CS0011",
         "url": "/cabinet-set/car-top-communication-box-blue",
-        "image": "/img/products/cabinet-set/car-top-communication-box-blue/1.jpg",
+        "image": "/img/products/cabinet-set/car-top-communication-box-blue/car-top-communication-box-blue-1.jpg",
+        "alttxt":"Elevator Car Top Communication Box",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box-blue",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator Car Top Communication Box | Lift Spare UAE",
@@ -2968,14 +2979,15 @@
         "description": "Bestech controller - 7.5KW",
         "code": "BS-CS0012",
         "url": "/cabinet-set/control-cabinet-mrl-75kw-blue",
-        "image": "/img/products/cabinet-set/control-cabinet-mrl-75kw-blue/1.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-mrl-75kw-blue/control-cabinet-mrl-75kw-blue-1.jpg",
+        "alttxt":"Elevator Control cabinet -MRL 7.5KW - Blue",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-75kw-blue",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "control-cabinet-mrl-75kw-blue-1",
+          "control-cabinet-mrl-75kw-blue-2",
+          "control-cabinet-mrl-75kw-blue-3",
+          "control-cabinet-mrl-75kw-blue-4",
+          "control-cabinet-mrl-75kw-blue-5"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2984,14 +2996,15 @@
         "description": "Bestech controller - 11KW",
         "code": "BS-CS0013",
         "url": "/cabinet-set/control-cabinet-mrl-11kw-blue",
-        "image": "/img/products/cabinet-set/control-cabinet-mrl-11kw-blue/1.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-mrl-11kw-blue/control-cabinet-mrl-11kw-blue-1.jpg",
+        "alttxt":"Elevator Control cabinet -MRL 11KW - Blue",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-11kw-blue",
         "slider": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "control-cabinet-mrl-11kw-blue-1",
+          "control-cabinet-mrl-11kw-blue-2",
+          "control-cabinet-mrl-11kw-blue-3",
+          "control-cabinet-mrl-11kw-blue-4",
+          "control-cabinet-mrl-11kw-blue-5"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -3000,10 +3013,11 @@
         "description": "Braking resistor - Type: 6500W",
         "code": "BS-CS0014",
         "url": "/cabinet-set/braking-resistor-type-6500w",
-        "image": "/img/products/cabinet-set/braking-resistor-type-6500w/1.jpg",
+        "image": "/img/products/cabinet-set/braking-resistor-type-6500w/braking-resistor-type-6500w-1.jpg",
+        "alttxt":"Elevator Braking resistor - Type: 6500W",
         "slider": [
-          "1",
-          "2"
+          "braking-resistor-type-6500w-1",
+          "braking-resistor-type-6500w-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-6500w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3013,10 +3027,11 @@
         "description": " Control cabinet - 15KW - Blue",
         "code": "BS-CS0015",
         "url": "/cabinet-set/control-cabinet-15kw-blue",
-        "image": "/img/products/cabinet-set/control-cabinet-15kw-blue/1.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-15kw-blue/control-cabinet-15kw-blue-1.jpg",
+        "alttxt":"Elevator Control cabinet - 15KW - Bestech",
         "slider": [
-          "1",
-          "2"
+          "control-cabinet-15kw-blue-1",
+          "control-cabinet-15kw-blue-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-15kw-blue",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3026,7 +3041,8 @@
         "description": "Control cabinet - 45KW - Blue",
         "code": "BS-CS0016",
         "url": "/cabinet-set/control-cabinet-45kw-blue",
-        "image": "/img/products/cabinet-set/control-cabinet-45kw-blue/1.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-45kw-blue/control-cabinet-45kw-blue-1.jpg",
+        "alttxt":"Elevator Control cabinet - 45KW - Bestech",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-45kw-blue",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -3035,10 +3051,11 @@
         "description": "Type: 4500W 40Ω",
         "code": "BS-CS0017",
         "url": "/cabinet-set/braking-resistor-type-4500w-40ohm",
-        "image": "/img/products/cabinet-set/braking-resistor-type-4500w-40ohm/1.jpg",
+        "image": "/img/products/cabinet-set/braking-resistor-type-4500w-40ohm/braking-resistor-type-4500w-40ohm-1.jpg",
+        "alttxt":"Elevator Braking resistor - Type: 4500W 40Ω",
         "slider": [
-          "1",
-          "2"
+          "braking-resistor-type-4500w-40ohm-1",
+          "braking-resistor-type-4500w-40ohm-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-4500w-40ohm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3048,7 +3065,8 @@
         "description": "Cabinet Encloser - Small",
         "code": "BS-CS0018",
         "url": "/cabinet-set/cabinet-encloser-small",
-        "image": "/img/products/cabinet-set/cabinet-encloser-small/1.jpg",
+        "image": "/img/products/cabinet-set/cabinet-encloser-small/cabinet-encloser-small-1.jpg",
+        "alttxt":"Elevator Cabinet Enclodure-small",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/cabinet-encloser-small",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -3057,23 +3075,25 @@
         "description": "Type: 1600W 110Ω",
         "code": "BS-CS0019",
         "url": "/cabinet-set/braking-resistor-type-1600w-110",
-        "image": "/img/products/cabinet-set/braking-resistor-type-1600w-110/1.jpg",
+        "image": "/img/products/cabinet-set/braking-resistor-type-1600w-110/braking-resistor-type-1600w-110-1.jpg",
+        "alttxt":"Elevator Braking resistor - Type: 1600W 110Ω",
         "slider": [
-          "1",
-          "2"
+          "braking-resistor-type-1600w-110-1",
+          "braking-resistor-type-1600w-110-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-1600w-110",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
         "name": "Control cabinet - 22KW - Bestech",
-        "description": " Control cabinet - 22KW - Blue",
+        "description": "Control cabinet - 22KW - Blue",
         "code": "BS-CS0020",
         "url": "/cabinet-set/control-cabinet-22kw-blue",
-        "image": "/img/products/cabinet-set/control-cabinet-22kw-blue/1.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-22kw-blue/control-cabinet-22kw-blue-1.jpg",
+        "alttxt":"Elevator Control cabinet - 22KW - Bestech",
         "slider": [
-          "1",
-          "2"
+          "control-cabinet-22kw-blue-1",
+          "control-cabinet-22kw-blue-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-22kw-blue",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3083,7 +3103,8 @@
         "description": "ARCUBE - Car Top Inspection Box",
         "code": "BS-CS0021",
         "url": "/cabinet-set/arcube-car-top-inspection-box",
-        "image": "/img/products/cabinet-set/arcube-car-top-inspection-box/1.jpeg",
+        "image": "/img/products/cabinet-set/arcube-car-top-inspection-box/arcube-car-top-inspection-box-1.jpg",
+        "alttxt":"Elevator ARCUBE - Car Top Inspection Box",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/arcube-car-top-inspection-box",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -3092,10 +3113,11 @@
         "description": "Control cabinet - 18KW - Bestech",
         "code": "BS-CS0022",
         "url": "/cabinet-set/control-cabinet-18kw-blue",
-        "image": "/img/products/cabinet-set/control-cabinet-18kw-blue/1.jpg",
+        "image": "/img/products/cabinet-set/control-cabinet-18kw-blue/control-cabinet-18kw-blue-1.jpg",
+        "alttxt":"Elevator Control cabinet - 18KW - Bestech",
         "slider": [
-          "1",
-          "2"
+          "control-cabinet-18kw-blue-1",
+          "control-cabinet-18kw-blue-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-18kw-blue",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3105,7 +3127,8 @@
         "description": " Control cabinet - 5.5KW - Blue",
         "code": "BS-CS0023",
         "url": "/cabinet-set/control-cabinet-5.5kw-blue",
-        "image": "/img/products/cabinet-set/control-cabinet-5.5kw-blue/1.jpeg",
+        "image": "/img/products/cabinet-set/control-cabinet-5.5kw-blue/control-cabinet-5.5kw-blue-1.jpg",
+        "alttxt":"Elevator Control cabinet - 5.5KW - Blue",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-5.5kw-blue",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -3114,7 +3137,8 @@
         "description": "MRL Control Cabinet 5.5KW - Bestech",
         "code": "BS-CS0024",
         "url": "/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
-        "image": "/img/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech/1.jpeg",
+        "image": "/img/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech/mrl-control-cabinet-5.5kw-bestech-1.jpg",
+        "alttxt":"Elevator MRL Control Cabinet 5.5KW - Bestech",
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -3123,10 +3147,11 @@
         "description": "Monarch controller cabinet MRL 5.5KW",
         "code": "BS-CS0025",
         "url": "/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
-        "image": "/img/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw/1.jpg",
+        "image": "/img/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw/monarch-controller-cabinet-mrl-5.5kw-1.jpg",
+        "alttxt":"Monarch controller cabinet MRL 5.5KW",
         "slider": [
-          "1",
-          "2"
+          "monarch-controller-cabinet-mrl-5.5kw-1",
+          "monarch-controller-cabinet-mrl-5.5kw-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3136,10 +3161,11 @@
         "description": "Monarch controller cabinet MRL 11KW",
         "code": "BS-CS0026",
         "url": "/cabinet-set/monarch-controller-cabinet-mrl-11kw",
-        "image": "/img/products/cabinet-set/monarch-controller-cabinet-mrl-11kw/1.jpg",
+        "image": "/img/products/cabinet-set/monarch-controller-cabinet-mrl-11kw/monarch-controller-cabinet-mrl-11kw-1.jpg",
+        "alttxt":"Monarch controller cabinet MRL 11KW",
         "slider": [
-          "1",
-          "2"
+          "monarch-controller-cabinet-mrl-11kw-1",
+          "monarch-controller-cabinet-mrl-11kw-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-11kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6215,9 +6241,10 @@
         "description": "Encoder cable 15M",
         "code": "BS-EN0003",
         "url": "/encoders/encoder-cable-15m",
-        "image": "/img/products/encoders/encoder-cable-15m/1.jpg",
+        "image": "/img/products/encoders/encoder-cable-15m/encoder-cable-15m-1.jpg",
+        "alttxt":"Elevator Encoder Cable 15M",
         "slider": [
-          "1"
+          "encoder-cable-15m-1"
         ],
         "meta_title": "Elevator Encoder Cable 15m for Lift Systems | UAE",
         "meta_description": "Elevator encoder cable 15m for lift and servo systems. Suitable for long cable runs to carry position and speed feedback between encoder and control units in UAE.",
@@ -6231,9 +6258,10 @@
         "description": "Encoder roller 37mm",
         "code": "BS-EN0004",
         "url": "/encoders/encoder-roller-37mm",
-        "image": "/img/products/encoders/encoder-roller-37mm/1.jpg",
+        "image": "/img/products/encoders/encoder-roller-37mm/encoder-roller-37mm-1.jpg",
+        "alttxt":"Elevator Encoder Roller 37mm",
         "slider": [
-          "1"
+          "encoder-roller-37mm-1"
         ],
         "meta_title": "Elevator Encoder Roller 37mm for Lift Position Control",
         "meta_description": "Elevator encoder roller 37mm for lift systems. Used for position reading and speed control by supporting accurate encoder movement in UAE elevator setups.",
@@ -6247,9 +6275,10 @@
         "description": "Encoder roller 75mm",
         "code": "BS-EN0005",
         "url": "/encoders/encoder-roller-75mm",
-        "image": "/img/products/encoders/encoder-roller-75mm/1.jpg",
+        "image": "/img/products/encoders/encoder-roller-75mm/encoder-roller-75mm-1.jpg",
+        "alttxt":"Elevator Encoder Roller 75mm",
         "slider": [
-          "1"
+          "encoder-roller-75mm-1"
         ],
         "meta_title": "Elevator Encoder Roller 75mm for Lift Movement Reading",
         "meta_description": "Elevator encoder roller 75mm for lift systems. Friction roller used with encoders to measure elevator movement and support position and speed reading in UAE lifts.",
@@ -6263,11 +6292,12 @@
         "description": "Encoder 1387",
         "code": "BS-EN0006",
         "url": "/encoders/encoder-1387",
-        "image": "/img/products/encoders/encoder-1387/1.jpg",
+        "image": "/img/products/encoders/encoder-1387/encoder-1387-1.jpg",
+        "alttxt":"Elevator Encoder 1387",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "encoder-1387-1",
+          "encoder-1387-2",
+          "encoder-1387-3"
         ],
         "meta_title": "Buy Elevator Encoder 1387 for Lift Speed Control in UAE",
         "meta_description": "Buy elevator encoder 1387 for lift systems. Incremental rotary encoder used to monitor shaft movement and support smooth lift control in UAE.",
@@ -6281,9 +6311,10 @@
         "description": "Encoder 1024 30mm",
         "code": "BS-EN0007",
         "url": "/encoders/encoder-1024-30mm",
-        "image": "/img/products/encoders/encoder-1024-30mm/1.jpg",
+        "image": "/img/products/encoders/encoder-1024-30mm/encoder-1024-30mm-1.jpg",
+        "alttxt":"Elevator Encoder 1024 30mm",
         "slider": [
-          "1"
+          "encoder-1024-30mm-1"
         ],
         "meta_title": "Buy Elevator Encoder 1024 30mm for Lift Systems | UAE",
         "meta_description": "Buy elevator encoder 1024 30mm for lift systems. Incremental rotary encoder with 1024 pulses and 30 mm shaft for position and speed feedback.",
@@ -6297,10 +6328,11 @@
         "description": "Encoder 1024 35mm",
         "code": "BS-EN0008",
         "url": "/encoders/encoder-1024-35mm",
-        "image": "/img/products/encoders/encoder-1024-35mm/1.jpg",
+        "image": "/img/products/encoders/encoder-1024-35mm/encoder-1024-35mm-1.jpg",
+        "alttxt":"Elevator Encoder 1024 35mm",
         "slider": [
-          "1",
-          "2"
+          "encoder-1024-35mm-1",
+          "encoder-1024-35mm-2"
         ],
         "meta_title": "Buy Elevator Encoder 1024 35mm for Lift Systems in UAE",
         "meta_description": "Buy elevator encoder 1024 35mm for lift systems in UAE. Incremental rotary encoder with 1024 pulses and 35 mm shaft for accurate speed and position feedback.",
@@ -6314,10 +6346,11 @@
         "description": "Encoder 1024 40mm",
         "code": "BS-EN0009",
         "url": "/encoders/encoder-1024-40mm",
-        "image": "/img/products/encoders/encoder-1024-40mm/1.jpg",
+        "image": "/img/products/encoders/encoder-1024-40mm/encoder-1024-40mm-1.jpg",
+        "alttxt":"Elevator Encoder 1024 40mm",
         "slider": [
-          "1",
-          "2"
+          "encoder-1024-40mm-1",
+          "encoder-1024-40mm-2"
         ],
         "meta_title": "Elevator Encoder 1024 40mm for Lift Control Systems | UAE",
         "meta_description": "Buy elevator encoder 1024 40mm for UAE lift systems. Incremental rotary encoder designed to provide clear position and speed feedback.",
@@ -6331,10 +6364,11 @@
         "description": "Encoder 1024 45mm",
         "code": "BS-EN0010",
         "url": "/encoders/encoder-1024-45mm",
-        "image": "/img/products/encoders/encoder-1024-45mm/1.jpg",
+        "image": "/img/products/encoders/encoder-1024-45mm/encoder-1024-45mm-1.jpg",
+        "alttxt":"Elevator Encoder 1024 45mm",
         "slider": [
-          "1",
-          "2"
+          "encoder-1024-45mm-1",
+          "encoder-1024-45mm=2"
         ],
         "meta_title": "Elevator Encoder 1024 45mm for Lift Systems in UAE",
         "meta_description": "Elevator encoder 1024 45mm for lift systems. Incremental rotary encoder with 1024 pulses and 45mm shaft for position and speed feedback.",
@@ -6348,10 +6382,11 @@
         "description": "PG card MCTC-PG-E",
         "code": "BS-EN0011",
         "url": "/encoders/encoder-pg-card-mctc-pg-e",
-        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-e/1.jpg",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-e/encoder-pg-card-mctc-pg-e-1.jpg",
+        "alttxt":"Elevator Encoder PG Card MCTC-PG-E",
         "slider": [
-          "1",
-          "2"
+          "encoder-pg-card-mctc-pg-e-1",
+          "encoder-pg-card-mctc-pg-e-2"
         ],
         "meta_title": "Elevator Encoder PG Card MCTC-PG-E for Lift Systems | UAE",
         "meta_description": "Elevator encoder pg card mctc-pg-e for lift systems. PG card used with Monarch Nice 3000+ inverter to process encoder speed and position signals.",
@@ -6365,10 +6400,11 @@
         "description": "PG card MCTC-PG-A2",
         "code": "BS-EN0012",
         "url": "/encoders/encoder-pg-card-mctc-pg-a2",
-        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-a2/1.jpg",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-a2/encoder-pg-card-mctc-pg-a2-1.jpg",
+        "alttxt":"Elevator Encoder PG Card MCTC PG A2",
         "slider": [
-          "1",
-          "2"
+          "encoder-pg-card-mctc-pg-a2-1",
+          "encoder-pg-card-mctc-pg-a2-2"
         ],
         "meta_title": "Elevator Encoder PG Card MCTC PG A2 for Lift Systems | UAE",
         "meta_description": "Elevator encoder pg card mctc-pg-a2 for lift systems. PG card used with Monarch NICE series inverters to process encoder speed and position signals.",
@@ -6382,10 +6418,11 @@
         "description": "ECN 1313 encoder with 7M cable",
         "code": "BS-EN0013",
         "url": "/encoders/ecn-1313-encoder-with-7m-cable",
-        "image": "/img/products/encoders/ecn-1313-encoder-with-7m-cable/1.jpg",
+        "image": "/img/products/encoders/ecn-1313-encoder-with-7m-cable/ecn-1313-encoder-with-7m-cable-1.jpg",
+        "alttxt":"Elevator ECN 1313 Encoder with 7M Cable",
         "slider": [
-          "1",
-          "2"
+          "ecn-1313-encoder-with-7m-cable-1",
+          "ecn-1313-encoder-with-7m-cable-2"
         ],
         "meta_title": "ECN 1313 Encoder 7m Cable for Elevator Systems | UAE",
         "meta_description": "ECN 1313 encoder 7m cable for elevator systems in UAE. Absolute rotary encoder by Heidenhain with fixed 7 metre cable for clear and steady position feedback.",
@@ -6399,10 +6436,11 @@
         "description": "Encoder ERN 1387",
         "code": "BS-EN0014",
         "url": "/encoders/encoder-ern-1387",
-        "image": "/img/products/encoders/encoder-ern-1387/1.jpg",
+        "image": "/img/products/encoders/encoder-ern-1387/encoder-ern-1387-1.jpg",
+        "alttxt":"Elevator Encoder ERN 1387",
         "slider": [
-          "1",
-          "2"
+          "encoder-ern-1387-1",
+          "encoder-ern-1387-2"
         ],
         "meta_title": "Elevator Encoder ERN 1387 for Lift Systems in UAE",
         "meta_description": "Elevator encoder ERN 1387 for lift systems in UAE. Incremental rotary encoder by Heidenhain used to provide clear speed and position feedback in elevators.",
@@ -6416,10 +6454,11 @@
         "description": "TKE HENGSTLER 0541419",
         "code": "BS-EN0015",
         "url": "/encoders/hengstler-0541419-rotary-encoder",
-        "image": "/img/products/encoders/hengstler-0541419-rotary-encoder/1.jpg",
+        "image": "/img/products/encoders/hengstler-0541419-rotary-encoder/hengstler-0541419-rotary-encoder-1.jpg",
+        "alttxt":"Elevator HENGSTLER 0541419 - Rotary Encoder",
         "slider": [
-          "1",
-          "2"
+          "hengstler-0541419-rotary-encoder-1",
+          "hengstler-0541419-rotary-encoder-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/encoders/hengstler-0541419-rotary-encoder",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6429,10 +6468,11 @@
         "description": "Arkel: ENCABIT",
         "code": "BS-EN0016",
         "url": "/encoders/encabit-plus-module-pg-card",
-        "image": "/img/products/encoders/encabit-plus-module-pg-card/1.jpg",
+        "image": "/img/products/encoders/encabit-plus-module-pg-card/encabit-plus-module-pg-card-1.jpg",
+        "alttxt":"Elevator ENCABIT PLUS MODULE - PG CARD",
         "slider": [
-          "1",
-          "2"
+          "encabit-plus-module-pg-card-1",
+          "encabit-plus-module-pg-card-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/encoders/encabit-plus-module-pg-card",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6442,7 +6482,8 @@
         "description": "Encoder PG card: MCTC-PG-E6",
         "code": "BS-EN0017",
         "url": "/encoders/encoder-pg-card-mctc-pg-e6",
-        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-e6/1.jpg",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-e6/encoder-pg-card-mctc-pg-e6-1.jpg",
+        "alttxt":"Encoder PG card: MCTC-PG-E6",
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-e6",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6451,7 +6492,8 @@
         "description": "Encoder PG card: MCTC-PG-D",
         "code": "BS-EN0018",
         "url": "/encoders/encoder-pg-card-mctc-pg-d",
-        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-d/1.jpg",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-d/encoder-pg-card-mctc-pg-d-1.jpg",
+        "alttxt":"Elevator Encoder PG card: MCTC-PG-D",
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-d",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6460,7 +6502,8 @@
         "description": "Encoder PG card: MCTC-PG-F",
         "code": "BS-EN0019",
         "url": "/encoders/encoder-pg-card-mctc-pg-f",
-        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-f/1.jpg",
+        "image": "/img/products/encoders/encoder-pg-card-mctc-pg-f/encoder-pg-card-mctc-pg-f-1.jpg",
+        "alttxt":"Elevator Encoder PG card: MCTC-PG-F",
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-f",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6469,7 +6512,8 @@
         "description": "LS ROTARY ENCODER H-40-8-1024VL",
         "code": "BS-EN0020",
         "url": "/encoders/rotary-encoder-h-40-8-1024vl",
-        "image": "/img/products/encoders/rotary-encoder-h-40-8-1024vl/1.jpg",
+        "image": "/img/products/encoders/rotary-encoder-h-40-8-1024vl/rotary-encoder-h-40-8-1024vl-1.jpg",
+        "alttxt":"Elevator ROTARY ENCODER H-40-8-1024VL",
         "canonical": "https://www.bestechparts.ae/products/encoders/rotary-encoder-h-40-8-1024vl",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6478,7 +6522,8 @@
         "description": "Encoder cable open terminals",
         "code": "BS-EN0021",
         "url": "/encoders/7m-cable-for-1313-encoder",
-        "image": "/img/products/encoders/7m-cable-for-1313-encoder/1.jpg",
+        "image": "/img/products/encoders/7m-cable-for-1313-encoder/7m-cable-for-1313-encoder-1.jpg",
+        "alttxt":"Elevator 7M Cable for 1313 Encoder (Open)",
         "canonical": "https://www.bestechparts.ae/products/encoders/7m-cable-for-1313-encoder",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6487,7 +6532,8 @@
         "description": "Encoder cable open terminals",
         "code": "BS-EN0022",
         "url": "/encoders/7m-cable-for-1387-encoder",
-        "image": "/img/products/encoders/7m-cable-for-1387-encoder/1.jpg",
+        "image": "/img/products/encoders/7m-cable-for-1387-encoder/7m-cable-for-1387-encoder-1.jpg",
+        "alttxt":"Elevator 7M Cable for 1387 Encoder (Open)",
         "canonical": "https://www.bestechparts.ae/products/encoders/7m-cable-for-1387-encoder",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6496,10 +6542,11 @@
         "description": "Penon H40-8-2500UL",
         "code": "BS-EN0023",
         "url": "/encoders/encoder-h40-8-2500ul",
-        "image": "/img/products/encoders/encoder-h40-8-2500ul/1.jpg",
+        "image": "/img/products/encoders/encoder-h40-8-2500ul/encoder-h40-8-2500ul-1.jpg",
+        "alttxt":"Elevator Encoder: H40-8-2500UL",
         "slider": [
-          "1",
-          "2"
+          "encoder-h40-8-2500ul-1",
+          "encoder-h40-8-2500ul-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/encoders/encoder-h40-8-2500ul",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6509,7 +6556,8 @@
         "description": "Arkel: ENCA Encoder board",
         "code": "BS-EN0024",
         "url": "/encoders/enca-encoder-board",
-        "image": "/img/products/encoders/enca-encoder-board/1.jpeg",
+        "image": "/img/products/encoders/enca-encoder-board/enca-encoder-board-1.jpg",
+        "alttxt":"Elevator ENCA Encoder Board",
         "canonical": "https://www.bestechparts.ae/products/encoders/enca-encoder-board",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6518,7 +6566,8 @@
         "description": "1387 Encoder cable 20M with shield",
         "code": "BS-EN0025",
         "url": "/encoders/1387-encoder-cable-20m",
-        "image": "/img/products/encoders/1387-encoder-cable-20m/1.jpg",
+        "image": "/img/products/encoders/1387-encoder-cable-20m/1387-encoder-cable-20m-1.jpg",
+        "alttxt":"Elevator 1387 Encoder cable 20M",
         "canonical": "https://www.bestechparts.ae/products/encoders/1387-encoder-cable-20m",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -6527,10 +6576,11 @@
         "description": "Mitsubishi Elevator Encoder X65AC11",
         "code": "BS-EN0026",
         "url": "/encoders/elevator-encoder-x65ac11-512-45mm",
-        "image": "/img/products/encoders/elevator-encoder-x65ac11-512-45mm/1.jpg",
+        "image": "/img/products/encoders/elevator-encoder-x65ac11-512-45mm/elevator-encoder-x65ac11-512-45mm-1.jpg",
+        "alttxt":"Elevator Encoder X65AC11 - 512 45mm",
         "slider": [
-          "1",
-          "2"
+          "elevator-encoder-x65ac11-512-45mm-1",
+          "elevator-encoder-x65ac11-512-45mm-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/encoders/elevator-encoder-x65ac11-512-45mm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -7953,10 +8003,11 @@
         "description": "MCTC-CTB-A",
         "code": "BS-PB0001",
         "url": "/pcb-boards/car-top-board-mctc-ctb-a",
-        "image": "/img/products/pcb-boards/car-top-board-mctc-ctb-a/1.jpg",
+        "image": "/img/products/pcb-boards/car-top-board-mctc-ctb-a/car-top-board-mctc-ctb-a-1.jpg",
+        "alttxt":"Monarch CTB-A car top board",
         "slider": [
-          "1",
-          "2"
+          "car-top-board-mctc-ctb-a-1",
+          "car-top-board-mctc-ctb-a-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/car-top-board-mctc-ctb-a",
@@ -7978,10 +8029,11 @@
         "description": "MCTC-CCB-A",
         "code": "BS-PB0002",
         "url": "/pcb-boards/command-board-mctc-ccb-a",
-        "image": "/img/products/pcb-boards/command-board-mctc-ccb-a/1.jpg",
+        "image": "/img/products/pcb-boards/command-board-mctc-ccb-a/command-board-mctc-ccb-a-1.jpg",
+        "alttxt":"Elevator Command board: MCTC-CCB-A",
         "slider": [
-          "1",
-          "2"
+          "command-board-mctc-ccb-a-1",
+          "command-board-mctc-ccb-a-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/command-board-mctc-ccb-a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8002,10 +8054,11 @@
         "description": "",
         "code": "BS-PB0003",
         "url": "/pcb-boards/car-top-board-step",
-        "image": "/img/products/pcb-boards/car-top-board-step/1.jpg",
+        "image": "/img/products/pcb-boards/car-top-board-step/car-top-board-step-1.jpg",
+        "alttxt":"Elevator Car top board - Step",
         "slider": [
-          "1",
-          "2"
+          "car-top-board-step-1",
+          "car-top-board-step-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/car-top-board-step",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8026,10 +8079,11 @@
         "description": "",
         "code": "BS-PB0004",
         "url": "/pcb-boards/cop-command-board-step",
-        "image": "/img/products/pcb-boards/cop-command-board-step/1.jpg",
+        "image": "/img/products/pcb-boards/cop-command-board-step/cop-command-board-step-1.jpg",
+        "alttxt":"Elevator COP command board - Step",
         "slider": [
-          "1",
-          "2"
+          "cop-command-board-step-1",
+          "cop-command-board-step-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/cop-command-board-step",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8049,10 +8103,11 @@
         "description": "MCTC-GCB-B1/A1",
         "code": "BS-PB0005",
         "url": "/pcb-boards/group-control-board-mctc-gcb-b1-a1",
-        "image": "/img/products/pcb-boards/group-control-board-mctc-gcb-b1-a1/1.jpg",
+        "image": "/img/products/pcb-boards/group-control-board-mctc-gcb-b1-a1/group-control-board-mctc-gcb-b1-a1-1.jpg",
+        "alttxt":"Monarch MCTC SCB-A1 UCMP Control Board",
         "slider": [
-          "1",
-          "2"
+          "group-control-board-mctc-gcb-b1-a1-1",
+          "group-control-board-mctc-gcb-b1-a1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/group-control-board-mctc-gcb-b1-a1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8072,10 +8127,11 @@
         "description": "MCTC-SCB-A1",
         "code": "BS-PB0006",
         "url": "/pcb-boards/ucmp-mctc-scb-a1",
-        "image": "/img/products/pcb-boards/ucmp-mctc-scb-a1/1.jpg",
+        "image": "/img/products/pcb-boards/ucmp-mctc-scb-a1/ucmp-mctc-scb-a1-1.jpg",
+        "alttxt":"Elevator UCMP: MCTC-SCB-A1",
         "slider": [
-          "1",
-          "2"
+          "ucmp-mctc-scb-a1-1",
+          "ucmp-mctc-scb-a1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/ucmp-mctc-scb-a1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8092,7 +8148,8 @@
         "description": "ML65X",
         "code": "BS-PB0007",
         "url": "/pcb-boards/ml65x-lift-controller",
-        "image": "/img/products/pcb-boards/ml65x-lift-controller/1.jpg",
+        "image": "/img/products/pcb-boards/ml65x-lift-controller/ml65x-lift-controller-1.jpg",
+        "alttxt":"Elevator ML65X (Lift Controller)",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/ml65x-lift-controller",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8101,7 +8158,8 @@
         "description": "MLSERI65",
         "code": "BS-PB0008",
         "url": "/pcb-boards/mlseri65-serial-communication-card",
-        "image": "/img/products/pcb-boards/mlseri65-serial-communication-card/1.jpg",
+        "image": "/img/products/pcb-boards/mlseri65-serial-communication-card/mlseri65-serial-communication-card-1.jpg",
+        "alttxt":"Elevator MLSERI65 (Serial Communication Card)",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/mlseri65-serial-communication-card",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8110,7 +8168,8 @@
         "description": "MLKR1",
         "code": "BS-PB0009",
         "url": "/pcb-boards/mlkr1-door-bridging-card",
-        "image": "/img/products/pcb-boards/mlkr1-door-bridging-card/1.jpg",
+        "image": "/img/products/pcb-boards/mlkr1-door-bridging-card/mlkr1-door-bridging-card-1.jpg",
+        "alttxt":"Elevator MLKR1 (Door Bridging Card)",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/mlkr1-door-bridging-card",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8119,10 +8178,11 @@
         "description": "Arkel: ARL-300",
         "code": "BS-PB0010",
         "url": "/pcb-boards/lift-controller-set-arl-300",
-        "image": "/img/products/pcb-boards/lift-controller-set-arl-300/1.jpg",
+        "image": "/img/products/pcb-boards/lift-controller-set-arl-300/lift-controller-set-arl-300-1.jpg",
+        "alttxt":"Elevator LIFT CONTROLLER SET ARL-300",
         "slider": [
-          "1",
-          "2"
+          "lift-controller-set-arl-300-1",
+          "lift-controller-set-arl-300-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/lift-controller-set-arl-300",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8132,7 +8192,8 @@
         "description": "DHG-161 OTIS Sigma PCB",
         "code": "BS-PB0011",
         "url": "/pcb-boards/dhg-161-hoistway-communication-board",
-        "image": "/img/products/pcb-boards/dhg-161-hoistway-communication-board/1.jpg",
+        "image": "/img/products/pcb-boards/dhg-161-hoistway-communication-board/dhg-161-hoistway-communication-board-1.jpg",
+        "alttxt":"Elevator DHG-161 Hoistway Communication Board",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/dhg-161-hoistway-communication-board",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8141,11 +8202,12 @@
         "description": "Step Motherboard SM.01 F5021",
         "code": "BS-PB0012",
         "url": "/pcb-boards/step-motherboard-sm01-f5021",
-        "image": "/img/products/pcb-boards/step-motherboard-sm01-f5021/1.jpg",
+        "image": "/img/products/pcb-boards/step-motherboard-sm01-f5021/step-motherboard-sm01-f5021-1.jpg",
+        "alttxt":"Elevator Step Motherboard SM.01 F5021",
         "slider": [
-          "1",
-          "2",
-          "3"
+          "step-motherboard-sm01-f5021-1",
+          "step-motherboard-sm01-f5021-2",
+          "step-motherboard-sm01-f5021-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/step-motherboard-sm01-f5021",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8155,7 +8217,8 @@
         "description": "SM.02/G",
         "code": "BS-PB0013",
         "url": "/pcb-boards/as380-communication-board-sm02g",
-        "image": "/img/products/pcb-boards/as380-communication-board-sm02g/1.jpg",
+        "image": "/img/products/pcb-boards/as380-communication-board-sm02g/as380-communication-board-sm02g-1.jpg",
+        "alttxt":"Elevator AS380 Communication Board SM.02/G",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/as380-communication-board-sm02g",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8164,7 +8227,8 @@
         "description": "Monarch: MCTC-GCB-B2 (4 lifts)",
         "code": "BS-PB0014",
         "url": "/pcb-boards/group-control-board-mctc-gcb-b2",
-        "image": "/img/products/pcb-boards/group-control-board-mctc-gcb-b2/1.jpg",
+        "image": "/img/products/pcb-boards/group-control-board-mctc-gcb-b2/group-control-board-mctc-gcb-b2-1.jpg",
+        "alttxt":"Elevator Group control board: MCTC-GCB-B2",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/group-control-board-mctc-gcb-b2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8173,7 +8237,8 @@
         "description": "Mitsubishi: Zws30-12/J PWB-655h",
         "code": "BS-PB0015",
         "url": "/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
-        "image": "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/1.jpg",
+        "image": "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/pcb-power-board-zws30-12j-pwb-655h-1.jpg",
+        "alttxt":"Elevator PCB Power Board: Zws30-12/J PWB-655h",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8182,10 +8247,11 @@
         "description": "Step SM-02 D (5021)",
         "code": "BS-PB0016",
         "url": "/pcb-boards/step-sm02-d-5021",
-        "image": "/img/products/pcb-boards/step-sm02-d-5021/1.jpg",
+        "image": "/img/products/pcb-boards/step-sm02-d-5021/step-sm02-d-5021-1.jpg",
+        "alttxt":"Elevator Step SM-02 D (5021)",
         "slider": [
-          "1",
-          "2"
+          "step-sm02-d-5021-1",
+          "step-sm02-d-5021-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/step-sm02-d-5021",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8195,10 +8261,11 @@
         "description": "Monarch: MCTC-MCB-C2",
         "code": "BS-PB0017",
         "url": "/pcb-boards/mctc-mcb-c2",
-        "image": "/img/products/pcb-boards/mctc-mcb-c2/1.jpg",
+        "image": "/img/products/pcb-boards/mctc-mcb-c2/mctc-mcb-c2-1.jpg",
+        "alttxt":"Elevator MCTC-MCB-C2",
         "slider": [
-          "1",
-          "2"
+          "mctc-mcb-c2-1",
+          "mctc-mcb-c2-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8208,10 +8275,11 @@
         "description": "Monarch: MCTC-MCB-C3",
         "code": "BS-PB0018",
         "url": "/pcb-boards/mctc-mcb-c3",
-        "image": "/img/products/pcb-boards/mctc-mcb-c3/1.jpg",
+        "image": "/img/products/pcb-boards/mctc-mcb-c3/mctc-mcb-c3-1.jpg",
+        "alttxt":"Elevator MCTC-MCB-C3",
         "slider": [
-          "1",
-          "2"
+          "mctc-mcb-c3-1",
+          "mctc-mcb-c3-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8221,7 +8289,8 @@
         "description": "MNK Bluetooth",
         "code": "BS-PB0019",
         "url": "/pcb-boards/mnk-bluetooth",
-        "image": "/img/products/pcb-boards/mnk-bluetooth/1.jpg",
+        "image": "/img/products/pcb-boards/mnk-bluetooth/mnk-bluetooth-1.jpg",
+        "alttxt":"Elevator MNK Bluetooth",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/mnk-bluetooth",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8230,7 +8299,8 @@
         "description": "MCTC-CCB-B COP Board",
         "code": "BS-PB0021",
         "url": "/pcb-boards/mctc-ccb-b-cop-board",
-        "image": "/img/products/pcb-boards/mctc-ccb-b-cop-board/1.jpg",
+        "image": "/img/products/pcb-boards/mctc-ccb-b-cop-board/mctc-ccb-b-cop-board-1.jpg",
+        "alttxt":"MCTC-CCB-B COP Board",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/mctc-ccb-b-cop-board",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -8239,7 +8309,8 @@
         "description": "FAA23600AB1 - Arrival Gong PCB OTIS",
         "code": "BS-PB0022",
         "url": "/pcb-boards/arrival-gong-pcb-faa23600ab1",
-        "image": "/img/products/pcb-boards/arrival-gong-pcb-faa23600ab1/1.jpeg",
+        "image": "/img/products/pcb-boards/arrival-gong-pcb-faa23600ab1/arrival-gong-pcb-faa23600ab1-1.jpg",
+        "alttxt":"FAA23600AB1 - Arrival Gong PCB",
         "canonical": "https://www.bestechparts.ae/products/pcb-boards/arrival-gong-pcb-faa23600ab1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
