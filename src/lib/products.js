@@ -4310,14 +4310,14 @@ export const products = [
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "Door Lock Contact: SE11-1A12",
-        description: "SE11-1A12",
+        name: "Door Lock Contact: SEL1-A1Z",
+        description: "SEL1-A1Z",
         code: "BS-DL0022",
-        url: "/door-locks/door-lock-contact-se11-1a12",
-        image: "/img/products/door-locks/door-lock-contact-se11-1a12/1.jpg",
-        slider: ["1", "2", "3"],
+        url: "/door-locks/door-lock-contact-sel1-a1z",
+        image: "/img/products/door-locks/door-lock-contact-sel1-a1z/door-lock-contact-sel1-a1z-1.jpg",
+        slider: ["door-lock-contact-sel1-a1z-1", "door-lock-contact-sel1-a1z-2", "door-lock-contact-sel1-a1z-3"],
         canonical:
-          "https://www.bestechparts.ae/products/door-locks/door-lock-contact-se11-1a12",
+          "https://www.bestechparts.ae/products/door-locks/door-lock-contact-sel1-a1z",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },

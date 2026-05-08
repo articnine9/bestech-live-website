@@ -4356,22 +4356,22 @@
         "paragraph_text": "<h2>LOP Lock: 2801/2802/2803</h2>\n<h3>Product Overview</h3>\n<p>The LOP Lock 2801, 2802 and 2803 are key-operated door locks used on elevator Lobby Operating Panels. Each model is a separate mechanical lock made to control access to the LOP cover during normal lift use.</p>\n<p>These locks do not use power or signals. They work only with a matching key and are used by trained lift staff during inspection, service, or repair work. The lock helps prevent unauthorised access to lift control parts placed behind the lobby panel.</p>\n<p>The elevator door LOP lock 2801-2802-2803 range is used in passenger lifts where controlled access to the lobby panel is required during service work.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product type:</strong> LOP mechanical door lock</li>\n  <li><strong>Product Code:</strong> BS-DL0021</li>\n  <li><strong>Models:</strong> 2801 / 2802 / 2803</li>\n  <li><strong>Operation:</strong> Key operated</li>\n  <li><strong>Power requirement:</strong> None</li>\n  <li><strong>Mounting location:</strong> Lobby Operating Panel (LOP)</li>\n  <li><strong>Material:</strong> Industrial-grade metal</li>\n  <li><strong>Use case:</strong> Inspection, servicing, and maintenance access</li>\n  <li><strong>Compatibility:</strong> Suitable for common elevator LOP designs</li>\n</ul>\n<p>Each model may differ in size, fixing position, or key layout to match different panel designs.</p>"
       },
       {
-        "name": "Door Lock Contact: SE11-1A12",
-        "description": "SE11-1A12",
+        "name": "Door Lock Contact: SEL1-A1Z",
+        "description": "SEL1-A1Z",
         "code": "BS-DL0022",
-        "url": "/door-locks/door-lock-contact-se11-1a12",
-        "image": "/img/products/door-locks/door-lock-contact-se11-1a12/door-lock-contact-se11-1a12-1.jpg",
+        "url": "/door-locks/door-lock-contact-sel1-a1z",
+        "image": "/img/products/door-locks/door-lock-contact-sel1-a1z/door-lock-contact-sel1-a1z-1.jpg",
         "slider": [
-          "door-lock-contact-se11-1a12-1",
-          "door-lock-contact-se11-1a12-2",
-          "door-lock-contact-se11-1a12-3"
+          "door-lock-contact-sel1-a1z-1",
+          "door-lock-contact-sel1-a1z-2",
+          "door-lock-contact-sel1-a1z-3"
         ],
-        "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-se11-1a12",
+        "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-sel1-a1z",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "Lift Door Lock Contact SE11-1A12 | Elevator Safety Part",
-        "meta_description": "Lift door lock contact SE11-1A12 is an electrical safety switch used in elevator door locks to confirm closed and locked door conditions.",
-        "keywords": "elevator door lock contact se11-1a12, lift door lock contact se11-1a12",
-        "paragraph_text": "<h2>Door Lock Contact: SE11-1A12</h2>\n<h3>Product Overview</h3>\n<p>The SE11-1A12 door lock contact is an electrical safety contact used in elevator door lock systems. It is designed to check whether the landing door is fully closed and correctly locked before the lift is allowed to run.</p>\n<p>This elevator door lock contact SE11-1A12 works as part of the lift safety circuit. When the door lock reaches the correct locked position, the contact changes its electrical condition and sends a clear signal to the controller. If the door is not locked or the lock parts are not aligned, the signal is not given and lift movement is stopped.</p>\n<p>The lift door lock contact SE11-1A12 does not apply any holding force to the door. It does not control door movement or locking. Its role is limited to monitoring the lock position and reporting the door status.</p>\n<p>This contact is commonly used in passenger and service lifts where correct door locking must be confirmed to meet safety rules and inspection needs.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product type:</strong> Electrical door lock contact</li>\n  <li><strong>Product Code:</strong> BS-DL0022</li>\n  <li><strong>Model:</strong> SE11-1A12</li>\n  <li><strong>Application:</strong> Elevator landing door locks</li>\n  <li><strong>Function:</strong> Door closed and locked confirmation</li>\n  <li><strong>Operation:</strong> Mechanical actuation with electrical output</li>\n  <li><strong>Role:</strong> Safety circuit monitoring only</li>\n  <li><strong>Power supply:</strong> Not applicable (signal contact only)</li>\n  <li><strong>Installation location:</strong> Inside door lock assembly</li>\n</ul>"
+        "meta_title": "Lift Door Lock Contact SEL1-A1Z | Elevator Safety Part",
+        "meta_description": "Lift door lock contact SEL1-A1Z is an electrical safety switch used in elevator door locks to confirm closed and locked door conditions.",
+        "keywords": "elevator door lock contact sel1-a1z, lift door lock contact sel1-a1z",
+        "paragraph_text": "<h2>Door Lock Contact: SEL1-A1Z</h2>\n<h3>Product Overview</h3>\n<p>The SEL1-A1Z door lock contact is an electrical safety contact used in elevator door lock systems. It is designed to check whether the landing door is fully closed and correctly locked before the lift is allowed to run.</p>\n<p>This elevator door lock contact SE11-1A12 works as part of the lift safety circuit. When the door lock reaches the correct locked position, the contact changes its electrical condition and sends a clear signal to the controller. If the door is not locked or the lock parts are not aligned, the signal is not given and lift movement is stopped.</p>\n<p>The lift door lock contact SE11-1A12 does not apply any holding force to the door. It does not control door movement or locking. Its role is limited to monitoring the lock position and reporting the door status.</p>\n<p>This contact is commonly used in passenger and service lifts where correct door locking must be confirmed to meet safety rules and inspection needs.</p>\n<h2>Key Specifications</h2>\n<ul>\n  <li><strong>Product type:</strong> Electrical door lock contact</li>\n  <li><strong>Product Code:</strong> BS-DL0022</li>\n  <li><strong>Model:</strong> SEL1-A1Z</li>\n  <li><strong>Application:</strong> Elevator landing door locks</li>\n  <li><strong>Function:</strong> Door closed and locked confirmation</li>\n  <li><strong>Operation:</strong> Mechanical actuation with electrical output</li>\n  <li><strong>Role:</strong> Safety circuit monitoring only</li>\n  <li><strong>Power supply:</strong> Not applicable (signal contact only)</li>\n  <li><strong>Installation location:</strong> Inside door lock assembly</li>\n</ul>"
       },
       {
         "name": "Landing door lock device: 50/11.Left",
@@ -5445,6 +5445,7 @@
         "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator guide shoe 100 100 10 16 s is a specific model of sliding guide shoe used in lift systems. Its main purpose is to support the guided movement and alignment of elevator components within the lift system, depending on system design and application. Typically used as part of the elevator guide system, this sliding guide shoe helps support smooth guided operation within compatible lift installations.</p>",
+          
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Guide Shoe 100/100 x 10/16 S</li><li><strong>Type:</strong> Sliding Guide Shoe</li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0001</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH) </li></ul>"
         ],
@@ -5675,7 +5676,7 @@
           "<p>The L10 guide shoe elevator is a sliding guide shoe used in compatible elevator systems, commonly applied on the counterweight of low-to-medium-speed elevators. It is designed to support guided movement along the elevator rails and helps maintain stable alignment during operation. As part of the guide shoe assembly, the L10 model is suitable for lift maintenance and replacement needs where the correct guide shoe configuration is required. </p>",
           
           "<h2><strong>Key specifications</Strong></h2>",
-          "<ul><li><strong>Product Name:</Strong> Guide shoe: 100 X 10/16</li><li><strong>Type:</strong> Sliding guide shoe</li><li><strong>Application:</strong> Elevator systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0012</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+          "<ul><li><strong>Product Name:</Strong> Guide shoe: L10</li><li><strong>Type:</strong> Sliding guide shoe</li><li><strong>Application:</strong> Elevator systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0012</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
         ],
         "alttext":"Elevator Guide shoe: L10",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-l10",
@@ -5687,6 +5688,16 @@
         "code": "BS-GS0013",
         "url": "/guide-shoes/guide-shoe-100-10-16",
         "image": "/img/products/guide-shoes/guide-shoe-100-10-16/guide-shoe-100-10-16-1.jpg",
+         "meta_title": "Elevator Guide Shoe 100 X 10/16 | Lift Spare Parts UAE",
+        "meta_description": "Find elevator guide shoe 100 10 16 solutions designed for compatible elevator systems and dependable replacement needs.",
+        "keywords": "elevator guide shoe 100 10 16, lift guide shoe supplier sharjah",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe 100 10 16 is a sliding guide shoe used in compatible elevator systems to support smooth and stable movement of the elevator car or counterweight. As part of the guide shoe assembly, it is designed to guide moving lift components during operation and support proper movement along the guide rails.</p>",
+          "<p>The 100 X 10/16 model is used in lift maintenance and replacement applications where the correct sliding guide shoe configuration is required.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe: 100 X 10/16</li><li><strong>Type:</strong> Sliding guide shoe</li><li><strong>Application:</strong> Elevator systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0013</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "alttext":"Elevator Guide shoe: 100 X 10/16",
         "slider": [
           "guide-shoe-100-10-16-1",
@@ -5700,6 +5711,16 @@
         "description": "DX18",
         "code": "BS-GS0014",
         "url": "/guide-shoes/general-guide-shoe-dx18",
+         "meta_title": "Elevator General Guide Shoe DX18 | Lift Parts UAE",
+        "meta_description": "Explore elevator general guide shoe DX18 solutions for compatible lift systems and dependable replacement applications.",
+        "keywords": "elevator general guide shoe DX18, DX18 lift guide shoe supplier",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator general guide shoe DX18 is a sliding guide shoe used in elevator systems as a compatible replacement part for various lift applications. Commonly available through third-party manufacturers, it is designed for systems that require the DX18 guide shoe model for compatible maintenance or replacement needs.</p>",
+          "<p>For businesses or maintenance requirements seeking DX18 lift guide shoe supplier solutions, this model is suited for compatible elevator systems requiring the correct sliding guide shoe configuration.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> General guide shoe: DX18</li><li><strong>Type:</strong> Sliding guide shoe</li><li><strong>Application:</strong> Elevator systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0014</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/general-guide-shoe-dx18/general-guide-shoe-dx18-1.jpg",
         "alttext":"Elevator General guide shoe: DX18",
         "slider": [
@@ -5714,16 +5735,36 @@
         "description": "DX 10A",
         "code": "BS-GS0015",
         "url": "/guide-shoes/general-guide-shoe-dx-10a",
+        "meta_title": "Elevator General Guide Shoe DX 10A | Lift Parts UAE",
+        "meta_description": "Explore elevator general guide shoe DX 10A for low-to-medium-speed lift systems and compatible replacement needs.",
+        "keywords": "elevator general guide shoe DX 10A, lift guide shoe spare parts dealers",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator general guide shoe DX 10A is a sliding guide shoe used in elevator systems for low to medium speeds. Its main use is to support guided movement within compatible lift systems that require the DX 10A guide shoe model for suitable low-to-medium-speed applications.</p>",
+          "<p>As a lift guide shoe spare parts dealer, Bestech supplies DX 10A guide shoe solutions for compatible elevator systems requiring the correct guide shoe configuration.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> General guide shoe: DX 10A</li><li><strong>Type:</strong> Sliding guide shoe</li><li><strong>Application:</strong> Elevator systems (low to medium speed)</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0015</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/general-guide-shoe-dx-10a/general-guide-shoe-dx-10a-1.jpg",
         "alttext":"Elevator General guide shoe: DX 10A",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-dx-10a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
-        "name": "Guide shoe: 110 X 10/16",
+        "name": "Guide shoe: 110 X 10/16 ALT",
         "description": "110 X 10/16",
         "code": "BS-GS0016",
         "url": "/guide-shoes/guide-shoe-110-10-16-alt",
+         "meta_title": "Elevator Guide Shoe 110 X 10/16 ALT | Lift Parts UAE  ",
+        "meta_description": "Discover elevator guide shoe 110 10 16 alt options for lift maintenance and compatible guide shoe replacement applications.",
+        "keywords": "elevator guide shoe 110 10 16 alt, lift guide shoe parts supplier",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Used in compatible elevator systems, the elevator guide shoe 110 10 16 alt is a sliding guide shoe used in lift applications requiring the 110 X 10/16 ALT model. It is used in maintenance and replacement applications where the correct guide shoe configuration is required. This model supports compatible elevator guide shoe systems requiring the specified sliding guide shoe setup.</p>",
+          
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe: 110 X 10/16 ALT</li><li><strong>Type:</strong> Sliding guide shoe</li><li><strong>Model Reference:</strong> 110 X 10/16 ALT</li><li><strong>Application:</strong> Elevator systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0016</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-110-10-16-alt/guide-shoe-110-10-16-alt-1.jpg",
         "alttext":"Elevator Guide shoe: 110 X 10/16",
         "slider": [
@@ -5738,6 +5779,17 @@
         "description": "150 X 10 X 16",
         "code": "BS-GS0017",
         "url": "/guide-shoes/guide-shoe-150-10-16",
+         "meta_title": "Elevator Guide Shoe 150 X 10 X 16 | Lift Parts UAE",
+        "meta_description": "Standard elevator guide shoe 150 10 16 for lift systems, designed for stable movement and compatible replacement applications.",
+        "keywords": "elevator guide shoe 150 10 16, lift guide shoe spare parts dealers",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Designed for elevator systems, the elevator guide shoe 150 10 16 is a sliding guide shoe used to help guide the movement of the elevator car or counterweight. It is used in compatible lift systems requiring the 150 X 10 X 16 model for maintenance and replacement applications. </p>",
+          "<p>This guide shoe supports elevator systems where the correct sliding guide shoe configuration is required.</p>",
+          
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe: 150 X 10 X 16</li><li><strong>Type:</strong> Sliding guide shoe</li><li><strong>Application:</strong> Elevator systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0017</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-150-10-16/guide-shoe-150-10-16-1.jpg",
         "alttext":"Elevator Guide shoe: 150 X 10 X 16",
         "slider": [
@@ -5752,6 +5804,15 @@
         "description": "100 X 10/16",
         "code": "BS-GS0018",
         "url": "/guide-shoes/guide-shoe-insert-100-10-16",
+         "meta_title": "Guide Shoe Insert 100 X 10/16 | Lift Spare Parts UAE ",
+        "meta_description": "Elevator guide shoe insert 100 10 16 designed for compatible guide shoe maintenance and replacement applications.",
+        "keywords": "elevator guide shoe insert 100 10 16, buy lift sliding guide shoe",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe insert 100 10 16 is used in compatible elevator systems as a replacement insert for guide shoe assemblies. It helps support guided movement and is commonly used during maintenance when existing inserts require replacement. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe insert: 100 X 10/16</li><li><strong>Type:</strong> Sliding Guide Shoe Insert / Liner</li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0018</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-insert-100-10-16/guide-shoe-insert-100-10-16-1.jpg",
         "alttext":"Elevator Guide shoe insert: 100 X 10/16",
         "slider": [
@@ -5767,6 +5828,16 @@
         "description": "80 X 10/16",
         "code": "BS-GS0019",
         "url": "/guide-shoes/guide-shoe-insert-80-10-16",
+         "meta_title": "Guide Shoe Insert 80 X 10/16 | Elevator Spare Parts UAE ",
+        "meta_description": "Replace worn components with the elevator guide shoe insert 80 10 16 to support smooth rail sliding and maintain standard elevator guide shoe performance. ",
+        "keywords": "elevator guide shoe insert 80 10 16",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe insert 80 10 16 is a replaceable liner component designed for elevator sliding guide shoe systems. It functions as a protective interface between the guide shoe assembly and the steel guide rail. This insert is used during routine maintenance to replace worn liners, helping to manage friction and reduce operational noise. </p>",
+          "<p>By maintaining the correct clearance between the shoe and the rail, it supports the consistent movement of the lift car or counterweight. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe insert: 80 X 10/16 </li><li><strong>Type:</strong> Guide Shoe Insert / Liner</li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0019</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-insert-80-10-16/guide-shoe-insert-80-10-16-1.jpg",
         "alttext":"Elevator Guide shoe insert: 80 X 10/16",
         "slider": [
@@ -5781,6 +5852,16 @@
         "description": "140 X 10/16",
         "code": "BS-GS0020",
         "url": "/guide-shoes/guide-shoe-insert-140-10-16",
+        "meta_title": "Elevator Guide Shoe Insert 140 X 10/16 | Spare Parts UAE",
+        "meta_description": "Find the elevator guide shoe insert 140 10 16 for your lift maintenance, designed for compatible sliding guide shoe assemblies. ",
+        "keywords": "elevator guide shoe insert 140 10 16",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe insert 140 10 16 is a replaceable part for elevator sliding guide shoes. It fits inside the guide shoe and sits against the elevator rail. This part is used for maintenance when old inserts are worn out. </p>",
+          "<p>It acts as a layer between the metal shoe and the rail to help the elevator car or counterweight move during operation. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe insert: 140 X 10/16 </li><li><strong>Type:</strong> Guide Shoe Insert / Liner </li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0020 </li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-insert-140-10-16/guide-shoe-insert-140-10-16-1.jpg",
         "alttext":"Elevator Guide shoe insert: 140 X 10/16",
         "slider": [
@@ -5795,6 +5876,16 @@
         "description": "20 X 10/16",
         "code": "BS-GS0021",
         "url": "/guide-shoes/guide-shoe-insert-20-10-16",
+        "meta_title": "Elevator Guide Shoe Insert 20 X 10/16 | Spare Parts UAE",
+        "meta_description": "Find the elevator guide shoe insert 20 10 16 for your lift maintenance, designed for compatible sliding guide shoe assemblies.",
+        "keywords": "elevator guide shoe insert 20 10 16",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe insert 20 10 16 is a replaceable part used in elevator sliding guide shoes. It fits inside the guide shoe and sits against the guide rail. This part is used for maintenance when old inserts are worn out. It acts as a layer between the metal shoe and the rail to help the elevator car or counterweight move during operation.</p>",
+          
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe insert: 20 X 10/16</li><li><strong>Type:</strong> Guide Shoe Insert / Liner </li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0021</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-insert-20-10-16/guide-shoe-insert-20-10-16-1.jpg",
         "alttext":"Elevator Guide shoe insert: 20 X 10/16",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-20-10-16",
@@ -5805,6 +5896,7 @@
         "description": "20 X 10/16",
         "code": "BS-GS0022",
         "url": "/guide-shoes/guide-shoe-insert-140-x-10-16",
+        
         "image": "/img/products/guide-shoes/guide-shoe-insert-140-x-10-16/guide-shoe-insert-140-x-10-16-1.jpg",
         "alttext":"Elevator Guide shoe insert: 140 X 10/16",
         "slider": [
@@ -5815,10 +5907,20 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
-        "name": "Guide shoe insert: 230 X 10/16",
+        "name": "Guide shoe insert: 230 X 10/16 ALT",
         "description": "230 X 10/16",
         "code": "BS-GS0023",
         "url": "/guide-shoes/guide-shoe-insert-230-10-16-alt",
+         "meta_title": "Elevator Guide Shoe Insert 230 X 10/16 ALT | Spare Parts UAE",
+        "meta_description": "Find elevator guide shoe insert 230 10 16 alt for lift maintenance and compatible aftermarket sliding guide shoe replacement needs.",
+        "keywords": "elevator guide shoe insert 230 10 16 alt",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe insert 230 10 16 alt is a replaceable liner used in elevator sliding guide shoe systems as a compatible replacement part. Its main use is to replace worn guide shoe liners during maintenance, helping guide shoe assemblies continue functioning with the correct insert configuration.</p>",
+          "<p>By serving as part of the guide shoe assembly, this insert supports ongoing maintenance needs and helps preserve compatible movement within elevator systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe insert: 230 X 10/16 ALT</li><li><strong>Type:</strong> Guide Shoe Insert / Liner </li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0023</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-insert-230-10-16-alt/guide-shoe-insert-230-10-16-alt-1.jpg",
         "alttext":"Elevator Guide shoe insert: 230 X 10/16",
         "slider": [
@@ -5830,10 +5932,20 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
       {
-        "name": "Guide shoe insert: 100 X 10/16",
+        "name": "Guide shoe insert: 100 X 10/16 ALT",
         "description": "100 X 10/16",
         "code": "BS-GS0024",
         "url": "/guide-shoes/guide-shoe-insert-100-10-16-alt",
+         "meta_title": "Elevator GuiElevator Guide Shoe Insert 100 X 10/16  ALT | Spare Parts UAE",
+        "meta_description": "Elevator guide shoe insert 100 10 16 alt for compatible lift maintenance and replacement applications in sliding guide shoe systems.",
+        "keywords": "elevator guide shoe insert 100 10 16 alt",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Designed for compatible elevator sliding guide shoe assemblies, the elevator guide shoe insert 100 10 16 alt serves as an aftermarket replacement liner for maintenance and servicing needs. It is commonly used when original inserts wear out and replacement is required.</p>",
+          "<p>Its benefit is to provide a practical replacement option that supports guide shoe assembly upkeep and ongoing elevator maintenance requirements.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe insert: 100 X 10/16 ALT</li><li><strong>Type:</strong> Guide Shoe Insert / Liner </li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0024</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-insert-100-10-16-alt/guide-shoe-insert-100-10-16-alt-1.jpg",
         "alttext":"Elevator Guide shoe insert: 100 X 10/16",
         "slider": [
@@ -5848,6 +5960,16 @@
         "description": "125 X 10/16",
         "code": "BS-GS0025",
         "url": "/guide-shoes/guide-shoe-insert-125-10-16",
+         "meta_title": "Elevator Guide Shoe Insert 125 X 10/16 | Spare Parts UAE",
+        "meta_description": "Find elevator guide shoe insert 125 10 16 for lift maintenance and compatible sliding guide shoe liner replacement needs.",
+        "keywords": "elevator guide shoe insert 125 10 16",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe insert 125 10 16 is a replaceable liner or insert used in elevator sliding guide shoe systems. Its main use is to replace worn inserts within compatible guide shoe assemblies during maintenance or servicing.</p>",
+          "<p>Designed for compatible elevator guide shoe applications, this insert supports maintenance and replacement needs where the correct liner configuration is required for ongoing guide shoe assembly function.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe insert: 125 X 10/16</li><li><strong>Type:</strong> Guide Shoe Insert / Liner</li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0025</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-insert-125-10-16/guide-shoe-insert-125-10-16-1.jpg",
         "alttext":"Elevator Guide shoe insert: 125 X 10/16",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-125-10-16",
@@ -5858,6 +5980,16 @@
         "description": "76 X 21 X 6203",
         "code": "BS-GS0026",
         "url": "/guide-shoes/guide-shoe-wheel-76-21-6203",
+         "meta_title": "Elevator Roller Guide Wheel 76 X 21 X 6203 | Spare Parts UAE",
+        "meta_description": "Elevator guide shoe wheel 76 21 6203 for lift systems where worn guide wheels require compatible replacement. ",
+        "keywords": "elevator guide shoe wheel 76 21 6203, buy guide show wheel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe wheel 76 21 6203 is a roller guide wheel used in elevator systems to support smooth, quiet, and stable movement of the elevator car or counterweight. Its main use is to guide rolling movement within compatible guide shoe assemblies during regular elevator operation.</p>",
+          "<p>This wheel is commonly used in maintenance or replacement applications when existing guide wheels wear out, helping support continued guide shoe system function.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe wheel: 76 X 21 X 6203</li><li><strong>Type:</strong> Roller Guide Shoe Wheel</li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0026</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-wheel-76-21-6203/guide-shoe-wheel-76-21-6203-1.jpg",
         "alttext":"Elevator Guide shoe wheel: 76 X 21 X 6203",
         "slider": [
@@ -5874,6 +6006,16 @@
         "description": "125 X 22 X 6303",
         "code": "BS-GS0027",
         "url": "/guide-shoes/guide-shoe-wheel-125-22-6303",
+          "meta_title": "Elevator Guide Shoe Wheel 125 X 22 X 6303 | Lift Parts UAE",
+        "meta_description": "Elevator guide shoe wheel 125 22 6303 for compatible maintenance and roller guide wheel replacement applications.",
+        "keywords": "elevator guide shoe wheel 125 22 6303, lift guide shoe wheel supplier Dubai",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe wheel 125 22 6303 is a roller guide shoe wheel used in compatible elevator systems. It is primarily used in guide shoe assemblies to support rolling movement in applications requiring the correct wheel configuration. During maintenance and replacement, this wheel is commonly used when existing guide shoe wheel components require renewal.</p>",
+          
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe wheel: 125 X 22 X 6303</li><li><strong>Type:</strong> Roller Guide Shoe Wheel</li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0027</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-wheel-125-22-6303/guide-shoe-wheel-125-22-6303-1.jpg",
         "alttext":"Elevator Guide shoe wheel: 125 X 22 X 6303",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-125-22-6303",
@@ -5884,6 +6026,16 @@
         "description": "150 X 32 X 6203",
         "code": "BS-GS0028",
         "url": "/guide-shoes/guide-shoe-wheel-150-32-6203",
+          "meta_title": "Elevator Guide Shoe Wheel 150 X 32 X 6203 | Lift Parts UAE",
+        "meta_description": "Guide shoe wheel 150 32 6203 for high-speed elevator maintenance, servicing, and compatible replacement applications. ",
+        "keywords": "elevator guide shoe wheel 150 32 6203",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe wheel 150 32 6203 is a roller guide wheel developed for high-speed elevator systems requiring guided rolling movement. It is primarily used in compatible guide shoe assemblies to support smooth travel and stable operational movement.</p>",
+          "<p>During servicing, this wheel can replace worn guide components, helping maintain guide shoe system functionality.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe wheel: 150 X 32 X 6203</li><li><strong>Type:</strong> Roller Guide Shoe Wheel</li><li><strong>Application:</strong> High-speed elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0028</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-wheel-150-32-6203/guide-shoe-wheel-150-32-6203-1.jpg",
         "alttext":"Elevator Guide shoe wheel: 150 X 32 X 6203",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-150-32-6203",
@@ -5894,6 +6046,16 @@
         "description": "80 X 24 X 6203",
         "code": "BS-GS0029",
         "url": "/guide-shoes/guide-shoe-wheel-80-24-6203",
+         "meta_title": "Elevator Guide Shoe Wheel 80 X 24 X 6203 | Spare Parts UAE",
+        "meta_description": "A practical option for compatible elevator maintenance, guide shoe wheel 80 24 6203 supports servicing and replacement applications.",
+        "keywords": "elevator guide shoe wheel 80 24 6203",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe wheel 80 24 6203 is a roller guide wheel used in medium-to-high-speed elevator systems. Its primary use is to support guided rolling movement within compatible guide shoe assemblies during elevator operation.</p>",
+          "<p>This wheel is commonly used in maintenance or replacement applications when worn guide wheels require servicing, helping maintain compatible guide shoe system function.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe wheel: 80 X 24 X 6203</li><li><strong>Type:</strong> Roller Guide Shoe Wheel</li><li><strong>Application:</strong> Medium-to-high-speed elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0029</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-wheel-80-24-6203/guide-shoe-wheel-80-24-6203-1.jpg",
         "alttext":"Elevator Guide shoe wheel: 80 X 24 X 6203",
         "slider": [
@@ -5908,10 +6070,19 @@
         "description": "SG12/SG13",
         "code": "BS-GS0030",
         "url": "/guide-shoes/guide-shoe-sg12-sg13-t",
+        
         "image": "/img/products/guide-shoes/guide-shoe-sg12-sg13-t/guide-shoe-sg12-sg13-t-1.jpg",
         "alttext":"Guide Shoe SG12/SG13 T",
-        "meta_title": "Guide Shoe SG12/SG13 T | Elevator Guide Shoes UAE",
-        "meta_description": "Order the SG12/SG13 T elevator guide shoe for smooth performance and ride stability. Trusted by professionals across UAE.",
+         "meta_title": "SG12/SG13 T Guide Shoe | ThyssenKrupp Elevator Parts UAE",
+        "meta_description": "Support ThyssenKrupp lift servicing with SG12 SG13 T guide shoe for compatible counterweight maintenance applications.",
+        "keywords": "elevator SG12 SG13 guide shoe ThyssenKrupp",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Designed for compatible ThyssenKrupp elevator systems, the SG12 SG13 T guide shoe functions as a sliding guide shoe primarily used in counterweight guide applications. It supports guided counterweight movement where SG12 or SG13 guide shoe models are required.</p>",
+          "<p>Its benefit is to provide a compatible maintenance and replacement option for counterweight guide shoe servicing.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Guide shoe: SG12/SG13 T</li><li><strong>Type:</strong> Roller Guide Shoe Wheel</li><li><strong>Application:</strong> ThyssenKrupp elevator counterweight systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0030</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-sg12-sg13-t",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -5920,6 +6091,16 @@
         "description": "140 X 10/15",
         "code": "BS-GS0031",
         "url": "/guide-shoes/guide-shoe-140-10-15",
+         "meta_title": "Elevator Guide Shoe 140 X 10/15 | Lift Parts UAE",
+        "meta_description": "Suitable for compatible lift servicing, guide shoe 140 10 15 supports replacement needs in elevator guide shoe systems.",
+        "keywords": "elevator guide shoe 140 10 15",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Within elevator guide systems, the elevator guide shoe 140 10 15 functions as a sliding component that supports the guided travel of moving elevator parts. It is suited for compatible systems requiring this guide shoe model for operational support.</p>",
+          "<p>This guide shoe is also selected for maintenance purposes when replacement is necessary to preserve compatible guide assembly use.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong>  Guide shoe: 140 X 10/15</li><li><strong>Type:</strong> Sliding Guide Shoe</li><li><strong>Application:</strong> Elevator guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0031</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/guide-shoe-140-10-15/guide-shoe-140-10-15-1.jpg",
         "alttext":"Elevator Guide shoe: 140 X 10/15",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-140-10-15",
@@ -5930,6 +6111,16 @@
         "description": "140 X 10/16",
         "code": "BS-GS0032",
         "url": "/guide-shoes/general-guide-shoe-insert-140-10-16",
+         "meta_title": "Lift General Guide Shoe Insert 140 X 10/16 | Spare Parts UAE",
+        "meta_description": "General guide shoe insert 140 10 16 supports elevator maintenance where compatible liner replacement is required.",
+        "keywords": "elevator general guide shoe insert 140 10 16",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator general guide shoe insert 140 10 16 is a replaceable liner used in an elevator’s sliding guide shoe system. Its main use is to replace worn inserts during maintenance, helping compatible guide shoe assemblies continue functioning with the correct liner configuration.</p>",
+          "<p>Designed for compatible elevator guide shoe applications, this insert supports routine maintenance and replacement needs where the correct guide shoe liner is required.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong>  General guide shoe insert: 140 X 10/16</li><li><strong>Type:</strong> Guide Shoe Insert / Liner</li><li><strong>Application:</strong> Elevator sliding guide shoe systems</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Product Code:</strong> BS-GS0032</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ],
         "image": "/img/products/guide-shoes/general-guide-shoe-insert-140-10-16/general-guide-shoe-insert-140-10-16-1.jpg",
         "alttext":"General guide shoe insert: 140 X 10/16",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-insert-140-10-16",
