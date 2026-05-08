@@ -143,6 +143,13 @@ export const blogPosts = [
     description:
       "A simple guide to elevator safety components including door sensors, ARD systems and governors, to ensure safe and smooth lift operation.",
   },
+    {
+    slug: "elevator-signal-communication-failures",
+    title: "Elevator Signal and Communication Failures: Causes, Testing Methods and Replacement Solutions",
+    date: "2025-03-10",
+    description:
+      "Complete guide on elevator signal and communication failures, covering CAN bus, traveling cable faults, testing methods and repair solutions.",
+  },
 ];
 
 // Function to fetch all blog posts
