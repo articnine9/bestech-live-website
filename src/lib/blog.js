@@ -101,6 +101,48 @@ export const blogPosts = [
     description:
       "Learn the types of elevator buttons and their functions with a simple guide on choosing the right buttons for your lift system across the UAE.",
   },
+   {
+    slug: "essential-elevator-door-spare-parts",
+    title: "Essential Elevator Door Spare Parts Explained for UAE Buildings",
+    date: "2025-03-10",
+    description:
+      "Complete guide to elevator door spare parts UAE covering wheels locks sliders sensors and safety tips for smooth lift operation.",
+  },
+  {
+    slug: "advanced-elevator-transformer-troubleshooting-field-manual",
+    title: "Advanced Elevator Transformer Troubleshooting - A Complete Field Manual",
+    date: "2025-03-10",
+    description:
+      "Learn practical elevator transformer troubleshooting steps to identify lift transformer failure, voltage drop, and elevator power supply issues.",
+  },
+  {
+    slug: "guide-to-elevator-door-selection",
+    title: "The Complete Guide to Elevator Door Selection Code Compliance and Safety Standards",
+    date: "2025-03-10",
+    description:
+      "Learn how to choose the right elevator door with safety standards compliance and door mechanisms for modern buildings in this practical guide.",
+  },
+   {
+    slug: "advanced-elevator-control-panel-diagnostics",
+    title: "Advanced Elevator Control Panel Diagnostics: Fault Codes, PCB Testing and Repair Strategy",
+    date: "2025-03-10",
+    description:
+      "A technical guide to elevator control panel fault codes, PCB inspection and lift controller repair methods with safety practices and diagnostic steps.",
+  },
+   {
+    slug: "elevator-signal-communication-failures",
+    title: "Elevator Signal and Communication Failures: Causes, Testing Methods and Replacement Solutions",
+    date: "2025-03-10",
+    description:
+      "Complete guide on elevator signal and communication failures, covering CAN bus, traveling cable faults, testing methods and repair solutions.",
+  },
+   {
+    slug: "elevator-safety-components",
+    title: "Elevator Safety Components Explained: From Door Sensors to Overspeed Governors",
+    date: "2025-03-10",
+    description:
+      "A simple guide to elevator safety components including door sensors, ARD systems and governors, to ensure safe and smooth lift operation.",
+  },
 ];
 
 // Function to fetch all blog posts
