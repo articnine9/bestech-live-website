@@ -1,4 +1,5 @@
-import { notFound } from "next/navigation";
+
+import { notFound,redirect } from "next/navigation";
 import fs from "fs";
 import path from "path";
 import ProductDetailsPageClient from "./ProductDetailsPageClient";
@@ -20,12 +21,14 @@ export async function generateMetadata(props) {
   const fileContents = await fs.promises.readFile(filePath, "utf-8");
   const data = JSON.parse(fileContents);
 
-  const category = data.find((cat) => cat.slug === slug);
+  const category = data.find(
+  (cat) => cat.slug?.toLowerCase() === slug?.toLowerCase()
+);
 
   const product = category?.items?.find((item) => {
     const parts = item.url?.split("/").filter(Boolean);
     const lastSegment = parts?.[parts.length - 1];
-    return lastSegment === productSlug;
+    return lastSegment?.toLowerCase() === productSlug?.toLowerCase();
   });
 
   if (!product) {
@@ -85,16 +88,37 @@ export default async function Page(props) {
 
   if (!slug || !productSlug) return notFound();
 
+   // ✅ Convert params to lowercase
+  const lowerSlug = slug.toLowerCase();
+  const lowerProductSlug = productSlug.toLowerCase();
+
+  // ✅ Redirect uppercase URLs to lowercase canonical URL
+  if (
+    slug !== lowerSlug ||
+    productSlug !== lowerProductSlug
+  ) {
+    redirect(
+      `/products/${lowerSlug}/${lowerProductSlug}`
+    );
+  }
+
   const filePath = path.join(process.cwd(), "src", "db", "products.json");
   const fileContents = await fs.promises.readFile(filePath, "utf-8");
   const data = JSON.parse(fileContents);
 
-  const category = data.find((cat) => cat.slug === slug);
+  // ✅ Case-insensitive category match
+  const category = data.find(
+    (cat) => cat.slug?.toLowerCase() === lowerSlug
+  );
 
+  // ✅ Case-insensitive product match
   const product = category?.items?.find((item) => {
     const parts = item.url?.split("/").filter(Boolean);
-    const lastSegment = parts?.[parts.length - 1];
-    return lastSegment === productSlug;
+
+    const lastSegment =
+      parts?.[parts.length - 1]?.toLowerCase();
+
+    return lastSegment === lowerProductSlug;
   });
 
   if (!product) return notFound();
