@@ -5,6 +5,12 @@ const nextConfig = {
       // Existing redirects
       { source: "/brands/monarch", destination: "/", permanent: true },
       { source: "/brands/step", destination: "/", permanent: true },
+      {
+        source: "/products/door-locks/door-lock-contact-se11-1a12",
+        destination: "/products/door-locks/door-lock-contact-sel1-a1z",
+        permanent: true,
+      },
+
      
 
       // ✅ Force non-www → www (SEO fix)
