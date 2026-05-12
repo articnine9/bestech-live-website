@@ -8782,5 +8782,229 @@
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
     ]
+  },
+  {
+    "slug": "electrical-components",
+    "page_name": "Electrical Components",
+    "code": "BS-EC",
+    "meta_title": "Elevator Electrical Components UAE | Bestech Parts Dubai Sharjah",
+    "meta_description": "Browse elevator electrical components including electrical parts, mechanical parts, cables, contactors, circuit breakers and switches supplied across UAE.",
+    "keywords": "Elevator Electrical Components UAE, elevator spare parts electrical Dubai, elevator mechanical parts UAE, elevator contactors Sharjah",
+    "canonical": "https://www.bestechparts.ae/products/electrical-components",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "items": [
+      {
+        "name": "Electrical",
+        "description": "Elevator electrical parts",
+        "code": "BS-EL",
+        "url": "/electrical",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Electrical Parts"
+      },
+      {
+        "name": "Mechanical",
+        "description": "Elevator mechanical parts",
+        "code": "BS-ME",
+        "url": "/mechanical",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Mechanical Parts"
+      },
+      {
+        "name": "Cables and Wires",
+        "description": "Elevator cables and wires",
+        "code": "BS-CW",
+        "url": "/cables-and-wires",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Cables and Wires"
+      },
+      {
+        "name": "Contactors",
+        "description": "Elevator contactors",
+        "code": "BS-CT",
+        "url": "/contactors",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Contactors"
+      },
+      {
+        "name": "Circuit Breakers",
+        "description": "Elevator circuit breakers",
+        "code": "BS-CB",
+        "url": "/circuit-breakers",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Circuit Breakers"
+      },
+      {
+        "name": "Switches",
+        "description": "Elevator switches",
+        "code": "BS-SW",
+        "url": "/switches",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Switches"
+      }
+    ]
+  },
+  {
+    "slug": "door-systems",
+    "page_name": "Door Systems",
+    "code": "BS-DS",
+    "meta_title": "Elevator Door Systems UAE | Door Parts Supplier Dubai Sharjah",
+    "meta_description": "Browse elevator door system parts including door locks, door wheels, guide shoes, door sliders and door drives supplied across UAE by Bestech.",
+    "keywords": "Elevator Door Systems UAE, elevator door parts Dubai, door locks elevator Sharjah, guide shoes elevator UAE, door sliders Dubai",
+    "canonical": "https://www.bestechparts.ae/products/door-systems",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "items": [
+      {
+        "name": "Door Locks",
+        "description": "Elevator door locks",
+        "code": "BS-DL",
+        "url": "/door-locks",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Door Locks"
+      },
+      {
+        "name": "Door Wheels",
+        "description": "Elevator door wheels",
+        "code": "BS-DW",
+        "url": "/door-wheels",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Door Wheels"
+      },
+      {
+        "name": "Guide Shoes",
+        "description": "Elevator guide shoes",
+        "code": "BS-GS",
+        "url": "/guide-shoes",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Guide Shoes"
+      },
+      {
+        "name": "Door Sliders",
+        "description": "Elevator door sliders",
+        "code": "BS-DS",
+        "url": "/door-sliders",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Door Sliders"
+      },
+      {
+        "name": "Door Drives",
+        "description": "Elevator door drives and motors",
+        "code": "BS-DD",
+        "url": "/door-drives-and-motors",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Door Drives and Motors"
+      }
+    ]
+  },
+  {
+    "slug": "control-systems",
+    "page_name": "Control Systems",
+    "code": "BS-CS",
+    "meta_title": "Elevator Control Systems UAE | Buttons, Sensors & Inverters Dubai",
+    "meta_description": "Browse elevator control system parts including buttons, sensors, inverters, ARD and signalization components supplied across UAE by Bestech.",
+    "keywords": "Elevator Control Systems UAE, elevator buttons Dubai, elevator sensors Sharjah, elevator inverters UAE, ARD elevator UAE, signalization elevator Dubai",
+    "canonical": "https://www.bestechparts.ae/products/control-systems",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "items": [
+      {
+        "name": "Buttons",
+        "description": "Elevator buttons",
+        "code": "BS-BT",
+        "url": "/buttons",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Buttons"
+      },
+      {
+        "name": "Sensors",
+        "description": "Elevator sensors",
+        "code": "BS-SR",
+        "url": "/sensors",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Sensors"
+      },
+      {
+        "name": "Inverters",
+        "description": "Elevator inverters",
+        "code": "BS-IN",
+        "url": "/inverters",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Inverters"
+      },
+      {
+        "name": "ARD",
+        "description": "Elevator ARD (Automatic Rescue Device)",
+        "code": "BS-AR",
+        "url": "/ard",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator ARD"
+      },
+      {
+        "name": "Signalization",
+        "description": "Elevator signalization components",
+        "code": "BS-SG",
+        "url": "/signalization",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Signalization"
+      }
+    ]
+  },
+  {
+    "slug": "other-components",
+    "page_name": "Other Components",
+    "code": "BS-OC",
+    "meta_title": "Other Elevator Components UAE | Encoders, PCB Boards, Displays Dubai",
+    "meta_description": "Browse other elevator components including encoders, cabinet sets, displays, PCB boards, tool kits and keys supplied across UAE by Bestech.",
+    "keywords": "Elevator Encoders UAE, elevator PCB boards Dubai, elevator displays Sharjah, cabinet set elevator UAE, tool kits elevator Dubai, elevator keys UAE",
+    "canonical": "https://www.bestechparts.ae/products/other-components",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "items": [
+      {
+        "name": "Encoders",
+        "description": "Elevator encoders",
+        "code": "BS-EN",
+        "url": "/encoders",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Encoders"
+      },
+      {
+        "name": "Cabinet Set",
+        "description": "Elevator cabinet set",
+        "code": "BS-CS",
+        "url": "/cabinet-set",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Cabinet Set"
+      },
+      {
+        "name": "Displays",
+        "description": "Elevator displays",
+        "code": "BS-DI",
+        "url": "/displays",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Displays"
+      },
+      {
+        "name": "PCB Boards",
+        "description": "Elevator PCB boards",
+        "code": "BS-PB",
+        "url": "/pcb-boards",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator PCB Boards"
+      },
+      {
+        "name": "Tool Kits",
+        "description": "Elevator tool kits",
+        "code": "BS-TL",
+        "url": "/tool-kits",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Tool Kits"
+      },
+      {
+        "name": "Keys",
+        "description": "Elevator keys",
+        "code": "BS-KY",
+        "url": "/keys",
+        "image": "/img/products/keys/door-open-key/door-open-key-1.jpg",
+        "alttext": "Elevator Keys"
+      }
+    ]
   }
 ]

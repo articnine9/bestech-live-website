@@ -10,6 +10,10 @@ const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
   const [productsOpen, setProductsOpen] = useState(false);
   const [brandsOpen, setBrandsOpen] = useState(false);
+  const [electricalOpen, setElectricalOpen] = useState(false);
+  const [doorSystemsOpen, setDoorSystemsOpen] = useState(false);
+  const [controlSystemsOpen, setControlSystemsOpen] = useState(false);
+  const [otherComponentsOpen, setOtherComponentsOpen] = useState(false);
   const [scrollClassName, setScrollClassName] = useState("");
   const [isOverlayActive, setIsOverlayActive] = useState(false);
   const [show, setShow] = useState(false);
@@ -60,6 +64,12 @@ const Header = () => {
     setMobileMenu(false);
     setIsOverlayActive(false);
     document.body.classList.remove("disable-scroll");
+    setProductsOpen(false);
+    setBrandsOpen(false);
+    setElectricalOpen(false);
+    setDoorSystemsOpen(false);
+    setControlSystemsOpen(false);
+    setOtherComponentsOpen(false);
   };
 
   useEffect(() => {
@@ -206,7 +216,7 @@ const Header = () => {
 
                                 <li className="dropdown menu-item-has-children position-static">
                                   <Link
-                                    href="#"
+                                    href="/products"
                                     className="dropdown-toggle"
                                     onMouseEnter={() => setProductsOpen(true)}
                                     onMouseLeave={() => setProductsOpen(false)}
@@ -225,9 +235,9 @@ const Header = () => {
                                         {/* Category 1 - Electrical Components */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <div className="mega-menu-title">
+                                            <Link href="/products/electrical-components" className="mega-menu-title">
                                               Electrical Components
-                                            </div>
+                                            </Link>
                                             <ul className="mega-menu-list">
                                               <li>
                                                 <Link href="/products/electrical">
@@ -266,9 +276,9 @@ const Header = () => {
                                         {/* Category 2 - Door Systems */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <div className="mega-menu-title">
+                                            <Link href="/products/door-systems" className="mega-menu-title">
                                               Door Systems
-                                            </div>
+                                            </Link>
                                             <ul className="mega-menu-list">
                                               <li>
                                                 <Link href="/products/door-locks">
@@ -302,9 +312,9 @@ const Header = () => {
                                         {/* Category 3 - Control Systems */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <div className="mega-menu-title">
+                                            <Link href="/products/control-systems" className="mega-menu-title">
                                               Control Systems
-                                            </div>
+                                            </Link>
                                             <ul className="mega-menu-list">
                                               <li>
                                                 <Link href="/products/buttons">
@@ -338,9 +348,9 @@ const Header = () => {
                                         {/* Category 4 - Other Components */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <div className="mega-menu-title">
+                                            <Link href="/products/other-components" className="mega-menu-title">
                                               Other Components
-                                            </div>
+                                            </Link>
                                             <ul className="mega-menu-list">
                                               <li>
                                                 <Link href="/products/encoders">
@@ -512,212 +522,114 @@ const Header = () => {
                         </Link>
                       </li>
                       <li className="menu-item-has-children">
-                        <Link href="#">Products</Link>
+                        <Link href="/products" onClick={mobileMenuClose}>Products</Link>
                         <ul
                           className={`sub-menu ${productsOpen ? "show" : ""}`}
                         >
                           {/* Electrical Components */}
                           <li className="menu-item-has-children">
-                            <Link href="#">Electrical Components</Link>
-                            <ul className="sub-menu">
+                            <Link href="/products/electrical-components" onClick={mobileMenuClose}>Electrical Components</Link>
+                            <ul className={`sub-menu ${electricalOpen ? "show" : ""}`}>
                               <li>
-                                <Link
-                                  href="/products/electrical"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Electrical
-                                </Link>
+                                <Link href="/products/electrical" onClick={mobileMenuClose}>Electrical</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/mechanical"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Mechanical
-                                </Link>
+                                <Link href="/products/mechanical" onClick={mobileMenuClose}>Mechanical</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/cables-and-wires"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Cables and wires
-                                </Link>
+                                <Link href="/products/cables-and-wires" onClick={mobileMenuClose}>Cables and wires</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/contactors"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Contactors
-                                </Link>
+                                <Link href="/products/contactors" onClick={mobileMenuClose}>Contactors</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/circuit-breakers"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Circuit breakers
-                                </Link>
+                                <Link href="/products/circuit-breakers" onClick={mobileMenuClose}>Circuit breakers</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/switches"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Switches
-                                </Link>
+                                <Link href="/products/switches" onClick={mobileMenuClose}>Switches</Link>
                               </li>
                             </ul>
+                            <div className="dropdown-btn" onClick={() => setElectricalOpen(!electricalOpen)}>
+                              <span className={`fas ${electricalOpen ? "fa-angle-up" : "fa-angle-down"}`}></span>
+                            </div>
                           </li>
 
                           {/* Door Systems */}
                           <li className="menu-item-has-children">
-                            <Link href="#">Door Systems</Link>
-                            <ul className="sub-menu">
+                            <Link href="/products/door-systems" onClick={mobileMenuClose}>Door Systems</Link>
+                            <ul className={`sub-menu ${doorSystemsOpen ? "show" : ""}`}>
                               <li>
-                                <Link
-                                  href="/products/door-locks"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Door Locks
-                                </Link>
+                                <Link href="/products/door-locks" onClick={mobileMenuClose}>Door Locks</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/door-wheels"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Door wheels
-                                </Link>
+                                <Link href="/products/door-wheels" onClick={mobileMenuClose}>Door wheels</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/guide-shoes"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Guide shoes
-                                </Link>
+                                <Link href="/products/guide-shoes" onClick={mobileMenuClose}>Guide shoes</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/door-sliders"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Door sliders
-                                </Link>
+                                <Link href="/products/door-sliders" onClick={mobileMenuClose}>Door sliders</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/door-drives-and-motors"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Door Drives and Motors
-                                </Link>
+                                <Link href="/products/door-drives-and-motors" onClick={mobileMenuClose}>Door Drives and Motors</Link>
                               </li>
                             </ul>
+                            <div className="dropdown-btn" onClick={() => setDoorSystemsOpen(!doorSystemsOpen)}>
+                              <span className={`fas ${doorSystemsOpen ? "fa-angle-up" : "fa-angle-down"}`}></span>
+                            </div>
                           </li>
 
                           {/* Control Systems */}
                           <li className="menu-item-has-children">
-                            <Link href="#">Control Systems</Link>
-                            <ul className="sub-menu">
+                            <Link href="/products/control-systems" onClick={mobileMenuClose}>Control Systems</Link>
+                            <ul className={`sub-menu ${controlSystemsOpen ? "show" : ""}`}>
                               <li>
-                                <Link
-                                  href="/products/buttons"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Buttons
-                                </Link>
+                                <Link href="/products/buttons" onClick={mobileMenuClose}>Buttons</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/sensors"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Sensors
-                                </Link>
+                                <Link href="/products/sensors" onClick={mobileMenuClose}>Sensors</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/inverters"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Inverters
-                                </Link>
+                                <Link href="/products/inverters" onClick={mobileMenuClose}>Inverters</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/ard"
-                                  onClick={mobileMenuClose}
-                                >
-                                  ARD
-                                </Link>
+                                <Link href="/products/ard" onClick={mobileMenuClose}>ARD</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/signalization"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Signalization
-                                </Link>
+                                <Link href="/products/signalization" onClick={mobileMenuClose}>Signalization</Link>
                               </li>
                             </ul>
+                            <div className="dropdown-btn" onClick={() => setControlSystemsOpen(!controlSystemsOpen)}>
+                              <span className={`fas ${controlSystemsOpen ? "fa-angle-up" : "fa-angle-down"}`}></span>
+                            </div>
                           </li>
 
                           {/* Other Components */}
                           <li className="menu-item-has-children">
-                            <Link href="#">Other Components</Link>
-                            <ul className="sub-menu">
+                            <Link href="/products/other-components" onClick={mobileMenuClose}>Other Components</Link>
+                            <ul className={`sub-menu ${otherComponentsOpen ? "show" : ""}`}>
                               <li>
-                                <Link
-                                  href="/products/encoders"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Encoders
-                                </Link>
+                                <Link href="/products/encoders" onClick={mobileMenuClose}>Encoders</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/cabinet-set"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Cabinet set
-                                </Link>
+                                <Link href="/products/cabinet-set" onClick={mobileMenuClose}>Cabinet set</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/displays"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Displays
-                                </Link>
+                                <Link href="/products/displays" onClick={mobileMenuClose}>Displays</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/pcb-boards"
-                                  onClick={mobileMenuClose}
-                                >
-                                  PCB Boards
-                                </Link>
+                                <Link href="/products/pcb-boards" onClick={mobileMenuClose}>PCB Boards</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/tool-kits"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Tool kits
-                                </Link>
+                                <Link href="/products/tool-kits" onClick={mobileMenuClose}>Tool kits</Link>
                               </li>
                               <li>
-                                <Link
-                                  href="/products/keys"
-                                  onClick={mobileMenuClose}
-                                >
-                                  Keys
-                                </Link>
+                                <Link href="/products/keys" onClick={mobileMenuClose}>Keys</Link>
                               </li>
                             </ul>
+                            <div className="dropdown-btn" onClick={() => setOtherComponentsOpen(!otherComponentsOpen)}>
+                              <span className={`fas ${otherComponentsOpen ? "fa-angle-up" : "fa-angle-down"}`}></span>
+                            </div>
                           </li>
                         </ul>
                         <div

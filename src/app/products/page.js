@@ -13,11 +13,11 @@ const categories = [
   {
     title: "Electrical Components",
     image: "/img/product-default-img.jpg",
-    link: "electrical",
+    link: "electrical-components",
     items: [
       { name: "Electrical", link: "electrical" },
       { name: "Mechanical", link: "mechanical" },
-      { name: "Cables and wires", link: "cables-wires" },
+      { name: "Cables and wires", link: "cables-and-wires" },
       { name: "Contactors", link: "contactors" },
       { name: "Circuit breakers", link: "circuit-breakers" },
       { name: "Switches", link: "switches" },
@@ -32,7 +32,7 @@ const categories = [
       { name: "Door wheels", link: "door-wheels" },
       { name: "Guide shoes", link: "guide-shoes" },
       { name: "Door sliders", link: "door-sliders" },
-      { name: "Door drives", link: "door-drives" },
+      { name: "Door drives", link: "door-drives-and-motors" },
     ],
   },
   {
@@ -50,7 +50,7 @@ const categories = [
   {
     title: "Other Components",
     image: "/img/product-default-img.jpg",
-    link: "other",
+    link: "other-components",
     items: [
       { name: "Encoders", link: "encoders" },
       { name: "Cabinet set", link: "cabinet-set" },

@@ -17,6 +17,7 @@ export default async function sitemap() {
       images: [`${baseUrl}/images/home-hero.jpg`],
     },
     { url: `${baseUrl}/about`, lastModified: new Date().toISOString() },
+    { url: `${baseUrl}/products`, lastModified: new Date().toISOString() },
     { url: `${baseUrl}/blog`, lastModified: new Date().toISOString() },
     { url: `${baseUrl}/contact`, lastModified: new Date().toISOString() },
   ];

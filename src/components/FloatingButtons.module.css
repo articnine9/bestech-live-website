@@ -6,12 +6,24 @@
   flex-direction: column;
   gap: 15px;
   z-index: 9999;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.visible {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.hidden {
+  transform: translateY(120%);
+  opacity: 0;
+  pointer-events: none;
 }
 
 .floatingButton {
   width: 55px;
   height: 55px;
-  background: #004a8f; /* Official brand blue */
+  background: #004a8f;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -19,10 +31,72 @@
   color: white;
   cursor: pointer;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
-  transition: 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+  flex-shrink: 0;
 }
 
 .floatingButton:hover {
   transform: scale(1.1);
   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.35);
+  color: white;
+}
+
+.whatsapp {
+  background: #25d366;
+}
+
+.whatsapp:hover {
+  background: #1ebe5d;
+}
+
+/* ── Mobile ── */
+@media (max-width: 768px) {
+  .floatingContainer {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: auto;
+    flex-direction: row;
+    justify-content: stretch;
+    gap: 0;
+    width: 100%;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 -3px 12px rgba(0, 0, 0, 0.18);
+  }
+
+  .floatingButton {
+    flex: 1;
+    width: auto;
+    height: 56px;
+    border-radius: 0;
+    flex-direction: column;
+    gap: 4px;
+    box-shadow: none;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+  }
+
+  .floatingButton:hover,
+  .floatingButton:active {
+    transform: none;
+    box-shadow: none;
+    filter: brightness(1.1);
+  }
+
+  .btnLabel {
+    display: block;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 0.4px;
+  }
+}
+
+/* Hide labels on desktop */
+@media (min-width: 769px) {
+  .btnLabel {
+    display: none;
+  }
 }

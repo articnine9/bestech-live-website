@@ -7882,4 +7882,62 @@ export const products = [
       },
     ],
   },
+  {
+    slug: "electrical-components",
+    page_name: "Electrical Components",
+    code: "BS-EC",
+    meta_title: "Elevator Electrical Components UAE | Bestech Parts Dubai Sharjah",
+    meta_description:
+      "Browse elevator electrical components including electrical parts, mechanical parts, cables, contactors, circuit breakers and switches supplied across UAE.",
+    keywords:
+      "Elevator Electrical Components UAE, elevator spare parts electrical Dubai, elevator mechanical parts UAE, elevator contactors Sharjah",
+    canonical: "https://www.bestechparts.ae/products/electrical-components",
+    robots:
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    items: [],
+  },
+  {
+    slug: "door-systems",
+    page_name: "Door Systems",
+    code: "BS-DS",
+    meta_title: "Elevator Door Systems UAE | Door Parts Supplier Dubai Sharjah",
+    meta_description:
+      "Browse elevator door system parts including door locks, door wheels, guide shoes, door sliders and door drives supplied across UAE by Bestech.",
+    keywords:
+      "Elevator Door Systems UAE, elevator door parts Dubai, door locks elevator Sharjah, guide shoes elevator UAE, door sliders Dubai",
+    canonical: "https://www.bestechparts.ae/products/door-systems",
+    robots:
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    items: [],
+  },
+  {
+    slug: "control-systems",
+    page_name: "Control Systems",
+    code: "BS-CS",
+    meta_title:
+      "Elevator Control Systems UAE | Buttons, Sensors & Inverters Dubai",
+    meta_description:
+      "Browse elevator control system parts including buttons, sensors, inverters, ARD and signalization components supplied across UAE by Bestech.",
+    keywords:
+      "Elevator Control Systems UAE, elevator buttons Dubai, elevator sensors Sharjah, elevator inverters UAE, ARD elevator UAE, signalization elevator Dubai",
+    canonical: "https://www.bestechparts.ae/products/control-systems",
+    robots:
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    items: [],
+  },
+  {
+    slug: "other-components",
+    page_name: "Other Components",
+    code: "BS-OC",
+    meta_title:
+      "Other Elevator Components UAE | Encoders, PCB Boards, Displays Dubai",
+    meta_description:
+      "Browse other elevator components including encoders, cabinet sets, displays, PCB boards, tool kits and keys supplied across UAE by Bestech.",
+    keywords:
+      "Elevator Encoders UAE, elevator PCB boards Dubai, elevator displays Sharjah, cabinet set elevator UAE, tool kits elevator Dubai, elevator keys UAE",
+    canonical: "https://www.bestechparts.ae/products/other-components",
+    robots:
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    items: [],
+  },
 ];

@@ -1326,3 +1326,10 @@ body.disable-scroll {
     opacity: 1;
   }
 }
+
+/* Prevent floating bottom bar from covering footer on mobile */
+@media (max-width: 768px) {
+  body {
+    padding-bottom: 56px;
+  }
+}
