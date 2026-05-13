@@ -22,7 +22,7 @@ export async function generateMetadata({ params }) {
     title: `Blogs in ${categoryName} - Bestech`,
     description: `Explore ${categoryBlogs.length} blog posts in the ${categoryName} category.`,
     alternates: {
-      canonical: `https://www.bestechparts.ae/category/${categoryParam}`,
+      canonical: `https://www.bestechparts.ae/blog/category/${categoryParam}`,
     },
     robots: "index, follow",
   };
