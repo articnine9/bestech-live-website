@@ -21,7 +21,7 @@ export default function CategoryClient({ categoryParam }) {
       blog.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
-  console.log("filterd Blogs", filteredBlogs)
+  
 
   const recentPosts = data.slice(0, 5);
 

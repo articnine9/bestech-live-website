@@ -1,5 +1,6 @@
 import CategoryClient from "./CategoryClient"; // client component
 import data from "~/db/blogsData.json";
+import { notFound } from "next/navigation";
 
 // No "use client" here
 export async function generateMetadata({ params }) {
@@ -39,7 +40,7 @@ export async function generateMetadata({ params }) {
     description: `Explore ${categoryBlogs.length} blog posts in the ${categoryName} category.`,
     keywords: uniqueKeywords,
     alternates: {
-      canonical: `https://www.bestechparts.ae/category/${categoryParam}`,
+      canonical: `https://www.bestechparts.ae/blog/category/${categoryParam}`,
     },
     robots: "index, follow",
   };
@@ -48,8 +49,20 @@ export async function generateMetadata({ params }) {
 export default async function CategoryPageWrapper({ params }) {
   const { category } = await params;
 
+  // ✅ Missing category
   if (!category) {
-    return <div>Category not found</div>;
+    notFound();
+  }
+
+  // ✅ Check if category exists
+  const categoryExists = data.some(
+    (blog) =>
+      blog.category.toLowerCase().replace(/ /g, "-") === category
+  );
+
+  // ✅ Invalid category URL
+  if (!categoryExists) {
+    notFound();
   }
 
   return <CategoryClient categoryParam={category} />;

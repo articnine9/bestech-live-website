@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import BlogContent from "./BlogContent";
+import { notFound } from "next/navigation";
 
 // ✅ Next.js 16 SAFE metadata
 export async function generateMetadata(props) {
@@ -81,8 +82,19 @@ export default async function Page(props) {
   const params = await props.params;
   const slug = params?.url;
 
+   // ✅ Invalid slug
   if (!slug) {
-    return <p className="text-center">Invalid blog URL</p>;
+    notFound();
+  }
+  const filePath = path.join(process.cwd(), "src", "db", "blogsData.json");
+  const fileContents = await fs.promises.readFile(filePath, "utf-8");
+  const blogs = JSON.parse(fileContents);
+
+  const blog = blogs.find((item) => item.link === slug);
+
+  // ✅ Blog not found
+  if (!blog) {
+    notFound();
   }
 
   return <BlogContent slug={slug} />;
