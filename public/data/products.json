@@ -2824,17 +2824,25 @@
         "description": "CHINT: 500VA",
         "code": "BS-EL0012",
         "url": "/electrical/chint-transformer-500va",
-        "image": "/img/products/electrical/chint-transformer-500va/chint-transformer-500va-1.jpg",
-        "alttext": "Elevator CHINT Transformer",
+        "image": "/img/products/electrical/chint-transformer-500va/elevator-chint-transformer-500va-1.jpg",
+        "alttext": "CHINT Transformer Elevator Spare Parts",
         "slider": [
-          "chint-transformer-500va-1",
-          "chint-transformer-500va-2"
+          "elevator-chint-transformer-500va-1",
+          "elevator-chint-transformer-500va-2"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        
         "canonical": "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "CHINT Elevator Transformer 500VA | Reliable Lift Control Solution in UAE",
+        "meta_description": "Upgrade your elevator system with the CHINT 500VA lift control transformer. This transformer ensures safe and efficient power distribution.",
+        "keywords": "elevator transformer 500VA, lift control transformer, Chint transformer UAE",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The CHINT Transformer 500VA is made especially for elevator systems. It helps keep your lift running smoothly by providing stable power to the control circuits. Whether you’re installing a new elevator or maintaining an existing one, this transformer is built to last and works efficiently in all kinds of lift setups across the UAE.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> CHINT Transformer 500VA</li><li><strong>Product Code:</strong> BS-EL0012 </li><li><strong>Category:</strong> Electrical</li><li><strong>Capacity:</strong> 500VA </li><li><strong>Application:</strong> Elevator & Lift Control Systems</li></ul>"
+        ]
+        
       },
       {
         "name": "Elevator Alarm NKT12(1-1)B1 12V",
@@ -2842,163 +2850,230 @@
         "code": "BS-EL0013",
         "url": "/electrical/elevator-alarm-nkt121-1b1-12v",
         "image": "/img/products/electrical/elevator-alarm-nkt121-1b1-12v/elevator-alarm-nkt121-1b1-12v-1.jpg",
-        "alttext": "Elevator Alarm NKT12(1-1)B1",
+        "alttext": "Alarm NKT12(1-1)B1 Elevator Spare Parts",
         "slider": [
           "elevator-alarm-nkt121-1b1-12v-1",
           "elevator-alarm-nkt121-1b1-12v-2"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "NKT121-1B1-12V Elevator Alarm for Lift Emergency Safety",
+        "meta_description": "Ensure passenger safety with the NKT121-1B1 elevator alarm. A dependable 12V emergency buzzer designed for clear alerts and seamless integration into lift systems.",
+        "keywords": "elevator alarm 12V, lift emergency alarm, elevator buzzer alarm",
         "canonical": "https://www.bestechparts.ae/products/electrical/elevator-alarm-nkt121-1b1-12v",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator Alarm NKT121-1B1 (12V) is a high-performance emergency buzzer designed to enhance safety in elevator systems. This alarm provides a loud and clear audible alert, ensuring passengers can signal for assistance during emergencies. Its compact design, durable construction and reliable performance make it an essential component for modern elevator safety systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Alarm NKT12(1-1)B1 12V</li><li><strong>Product Code:</strong> BS-EL0013</li><li><strong>Category:</strong> Electrical</li><li><strong>Voltage:</strong> 12V DC</li><li><strong>Type:</strong> Buzzer Alarm</li><li><strong>Application:</strong> Elevator Cabin & Machine Room Emergency Alert</li><li><strong>Compatibility:</strong> Works with all major elevator brands (Otis, Kone, Mitsubishi, Schindler, Hyundai)</li></ul>"
+        ]
       },
       {
         "name": "Switching Power Supply SMPS - MS-250-24",
         "description": "MS-250-24",
         "code": "BS-EL0014",
         "url": "/electrical/switching-power-supply-smps-ms-250-24",
-        "image": "/img/products/electrical/switching-power-supply-smps-ms-250-24/switching-power-supply-smps-ms-250-24-1.jpg",
+        "image": "/img/products/electrical/switching-power-supply-smps-ms-250-24/elevator-switching-power-supply-smps-ms-250-24-1.jpg",
         "alttext": "Switching Power Supply SMPS - MS-250-24 Elevator Spare Parts",
         "slider": [
-          "switching-power-supply-smps-ms-250-24-1",
-          "switching-power-supply-smps-ms-250-24-2"
+          "elevator-switching-power-supply-smps-ms-250-24-1",
+          "elevator-switching-power-supply-smps-ms-250-24-2"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "MS-250-24 SMPS 24V Elevator Power Supply for Lift System",
+        "meta_description": "Reliable elevator SMPS 24V MS-250-24 for lift systems. Stable switching power supply ensures safe and efficient elevator power distribution.",
+        "keywords": "elevator SMPS 24V, lift switching power supply, elevator power supply unit",
         "canonical": "https://www.bestechparts.ae/products/electrical/switching-power-supply-smps-ms-250-24",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The MS-250-24 elevator SMPS 24V is a high-efficiency switching power supply designed for elevator control systems It provides a steady 24V output that powers essential elevator components like control circuits, sensors and lighting. This power supply unit is built to be efficient and reliable, helping your elevator run smoothly and safely. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Switching Power Supply SMPS MS-250-24</li><li><strong>Product Code:</strong> BS-EL0014</li><li><strong>Category:</strong> Electrical</li><li><strong>Type:</strong> Switching Mode Power Supply (SMPS)</li></ul>"
+        ]
       },
       {
         "name": "Switching Power Supply SMPS - MS-100-24",
         "description": "MS-100-24",
         "code": "BS-EL0015",
         "url": "/electrical/switching-power-supply-smps-ms-100-24",
-        "image": "/img/products/electrical/switching-power-supply-smps-ms-100-24/switching-power-supply-smps-ms-100-24-1.jpg",
+        "image": "/img/products/electrical/switching-power-supply-smps-ms-100-24/elevator-switching-power-supply-smps-ms-100-24-1.jpg",
         "alttext": "Switching Power Supply SMPS - MS-100-24 Elevator Spare Parts",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "Elevator Switching Power Supply | MS-100-24 SMPS",
+        "meta_description": "Discover the SMPS MS-100-24, a reliable 24V elevator switching power supply. Designed for lift systems, ensuring stable and efficient power delivery for seamless operations.",
+        "keywords": "SMPS MS-100-24, elevator switching power supply, lift electrical power supply",
         "canonical": "https://www.bestechparts.ae/products/electrical/switching-power-supply-smps-ms-100-24",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The SMPS MS-100-24 is a switching power supply designed specifically for elevator systems. It converts unstable AC power into a steady 24V DC output, providing reliable power to essential lift components like control circuits, sensors and lighting. This elevator switching power supply ensures your lift operates efficiently and safely. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Switching Power Supply SMPS MS-100-24</li><li><strong>Product Code:</strong> BS-EL0015</li><li><strong>Category:</strong> Electrical</li><li><strong>Type:</strong> SMPS</li><li><strong>Output Voltage:</strong> 24V DC</li><li><strong>Application:</strong> Elevator control systems, safety mechanisms and building automation</li></ul>"
+        ]
       },
       {
         "name": "Remote inspection box - Grey",
         "description": "Remote Inspection Box",
         "code": "BS-EL0016",
         "url": "/electrical/remote-inspection-box-grey",
-        "image": "/img/products/electrical/remote-inspection-box-grey/remote-inspection-box-grey-1.jpg",
-        "alttext": "Elevator Remote inspection box - Grey",
+        "image": "/img/products/electrical/remote-inspection-box-grey/elevator-remote-inspection-box-grey-1.jpg",
+        "alttext": "Remote inspection box - Grey Elevator Spare Parts",
         "slider": [
-          "remote-inspection-box-grey-1",
-          "remote-inspection-box-grey-2"
+          "elevator-remote-inspection-box-grey-1",
+          "elevator-remote-inspection-box-grey-2"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "Elevator Remote Inspection Box - Grey | Lift Maintenance Control Panel",
+        "meta_description": "Discover the durable and versatile Elevator Remote Inspection Box (Grey). Designed for efficient lift maintenance and inspections with advanced safety features. ",
+        "keywords": "elevator remote inspection box, lift inspection control box, elevator maintenance box",
         "canonical": "https://www.bestechparts.ae/products/electrical/remote-inspection-box-grey",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator remote inspection box is an essential tool for elevator maintenance and safety checks. It allows technicians to control and inspect the lift remotely, making it easier to perform thorough inspections and troubleshoot issues quickly. This lift inspection control box is designed to be durable and user-friendly.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Remote Inspection Box – Grey</li><li><strong>Product Code:</strong> BS-EL0016</li><li><strong>Category:</strong> Electrical</li><li><strong>Type:</strong> Elevator Remote Inspection & Control Box</li><li><strong>Colour:</strong> Grey</li><li><strong>Function:</strong> Enables remote control and inspection of elevator operations</li></ul>"
+        ]
       },
       {
         "name": "Remote inspection box - KM713856G23",
         "description": "KONE-KM713856G23",
         "code": "BS-EL0017",
         "url": "/electrical/remote-inspection-box-km713856g23",
-        "image": "/img/products/electrical/remote-inspection-box-km713856g23/remote-inspection-box-km713856g23-1.jpg",
+        "image": "/img/products/electrical/remote-inspection-box-km713856g23/elevator-remote-inspection-box-km713856g23-1.jpg",
         "alttext": "Remote inspection box - KM713856G23 Elevator Spare Parts",
         "slider": [
-          "remote-inspection-box-km713856g23-1",
-          "remote-inspection-box-km713856g23-2"
+          "elevator-remote-inspection-box-km713856g23-1",
+          "elevator-remote-inspection-box-km713856g23-2"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "Elevator Remote Inspection Box | KONE Lift Service Panel in UAE ",
+        "meta_description": "Reliable elevator remote inspection box KM713856G23 for easy lift inspection and maintenance. Perfect for service technicians to control and inspect elevators safely and efficiently.",
+        "keywords": "elevator remote inspection box KM713856G23, lift inspection panel, elevator service inspection box",
         "canonical": "https://www.bestechparts.ae/products/electrical/remote-inspection-box-km713856g23",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Elevator Remote Inspection Box KM713856G23 is a KONE-specific elevator service inspection panel. It allows technicians to switch the lift into inspection mode, enabling safe and controlled operation during servicing. It's built for daily use by maintenance crews and technicians who need quick access to elevator controls.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Remote Inspection Box – KM713856G23</li><li><strong>Product Code:</strong> BS-EL0017</li><li><strong>Category:</strong> Electrical</li><li><strong>Type:</strong> Elevator Remote Inspection & Service Panel</li><li><strong>Brand:</strong> KONE</li><li><strong>Compatibility:</strong> KONE elevators & compatible systems</li></ul>"
+        ]
       },
       {
         "name": "Transformer TDB-630-21",
         "description": "TDB-630-21",
         "code": "BS-EL0018",
         "url": "/electrical/transformer-tdb-630-21",
-        "image": "/img/products/electrical/transformer-tdb-630-21/transformer-tdb-630-21-1.jpg",
+        "image": "/img/products/electrical/transformer-tdb-630-21/elevator-transformer-tdb-630-21-1.jpg",
         "alttext": "Transformer TDB-630-21 Elevator Spare Parts",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "Elevator Transformer TDB-630-21 for Lift Systems",
+        "meta_description": "Get the durable and efficient elevator transformer TDB-630-21, designed to provide stable power for lift systems. Ideal for elevator control and power needs in the UAE.",
+        "keywords": "elevator transformer TDB-630-21, lift electrical transformer, elevator power transformer",
         "canonical": "https://www.bestechparts.ae/products/electrical/transformer-tdb-630-21",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator transformer TDB-630-21 is a robust electrical transformer built specifically for elevator systems. It ensures a steady and reliable power supply to lift control circuits and other electrical components. Trusted by professionals, the TDB-630-21 is a solid choice for maintaining efficient elevator performance.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Transformer TDB-630-21</li><li><strong>Product Code:</strong> BS-EL0018</li><li><strong>Category:</strong> Electrical</li><li><strong>Type:</strong> Elevator Power Transformer</li><li><strong>Application:</strong> Lift electrical systems</li></ul>"
+        ]
       },
       {
         "name": "Bestech brand: cross flow Fan GYBS-FB-9B",
         "description": "Bestech: GYBS-FB-9B",
         "code": "BS-EL0019",
         "url": "/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
-        "image": "/img/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b/bestech-brand-cross-flow-fan-gybs-fb-9b-1.jpg",
-        "alttext": "Elevator Bestech brand: cross flow Fan GYBS-FB-9B",
+        "image": "/img/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b/elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-1.jpg",
+        "alttext": "Bestech brand: cross flow Fan GYBS-FB-9B Elevator Spare Parts",
         "slider": [
-          "bestech-brand-cross-flow-fan-gybs-fb-9b-1",
-          "bestech-brand-cross-flow-fan-gybs-fb-9b-2",
-          "bestech-brand-cross-flow-fan-gybs-fb-9b-3"
+          "elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-1",
+          "elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-2",
+          "elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-3"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "Bestech Cross Flow Fan GYBS-FB-9B for Lift Cooling",
+        "meta_description": "Keep your elevator cabin fresh and comfortable with the Bestech cross flow fan FB-9B. Designed for efficient lift ventilation and cooling.",
+        "keywords": "elevator cross flow fan, lift cabin cooling fan, Bestech cross flow fan",
         "canonical": "https://www.bestechparts.ae/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Bestech cross flow fan FB-9B is designed for effective ventilation inside elevator cabins. As a reliable lift cabin cooling fan, it delivers steady and uniform airflow to improve passenger comfort. It's a simple, plug-and-play replacement that fits standard mounting positions.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Bestech Cross Flow Fan GYBS-FB-9B</li><li><strong>Product Code:</strong> BS-EL0020</li><li><strong>Category:</strong> Electrical</li><li><strong>Type:</strong> Elevator Cabin Cooling Fan</li><li><strong>Compatibility:</strong> Multi-brand elevator systems</li><li><strong>Application:</strong> Lift cabin ventilation</li></ul>"
+        ]
       },
       {
         "name": "Bestech brand: Intercom full set",
         "description": "Bestech: Intercom 3 ways",
         "code": "BS-EL0020",
         "url": "/electrical/bestech-brand-intercom-full-set",
-        "image": "/img/products/electrical/bestech-brand-intercom-full-set/bestech-brand-intercom-full-set-1.jpg",
-        "alttext": "Elevator Bestech brand: Intercom full set",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/bestech-brand-intercom-full-set/elevator-bestech-brand-intercom-full-set-1.jpg",
+        "alttext": "Bestech brand: Intercom full set Elevator Spare Parts",
+        "meta_title": "Elevator Intercom Full Set for Lift Communication System",
+        "meta_description": "Reliable elevator intercom full set for lift communication system. Clear voice elevator intercom device for safe and easy elevator communication.",
+        "keywords": "elevator intercom full set, lift communication system, elevator intercom device",
         "canonical": "https://www.bestechparts.ae/products/electrical/bestech-brand-intercom-full-set",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator intercom full set is a complete communication solution designed to keep passengers connected and safe inside the lift. This lift communication system allows passengers to connect easily with security or maintenance teams during normal use or emergencies. It improves safety, response time and operational control in modern lift installations.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Bestech Intercom Full Set (3 Ways)</li><li><strong>Product Code:</strong> BS-EL0020</li><li><strong>Category:</strong> Electrical</li><li><strong>Type:</strong> Elevator Communication System</li><li><strong>Configuration:</strong> 3-Way (Cabin + COP + Machine Room) </li></ul>"
+        ]
       },
       {
         "name": "XSN1 MRL Overspeed Governor",
         "description": "XSN1 MRL OSG - 1m/s",
         "code": "BS-EL0021",
         "url": "/electrical/xsn1-mrl-overspeed-governor",
-        "image": "/img/products/electrical/xsn1-mrl-overspeed-governor/xsn1-mrl-overspeed-governor-1.jpg",
-        "alttext": "Elevator XSN1 MRL Overspeed Governor",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/xsn1-mrl-overspeed-governor/elevator-xsn1-mrl-overspeed-governor-1.jpg",
+        "alttext": "XSN1 MRL Overspeed Governor Elevator Spare Parts",
+        "meta_title": "MRL Overspeed Governor XSN1 for Safe Lift Operation",
+        "meta_description": "Reliable elevator overspeed governor XSN1 MRL for lift safety system. Ensures controlled speed and protection as a trusted lift safety governor.",
+        "keywords": "elevator overspeed governor, lift safety governor, MRL overspeed governor",
         "canonical": "https://www.bestechparts.ae/products/electrical/xsn1-mrl-overspeed-governor",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator over speed governor is a crucial safety device designed specifically for Machine Room Less (MRL) elevators. It prevents the elevator from moving too fast when going up or down. If the elevator exceeds its safe speed limit, this governor activates the safety mechanism to stop or slow the lift, protecting passengers from accidents. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> XSN1 MRL Overspeed Governor</li><li><strong>Product Code:</strong> BS-EL0021</li><li><strong>Category:</strong> Electrical</li><li><strong>Type:</strong> Mechanical Overspeed Governor</li><li><strong>Application:</strong> MRL (Machine Room Less) Elevators</li></ul>"
+        ]
       },
       {
         "name": "Bridge Rectfier KBPC3510",
         "description": "KBPC3510",
         "code": "BS-EL0022",
         "url": "/electrical/bridge-rectfier-kbpc3510",
-        "image": "/img/products/electrical/bridge-rectfier-kbpc3510/bridge-rectfier-kbpc3510-1.jpg",
-        "alttext": "Elevator Bridge Rectfier KBPC3510",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/bridge-rectfier-kbpc3510/elevator-bridge-rectfier-kbpc3510-1.jpg",
+        "alttext": "Bridge Rectfier KBPC3510 Elevator Spare Parts",
+        "meta_title": "Elevator Bridge Rectifier KBPC3510 for Lift Systems",
+        "meta_description": "Reliable elevator bridge rectifier KBPC3510 for lift electrical system. High-performance lift rectifier module ensures stable AC to DC conversion.",
+        "keywords": "elevator bridge rectifier KBPC3510, lift rectifier module, elevator electrical rectifier",
         "canonical": "https://www.bestechparts.ae/products/electrical/bridge-rectfier-kbpc3510",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator bridge rectifier KBPC3510 is an electrical component used in elevator control systems for AC to DC power conversion applications. This elevator electrical rectifier is widely used in lift panels, control circuits and power units where reliable rectification is required for safe system performance.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Bridge Rectifier </li><li><strong>Product Code:</strong> BS-EL0022</li><li><strong>Category:</strong> Electrical</li><li><strong>Model:</strong> KBPC3510</li><li><strong>Application:</strong> Elevator power conversion / rectification</li></ul>"
+        ]
+        
       },
       {
         "name": "Transformor BK-50VA",
         "description": "BK-50VA(INPUT 220V-380V)",
         "code": "BS-EL0023",
         "url": "/electrical/transformor-bk-50va",
-        "image": "/img/products/electrical/transformor-bk-50va/transformor-bk-50va-1.jpg",
-        "alttext": "Elevator Transformor BK-50VA",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/transformor-bk-50va/elevator-transformor-bk-50va-1.jpg",
+        "alttext": "Transformor BK-50VA Elevator Spare Parts",
+        "meta_title": "BK-50VA Elevator Transformer for Safe Lift Control Power",
+        "meta_description": "Reliable BK-50VA elevator transformer for lift control systems. Ensures stable voltage supply for safe, smooth and efficient elevator operation.",
+        "keywords": "elevator transformer BK-50VA, lift control transformer, elevator voltage transformer",
         "canonical": "https://www.bestechparts.ae/products/electrical/transformor-bk-50va",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator transformer BK-50VA is designed to provide stable and reliable power for elevator control circuits. It works as an efficient lift control transformer, ensuring that all key electrical components receive consistent voltage for safe operation. This elevator voltage transformer helps maintain smooth performance in lift systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Transformer BK-50VA </li><li><strong>Product Code:</strong> BS-EL0023 </li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong> Single-Phase Control Transformer </li><li><strong>Application:</strong> Elevator control circuits and electrical control applications</li></ul>"
+        ]
       },
       {
         "name": "Elevator Arrival Charm NKB24V",
@@ -3006,125 +3081,180 @@
         "code": "BS-EL0024",
         "url": "/electrical/elevator-arrival-charm-nkb24v",
         "image": "/img/products/electrical/elevator-arrival-charm-nkb24v/elevator-arrival-charm-nkb24v-1.jpg",
-        "alttext": "Elevator Arrival Charm NKB24V",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "alttext": "Arrival Charm NKB24V Elevator Spare Parts",
+        "meta_title": "Elevator Arrival Chime NKB24V for Lift Signal System",
+        "meta_description": "Reliable elevator arrival chime NKB24V for lift sound indicator. Clear lift arrival buzzer ensures safe and audible elevator floor notification.",
+        "keywords": "elevator arrival chime, lift arrival buzzer, elevator sound indicator",
         "canonical": "https://www.bestechparts.ae/products/electrical/elevator-arrival-charm-nkb24v",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator arrival chime NKB24V is designed to provide a clear audio signal when the elevator reaches a floor. It acts as an efficient lift arrival buzzer, which improves passenger awareness and enhances safety inside lift systems. This elevator sound indicator ensures that arrivals are easily noticed, supporting smooth and organized elevator operation in residential and commercial buildings.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Arrival Charm NKB24V</li><li><strong>Product Code:</strong> BS-EL0024</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong> Electromagnetic Buzzer / Sound Indicator</li><li><strong>Voltage:</strong> 24 V DC</li><li><strong>Application:</strong> Elevator signalization, accessibility compliance</li></ul>"
+        ]
       },
       {
         "name": "24 VDC Relay With Base",
         "description": "RXMAB2BD Schneider 24VDC",
         "code": "BS-EL0025",
         "url": "/electrical/24-vdc-relay-with-base",
-        "image": "/img/products/electrical/24-vdc-relay-with-base/24-vdc-relay-with-base-1.jpg",
-        "alttext": "Elevator 24 VDC Relay With Base",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/24-vdc-relay-with-base/elevator-24-vdc-relay-with-base-1.jpg",
+        "alttext": "24 VDC Relay With Base Elevator Spare Parts",
+        "meta_title": "24VDC Elevator Relay with Base for Lift Control Systems",
+        "meta_description": "Reliable elevator 24VDC relay with base for lift control systems. Durable elevator control relay ensures safe switching and smooth elevator operation.",
+        "keywords": "elevator 24VDC relay, lift relay with base, elevator control relay",
         "canonical": "https://www.bestechparts.ae/products/electrical/24-vdc-relay-with-base",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 24VDC elevator relay with base is designed for dependable switching in elevator control systems. It acts like a switch that helps control various elevator functions by opening or closing circuits when needed. It is widely used in elevator panels to ensure smooth operation and reliable communication between different parts of the lift system.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> 24VDC Relay With Base</li><li><strong>Product Code:</strong> BS-EL0025</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong>  Plug-in with base socket</li><li><strong>Function:</strong> Switching 24VDC control circuits</li><li><strong>Application:</strong> Elevator signalization, door control, intercom, fireman mode</li></ul>"
+        ]
       },
       {
         "name": "Power supply unit - SPLG50-DL2",
         "description": "Sigma SPLG50-DL2",
         "code": "BS-EL0026",
         "url": "/electrical/power-supply-unit-splg50-dl2",
-        "image": "/img/products/electrical/power-supply-unit-splg50-dl2/power-supply-unit-splg50-dl2-1.jpg",
-        "alttext": "Elevator Power supply unit - SPLG50-DL2",
+        "image": "/img/products/electrical/power-supply-unit-splg50-dl2/elevator-power-supply-unit-splg50-dl2-1.jpg",
+        "alttext": "Power supply unit - SPLG50-DL2 Elevator Spare Parts",
         "slider": [
-          "power-supply-unit-splg50-dl2-1",
-          "power-supply-unit-splg50-dl2-2"
+          "elevator-power-supply-unit-splg50-dl2-1",
+          "elevator-power-supply-unit-splg50-dl2-2"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "SPLG50-DL2 Elevator Power Supply Unit for Lift Systems",
+        "meta_description": "Discover the SPLG50-DL2 elevator power supply unit, a reliable lift PSU module designed for efficient and safe elevator operations. ",
+        "keywords": "elevator power supply unit, lift PSU module, elevator electrical power unit",
         "canonical": "https://www.bestechparts.ae/products/electrical/power-supply-unit-splg50-dl2",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The SPLG50-DL2 elevator power supply unit is designed to deliver stable and regulated electrical power for elevator systems. As a dependable lift PSU module, it ensures all control components receive consistent voltage for smooth and safe operation. This elevator electrical power unit is essential for maintaining system reliability, reducing power fluctuations, and supporting continuous elevator performance in modern installations.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Power Supply Unit SPLG50-DL2 </li><li><strong>Product Code:</strong> BS-EL0026 </li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong> Switching Power Supply Unit </li><li><strong>Model:</strong> SPLG50-DL2</li><li><strong>Application:</strong> Elevator power supply and control applications</li></ul>"
+        ]
       },
       {
         "name": "Terminal connectors ",
         "description": "Terminal connectors 50 pcs / box",
         "code": "BS-EL0027",
         "url": "/electrical/terminal-connectors",
-        "image": "/img/products/electrical/terminal-connectors/terminal-connectors-1.jpg",
-        "alttext": "Elevator Terminal connectors",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/terminal-connectors/elevator-terminal-connectors-1.jpg",
+        "alttext": "Terminal connectors Elevator Spare Parts",
+        "meta_title": "Elevator Terminal Connectors for Lift Wiring Systems",
+        "meta_description": "High-quality elevator terminal connectors for safe lift wiring. Ensure strong, stable, and neat electrical connections for reliable elevator performance.",
+        "keywords": "elevator terminal connectors, lift electrical connectors, elevator wiring terminals",
         "canonical": "https://www.bestechparts.ae/products/electrical/terminal-connectors",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator terminal connectors are designed to provide safe and organized electrical connections within elevator systems. These elevator wiring terminals help maintain reliable signal flow, reduce wiring errors, and support efficient maintenance in modern lift installations.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Terminal Connectors</li><li><strong>Product Code:</strong> BS-EL0027</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong> Elevator Terminal Connectors / Lift Electrical Connectors</li><li><strong>Quantity:</strong> 50 pcs/ box</li><li><strong>Application:</strong> Elevator Wiring, Control Panels, Door Systems, Sensor Connections</li></ul>"
+        ]
       },
       {
         "name": "Connector Name Tags NB5",
         "description": "NB5 tags 100pcs/box",
         "code": "BS-EL0028",
         "url": "/electrical/connector-name-tags-nb5",
-        "image": "/img/products/electrical/connector-name-tags-nb5/connector-name-tags-nb5-1.jpg",
-        "alttext": "Elevator Connector Name Tags NB5",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/connector-name-tags-nb5/elevator-connector-name-tags-nb5-1.jpg",
+        "alttext": "Connector Name Tags NB5 Elevator Spare Parts",
+        "meta_title": "NB5 Elevator Connector Name Tags for Lift Wiring ID",
+        "meta_description": "Discover durable elevator connector name tags for lift terminal marking. Easy elevator cable labeling tags ensure clear identification and safe wiring.",
+        "keywords": "elevator connector name tags, lift terminal markers, elevator cable labeling tags",
         "canonical": "https://www.bestechparts.ae/products/electrical/connector-name-tags-nb5",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The NB5 elevator connector name tags are designed for clear and organized identification of wiring in elevator systems. These tags enhance safety, streamline maintenance, and improve operational efficiency by providing clear labeling for electrical components. These lift terminal markers are designed to fit standard NB5 connectors used across most major elevator brands.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Connector Name Tags NB5</li><li><strong>Product Code:</strong> BS-EL0028</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong>  Elevator Connector Name Tags / Lift Terminal Markers</li><li><strong>Quantity:</strong>  100 pcs / box</li><li><strong>Application:</strong> Cable Labeling, Terminal Identification</li></ul>"
+        ]
       },
       {
         "name": "230 VAC Relay With Base",
         "description": "RXM4AB1P7 Schneider 230VAC",
         "code": "BS-EL0029",
         "url": "/electrical/230-vac-relay-with-base",
-        "image": "/img/products/electrical/230-vac-relay-with-base/230-vac-relay-with-base-1.jpg",
-        "alttext": "Elevator 230 VAC Relay With Base",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/230-vac-relay-with-base/elevator-230-vac-relay-with-base-1.jpg",
+        "alttext": "230 VAC Relay With Base Elevator Spare Parts",
+        "meta_title": "230VAC Elevator Relay with Base for Lift Control",
+        "meta_description": "Discover high-quality elevator 230VAC relays with base for efficient lift control. Durable, reliable, and designed for safety in elevator systems.",
+        "keywords": "elevator 230VAC relay, lift relay module, elevator relay with base",
         "canonical": "https://www.bestechparts.ae/products/electrical/230-vac-relay-with-base",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 230VAC elevator relay with base is designed for reliable switching and control in elevator systems.  It handles 230VAC power. This relay module is ideal for controlling elevator functions such as floor selection, motor direction, and safety mechanisms.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> 230 VAC Relay With Base</li><li><strong>Product Code:</strong> BS-EL0029</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong>  Relay With Base (Plug-in Type)</li><li><strong>Voltage:</strong>  230 VAC</li><li><strong>Application:</strong> Elevator Control Panels, Safety Circuits, Door Systems, Inverter Control</li></ul>"
+        ]
       },
       {
         "name": "Cabin Crossflow fan FB-9B 220VAC",
         "description": "Cabin Crossflow fan FB-9B 220VAC",
         "code": "BS-EL0030",
         "url": "/electrical/cabin-crossflow-fan-fb-9b-220vac",
-        "image": "/img/products/electrical/cabin-crossflow-fan-fb-9b-220vac/cabin-crossflow-fan-fb-9b-220vac-1.jpg",
-        "alttext": "Elevator Cabin Crossflow fan FB-9B 220VAC",
+        "image": "/img/products/electrical/cabin-crossflow-fan-fb-9b-220vac/elevator-cabin-crossflow-fan-fb-9b-220vac-1.jpg",
+        "alttext": "Cabin Crossflow fan FB-9B 220VAC Elevator Spare Parts",
         "slider": [
-          "cabin-crossflow-fan-fb-9b-220vac-1",
-          "cabin-crossflow-fan-fb-9b-220vac-2",
-          "cabin-crossflow-fan-fb-9b-220vac-3"
+          "elevator-cabin-crossflow-fan-fb-9b-220vac-1",
+          "elevator-cabin-crossflow-fan-fb-9b-220vac-2",
+          "elevator-cabin-crossflow-fan-fb-9b-220vac-3"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "FB-9B 220VAC Elevator Cabin Crossflow Fan for Lift Cooling",
+        "meta_description": "Enhance elevator cabin ventilation with the FB-9B 220VAC crossflow fan. Low noise, efficient cooling and reliable air circulation for a comfortable ride.",
+        "keywords": "elevator cabin crossflow fan, lift ventilation fan, elevator cooling fan 220VAC",
         "canonical": "https://www.bestechparts.ae/products/electrical/cabin-crossflow-fan-fb-9b-220vac",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator Cabin Crossflow Fan FB-9B 220VAC is designed to improve air circulation and ventilation within elevator cabins. This high-performance fan ensures a comfortable and fresh environment for passengers by efficiently cooling the cabin and maintaining optimal air quality. Its low-noise operation and durable construction make it an ideal choice for modern elevator systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Cabin Crossflow fan FB-9B 220VAC</li><li><strong>Product Code:</strong> BS-EL0030</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong>  Crossflow (Tangential)</li><li><strong>Application:</strong> Elevator Cabin Ventilation & Cooling</li></ul>"
+        ]
       },
       {
         "name": "Fireman Switch Box",
         "description": "Fireman Switch Box",
         "code": "BS-EL0031",
         "url": "/electrical/fireman-switch-box",
-        "image": "/img/products/electrical/fireman-switch-box/fireman-switch-box-1.jpg",
-        "alttext": "Elevator Fireman Switch Box",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/fireman-switch-box/elevator-fireman-switch-box-1.jpg",
+        "alttext": "Fireman Switch Box Elevator Spare Parts",
+        "meta_title": "Fireman Switch Box for Elevator Emergency Control System",
+        "meta_description": "Professional-grade elevator fireman switch box for fire service operation. Durable construction, reliable performance, compatible with all major elevator brands across the UAE.",
+        "keywords": "elevator fireman switch box, lift fireman control switch, elevator emergency switch box",
         "canonical": "https://www.bestechparts.ae/products/electrical/fireman-switch-box",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator fireman switch box is designed to provide emergency control of elevator systems during fire situations. It enables authorized firefighters to take manual control of the elevator during emergencies, allowing safe transport of personnel and equipment between floors.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Fireman Switch Box</li><li><strong>Product Code:</strong> BS-EL0033</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong> Emergency Fire Service Switch</li><li><strong>Application:</strong> Firefighter elevator control during emergencies</li></ul>"
+        ]
+         
       },
       {
         "name": "Inspection box full set - Bestech",
         "description": "Inspection box full set - Bestech",
         "code": "BS-EL0032",
         "url": "/electrical/inspection-box-full-set-bestech",
-        "image": "/img/products/electrical/inspection-box-full-set-bestech/inspection-box-full-set-bestech-1.jpg",
-        "alttext": "Elevator Inspection box full set",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/inspection-box-full-set-bestech/elevator-inspection-box-full-set-bestech-1.jpg",
+        "alttext": "Inspection box full set Elevator Spare Parts",
+        "meta_title": "Elevator Inspection Box Full Set for Lift Maintenance",
+        "meta_description": "Discover the Bestech Elevator Inspection Box Full Set, designed for efficient lift maintenance and safety. Easy control solution for safe elevator inspection and servicing.",
+        "keywords": "elevator inspection box full set, lift maintenance inspection box, Bestech inspection box",
         "canonical": "https://www.bestechparts.ae/products/electrical/inspection-box-full-set-bestech",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator inspection box full set is designed to provide safe and convenient control during elevator maintenance and testing. This Bestech inspection box is built for reliable performance in service operations, helping reduce downtime and improve maintenance accuracy in modern elevator systems. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Inspection Box Full Set – Bestech</li><li><strong>Product Code:</strong> BS-EL0032</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong> Full Set / Maintenance Kit</li><li><strong>Application:</strong> Elevator inspection, maintenance, repair & commissioning</li></ul>"
+        ]
       },
       {
         "name": "Elevator intercom Z6B02-40",
@@ -3132,43 +3262,61 @@
         "code": "BS-EL0033",
         "url": "/electrical/elevator-intercom-z6b02-40",
         "image": "/img/products/electrical/elevator-intercom-z6b02-40/elevator-intercom-z6b02-40-2.jpg",
-        "alttext": "Elevator intercom Z6B02-40",
+        "alttext": "intercom Z6B02-40 Elevator Spare Parts",
         "slider": [
           "elevator-intercom-z6b02-40-2",
           "elevator-intercom-z6b02-40-1",
           "elevator-intercom-z6b02-40-3"
         ],
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "Z6B02-40 Elevator Intercom for Lift Communication System",
+        "meta_description": "Reliable elevator intercom Z6B02-40 for lift communication system. Clear emergency intercom ensures safe voice contact and quick response in elevators.",
+        "keywords": "elevator intercom Z6B02-40, lift communication intercom, elevator emergency intercom",
         "canonical": "https://www.bestechparts.ae/products/electrical/elevator-intercom-z6b02-40",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator intercom Z6B02-40 is designed for safe and reliable communication inside elevator systems. It provides clear, two-way audio communication between passengers and the control room or emergency services.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Intercom Z6B02-40</li><li><strong>Product Code:</strong> BS-EL0031</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong> Cabin Intercom / Communication System</li><li><strong>Brand:</strong> Mitsubishi</li><li><strong>Application:</strong> Elevator Passenger-to-Control Room Communication</li></ul>"
+        ]
       },
       {
         "name": "48VDC Relay With Base 14 pin",
         "description": "48VDC Relay With Base 14 pin",
         "code": "BS-EL0034",
         "url": "/electrical/48vdc-relay-with-base-14-pin",
-        "image": "/img/products/electrical/48vdc-relay-with-base-14-pin/48vdc-relay-with-base-14-pin-1.jpg",
-        "alttext": "Elevator 48VDC Relay With Base 14 pin",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/48vdc-relay-with-base-14-pin/elevator-48vdc-relay-with-base-14-pin-1.jpg",
+        "alttext": "48VDC Relay With Base 14 pin Elevator Spare parts",
+        "meta_title": "48VDC 14 Pin Elevator Relay with Base for Lift Control",
+        "meta_description": "Reliable 48VDC elevator relay with base 14 pin for lift control systems. Durable control relay module ensures safe switching and stable elevator operation.",
+        "keywords": "elevator 48VDC relay, lift relay 14 pin, elevator control relay module",
         "canonical": "https://www.bestechparts.ae/products/electrical/48vdc-relay-with-base-14-pin",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 48VDC 14 pin elevator relay with base is designed for precise switching and control in elevator systems. This elevator control relay module is widely used in lift panels for managing electrical commands, safety functions and system coordination with high accuracy.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> 48VDC Relay With Base 14 Pin</li><li><strong>Product Code:</strong> BS-EL0034</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong>  Control Relay Module</li><li><strong>Pin Configuration:</strong> 14 Pin Base</li><li><strong>Application:</strong> Elevator control panel switching, safety circuits, automation</li></ul>"
+        ]
       },
       {
         "name": "SMPS RT-85C",
         "description": "SMPS RT-85C (15V)",
         "code": "BS-EL0035",
         "url": "/electrical/smps-rt-85c",
-        "image": "/img/products/electrical/smps-rt-85c/smps-rt-85c-1.jpeg",
-        "alttext": "Elevator SMPS RT-85C",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "image": "/img/products/electrical/smps-rt-85c/elevator-smps-rt-85c-1.jpg",
+        "alttext": "SMPS RT-85C Elevator Spare parts",
+        "meta_title": "SMPS RT-85C Elevator Switching Power Supply for Lift",
+        "meta_description": "Reliable elevator SMPS RT-85C switching power supply for lift systems. Stable electrical SMPS ensures safe and efficient elevator power control.",
+        "keywords": "elevator SMPS RT-85C, lift switching power supply, elevator electrical SMPS",
         "canonical": "https://www.bestechparts.ae/products/electrical/smps-rt-85c",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The SMPS RT-85C (15V) is a high-efficiency switching power supply unit designed specifically for elevator electrical systems. It converts AC mains input to a stable 15V DC output, providing clean, regulated power to elevator control boards, intercom systems, sensors and safety circuits.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> SMPS RT-85C (15V)</li><li><strong>Product Code:</strong> BS-EL0035</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong>  Switching Power Supply (SMPS)</li><li><strong>Output Voltage:</strong> 15 V DC</li><li><strong>Application:</strong> Elevator control boards, intercoms, sensors, safety circuits</li></ul>"
+        ]
       }
     ]
   },
