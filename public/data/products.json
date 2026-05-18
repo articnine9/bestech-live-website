@@ -1009,7 +1009,7 @@
         "description": "AK2026F",
         "code": "BS-BT0009",
         "url": "/buttons/button-ak2026f",
-        "image": "/img/products/buttons/button-ak2026f/1.jpg",
+        "image": "/img/products/buttons/button-ak2026f/button-ak2026f-1.jpg",
         "alttext": "AK2026F Elevator Control Panel Button Elevator Spare Parts",
         "slider": [
           "button-ak2026f-1",
@@ -1662,9 +1662,19 @@
         "code": "BS-BT0051",
         "url": "/buttons/lop-button-up-and-down-arrow",
         "canonical": "https://www.bestechparts.ae/products/buttons/lop-button-up-and-down-arrow",
-        "image": "/img/products/buttons/lop-button-up-and-down-arrow/lop-button-up-and-down-arrow-1.jpg",
+        "image": "/img/products/buttons/lop-button-up-and-down-arrow/elevator-lop-button-up-and-down-arrow-1.jpg",
         "alttext": "LOP Button: UP and Down Arrow Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator LOP Button Up Down Arrow for Lift ",
+        "meta_description": "Directional elevator LOP button featuring high-contrast up and down arrows. A premium landing call switch designed for stable control integration. ",
+        "keywords": "elevator LOP button, lift up down arrow button, elevator landing push button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>It is a landing operation panel (LOP) push button used on elevator call stations found on every floor of a building. It lets passengers tell the lift which direction they want to go (up or down) before the doors even open.</p>",
+          "<p>This button sits on the outside of the lift doors at each floor (the landing). It is part of the elevator call button system and works with the internal controller to send the correct signal to the lift car.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> LOP Button - UP and Down Arrow</li><li><strong>Product Code:</strong>  BS-BT0051</li><li><strong>Category:</strong>  Buttons</li><li><strong>Type:</strong> Landing Operation Panel (LOP) Directional Button</li><li><strong>Function:</strong> Up / Down Call Signal</li><li><strong>Compatibility:</strong> Fits standard elevator call panels (Otis, Kone, Mitsubishi, Schindler, Thyssenkrupp, Hyundai, etc.)</li><li><strong>Brand Source:</strong> BESTECH Elevator Spare Parts, UAE</li></ul>"
+        ]
       },
       {
         "name": "COP Button - Intercom",
@@ -1672,9 +1682,18 @@
         "code": "BS-BT0052",
         "url": "/buttons/cop-button-intercom",
         "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-intercom",
-        "image": "/img/products/buttons/cop-button-intercom/cop-button-intercom-1.jpg",
+        "image": "/img/products/buttons/cop-button-intercom/elevator-cop-button-intercom-1.jpg",
         "alttext": "COP Button - Intercom Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator COP Intercom Button | Lift Cabin Switch UAE ",
+        "meta_description": "Get the Monarch COP intercom button for professional panel assembly. A high-quality elevator cabin button designed for momentary emergency voice signalling. ",
+        "keywords": "elevator COP intercom button, lift intercom push button, elevator cabin button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator COP button intercom is a communication push button installed inside the lift car operating panel. It acts as an essential elevator cabin button, allowing passengers to establish a secure two-way audio link with building management, security, or maintenance teams during emergencies. This robust lift intercom push button features a momentary switch mechanism that integrates seamlessly alongside standard floor selection fixtures to ensure code-compliant passenger safety and reliable emergency signalling. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> COP Button - Intercom</li><li><strong>Product Code:</strong>  BS-BT0052</li><li><strong>Model Compatibility:</strong> Monarch Control Panels</li><li><strong>Category:</strong>  Buttons</li><li><strong>Type:</strong> Car Operating Panel (COP) Push Button</li><li><strong>Switch Type:</strong> Momentary (Press-to-Talk)</li><li><strong>Primary Function:</strong> Two-way voice communication inside lift car</li><li><strong>Supplier Location:</strong> Sharjah, UAE (BESTECH)</li></ul>"
+        ]
       },
       {
         "name": "ELEVATOR BUTTON KM51071111H06",
@@ -1688,7 +1707,16 @@
           "elevator-button-km51071111h06-1",
           "elevator-button-km51071111h06-2"
         ],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+          "meta-title": "Lift Push Button KM51071111H06 | Kone",
+        "meta_description": "The Kone-compatible elevator button KM51071111H06 functions as a high-integrity signal component, offering a premium round lift push button for stable control. ",
+        "keywords": "elevator button KM51071111H06, lift push button, elevator control button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator button KM51071111H06 is a genuine Kone brand push button used in lift cabins and on landing floors (LOP). It allows passengers to select their desired floor and is part of the cabin operating panel (COP) or hall call panel.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Button KM51071111H06</li><li><strong>Product Code:</strong>  BS-BT0053</li><li><strong>Model Compatibility:</strong> KM51071111H06</li><li><strong>Category:</strong>  Buttons</li><li><strong>Type:</strong> Round push button (COP / LOP)</li><li><strong>Brand:</strong> Kone</li><li><strong>Primary Function:</strong> Floor selection / Call registration</li></ul>"
+        ]
       },
       {
         "name": "ELEVATOR BUTTON A4J43675",
@@ -1701,7 +1729,16 @@
           "elevator-button-a4j43675-1",
           "elevator-button-a4j43675-2"
         ],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Buy Otis Elevator Button A4J43675 | Lift Panel Part ",
+        "meta_description": "The Otis-compatible elevator button A4J43675 functions as a high-integrity signaling component, offering a premium round lift push button for stable control. ",
+        "keywords": "elevator button A4J43675, lift push button switch, elevator operating button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator button A4J43675 is a genuine Otis brand push button designed for use inside lift cabins (COP) and on landing floors (LOP). It allows passengers to register their floor selection and is a direct replacement part for Otis elevator panels. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Button</li><li><strong>Product Code:</strong> BS-BT0054</li><li><strong>Part Number:</strong> A4J43675</li><li><strong>Category:</strong>  Buttons</li><li><strong>Type:</strong> Round push button (COP / LOP)</li><li><strong>Brand:</strong> Otis</li><li><strong>Primary Function:</strong> Floor selection / Call registration</li></ul>"
+        ]
       },
       {
         "name": "Button Empty Holder",
@@ -1709,9 +1746,18 @@
         "code": "BS-BT0055",
         "url": "/buttons/button-empty-holder",
         "canonical": "https://www.bestechparts.ae/products/buttons/button-empty-holder",
-        "image": "/img/products/buttons/button-empty-holder/button-empty-holder-1.jpg",
+        "image": "/img/products/buttons/button-empty-holder/elevator-button-empty-holder-1.jpg",
         "alttext": "Button Empty Holder Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator Button Empty Holder | Lift Panel Frame",
+        "meta_description": "The elevator button empty holder maintains a clean look on control fixtures, serving as a durable lift panel frame to block unpopulated panel cut-outs. ",
+        "keywords": "elevator button empty holder, lift button holder, elevator button frame",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The empty button holder is a blank mounting frame or bezel insert used in elevator button panels. It replaces a damaged, missing or removed push button while keeping the panel surface clean and uniform. It fits standard 22 mm or 30 mm elevator panel cut-outs and works with both COP (car operating panel) and LOP (landing operating panel) layouts. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Button Empty Holder</li><li><strong>Product Code:</strong> BS-BT0055</li><li><strong>Mounting Diameter:</strong> 22 mm / 30 mm (standard)</li><li><strong>Category:</strong>  Buttons</li><li><strong>Panel Type:</strong> COP / LOP</li><li><strong>Brand Fit:</strong> Multi-brand (Otis, Kone, Mitsubishi, etc.)</li></ul>"
+        ]
       },
       {
         "name": "Elevator Square Button AK07",
@@ -1721,7 +1767,16 @@
         "canonical": "https://www.bestechparts.ae/products/buttons/elevator-square-button-ak07",
         "image": "/img/products/buttons/elevator-square-button-ak07/elevator-square-button-ak07-1.jpg",
         "alttext": "Elevator Square Button AK07",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Lift Square Push Button AK07 | Elevator COP Button",
+        "meta_description": "The Elevator Square Button AK07 serves as a premium interface component, providing a durable square lift push button layout for modern control panels.",
+        "keywords": "elevator square button AK07, lift square push button, elevator COP button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator Square Button AK07 is a square-shaped push button used in elevator control panels. It is fully optimised for integration within both Car Operating Panels (COP) and Landing Operating Panels (LOP), acting as a reliable visual and tactile user interface for floor registration and hall calls. This button is commonly found on Mitsubishi, Hyundai and Otis elevator systems across residential and commercial buildings in the UAE. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Square Button AK07</li><li><strong>Product Code:</strong> BS-BT0056</li><li><strong>Button Shape:</strong> Square</li><li><strong>Category:</strong>  Buttons</li><li><strong>Compatible Brands:</strong> Mitsubishi, Hyundai, Otis, Schindler, Kone</li><li><strong>Installation:</strong> COP and LOP panels</li></ul>"
+        ]
       },
       {
         "name": "Elevator Push Button AK25 MTD265",
@@ -1731,7 +1786,16 @@
         "canonical": "https://www.bestechparts.ae/products/buttons/elevator-push-button-ak25-mtd265",
         "image": "/img/products/buttons/elevator-push-button-ak25-mtd265/elevator-push-button-ak25-mtd265-1.jpg",
         "alttext": "Elevator Push Button AK25 MTD265",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator Push Button AK25 MTD265 | Lift Switch ",
+        "meta_description": "The Elevator Square Button AK07 serves as a premium interface component, providing a durable square lift push button layout for modern control panels. ",
+        "keywords": "elevator push button AK25 MTD265, lift control button, elevator push switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator push button AK25 MTD265 is a round push-button switch used in lift control panels. It serves as a reliable lift control button for floor selection and hall call registration. Designed for both COP and LOP, this elevator push switch works on LG Sigma elevator systems commonly found in residential and commercial buildings across the UAE. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Push Button</li><li><strong>Product Code:</strong> BS-BT0057</li><li><strong>Compatible Brand:</strong> LG Sigma</li><li><strong>Category:</strong>  Buttons</li><li><strong>Model:</strong> AK25 / MTD265</li><li><strong>Panel Type:</strong>  COP and LOP</li></ul>"
+        ]
       },
       {
         "name": "A4N11286 Elevator LED Push Button",
@@ -1741,7 +1805,16 @@
         "canonical": "https://www.bestechparts.ae/products/buttons/a4n11286-elevator-led-push-button",
         "image": "/img/products/buttons/a4n11286-elevator-led-push-button/a4n11286-elevator-led-push-button-1.jpg",
         "alttext": "A4N11286 Elevator LED Push Button Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator LED Push Button A4N11286 | Lift Button",
+        "meta_description": "Restore clear visual feedback with the elevator LED push button A4N11286, a durable square lift-illuminated button for secure panel repairs. ",
+        "keywords": "elevator LED push button A4N11286, lift illuminated button, elevator LED button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The A4N11286 Elevator LED Push Button is a precision-engineered square micro-travel interface component built for high-traffic lift control systems. It serves as an essential lift-illuminated button for car operating panels and landing call panels. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator LED Push Button</li><li><strong>Product Code:</strong> BS-BT0058</li><li><strong>Part Number:</strong> A4N11286</li><li><strong>Function:</strong> Floor selection with LED indicator</li><li><strong>Button Profile:</strong> Square Stainless Steel Faceplate</li><li><strong>Panel Type:</strong> LED push button (illuminated)</li><li><strong>Lighting:</strong> Built-in LED illumination</li><li><strong>Panel Use:</strong> COP and LOP compatible</li></ul>"
+        ]
       },
       {
         "name": "BST Elevator Button A3N18489",
@@ -1751,7 +1824,16 @@
         "canonical": "https://www.bestechparts.ae/products/buttons/bst-elevator-button-a3n18489",
         "image": "/img/products/buttons/bst-elevator-button-a3n18489/bst-elevator-button-a3n18489-1.jpg",
         "alttext": "BST Elevator Button A3N18489 Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "BST Lift Button A3N18489 | Elevator Switch",
+        "meta_description": "Buy the BST elevator button A3N18489, a durable round lift push button and elevator control switch for BST lifts. ",
+        "keywords": "BST elevator button A3N18489, lift push button, elevator control switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BST Elevator Button A3N18489 is a round, metallic push button used in elevator control panels. It is designed for BST elevator systems and serves as a lift push button for floor selection and call registration. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BST Elevator Button</li><li><strong>Product Code:</strong> BS-BT0059</li><li><strong>Part Number:</strong> A3N18489</li><li><strong>Type:</strong> Round push button</li><li><strong>Use:</strong> COP and LOP panels</li><li><strong>Brand:</strong> BST</li></ul>"
+        ]
       },
       {
         "name": "Elevator Push Button KDS50 (Round)",
@@ -1760,8 +1842,17 @@
         "url": "/buttons/elevator-push-button-kds50-round",
         "canonical": "https://www.bestechparts.ae/products/buttons/elevator-push-button-kds50-round",
         "image": "/img/products/buttons/elevator-push-button-kds50-round/elevator-push-button-kds50-round-1.jpg",
-        "alttext": "Elevator Push Button KDS50 (Round)",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "alttext": "Elevator Push Button KDS50 (Round) Elevator Spare Parts",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator Round Push Button KDS50 | Kone Control Switch",
+        "meta_description": "Restore clear visual feedback with the elevator push button KDS50, a durable round lift button engineered for secure control system replacement. ",
+        "keywords": "elevator round push button KDS50, lift round button, elevator COP push button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator Push Button KDS50 (Round) is a circular control component used in elevator systems. It is designed to be mounted on COP and LOP. This button allows passengers to select floors or register hall calls. It is a direct replacement part suitable for maintaining the functionality of lift control interfaces. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Push Button KDS50 (Round)</li><li><strong>Product Code:</strong> BS-BT0060</li><li><strong>Part Number:</strong> KDS50</li><li><strong>Category:</strong> Buttons</li><li><strong>Shape:</strong> Round</li><li><strong>Function:</strong> Floor selection, call registration</li></ul>"
+        ]
       },
       {
         "name": "Elevator Button LHB-005B",
@@ -1770,8 +1861,17 @@
         "url": "/buttons/elevator-button-lhb-005b",
         "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-lhb-005b",
         "image": "/img/products/buttons/elevator-button-lhb-005b/elevator-button-lhb-005b-1.jpg",
-        "alttext": "Elevator Button LHB-005B",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "alttext": "Button LHB-005B Elevator Spare Parts",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Mitsubishi Lift Button LHB-005B | Elevator COP Component ",
+        "meta_description": "Access high-integrity signal modules with the elevator button LHB-005B. A dedicated lift operating button framework built for stable call registration.",
+        "keywords": "elevator button LHB-005B, lift operating button, elevator push switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator button LHB-005B is a lift operating button designed specifically for Mitsubishi elevator systems. It functions as a push switch on car operating panels, enabling passengers to select their desired floor. This is a direct replacement part that maintains the original panel layout and ensures smooth daily operation.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Button LHB-005B</li><li><strong>Product Code:</strong> BS-BT0061</li><li><strong>Brand Compatibility:</strong> Mitsubishi</li><li><strong>Category:</strong> Buttons</li><li><strong>Type:</strong> Lift operating button / Elevator push switch</li></ul>"
+        ]
       },
       {
         "name": "Elevator Button LHB-006B",
@@ -1780,8 +1880,17 @@
         "url": "/buttons/elevator-button-lhb-006b",
         "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-lhb-006b",
         "image": "/img/products/buttons/elevator-button-lhb-006b/elevator-button-lhb-006b-1.jpg",
-        "alttext": "Elevator Button LHB-006B",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "alttext": "Button LHB-006B Elevator Spare Parts",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "LHB-006B Elevator Button | Mitsubishi Lift",
+        "meta_description": "Shop the elevator button LHB-006B for Mitsubishi lifts. A reliable lift control push button that fits standard elevator panel layouts.",
+        "keywords": "elevator button LHB-006B, lift control push button, elevator panel button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>This is a genuine Mitsubishi elevator button from the LHB series. It works as a standard floor selection or function push button on Mitsubishi lift panels. The square design fits into standard Mitsubishi COP (Car Operating Panel) layouts. It is a direct replacement part for worn or damaged LHB-006B buttons. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Button LHB-006B</li><li><strong>Product Code:</strong> BS-BT0062</li><li><strong>Brand Compatibility:</strong> Mitsubishi</li><li><strong>Category:</strong> Buttons</li><li><strong>Type:</strong> Lift control push button / Elevator panel button (square shape, Mitsubishi COP series) </li></ul>"
+        ]
       },
       {
         "name": "Elevator Button LHB-007B",
@@ -1790,8 +1899,17 @@
         "url": "/buttons/elevator-button-lhb-007b",
         "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-lhb-007b",
         "image": "/img/products/buttons/elevator-button-lhb-007b/elevator-button-lhb-007b-1.jpg",
-        "alttext": "Elevator Button LHB-007B",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "alttext": "Button LHB-007B Elevator Spare Parts",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "LHB-007B Elevator Button | Lift Panel Part",
+        "meta_description": "The Mitsubishi-compatible elevator button LHB-007B operates as a premium interface, offering a durable square lift panel part for secure COP wiring.",
+        "keywords": "elevator button LHB-007B, lift push button panel, elevator operating switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>This elevator button LHB-007B is a genuine replacement part engineered specifically for Mitsubishi lifts. It functions as a standard elevator operating switch within the car operating panel (COP). Designed to match the original equipment specifications, this square button ensures seamless integration with Mitsubishi elevator control systems.  </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Button LHB-007B</li><li><strong>Product Code:</strong> BS-BT0063</li><li><strong>Brand Compatibility:</strong> Mitsubishi</li><li><strong>Category:</strong> Buttons</li><li><strong>Series:</strong> LHB Series</li><li><strong>Part Type:</strong> Replacement Operating Button</li></ul>"
+        ]
       },
       {
         "name": "OTIS button lock 27MM (Flush)",
@@ -1799,9 +1917,18 @@
         "code": "BS-BT0064",
         "url": "/buttons/otis-button-lock-27mm-flush",
         "canonical": "https://www.bestechparts.ae/products/buttons/otis-button-lock-27mm-flush",
-        "image": "/img/products/buttons/otis-button-lock-27mm-flush/otis-button-lock-27mm-flush-1.jpg",
+        "image": "/img/products/buttons/otis-button-lock-27mm-flush/elevator-otis-button-lock-27mm-flush-1.jpg",
         "alttext": "OTIS button lock 27MM Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Otis Elevator Button Lock 27mm | Flush Type ",
+        "meta_description": "Shop the Otis elevator button lock 27mm flush type for lifts. Fits floors 1 - 40, alarm and intercom. Order the lift button lock online at Bestech, UAE.",
+        "keywords": "Otis elevator button lock 27mm, lift button lock flush type, elevator key lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The OTIS elevator button lock 27MM (Flush) is a control panel interface component suitable for Otis-compatible lifts. It fits a 27 mm panel opening and suits floors 1 - 5, open/close, 6 - 40, G, alarm, intercom, B1, B2, B3, P1, P2, P3 and M.  </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> OTIS button lock 27MM (Flush)</li><li><strong>Product Code:</strong> BS-BT0064</li><li><strong>Brand fit:</strong> Otis</li><li><strong>Category:</strong> Buttons</li><li><strong>Size:</strong> 27 mm</li><li><strong>Mount style:</strong> Flush</li><li><strong>Functions covered:</strong> 1 - 5, open/close, 6 - 40, G, alarm, intercom, B1 - B3, P1 - P3, M</li></ul>"
+        ]
       },
       {
         "name": "OTIS button lock 27MM (Screw)",
@@ -1809,9 +1936,18 @@
         "code": "BS-BT0065",
         "url": "/buttons/otis-button-lock-27mm-screw",
         "canonical": "https://www.bestechparts.ae/products/buttons/otis-button-lock-27mm-screw",
-        "image": "/img/products/buttons/otis-button-lock-27mm-screw/otis-button-lock-27mm-screw-1.jpg",
+        "image": "/img/products/buttons/otis-button-lock-27mm-screw/elevator-otis-button-lock-27mm-screw-1.jpg",
         "alttext": "OTIS button lock 27MM Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Otis Button Lock 27mm Screw Type | Lift Lock ",
+        "meta_description": "Buy high-integrity signaling components with the 27mm Otis screw button lock, offering comprehensive multi-floor and emergency signal control integration.",
+        "keywords": "Otis button lock 27mm screw type, elevator key switch lock, lift button lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The OTIS button lock 27MM screw type is a specialized control panel interface component engineered for Otis-compatible lift networks.  It uses a 27 mm panel opening and is compatible with floor buttons 1 - 5, open/close, 6 - 40, G, alarm, intercom, B1, B2, B3, P1, P2, P3 and M. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Button Lock 27MM (Screw)</li><li><strong>Product Code:</strong> BS-BT0065</li><li><strong>Brand fit:</strong> Otis</li><li><strong>Category:</strong> Buttons</li><li><strong>Size:</strong> 27 mm</li><li><strong>Mount style:</strong> Screw</li><li><strong>Functions covered:</strong> 1 - 5, open/close, 6 - 40, G, alarm, intercom, B1 - B3, P1 - P3, M</li></ul>"
+        ]
       },
       {
         "name": "Elevator Push buttons: A4N135161",
@@ -1820,8 +1956,17 @@
         "url": "/buttons/elevator-push-button-a4n135161",
         "canonical": "https://www.bestechparts.ae/products/buttons/elevator-push-button-a4n135161",
         "image": "/img/products/buttons/elevator-push-button-a4n135161/elevator-push-button-a4n135161-1.jpg",
-        "alttext": "Elevator Push buttons: A4N135161",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "alttext": "Push buttons: A4N135161 Elevator Spare Parts",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator Push Button A4N135161 | Lift Switch ",
+        "meta_description": "Buy the elevator push button A4N135161 to maintain responsive panel inputs. This genuine Hyundai-compatible round lift switch ensures precise signaling.",
+        "keywords": "elevator push button A4N135161, lift push switch, elevator control button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator push button A4N135161 is a round micro-travel switch built specifically for Hyundai lift control networks. It works as a dependable replacement on the Car Operating Panel (COP) and handles floor selection and basic control tasks in high-traffic elevators. Whether used in residential blocks or commercial towers across the UAE, this button keeps lift operations running smoothly.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Push button</li><li><strong>Product Code:</strong> BS-BT0066</li><li><strong>Brand fit:</strong> Hyundai</li><li><strong>Category:</strong> Buttons</li><li><strong>Part number:</strong> A4N135161</li><li><strong>Function:</strong> Floor call & control</li></ul>"
+        ]
       },
       {
         "name": "G floor button cover (Green)",
@@ -1829,9 +1974,18 @@
         "code": "BS-BT0067",
         "url": "/buttons/g-floor-button-cover-green",
         "canonical": "https://www.bestechparts.ae/products/buttons/g-floor-button-cover-green",
-        "image": "/img/products/buttons/g-floor-button-cover-green/g-floor-button-cover-green-1.jpg",
+        "image": "/img/products/buttons/g-floor-button-cover-green/elevator-g-floor-button-cover-green-1.jpg",
         "alttext": "G floor button cover (Green) Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta-title": "Elevator G Floor Button Cover | Bestech UAE",
+        "meta_description": "The Mitsubishi-compatible elevator G floor button cover acts as a high-visibility green indicator cap, ensuring rapid ground level passenger recognition.",
+        "keywords": "elevator G floor button cover, lift button cover green, elevator floor indicator cover",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator G floor button cover (green) is a replacement indicator cap designed specifically for Mitsubishi lift systems. It fits over the ground floor button on the Car Operating Panel (COP) to mark the G level clearly. This cover helps passengers identify the ground floor quickly and keeps the button area looking neat and professional. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> G floor button cover</li><li><strong>Product Code:</strong> BS-BT0067</li><li><strong>Brand compatibility:</strong> Mitsubishi</li><li><strong>Colour:</strong> Green</li><li><strong>Category:</strong> Buttons</li><li><strong>Fit:</strong> Ground (G) floor button</li></ul>"
+        ]
       },
       {
         "name": "Button Stickers",
@@ -1839,9 +1993,18 @@
         "code": "BS-BT0068",
         "url": "/buttons/button-stickers",
         "canonical": "https://www.bestechparts.ae/products/buttons/button-stickers",
-        "image": "/img/products/buttons/button-stickers/button-stickers-1.jpg",
+        "image": "/img/products/buttons/button-stickers/elevator-button-stickers-1.jpg",
         "alttext": "Button Stickers Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator Button Stickers | Lift Panel Overlays ",
+        "meta_description": "Restore faded control panels with Mitsubishi-compatible elevator button stickers. These high-adhesion overlays ensure clear, durable floor identification.",
+        "keywords": "elevator button stickers, lift floor button labels, elevator button symbols",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>These elevator button stickers are simple adhesive labels made to fit Mitsubishi lift panels. They cover the existing button face and show clear floor numbers or symbols. They are a quick and affordable way to refresh a worn-out COP or LOP panel without swapping out the whole button. Ideal for buildings in the UAE where panel wear happens fast due to daily use. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Button Stickers</li><li><strong>Product Code:</strong> BS-BT0068</li><li><strong>Brand compatibility:</strong> Mitsubishi</li><li><strong>Type:</strong>  Adhesive label / sticker</li><li><strong>Category:</strong> Buttons</li><li><strong>Fit:</strong> Button face overlay</li><li><strong>Purpose:</strong> Floor identification</li></ul>"
+        ]
       },
       {
         "name": "Touchless COP Buttons TF-LB38R ",
@@ -1849,13 +2012,22 @@
         "code": "BS-BT0069",
         "url": "/buttons/touchless-cop-buttons-tf-lb38r",
         "canonical": "https://www.bestechparts.ae/products/buttons/touchless-cop-buttons-tf-lb38r",
-        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r/touchless-cop-buttons-tf-lb38r-1.jpg",
+        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r/elevator-touchless-cop-buttons-tf-lb38r-1.jpg",
         "alttext": "Touchless COP Buttons TF-LB38R Elevator Spare Parts",
         "slider": [
-          "touchless-cop-buttons-tf-lb38r-1",
-          "touchless-cop-buttons-tf-lb38r-2"
+          "elevator-touchless-cop-buttons-tf-lb38r-1",
+          "elevator-touchless-cop-buttons-tf-lb38r-2"
         ],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Touchless Elevator COP Button | Lift Sensor",
+        "meta_description": "The touchless elevator COP button TF-LB38R utilizes advanced proximity sensors, providing a highly hygienic lift sensor interface for modern panels.",
+        "keywords": "touchless elevator COP button, lift sensor button, touchless elevator push button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>These are touchless elevator COP buttons designed for modern elevator systems. The model TF-LB38R works without physical contact, users simply wave or hover their hand near the sensor to register a floor selection. This makes them ideal for hygiene-conscious buildings across the UAE, especially after the increased focus on contactless solutions. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Touchless COP Buttons</li><li><strong>Product Code:</strong> BS-BT0069</li><li><strong>Model:</strong> TF-LB38R</li><li><strong>Type:</strong>  Touchless / Sensor-based COP button</li><li><strong>Category:</strong> Buttons</li></ul>"
+        ]
       },
       {
         "name": "Touchless LOP Buttons TF-LB38R ",
@@ -1863,9 +2035,19 @@
         "code": "BS-BT0070",
         "url": "/buttons/touchless-lop-buttons-tf-lb38r",
         "canonical": "https://www.bestechparts.ae/products/buttons/touchless-lop-buttons-tf-lb38r",
-        "image": "/img/products/buttons/touchless-lop-buttons-tf-lb38r/touchless-lop-buttons-tf-lb38r-1.jpg",
+        "image": "/img/products/buttons/touchless-lop-buttons-tf-lb38r/elevator-touchless-lop-buttons-tf-lb38r-1.jpg",
         "alttext": "Touchless LOP Buttons TF-LB38R Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Touchless Elevator LOP Button | Lift Sensor",
+        "meta_description": "Buy the touchless elevator LOP button TF-LB38R to upgrade lobby hygiene. This sensor-based lift interface ensures precise, contact-free hall call activation.",
+        "keywords": "touchless elevator LOP button, lift touchless landing button, sensor elevator button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The touchless LOP elevator button is a sensor-operated landing buttons built for elevator systems. Unlike traditional push buttons, these work without physical contact. This supports hygiene-focused buildings across the UAE, especially in hospitals, commercial spaces and public areas. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Touchless LOP Buttons</li><li><strong>Product Code:</strong> BS-BT0070</li><li><strong>Model:</strong> TF-LB38R</li><li><strong>Type:</strong>  Touchless / Sensor-Based</li><li><strong>Category:</strong> Buttons</li><li><strong>Application :</strong> Landing Operating Panel (LOP)</li></ul>"
+        ]
+        
       },
       {
         "name": "BST PUSH BUTTON MA1200 SS",
@@ -1873,37 +2055,64 @@
         "code": "BS-BT0071",
         "url": "/buttons/bst-push-button-ma1200-ss",
         "canonical": "https://www.bestechparts.ae/products/buttons/bst-push-button-ma1200-ss",
-        "image": "/img/products/buttons/bst-push-button-ma1200-ss/bst-push-button-ma1200-ss-1.jpg",
+        "image": "/img/products/buttons/bst-push-button-ma1200-ss/elevator-bst-push-button-ma1200-ss-1.jpg",
         "alttext": "BST PUSH BUTTON MA1200 SS Elevator Spare Parts",
         "slider": [
-          "bst-push-button-ma1200-ss-1",
-          "bst-push-button-ma1200-ss-2"
+          "elevator-bst-push-button-ma1200-ss-1",
+          "elevator-bst-push-button-ma1200-ss-2"
         ],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Buy BST Push Button MA1200 SS | Stainless Steel Lift Part",
+        "meta_description": "Technical breakdown of the BST push button MA1200 SS. A high-integrity round mechanical micro-travel switch designed to drop cleanly into standard control panels.",
+        "keywords": "BST push button MA1200 SS, elevator stainless steel button, lift push button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BST push button MA1200 SS is a stainless steel elevator push button built for durability and consistent performance in lift systems. This BST-branded button resists wear, corrosion and daily handling. It fits standard elevator panel layouts in both new installations and existing upgrades.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BST PUSH BUTTON</li><li><strong>Product Code:</strong> BS-BT0071</li><li><strong>Model:</strong>  MA1200 SS</li><li><strong>Material:</strong> Stainless Steel (SS)</li><li><strong>Category:</strong> Buttons</li><li><strong>Brand :</strong> BST</li></ul>"
+        ]
       },
       {
         "name": "Push buttons AK-29B",
         "description": "Sigma round - Push buttons AK-29B",
         "code": "BS-BT0072",
         "url": "/buttons/push-buttons-ak-29b",
-        "canonical": "https://www.bestechparts.ae/products/buttons/bst-push-button-ma1200-ss",
-        "image": "/img/products/buttons/push-buttons-ak-29b/push-buttons-ak-29b-1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/push-buttons-ak-29b",
+        "image": "/img/products/buttons/push-buttons-ak-29b/elevator-push-buttons-ak-29b-1.jpg",
         "alttext": "Push buttons AK-29B Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator Push Button AK-29B | Lift Spare Part",
+        "meta_description": "Buy the elevator push button AK-29B to ensure responsive cabin inputs, a genuine Sigma-compatible round lift switch provides reliable floor selection.",
+        "keywords": "elevator push button AK-29B, lift operating button, elevator control switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator push button AK-29B is a round-style Sigma lift operating button used in elevator control panels. It serves as an elevator control switch for floor selection and door operations in both passenger and freight lifts. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Push Buttons</li><li><strong>Product Code:</strong> BS-BT0072</li><li><strong>Model:</strong> AK-29B</li><li><strong>Brand:</strong> Sigma</li><li><strong>Category:</strong> Buttons</li><li><strong>Product Type :</strong> Round Elevator Push Button</li><li><strong>Shape:</strong> Round</li></ul>"
+        ]
       },
       {
         "name": "COP Button - Monarch 13",
         "description": "Monarch: 13-25. Blue/Red",
         "code": "BS-BT0073",
         "url": "/buttons/cop-button-monarch-13",
-        "canonical": "https://www.bestechparts.ae/products/buttons/COP Button - Monarch 13",
-        "image": "/img/products/buttons/cop-button-monarch-13/cop-button-monarch-13-1.jpg",
+        "canonical": "https://www.bestechparts.ae/products/buttons/cop-button-monarch-13",
+        "image": "/img/products/buttons/cop-button-monarch-13/elevator-cop-button-monarch-13-1.jpg",
         "alttext": "COP Button - Monarch 13 Elevator Spare Parts",
         "slider": [
-          "cop-button-monarch-13-1",
-          "cop-button-monarch-13-2"
+          "elevator-cop-button-monarch-13-1",
+          "elevator-cop-button-monarch-13-2"
         ],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator COP button Monarch 13 | Lift Button",
+        "meta_description": "Minimise panel input failure with this durable Monarch-compatible lift cabin operating button, built to withstand heavy handling in high-traffic cabins.",
+        "keywords": "elevator COP button Monarch 13, lift cabin operating button, elevator control panel button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator COP button Monarch 13 is a cabin operating panel button designed for Monarch lift systems. It falls within the Monarch 13 - 25 series and is available in blue and red colour options. This lift cabin operating button functions as an elevator control panel button inside the elevator car, allowing passengers to select their desired floor. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> COP Button - Monarch 13</li><li><strong>Product Code:</strong> BS-BT0073</li><li><strong>Brand:</strong> Monarch</li><li><strong>Category:</strong> Buttons</li><li><strong>Series:</strong> 13 - 25</li><li><strong>Colours :</strong> Blue / Red</li></ul>"
+        ]
       },
       {
         "name": "KDS button: Square with screws",
@@ -1911,9 +2120,18 @@
         "code": "BS-BT0074",
         "url": "/buttons/kds-button-square-with-screws",
         "canonical": "https://www.bestechparts.ae/products/buttons/kds-button-square-with-screws",
-        "image": "/img/products/buttons/kds-button-square-with-screws/kds-button-square-with-screws-1.jpg",
+        "image": "/img/products/buttons/kds-button-square-with-screws/elevator-kds-button-square-with-screws-1.jpg",
         "alttext": "KDS button: Square with screws Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Kone KDS Square Button with Screws | Lift Control Switch",
+        "meta_description": "Buy this square KDS button with screws to secure your panel inputs. This premium lift square push button delivers highly reliable floor call registration.",
+        "keywords": "KDS square elevator button, lift square push button, elevator panel button with screws",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The KDS square elevator button with screws is a cabin or landing call button designed for Kone lift systems. It features a square-shaped push button with a screw-mount installation, making it suitable for both elevator control panels and hall call stations. Available in red, this lift square push button works as a reliable elevator panel button with screws for Kone elevators.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> KDS button - Square with screws</li><li><strong>Product Code:</strong> BS-BT0074</li><li><strong>Brand:</strong> Kone</li><li><strong>Category:</strong> Buttons</li><li><strong>Shape:</strong> Square</li><li><strong>Colours :</strong> Red</li><li><strong>Mounting:</strong> With screws</li></ul>"
+        ]
       },
       {
         "name": "Push Button Round: AN306",
@@ -1921,9 +2139,18 @@
         "code": "BS-BT0075",
         "url": "/buttons/push-button-round-an306",
         "canonical": "https://www.bestechparts.ae/products/buttons/push-button-round-an306",
-        "image": "/img/products/buttons/push-button-round-an306/push-button-round-an306-1.jpg",
+        "image": "/img/products/buttons/push-button-round-an306/elevator-push-button-round-an306-1.jpg",
         "alttext": "Push Button Round: AN306 Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Buy Elevator Round Push Button AN306 | Lift Switch ",
+        "meta_description": "Designed for universal panel cut-outs, the AN306 elevator round switch integrates smoothly into existing loom wiring to deliver immediate micro-travel signals.",
+        "keywords": "elevator round push button AN306, lift operating button, elevator round switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator round push button AN306 is a reliable lift operating button designed for elevator cabin or landing call panels. It features a circular red push button that works as a standard elevator round switch for lift control systems. Commonly used across multiple elevator brands, this round elevator button provides a simple and effective way to register floor calls or cabin commands. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Push Button</li><li><strong>Product Code:</strong> BS-BT0075</li><li><strong>Model:</strong> AN306</li><li><strong>Category:</strong> Buttons</li><li><strong>Shape:</strong> Round</li><li><strong>Colours :</strong> Red LED Illumination</li></ul>"
+        ]
       },
       {
         "name": "Elevator Push Button KA1060",
@@ -1932,12 +2159,21 @@
         "url": "/buttons/elevator-push-button-ka1060",
         "canonical": "https://www.bestechparts.ae/products/buttons/elevator-push-button-ka1060",
         "image": "/img/products/buttons/elevator-push-button-ka1060/elevator-push-button-ka1060-1.jpg",
-        "alttext": "Elevator Push Button KA1060",
+        "alttext": "Push Button KA1060 Elevator Spare Parts",
         "slider": [
           "elevator-push-button-ka1060-1",
           "elevator-push-button-ka1060-2"
         ],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator Operating Switch KA1060 | Lift Button",
+        "meta_description": "Buy the elevator push button KA1060 to ensure responsive cabin inputs. This square elevator operating switch provides reliable floor call registration.",
+        "keywords": "elevator push button KA1060, lift control button, elevator operating switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator push button KA1060 is a lift control button designed for use in elevator cabin and landing call panels. It functions as a reliable elevator operating switch for registering floor selections or call commands within lift systems. This KA1060 push button suits various elevator installations across residential, commercial and industrial buildings.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Push Button</li><li><strong>Product Code:</strong>  BS-BT0076</li><li><strong>Model:</strong> KA1060</li><li><strong>Category:</strong> Buttons</li><li><strong>Function:</strong> Lift Control / Elevator Operating Switch</li></ul>"
+        ]
       },
       {
         "name": "Touchless COP Buttons TF-LB38R - Silver",
@@ -1945,9 +2181,18 @@
         "code": "BS-BT0077",
         "url": "/buttons/touchless-cop-buttons-tf-lb38r-silver",
         "canonical": "https://www.bestechparts.ae/products/buttons/touchless-cop-buttons-tf-lb38r-silver",
-        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/touchless-cop-buttons-tf-lb38r-silver-1.jpg",
+        "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/elevator-touchless-cop-buttons-tf-lb38r-silver-1.jpg",
         "alttext": "Touchless COP Buttons TF-LB38R - Silver Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Touchless Elevator COP Button | Lift Sensor TF-LB38R",
+        "meta_description": "The silver elevator sensor push buttons utilize advanced proximity arrays, offering a highly hygienic, contact-free touchless button layout.",
+        "keywords": "touchless COP button silver, elevator sensor push button, lift touchless button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Unlike standard push buttons, these elevator sensor push buttons respond to hand proximity (no physical contact is needed). This makes them a practical choice for hygiene-conscious environments such as hospitals, offices and residential towers across the UAE. The lift touchless button in silver finish fits standard COP panel layouts and supports smooth floor selection without wear from repeated pressing. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Touchless COP Button</li><li><strong>Product Code:</strong>  BS-BT0077</li><li><strong>Model:</strong> TF-LB38R</li><li><strong>Category:</strong> Buttons</li><li><strong>Button Type:</strong>  COP (Car Operating Panel)</li><li><strong>Operation:</strong>  Touchless / Sensor-based</li><li><strong>Finish:</strong>  Silver</li></ul>"
+        ]
       },
       {
         "name": "COP buttons NY20041659H01",
@@ -1955,9 +2200,18 @@
         "code": "BS-BT0078",
         "url": "/buttons/cop-buttons-ny20041659h01",
         "canonical": "https://www.bestechparts.ae/products/buttons/cop-buttons-ny20041659h01",
-        "image": "/img/products/buttons/cop-buttons-ny20041659h01/cop-buttons-ny20041659h01-1.jpg",
+        "image": "/img/products/buttons/cop-buttons-ny20041659h01/elevator-cop-buttons-ny20041659h01-1.jpg",
         "alttext": "COP buttons NY20041659H01 Elevator Spare Parts",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta-title": "Elevator COP Button - NY20041659H01 | Lift Operating Switch",
+        "meta_description": "Buy the COP buttons NY20041659H01 to ensure responsive cabin inputs. This durable replacement lift control panel button provides reliable floor selection.",
+        "keywords": "elevator COP button NY20041659H01, lift control panel button, elevator operating button",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>It is a replacement elevator operating button for the car operating panel. These buttons let passengers select floors inside the lift cabin. They are designed as direct replacements for specific elevator models that use the NY20041659H01 part number. The lift control panel button fits standard COP layouts and supports reliable floor selection in residential, commercial and industrial buildings across the UAE.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> COP button</li><li><strong>Product Code:</strong>  BS-BT0078</li><li><strong>Model:</strong> NY20041659H01</li><li><strong>Category:</strong> Buttons</li><li><strong>Button Type:</strong>  Car Operating Panel (COP) Button</li></ul>"
+        ]
       }
     ]
   },
