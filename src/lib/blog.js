@@ -150,6 +150,14 @@ export const blogPosts = [
     description:
       "Complete guide on elevator signal and communication failures, covering CAN bus, traveling cable faults, testing methods and repair solutions.",
   },
+
+  {
+    slug: "identify-the-worn-elevator-spare-parts",
+    title: "How to Identify and Replace Worn Elevator Spare Parts Before System Failure",
+    date: "2025-05-19",
+    description:
+      "Learn how to identify worn elevator parts and replace them early to prevent system failure, improve safety and reduce maintenance cost.",
+  },
 ];
 
 // Function to fetch all blog posts
