@@ -292,7 +292,7 @@
         "keywords": "elevator command board cable, lift control board cable, elevator wiring cable",
         "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cable-type-command-board-90cm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>This elevator command board cable is a critical elevator wiring cable used in lift systems. It connects the command board to other elevator components, ensuring reliable signal transmission for operations like floor selection and door control.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -311,7 +311,7 @@
         "keywords": "elevator button cables, lift push button cable, elevator control wiring",
         "canonical": "https://www.bestechparts.ae/products/cables-and-wires/button-cables-assorted",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>It is a set of elevator button cables designed for use in lift control systems. These cables connect the push buttons on the elevator operating panel (COP) or landing panel (LOP) to the main control board. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -330,7 +330,7 @@
         "keywords": "elevator travelling cable 24 core, lift traveling cable, elevator flexible cable",
         "canonical": "https://www.bestechparts.ae/products/cables-and-wires/travelling-cable-24-core",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>This product is a 24 core travelling cable, a specialised elevator flexible cable used in lift systems to carry power, lighting and control signals. Unlike standard fixed wiring, a travelling cable is designed to move freely with the elevator car as it travels up and down the shaft.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -387,7 +387,7 @@
         "keywords": "elevator display cables, lift display wiring cable, elevator communication cable",
         "canonical": "https://www.bestechparts.ae/products/cables-and-wires/display-cables-assorted",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Display cables - Assorted kit is a multi-profile selection of electronic data links designed to connect elevator indicator screens to their master controllers. This versatile bundle includes a mix of multi-pin ribbon looms and pre-terminated data leads built to handle digital signals. It functions as a reliable elevator display cables package, routing real-time data smoothly to car operating panel (COP) and landing operating panel (LOP) display screens. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -406,7 +406,7 @@
         "keywords": "elevator LOP display cable, lift display button cable, elevator panel wiring cable",
         "canonical": "https://www.bestechparts.ae/products/cables-and-wires/cables-lop-display-to-button",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Cables - LOP display to button module is a specialized, multi-conductor interconnection harness engineered to bridge data communication within landing operating panels. It serves as a highly vital elevator LOP display cable layout, linking the floor level digital indicator screen directly to the tactile call buttons. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -657,7 +657,7 @@
         "code": "BS-CT0015",
         "url": "/contactors/schneider-110vac-32a-lc1d32f7c",
         "image": "/img/products/contactors/schneider-110vac-32a-lc1d32f7c/schneider-110vac-32a-lc1d32f7c-1.jpg",
-        "alttext": "Schneider 110VAC 32A - LC1D32F7C Elevator Spare Parts" ,
+        "alttext": "Schneider 110VAC 32A - LC1D32F7C Elevator Spare Parts",
         "slider": [
           "schneider-110vac-32a-lc1d32f7c-1",
           "schneider-110vac-32a-lc1d32f7c-2"
@@ -949,7 +949,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/buttons/black-arrow-button-no",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Direction Button | Black Arrow Lift Control Switch",
+        "meta_title": "Elevator Direction Button | Black Arrow Lift Control Switch",
         "meta_description": "Buy the elevator black arrow button for professional lift maintenance using reliable LA137-XB2 components for secure and organised direction control.",
         "keywords": "elevator black arrow button, lift push button switch, elevator direction button",
         "paragraph_text": [
@@ -969,7 +969,7 @@
         "alttext": "Elevator Green push button with light",
         "canonical": "https://www.bestechparts.ae/products/buttons/green-push-button-with-light-no",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Buy Elevator Green Push Button | Illuminated Lift Switch",
+        "meta_title": "Buy Elevator Green Push Button | Illuminated Lift Switch",
         "meta_description": "Sourced for lift maintenance, the elevator green push button is suitable for elevator control panels and illuminated input applications.",
         "keywords": "Buy Elevator Green Push Button | Illuminated Lift Switch",
         "paragraph_text": [
@@ -1727,7 +1727,7 @@
         "image": "/img/products/buttons/cop-button-intercom/elevator-cop-button-intercom-1.jpg",
         "alttext": "COP Button - Intercom Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator COP Intercom Button | Lift Cabin Switch UAE ",
+        "meta_title": "Elevator COP Intercom Button | Lift Cabin Switch UAE ",
         "meta_description": "Get the Monarch COP intercom button for professional panel assembly. A high-quality elevator cabin button designed for momentary emergency voice signalling. ",
         "keywords": "elevator COP intercom button, lift intercom push button, elevator cabin button",
         "paragraph_text": [
@@ -1750,7 +1750,7 @@
           "elevator-button-km51071111h06-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-          "meta_title": "Lift Push Button KM51071111H06 | Kone",
+        "meta_title": "Lift Push Button KM51071111H06 | Kone",
         "meta_description": "The Kone-compatible elevator button KM51071111H06 functions as a high-integrity signal component, offering a premium round lift push button for stable control. ",
         "keywords": "elevator button KM51071111H06, lift push button, elevator control button",
         "paragraph_text": [
@@ -1810,7 +1810,7 @@
         "image": "/img/products/buttons/elevator-square-button-ak07/elevator-square-button-ak07-1.jpg",
         "alttext": "Elevator Square Button AK07",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Lift Square Push Button AK07 | Elevator COP Button",
+        "meta_title": "Lift Square Push Button AK07 | Elevator COP Button",
         "meta_description": "The Elevator Square Button AK07 serves as a premium interface component, providing a durable square lift push button layout for modern control panels.",
         "keywords": "elevator square button AK07, lift square push button, elevator COP button",
         "paragraph_text": [
@@ -1829,7 +1829,7 @@
         "image": "/img/products/buttons/elevator-push-button-ak25-mtd265/elevator-push-button-ak25-mtd265-1.jpg",
         "alttext": "Elevator Push Button AK25 MTD265",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Push Button AK25 MTD265 | Lift Switch ",
+        "meta_title": "Elevator Push Button AK25 MTD265 | Lift Switch ",
         "meta_description": "The Elevator Square Button AK07 serves as a premium interface component, providing a durable square lift push button layout for modern control panels. ",
         "keywords": "elevator push button AK25 MTD265, lift control button, elevator push switch",
         "paragraph_text": [
@@ -1848,7 +1848,7 @@
         "image": "/img/products/buttons/a4n11286-elevator-led-push-button/a4n11286-elevator-led-push-button-1.jpg",
         "alttext": "A4N11286 Elevator LED Push Button Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator LED Push Button A4N11286 | Lift Button",
+        "meta_title": "Elevator LED Push Button A4N11286 | Lift Button",
         "meta_description": "Restore clear visual feedback with the elevator LED push button A4N11286, a durable square lift-illuminated button for secure panel repairs. ",
         "keywords": "elevator LED push button A4N11286, lift illuminated button, elevator LED button",
         "paragraph_text": [
@@ -1867,7 +1867,7 @@
         "image": "/img/products/buttons/bst-elevator-button-a3n18489/bst-elevator-button-a3n18489-1.jpg",
         "alttext": "BST Elevator Button A3N18489 Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "BST Lift Button A3N18489 | Elevator Switch",
+        "meta_title": "BST Lift Button A3N18489 | Elevator Switch",
         "meta_description": "Buy the BST elevator button A3N18489, a durable round lift push button and elevator control switch for BST lifts. ",
         "keywords": "BST elevator button A3N18489, lift push button, elevator control switch",
         "paragraph_text": [
@@ -1905,7 +1905,7 @@
         "image": "/img/products/buttons/elevator-button-lhb-005b/elevator-button-lhb-005b-1.jpg",
         "alttext": "Button LHB-005B Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Mitsubishi Lift Button LHB-005B | Elevator COP Component ",
+        "meta_title": "Mitsubishi Lift Button LHB-005B | Elevator COP Component ",
         "meta_description": "Access high-integrity signal modules with the elevator button LHB-005B. A dedicated lift operating button framework built for stable call registration.",
         "keywords": "elevator button LHB-005B, lift operating button, elevator push switch",
         "paragraph_text": [
@@ -1924,7 +1924,7 @@
         "image": "/img/products/buttons/elevator-button-lhb-006b/elevator-button-lhb-006b-1.jpg",
         "alttext": "Button LHB-006B Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "LHB-006B Elevator Button | Mitsubishi Lift",
+        "meta_title": "LHB-006B Elevator Button | Mitsubishi Lift",
         "meta_description": "Shop the elevator button LHB-006B for Mitsubishi lifts. A reliable lift control push button that fits standard elevator panel layouts.",
         "keywords": "elevator button LHB-006B, lift control push button, elevator panel button",
         "paragraph_text": [
@@ -1943,7 +1943,7 @@
         "image": "/img/products/buttons/elevator-button-lhb-007b/elevator-button-lhb-007b-1.jpg",
         "alttext": "Button LHB-007B Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "LHB-007B Elevator Button | Lift Panel Part",
+        "meta_title": "LHB-007B Elevator Button | Lift Panel Part",
         "meta_description": "The Mitsubishi-compatible elevator button LHB-007B operates as a premium interface, offering a durable square lift panel part for secure COP wiring.",
         "keywords": "elevator button LHB-007B, lift push button panel, elevator operating switch",
         "paragraph_text": [
@@ -1981,7 +1981,7 @@
         "image": "/img/products/buttons/otis-button-lock-27mm-screw/elevator-otis-button-lock-27mm-screw-1.jpg",
         "alttext": "OTIS button lock 27MM Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Otis Button Lock 27mm Screw Type | Lift Lock ",
+        "meta_title": "Otis Button Lock 27mm Screw Type | Lift Lock ",
         "meta_description": "Buy high-integrity signaling components with the 27mm Otis screw button lock, offering comprehensive multi-floor and emergency signal control integration.",
         "keywords": "Otis button lock 27mm screw type, elevator key switch lock, lift button lock",
         "paragraph_text": [
@@ -2000,7 +2000,7 @@
         "image": "/img/products/buttons/elevator-push-button-a4n135161/elevator-push-button-a4n135161-1.jpg",
         "alttext": "Push buttons: A4N135161 Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Push Button A4N135161 | Lift Switch ",
+        "meta_title": "Elevator Push Button A4N135161 | Lift Switch ",
         "meta_description": "Buy the elevator push button A4N135161 to maintain responsive panel inputs. This genuine Hyundai-compatible round lift switch ensures precise signaling.",
         "keywords": "elevator push button A4N135161, lift push switch, elevator control button",
         "paragraph_text": [
@@ -2038,7 +2038,7 @@
         "image": "/img/products/buttons/button-stickers/elevator-button-stickers-1.jpg",
         "alttext": "Button Stickers Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Button Stickers | Lift Panel Overlays ",
+        "meta_title": "Elevator Button Stickers | Lift Panel Overlays ",
         "meta_description": "Restore faded control panels with Mitsubishi-compatible elevator button stickers. These high-adhesion overlays ensure clear, durable floor identification.",
         "keywords": "elevator button stickers, lift floor button labels, elevator button symbols",
         "paragraph_text": [
@@ -2061,7 +2061,7 @@
           "elevator-touchless-cop-buttons-tf-lb38r-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Touchless Elevator COP Button | Lift Sensor",
+        "meta_title": "Touchless Elevator COP Button | Lift Sensor",
         "meta_description": "The touchless elevator COP button TF-LB38R utilizes advanced proximity sensors, providing a highly hygienic lift sensor interface for modern panels.",
         "keywords": "touchless elevator COP button, lift sensor button, touchless elevator push button",
         "paragraph_text": [
@@ -2080,7 +2080,7 @@
         "image": "/img/products/buttons/touchless-lop-buttons-tf-lb38r/elevator-touchless-lop-buttons-tf-lb38r-1.jpg",
         "alttext": "Touchless LOP Buttons TF-LB38R Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Touchless Elevator LOP Button | Lift Sensor",
+        "meta_title": "Touchless Elevator LOP Button | Lift Sensor",
         "meta_description": "Buy the touchless elevator LOP button TF-LB38R to upgrade lobby hygiene. This sensor-based lift interface ensures precise, contact-free hall call activation.",
         "keywords": "touchless elevator LOP button, lift touchless landing button, sensor elevator button",
         "paragraph_text": [
@@ -2089,7 +2089,6 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Touchless LOP Buttons</li><li><strong>Product Code:</strong> BS-BT0070</li><li><strong>Model:</strong> TF-LB38R</li><li><strong>Type:</strong>  Touchless / Sensor-Based</li><li><strong>Category:</strong> Buttons</li><li><strong>Application :</strong> Landing Operating Panel (LOP)</li></ul>"
         ]
-        
       },
       {
         "name": "BST PUSH BUTTON MA1200 SS",
@@ -2104,7 +2103,7 @@
           "elevator-bst-push-button-ma1200-ss-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Buy BST Push Button MA1200 SS | Stainless Steel Lift Part",
+        "meta_title": "Buy BST Push Button MA1200 SS | Stainless Steel Lift Part",
         "meta_description": "Technical breakdown of the BST push button MA1200 SS. A high-integrity round mechanical micro-travel switch designed to drop cleanly into standard control panels.",
         "keywords": "BST push button MA1200 SS, elevator stainless steel button, lift push button",
         "paragraph_text": [
@@ -2123,7 +2122,7 @@
         "image": "/img/products/buttons/push-buttons-ak-29b/elevator-push-buttons-ak-29b-1.jpg",
         "alttext": "Push buttons AK-29B Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Push Button AK-29B | Lift Spare Part",
+        "meta_title": "Elevator Push Button AK-29B | Lift Spare Part",
         "meta_description": "Buy the elevator push button AK-29B to ensure responsive cabin inputs, a genuine Sigma-compatible round lift switch provides reliable floor selection.",
         "keywords": "elevator push button AK-29B, lift operating button, elevator control switch",
         "paragraph_text": [
@@ -2146,7 +2145,7 @@
           "elevator-cop-button-monarch-13-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator COP button Monarch 13 | Lift Button",
+        "meta_title": "Elevator COP button Monarch 13 | Lift Button",
         "meta_description": "Minimise panel input failure with this durable Monarch-compatible lift cabin operating button, built to withstand heavy handling in high-traffic cabins.",
         "keywords": "elevator COP button Monarch 13, lift cabin operating button, elevator control panel button",
         "paragraph_text": [
@@ -2165,7 +2164,7 @@
         "image": "/img/products/buttons/kds-button-square-with-screws/elevator-kds-button-square-with-screws-1.jpg",
         "alttext": "KDS button: Square with screws Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Kone KDS Square Button with Screws | Lift Control Switch",
+        "meta_title": "Kone KDS Square Button with Screws | Lift Control Switch",
         "meta_description": "Buy this square KDS button with screws to secure your panel inputs. This premium lift square push button delivers highly reliable floor call registration.",
         "keywords": "KDS square elevator button, lift square push button, elevator panel button with screws",
         "paragraph_text": [
@@ -2184,7 +2183,7 @@
         "image": "/img/products/buttons/push-button-round-an306/elevator-push-button-round-an306-1.jpg",
         "alttext": "Push Button Round: AN306 Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Buy Elevator Round Push Button AN306 | Lift Switch ",
+        "meta_title": "Buy Elevator Round Push Button AN306 | Lift Switch ",
         "meta_description": "Designed for universal panel cut-outs, the AN306 elevator round switch integrates smoothly into existing loom wiring to deliver immediate micro-travel signals.",
         "keywords": "elevator round push button AN306, lift operating button, elevator round switch",
         "paragraph_text": [
@@ -2207,7 +2206,7 @@
           "elevator-push-button-ka1060-2"
         ],
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Operating Switch KA1060 | Lift Button",
+        "meta_title": "Elevator Operating Switch KA1060 | Lift Button",
         "meta_description": "Buy the elevator push button KA1060 to ensure responsive cabin inputs. This square elevator operating switch provides reliable floor call registration.",
         "keywords": "elevator push button KA1060, lift control button, elevator operating switch",
         "paragraph_text": [
@@ -2226,7 +2225,7 @@
         "image": "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/elevator-touchless-cop-buttons-tf-lb38r-silver-1.jpg",
         "alttext": "Touchless COP Buttons TF-LB38R - Silver Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Touchless Elevator COP Button | Lift Sensor TF-LB38R",
+        "meta_title": "Touchless Elevator COP Button | Lift Sensor TF-LB38R",
         "meta_description": "The silver elevator sensor push buttons utilize advanced proximity arrays, offering a highly hygienic, contact-free touchless button layout.",
         "keywords": "touchless COP button silver, elevator sensor push button, lift touchless button",
         "paragraph_text": [
@@ -2245,7 +2244,7 @@
         "image": "/img/products/buttons/cop-buttons-ny20041659h01/elevator-cop-buttons-ny20041659h01-1.jpg",
         "alttext": "COP buttons NY20041659H01 Elevator Spare Parts",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator COP Button - NY20041659H01 | Lift Operating Switch",
+        "meta_title": "Elevator COP Button - NY20041659H01 | Lift Operating Switch",
         "meta_description": "Buy the COP buttons NY20041659H01 to ensure responsive cabin inputs. This durable replacement lift control panel button provides reliable floor selection.",
         "keywords": "elevator COP button NY20041659H01, lift control panel button, elevator operating button",
         "paragraph_text": [
@@ -2872,19 +2871,17 @@
           "elevator-chint-transformer-500va-1",
           "elevator-chint-transformer-500va-2"
         ],
-        
         "canonical": "https://www.bestechparts.ae/products/electrical/chint-transformer-500va",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "CHINT Elevator Transformer 500VA | Reliable Lift Control Solution in UAE",
         "meta_description": "Upgrade your elevator system with the CHINT 500VA lift control transformer. This transformer ensures safe and efficient power distribution.",
         "keywords": "elevator transformer 500VA, lift control transformer, Chint transformer UAE",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The CHINT Transformer 500VA is made especially for elevator systems. It helps keep your lift running smoothly by providing stable power to the control circuits. Whether you’re installing a new elevator or maintaining an existing one, this transformer is built to last and works efficiently in all kinds of lift setups across the UAE.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> CHINT Transformer 500VA</li><li><strong>Product Code:</strong> BS-EL0012 </li><li><strong>Category:</strong> Electrical</li><li><strong>Capacity:</strong> 500VA </li><li><strong>Application:</strong> Elevator & Lift Control Systems</li></ul>"
         ]
-        
       },
       {
         "name": "Elevator Alarm NKT12(1-1)B1 12V",
@@ -2902,7 +2899,7 @@
         "keywords": "elevator alarm 12V, lift emergency alarm, elevator buzzer alarm",
         "canonical": "https://www.bestechparts.ae/products/electrical/elevator-alarm-nkt121-1b1-12v",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Elevator Alarm NKT121-1B1 (12V) is a high-performance emergency buzzer designed to enhance safety in elevator systems. This alarm provides a loud and clear audible alert, ensuring passengers can signal for assistance during emergencies. Its compact design, durable construction and reliable performance make it an essential component for modern elevator safety systems.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -3009,7 +3006,7 @@
         "keywords": "elevator transformer TDB-630-21, lift electrical transformer, elevator power transformer",
         "canonical": "https://www.bestechparts.ae/products/electrical/transformer-tdb-630-21",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator transformer TDB-630-21 is a robust electrical transformer built specifically for elevator systems. It ensures a steady and reliable power supply to lift control circuits and other electrical components. Trusted by professionals, the TDB-630-21 is a solid choice for maintaining efficient elevator performance.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -3033,7 +3030,7 @@
         "keywords": "elevator cross flow fan, lift cabin cooling fan, Bestech cross flow fan",
         "canonical": "https://www.bestechparts.ae/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Bestech cross flow fan FB-9B is designed for effective ventilation inside elevator cabins. As a reliable lift cabin cooling fan, it delivers steady and uniform airflow to improve passenger comfort. It's a simple, plug-and-play replacement that fits standard mounting positions.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -3096,7 +3093,6 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Bridge Rectifier </li><li><strong>Product Code:</strong> BS-EL0022</li><li><strong>Category:</strong> Electrical</li><li><strong>Model:</strong> KBPC3510</li><li><strong>Application:</strong> Elevator power conversion / rectification</li></ul>"
         ]
-        
       },
       {
         "name": "Transformor BK-50VA",
@@ -3110,7 +3106,7 @@
         "keywords": "elevator transformer BK-50VA, lift control transformer, elevator voltage transformer",
         "canonical": "https://www.bestechparts.ae/products/electrical/transformor-bk-50va",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator transformer BK-50VA is designed to provide stable and reliable power for elevator control circuits. It works as an efficient lift control transformer, ensuring that all key electrical components receive consistent voltage for safe operation. This elevator voltage transformer helps maintain smooth performance in lift systems.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -3190,7 +3186,7 @@
         "keywords": "elevator terminal connectors, lift electrical connectors, elevator wiring terminals",
         "canonical": "https://www.bestechparts.ae/products/electrical/terminal-connectors",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator terminal connectors are designed to provide safe and organized electrical connections within elevator systems. These elevator wiring terminals help maintain reliable signal flow, reduce wiring errors, and support efficient maintenance in modern lift installations.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -3209,7 +3205,7 @@
         "keywords": "elevator connector name tags, lift terminal markers, elevator cable labeling tags",
         "canonical": "https://www.bestechparts.ae/products/electrical/connector-name-tags-nb5",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The NB5 elevator connector name tags are designed for clear and organized identification of wiring in elevator systems. These tags enhance safety, streamline maintenance, and improve operational efficiency by providing clear labeling for electrical components. These lift terminal markers are designed to fit standard NB5 connectors used across most major elevator brands.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -3252,7 +3248,7 @@
         "keywords": "elevator cabin crossflow fan, lift ventilation fan, elevator cooling fan 220VAC",
         "canonical": "https://www.bestechparts.ae/products/electrical/cabin-crossflow-fan-fb-9b-220vac",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Elevator Cabin Crossflow Fan FB-9B 220VAC is designed to improve air circulation and ventilation within elevator cabins. This high-performance fan ensures a comfortable and fresh environment for passengers by efficiently cooling the cabin and maintaining optimal air quality. Its low-noise operation and durable construction make it an ideal choice for modern elevator systems.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -3271,13 +3267,12 @@
         "keywords": "elevator fireman switch box, lift fireman control switch, elevator emergency switch box",
         "canonical": "https://www.bestechparts.ae/products/electrical/fireman-switch-box",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator fireman switch box is designed to provide emergency control of elevator systems during fire situations. It enables authorized firefighters to take manual control of the elevator during emergencies, allowing safe transport of personnel and equipment between floors.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Fireman Switch Box</li><li><strong>Product Code:</strong> BS-EL0033</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong> Emergency Fire Service Switch</li><li><strong>Application:</strong> Firefighter elevator control during emergencies</li></ul>"
         ]
-         
       },
       {
         "name": "Inspection box full set - Bestech",
@@ -3291,7 +3286,7 @@
         "keywords": "elevator inspection box full set, lift maintenance inspection box, Bestech inspection box",
         "canonical": "https://www.bestechparts.ae/products/electrical/inspection-box-full-set-bestech",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator inspection box full set is designed to provide safe and convenient control during elevator maintenance and testing. This Bestech inspection box is built for reliable performance in service operations, helping reduce downtime and improve maintenance accuracy in modern elevator systems. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -4099,7 +4094,7 @@
         "keywords": "elevator round magnet, lift magnetic component, elevator door magnet",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/round-magnet",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>This component is a specialised elevator round magnet designed for use within lift door systems. It functions as a reliable lift magnetic component to ensure the door mechanism operates correctly. This elevator door magnet provides a secure hold, helping to keep the door panel in place during movement.</p>",
           "<p>If you want to buy elevator rope thimble rod 12mm, this fits standard lift setups. It works as a dependable lift wire rope rod to keep the elevator rope fitting secure and safe for daily use. </p>",
@@ -4158,7 +4153,7 @@
         "keywords": "elevator steel core rope 8mm, lift wire rope, elevator traction rope",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/steel-core-rope-8mm",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Steel Core Rope 8mm is a heavy-duty elevator wire rope built with a solid steel core for extra strength. It is used as a traction rope to carry the lift car and counterweight safely up and down the shaft. The steel centre gives the rope high tensile strength, which helps it resist stretching under heavy loads. </p>",
           "<p>This lift wire rope is commonly fitted in passenger and freight elevators across residential and commercial buildings in the UAE. Using the correct traction rope ensures smooth operation, reduces cable wear and supports safe daily use. </p>",
@@ -4178,7 +4173,7 @@
         "keywords": "elevator coupling shaft, lift shaft coupling, elevator mechanical shaft",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/coupling-shaft",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The coupling shaft (6mm x 6mm) is a small but essential mechanical part used to connect two rotating shafts together inside elevator drive systems. It helps transfer motion from the motor to the traction sheave or door mechanism smoothly. Using the correct coupling shaft ensures the lift runs without vibration and reduces wear on connected parts. </p>",
           "<p>This lift wire rope is commonly fitted in passenger and freight elevators across residential and commercial buildings in the UAE. Using the correct traction rope ensures smooth operation, reduces cable wear and supports safe daily use. </p>",
@@ -4198,7 +4193,7 @@
         "keywords": "elevator wire rope fastener, lift rope thimble clamp, elevator rope accessories",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/coupling-shaftwire-rope-fasteners-thimble-12-13mm-c",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>This elevator wire rope fastener is a lift rope thimble clamp designed for securing wire rope ends in elevator drive systems. The thimble fits rope diameters of 12mm to 13mm and prevents damage to the rope loop. It acts as a reliable elevator rope accessory that extends rope life and keeps connections safe during daily lift operation. </p>",
           "<p>This lift wire rope is commonly fitted in passenger and freight elevators across residential and commercial buildings in the UAE. Using the correct traction rope ensures smooth operation, reduces cable wear and supports safe daily use. </p>",
@@ -4222,7 +4217,7 @@
         "keywords": "elevator traction sheave 620-4-12, lift traction pulley, elevator sheave wheel",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/traction-sheave-620-4-12-m",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>This elevator traction sheave 620-4-12 is a lift traction pulley designed to connect the hoist motor to the wire rope in a standard lift drive system. Its main function is to transfer motor power to the elevator sheave wheel so the lift car moves smoothly up and down. The 620 mm diameter with a 4-groove, 12 mm rope channel gives reliable grip on the elevator rope accessories and reduces slipping during daily operation.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -4241,7 +4236,7 @@
         "keywords": "elevator traction sheave 620-6-12, lift drive sheave, elevator pulley wheel",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/traction-sheave-620-6-12-m",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator traction sheave 620-6-12 is a lift drive sheave built to match the main hoist motor with the elevator wire rope. With six grooves and a 12 mm rope channel, this elevator pulley wheel gives a secure friction grip so the lift car moves steadily up and down. Using the correct sheave size keeps the rope aligned, cuts down on wear and helps the whole drive train stay safe and reliable.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -4264,7 +4259,7 @@
         "keywords": "elevator traction sheave 605-3-12, lift sheave pulley, elevator traction wheel",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/traction-sheave-605-3-12-s",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator traction sheave 605-3-12 S is a lift sheave pulley made for Sigma-type elevator drive systems. It has a 605 mm diameter, three rope grooves and is designed to work with 12 mm steel core elevator wire rope. This elevator traction wheel transfers the motor's turning force to the wire rope using friction, so the lift car travels smoothly between floors.</p>",
           "<p>Using the right sheave size keeps the rope properly seated in each groove, which reduces uneven wear and helps the lift run safely. Choosing the correct traction sheave also supports even rope tension and longer service life for the whole drive system.</p>",
@@ -4284,7 +4279,7 @@
         "keywords": "elevator traction sheave 605-4-12, lift pulley sheave, elevator drive wheel",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/traction-sheave-605-4-12-s",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The elevator traction sheave (also known as the lift pulley sheave or elevator drive wheel) is the main wheel in an elevator's hoisting system. It works with steel wire ropes to lift and lower the lift car smoothly. The 605×4×12 S version features four precise grooves designed for 12 mm ropes, ensuring a dependable friction grip and reliable performance in Sigma-type elevator systems.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -4326,7 +4321,7 @@
         "keywords": "escalator handrail belt tool, lift escalator maintenance tool, escalator repair equipment",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/escalator-handrail-belt-tool",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Escalator Handrail Belt Tool is a specialised maintenance tool used for handling, installing, or replacing handrail belts on escalators. It is an essential piece of lift escalator maintenance tool equipment, designed to make belt work safer and more efficient for technicians. This escalator repair equipment helps reduce manual effort and minimises the risk of belt damage during servicing. It is commonly used by UAE-based elevator and escalator service companies for routine upkeep. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -4497,7 +4492,7 @@
         "keywords": "elevator buffer OH-J11, lift safety buffer, elevator shock absorber",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/buffer-oh-j11",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Buffer OH-J11 works as a shock absorber at the bottom of the elevator shaft. When the lift car reaches the lowest floor, this elevator buffer OH-J11 absorbs the impact energy and brings the car to a safe, controlled stop. It plays a key role in lift safety by protecting passengers, cables and the machine room from damage during hard landings. This elevator shock absorber is a must-have part for any elevator maintenance or repair job in residential or commercial buildings. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -4600,7 +4595,7 @@
         "keywords": "elevator door sill 800mm, lift landing sill, elevator door track",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "canonical": "https://www.bestechparts.ae/products/mechanical/door-sill-800mm-1-55m-k",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Door Sill 800MM 1.55M - K is a Kone-compatible elevator door sill used at the landing entry point. It acts as the bottom guide rail for the lift doors, ensuring smooth sliding and proper alignment. This part helps prevent door misalignment, reduces wear on door rollers and keeps the lift landing area safe and functional. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -5820,11 +5815,11 @@
         "keywords": "Elevator DW-C1 load sensor, lift load sensor supplier",
         "code": "BS-SR0001",
         "url": "/sensors/load-sensor-dw-c1",
-        "image": "/img/products/sensors/load-sensor-dw-c1/load-sensor-dw-c1-1.jpg",
-        "alttext": "Elevator Load sensor: DW -C1",
+        "image": "/img/products/sensors/load-sensor-dw-c1/elevator-load-sensor-dw-c1-1.jpg",
+        "alttext": "Load sensor: DW -C1 Elevator Spare Parts",
         "slider": [
-          "load-sensor-dw-c1-1",
-          "load-sensor-dw-c1-2"
+          "elevator-load-sensor-dw-c1-1",
+          "elevator-load-sensor-dw-c1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/load-sensor-dw-c1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5845,12 +5840,12 @@
         "description": "61U 61N 30 77U 77N",
         "code": "BS-SR0002",
         "url": "/sensors/levelling-sensor-61u-61n-30-77u-77n",
-        "image": "/img/products/sensors/levelling-sensor-61u-61n-30-77u-77n/levelling-sensor-61u-61n-30-77u-77n-1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-61u-61n-30-77u-77n/elevator-levelling-sensor-61u-61n-30-77u-77n-1.jpg",
         "alttext": "Elevator Levelling sensor: 61U 61N 30 77U 77N",
         "slider": [
-          "levelling-sensor-61u-61n-30-77u-77n-1",
-          "levelling-sensor-61u-61n-30-77u-77n-2",
-          "levelling-sensor-61u-61n-30-77u-77n-3"
+          "elevator-levelling-sensor-61u-61n-30-77u-77n-1",
+          "elevator-levelling-sensor-61u-61n-30-77u-77n-2",
+          "elevator-levelling-sensor-61u-61n-30-77u-77n-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-61u-61n-30-77u-77n",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5870,7 +5865,7 @@
         "description": "DS-25/KM86420G03",
         "code": "BS-SR0003",
         "url": "/sensors/u-type-levelling-sensor",
-        "image": "/img/products/sensors/u-type-levelling-sensor/u-type-levelling-sensor-1.jpg",
+        "image": "/img/products/sensors/u-type-levelling-sensor/elevator-u-type-levelling-sensor-1.jpg",
         "alttext": "Elevator U-Type levelling sensor: DS-25/KM86420G03",
         "canonical": "https://www.bestechparts.ae/products/sensors/u-type-levelling-sensor",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5892,11 +5887,11 @@
         "description": "GLS126NT2NCNO",
         "code": "BS-SR0004",
         "url": "/sensors/levelling-sensor-gls126nt2ncno",
-        "image": "/img/products/sensors/levelling-sensor-gls126nt2ncno/levelling-sensor-gls126nt2ncno-1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-gls126nt2ncno/elevator-levelling-sensor-gls126nt2ncno-1.jpg",
         "alttext": "Elevator Levelling sensor: GLS126NT2NCNO",
         "slider": [
-          "levelling-sensor-gls126nt2ncno-1",
-          "levelling-sensor-gls126nt2ncno-2"
+          "elevator-levelling-sensor-gls126nt2ncno-1",
+          "elevator-levelling-sensor-gls126nt2ncno-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-gls126nt2ncno",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5918,16 +5913,16 @@
         "description": "YG-28/25/2561/128",
         "code": "BS-SR0005",
         "url": "/sensors/levelling-sensor-yg-28-25-2561-128",
-        "image": "/img/products/sensors/levelling-sensor-yg-28-25-2561-128/levelling-sensor-yg-28-25-2561-128-1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-yg-28-25-2561-128/elevator-levelling-sensor-yg-28-25-2561-128-1.jpg",
         "alttext": "Elevator Levelling sensor: YG-28/25/2561/128",
         "slider": [
-          "levelling-sensor-yg-28-25-2561-128-1",
-          "levelling-sensor-yg-28-25-2561-128-2",
-          "levelling-sensor-yg-28-25-2561-128-3",
-          "levelling-sensor-yg-28-25-2561-128-4",
-          "levelling-sensor-yg-28-25-2561-128-5",
-          "levelling-sensor-yg-28-25-2561-128-6",
-          "levelling-sensor-yg-28-25-2561-128-7"
+          "elevator-levelling-sensor-yg-28-25-2561-128-1",
+          "elevator-levelling-sensor-yg-28-25-2561-128-2",
+          "elevator-levelling-sensor-yg-28-25-2561-128-3",
+          "elevator-levelling-sensor-yg-28-25-2561-128-4",
+          "elevator-levelling-sensor-yg-28-25-2561-128-5",
+          "elevator-levelling-sensor-yg-28-25-2561-128-6",
+          "elevator-levelling-sensor-yg-28-25-2561-128-7"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-yg-28-25-2561-128",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5948,7 +5943,7 @@
         "description": "ZPAD01-001",
         "code": "BS-SR0006",
         "url": "/sensors/levelling-sensor-zpad01-001",
-        "image": "/img/products/sensors/levelling-sensor-zpad01-001/levelling-sensor-zpad01-001-1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-zpad01-001/elevator-levelling-sensor-zpad01-001-1.jpg",
         "alttext": "Elevator Levelling sensor: ZPAD01-001",
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-zpad01-001",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5969,12 +5964,12 @@
         "description": "GLS TK",
         "code": "BS-SR0007",
         "url": "/sensors/levelling-sensor-gls-tk",
-        "image": "/img/products/sensors/levelling-sensor-gls-tk/levelling-sensor-gls-tk-1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-gls-tk/elevator-levelling-sensor-gls-tk-1.jpg",
         "alttext": "Elevator Levelling sensor: GLS TK",
         "slider": [
-          "levelling-sensor-gls-tk-1",
-          "levelling-sensor-gls-tk-2",
-          "levelling-sensor-gls-tk-3"
+          "elevator-levelling-sensor-gls-tk-1",
+          "elevator-levelling-sensor-gls-tk-2",
+          "elevator-levelling-sensor-gls-tk-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-gls-tk",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5996,11 +5991,11 @@
         "description": "MKF71ASAKX",
         "code": "BS-SR0008",
         "url": "/sensors/levelling-sensor-mkf71asakx",
-        "image": "/img/products/sensors/levelling-sensor-mkf71asakx/levelling-sensor-mkf71asakx-1.jpg",
+        "image": "/img/products/sensors/levelling-sensor-mkf71asakx/elevator-levelling-sensor-mkf71asakx-1.jpg",
         "alttext": "Elevator Levelling sensor: MKF71ASAKX",
         "slider": [
-          "levelling-sensor-mkf71asakx-1",
-          "levelling-sensor-mkf71asakx-2"
+          "elevator-levelling-sensor-mkf71asakx-1",
+          "elevator-levelling-sensor-mkf71asakx-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-mkf71asakx",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6021,11 +6016,11 @@
         "description": "Photocell (Center open)",
         "code": "BS-SR0009",
         "url": "/sensors/light-curtain-door-sensor-center-open",
-        "image": "/img/products/sensors/light-curtain-door-sensor-center-open/light-curtain-door-sensor-center-open-2.jpg",
+        "image": "/img/products/sensors/light-curtain-door-sensor-center-open/elevator-light-curtain-door-sensor-center-open-2.jpg",
         "alttext": "Elevator Light curtain - Door sensor (Center open)",
         "slider": [
-          "light-curtain-door-sensor-center-open-2",
-          "light-curtain-door-sensor-center-open-1"
+          "elevator-light-curtain-door-sensor-center-open-2",
+          "elevator-light-curtain-door-sensor-center-open-1"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-center-open",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6049,11 +6044,11 @@
         "description": "Photocell (side open)",
         "code": "BS-SR0010",
         "url": "/sensors/light-curtain-door-sensor-side-open",
-        "image": "/img/products/sensors/light-curtain-door-sensor-side-open/light-curtain-door-sensor-side-open-1.jpg",
+        "image": "/img/products/sensors/light-curtain-door-sensor-side-open/elevator-light-curtain-door-sensor-side-open-1.jpg",
         "alttext": "Elevator Light curtain - Door sensor (side open)",
         "slider": [
-          "light-curtain-door-sensor-side-open-1",
-          "light-curtain-door-sensor-side-open-2"
+          "elevator-light-curtain-door-sensor-side-open-1",
+          "elevator-light-curtain-door-sensor-side-open-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-side-open",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6072,210 +6067,363 @@
         "description": "Shenghao: SH-GS3A4",
         "code": "BS-SR0011",
         "url": "/sensors/levelling-sensor-u-type-sh-gs3a4",
-        "image": "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/levelling-sensor-u-type-sh-gs3a4-1.jpg",
-        "alttext": "Elevator Levelling sensor-U Type-SH-GS3A4",
+        "image": "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/elevator-levelling-sensor-u-type-sh-gs3a4-1.jpg",
+        "alttext": "Levelling sensor-U Type-SH-GS3A4 Elevator Spare Parts",
         "slider": [
-          "levelling-sensor-u-type-sh-gs3a4-1",
-          "levelling-sensor-u-type-sh-gs3a4-2"
+          "elevator-levelling-sensor-u-type-sh-gs3a4-1",
+          "elevator-levelling-sensor-u-type-sh-gs3a4-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/levelling-sensor-u-type-sh-gs3a4",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift U-Type Leveling Sensor for Elevator Stops | Bestech",
+        "meta_description": "Ensure accurate floor alignment with the Elevator Leveling Sensor U-Type SH-GS3A4. Reliable, durable and designed for lift safety and smooth operation.",
+        "keywords": "elevator levelling sensor, lift U type sensor, elevator leveling switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Levelling Sensor U Type SH-GS3A4 is a high-precision elevator leveling sensor designed for accurate floor positioning in lift systems. This U-type leveling switch ensures the elevator car stops precisely at each floor, delivering a smooth, comfortable ride and safe door operation. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Levelling Sensor U Type SH-GS3A4</li><li><strong>Product code:</strong> BS-SR0011</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> U-Type Leveling Sensor</li><li><strong>Application:</strong> Elevator car leveling, floor alignment, door zone detection</li></ul>"
+        ]
       },
       {
         "name": "Bestech brand: Levelling sensor-U BS-HPS-3",
         "description": "Bestech: BS-HPS-3",
         "code": "BS-SR0012",
         "url": "/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
-        "image": "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/bestech-brand-levelling-sensor-u-bs-hps-3-1.jpg",
-        "alttext": "Elevator Bestech brand: Levelling sensor-U BS-HPS-3",
+        "image": "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/elevator-bestech-brand-levelling-sensor-u-bs-hps-3-1.jpg",
+        "alttext": "Bestech brand: Levelling sensor-U BS-HPS-3 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "BS-HPS-3 Lift Leveling Sensor for Smooth Floor Alignment",
+        "meta_description": "Ensure precise elevator leveling with the Bestech Leveling Sensor. Durable U-type design, reliable performance and seamless integration for lift systems. ",
+        "keywords": "Bestech levelling sensor, lift leveling sensor, elevator U type sensor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Bestech Brand Leveling Sensor-U BS-HPS-3 is a high-precision elevator leveling sensor engineered for accurate floor positioning in lift systems. This U-type leveling switch ensures the elevator car stops exactly at each floor, enabling smooth door operation and a comfortable ride for passengers.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Bestech Brand: Leveling Sensor-U BS-HPS-3</li><li><strong>Product code:</strong> BS-SR0012</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> U-Type Leveling Sensor</li><li><strong>Application:</strong> Elevator car leveling, floor alignment, door zone detection</li></ul>"
+        ]
       },
       {
         "name": "Bestech brand Door sensor: 2M light curtain",
         "description": "Bestech: 2M light curtain",
         "code": "BS-SR0013",
         "url": "/sensors/bestech-brand-door-sensor-2m-light-curtain",
-        "image": "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/bestech-brand-door-sensor-2m-light-curtain-1.jpg",
-        "alttext": "Bestech brand Door sensor: 2M light curtain",
+        "image": "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/elevator-bestech-brand-door-sensor-2m-light-curtain-1.jpg",
+        "alttext": "Bestech brand Door sensor: 2M light curtain Elevator Spare Parts",
         "slider": [
-          "bestech-brand-door-sensor-2m-light-curtain-1",
-          "bestech-brand-door-sensor-2m-light-curtain-2"
+          "elevator-bestech-brand-door-sensor-2m-light-curtain-1",
+          "elevator-bestech-brand-door-sensor-2m-light-curtain-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-2m-light-curtain",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "2M Elevator Light Curtain Door Sensor | Bestech UAE",
+        "meta_description": "Ensure passenger safety with the Bestech Elevator Door Sensor 2M. Advanced light curtain technology for reliable lift safety and efficient door operation.",
+        "keywords": "elevator door sensor 2m, lift light curtain sensor, elevator safety sensor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Bestech Brand Door Sensor 2M Light Curtain is a premium elevator safety sensor designed to protect passengers during elevator door operation. This 2-meter light curtain photocell creates an invisible infrared safety barrier across the doorway, instantly detecting any obstruction and preventing door closure.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Bestech Brand Door Sensor: 2M Light Curtain</li><li><strong>Product code:</strong> BS-SR0013</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Light Curtain – Door Sensor (Photocell)</li><li><strong>Application:</strong> Elevator door safety, obstruction detection, passenger protection</li><li><strong>Detection Range:</strong> 2 Meters</li></ul>"
+        ]
       },
       {
         "name": "Bestech brand Door sensor: 1M light curtain",
         "description": "Bestech: 1M light curtain",
         "code": "BS-SR0014",
         "url": "/sensors/bestech-brand-door-sensor-1m-light-curtain",
-        "image": "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/bestech-brand-door-sensor-1m-light-curtain-1.jpg",
+        "image": "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/elevator-bestech-brand-door-sensor-1m-light-curtain-1.jpg",
         "alttext": "Bestech brand Door sensor: 1M light curtain Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-1m-light-curtain",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "1M Elevator Door Sensor Light Curtain for Lift Safety | Bestech",
+        "meta_description": "Ensure passenger safety with the Bestech Elevator Door Sensor 1M. Advanced light curtain technology for reliable lift door operation and enhanced safety.",
+        "keywords": "elevator door sensor 1m, lift door light curtain, elevator infrared sensor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Bestech Elevator Door Sensor 1M is a high-performance light curtain sensor designed to enhance passenger safety and ensure smooth elevator door operations. This advanced elevator safety sensor uses a grid of infrared beams to detect obstructions in the doorway, preventing accidental door closures. It is ideal for elevators in residential, commercial and industrial buildings.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Bestech Brand Door Sensor: 1M Light Curtain</li><li><strong>Product code:</strong> BS-SR0014</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Light Curtain – Door Sensor (Photocell)</li><li><strong>Application:</strong> Elevator door safety, obstruction detection, passenger protection</li></ul>"
+        ]
       },
       {
         "name": "Inductive Proximity sensor LJ12A3-4-Z/AX",
         "description": "LJ12A3-4-Z/AX - NO",
         "code": "BS-SR0015",
         "url": "/sensors/inductive-proximity-sensor-lj12a3-4-zax",
-        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/inductive-proximity-sensor-lj12a3-4-zax-1.jpg",
-        "alttext": "Elevator Inductive Proximity sensor LJ12A3-4-Z/AX",
+        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/elevator-inductive-proximity-sensor-lj12a3-4-zax-1.jpg",
+        "alttext": "Inductive Proximity sensor LJ12A3-4-Z/AX Elevator Spare Parts",
         "slider": [
-          "inductive-proximity-sensor-lj12a3-4-zax-1",
-          "inductive-proximity-sensor-lj12a3-4-zax-2"
+          "elevator-inductive-proximity-sensor-lj12a3-4-zax-1",
+          "elevator-inductive-proximity-sensor-lj12a3-4-zax-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zax",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Bestech LJ12A3-4-Z/AX | Inductive Sensor for Lift Systems",
+        "meta_description": "Get the elevator inductive proximity sensor LJ12A3-4-ZAX. A reliable lift proximity switch for accurate lift door and safety control.",
+        "keywords": "elevator inductive proximity sensor, lift proximity switch, LJ12A3-4-ZAX sensor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator inductive proximity sensor LJ12A3-4-Z/AX is a high-precision detection component built specifically for lift systems. As a dependable lift proximity switch, it helps control doors, gates and safety mechanisms with accuracy. This LJ12A3-4-ZAX sensor delivers consistent performance in detecting metallic objects without physical contact, making it ideal for modern elevator control setups.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Inductive proximity sensor LJ12A3-4-Z/AX</li><li><strong>Product code:</strong> BS-SR0015</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Inductive Proximity Sensor</li><li><strong>Application:</strong> Elevator positioning and lift control systems</li></ul>"
+        ]
       },
       {
         "name": "Inductive Proximity sensor LJ12A3-4-Z/BY",
         "description": "LJ12A3-4-Z/BY - NC",
         "code": "BS-SR0016",
         "url": "/sensors/inductive-proximity-sensor-lj12a3-4-zby",
-        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/inductive-proximity-sensor-lj12a3-4-zby-1.jpg",
-        "alttext": "Elevator Inductive Proximity sensor LJ12A3-4-Z/BY",
+        "image": "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/elevator-inductive-proximity-sensor-lj12a3-4-zby-1.jpg",
+        "alttext": "Inductive Proximity sensor LJ12A3-4-Z/BY Elevator Spare Parts",
         "slider": [
-          "inductive-proximity-sensor-lj12a3-4-zby-1",
-          "inductive-proximity-sensor-lj12a3-4-zby-2"
+          "elevator-inductive-proximity-sensor-lj12a3-4-zby-1",
+          "elevator-inductive-proximity-sensor-lj12a3-4-zby-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zby",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Inductive Proximity Sensor LJ12A3-4-Z/BY for Elevator | Lift Switch",
+        "meta_description": "Reliable inductive proximity sensor LJ12A3-4-ZBY for elevator systems. Ensures accurate metal detection for safe and stable lift sensing operation.",
+        "keywords": "inductive proximity sensor LJ12A3-4-ZBY, elevator proximity sensor, lift sensing switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The inductive proximity sensor LJ12A3-4-ZBY is a reliable detection component made for elevator systems. Serving as a trusted elevator proximity sensor, it plays a key role in controlling door operations and safety functions within lift setups. This lift sensing switch offers accurate metallic object detection without any physical contact, making it a solid choice for any elevator control panel.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Inductive proximity sensor LJ12A3-4-Z/BY</li><li><strong>Product code:</strong> BS-SR0016</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Inductive Proximity Sensor</li><li><strong>Application:</strong> Elevator positioning and lift control systems</li></ul>"
+        ]
       },
       {
         "name": "SLJ18A-Z5NK-DZ-T",
         "description": "Toshiba: SLJ18A-Z5NK-DZ-T",
         "code": "BS-SR0017",
         "url": "/sensors/slj18a-z5nk-dz-t",
-        "image": "/img/products/sensors/slj18a-z5nk-dz-t/slj18a-z5nk-dz-t-1.jpg",
-        "alttext": "Elevator SLJ18A-Z5NK-DZ-T",
+        "image": "/img/products/sensors/slj18a-z5nk-dz-t/elevator-slj18a-z5nk-dz-t-1.jpg",
+        "alttext": "SLJ18A-Z5NK-DZ-T Elevator Spare Parts",
         "slider": [
-          "slj18a-z5nk-dz-t-1",
-          "slj18a-z5nk-dz-t-2"
+          "elevator-slj18a-z5nk-dz-t-1",
+          "elevator-slj18a-z5nk-dz-t-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/slj18a-z5nk-dz-t",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "SLJ18A-Z5NK-DZ-T Elevator Sensor | Lift Inductive Switch",
+        "meta_description": "Reliable SLJ18A-Z5NK-DZ-T elevator sensor for lift systems. A lift proximity sensor and elevator inductive switch for precise lift detection.",
+        "keywords": "elevator sensor SLJ18A-Z5NK-DZ-T, lift proximity sensor, elevator inductive switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The SLJ18A-Z5NK-DZ-T elevator sensor is designed for precise detection in elevator systems. It ensures reliable object detection for critical elevator safety and automation systems. This elevator inductive switch delivers consistent performance in heavy-duty elevator sensor setups, making it ideal for modern lift control panels.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> SLJ18A-Z5NK-DZ-T Elevator Sensor</li><li><strong>Product code:</strong> BS-SR0017</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Inductive Proximity Sensor</li><li><strong>Application:</strong> Elevator positioning and lift control systems</li></ul>"
+        ]
       },
       {
         "name": "Bistable sensor - Italy",
         "description": "Bistable sensor - Italy",
         "code": "BS-SR0018",
         "url": "/sensors/bistable-sensor-italy",
-        "image": "/img/products/sensors/bistable-sensor-italy/bistable-sensor-italy-1.jpg",
-        "alttext": "elevator Bistable sensor - Italy",
+        "image": "/img/products/sensors/bistable-sensor-italy/elevator-bistable-sensor-italy-1.jpg",
+        "alttext": "Bistable sensor - Italy Elevator Spare Parts",
         "slider": [
-          "bistable-sensor-italy-1"
+          "elevator-bistable-sensor-italy-1"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/bistable-sensor-italy",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Italy Bistable Elevator Sensor | Magnetic Lift Switch",
+        "meta_description": "Reliable elevator bistable sensor from Italy. Magnetic lift switch ensures precise floor detection, positioning and stable elevator control.",
+        "keywords": "elevator bistable sensor, lift bistable switch, elevator magnetic sensor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The bistable sensor is a premium detection component imported from Italy, specifically engineered for advanced lift bistable switch applications in elevator systems. This elevator magnetic sensor delivers accurate bistable switching for safety and control panels. It ensures consistent operation in modern lift setups with zero power consumption in its stable state.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Bistable Sensor - Italy</li><li><strong>Product code:</strong> BS-SR0018</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Bistable Magnetic Proximity Sensor</li><li><strong>Application:</strong> Elevator doors, safety gates, position detection</li><li><strong>Origin:</strong> Italy</li></ul>"
+        ]
       },
       {
         "name": "SGD31-GG-TZ2B2P with plastic shell",
         "description": "Inovance: SGD31-GG-TZ2B2P",
         "code": "BS-SR0019",
         "url": "/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
-        "image": "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/sgd31-gg-tz2b2p-with-plastic-shell-1.jpg",
-        "alttext": "Elevator SGD31-GG-TZ2B2P with plastic shell ",
+        "image": "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/elevator-sgd31-gg-tz2b2p-with-plastic-shell-1.jpg",
+        "alttext": "SGD31-GG-TZ2B2P with plastic shell Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "SGD31-GG-TZ2B2P Elevator Sensor | Lift Safety Device",
+        "meta_description": "Get the elevator sensor SGD31-GG-TZ2B2P with plastic shell. A reliable lift safety sensor and elevator sensing device for precise detection.",
+        "keywords": "elevator sensor SGD31-GG-TZ2B2P, lift safety sensor, elevator sensing device",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator sensor SGD31-GG-TZ2B2P with plastic shell is a premium industrial sensing component for modern elevator systems. This elevator sensing device provides accurate detection for door control, safety interlocks and position verification in lift setups. The rugged plastic shell ensures durability against impact and environmental factors, making it an ideal choice for demanding elevator control panels.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> SGD31-GG-TZ2B2P Elevator Sensor</li><li><strong>Product code:</strong> BS-SR0019</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Sensor with Plastic Shell</li><li><strong>Application:</strong> Elevator safety, door control, position detection.</li></ul>"
+        ]
       },
       {
         "name": "Escalator Pressure sensor FP-A1PNP5M",
-        "description": " OTIS GAA177GZ1 FP-A1 PNP 5M",
+        "description": "OTIS GAA177GZ1 FP-A1 PNP 5M",
         "code": "BS-SR0020",
         "url": "/sensors/escalator-pressure-sensor-fp-a1pnp5m",
-        "image": "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/escalator-pressure-sensor-fp-a1pnp5m-1.jpg",
-        "alttext": "Elevator Escalator Pressure sensor FP-A1PNP5M",
+        "image": "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/elevator-escalator-pressure-sensor-fp-a1pnp5m-1.jpg",
+        "alttext": "Escalator Pressure sensor FP-A1PNP5M Elevator Spare Parts",
         "slider": [
-          "escalator-pressure-sensor-fp-a1pnp5m-1",
-          "escalator-pressure-sensor-fp-a1pnp5m-2"
+          "elevator-escalator-pressure-sensor-fp-a1pnp5m-1",
+          "elevator-escalator-pressure-sensor-fp-a1pnp5m-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/escalator-pressure-sensor-fp-a1pnp5m",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "FP-A1PNP5M Escalator Pressure Sensor | Lift Safety Switch",
+        "meta_description": "Shop the FP-A1PNP5M escalator pressure sensor from OTIS. A reliable lift pressure sensing switch for escalator safety and overload protection.",
+        "keywords": "escalator pressure sensor, lift pressure sensing switch, FP-A1PNP5M sensor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The FP-A1PNP5M escalator pressure sensor is designed for accurate pressure-based detection in escalator and lift systems. The lift pressure sensing switch helps monitor operational safety conditions and ensures smooth system response during movement. This escalator pressure sensor is widely used in escalator safety and control applications.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Escalator pressure sensor FP-A1PNP5M</li><li><strong>Product code:</strong> BS-SR0020</li><li><strong>Category:</strong> Sensors</li><li><strong>Sensing Type:</strong> Pressure</li><li><strong>Application:</strong> Escalator and lift safety control systems</li></ul>"
+        ]
       },
       {
         "name": "Sensor: E3JK-R4M1",
         "description": "Sensor: E3JK-R4M1",
         "code": "BS-SR0021",
         "url": "/sensors/sensor-e3jk-r4m1",
-        "image": "/img/products/sensors/sensor-e3jk-r4m1/sensor-e3jk-r4m1-1.jpg",
-        "alttext": "Elevator Sensor: E3JK-R4M1",
+        "image": "/img/products/sensors/sensor-e3jk-r4m1/elevator-sensor-e3jk-r4m1-1.jpg",
+        "alttext": "Elevator Sensor: E3JK-R4M1 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-e3jk-r4m1",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "E3JK-R4M1 Elevator Sensor | Lift Photoelectric Switch",
+        "meta_description": "Shop the E3JK-R4M1 elevator sensor. A reliable lift photoelectric sensor and sensing switch for safe elevator door and position detection",
+        "keywords": "elevator sensor E3JK-R4M1, lift photoelectric sensor, elevator sensing switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The E3JK-R4M1 elevator sensor is a high-performance lift photoelectric sensor designed for reliable detection in elevator systems. It uses retro-reflective photoelectric technology to detect objects and support accurate control of elevator movement and positioning.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Sensor: E3JK-R4M1</li><li><strong>Product code:</strong>  BS-SR0021</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Photoelectric</li><li><strong>Application:</strong>  Elevator positioning, door safety and lift control systems</li></ul>"
+        ]
       },
       {
         "name": "Sensor: BUP-30",
         "description": "Sensor: BUP-30",
         "code": "BS-SR0022",
         "url": "/sensors/sensor-bup-30",
-        "image": "/img/products/sensors/sensor-bup-30/sensor-bup-30-1.jpg",
-        "alttext": "Elevator Sensor: BUP-30",
+        "image": "/img/products/sensors/sensor-bup-30/elevator-sensor-bup-30-1.jpg",
+        "alttext": "Elevator Sensor: BUP-30 Elevator Spare Parts",
         "slider": [
-          "sensor-bup-30-1",
-          "sensor-bup-30-2",
-          "sensor-bup-30-3"
+          "elevator-sensor-bup-30-1",
+          "elevator-sensor-bup-30-2",
+          "elevator-sensor-bup-30-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-bup-30",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "BUP-30 Elevator Sensor | Lift Proximity Detection Switch",
+        "meta_description": "Reliable elevator sensor BUP-30 for lift systems. Lift Proximity detection switch ensures accurate positioning and stable elevator sensing performance.",
+        "keywords": "elevator sensor BUP-30, lift proximity sensor, elevator detection switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator sensor BUP-30 is a U-type photoelectric device designed for precise detection in elevator systems.This lift proximity sensor accurately detects object presence and position to support smooth elevator movement and leveling.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Sensor: BUP-30</li><li><strong>Product code:</strong> BS-SR0022</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> U-type photoelectric sensor</li><li><strong>Application:</strong> Elevator positioning, obstacle detection and lift control systems </li></ul>"
+        ]
       },
       {
         "name": "Sensor: D2VW-01-2MS",
         "description": "Sensor: D2VW-01-2MS",
         "code": "BS-SR0023",
         "url": "/sensors/sensor-d2vw-01-2ms",
-        "image": "/img/products/sensors/sensor-d2vw-01-2ms/sensor-d2vw-01-2ms-1.jpg",
-        "alttext": "Elevator Sensor: D2VW-01-2MS",
+        "image": "/img/products/sensors/sensor-d2vw-01-2ms/elevator-sensor-d2vw-01-2ms-1.jpg",
+        "alttext": "Elevator Sensor: D2VW-01-2MS Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-d2vw-01-2ms",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "D2VW-01-2MS Elevator Limit Switch | Lift Micro Switch",
+        "meta_description": "Reliable D2VW-01-2MS elevator sensor for lift systems. Durable micro limit switch ensures accurate detection and safe elevator control operation.",
+        "keywords": "elevator sensor D2VW-01-2MS, lift micro switch sensor, elevator limit switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The D2VW-01-2MS elevator sensor is a compact and reliable lift micro switch sensor designed for precise mechanical position detection in elevator systems. The elevator limit switch provides reliable signal feedback for door interlocking, and machine room controls. This switch is widely used in elevator control systems where reliable on/off switching is required for safety and operational accuracy.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Sensor: D2VW-01-2MS</li><li><strong>Product code:</strong> BS-SR0023</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Micro limit switch</li><li><strong>Application:</strong> Elevator positioning and safety control systems</li></ul>"
+        ]
       },
       {
         "name": "Sensor: PSN17-5DN",
         "description": "Sensor: PSN17-5DN",
         "code": "BS-SR0024",
         "url": "/sensors/sensor-psn17-5dn",
-        "image": "/img/products/sensors/sensor-psn17-5dn/sensor-psn17-5dn-1.jpg",
-        "alttext": "Elevator Sensor: PSN17-5DN",
+        "image": "/img/products/sensors/sensor-psn17-5dn/elevator-sensor-psn17-5dn-1.jpg",
+        "alttext": "Elevator Sensor: PSN17-5DN Elevator Spare Parts",
         "slider": [
-          "sensor-psn17-5dn-1",
-          "sensor-psn17-5dn-2"
+          "elevator-sensor-psn17-5dn-1",
+          "elevator-sensor-psn17-5dn-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-psn17-5dn",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "PSN17-5DN Elevator Sensor | Lift Inductive Proximity Switch",
+        "meta_description": "Buy PSN17-5DN elevator sensor. A reliable lift inductive sensor and proximity switch for precise elevator door and position detection.",
+        "keywords": "elevator sensor PSN17-5DN, lift inductive sensor, elevator proximity switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator sensor PSN17-5DN is a robust lift inductive sensor designed for high-precision object detection within elevator environments. This elevator proximity switch features advanced inductive sensing technology to monitor door operations, car position and mechanical alignment. The lift inductive sensor ensures seamless vertical transportation by providing accurate, non-contact detection for safety interlocks and automation controls.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Sensor: PSN17-5DN</li><li><strong>Product code:</strong> BS-SR0024</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Inductive proximity sensor</li><li><strong>Application:</strong> Elevator positioning and lift control systems</li></ul>"
+        ]
       },
       {
         "name": "Sensor BEL10M - TFR",
         "description": "Autonics - BEL10M-TFR",
         "code": "BS-SR0025",
         "url": "/sensors/sensor-bel10m-tfr",
-        "image": "/img/products/sensors/sensor-bel10m-tfr/sensor-bel10m-tfr-1.jpg",
-        "alttext": "Elevator Sensor BEL10M - TFR",
+        "image": "/img/products/sensors/sensor-bel10m-tfr/elevator-sensor-bel10m-tfr-1.jpg",
+        "alttext": "Elevator Sensor BEL10M - TFR Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-bel10m-tfr",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "BEL10M-TFR Elevator Sensor | Lift Magnetic Sensing Device ",
+        "meta_description": "Reliable BEL10M-TFR elevator sensor for lift systems. Magnetic sensing device ensures accurate detection and stable elevator control performance.",
+        "keywords": "elevator sensor BEL10M-TFR, lift magnetic sensor, elevator sensing component",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BEL10M-TFR elevator sensor is designed for precise and stable detection in elevator systems. The lift magnetic sensor supports accurate position sensing and smooth control of elevator movement. This elevator sensing component is widely used in lift automation and safety systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Sensor BEL10M-TFR</li><li><strong>Product code:</strong> BS-SR0025</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Elevator sensor</li><li><strong>Application:</strong> Elevator positioning and lift control systems</li></ul>"
+        ]
       },
       {
         "name": "Sensor: DAA629Q1",
         "description": "OTIS DAA629Q1 JCA00629AAB001",
         "code": "BS-SR0026",
         "url": "/sensors/sensor-daa629q1",
-        "image": "/img/products/sensors/sensor-daa629q1/sensor-daa629q1-1.jpg",
-        "alttext": "Elevator Sensor: DAA629Q1",
+        "image": "/img/products/sensors/sensor-daa629q1/elevator-sensor-daa629q1-1.jpg",
+        "alttext": "Elevator Sensor: DAA629Q1 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/sensors/sensor-daa629q1",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "DAA629Q1 Elevator Sensor | Lift Door Safety Switch",
+        "meta_description": "Shop DAA629Q1 elevator sensor. A vital lift door sensor and safety device for secure elevator operation and door control.",
+        "keywords": "elevator sensor DAA629Q1, lift door sensor, elevator safety sensing device",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The DAA629Q1 elevator sensor is a precision lift door sensor designed for accurate detection and safe elevator door operation. This elevator safety sensing device plays a key role in preventing unsafe door movements by providing reliable feedback to the control system. It is commonly used in modern elevator installations where consistent door monitoring and safety assurance are required.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Sensor: DAA629Q1 </li><li><strong>Product code:</strong> BS-SR0026</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Elevator photoelectric / door sensor</li><li><strong>Application:</strong> Elevator door safety and control systems</li></ul>"
+        ]
       },
       {
         "name": "61U 61N 30 monostable - NC Switch",
         "description": "61U 61N 30 monostable - NC Switch",
         "code": "BS-SR0027",
         "url": "/sensors/61u-61n-30-monostable-nc-switch",
-        "image": "/img/products/sensors/61u-61n-30-monostable-nc-switch/61u-61n-30-monostable-nc-switch-1.jpg",
-        "alttext": "Elevator 61U 61N 30 monostable - NC Switch",
+        "image": "/img/products/sensors/61u-61n-30-monostable-nc-switch/elevator-61u-61n-30-monostable-nc-switch-1.jpg",
+        "alttext": "Elevator 61U 61N 30 monostable - NC Switch Elevator Spare Parts",
         "slider": [
-          "61u-61n-30-monostable-nc-switch-1",
-          "61u-61n-30-monostable-nc-switch-2"
+          "elevator-61u-61n-30-monostable-nc-switch-1",
+          "elevator-61u-61n-30-monostable-nc-switch-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/sensors/61u-61n-30-monostable-nc-switch",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "61U-61N-30 Monostable NC Switch | Elevator Control Switch",
+        "meta_description": "Reliable 61U-61N-30 monostable NC switch for elevator systems. Ensures accurate control and safe operation.",
+        "keywords": "elevator monostable NC switch, lift safety switch, elevator control switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 61U-61N-30 monostable NC switch is a reliable elevator control switch designed for precise position detection and safe operation in elevator systems. It works as a dependable lift safety switch, providing accurate signal output for elevator leveling and control functions.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</strong> 61U 61N 30 monostable - NC Switch </li><li><strong>Product code:</strong> BS-SR0027</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Monostable NC switch</li><li><strong>Application:</strong> Elevator positioning and control systems</li></ul>"
+        ]
       }
     ]
   },
@@ -6751,7 +6899,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-140-x-10-16",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Guide Shoe Insert 140 X 10/16 | Spare Parts UAE",
+        "meta_title": "Elevator Guide Shoe Insert 140 X 10/16 | Spare Parts UAE",
         "meta_description": "Find the elevator guide shoe insert 140 10 16 for your lift maintenance, designed for compatible sliding guide shoe assemblies.",
         "keywords": "elevator guide shoe insert 140 x 10 16",
         "paragraph_text": [
@@ -7968,7 +8116,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-7kw-ard-4007-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Lift Automatic Rescue Device 7KW | Bestech",
+        "meta_title": "Lift Automatic Rescue Device 7KW | Bestech",
         "meta_description": "Prevent passenger trapping with the elevator ARD 7KW. This 3-phase rescue device provides automatic movement support during power interruptions.",
         "keywords": "elevator ARD 7KW, lift automatic rescue device, elevator ARD system",
         "paragraph_text": [
@@ -7993,7 +8141,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-11kw-ard-4011-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator ARD 11KW | 3-Phase Lift Rescue Device System",
+        "meta_title": "Elevator ARD 11KW | 3-Phase Lift Rescue Device System",
         "meta_description": "Buy the elevator ARD 11KW to ensure a secure lift rescue path through a high-capacity 3-phase device designed for stable emergency car levelling during outages.",
         "keywords": "elevator ARD 11KW, lift rescue device system, elevator emergency ARD",
         "paragraph_text": [
@@ -8573,7 +8721,7 @@
         "alttext": "Step LOP set: UP + Lock Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Lift Landing Operating Panel with Lock | Bestech",
+        "meta_title": "Lift Landing Operating Panel with Lock | Bestech",
         "meta_description": "Shop high-durability replacement panels online. This step-profile lift landing operating panel upgrades freight configurations with stable lock controls.",
         "keywords": "elevator step LOP set up lock, lift landing operating panel, elevator LOP with lock",
         "paragraph_text": [
@@ -8593,7 +8741,7 @@
         "alttext": "Step LOP set: UP + Down Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator LOP set - Up and Down | Lift Signalisation Part ",
+        "meta_title": "Elevator LOP set - Up and Down | Lift Signalisation Part ",
         "meta_description": "Buy the step LOP set with dual directional call buttons. This robust elevator LOP up down ensures responsive hall call registration for modern lifts.",
         "keywords": "elevator LOP set up down, lift landing panel, elevator call button panel",
         "paragraph_text": [
@@ -8613,7 +8761,7 @@
         "alttext": "Step LOP set: Down Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Lift Landing Operating Panel Down | Single Call Switch ",
+        "meta_title": "Lift Landing Operating Panel Down | Single Call Switch ",
         "meta_description": "Buy the step LOP set with a single downward call button. This robust elevator LOP down ensures responsive terminal floor call registration for lifts.",
         "keywords": "elevator step LOP set down, lift landing operating panel, elevator down button panel",
         "paragraph_text": [
@@ -8636,7 +8784,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/duplex-set-up-down",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Duplex Up Down Set | Lift Signalisation Unit UAE",
+        "meta_title": "Elevator Duplex Up Down Set | Lift Signalisation Unit UAE",
         "meta_description": "Optimise shared corridor multi-car routing with the duplex LOP set. This group-control elevator landing panel set manages dual-direction corridor calls.",
         "keywords": "elevator duplex LOP set, lift duplex operating panel, elevator landing panel set",
         "paragraph_text": [
@@ -8655,7 +8803,7 @@
         "alttext": "COP Full set - G+1 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/cop-full-set-g-1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator COP Full Set G1 | Lift Cabin Panel",
+        "meta_title": "Elevator COP Full Set G1 | Lift Cabin Panel",
         "meta_description": "Buy the elevator COP full set G+1 to streamline your building controls. This pre-assembled lift cabin operating panel ensures clean emergency signal routing.",
         "keywords": "elevator COP full set G1, lift cabin operating panel, elevator COP system",
         "paragraph_text": [
@@ -8674,7 +8822,7 @@
         "alttext": "COP Full set - G+3 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/cop-full-set-g-3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator COP Full Set G3 | Lift Cabin Panel",
+        "meta_title": "Elevator COP Full Set G3 | Lift Cabin Panel",
         "meta_description": "Buy the elevator COP full set G3 to simplify your building controls. This integrated panel assembly connects directly to standard logic cabinets to ensure instant call registration.",
         "keywords": "elevator COP full set G3, lift cabin panel set, elevator control operating panel",
         "paragraph_text": [
@@ -8693,7 +8841,7 @@
         "alttext": "Mikrolift - SS LOP full set Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/mikrolift-ss-lop-full-set",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Mikrolift SS LOP Full Set | Lift Landing Panel Set ",
+        "meta_title": "Mikrolift SS LOP Full Set | Lift Landing Panel Set ",
         "meta_description": "Buy the Mikrolift SS LOP full set to modernise lobby call points. This pre-wired lift landing panel set ensures responsive communication for every floor. ",
         "keywords": "Mikrolift SS LOP full set, elevator stainless steel LOP, lift landing panel set",
         "paragraph_text": [
@@ -8716,7 +8864,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/f-k12-access-control-system",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Buy F-K12 Access Control System | Lift Controller",
+        "meta_title": "Buy F-K12 Access Control System | Lift Controller",
         "meta_description": "Buy the F-K12 access control system to secure your lift cabin. This elevator RFID access system restricts floor access to authorised personnel only.",
         "keywords": "elevator access control system, lift access controller, elevator RFID access system",
         "paragraph_text": [
@@ -8735,7 +8883,7 @@
         "alttext": "BCGCM001 SS Hairline - COP G+2 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Buy SS Hairline Elevator COP G+2 | Three-Stop Lift ",
+        "meta_title": "Buy SS Hairline Elevator COP G+2 | Three-Stop Lift ",
         "meta_description": "Optimise cabin interiors with the BCGCM001 hairline stainless steel elevator COP. This robust unit delivers clear floor tracking across three structural stops.",
         "keywords": "SS hairline elevator COP G2, lift COP panel stainless steel, elevator cabin panel",
         "paragraph_text": [
@@ -8811,7 +8959,7 @@
         "alttext": "BCGBF001 SS Hairline - COP G+3 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Lift COP G3 SS hairline elevator panel | UAE",
+        "meta_title": "Lift COP G3 SS hairline elevator panel | UAE",
         "meta_description": "Buy the elevator COP G3 stainless steel panel to upgrade your lift system. This pre-wired four-stop assembly ensures responsive floor call registration.",
         "keywords": "elevator COP G3 stainless steel, lift cabin panel hairline finish, elevator control panel",
         "paragraph_text": [
@@ -8820,7 +8968,6 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> BCGBF001 SS Hairline</li><li><strong>Product code:</strong> BS-SG0019</li><li><strong>Category:</strong> Signalization</li><li><strong>Travel Configuration:</strong> Ground + 3 Floors (Four-stop lift layout)</li><li><strong>Panel Type:</strong> COP (Car Operating Panel Assembly)</li></ul>"
         ]
-
       },
       {
         "name": "BXGAS004 SS Hairline - LOP",
@@ -8831,7 +8978,7 @@
         "alttext": "BXGAS004 SS Hairline - LOP Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgas004-ss-hairline-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator SS Hairline LOP | Lift Hall Call Panel UAE",
+        "meta_title": "Elevator SS Hairline LOP | Lift Hall Call Panel UAE",
         "meta_description": "Buy the premium BXGAS004 elevator SS hairline LOP to easily modernise scratched corridor walls with an all-in-one brushed stainless steel lift interface.",
         "keywords": "elevator SS hairline LOP, lift landing panel stainless steel, elevator operating panel",
         "paragraph_text": [
@@ -8850,7 +8997,7 @@
         "alttext": "BCG401 black glass - COP G+2 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g2",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Black Glass Elevator COP G2 | Lift Cabin Panel UAE",
+        "meta_title": "Black Glass Elevator COP G2 | Lift Cabin Panel UAE",
         "meta_description": "Buy this premium black glass elevator COP G2 to upgrade your lift cabin panel fixtures with a sleek, pre-wired three-stop control interface layout.",
         "keywords": "black glass elevator COP G2, lift black glass panel, elevator cabin operating panel",
         "paragraph_text": [
@@ -8869,7 +9016,7 @@
         "alttext": "BCG401 black glass - COP G+4 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g4",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Black Glass COP G4 | Lift Panel UAE",
+        "meta_title": "Elevator Black Glass COP G4 | Lift Panel UAE",
         "meta_description": "Optimise cabin interiors with the elevator black glass COP G4, a smudge-resistant five-stop layout engineered to provide a contemporary lift panel UAE style.",
         "keywords": "elevator black glass COP G4, lift COP glass panel, elevator control operating panel",
         "paragraph_text": [
@@ -8888,7 +9035,7 @@
         "alttext": "BXGDM007 black glass - LOP Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-black-glass-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Buy BXGDM007 Black Glass Elevator LOP | Lift Hall Panel ",
+        "meta_title": "Buy BXGDM007 Black Glass Elevator LOP | Lift Hall Panel ",
         "meta_description": "Designed with pre-wired logic loops, the black glass elevator LOP panel connects directly to standard logic cabinets to secure stable hall signal routing.",
         "keywords": "black glass elevator LOP, lift landing panel glass finish, elevator LOP panel",
         "paragraph_text": [
@@ -8926,7 +9073,7 @@
         "alttext": "BCG401 white glass - COP G+3 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g3",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Cabin Panel System | COP G3 White Finish",
+        "meta_title": "Elevator Cabin Panel System | COP G3 White Finish",
         "meta_description": "Reduce visible scuffs and panel discolouration in busy low-rise properties by installing this robust four-stop elevator white glass COP G3 faceplate frame.",
         "keywords": "elevator white glass COP G3, lift operating glass panel, elevator cabin panel system",
         "paragraph_text": [
@@ -8945,7 +9092,7 @@
         "alttext": "BXGDM007 white glass - LOP Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-white-glass-lop",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Lift Landing Operating Panel | White Glass Finish",
+        "meta_title": "Lift Landing Operating Panel | White Glass Finish",
         "meta_description": "This premium lift landing operating panel features a streamlined plug-in wiring layout to simplify complex corridor hall call station replacement work.",
         "keywords": "white glass elevator LOP, lift landing operating panel, elevator white glass panel",
         "paragraph_text": [
@@ -8968,7 +9115,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/full-lop-set-hpi-l0430vri-1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Full LOP Set | Lift Spare Parts",
+        "meta_title": "Elevator Full LOP Set | Lift Spare Parts",
         "meta_description": "Get the HPI-L0430VRI-1 elevator full LOP set for your lift. High-quality signalization spare parts available now in Bestech elevator spare parts, UAE.",
         "keywords": "elevator full LOP set, lift landing operating panel set, elevator LOP system",
         "paragraph_text": [
@@ -8991,7 +9138,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/white-lop-full-set",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "White Elevator LOP Full Set | Lift Panel",
+        "meta_title": "White Elevator LOP Full Set | Lift Panel",
         "meta_description": "Shop the white elevator LOP full set for every lift floor. A complete landing panel set with call buttons and HPI display for smooth building operation.",
         "keywords": "white elevator LOP full set, lift landing panel white, elevator operating panel set",
         "paragraph_text": [
@@ -9010,7 +9157,7 @@
         "alttext": "White LOP Full set - Without display Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/white-lop-full-set-without-display",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "White Elevator LOP Without Display | Lift Buttons",
+        "meta_title": "White Elevator LOP Without Display | Lift Buttons",
         "meta_description": "Buy this complete button-only white elevator LOP without display set to refresh lobby fixtures with highly responsive, low-maintenance hall call keys.",
         "keywords": "white elevator LOP without display, lift landing operating panel, elevator LOP set",
         "paragraph_text": [
@@ -9910,7 +10057,6 @@
         "url": "/electrical",
         "image": "/img/product-default-img.jpg",
         "alttext": "Elevator Electrical Parts"
-        
       },
       {
         "name": "Mechanical",

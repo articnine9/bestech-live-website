@@ -4798,8 +4798,8 @@ export const products = [
         description: "DW-C1",
         code: "BS-SR0001",
         url: "/sensors/load-sensor-dw-c1",
-        image: "/img/products/sensors/load-sensor-dw-c1/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/sensors/load-sensor-dw-c1/elevator-load-sensor-dw-c1-1.jpg",
+        slider: ["elevator-load-sensor-dw-c1-1", "elevator-load-sensor-dw-c1-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/load-sensor-dw-c1",
         robots:
@@ -4810,8 +4810,8 @@ export const products = [
         description: "61U 61N 30 77U 77N",
         code: "BS-SR0002",
         url: "/sensors/leveling-sensor-61u-61n-30-77u-77n",
-        image: "/img/products/sensors/leveling-sensor-61u-61n-30-77u-77n/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/sensors/leveling-sensor-61u-61n-30-77u-77n/elevator-levelling-sensor-61u-61n-30-77u-77n-1.jpg",
+        slider: ["elevator-levelling-sensor-61u-61n-30-77u-77n-1", "elevator-levelling-sensor-61u-61n-30-77u-77n-2", "elevator-levelling-sensor-61u-61n-30-77u-77n-3"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/leveling-sensor-61u-61n-30-77u-77n",
         robots:
@@ -4822,7 +4822,7 @@ export const products = [
         description: "DS-25/KM86420G03",
         code: "BS-SR0003",
         url: "/sensors/u-type-leveling-sensor",
-        image: "/img/products/sensors/u-type-leveling-sensor/1.jpg",
+        image: "/img/products/sensors/u-type-leveling-sensor/elevator-u-type-levelling-sensor-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/sensors/u-type-leveling-sensor",
         robots:
@@ -4834,8 +4834,8 @@ export const products = [
         description: "GLS126NT2NCNO",
         code: "BS-SR0004",
         url: "/sensors/leveling-sensor-gls126nt2ncno",
-        image: "/img/products/sensors/leveling-sensor-gls126nt2ncno/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/sensors/leveling-sensor-gls126nt2ncno/elevator-levelling-sensor-gls126nt2ncno-1.jpg",
+        slider: ["elevator-levelling-sensor-gls126nt2ncno-1", "elevator-levelling-sensor-gls126nt2ncno-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/leveling-sensor-gls126nt2ncno",
         robots:
@@ -4846,8 +4846,8 @@ export const products = [
         description: "YG-28/25/2561/128",
         code: "BS-SR0005",
         url: "/sensors/leveling-sensor-yg-28-25-2561-128",
-        image: "/img/products/sensors/leveling-sensor-yg-28-25-2561-128/1.jpg",
-        slider: ["1", "2", "3", "4", "5", "6", "7"],
+        image: "/img/products/sensors/leveling-sensor-yg-28-25-2561-128/elevator-levelling-sensor-yg-28-25-2561-128-1.jpg",
+        slider: ["elevator-levelling-sensor-yg-28-25-2561-128-1", "elevator-levelling-sensor-yg-28-25-2561-128-2", "elevator-levelling-sensor-yg-28-25-2561-128-3", "elevator-levelling-sensor-yg-28-25-2561-128-4", "elevator-levelling-sensor-yg-28-25-2561-128-5", "elevator-levelling-sensor-yg-28-25-2561-128-6", "elevator-levelling-sensor-yg-28-25-2561-128-7"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/leveling-sensor-yg-28-25-2561-128",
         robots:
@@ -4858,7 +4858,7 @@ export const products = [
         description: "ZPAD01-001",
         code: "BS-SR0006",
         url: "/sensors/leveling-sensor-zpad01-001",
-        image: "/img/products/sensors/leveling-sensor-zpad01-001/1.jpg",
+        image: "/img/products/sensors/leveling-sensor-zpad01-001/elevator-levelling-sensor-zpad01-001-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/sensors/leveling-sensor-zpad01-001",
         robots:
@@ -4869,8 +4869,8 @@ export const products = [
         description: "GLS TK",
         code: "BS-SR0007",
         url: "/sensors/leveling-sensor-gls-tk",
-        image: "/img/products/sensors/leveling-sensor-gls-tk/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/sensors/leveling-sensor-gls-tk/elevator-levelling-sensor-gls-tk-1.jpg",
+        slider: ["elevator-levelling-sensor-gls-tk-1", "elevator-levelling-sensor-gls-tk-2", "elevator-levelling-sensor-gls-tk-3"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/leveling-sensor-gls-tk",
         robots:
@@ -4881,8 +4881,8 @@ export const products = [
         description: "MKF71ASAKX",
         code: "BS-SR0008",
         url: "/sensors/leveling-sensor-mkf71asakx",
-        image: "/img/products/sensors/leveling-sensor-mkf71asakx/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/sensors/leveling-sensor-mkf71asakx/elevator-levelling-sensor-mkf71asakx-1.jpg",
+        slider: ["elevator-levelling-sensor-mkf71asakx-1", "elevator-levelling-sensor-mkf71asakx-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/leveling-sensor-mkf71asakx",
         robots:
@@ -4894,8 +4894,8 @@ export const products = [
         code: "BS-SR0009",
         url: "/sensors/light-curtain-door-sensor-center-open",
         image:
-          "/img/products/sensors/light-curtain-door-sensor-center-open/2.jpg",
-        slider: ["2", "1"],
+          "/img/products/sensors/light-curtain-door-sensor-center-open/elevator-light-curtain-door-sensor-center-open-2.jpg",
+        slider: ["elevator-light-curtain-door-sensor-center-open-2", "elevator-light-curtain-door-sensor-center-open-1"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-center-open",
         robots:
@@ -4907,8 +4907,8 @@ export const products = [
         code: "BS-SR0010",
         url: "/sensors/light-curtain-door-sensor-side-open",
         image:
-          "/img/products/sensors/light-curtain-door-sensor-side-open/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/sensors/light-curtain-door-sensor-side-open/elevator-light-curtain-door-sensor-side-open-1.jpg",
+        slider: ["elevator-light-curtain-door-sensor-side-open-1", "elevator-light-curtain-door-sensor-side-open-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-side-open",
         robots:
@@ -4919,8 +4919,8 @@ export const products = [
         description: "Shenghao: SH-GS3A4",
         code: "BS-SR0011",
         url: "/sensors/levelling-sensor-u-type-sh-gs3a4",
-        image: "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/elevator-levelling-sensor-u-type-sh-gs3a4-1.jpg",
+        slider: ["elevator-levelling-sensor-u-type-sh-gs3a4-1", "elevator-levelling-sensor-u-type-sh-gs3a4-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/levelling-sensor-u-type-sh-gs3a4",
         robots:
@@ -4932,7 +4932,7 @@ export const products = [
         code: "BS-SR0012",
         url: "/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
         image:
-          "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/1.jpg",
+          "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/elevator-bestech-brand-levelling-sensor-u-bs-hps-3-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
         robots:
@@ -4944,8 +4944,8 @@ export const products = [
         code: "BS-SR0013",
         url: "/sensors/bestech-brand-door-sensor-2m-light-curtain",
         image:
-          "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/elevator-bestech-brand-door-sensor-2m-light-curtain-1.jpg",
+        slider: ["elevator-bestech-brand-door-sensor-2m-light-curtain-1", "elevator-bestech-brand-door-sensor-2m-light-curtain-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-2m-light-curtain",
         robots:
@@ -4957,7 +4957,7 @@ export const products = [
         code: "BS-SR0014",
         url: "/sensors/bestech-brand-door-sensor-1m-light-curtain",
         image:
-          "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/1.jpg",
+          "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/elevator-bestech-brand-door-sensor-1m-light-curtain-1.jpg",
 
         canonical:
           "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-1m-light-curtain",
@@ -4970,8 +4970,8 @@ export const products = [
         code: "BS-SR0015",
         url: "/sensors/inductive-proximity-sensor-lj12a3-4-zax",
         image:
-          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/elevator-inductive-proximity-sensor-lj12a3-4-zax-1.jpg",
+        slider: ["elevator-inductive-proximity-sensor-lj12a3-4-zax-1", "elevator-inductive-proximity-sensor-lj12a3-4-zax-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zax",
         robots:
@@ -4983,8 +4983,8 @@ export const products = [
         code: "BS-SR0016",
         url: "/sensors/inductive-proximity-sensor-lj12a3-4-zby",
         image:
-          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/elevator-inductive-proximity-sensor-lj12a3-4-zby-1.jpg",
+        slider: ["elevator-inductive-proximity-sensor-lj12a3-4-zby-1", "elevator-inductive-proximity-sensor-lj12a3-4-zby-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zby",
         robots:
@@ -4995,8 +4995,8 @@ export const products = [
         description: "Toshiba: SLJ18A-Z5NK-DZ-T",
         code: "BS-SR0017",
         url: "/sensors/slj18a-z5nk-dz-t",
-        image: "/img/products/sensors/slj18a-z5nk-dz-t/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/sensors/slj18a-z5nk-dz-t/elevator-slj18a-z5nk-dz-t-1.jpg",
+        slider: ["elevator-slj18a-z5nk-dz-t-1", "elevator-slj18a-z5nk-dz-t-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/slj18a-z5nk-dz-t",
         robots:
@@ -5007,8 +5007,8 @@ export const products = [
         description: "Bistable sensor - Italy",
         code: "BS-SR0018",
         url: "/sensors/bistable-sensor-italy",
-        image: "/img/products/sensors/bistable-sensor-italy/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/sensors/bistable-sensor-italy/elevator-bistable-sensor-italy-1.jpg",
+        slider: ["elevator-bistable-sensor-italy-1", "elevator-bistable-sensor-italy-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/bistable-sensor-italy",
         robots:
@@ -5019,7 +5019,7 @@ export const products = [
         description: "Inovance: SGD31-GG-TZ2B2P",
         code: "BS-SR0019",
         url: "/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
-        image: "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/1.jpg",
+        image: "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/elevator-sgd31-gg-tz2b2p-with-plastic-shell-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
         robots:
@@ -5031,8 +5031,8 @@ export const products = [
         code: "BS-SR0020",
         url: "/sensors/escalator-pressure-sensor-fp-a1pnp5m",
         image:
-          "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/elevator-escalator-pressure-sensor-fp-a1pnp5m-1.jpg",
+        slider: ["elevator-escalator-pressure-sensor-fp-a1pnp5m-1", "elevator-escalator-pressure-sensor-fp-a1pnp5m-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/escalator-pressure-sensor-fp-a1pnp5m",
         robots:
@@ -5043,7 +5043,7 @@ export const products = [
         description: "Sensor: E3JK-R4M1",
         code: "BS-SR0021",
         url: "/sensors/sensor-e3jk-r4m1",
-        image: "/img/products/sensors/sensor-e3jk-r4m1/1.jpg",
+        image: "/img/products/sensors/sensor-e3jk-r4m1/elevator-sensor-e3jk-r4m1-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-e3jk-r4m1",
         robots:
@@ -5054,8 +5054,8 @@ export const products = [
         description: "Sensor: BUP-30",
         code: "BS-SR0022",
         url: "/sensors/sensor-bup-30",
-        image: "/img/products/sensors/sensor-bup-30/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/sensors/sensor-bup-30/elevator-sensor-bup-30-1.jpg",
+        slider: ["elevator-sensor-bup-30-1", "elevator-sensor-bup-30-2", "elevator-sensor-bup-30-3"],
         canonical: "https://www.bestechparts.ae/products/sensors/sensor-bup-30",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5065,7 +5065,7 @@ export const products = [
         description: "Sensor: D2VW-01-2MS",
         code: "BS-SR0023",
         url: "/sensors/sensor-d2vw-01-2ms",
-        image: "/img/products/sensors/sensor-d2vw-01-2ms/1.jpg",
+        image: "/img/products/sensors/sensor-d2vw-01-2ms/elevator-sensor-d2vw-01-2ms-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-d2vw-01-2ms",
         robots:
@@ -5076,8 +5076,8 @@ export const products = [
         description: "Sensor: PSN17-5DN",
         code: "BS-SR0024",
         url: "/sensors/sensor-psn17-5dn",
-        image: "/img/products/sensors/sensor-psn17-5dn/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/sensors/sensor-psn17-5dn/elevator-sensor-psn17-5dn-1.jpg",
+        slider: ["elevator-sensor-psn17-5dn-1", "elevator-sensor-psn17-5dn-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-psn17-5dn",
         robots:
@@ -5088,7 +5088,7 @@ export const products = [
         description: "Autonics - BEL10M-TFR",
         code: "BS-SR0025",
         url: "/sensors/sensor-bel10m-tfr",
-        image: "/img/products/sensors/sensor-bel10m-tfr/1.jpg",
+        image: "/img/products/sensors/sensor-bel10m-tfr/elevator-sensor-bel10m-tfr-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-bel10m-tfr",
         robots:
@@ -5099,7 +5099,7 @@ export const products = [
         description: "OTIS DAA629Q1 JCA00629AAB001",
         code: "BS-SR0026",
         url: "/sensors/sensor-daa629q1",
-        image: "/img/products/sensors/sensor-daa629q1/1.jpg",
+        image: "/img/products/sensors/sensor-daa629q1/elevator-sensor-daa629q1-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-daa629q1",
         robots:
@@ -5110,8 +5110,8 @@ export const products = [
         description: " 61U 61N 30 monostable - NC Switch",
         code: "BS-SR0027",
         url: "/sensors/61u-61n-30-monostable-nc-switch",
-        image: "/img/products/sensors/61u-61n-30-monostable-nc-switch/1.jpeg",
-        slider: ["1", "2"],
+        image: "/img/products/sensors/61u-61n-30-monostable-nc-switch/elevator-61u-61n-30-monostable-nc-switch-1.jpeg",
+        slider: ["elevator-61u-61n-30-monostable-nc-switch-1", "elevator-61u-61n-30-monostable-nc-switch-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/61u-61n-30-monostable-nc-switch",
         robots:
