@@ -20,8 +20,8 @@ export const products = [
         description: "100m/roll",
         code: "BS-CW0001",
         url: "/cables-and-wires/wire-0-75mm",
-        image: "/img/products/cables-and-wires/wire-0-75mm/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/cables-and-wires/wire-0-75mm/elevator-wire-0-75mm-1.jpg",
+        slider: ["elevator-wire-0-75mm-1", "elevator-wire-0-75mm-2", "elevator-wire-0-75mm-3"],
         meta_title:
           "Buy Elevator Wire Rope 0.75mm in Dubai, UAE | Bestechparts",
         meta_description:
@@ -38,8 +38,8 @@ export const products = [
         description: "100m/roll",
         code: "BS-CW0002",
         url: "/cables-and-wires/wire-6mm",
-        image: "/img/products/cables-and-wires/wire-6mm/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/cables-and-wires/wire-6mm/elevator-wire-6mm-1.jpg",
+        slider: ["elevator-wire-6mm-1", "elevator-wire-6mm-2", "elevator-wire-6mm-3"],
         meta_title:
           "Buy Elevator Wire Rope 6mm in Sharjah & Dubai | Bestechparts UAE",
         meta_description:
@@ -56,8 +56,8 @@ export const products = [
         description: "100m/roll",
         code: "BS-CW0003",
         url: "/cables-and-wires/wire-8mm",
-        image: "/img/products/cables-and-wires/wire-8mm/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/cables-and-wires/wire-8mm/elevator-wire-8mm-1.jpg",
+        slider: ["elevator-wire-8mm-1", "elevator-wire-8mm-2", "elevator-wire-8mm-3"],
         meta_title: "Buy Elevator 8mm Wire Rope in Dubai, UAE | Bestechparts",
         meta_description:
           "Buy elevator 8mm wire rope in Dubai at Bestechparts. Durable 8mm lift wires for Sharjah & UAE. Compatible with Otis, Kone, Mitsubishi & Thyssenkrupp elevators.",
@@ -73,8 +73,8 @@ export const products = [
         description: "100m/roll",
         code: "BS-CW0004",
         url: "/cables-and-wires/wire-10mm",
-        image: "/img/products/cables-and-wires/wire-10mm/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/cables-and-wires/wire-10mm/elevator-wire-10mm-1.jpg",
+        slider: ["elevator-wire-10mm-1", "elevator-wire-10mm-2", "elevator-wire-10mm-3"],
         meta_title:
           "Buy 10mm Elevator Cable in Dubai | Bestechparts Lifts & Wires",
         meta_description:
@@ -91,7 +91,7 @@ export const products = [
         description: "1000pcs/pack",
         code: "BS-CW0005",
         url: "/cables-and-wires/wire-lugs-0-75mm",
-        image: "/img/products/cables-and-wires/wire-lugs-0-75mm/1.jpg",
+        image: "/img/products/cables-and-wires/wire-lugs-0-75mm/elevator-wire-lugs-0-75mm-1.jpg",
         meta_title:
           "Buy Elevator Wire Lugs 0.75mm in Dubai, UAE | Bestechparts",
         meta_description:
@@ -108,7 +108,7 @@ export const products = [
         description: "1000pcs/pack",
         code: "BS-CW0006",
         url: "/cables-and-wires/wire-lugs-1-5mm",
-        image: "/img/products/cables-and-wires/wire-lugs-1-5mm/1.jpg",
+        image: "/img/products/cables-and-wires/wire-lugs-1-5mm/elevator-wire-lugs-1-5mm-1.jpg",
         meta_title:
           "Buy Elevator Wire Lugs 1.5mm in Sharjah, UAE | Bestechparts",
         meta_description:
@@ -125,7 +125,7 @@ export const products = [
         description: "1000pcs/pack",
         code: "BS-CW0007",
         url: "/cables-and-wires/wire-lugs-6mm",
-        image: "/img/products/cables-and-wires/wire-lugs-6mm/1.jpg",
+        image: "/img/products/cables-and-wires/wire-lugs-6mm/elevator-wire-lugs-6mm-1.jpg",
         meta_title:
           "Buy Elevator Wire Lugs 6mm in Dubai, UAE | Bestechparts Lifts",
         meta_description:
@@ -142,7 +142,7 @@ export const products = [
         description: "1000pcs/pack",
         code: "BS-CW0008",
         url: "/cables-and-wires/wire-lugs-10mm",
-        image: "/img/products/cables-and-wires/wire-lugs-10mm/1.jpg",
+        image: "/img/products/cables-and-wires/wire-lugs-10mm/elevator-wire-lugs-10mm-1.jpg",
         meta_title: "Buy Elevator Wire Lugs 10mm in Dubai, UAE | Bestechparts",
         meta_description:
           "Buy elevator wire lugs 10mm in Dubai at Bestechparts. Premium lift spare parts for Sharjah & UAE. Works with Otis, Kone, Mitsubishi, Thyssenkrupp & Schindler.",
@@ -158,8 +158,8 @@ export const products = [
         description: "",
         code: "BS-CW0009",
         url: "/cables-and-wires/cable-db9-5m",
-        image: "/img/products/cables-and-wires/cable-db9-5m/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/cables-and-wires/cable-db9-5m/elevator-cable-db9-5m-1.jpg",
+        slider: ["elevator-cable-db9-5m-1", "elevator-cable-db9-5m-2"],
         meta_title:
           "Mitsubishi DB9 Elevator Cable 5m in Dubai, UAE | Bestechparts",
         meta_description:
@@ -178,7 +178,7 @@ export const products = [
         description: "",
         code: "BS-CW0010",
         url: "/cables-and-wires/cable-db9-10m",
-        image: "/img/products/cables-and-wires/cable-db9-10m/1.jpg",
+        image: "/img/products/cables-and-wires/cable-db9-10m/elevator-cable-db9-10m-1.jpg",
         meta_title:
           "Mitsubishi DB9 Elevator Cable 10m in Dubai, UAE | Bestechparts",
         meta_description:
@@ -197,8 +197,8 @@ export const products = [
         description: "70cm",
         code: "BS-CW0011",
         url: "/cables-and-wires/cable-command-board-70cm",
-        image: "/img/products/cables-and-wires/cable-command-board-70cm/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/cables-and-wires/cable-command-board-70cm/elevator-cable-command-board-70cm-1.jpg",
+        slider: ["elevator-cable-command-board-70cm-1", "elevator-cable-command-board-70cm-2", "elevator-cable-command-board-70cm-3"],
         meta_title:
           "Command Board Cable 70cm Elevator in Dubai, UAE | Bestechparts",
         meta_description:
@@ -218,7 +218,7 @@ export const products = [
         code: "BS-CW0012",
         url: "/cables-and-wires/display-mitsubishi-modbus-cable",
         image:
-          "/img/products/cables-and-wires/display-mitsubishi-modbus-cable/1.jpg",
+          "/img/products/cables-and-wires/display-mitsubishi-modbus-cable/elevator-display-mitsubishi-modbus-cable-1.jpg",
         meta_title:
           "Mitsubishi Display Modbus Cable Elevator in Dubai, UAE | Bestechparts",
         meta_description:
@@ -236,7 +236,7 @@ export const products = [
         code: "BS-CW0013",
         url: "/cables-and-wires/cable-type-command-board-90cm",
         image:
-          "/img/products/cables-and-wires/cable-type-command-board-90cm/1.jpg",
+          "/img/products/cables-and-wires/cable-type-command-board-90cm/elevator-cable-type-command-board-90cm-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -250,7 +250,7 @@ export const products = [
         description: "For all button models",
         code: "BS-CW0014",
         url: "/cables-and-wires/button-cables-assorted",
-        image: "/img/products/cables-and-wires/button-cables-assorted/1.jpg",
+        image: "/img/products/cables-and-wires/button-cables-assorted/elevator-button-cables-assorted-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -264,7 +264,7 @@ export const products = [
         description: "Travelling Cable 24 core",
         code: "BS-CW0015",
         url: "/cables-and-wires/travelling-cable-24-core",
-        image: "/img/products/cables-and-wires/travelling-cable-24-core/1.jpg",
+        image: "/img/products/cables-and-wires/travelling-cable-24-core/elevator-travelling-cable-24-core-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -278,7 +278,7 @@ export const products = [
         description: "RR Cable 0.75mm",
         code: "BS-CW0016",
         url: "/cables-and-wires/rr-cable-075mm",
-        image: "/img/products/cables-and-wires/rr-cable-075mm/1.jpg",
+        image: "/img/products/cables-and-wires/rr-cable-075mm/elevator-rr-cable-075mm-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -292,7 +292,7 @@ export const products = [
         description: "Wire 4mm",
         code: "BS-CW0017",
         url: "/cables-and-wires/wire-4mm-100m-roll",
-        image: "/img/products/cables-and-wires/wire-4mm-100m-roll/1.jpg",
+        image: "/img/products/cables-and-wires/wire-4mm-100m-roll/elevator-wire-4mm-100m-roll-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -306,7 +306,7 @@ export const products = [
         description: "For all display models",
         code: "BS-CW0018",
         url: "/cables-and-wires/display-cables-assorted",
-        image: "/img/products/cables-and-wires/display-cables-assorted/1.jpg",
+        image: "/img/products/cables-and-wires/display-cables-assorted/elevator-display-cables-assorted-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -321,7 +321,7 @@ export const products = [
         code: "BS-CW0019",
         url: "/cables-and-wires/cables-lop-display-to-button",
         image:
-          "/img/products/cables-and-wires/cables-lop-display-to-button/1.jpg",
+          "/img/products/cables-and-wires/cables-lop-display-to-button/elevator-cables-lop-display-to-button-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
