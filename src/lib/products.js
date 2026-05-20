@@ -6867,8 +6867,8 @@ export const products = [
         description: "",
         code: "BS-SG0001",
         url: "/signalization/lop-up-and-down",
-        image: "/img/products/signalization/lop-up-and-down/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/signalization/lop-up-and-down/lop-up-and-down-1.jpg",
+        slider: ["lop-up-and-down-1", "lop-up-and-down-2", "lop-up-and-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-up-and-down",
         robots:
@@ -6879,8 +6879,8 @@ export const products = [
         description: "",
         code: "BS-SG0002",
         url: "/signalization/lop-up-lock",
-        image: "/img/products/signalization/lop-up-lock/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/signalization/lop-up-lock/lop-up-lock-1.jpg",
+        slider: ["lop-up-lock-1", "lop-up-lock-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-up-lock",
         robots:
@@ -6891,8 +6891,8 @@ export const products = [
         description: "",
         code: "BS-SG0003",
         url: "/signalization/lop-down",
-        image: "/img/products/signalization/lop-down/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/signalization/lop-down/lop-down-1.jpg",
+        slider: ["lop-down-1", "lop-down-2", "lop-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-down",
         robots:
@@ -6903,8 +6903,8 @@ export const products = [
         description: "",
         code: "BS-SG0004",
         url: "/signalization/duplex-lop-up-and-down",
-        image: "/img/products/signalization/duplex-lop-up-and-down/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/signalization/duplex-lop-up-and-down/duplex-lop-up-and-down-1.jpg",
+        slider: ["duplex-lop-up-and-down-1", "duplex-lop-up-and-down-2", "duplex-lop-up-and-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-up-and-down",
         robots:
@@ -6915,8 +6915,8 @@ export const products = [
         description: "",
         code: "BS-SG0005",
         url: "/signalization/duplex-lop-up-lock",
-        image: "/img/products/signalization/duplex-lop-up-lock/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/signalization/duplex-lop-up-lock/duplex-lop-up-lock-1.jpg",
+        slider: ["duplex-lop-up-lock-1", "duplex-lop-up-lock-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-up-lock",
         robots:
@@ -6927,8 +6927,8 @@ export const products = [
         description: "",
         code: "BS-SG0006",
         url: "/signalization/duplex-lop-down",
-        image: "/img/products/signalization/duplex-lop-down/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/signalization/duplex-lop-down/duplex-lop-down-1.jpg",
+        slider: ["duplex-lop-down-1", "duplex-lop-down-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-down",
         robots:
@@ -6939,7 +6939,7 @@ export const products = [
         description: "",
         code: "BS-SG0007",
         url: "/signalization/step-lop-set-up-lock",
-        image: "/img/products/signalization/step-lop-set-up-lock/1.jpg",
+        image: "/img/products/signalization/step-lop-set-up-lock/elevator-step-lop-set-up-lock-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
         robots:
@@ -6950,9 +6950,9 @@ export const products = [
         description: "",
         code: "BS-SG0008",
         url: "/signalization/step-lop-set-up-down",
-        image: "/img/products/signalization/step-lop-set-up-lock/1.jpg",
+        image: "/img/products/signalization/step-lop-set-up-down/elevator-step-lop-set-up-down-1.jpg",
         canonical:
-          "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
+          "https://www.bestechparts.ae/products/signalization/step-lop-set-up-down",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -6961,7 +6961,7 @@ export const products = [
         description: "",
         code: "BS-SG0009",
         url: "/signalization/step-lop-set-down",
-        image: "/img/products/signalization/step-lop-set-down/1.jpg",
+        image: "/img/products/signalization/step-lop-set-down/elevator-step-lop-set-down-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/step-lop-set-down",
         robots:
@@ -6972,8 +6972,8 @@ export const products = [
         description: "",
         code: "BS-SG0010",
         url: "/signalization/duplex-set-up-down",
-        image: "/img/products/signalization/duplex-set-up-down/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/signalization/duplex-set-up-down/elevator-duplex-set-up-down-1.jpg",
+        slider: ["elevator-duplex-set-up-down-1", "elevator-duplex-set-up-down-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-set-up-down",
         robots:
@@ -6984,7 +6984,7 @@ export const products = [
         description: "Monarch COP G+1",
         code: "BS-SG0011",
         url: "/signalization/cop-full-set-g-1",
-        image: "/img/products/signalization/cop-full-set-g-1/1.jpg",
+        image: "/img/products/signalization/cop-full-set-g-1/elevator-cop-full-set-g-1-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/cop-full-set-g-1",
         robots:
@@ -6995,7 +6995,7 @@ export const products = [
         description: "Monarch COP G+3",
         code: "BS-SG0012",
         url: "/signalization/cop-full-set-g-3",
-        image: "/img/products/signalization/cop-full-set-g-3/1.jpg",
+        image: "/img/products/signalization/cop-full-set-g-3/elevator-cop-full-set-g-3-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/cop-full-set-g-3",
         robots:
@@ -7006,7 +7006,7 @@ export const products = [
         description: "Mikrolift - SS LOP full set",
         code: "BS-SG0013",
         url: "/signalization/mikrolift-ss-lop-full-set",
-        image: "/img/products/signalization/mikrolift-ss-lop-full-set/1.jpeg",
+        image: "/img/products/signalization/mikrolift-ss-lop-full-set/elevator-mikrolift-ss-lop-full-set-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/mikrolift-ss-lop-full-set",
         robots:
@@ -7017,8 +7017,8 @@ export const products = [
         description: "F-K12 Access control system ",
         code: "BS-SG0014",
         url: "/signalization/f-k12-access-control-system",
-        image: "/img/products/signalization/f-k12-access-control-system/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/signalization/f-k12-access-control-system/elevator-f-k12-access-control-system-1.jpg",
+        slider: ["elevator-f-k12-access-control-system-1", "elevator-f-k12-access-control-system-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/f-k12-access-control-system",
         robots:
@@ -7029,7 +7029,7 @@ export const products = [
         description: "BCGCM001 SS Hairline - COP G+2",
         code: "BS-SG0015",
         url: "/signalization/bcgcm001-ss-hairline-cop-g2",
-        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/1.jpg",
+        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/elevator-bcgcm001-ss-hairline-cop-g2-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g2",
         robots:
@@ -7040,7 +7040,7 @@ export const products = [
         description: "BCGCM001 SS Hairline - COP G+4",
         code: "BS-SG0016",
         url: "/signalization/bcgcm001-ss-hairline-cop-g4",
-        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/1.jpg",
+        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/elevator-bcgcm001-ss-hairline-cop-g4-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g4",
         robots:
@@ -7051,7 +7051,7 @@ export const products = [
         description: "BXGFM019 SS Hairline - LOP",
         code: "BS-SG0017",
         url: "/signalization/bxgfm019-ss-hairline-lop",
-        image: "/img/products/signalization/bxgfm019-ss-hairline-lop/1.jpg",
+        image: "/img/products/signalization/bxgfm019-ss-hairline-lop/elevator-bxgfm019-ss-hairline-lop-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bxgfm019-ss-hairline-lop",
         robots:
@@ -7062,7 +7062,7 @@ export const products = [
         description: "BCGBF001 SS Hairline - COP G+1",
         code: "BS-SG0018",
         url: "/signalization/bcgbf001-ss-hairline-cop-g1",
-        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/1.jpg",
+        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/elevator-bcgbf001-ss-hairline-cop-g1-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g1",
         robots:
@@ -7073,7 +7073,7 @@ export const products = [
         description: "BXGAS004 SS Hairline - COP G+3",
         code: "BS-SG0019",
         url: "/signalization/bcgbf001-ss-hairline-cop-g3",
-        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/1.jpg",
+        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/elevator-bcgbf001-ss-hairline-cop-g3-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g3",
         robots:
@@ -7084,7 +7084,7 @@ export const products = [
         description: "BXGAS004 SS Hairline - LOP",
         code: "BS-SG0020",
         url: "/signalization/bxgas004-ss-hairline-lop",
-        image: "/img/products/signalization/bxgas004-ss-hairline-lop/1.jpg",
+        image: "/img/products/signalization/bxgas004-ss-hairline-lop/elevator-bxgas004-ss-hairline-lop-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bxgas004-ss-hairline-lop",
         robots:
@@ -7095,7 +7095,7 @@ export const products = [
         description: "BCG401 black glass - COP G+2",
         code: "BS-SG0021",
         url: "/signalization/bcg401-black-glass-cop-g2",
-        image: "/img/products/signalization/bcg401-black-glass-cop-g2/1.jpg",
+        image: "/img/products/signalization/bcg401-black-glass-cop-g2/elevator-bcg401-black-glass-cop-g2-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g2",
         robots:
@@ -7106,7 +7106,7 @@ export const products = [
         description: "BCG401 black glass - COP G+4",
         code: "BS-SG0022",
         url: "/signalization/bcg401-black-glass-cop-g4",
-        image: "/img/products/signalization/bcg401-black-glass-cop-g4/1.jpg",
+        image: "/img/products/signalization/bcg401-black-glass-cop-g4/elevator-bcg401-black-glass-cop-g4-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g4",
         robots:
@@ -7117,7 +7117,7 @@ export const products = [
         description: "BXGDM007 black - LOP",
         code: "BS-SG0023",
         url: "/signalization/bxgdm007-black-glass-lop",
-        image: "/img/products/signalization/bxgdm007-black-glass-lop/1.jpg",
+        image: "/img/products/signalization/bxgdm007-black-glass-lop/elevator-bxgdm007-black-glass-lop-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bxgdm007-black-glass-lop",
         robots:
@@ -7128,7 +7128,7 @@ export const products = [
         description: "BCG401 white glass - COP G+1",
         code: "BS-SG0024",
         url: "/signalization/bcg401-white-glass-cop-g1",
-        image: "/img/products/signalization/bcg401-white-glass-cop-g1/1.jpg",
+        image: "/img/products/signalization/bcg401-white-glass-cop-g1/elevator-bcg401-white-glass-cop-g1-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g1",
         robots:
@@ -7139,7 +7139,7 @@ export const products = [
         description: "BCG401 white glass - COP G+3",
         code: "BS-SG0025",
         url: "/signalization/bcg401-white-glass-cop-g3",
-        image: "/img/products/signalization/bcg401-white-glass-cop-g3/1.jpg",
+        image: "/img/products/signalization/bcg401-white-glass-cop-g3/elevator-bcg401-white-glass-cop-g3-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g3",
         robots:
@@ -7150,7 +7150,7 @@ export const products = [
         description: "BXGDM007 white glass - LOP",
         code: "BS-SG0026",
         url: "/signalization/bxgdm007-white-glass-lop",
-        image: "/img/products/signalization/bxgdm007-white-glass-lop/1.jpg",
+        image: "/img/products/signalization/bxgdm007-white-glass-lop/elevator-bxgdm007-white-glass-lop-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bxgdm007-white-glass-lop",
         robots:
@@ -7161,8 +7161,8 @@ export const products = [
         description: "XIZI OTIS LOP set - HPI-L0430VRI-1",
         code: "BS-SG0027",
         url: "/signalization/full-lop-set-hpi-l0430vri-1",
-        image: "/img/products/signalization/full-lop-set-hpi-l0430vri-1/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/signalization/full-lop-set-hpi-l0430vri-1/elevator-full-lop-set-hpi-l0430vri-1-1.jpg",
+        slider: ["elevator-full-lop-set-hpi-l0430vri-1-1", "elevator-full-lop-set-hpi-l0430vri-1-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/full-lop-set-hpi-l0430vri-1",
         robots:
@@ -7173,8 +7173,8 @@ export const products = [
         description: "Schindler LOP full set (3 types)",
         code: "BS-SG0028",
         url: "/signalization/white-lop-full-set",
-        image: "/img/products/signalization/white-lop-full-set/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/signalization/white-lop-full-set/elevator-white-lop-full-set-1.jpg",
+        slider: ["elevator-white-lop-full-set-1", "elevator-white-lop-full-set-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/white-lop-full-set",
         robots:
@@ -7186,7 +7186,7 @@ export const products = [
         code: "BS-SG0029",
         url: "/signalization/white-lop-full-set-without-display",
         image:
-          "/img/products/signalization/white-lop-full-set-without-display/1.jpg",
+          "/img/products/signalization/white-lop-full-set-without-display/elevator-white-lop-full-set-without-display-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/white-lop-full-set-without-display",
         robots:
@@ -7197,7 +7197,7 @@ export const products = [
         description: "BCG451 Black Glass COP G+1",
         code: "BS-SG0030",
         url: "/signalization/bcg451-black-glass-cop-g1",
-        image: "/img/products/signalization/bcg451-black-glass-cop-g1/1.jpg",
+        image: "/img/products/signalization/bcg451-black-glass-cop-g1/elevator-bcg451-black-glass-cop-g1-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-cop-g1",
         robots:
@@ -7208,7 +7208,7 @@ export const products = [
         description: "BCG451 Black Glass LOP",
         code: "BS-SG0031",
         url: "/signalization/bcg451-black-glass-lop",
-        image: "/img/products/signalization/bcg451-black-glass-lop/1.jpg",
+        image: "/img/products/signalization/bcg451-black-glass-lop/elevator-bcg451-black-glass-lop1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-lop",
         robots:
@@ -7235,8 +7235,8 @@ export const products = [
         description: "MCTC-HCB-R1",
         code: "BS-DI0001",
         url: "/displays/cop-display-green-mctc-hcb-r1",
-        image: "/img/products/displays/cop-display-green-mctc-hcb-r1/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/cop-display-green-mctc-hcb-r1/cop-display-green-mctc-hcb-r1-1.jpg",
+        slider: ["cop-display-green-mctc-hcb-r1-1", "cop-display-green-mctc-hcb-r1-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-green-mctc-hcb-r1",
         robots:
@@ -7247,8 +7247,8 @@ export const products = [
         description: "MCTC-HCB-R1",
         code: "BS-DI0002",
         url: "/displays/cop-display-black-mctc-hcb-r1",
-        image: "/img/products/displays/cop-display-black-mctc-hcb-r1/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/cop-display-black-mctc-hcb-r1/cop-display-black-mctc-hcb-r1-1.jpg",
+        slider: ["cop-display-black-mctc-hcb-r1-1", "cop-display-black-mctc-hcb-r1-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-black-mctc-hcb-r1",
         robots:
@@ -7259,8 +7259,8 @@ export const products = [
         description: "",
         code: "BS-DI0003",
         url: "/displays/lop-display-led",
-        image: "/img/products/displays/lop-display-led/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/displays/lop-display-led/lop-display-led-1.jpg",
+        slider: ["lop-display-led-1", "lop-display-led-2", "lop-display-led-3"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lop-display-led",
         robots:
@@ -7272,8 +7272,8 @@ export const products = [
         description: "",
         code: "BS-DI0004",
         url: "/displays/dot-matrix-display-vertical",
-        image: "/img/products/displays/dot-matrix-display-vertical/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/displays/dot-matrix-display-vertical/dot-matrix-display-vertical-1.jpg",
+        slider: ["dot-matrix-display-vertical-1", "dot-matrix-display-vertical-2", "dot-matrix-display-vertical-3"],
         canonical:
           "https://www.bestechparts.ae/products/displays/dot-matrix-display-vertical",
         robots:
@@ -7284,8 +7284,8 @@ export const products = [
         description: "",
         code: "BS-DI0005",
         url: "/displays/dot-matrix-display-horizontal",
-        image: "/img/products/displays/dot-matrix-display-horizontal/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/dot-matrix-display-horizontal/dot-matrix-display-horizontal-1.jpg",
+        slider: ["dot-matrix-display-horizontal-1", "dot-matrix-display-horizontal-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/dot-matrix-display-horizontal",
         robots:
@@ -7296,7 +7296,7 @@ export const products = [
         description: "",
         code: "BS-DI0006",
         url: "/displays/lcd-display-vertical",
-        image: "/img/products/displays/lcd-display-vertical/1.jpg",
+        image: "/img/products/displays/lcd-display-vertical/lcd-display-vertical-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-vertical",
         robots:
@@ -7308,8 +7308,8 @@ export const products = [
         description: "",
         code: "BS-DI0007",
         url: "/displays/lcd-display-horizontal",
-        image: "/img/products/displays/lcd-display-horizontal/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/lcd-display-horizontal/lcd-display-horizontal-1.jpg",
+        slider: ["lcd-display-horizontal-1", "lcd-display-horizontal-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-horizontal",
         robots:
@@ -7320,8 +7320,8 @@ export const products = [
         description: "4.3 inch",
         code: "BS-DI0008",
         url: "/displays/display-led-4-3",
-        image: "/img/products/displays/display-led-4-3/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/display-led-4-3/display-led-4-3-1.jpg",
+        slider: ["display-led-4-3-1", "display-led-4-3-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/display-led-4-3",
         robots:
@@ -7332,8 +7332,8 @@ export const products = [
         description: "",
         code: "BS-DI0009",
         url: "/displays/lcd-display-sftc-hcb-sl-blue",
-        image: "/img/products/displays/lcd-display-sftc-hcb-sl-blue/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/lcd-display-sftc-hcb-sl-blue/lcd-display-sftc-hcb-sl-blue-1.jpg",
+        slider: ["lcd-display-sftc-hcb-sl-blue-1", "lcd-display-sftc-hcb-sl-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-sftc-hcb-sl-blue",
         robots:
@@ -7345,8 +7345,8 @@ export const products = [
         code: "BS-DI0010",
         url: "/displays/cop-display-horizontal-cv-ccb-d5-sx",
         image:
-          "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/cop-display-horizontal-cv-ccb-d5-sx-1.jpg",
+        slider: ["cop-display-horizontal-cv-ccb-d5-sx-1", "cop-display-horizontal-cv-ccb-d5-sx-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-horizontal-cv-ccb-d5-sx",
         robots:
@@ -7358,8 +7358,8 @@ export const products = [
         code: "BS-DI0011",
         url: "/displays/vertical-segment-display-cilvle-cv-d5",
         image:
-          "/img/products/displays/vertical-segment-display-cilvle-cv-d5/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/displays/vertical-segment-display-cilvle-cv-d5/vertical-segment-display-cilvle-cv-d5-1.jpg",
+        slider: ["vertical-segment-display-cilvle-cv-d5-1", "vertical-segment-display-cilvle-cv-d5-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/vertical-segment-display-cilvle-cv-d5",
         robots:
@@ -7370,8 +7370,8 @@ export const products = [
         description: "Monarch: MCTC-HCB-U673",
         code: "BS-DI0012",
         url: "/displays/display-mctc-hcb-u673",
-        image: "/img/products/displays/display-mctc-hcb-u673/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/display-mctc-hcb-u673/display-mctc-hcb-u673-1.jpg",
+        slider: ["display-mctc-hcb-u673-1", "display-mctc-hcb-u673-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/display-mctc-hcb-u673",
         robots:
@@ -7383,7 +7383,7 @@ export const products = [
         code: "BS-DI0013",
         url: "/displays/ks208-7-segment-indicator-with-arrows",
         image:
-          "/img/products/displays/ks208-7-segment-indicator-with-arrows/1.jpg",
+          "/img/products/displays/ks208-7-segment-indicator-with-arrows/ks208-7-segment-indicator-with-arrows-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ks208-7-segment-indicator-with-arrows",
         robots:
@@ -7394,7 +7394,7 @@ export const products = [
         description: "KS308 - 7 Segment Single",
         code: "BS-DI0014",
         url: "/displays/ks308-7-segment-indicator-single",
-        image: "/img/products/displays/ks308-7-segment-indicator-single/1.jpg",
+        image: "/img/products/displays/ks308-7-segment-indicator-single/ks308-7-segment-indicator-single-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ks308-7-segment-indicator-single",
         robots:
@@ -7405,7 +7405,7 @@ export const products = [
         description: "MCTC-HCB-T647",
         code: "BS-DI0015",
         url: "/displays/display-vertical-mctc-hcb-t647",
-        image: "/img/products/displays/display-vertical-mctc-hcb-t647/1.jpg",
+        image: "/img/products/displays/display-vertical-mctc-hcb-t647/display-vertical-mctc-hcb-t647-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/displays/display-vertical-mctc-hcb-t647",
         robots:
@@ -7416,7 +7416,7 @@ export const products = [
         description: "MCTC-HCB-U672",
         code: "BS-DI0016",
         url: "/displays/display-horizontal-mctc-hcb-u672",
-        image: "/img/products/displays/display-horizontal-mctc-hcb-u672/1.jpg",
+        image: "/img/products/displays/display-horizontal-mctc-hcb-u672/display-horizontal-mctc-hcb-u672-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/displays/display-horizontal-mctc-hcb-u672",
         robots:
@@ -7427,8 +7427,8 @@ export const products = [
         description: "Arkel: BC-D3X INDICATOR (RED)",
         code: "BS-DI0017",
         url: "/displays/bc-d3x-indicator-red",
-        image: "/img/products/displays/bc-d3x-indicator-red/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/bc-d3x-indicator-red/bc-d3x-indicator-red-1.jpg",
+        slider: ["bc-d3x-indicator-red-1", "bc-d3x-indicator-red-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/bc-d3x-indicator-red",
         robots:
@@ -7439,8 +7439,8 @@ export const products = [
         description: "STEP: Display Board SM.04V16",
         code: "BS-DI0018",
         url: "/displays/step-display-board-sm-04v16",
-        image: "/img/products/displays/step-display-board-sm-04v16/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/displays/step-display-board-sm-04v16/step-display-board-sm-04v16-1.jpg",
+        slider: ["step-display-board-sm-04v16-1", "step-display-board-sm-04v16-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/step-display-board-sm-04v16",
         robots:

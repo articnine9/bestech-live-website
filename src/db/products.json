@@ -8527,266 +8527,494 @@
         "description": "",
         "code": "BS-SG0007",
         "url": "/signalization/step-lop-set-up-lock",
-        "image": "/img/products/signalization/step-lop-set-up-lock/step-lop-set-up-lock-1.jpg",
+        "image": "/img/products/signalization/step-lop-set-up-lock/elevator-step-lop-set-up-lock-1.jpg",
         "alttext": "Step LOP set: UP + Lock Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Lift Landing Operating Panel with Lock | Bestech",
+        "meta_description": "Shop high-durability replacement panels online. This step-profile lift landing operating panel upgrades freight configurations with stable lock controls.",
+        "keywords": "elevator step LOP set up lock, lift landing operating panel, elevator LOP with lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator step LOP set up lock is a landing operating panel designed for elevator landings. It combines an UP call button with a door lock function in one step-type unit. This lift landing operating panel is built for service and freight lifts where landing access needs to stay controlled. The elevator LOP with lock lets operators lock the landing door while calling the lift upward, adding a layer of safety at the floor.</p>",
+          "<p>As part of the elevator landing operating panel, the duplex down call button is linked to the group control elevator system to support down call registration within a shared lift environment. This setup supports down call operation within group-controlled lift systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Step LOP set</li><li><strong>Product code:</strong> BS-SG0007</li><li><strong>Category:</strong> Signalization</li><li><strong>Type:</strong> Step LOP (Landing Operating Panel)</li><li><strong>Function:</strong> UP call + Door lock</li></ul>"
+        ]
       },
       {
         "name": "Step LOP set: UP + Down",
         "description": "",
         "code": "BS-SG0008",
         "url": "/signalization/step-lop-set-up-down",
-        "image": "/img/products/signalization/step-lop-set-up-down/step-lop-set-up-down-1.jpg",
+        "image": "/img/products/signalization/step-lop-set-up-down/elevator-step-lop-set-up-down-1.jpg",
         "alttext": "Step LOP set: UP + Down Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-up-down",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator LOP set - Up and Down | Lift Signalisation Part ",
+        "meta_description": "Buy the step LOP set with dual directional call buttons. This robust elevator LOP up down ensures responsive hall call registration for modern lifts.",
+        "keywords": "elevator LOP set up down, lift landing panel, elevator call button panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator LOP set up down is a step-type landing operating panel (LOP) designed for elevator landings. It combines both UP and DOWN call buttons in a single unit, allowing passengers to request the lift in either direction from the same floor.</p>",
+          "<p>As part of the elevator landing operating panel, the duplex down call button is linked to the group control elevator system to support down call registration within a shared lift environment. This setup supports down call operation within group-controlled lift systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Step LOP set</li><li><strong>Product code:</strong> BS-SG0008</li><li><strong>Category:</strong> Signalization</li><li><strong>Type:</strong> Step LOP (Landing Operating Panel)</li><li><strong>Function:</strong> UP call + DOWN call (two-direction)</li></ul>"
+        ]
       },
       {
         "name": "Step LOP set: Down",
         "description": "",
         "code": "BS-SG0009",
         "url": "/signalization/step-lop-set-down",
-        "image": "/img/products/signalization/step-lop-set-down/step-lop-set-down-1.jpg",
+        "image": "/img/products/signalization/step-lop-set-down/elevator-step-lop-set-down-1.jpg",
         "alttext": "Step LOP set: Down Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/step-lop-set-down",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Lift Landing Operating Panel Down | Single Call Switch ",
+        "meta_description": "Buy the step LOP set with a single downward call button. This robust elevator LOP down ensures responsive terminal floor call registration for lifts.",
+        "keywords": "elevator step LOP set down, lift landing operating panel, elevator down button panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator step LOP set down is a landing operating panel designed for elevator landings where passengers only need to call the lift in a downward direction. This lift landing operating panel includes a single DOWN call button, making it suitable for specific floor configurations such as top floors, basement levels or restricted-access landings.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Step LOP set</li><li><strong>Product code:</strong> BS-SG0009</li><li><strong>Category:</strong> Signalization</li><li><strong>Type:</strong> Single DOWN call</li><li><strong>Panel Style:</strong> Step-type LOP</li></ul>"
+        ]
       },
       {
         "name": "Duplex set: UP + Down",
         "description": "",
         "code": "BS-SG0010",
         "url": "/signalization/duplex-set-up-down",
-        "image": "/img/products/signalization/duplex-set-up-down/duplex-set-up-down-1.jpg",
+        "image": "/img/products/signalization/duplex-set-up-down/elevator-duplex-set-up-down-1.jpg",
         "alttext": "Duplex set: UP + Down Elevator Spare Parts",
         "slider": [
-          "duplex-set-up-down-1",
-          "duplex-set-up-down-2"
+          "elevator-duplex-set-up-down-1",
+          "elevator-duplex-set-up-down-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/duplex-set-up-down",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator Duplex Up Down Set | Lift Signalisation Unit UAE",
+        "meta_description": "Optimise shared corridor multi-car routing with the duplex LOP set. This group-control elevator landing panel set manages dual-direction corridor calls.",
+        "keywords": "elevator duplex LOP set, lift duplex operating panel, elevator landing panel set",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator duplex LOP set UP + Down is a complete landing operating panel that provides both UP and DOWN call buttons in a unit. It combines highly responsive upward and downward directional call buttons within a single enclosure, allowing passengers to request group-controlled lift cars in either direction from intermediate floor landings. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Duplex set</li><li><strong>Product code:</strong> BS-SG0010</li><li><strong>Category:</strong> Signalization</li><li><strong>Button Type:</strong> UP + DOWN (Duplex)</li><li><strong>Application:</strong> Intermediate floor landings</li></ul>"
+        ]
       },
       {
         "name": "COP Full set - G+1",
         "description": "Monarch COP G+1",
         "code": "BS-SG0011",
         "url": "/signalization/cop-full-set-g-1",
-        "image": "/img/products/signalization/cop-full-set-g-1/cop-full-set-g-1-1.jpg",
+        "image": "/img/products/signalization/cop-full-set-g-1/elevator-cop-full-set-g-1-1.jpg",
         "alttext": "COP Full set - G+1 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/cop-full-set-g-1",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator COP Full Set G1 | Lift Cabin Panel",
+        "meta_description": "Buy the elevator COP full set G+1 to streamline your building controls. This pre-assembled lift cabin operating panel ensures clean emergency signal routing.",
+        "keywords": "elevator COP full set G1, lift cabin operating panel, elevator COP system",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator COP full set G1 is a complete cabin operating panel designed for Ground plus One (G+1) buildings. It includes all floor buttons, open/close doors, alarm and intercom functions in one unified set. This lift cabin operating panel is part of the elevator COP system, serving residential and commercial lifts across the UAE. The G+1 configuration matches two-stop elevator layouts commonly found in low-rise buildings.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> COP Full set</li><li><strong>Product code:</strong> BS-SG0011</li><li><strong>Category:</strong> Signalization</li><li><strong>Set Includes:</strong> G button, 1 button, Open, Close, Alarm, Intercom</li><li><strong>Floors Covered:</strong> Ground + 1 (Two-stop lift)</li></ul>"
+        ]
       },
       {
         "name": "COP Full set - G+3",
         "description": "Monarch COP G+3",
         "code": "BS-SG0012",
         "url": "/signalization/cop-full-set-g-3",
-        "image": "/img/products/signalization/cop-full-set-g-3/cop-full-set-g-3-1.jpg",
+        "image": "/img/products/signalization/cop-full-set-g-3/elevator-cop-full-set-g-3-1.jpg",
         "alttext": "COP Full set - G+3 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/cop-full-set-g-3",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator COP Full Set G3 | Lift Cabin Panel",
+        "meta_description": "Buy the elevator COP full set G3 to simplify your building controls. This integrated panel assembly connects directly to standard logic cabinets to ensure instant call registration.",
+        "keywords": "elevator COP full set G3, lift cabin panel set, elevator control operating panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator COP full set G3 is a complete cabin operating panel designed for Ground plus Three (G+3) buildings. This lift cabin panel set includes all required floor buttons (G, 1, 2, 3), open/close door controls, alarm and intercom functions in one ready-to-install unit. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> COP Full Set</li><li><strong>Product code:</strong> BS-SG0012</li><li><strong>Category:</strong> Signalization</li><li><strong>Set Includes:</strong> Floor buttons, open/close, alarm, intercom</li><li><strong>Floors Covered:</strong> Ground, 1, 2, 3 (four stops)</li></ul>"
+        ]
       },
       {
         "name": "Mikrolift - SS LOP full set",
         "description": "Mikrolift - SS LOP full set",
         "code": "BS-SG0013",
         "url": "/signalization/mikrolift-ss-lop-full-set",
-        "image": "/img/products/signalization/mikrolift-ss-lop-full-set/mikrolift-ss-lop-full-set-1.jpg",
+        "image": "/img/products/signalization/mikrolift-ss-lop-full-set/elevator-mikrolift-ss-lop-full-set-1.jpg",
         "alttext": "Mikrolift - SS LOP full set Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/mikrolift-ss-lop-full-set",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Mikrolift SS LOP Full Set | Lift Landing Panel Set ",
+        "meta_description": "Buy the Mikrolift SS LOP full set to modernise lobby call points. This pre-wired lift landing panel set ensures responsive communication for every floor. ",
+        "keywords": "Mikrolift SS LOP full set, elevator stainless steel LOP, lift landing panel set",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Mikrolift - SS LOP full set is a ready-to-fit elevator stainless steel landing operating panel designed specifically for Mikrolift elevator systems. This lift landing panel set features a brushed stainless steel hairline finish and bundles all necessary call buttons (including UP, DOW, and floor-level selections) into a single matched package. It is built for seamless replacement on existing Mikrolift lifts. Technicians and facility managers benefit from the all-in-one design, which removes the need to source individual buttons separately, ensuring crisp signal transmission and visual uniformity across hallways. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Mikrolift SS LOP Full Set</li><li><strong>Product code:</strong> BS-SG0013</li><li><strong>Category:</strong> Signalization</li><li><strong>Set Includes:</strong>  Full button set - Up, Down, floor calls</li><li><strong>Brand Fit:</strong> Mikrolift Elevators</li></ul>"
+        ]
       },
       {
         "name": "F-K12 Access control system",
         "description": "F-K12 Access control system ",
         "code": "BS-SG0014",
         "url": "/signalization/f-k12-access-control-system",
-        "image": "/img/products/signalization/f-k12-access-control-system/f-k12-access-control-system-1.jpg",
+        "image": "/img/products/signalization/f-k12-access-control-system/elevator-f-k12-access-control-system-1.jpg",
         "alttext": "F-K12 Access control system Elevator Spare Parts",
         "slider": [
-          "f-k12-access-control-system-1",
-          "f-k12-access-control-system-2"
+          "elevator-f-k12-access-control-system-1",
+          "elevator-f-k12-access-control-system-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/f-k12-access-control-system",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Buy F-K12 Access Control System | Lift Controller",
+        "meta_description": "Buy the F-K12 access control system to secure your lift cabin. This elevator RFID access system restricts floor access to authorised personnel only.",
+        "keywords": "elevator access control system, lift access controller, elevator RFID access system",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The F-K12 Access control system is an elevator access control system built to manage who can use a lift and which floors they can reach. It works as a smart lift access controller using RFID technology, so users simply tap a card or fob to call the elevator and select their floor. This elevator RFID access system is ideal for apartments, offices and gated buildings across the UAE where building owners want to limit lift usage to authorised people only.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> F-K12 Access control system</li><li><strong>Product code:</strong> BS-SG0014</li><li><strong>Category:</strong> Signalization</li><li><strong>Type:</strong> Elevator RFID access system</li><li><strong>Function:</strong> Lift access controller - restricts lift use to authorised cards/tags</li></ul>"
+        ]
       },
       {
         "name": "BCGCM001 SS Hairline - COP G+2",
         "description": "BCGCM001 SS Hairline - COP G+2",
         "code": "BS-SG0015",
         "url": "/signalization/bcgcm001-ss-hairline-cop-g2",
-        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/bcgcm001-ss-hairline-cop-g2-1.jpg",
+        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/elevator-bcgcm001-ss-hairline-cop-g2-1.jpg",
         "alttext": "BCGCM001 SS Hairline - COP G+2 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g2",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Buy SS Hairline Elevator COP G+2 | Three-Stop Lift ",
+        "meta_description": "Optimise cabin interiors with the BCGCM001 hairline stainless steel elevator COP. This robust unit delivers clear floor tracking across three structural stops.",
+        "keywords": "SS hairline elevator COP G2, lift COP panel stainless steel, elevator cabin panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The SS hairline elevator COP G2 is a complete, pre-wired car operating panel assembly engineered for three-stop elevator configurations. Constructed with a premium brushed hairline stainless steel faceplate, this high-integrity unit serves as the primary user interface inside Ground plus Two (G+2) lift cabins. It integrates all floor selection keys, door controls and emergency signalisation nodes into a smudge-resistant, ready-to-install frame. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCGCM001 SS Hairline</li><li><strong>Product code:</strong> BS-SG0015</li><li><strong>Category:</strong> Signalization</li><li><strong>Floor Stops:</strong> G + 2 (Ground + 2 Floors)</li><li><strong>Panel Type:</strong> COP (Car Operating Panel)</li></ul>"
+        ]
       },
       {
         "name": "BCGCM001 SS Hairline - COP G+4",
         "description": "BCGCM001 SS Hairline - COP G+4",
         "code": "BS-SG0016",
         "url": "/signalization/bcgcm001-ss-hairline-cop-g4",
-        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/bcgcm001-ss-hairline-cop-g4-1.jpg",
+        "image": "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/elevator-bcgcm001-ss-hairline-cop-g4-1.jpg",
         "alttext": "BCGCM001 SS Hairline - COP G+4 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g4",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Cabin Operating Panel COP G4 | Bestech",
+        "meta_description": "Buy elevator COP hairline finish panel that incorporates pre-wired logic loops, delivering an integrated five-stop user interface for secure car control.",
+        "keywords": "stainless steel elevator COP G4, lift cabin operating panel, elevator COP hairline finish",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator COP hairline finish panel is a five-stop car operating panel with a stainless steel hairline surface. It is made to fit lifts that serve G+4 floors, replacing or upgrading the existing lift cabin operating panel. The buttons are built into the panel for floor selection.This stainless steel elevator COP G4 panel suits commercial and residential buildings that need a clean, durable interior finish. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCGCM001 SS Hairline</li><li><strong>Product code:</strong> BS-SG0016</li><li><strong>Category:</strong> Signalization</li><li><strong>Floor Count:</strong> Ground + 4 Floors (Five stop lift layout)</li><li><strong>Panel Type:</strong> Car Operating Panel (COP)</li></ul>"
+        ]
       },
       {
         "name": "BXGFM019 SS Hairline - LOP",
         "description": "BXGFM019 SS Hairline - LOP",
         "code": "BS-SG0017",
         "url": "/signalization/bxgfm019-ss-hairline-lop",
-        "image": "/img/products/signalization/bxgfm019-ss-hairline-lop/bxgfm019-ss-hairline-lop-1.jpg",
+        "image": "/img/products/signalization/bxgfm019-ss-hairline-lop/elevator-bxgfm019-ss-hairline-lop-1.jpg",
         "alttext": "BXGFM019 SS Hairline - LOP Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgfm019-ss-hairline-lop",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "BXGFM019 SS Hairline LOP | Elevator Landing Panel",
+        "meta_description": "Buy the BXGFM019 hairline stainless steel elevator LOP. This pre-assembled lift landing panel set ensures responsive floor-level directional signaling.",
+        "keywords": "SS hairline elevator LOP, lift landing operating panel, elevator LOP stainless steel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The SS hairline elevator LOP is a stainless steel hairline finish Landing Operating Panel used in elevators. It serves as the call point panel installed at each floor landing, allowing passengers to register their direction of travel (up or down).</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BXGFM019 SS Hairline</li><li><strong>Product code:</strong> BS-SG0017</li><li><strong>Category:</strong> Signalization</li><li><strong>Finish:</strong> SS Hairline (Stainless Steel Hairline)</li><li><strong>Panel Type:</strong> Landing Operating Panel (LOP)</li></ul>"
+        ]
       },
       {
         "name": "BCGBF001 SS Hairline - COP G+1",
         "description": "BCGBF001 SS Hairline - COP G+1",
         "code": "BS-SG0018",
         "url": "/signalization/bcgbf001-ss-hairline-cop-g1",
-        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/bcgbf001-ss-hairline-cop-g1-1.jpg",
+        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/elevator-bcgbf001-ss-hairline-cop-g1-1.jpg",
         "alttext": "BCGBF001 SS Hairline - COP G+1 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g1",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "SS Hairline COP G1 Lift Panel | Bestech UAE",
+        "meta_description": "Optimise passenger cabin interfaces using this lift COP stainless steel unit, a smudge-resistant SS hairline COP G1 built to endure heavy daily handling.",
+        "keywords": "SS hairline COP G1, elevator cabin operating panel, lift COP stainless steel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The SS Hairline COP G1 is a pre-wired elevator cabin operating panel engineered for two-stop lift configurations. Fabricated with a lift COP stainless steel hairline faceplate, this integrated unit houses all floor selection keys, door controls and emergency buttons.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCGBF001 SS Hairline</li><li><strong>Product code:</strong> BS-SG0018</li><li><strong>Category:</strong> Signalization</li><li><strong>Material:</strong> Stainless Steel (SS Hairline finish)</li><li><strong>Type:</strong> COP - Car Operating Panel</li><li><strong>Floors Served:</strong> G + 1 (2 stops)</li></ul>"
+        ]
       },
       {
         "name": "BCGBF001 SS Hairline - COP G+3",
         "description": "BXGAS004 SS Hairline - COP G+3",
         "code": "BS-SG0019",
         "url": "/signalization/bcgbf001-ss-hairline-cop-g3",
-        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/bcgbf001-ss-hairline-cop-g3-1.jpg",
+        "image": "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/elevator-bcgbf001-ss-hairline-cop-g3-1.jpg",
         "alttext": "BCGBF001 SS Hairline - COP G+3 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g3",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Lift COP G3 SS hairline elevator panel | UAE",
+        "meta_description": "Buy the elevator COP G3 stainless steel panel to upgrade your lift system. This pre-wired four-stop assembly ensures responsive floor call registration.",
+        "keywords": "elevator COP G3 stainless steel, lift cabin panel hairline finish, elevator control panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator COP G3 stainless steel is a factory pre-wired elevator control panel assembly designed for four-stop lift configurations. This integrated unit has all floor selection keys (G, 1, 2, 3), door controls and emergency communication nodes inside a single frame. It acts as a reliable elevator COP G3 stainless steel interface, allowing passengers to input commands smoothly while connecting directly to the main logic cabinet for instantaneous signal response.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCGBF001 SS Hairline</li><li><strong>Product code:</strong> BS-SG0019</li><li><strong>Category:</strong> Signalization</li><li><strong>Travel Configuration:</strong> Ground + 3 Floors (Four-stop lift layout)</li><li><strong>Panel Type:</strong> COP (Car Operating Panel Assembly)</li></ul>"
+        ]
+
       },
       {
         "name": "BXGAS004 SS Hairline - LOP",
         "description": "BXGAS004 SS Hairline - LOP",
         "code": "BS-SG0020",
         "url": "/signalization/bxgas004-ss-hairline-lop",
-        "image": "/img/products/signalization/bxgas004-ss-hairline-lop/bxgas004-ss-hairline-lop-1.jpg",
+        "image": "/img/products/signalization/bxgas004-ss-hairline-lop/elevator-bxgas004-ss-hairline-lop-1.jpg",
         "alttext": "BXGAS004 SS Hairline - LOP Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgas004-ss-hairline-lop",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator SS Hairline LOP | Lift Hall Call Panel UAE",
+        "meta_description": "Buy the premium BXGAS004 elevator SS hairline LOP to easily modernise scratched corridor walls with an all-in-one brushed stainless steel lift interface.",
+        "keywords": "elevator SS hairline LOP, lift landing panel stainless steel, elevator operating panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Every lift needs two types of panels: one inside the cabin and one at each floor. The BXGAS004 SS Hairline LOP is the one you see at the landing. This elevator SS hairline LOP sits outside the lift at every floor so users can call the cabin up or down and see which way it is heading. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BXGAS004 SS Hairline</li><li><strong>Product code:</strong> BS-SG0020</li><li><strong>Category:</strong> Signalization</li><li><strong>Finish:</strong> Stainless Steel Hairline (brushed)</li><li><strong>Panel Type:</strong> Landing Operating Panel (LOP)</li></ul>"
+        ]
       },
       {
         "name": "BCG401 black glass - COP G+2",
         "description": "BCG401 black glass - COP G+2",
         "code": "BS-SG0021",
         "url": "/signalization/bcg401-black-glass-cop-g2",
-        "image": "/img/products/signalization/bcg401-black-glass-cop-g2/bcg401-black-glass-cop-g2-1.jpg",
+        "image": "/img/products/signalization/bcg401-black-glass-cop-g2/elevator-bcg401-black-glass-cop-g2-1.jpg",
         "alttext": "BCG401 black glass - COP G+2 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g2",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Black Glass Elevator COP G2 | Lift Cabin Panel UAE",
+        "meta_description": "Buy this premium black glass elevator COP G2 to upgrade your lift cabin panel fixtures with a sleek, pre-wired three-stop control interface layout.",
+        "keywords": "black glass elevator COP G2, lift black glass panel, elevator cabin operating panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The black glass elevator COP G2 is the control panel inside your lift cabin. It has a black glass finish and serves G+2 buildings (ground and two floors above). Passengers use it to pick floors and check where the lift is going.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCG401 Black Glass</li><li><strong>Product code:</strong> BS-SG0021</li><li><strong>Category:</strong> Signalization</li><li><strong>Building Type:</strong> G+2 (Ground + 2 Floors)</li><li><strong>Panel Type:</strong> Cabin Operating Panel (COP)</li></ul>"
+        ]
       },
       {
         "name": "BCG401 black glass - COP G+4",
         "description": "BCG401 black glass - COP G+4",
         "code": "BS-SG0022",
         "url": "/signalization/bcg401-black-glass-cop-g4",
-        "image": "/img/products/signalization/bcg401-black-glass-cop-g4/bcg401-black-glass-cop-g4-1.jpg",
+        "image": "/img/products/signalization/bcg401-black-glass-cop-g4/elevator-bcg401-black-glass-cop-g4-1.jpg",
         "alttext": "BCG401 black glass - COP G+4 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g4",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator Black Glass COP G4 | Lift Panel UAE",
+        "meta_description": "Optimise cabin interiors with the elevator black glass COP G4, a smudge-resistant five-stop layout engineered to provide a contemporary lift panel UAE style.",
+        "keywords": "elevator black glass COP G4, lift COP glass panel, elevator control operating panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator black glass COP G4 is the in-cabin operating panel used inside elevator cabins. It is designed for G+4 buildings, which means the ground floor plus four upper floors. The black glass finish gives it a modern, professional look that fits well in commercial or high-end residential lifts. Passengers use this panel to select their destination floor and check the current direction of the lift.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCG401 Black Glass</li><li><strong>Product code:</strong> BS-SG0022</li><li><strong>Category:</strong> Signalization</li><li><strong>Building Type:</strong> G4 (Ground + 4 Floors)</li><li><strong>Panel Type:</strong> Cabin Operating Panel (COP)</li><li><strong>Application:</strong> Elevator cabin control</li></ul>"
+        ]
       },
       {
         "name": "BXGDM007 black glass - LOP",
         "description": "BXGDM007 black - LOP",
         "code": "BS-SG0023",
         "url": "/signalization/bxgdm007-black-glass-lop",
-        "image": "/img/products/signalization/bxgdm007-black-glass-lop/bxgdm007-black-glass-lop-1.jpg",
+        "image": "/img/products/signalization/bxgdm007-black-glass-lop/elevator-bxgdm007-black-glass-lop-1.jpg",
         "alttext": "BXGDM007 black glass - LOP Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-black-glass-lop",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Buy BXGDM007 Black Glass Elevator LOP | Lift Hall Panel ",
+        "meta_description": "Designed with pre-wired logic loops, the black glass elevator LOP panel connects directly to standard logic cabinets to secure stable hall signal routing.",
+        "keywords": "black glass elevator LOP, lift landing panel glass finish, elevator LOP panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The black glass elevator LOP is the call panel you see on each floor outside the elevator. It has a black glass surface and lets passengers call the lift, pick a direction and check the floor status. This lift landing panel glass finish works well in offices, apartments and hotels throughout the UAE. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BXGDM007 Black Glass</li><li><strong>Product code:</strong> BS-SG0023</li><li><strong>Category:</strong> Signalization</li><li><strong>Function:</strong> Call lift, select direction (UP/DOWN), display floor position</li><li><strong>Panel Type:</strong> Landing Operating Panel (LOP)</li></ul>"
+        ]
       },
       {
         "name": "BCG401 white glass - COP G+1",
         "description": "BCG401 white glass - COP G+1",
         "code": "BS-SG0024",
         "url": "/signalization/bcg401-white-glass-cop-g1",
-        "image": "/img/products/signalization/bcg401-white-glass-cop-g1/bcg401-white-glass-cop-g1-1.jpg",
+        "image": "/img/products/signalization/bcg401-white-glass-cop-g1/elevator-bcg401-white-glass-cop-g1-1.jpg",
         "alttext": "BCG401 white glass - COP G+1 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g1",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator COP white finish G1 | Lift Cabin Panel UAE",
+        "meta_description": "Designed with integrated touch circuits, the BCG401 elevator COP white finish G1 hooks directly into standard logic cabinets to secure stable two-stop call routing.",
+        "keywords": "white glass elevator COP G1, lift cabin glass panel, elevator COP white finish",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BCG401 white glass COP G+1 is the floor selection panel inside the elevator cabin. It comes with a white glass finish and is designed for buildings with ground plus one floor. This lift cabin glass panel is easy to install and suits everyday elevator use.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCG401 White Glass</li><li><strong>Product code:</strong> BS-SG0024</li><li><strong>Category:</strong> Signalization</li><li><strong>Finish:</strong> White Glass</li><li><strong>Panel Type:</strong> Cabin Operating Panel (COP)</li><li><strong>Floor Coverage:</strong> Ground + 1 (G+1)</li></ul>"
+        ]
       },
       {
         "name": "BCG401 white glass - COP G+3",
         "description": "BCG401 white glass - COP G+3",
         "code": "BS-SG0025",
         "url": "/signalization/bcg401-white-glass-cop-g3",
-        "image": "/img/products/signalization/bcg401-white-glass-cop-g3/bcg401-white-glass-cop-g3-1.jpg",
+        "image": "/img/products/signalization/bcg401-white-glass-cop-g3/elevator-bcg401-white-glass-cop-g3-1.jpg",
         "alttext": "BCG401 white glass - COP G+3 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g3",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator Cabin Panel System | COP G3 White Finish",
+        "meta_description": "Reduce visible scuffs and panel discolouration in busy low-rise properties by installing this robust four-stop elevator white glass COP G3 faceplate frame.",
+        "keywords": "elevator white glass COP G3, lift operating glass panel, elevator cabin panel system",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>This elevator white glass COP G3 is a cabin operating panel built for ground plus three (G+3) floor elevators. It features a bright white glass finish that fits cleanly into modern lift cabins. This panel lets passengers select floors directly inside the elevator and is designed for standard residential or commercial lift systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCG401 White Glass</li><li><strong>Product code:</strong> BS-SG0025</li><li><strong>Category:</strong> Signalization</li><li><strong>Finish:</strong> White Glass</li><li><strong>Panel Type:</strong> Cabin Operating Panel (COP)</li><li><strong>Floor Coverage:</strong> Ground + 3 (G+3)</li></ul>"
+        ]
       },
       {
         "name": "BXGDM007 white glass - LOP",
         "description": "BXGDM007 white glass - LOP",
         "code": "BS-SG0026",
         "url": "/signalization/bxgdm007-white-glass-lop",
-        "image": "/img/products/signalization/bxgdm007-white-glass-lop/bxgdm007-white-glass-lop-1.jpg",
+        "image": "/img/products/signalization/bxgdm007-white-glass-lop/elevator-bxgdm007-white-glass-lop-1.jpg",
         "alttext": "BXGDM007 white glass - LOP Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bxgdm007-white-glass-lop",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Lift Landing Operating Panel | White Glass Finish",
+        "meta_description": "This premium lift landing operating panel features a streamlined plug-in wiring layout to simplify complex corridor hall call station replacement work.",
+        "keywords": "white glass elevator LOP, lift landing operating panel, elevator white glass panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BXGDM007 white glass LOP is a lift landing operating panel fitted outside the lift on every floor. It has a white glass finish and lets users call the lift, select up or down and check the current floor.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BXGDM007 White Glass</li><li><strong>Product code:</strong> BS-SG0026</li><li><strong>Category:</strong> Signalization</li><li><strong>Finish:</strong> White Glass</li><li><strong>Panel Type:</strong>  Landing Operating Panel (LOP)</li></ul>"
+        ]
       },
       {
         "name": "Full LOP set - HPI-L0430VRI-1",
         "description": "XIZI OTIS LOP set - HPI-L0430VRI-1",
         "code": "BS-SG0027",
         "url": "/signalization/full-lop-set-hpi-l0430vri-1",
-        "image": "/img/products/signalization/full-lop-set-hpi-l0430vri-1/full-lop-set-hpi-l0430vri-1-1.jpg",
+        "image": "/img/products/signalization/full-lop-set-hpi-l0430vri-1/elevator-full-lop-set-hpi-l0430vri-1-1.jpg",
         "alttext": "Full LOP set - HPI-L0430VRI-1 Elevator Spare Parts",
         "slider": [
-          "full-lop-set-hpi-l0430vri-1-1",
-          "full-lop-set-hpi-l0430vri-1-2"
+          "elevator-full-lop-set-hpi-l0430vri-1-1",
+          "elevator-full-lop-set-hpi-l0430vri-1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/full-lop-set-hpi-l0430vri-1",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator Full LOP Set | Lift Spare Parts",
+        "meta_description": "Get the HPI-L0430VRI-1 elevator full LOP set for your lift. High-quality signalization spare parts available now in Bestech elevator spare parts, UAE.",
+        "keywords": "elevator full LOP set, lift landing operating panel set, elevator LOP system",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator full LOP set designed for HPI elevators, specifically matching the model code L0430VRI-1. An LOP is the display and button panel passengers use on each floor to call the lift and select their direction (Up or Down). This set includes all the necessary external call panels to outfit a full building or a specific number of landings, ensuring every floor has a working call point.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Full LOP Set</li><li><strong>Product code:</strong> BS-SG0027</li><li><strong>Category:</strong> Signalization</li><li><strong>Brand Compatibility:</strong> Xizi-Otis (Xizi Elevator) Systems</li><li><strong>Module Type:</strong> LOP with Integrated HPI (Hall Position Indicator)</li><li><strong>Model:</strong>  HPI-L0430VRI-1</li><li><strong>Function:</strong> Floor selection (Up/Down) and direction indication for passengers</li></ul>"
+        ]
       },
       {
         "name": "White LOP Full set",
         "description": "Schindler LOP full set (3 types)",
         "code": "BS-SG0028",
         "url": "/signalization/white-lop-full-set",
-        "image": "/img/products/signalization/white-lop-full-set/white-lop-full-set-1.jpg",
+        "image": "/img/products/signalization/white-lop-full-set/elevator-white-lop-full-set-1.jpg",
         "alttext": "White LOP Full set Elevator Spare Parts",
         "slider": [
-          "white-lop-full-set-1",
-          "white-lop-full-set-2"
+          "elevator-white-lop-full-set-1",
+          "elevator-white-lop-full-set-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/signalization/white-lop-full-set",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "White Elevator LOP Full Set | Lift Panel",
+        "meta_description": "Shop the white elevator LOP full set for every lift floor. A complete landing panel set with call buttons and HPI display for smooth building operation.",
+        "keywords": "white elevator LOP full set, lift landing panel white, elevator operating panel set",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>This is a complete white elevator LOP full set designed for Schindler lifts. The set includes three distinct panel types (single Up, single Down and dual-button) to cover all floor call points. Each panel is white, features a keyhole for maintenance and includes call buttons (Up/Down) and a Hall Position Indicator (HPI) display. This signalisation product ensures every floor has a working call point for passengers to summon the lift.  </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> White LOP Full Set</li><li><strong>Product code:</strong> BS-SG0028</li><li><strong>Category:</strong> Signalization</li><li><strong>Brand Compatibility:</strong> Schindler</li><li><strong>Panel Colour:</strong> White</li><li><strong>Set Includes:</strong> 3 panel types (Single Up, Single Down, Dual-Button)</li><li><strong>Key Features:</strong> Keyhole for maintenance, call buttons (Up/Down), HPI display</li></ul>"
+        ]
       },
       {
         "name": "White LOP Full set - Without display",
         "description": "Schindler LOP - Without display",
         "code": "BS-SG0029",
         "url": "/signalization/white-lop-full-set-without-display",
-        "image": "/img/products/signalization/white-lop-full-set-without-display/white-lop-full-set-without-display-1.jpg",
+        "image": "/img/products/signalization/white-lop-full-set-without-display/elevator-white-lop-full-set-without-display-1.jpg",
         "alttext": "White LOP Full set - Without display Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/white-lop-full-set-without-display",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "White Elevator LOP Without Display | Lift Buttons",
+        "meta_description": "Buy this complete button-only white elevator LOP without display set to refresh lobby fixtures with highly responsive, low-maintenance hall call keys.",
+        "keywords": "white elevator LOP without display, lift landing operating panel, elevator LOP set",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The White LOP Full set - Without display is specifically designed as a lift landing operating panel set. Unlike a standard LOP which combines buttons and a digital floor indicator, this set focuses entirely on the call buttons. It is a complete elevator LOP set intended for installation at every floor landing.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> White LOP Full Set (Without Display)</li><li><strong>Product code:</strong> BS-SG0029</li><li><strong>Category:</strong> Signalization</li><li><strong>Finish:</strong> White</li><li><strong>Display:</strong> None (Buttons only)</li><li><strong>Function:</strong> Call buttons (Up/Down) for lift landings</li></ul>"
+        ]
       },
       {
         "name": "BCG451 Black Glass COP G+1",
         "description": "BCG451 Black Glass COP G+1",
         "code": "BS-SG0030",
         "url": "/signalization/bcg451-black-glass-cop-g1",
-        "image": "/img/products/signalization/bcg451-black-glass-cop-g1/bcg451-black-glass-cop-g1-1.jpg",
+        "image": "/img/products/signalization/bcg451-black-glass-cop-g1/elevator-bcg451-black-glass-cop-g1-1.jpg",
         "alttext": "BCG451 Black Glass COP G+1 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-cop-g1",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Black Glass Elevator COP G1 | Lift Panel",
+        "meta_description": "Designed with advanced serial communication boards, this two-stop black glass elevator COP G1 connects smoothly to standard logic cabinets for stable routing.",
+        "keywords": "black glass elevator COP G1, lift cabin operating panel, elevator glass COP panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BCG451 Black COP G+1 is a premium elevator cabin operating panel designed for ground floor (G+1) installations. It features a sleek black glass finish that offers a modern and durable appearance. This lift cabin operating panel serves as the main control interface inside the lift car, allowing passengers to select their desired floor.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCG451 Black COP</li><li><strong>Product code:</strong> BS-SG0030</li><li><strong>Category:</strong> Signalization</li><li><strong>Type:</strong> COP (Car Operating Panel)</li><li><strong>Travel Configuration:</strong> Ground + 1 Floor (Two-stop lift layout)</li><li><strong>Finish:</strong> Black Glass</li><li><strong>Function:</strong> Floor selection inside lift cabin</li></ul>"
+        ]
       },
       {
         "name": "BCG451 Black Glass LOP",
         "description": "BCG451 Black Glass LOP",
         "code": "BS-SG0031",
         "url": "/signalization/bcg451-black-glass-lop",
-        "image": "/img/products/signalization/bcg451-black-glass-lop/bcg451-black-glass-lop-1.jpg",
+        "image": "/img/products/signalization/bcg451-black-glass-lop/elevator-bcg451-black-glass-lop-1.jpg",
         "alttext": "BCG451 Black Glass LOP Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-lop",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Black Glass Elevator LOP for Lift | Bestech",
+        "meta_description": "Buy the BCG451 black glass elevator LOP to upgrade your hall stations as this pre-assembled interface ensures responsive direction call registration.",
+        "keywords": "black glass elevator LOP, lift landing operating panel, elevator glass landing panel",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BCG451 Black Glass LOP is a black glass elevator landing operating panel (LOP) used at each floor of a lift system. It lets passengers outside the lift cabin call the lift to their floor. The panel has a black glass finish for a clean, modern look. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BCG451 Black Glass LOP</li><li><strong>Product code:</strong> BS-SG0031</li><li><strong>Category:</strong> Signalization</li><li><strong>Type:</strong> LOP (Landing Operating Panel)</li><li><strong>Finish:</strong> Black Glass</li></ul>"
+        ]
       }
     ]
   },
