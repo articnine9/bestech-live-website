@@ -4523,8 +4523,8 @@ export const products = [
         code: "BS-DW0001",
         url: "/door-wheels/door-hanging-wheel-small-85-20-6204",
         image:
-          "/img/products/door-wheels/door-hanging-wheel-small-85-20-6204/1.jpg",
-        slider: ["1", "2", "3", "4"],
+          "/img/products/door-wheels/door-hanging-wheel-small-85-20-6204/elevator-door-hanging-wheel-small-85-20-6204-1.jpg",
+        slider: ["elevator-door-hanging-wheel-small-85-20-6204-1", "elevator-door-hanging-wheel-small-85-20-6204-2", "elevator-door-hanging-wheel-small-85-20-6204-3", "elevator-door-hanging-wheel-small-85-20-6204-4"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-small-85-20-6204",
         robots:
@@ -4536,8 +4536,8 @@ export const products = [
         code: "BS-DW0002",
         url: "/door-wheels/door-hanging-wheel-big-140-20-6204",
         image:
-          "/img/products/door-wheels/door-hanging-wheel-big-140-20-6204/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/door-wheels/door-hanging-wheel-big-140-20-6204/elevator-door-hanging-wheel-big-140-20-6204-1.jpg",
+        slider: ["elevator-door-hanging-wheel-big-140-20-6204-1", "elevator-door-hanging-wheel-big-140-20-6204-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-big-140-20-6204",
         robots:
@@ -4548,7 +4548,7 @@ export const products = [
         description: "52 X 16 X 6003",
         code: "BS-DW0003",
         url: "/door-wheels/door-hanging-wheel-52-16-6003",
-        image: "/img/products/door-wheels/door-hanging-wheel-52-16-6003/1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-52-16-6003/elevator-door-hanging-wheel-52-16-6003-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-52-16-6003",
         robots:
@@ -4559,7 +4559,7 @@ export const products = [
         description: "50 X 14 X 6201",
         code: "BS-DW0004",
         url: "/door-wheels/door-hanging-wheel-50-14-6201",
-        image: "/img/products/door-wheels/door-hanging-wheel-50-14-6201/1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-50-14-6201/elevator-door-hanging-wheel-50-14-6201-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-50-14-6201",
         robots:
@@ -4570,8 +4570,8 @@ export const products = [
         description: "94 X 19 X 6203",
         code: "BS-DW0005",
         url: "/door-wheels/door-hanging-wheel-94-19-6203",
-        image: "/img/products/door-wheels/door-hanging-wheel-94-19-6203/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/door-wheels/door-hanging-wheel-94-19-6203/elevator-door-hanging-wheel-94-19-6203-1.jpg",
+        slider: ["elevator-door-hanging-wheel-94-19-6203-1", "elevator-door-hanging-wheel-94-19-6203-2", "elevator-door-hanging-wheel-94-19-6203-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-94-19-6203",
         robots:
@@ -4583,7 +4583,7 @@ export const products = [
         description: "74 X 18 X 6203",
         code: "BS-DW0006",
         url: "/door-wheels/door-hanging-wheel-74-18-6203",
-        image: "/img/products/door-wheels/door-hanging-wheel-74-18-6203/1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-74-18-6203/elevator-door-hanging-wheel-74-18-6203-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-74-18-6203",
         robots:
@@ -4594,8 +4594,8 @@ export const products = [
         description: "C144AANP",
         code: "BS-DW0007",
         url: "/door-wheels/door-hanging-wheel-c144aanp",
-        image: "/img/products/door-wheels/door-hanging-wheel-c144aanp/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-wheels/door-hanging-wheel-c144aanp/elevator-door-hanging-wheel-c144aanp-1.jpg",
+        slider: ["elevator-door-hanging-wheel-c144aanp-1", "elevator-door-hanging-wheel-c144aanp-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-c144aanp",
         robots:
@@ -4606,7 +4606,7 @@ export const products = [
         description: "PWVC",
         code: "BS-DW0008",
         url: "/door-wheels/door-belt-wheel-pwvc",
-        image: "/img/products/door-wheels/door-belt-wheel-pwvc/1.jpg",
+        image: "/img/products/door-wheels/door-belt-wheel-pwvc/elevator-door-belt-wheel-pwvc-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-pwvc",
         robots:
@@ -4617,7 +4617,7 @@ export const products = [
         description: "38 X 20 X 6000",
         code: "BS-DW009",
         url: "/door-wheels/door-belt-wheel-38-20-6000",
-        image: "/img/products/door-wheels/door-belt-wheel-38-20-6000/1.jpg",
+        image: "/img/products/door-wheels/door-belt-wheel-38-20-6000/elevator-door-belt-wheel-38-20-6000-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-38-20-6000",
         robots:
@@ -4628,7 +4628,7 @@ export const products = [
         description: "F9",
         code: "BS-DW0010",
         url: "/door-wheels/door-belt-wheel-f9",
-        image: "/img/products/door-wheels/door-belt-wheel-f9/1.jpg",
+        image: "/img/products/door-wheels/door-belt-wheel-f9/elevator-door-belt-wheel-f9-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-f9",
         robots:
@@ -4639,8 +4639,8 @@ export const products = [
         description: "",
         code: "BS-DW0011",
         url: "/door-wheels/door-machine-positioning-wheel",
-        image: "/img/products/door-wheels/door-machine-positioning-wheel/1.jpg",
-        slider: ["1", "2", "3", "4", "5", "6"],
+        image: "/img/products/door-wheels/door-machine-positioning-wheel/elevator-door-machine-positioning-wheel-1.jpg",
+        slider: ["elevator-door-machine-positioning-wheel-1", "elevator-door-machine-positioning-wheel-2", "elevator-door-machine-positioning-wheel-3", "elevator-door-machine-positioning-wheel-4", "elevator-door-machine-positioning-wheel-5", "elevator-door-machine-positioning-wheel-6"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-machine-positioning-wheel",
         robots:
@@ -4651,8 +4651,8 @@ export const products = [
         description: "56 X 16 X 6201",
         code: "BS-DW0012",
         url: "/door-wheels/door-hanging-wheel-56-16-6201",
-        image: "/img/products/door-wheels/door-hanging-wheel-56-16-6201/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-wheels/door-hanging-wheel-56-16-6201/elevator-door-hanging-wheel-56-16-6201-1.jpg",
+        slider: ["elevator-door-hanging-wheel-56-16-6201-1", "elevator-door-hanging-wheel-56-16-6201-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-56-16-6201",
         robots:
@@ -4663,8 +4663,8 @@ export const products = [
         description: "56 X 14 X 6201",
         code: "BS-DW0013",
         url: "/door-wheels/door-wheel-56-14-6201",
-        image: "/img/products/door-wheels/door-wheel-56-14-6201/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-wheels/door-wheel-56-14-6201/elevator-door-wheel-56-14-6201-1.jpg",
+        slider: ["elevator-door-wheel-56-14-6201-1", "elevator-door-wheel-56-14-6201-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-56-14-6201",
         robots:
@@ -4675,8 +4675,8 @@ export const products = [
         description: "70 X 17 X 6200",
         code: "BS-DW0014",
         url: "/door-wheels/door-hanging-wheel-70-17-6200",
-        image: "/img/products/door-wheels/door-hanging-wheel-70-17-6200/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-wheels/door-hanging-wheel-70-17-6200/elevator-door-hanging-wheel-70-17-6200-1.jpg",
+        slider: ["elevator-door-hanging-wheel-70-17-6200-1", "elevator-door-hanging-wheel-70-17-6200-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-70-17-6200",
         robots:
@@ -4687,8 +4687,8 @@ export const products = [
         description: "48 X 14 X 6200",
         code: "BS-DW0015",
         url: "/door-wheels/door-hanging-wheel-48-14-6200",
-        image: "/img/products/door-wheels/door-hanging-wheel-48-14-6200/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-wheels/door-hanging-wheel-48-14-6200/elevator-door-hanging-wheel-48-14-6200-1.jpg",
+        slider: ["elevator-door-hanging-wheel-48-14-6200-1", "elevator-door-hanging-wheel-48-14-6200-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-48-14-6200",
         robots:
@@ -4699,8 +4699,8 @@ export const products = [
         description: "45 X 16 X 6000",
         code: "BS-DW0016",
         url: "/door-wheels/door-hanging-wheel-45-16-6000",
-        image: "/img/products/door-wheels/door-hanging-wheel-45-16-6000/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-wheels/door-hanging-wheel-45-16-6000/elevator-door-hanging-wheel-45-16-6000-1.jpg",
+        slider: ["elevator-door-hanging-wheel-45-16-6000-1", "elevator-door-hanging-wheel-45-16-6000-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-45-16-6000",
         robots:
@@ -4712,8 +4712,8 @@ export const products = [
         code: "BS-DW0017",
         url: "/door-wheels/door-hanging-wheel-16508792-16502278",
         image:
-          "/img/products/door-wheels/door-hanging-wheel-16508792-16502278/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/door-wheels/door-hanging-wheel-16508792-16502278/elevator-door-hanging-wheel-16508792-16502278-1.jpg",
+        slider: ["elevator-door-hanging-wheel-16508792-16502278-1", "elevator-door-hanging-wheel-16508792-16502278-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-16508792-16502278",
         robots:
@@ -4724,8 +4724,8 @@ export const products = [
         description: "65 X 13 X 6202",
         code: "BS-DW0018",
         url: "/door-wheels/door-hanging-wheel-65-13-6202",
-        image: "/img/products/door-wheels/door-hanging-wheel-65-13-6202/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-wheels/door-hanging-wheel-65-13-6202/elevator-door-hanging-wheel-65-13-6202-1.jpg",
+        slider: ["elevator-door-hanging-wheel-65-13-6202-1", "elevator-door-hanging-wheel-65-13-6202-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-65-13-6202",
         robots:
@@ -4736,8 +4736,8 @@ export const products = [
         description: "62 X 16 X 6203",
         code: "BS-DW0019",
         url: "/door-wheels/door-hanging-wheel-62-16-6203",
-        image: "/img/products/door-wheels/door-hanging-wheel-62-16-6203/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/door-wheels/door-hanging-wheel-62-16-6203/elevator-door-hanging-wheel-62-16-6203-1.jpg",
+        slider: ["elevator-door-hanging-wheel-62-16-6203-1", "elevator-door-hanging-wheel-62-16-6203-2", "elevator-door-hanging-wheel-62-16-6203-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-62-16-6203",
         robots:
@@ -4748,8 +4748,8 @@ export const products = [
         description: "AMD",
         code: "BS-DW0020",
         url: "/door-wheels/door-wheel-bracket-amd",
-        image: "/img/products/door-wheels/door-wheel-bracket-amd/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/door-wheels/door-wheel-bracket-amd/elevator-door-wheel-bracket-amd-1.jpg",
+        slider: ["elevator-door-wheel-bracket-amd-1", "elevator-door-wheel-bracket-amd-2", "elevator-door-wheel-bracket-amd-3", "elevator-door-wheel-bracket-amd-4"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-bracket-amd",
         robots:
@@ -4760,7 +4760,7 @@ export const products = [
         description: "3201.05.0032/C",
         code: "BS-DW0021",
         url: "/door-wheels/door-wheel-3201-05-0032-c",
-        image: "/img/products/door-wheels/door-wheel-3201-05-0032-c/1.jpg",
+        image: "/img/products/door-wheels/door-wheel-3201-05-0032-c/elevator-door-wheel-3201-05-0032-c-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-3201-05-0032-c",
         robots:
@@ -4771,7 +4771,7 @@ export const products = [
         description: "Door wheel roller 70*25*6204",
         code: "BS-DW0022",
         url: "/door-wheels/door-wheel-roller-70-25-6204",
-        image: "/img/products/door-wheels/door-wheel-roller-70-25-6204/1.jpg",
+        image: "/img/products/door-wheels/door-wheel-roller-70-25-6204/elevator-door-wheel-roller-70-25-6204-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-roller-70-25-6204",
         robots:
