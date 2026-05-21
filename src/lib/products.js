@@ -6592,7 +6592,7 @@ export const products = [
         description: "HH ARD 3P-45KW 380V (TF)",
         code: "BS-AR0011",
         url: "/ard/hh-ard-3p-45kw-380v-tf",
-        image: "/img/products/ard/ard-3p-45kw-380v-tf/1.jpg",
+        image: "/img/products/ard/ard-3p-45kw-380v-tf/elevator-ard-3p-45kw-380v-tf-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-45kw-380v-tf",
         robots:
@@ -6603,7 +6603,7 @@ export const products = [
         description: "Battey 12V 7AH",
         code: "BS-AR0012",
         url: "/ard/battery-12v-7ah",
-        image: "/img/products/ard/battery-12v-7ah/1.jpg",
+        image: "/img/products/ard/battery-12v-7ah/elevator-battery-12v-7ah-1.jpg",
         canonical: "https://www.bestechparts.ae/products/ard/battery-12v-7ah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6613,7 +6613,7 @@ export const products = [
         description: "Battery 12V 9AH",
         code: "BS-AR0013",
         url: "/ard/battery-12v-9ah",
-        image: "/img/products/ard/battery-12v-9ah/1.jpg",
+        image: "/img/products/ard/battery-12v-9ah/elevator-battery-12v-9ah-1.jpg",
         canonical: "https://www.bestechparts.ae/products/ard/battery-12v-9ah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6623,7 +6623,7 @@ export const products = [
         description: "Battery 12V 12AH",
         code: "BS-AR0014",
         url: "/ard/battery-12v-12ah",
-        image: "/img/products/ard/battery-12v-12ah/1.jpg",
+        image: "/img/products/ard/battery-12v-12ah/elevator-battery-12v-12ah-1.jpg",
         canonical: "https://www.bestechparts.ae/products/ard/battery-12v-12ah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6633,8 +6633,8 @@ export const products = [
         description: "UPS 1500VA 900W",
         code: "BS-AR0015",
         url: "/ard/ups-1500va-900w",
-        image: "/img/products/ard/ups-1500va-900w/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/ard/ups-1500va-900w/elevator-ups-1500va-900w-1.jpg",
+        slider: ["elevator-ups-1500va-900w-1", "elevator-ups-1500va-900w-2"],
         canonical: "https://www.bestechparts.ae/products/ard/ups-1500va-900w",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6644,7 +6644,7 @@ export const products = [
         description: "TMR-ARD-3P-15KW",
         code: "BS-AR0016",
         url: "/ard/tmr-ard-3p-15kw",
-        image: "/img/products/ard/tmr-ard-3p-15kw/1.jpg",
+        image: "/img/products/ard/tmr-ard-3p-15kw/elevator-tmr-ard-3p-15kw-1.jpg",
         canonical: "https://www.bestechparts.ae/products/ard/tmr-ard-3p-15kw",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6654,7 +6654,7 @@ export const products = [
         description: "TMR-ARD-3P-45KW",
         code: "BS-AR0017",
         url: "/ard/tmr-ard-3p-45kw",
-        image: "/img/products/ard/tmr-ard-3p-45kw/1.jpg",
+        image: "/img/products/ard/tmr-ard-3p-45kw/elevator-tmr-ard-3p-45kw-1.jpg",
         canonical: "https://www.bestechparts.ae/products/ard/tmr-ard-3p-45kw",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6664,8 +6664,8 @@ export const products = [
         description: "HH-ARD-18.5KW",
         code: "BS-AR0018",
         url: "/ard/hh-ard-18.5kw",
-        image: "/img/products/ard/hh-ard-18.5kw/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/ard/hh-ard-18.5kw/elevator-hh-ard-18.5kw-1.jpg",
+        slider: ["elevator-hh-ard-18.5kw-1", "elevator-hh-ard-18.5kw-2"],
         canonical: "https://www.bestechparts.ae/products/ard/hh-ard-18.5kw",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6675,8 +6675,8 @@ export const products = [
         description: "Inovance ARD 3P 7.5KW",
         code: "BS-AR0019",
         url: "/ard/inovance-ard-3p-7.5kw",
-        image: "/img/products/ard/inovance-ard-3p-7.5kw/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/ard/inovance-ard-3p-7.5kw/elevator-inovance-ard-3p-7.5kw-1.jpg",
+        slider: ["elevator-inovance-ard-3p-7.5kw-1", "elevator-inovance-ard-3p-7.5kw-2", "elevator-inovance-ard-3p-7.5kw-3"],
         canonical:
           "https://www.bestechparts.ae/products/ard/inovance-ard-3p-7.5kw",
         robots:

@@ -8321,103 +8321,184 @@
         "description": "HH ARD 3P-45KW 380V (TF)",
         "code": "BS-AR0011",
         "url": "/ard/hh-ard-3p-45kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-45kw-380v-tf/ard-3p-45kw-380v-tf-1.jpg",
-        "alttext": "Elevator HH ARD 3P-45KW 380V (TF)",
+        "image": "/img/products/ard/ard-3p-45kw-380v-tf/elevator-ard-3p-45kw-380v-tf-1.jpg",
+        "alttext": "Elevator HH ARD 3P-45KW 380V (TF) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-45kw-380v-tf",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator ARD 45KW for Safe Lift Rescue | Bestech",
+        "meta_description": "Reliable elevator ARD 45KW designed to keep lifts running safely during power failures with smooth automatic rescue support.",
+        "keywords": "elevator ARD 45KW, lift automatic rescue device, elevator emergency backup system",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The HH-ARD-3P-45KW-380V-TF is built to help elevators operate safely when there is a sudden power failure. Once the power goes off, the system automatically brings the lift to the nearest floor and opens the doors, allowing passengers to get out safely. This elevator ARD 45KW responds quickly during power interruptions and helps reduce the chances of passengers getting stuck inside the lift.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> HH ARD 3P-45KW 380V (TF)</li><li><strong>Product Code:</strong> BS-AR0011</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> TF Configuration</li><li><strong>Application:</strong>  Lift Automatic Rescue / Elevator Emergency Backup</li></ul>"
+        ]
       },
       {
-        "name": "Battey 12V 7AH",
-        "description": "Battey 12V 7AH",
+        "name": "Battery 12V 7AH",
+        "description": "Battery 12V 7AH",
         "code": "BS-AR0012",
         "url": "/ard/battery-12v-7ah",
-        "image": "/img/products/ard/battery-12v-7ah/battery-12v-7ah-1.jpg",
-        "alttext": "Elevator Battey 12V 7AH",
+        "image": "/img/products/ard/battery-12v-7ah/elevator-battery-12v-7ah-1.jpg",
+        "alttext": "Elevator Battey 12V 7AH Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-7ah",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Backup Battery 12V 7AH for Elevator ARD Systems | Bestech",
+        "meta_description": "Keep your elevator running during outages with this 12V 7AH lift backup battery. Ideal as ARD battery for elevator systems.",
+        "keywords": "elevator battery 12V 7AH, lift backup battery, ARD battery for elevator",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 12V 7AH elevator battery is a trusted backup power solution designed for elevator ARD (Automatic Rescue Device) systems. When power fails, it ensures the lift can safely move to the nearest floor for passenger release. It is a simple, essential part of keeping elevators safe and functional during outages, especially in homes and small commercial buildings.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Battery 12V 7AH</li><li><strong>Product Code:</strong> BS-AR0012</li><li><strong>Category:</strong> ARD</li><li><strong>Application:</strong>  ARD Battery for Elevator / Lift Backup Battery</li></ul>"
+        ]
       },
       {
         "name": "Battery 12V 9AH",
         "description": "Battery 12V 9AH",
         "code": "BS-AR0013",
         "url": "/ard/battery-12v-9ah",
-        "image": "/img/products/ard/battery-12v-9ah/battery-12v-9ah-1.jpg",
-        "alttext": "Elevator Battery 12V 9AH",
+        "image": "/img/products/ard/battery-12v-9ah/elevator-battery-12v-9ah-1.jpg",
+        "alttext": "Elevator Battery 12V 9AH Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-9ah",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "12V 9AH Elevator Battery | Reliable Backup for ARD Systems",
+        "meta_description": "Ensure safe elevator operation during outages with this 12V 9AH backup battery. It delivers reliable power when the main supply fails.",
+        "keywords": "elevator battery 12V 9AH, lift UPS battery, ARD backup battery",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 12V 9AH battery is designed for elevator ARD systems. It is built to support the lift during power failures automatically, ensuring it reaches the nearest floor safely.This battery is ideal for use in residential and light commercial elevators where reliable backup power is essential. It is designed for easy installation, fits standard battery trays and requires no ongoing maintenance. It is a dependable choice for uninterrupted elevator safety.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Battery 12V 9AH</li><li><strong>Product Code:</strong> BS-AR0013</li><li><strong>Category:</strong> ARD</li><li><strong>Application:</strong> Elevator ARD Systems, Lift Backup Power and UPS & Emergency Lighting</li></ul>"
+        ]
       },
       {
         "name": "Battery 12V 12AH",
         "description": "Battery 12V 12AH",
         "code": "BS-AR0014",
         "url": "/ard/battery-12v-12ah",
-        "image": "/img/products/ard/battery-12v-12ah/battery-12v-12ah-1.jpg",
-        "alttext": "Elevator Battery 12V 12AH",
+        "image": "/img/products/ard/battery-12v-12ah/elevator-battery-12v-12ah-1.jpg",
+        "alttext": "Elevator Battery 12V 12AH Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-12ah",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator ARD Battery 12V 12AH | Rescue & Lift Backup ",
+        "meta_description": "A high-capacity 12V 12AH battery designed for elevator emergency systems. Powers lift backup during outages.",
+        "keywords": "elevator battery 12V 12AH, lift emergency battery, elevator ARD battery",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 12V 12AH battery is a high-capacity, sealed lead-acid battery designed for elevator ARD systems. It is built to deliver stable, automatic power when the main supply fails, ensuring the lift moves safely to the nearest floor. This battery is ideal for use in residential and commercial elevators where longer backup runtime is needed. It is maintenance-free, leak-proof and designed for reliable performance in control panel environments. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Battery 12V 12AH</li><li><strong>Product Code:</strong> BS-AR0014</li><li><strong>Category:</strong> ARD</li><li><strong>Application:</strong> Elevator ARD Battery, Lift Backup Power</li></ul>"
+        ]
       },
       {
         "name": "UPS 1500VA 900W",
         "description": "UPS 1500VA 900W",
         "code": "BS-AR0015",
         "url": "/ard/ups-1500va-900w",
-        "image": "/img/products/ard/ups-1500va-900w/ups-1500va-900w-1.jpg",
-        "alttext": "Elevator UPS 1500VA 900W",
+        "image": "/img/products/ard/ups-1500va-900w/elevator-ups-1500va-900w-1.jpg",
+        "alttext": "Elevator UPS 1500VA 900W Elevator Spare Parts",
         "slider": [
-          "ups-1500va-900w-1",
-          "ups-1500va-900w-2"
+          "elevator-ups-1500va-900w-1",
+          "elevator-ups-1500va-900w-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ups-1500va-900w",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "1500VA Elevator UPS | Emergency Power Backup",
+        "meta_description": "Keep your lift running during outages with this 1500VA UPS. A stable, compact power backup for elevator emergency systems.",
+        "keywords": "elevator UPS 1500VA, lift power backup UPS, elevator emergency power supply",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 1500VA elevator UPS is designed to keep your elevator safe when the power goes out. It supports elevator control systems and ARD units, ensuring the lift safely reaches the nearest floor. This lift power backup UPS delivers 900W of clean, stable output, with automatic switchover and surge protection. It is compact, easy to install and built for continuous operation in elevator machine rooms.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> UPS 1500VA 900W</li><li><strong>Product Code:</strong> BS-AR0015</li><li><strong>Category:</strong> ARD</li><li><strong>Application:</strong> Elevator UPS 1500VA, Lift Emergency Power Backup</li></ul>"
+        ]
       },
       {
         "name": "TMR-ARD-3P-15KW",
         "description": "TMR-ARD-3P-15KW",
         "code": "BS-AR0016",
         "url": "/ard/tmr-ard-3p-15kw",
-        "image": "/img/products/ard/tmr-ard-3p-15kw/tmr-ard-3p-15kw-1.jpg",
-        "alttext": "Elevator TMR-ARD-3P-15KW",
+        "image": "/img/products/ard/tmr-ard-3p-15kw/elevator-tmr-ard-3p-15kw-1.jpg",
+        "alttext": "Elevator TMR-ARD-3P-15KW Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-15kw",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "15KW TMR ARD for Elevators | Elevator Rescue Device ",
+        "meta_description": "Keep your elevator running during outages with the 15KW TMR ARD. This automatic rescue device safely moves lifts to the nearest floor when power fails.",
+        "keywords": "elevator ARD 15KW TMR, lift rescue device, elevator automatic rescue unit",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The TMR-ARD-3P-15KW is an automatic rescue device designed for elevators operating on 380V power. It activates during a power failure to safely move the cabin to the nearest floor, preventing entrapment. It is suitable for medium to high-capacity lifts. It delivers reliable, hands-free operation with minimal maintenance. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> TMR-ARD-3P-15KW</li><li><strong>Product Code:</strong> BS-AR0016</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> Automatic Rescue Device</li><li><strong>Application:</strong> Elevator ARD 15KW / Lift Rescue Device</li></ul>"
+        ]
       },
       {
         "name": "TMR-ARD-3P-45KW",
         "description": "TMR-ARD-3P-45KW",
         "code": "BS-AR0017",
         "url": "/ard/tmr-ard-3p-45kw",
-        "image": "/img/products/ard/tmr-ard-3p-45kw/tmr-ard-3p-45kw-1.jpg",
-        "alttext": "Elevator TMR-ARD-3P-45KW",
+        "image": "/img/products/ard/tmr-ard-3p-45kw/elevator-tmr-ard-3p-45kw-1.jpg",
+        "alttext": "Elevator TMR-ARD-3P-45KW Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-45kw",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator TMR-ARD 45KW | Emergency Rescue System",
+        "meta_description": "TMR-ARD 45KW is a heavy-duty elevator backup rescue unit built for high-capacity lifts. Automatically rescues passengers when mains power fails.",
+        "keywords": "elevator ARD 45KW TMR, lift emergency rescue system, elevator backup rescue unit",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The TMR-ARD-3P-45KW is an automatic rescue device for large-capacity elevators. It activates during power outages to safely bring the elevator to the nearest floor, preventing passenger entrapment. it is suitable for commercial and high-rise applications. It handles the toughest elevator loads with ease.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> TMR-ARD-3P-45KW</li><li><strong>Product Code:</strong> BS-AR0017</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> Automatic Rescue Device</li><li><strong>Application:</strong> Elevator ARD 45KW / Lift Emergency Rescue System</li></ul>"
+        ]
       },
       {
         "name": "HH-ARD-18.5KW",
         "description": "HH-ARD-18.5KW",
         "code": "BS-AR0018",
         "url": "/ard/hh-ard-18.5kw",
-        "image": "/img/products/ard/hh-ard-18.5kw/hh-ard-18.5kw-1.jpg",
-        "alttext": "Elevator HH-ARD-18.5KW",
+        "image": "/img/products/ard/hh-ard-18.5kw/elevator-hh-ard-18.5kw-1.jpg",
+        "alttext": "Elevator HH-ARD-18.5KW Elevator Spare Parts",
         "slider": [
-          "hh-ard-18.5kw-1",
-          "hh-ard-18.5kw-2"
+          "elevator-hh-ard-18.5kw-1",
+          "elevator-hh-ard-18.5kw-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-18.5kw",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "18.5KW Elevator ARD | Automatic Rescue During Power Failure",
+        "meta_description": "The 18.5KW elevator ARD ensures safe, automatic lift evacuation during outages. Ideal for medium to large buildings with 380V systems.",
+        "keywords": "elevator ARD 18.5KW, lift automatic rescue system, elevator emergency device",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The HH-ARD-18.5KW is an automatic rescue device designed for elevators that need reliable backup power. When electricity fails, it activates on its own and moves the lift to the nearest floor. It is a solid choice for commercial buildings or larger residential lifts. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> HH-ARD-18.5KW</li><li><strong>Product Code:</strong> BS-AR0018</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> Automatic Rescue Device</li><li><strong>Application:</strong> Elevator ARD 18.5KW / Lift Automatic Rescue System</li></ul>"
+        ]
       },
       {
         "name": "Inovance ARD 3P 7.5KW",
         "description": "Inovance ARD 3P 7.5KW",
         "code": "BS-AR0019",
         "url": "/ard/inovance-ard-3p-7.5kw",
-        "image": "/img/products/ard/inovance-ard-3p-7.5kw/inovance-ard-3p-7.5kw-1.jpg",
-        "alttext": "Elevator Inovance ARD 3P 7.5KW",
+        "image": "/img/products/ard/inovance-ard-3p-7.5kw/elevator-inovance-ard-3p-7.5kw-1.jpg",
+        "alttext": "Elevator Inovance ARD 3P 7.5KW Elevator Spare Parts",
         "slider": [
-          "inovance-ard-3p-7.5kw-1",
-          "inovance-ard-3p-7.5kw-2",
-          "inovance-ard-3p-7.5kw-3"
+          "elevator-inovance-ard-3p-7.5kw-1",
+          "elevator-inovance-ard-3p-7.5kw-2",
+          "elevator-inovance-ard-3p-7.5kw-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/inovance-ard-3p-7.5kw",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Inovance 7.5KW ARD | Elevator Rescue System",
+        "meta_description": "The Inovance elevator ARD 7.5KW provides automatic rescue during power cuts. Keeps lifts safe and moving.",
+        "keywords": "Inovance elevator ARD 7.5KW, lift rescue device Inovance, elevator ARD system",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Inovance ARD 3P-7.5KW is a compact rescue unit for elevators. If the power goes out, it automatically powers the lift to move safely to the nearest floor. It is made for 380V systems and works well in homes or small buildings. It is easy to install, quiet in operation and built to be reliable.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Inovance ARD 3P 7.5KW</li><li><strong>Product Code:</strong> BS-AR0019</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> Automatic Rescue Device</li><li><strong>Application:</strong> Inovance Elevator ARD System / Lift Rescue Device</li></ul>"
+        ]
       }
     ]
   },
