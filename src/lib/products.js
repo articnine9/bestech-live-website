@@ -4314,8 +4314,8 @@ export const products = [
         description: "SEL1-A1Z",
         code: "BS-DL0022",
         url: "/door-locks/door-lock-contact-sel1-a1z",
-        image: "/img/products/door-locks/door-lock-contact-sel1-a1z/door-lock-contact-sel1-a1z-1.jpg",
-        slider: ["door-lock-contact-sel1-a1z-1", "door-lock-contact-sel1-a1z-2", "door-lock-contact-sel1-a1z-3"],
+        image: "/img/products/door-locks/door-lock-contact-sel1-a1z/elevator-door-lock-contact-sel1-a1z-1.jpg",
+        slider: ["elevator-door-lock-contact-sel1-a1z-1", "elevator-door-lock-contact-sel1-a1z-2", "elevator-door-lock-contact-sel1-a1z-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-sel1-a1z",
         robots:
