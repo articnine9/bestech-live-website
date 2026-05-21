@@ -501,7 +501,7 @@ export const products = [
         description: "Schneider LC1D80F7C",
         code: "BS-CT0009",
         url: "/contactors/contactor-ac110v-80a",
-        image: "/img/products/contactors/contactor-ac110v-80a/1.jpg",
+        image: "/img/products/contactors/contactor-ac110v-80a/elevator-contactor-ac110v-80a-1.jpg",
         slider: ["elevator-contactor-ac110v-80a-1", "elevator-contactor-ac110v-80a-2"],
         meta_title: "",
         meta_description: "",
