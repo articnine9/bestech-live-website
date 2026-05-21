@@ -4075,7 +4075,7 @@ export const products = [
         description: "",
         code: "BS-DL0001",
         url: "/door-locks/door-triangle-lock",
-        image: "/img/products/door-locks/door-triangle-lock/1.jpg",
+        image: "/img/products/door-locks/door-triangle-lock/elevator-door-triangle-lock-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-triangle-lock",
         robots:
@@ -4086,7 +4086,7 @@ export const products = [
         description: "AZ-05",
         code: "BS-DL0002",
         url: "/door-locks/door-lock-contact-az-05",
-        image: "/img/products/door-locks/door-lock-contact-az-05/1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-az-05/elevator-door-lock-contact-az-05-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-05",
         robots:
@@ -4097,8 +4097,8 @@ export const products = [
         description: "10001",
         code: "BS-DL0003",
         url: "/door-locks/cop-lock-key-10001",
-        image: "/img/products/door-locks/cop-lock-key-10001/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/cop-lock-key-10001/elevator-cop-lock-key-10001-1.jpg",
+        slider: ["elevator-cop-lock-key-10001-1", "elevator-cop-lock-key-10001-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/cop-lock-key-10001",
         robots:
@@ -4109,7 +4109,7 @@ export const products = [
         description: "MKG_161-06",
         code: "BS-DL0004",
         url: "/door-locks/landing-door-lock-mkg-161-06",
-        image: "/img/products/door-locks/landing-door-lock-mkg-161-06/1.jpg",
+        image: "/img/products/door-locks/landing-door-lock-mkg-161-06/elevator-landing-door-lock-mkg-161-06-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-mkg-161-06",
         robots:
@@ -4120,7 +4120,7 @@ export const products = [
         description: "AZ-06",
         code: "BS-DL0005",
         url: "/door-locks/door-lock-contact-az-06",
-        image: "/img/products/door-locks/door-lock-contact-az-06/1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-az-06/elevator-door-lock-contact-az-06-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-06",
         robots:
@@ -4131,8 +4131,8 @@ export const products = [
         description: "E-431",
         code: "BS-DL0006",
         url: "/door-locks/cop-lock-e-431",
-        image: "/img/products/door-locks/cop-lock-e-431/1.jpg",
-        slider: ["1"],
+        image: "/img/products/door-locks/cop-lock-e-431/elevator-cop-lock-e-431-1.jpg",
+        slider: ["elevator-cop-lock-e-431-1"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/cop-lock-e-431",
         robots:
@@ -4143,8 +4143,8 @@ export const products = [
         description: "G509/102121A",
         code: "BS-DL0007",
         url: "/door-locks/landing-door-lock-g509-102121a",
-        image: "/img/products/door-locks/landing-door-lock-g509-102121a/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/door-locks/landing-door-lock-g509-102121a/elevator-landing-door-lock-g509-102121a-1.jpg",
+        slider: ["elevator-landing-door-lock-g509-102121a-1", "elevator-landing-door-lock-g509-102121a-2", "elevator-landing-door-lock-g509-102121a-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-g509-102121a",
         robots:
@@ -4155,7 +4155,7 @@ export const products = [
         description: "AZ14-1KD",
         code: "BS-DL0008",
         url: "/door-locks/door-lock-contact-az14-1kd",
-        image: "/img/products/door-locks/door-lock-contact-az14-1kd/1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-az14-1kd/elevator-door-lock-contact-az14-1kd-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az14-1kd",
         robots:
@@ -4166,8 +4166,8 @@ export const products = [
         description: "TY-161",
         code: "BS-DL0009",
         url: "/door-locks/door-lock-contact-ty-161",
-        image: "/img/products/door-locks/door-lock-contact-ty-161/1.jpg",
-        slider: ["1"],
+        image: "/img/products/door-locks/door-lock-contact-ty-161/elevator-door-lock-contact-ty-161-1.jpg",
+        slider: ["elevator-door-lock-contact-ty-161-1"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-ty-161",
         robots:
@@ -4178,7 +4178,7 @@ export const products = [
         description: "",
         code: "BS-DL0010",
         url: "/door-locks/triangle-lock",
-        image: "/img/products/door-locks/triangle-lock/1.jpg",
+        image: "/img/products/door-locks/triangle-lock/elevator-triangle-lock-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/triangle-lock",
         robots:
@@ -4189,7 +4189,7 @@ export const products = [
         description: "KF-9074",
         code: "BS-DL0011",
         url: "/door-locks/door-lock-contact-kf-9074",
-        image: "/img/products/door-locks/door-lock-contact-kf-9074/1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-kf-9074/elevator-door-lock-contact-kf-9074-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-kf-9074",
         robots:
@@ -4200,8 +4200,8 @@ export const products = [
         description: "KF-ZV",
         code: "BS-DL0012",
         url: "/door-locks/door-lock-contact-kf-zv",
-        image: "/img/products/door-locks/door-lock-contact-kf-zv/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/door-lock-contact-kf-zv/elevator-door-lock-contact-kf-zv-1.jpg",
+        slider: ["elevator-door-lock-contact-kf-zv-1", "elevator-door-lock-contact-kf-zv-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-kf-zv",
         robots:
@@ -4212,7 +4212,7 @@ export const products = [
         description: "ALL/FAN/VIP",
         code: "BS-DL0013",
         url: "/door-locks/lop-lock-all-fan-vip",
-        image: "/img/products/door-locks/lop-lock-all-fan-vip/1.jpg",
+        image: "/img/products/door-locks/lop-lock-all-fan-vip/elevator-lop-lock-all-fan-vip-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lop-lock-all-fan-vip",
         robots:
@@ -4223,7 +4223,7 @@ export const products = [
         description: "JJXE D-01",
         code: "BS-DL0014",
         url: "/door-locks/lop-lock-jjxe-d-01",
-        image: "/img/products/door-locks/lop-lock-jjxe-d-01/1.jpg",
+        image: "/img/products/door-locks/lop-lock-jjxe-d-01/elevator-lop-lock-jjxe-d-01-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lop-lock-jjxe-d-01",
         robots:
@@ -4234,7 +4234,7 @@ export const products = [
         description: "CV50/CV180",
         code: "BS-DL0015",
         url: "/door-locks/lop-lock-cv50-cv180",
-        image: "/img/products/door-locks/lop-lock-cv50-cv180/1.jpg",
+        image: "/img/products/door-locks/lop-lock-cv50-cv180/elevator-lop-lock-cv50-cv180-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lop-lock-cv50-cv180",
         robots:
@@ -4245,8 +4245,8 @@ export const products = [
         description: "DK-RN4",
         code: "BS-DL0016",
         url: "/door-locks/door-lock-device-dk-rn4",
-        image: "/img/products/door-locks/door-lock-device-dk-rn4/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/door-lock-device-dk-rn4/elevator-door-lock-device-dk-rn4-1.jpg",
+        slider: ["elevator-door-lock-device-dk-rn4-1", "elevator-door-lock-device-dk-rn4-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-device-dk-rn4",
         robots:
@@ -4257,8 +4257,8 @@ export const products = [
         description: "BH-253",
         code: "BS-DL0017",
         url: "/door-locks/door-lock-contact-bh-253",
-        image: "/img/products/door-locks/door-lock-contact-bh-253/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/door-lock-contact-bh-253/elevator-door-lock-contact-bh-253-1.jpg",
+        slider: ["elevator-door-lock-contact-bh-253-1", "elevator-door-lock-contact-bh-253-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-bh-253",
         robots:
@@ -4269,7 +4269,7 @@ export const products = [
         description: "AZ-061",
         code: "BS-DL0018",
         url: "/door-locks/door-lock-contact-az-061",
-        image: "/img/products/door-locks/door-lock-contact-az-061/1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-az-061/elevator-door-lock-contact-az-061-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-061",
         robots:
@@ -4280,8 +4280,8 @@ export const products = [
         description: "3201.05.0013/C",
         code: "BS-DL0019",
         url: "/door-locks/door-lock-wheel-3201-05-0013-c",
-        image: "/img/products/door-locks/door-lock-wheel-3201-05-0013-c/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/door-lock-wheel-3201-05-0013-c/elevator-door-lock-wheel-3201-05-0013-c-1.jpg",
+        slider: ["elevator-door-lock-wheel-3201-05-0013-c-1", "elevator-door-lock-wheel-3201-05-0013-c-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-wheel-3201-05-0013-c",
         robots:
@@ -4292,7 +4292,7 @@ export const products = [
         description: "XQ",
         code: "BS-DL0020",
         url: "/door-locks/door-triangle-lock-xq",
-        image: "/img/products/door-locks/door-triangle-lock-xq/1.jpg",
+        image: "/img/products/door-locks/door-triangle-lock-xq/elevator-door-triangle-lock-xq-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-triangle-lock-xq",
         robots:
@@ -4303,7 +4303,7 @@ export const products = [
         description: "2801/2802/2803",
         code: "BS-DL0021",
         url: "/door-locks/lop-lock-2801-2802-2803",
-        image: "/img/products/door-locks/lop-lock-2801-2802-2803/1.jpg",
+        image: "/img/products/door-locks/lop-lock-2801-2802-2803/elevator-lop-lock-2801-2802-2803-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lop-lock-2801-2802-2803",
         robots:
@@ -4327,7 +4327,7 @@ export const products = [
         code: "BS-DL0023",
         url: "/door-locks/landing-door-lock-device-50-11-left",
         image:
-          "/img/products/door-locks/landing-door-lock-device-50-11-left/1.jpg",
+          "/img/products/door-locks/landing-door-lock-device-50-11-left/elevator-landing-door-lock-device-50-11-left-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-device-50-11-left",
         robots:
@@ -4339,7 +4339,7 @@ export const products = [
         code: "BS-DL0024",
         url: "/door-locks/landing-door-lock-device-50-11-right",
         image:
-          "/img/products/door-locks/landing-door-lock-device-50-11-right/1.jpg",
+          "/img/products/door-locks/landing-door-lock-device-50-11-right/elevator-landing-door-lock-device-50-11-right-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-device-50-11-right",
         robots:
@@ -4350,8 +4350,8 @@ export const products = [
         description: "ASME",
         code: "BS-DL0025",
         url: "/door-locks/door-lock-contact-asme",
-        image: "/img/products/door-locks/door-lock-contact-asme/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/door-lock-contact-asme/elevator-door-lock-contact-asme-1.jpg",
+        slider: ["elevator-door-lock-contact-asme-1", "elevator-door-lock-contact-asme-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-asme",
         robots:
@@ -4363,8 +4363,8 @@ export const products = [
         code: "BS-DL0026",
         url: "/door-locks/door-lock-contact-edc-92l-edc-61l",
         image:
-          "/img/products/door-locks/door-lock-contact-edc-92l-edc-61l/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/door-locks/door-lock-contact-edc-92l-edc-61l/elevator-door-lock-contact-edc-92l-edc-61l-1.jpg",
+        slider: ["elevator-door-lock-contact-edc-92l-edc-61l-1", "elevator-door-lock-contact-edc-92l-edc-61l-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-edc-92l-edc-61l",
         robots:
@@ -4375,8 +4375,8 @@ export const products = [
         description: "",
         code: "BS-DL0027",
         url: "/door-locks/door-closer",
-        image: "/img/products/door-locks/door-closer/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/door-closer/elevator-door-closer-1.jpg",
+        slider: ["elevator-door-closer-1", "elevator-door-closer-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-closer",
         robots:
@@ -4387,8 +4387,8 @@ export const products = [
         description: "",
         code: "BS-DL0028",
         url: "/door-locks/cop-lock",
-        image: "/img/products/door-locks/cop-lock/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/cop-lock/elevator-cop-lock-1.jpg",
+        slider: ["elevator-cop-lock-1", "elevator-cop-lock-2"],
         canonical: "https://www.bestechparts.ae/products/door-locks/cop-lock",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4398,8 +4398,8 @@ export const products = [
         description: "",
         code: "BS-DL0029",
         url: "/door-locks/door-lock-contact-161",
-        image: "/img/products/door-locks/door-lock-contact-161/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-locks/door-lock-contact-161/elevator-door-lock-contact-161-1.jpg",
+        slider: ["elevator-door-lock-contact-161-1", "elevator-door-lock-contact-161-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161",
         robots:
@@ -4411,8 +4411,8 @@ export const products = [
         code: "BS-DL0030",
         url: "/door-locks/landing-door-lock-roller-g509102121a",
         image:
-          "/img/products/door-locks/landing-door-lock-roller-g509102121a/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/door-locks/landing-door-lock-roller-g509102121a/elevator-landing-door-lock-roller-g509102121a-1.jpg",
+        slider: ["elevator-landing-door-lock-roller-g509102121a-1", "elevator-landing-door-lock-roller-g509102121a-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-roller-g509102121a",
         robots:
@@ -4424,8 +4424,8 @@ export const products = [
         code: "BS-DL0031",
         url: "/door-locks/key-switch-lock-a4n19290-a4j19289",
         image:
-          "/img/products/door-locks/key-switch-lock-a4n19290-a4j19289/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/door-locks/key-switch-lock-a4n19290-a4j19289/elevator-key-switch-lock-a4n19290-a4j19289-1.jpg",
+        slider: ["elevator-key-switch-lock-a4n19290-a4j19289-1", "elevator-key-switch-lock-a4n19290-a4j19289-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/key-switch-lock-a4n19290-a4j19289",
         robots:
@@ -4437,7 +4437,7 @@ export const products = [
         code: "BS-DL0032",
         url: "/door-locks/door-lock-contact-161-separate-t",
         image:
-          "/img/products/door-locks/door-lock-contact-161-separate-t/1.jpg",
+          "/img/products/door-locks/door-lock-contact-161-separate-t/elevator-door-lock-contact-161-separate-t-1.jpg",
 
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161-separate-t",
@@ -4450,7 +4450,7 @@ export const products = [
         code: "BS-DL0033",
         url: "/door-locks/lift-door-locking-device-left-side",
         image:
-          "/img/products/door-locks/lift-door-locking-device-left-side/1.jpg",
+          "/img/products/door-locks/lift-door-locking-device-left-side/elevator-lift-door-locking-device-left-side-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lift-door-locking-device-left-side",
         robots:
@@ -4461,7 +4461,7 @@ export const products = [
         description: "Schindler Door Triangle Lock",
         code: "BS-DL0034",
         url: "/door-locks/elevator-door-triangle-lock-s",
-        image: "/img/products/door-locks/elevator-door-triangle-lock-s/1.jpg",
+        image: "/img/products/door-locks/elevator-door-triangle-lock-s/elevator-door-triangle-lock-s-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/elevator-door-triangle-lock-s",
         robots:
@@ -4472,7 +4472,7 @@ export const products = [
         description: "TY-161 Door Female Lock (DL-1102)",
         code: "BS-DL0035",
         url: "/door-locks/ty-161-door-female-lock-dl-1102",
-        image: "/img/products/door-locks/ty-161-door-female-lock-dl-1102/1.jpg",
+        image: "/img/products/door-locks/ty-161-door-female-lock-dl-1102/elevator-ty-161-door-female-lock-dl-1102-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/ty-161-door-female-lock-dl-1102",
         robots:
@@ -4483,7 +4483,7 @@ export const products = [
         description: "Controller lock and key",
         code: "BS-DL0036",
         url: "/door-locks/controller-lock-and-key",
-        image: "/img/products/door-locks/controller-lock-and-key/1.jpg",
+        image: "/img/products/door-locks/controller-lock-and-key/elevator-controller-lock-and-key-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/controller-lock-and-key",
         robots:
@@ -4494,7 +4494,7 @@ export const products = [
         description: "Fermator Landing Door Lock",
         code: "BS-DL0037",
         url: "/door-locks/fermator-landing-door-lock",
-        image: "/img/products/door-locks/fermator-landing-door-lock/1.jpeg",
+        image: "/img/products/door-locks/fermator-landing-door-lock/elevator-fermator-landing-door-lock-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/fermator-landing-door-lock",
         robots:

@@ -4889,7 +4889,7 @@
         "description": "",
         "code": "BS-DL0001",
         "url": "/door-locks/door-triangle-lock",
-        "image": "/img/products/door-locks/door-triangle-lock/door-triangle-lock-1.jpg",
+        "image": "/img/products/door-locks/door-triangle-lock/elevator-door-triangle-lock-1.jpg",
         "alttext": "Elevator Door Triangle Lock",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-triangle-lock",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4903,7 +4903,7 @@
         "description": "AZ-05",
         "code": "BS-DL0002",
         "url": "/door-locks/door-lock-contact-az-05",
-        "image": "/img/products/door-locks/door-lock-contact-az-05/door-lock-contact-az-05-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-az-05/elevator-door-lock-contact-az-05-1.jpg",
         "alttext": "Lift Door Lock Contact Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-05",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4917,11 +4917,11 @@
         "description": "10001",
         "code": "BS-DL0003",
         "url": "/door-locks/cop-lock-key-10001",
-        "image": "/img/products/door-locks/cop-lock-key-10001/cop-lock-key-10001-1.jpg",
+        "image": "/img/products/door-locks/cop-lock-key-10001/elevator-cop-lock-key-10001-1.jpg",
         "alttext": "elevator cop lock key 10001 Elevator Spare Parts",
         "slider": [
-          "cop-lock-key-10001-1",
-          "cop-lock-key-10001-2"
+          "elevator-cop-lock-key-10001-1",
+          "elevator-cop-lock-key-10001-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/cop-lock-key-10001",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4935,7 +4935,7 @@
         "description": "MKG_161-06",
         "code": "BS-DL0004",
         "url": "/door-locks/landing-door-lock-mkg-161-06",
-        "image": "/img/products/door-locks/landing-door-lock-mkg-161-06/landing-door-lock-mkg-161-06-1.jpg",
+        "image": "/img/products/door-locks/landing-door-lock-mkg-161-06/elevator-landing-door-lock-mkg-161-06-1.jpg",
         "alttext": "Landing Door Lock: MKG_161-06 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-mkg-161-06",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -4945,7 +4945,7 @@
         "description": "AZ-06",
         "code": "BS-DL0005",
         "url": "/door-locks/door-lock-contact-az-06",
-        "image": "/img/products/door-locks/door-lock-contact-az-06/door-lock-contact-az-06-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-az-06/elevator-door-lock-contact-az-06-1.jpg",
         "alttext": "Door Lock Contact: AZ-06 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-06",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4959,10 +4959,10 @@
         "description": "E-431",
         "code": "BS-DL0006",
         "url": "/door-locks/cop-lock-e-431",
-        "image": "/img/products/door-locks/cop-lock-e-431/cop-lock-e-431-1.jpg",
+        "image": "/img/products/door-locks/cop-lock-e-431/elevator-cop-lock-e-431-1.jpg",
         "alttext": "Elevator COP Lock E-431",
         "slider": [
-          "cop-lock-e-431-1"
+          "elevator-cop-lock-e-431-1"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/cop-lock-e-431",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4976,12 +4976,12 @@
         "description": "G509/102121A",
         "code": "BS-DL0007",
         "url": "/door-locks/landing-door-lock-g509-102121a",
-        "image": "/img/products/door-locks/landing-door-lock-g509-102121a/landing-door-lock-g509-102121a-1.jpg",
+        "image": "/img/products/door-locks/landing-door-lock-g509-102121a/elevator-landing-door-lock-g509-102121a-1.jpg",
         "alttext": "Elevator Landing Door Lock G509-102121A",
         "slider": [
-          "landing-door-lock-g509-102121a-1",
-          "landing-door-lock-g509-102121a-2",
-          "landing-door-lock-g509-102121a-3"
+          "elevator-landing-door-lock-g509-102121a-1",
+          "elevator-landing-door-lock-g509-102121a-2",
+          "elevator-landing-door-lock-g509-102121a-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-g509-102121a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -4995,7 +4995,7 @@
         "description": "AZ14-1KD",
         "code": "BS-DL0008",
         "url": "/door-locks/door-lock-contact-az14-1kd",
-        "image": "/img/products/door-locks/door-lock-contact-az14-1kd/door-lock-contact-az14-1kd-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-az14-1kd/elevator-door-lock-contact-az14-1kd-1.jpg",
         "alttext": "Door Lock Contact: AZ14-1KD Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az14-1kd",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5009,10 +5009,10 @@
         "description": "TY-161",
         "code": "BS-DL0009",
         "url": "/door-locks/door-lock-contact-ty-161",
-        "image": "/img/products/door-locks/door-lock-contact-ty-161/door-lock-contact-ty-161-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-ty-161/elevator-door-lock-contact-ty-161-1.jpg",
         "alttext": "Door Lock Contact: TY-161 Elevator Spare Parts",
         "slider": [
-          "door-lock-contact-ty-161-1"
+          "elevator-door-lock-contact-ty-161-1"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-ty-161",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5026,7 +5026,7 @@
         "description": "",
         "code": "BS-DL0010",
         "url": "/door-locks/triangle-lock",
-        "image": "/img/products/door-locks/triangle-lock/triangle-lock-1.jpg",
+        "image": "/img/products/door-locks/triangle-lock/elevator-triangle-lock-1.jpg",
         "alttext": "Elevator Triangle Lock Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/triangle-lock",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5040,7 +5040,7 @@
         "description": "KF-9074",
         "code": "BS-DL0011",
         "url": "/door-locks/door-lock-contact-kf-9074",
-        "image": "/img/products/door-locks/door-lock-contact-kf-9074/door-lock-contact-kf-9074-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-kf-9074/elevator-door-lock-contact-kf-9074-1.jpg",
         "alttext": "Door Lock Contact: KF-9074 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-kf-9074",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5054,11 +5054,11 @@
         "description": "KF-ZV",
         "code": "BS-DL0012",
         "url": "/door-locks/door-lock-contact-kf-zv",
-        "image": "/img/products/door-locks/door-lock-contact-kf-zv/door-lock-contact-kf-zv-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-kf-zv/elevator-door-lock-contact-kf-zv-1.jpg",
         "alttext": "Elevator Door Lock Contact KF-ZV",
         "slider": [
-          "door-lock-contact-kf-zv-1",
-          "door-lock-contact-kf-zv-2"
+          "elevator-door-lock-contact-kf-zv-1",
+          "elevator-door-lock-contact-kf-zv-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-kf-zv",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5072,7 +5072,7 @@
         "description": "ALL/FAN/VIP",
         "code": "BS-DL0013",
         "url": "/door-locks/lop-lock-all-fan-vip",
-        "image": "/img/products/door-locks/lop-lock-all-fan-vip/lop-lock-all-fan-vip-1.jpg",
+        "image": "/img/products/door-locks/lop-lock-all-fan-vip/elevator-lop-lock-all-fan-vip-1.jpg",
         "alttext": "Elevator Door LOP Lock ALL/FAN/VIP",
         "canonical": "https://www.bestechparts.ae/products/door-locks/lop-lock-all-fan-vip",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5086,7 +5086,7 @@
         "description": "JJXE D-01",
         "code": "BS-DL0014",
         "url": "/door-locks/lop-lock-jjxe-d-01",
-        "image": "/img/products/door-locks/lop-lock-jjxe-d-01/lop-lock-jjxe-d-01-1.jpg",
+        "image": "/img/products/door-locks/lop-lock-jjxe-d-01/elevator-lop-lock-jjxe-d-01-1.jpg",
         "alttext": "Lift Door LOP Lock JJXE D-01 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/lop-lock-jjxe-d-01",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5100,7 +5100,7 @@
         "description": "CV50/CV180",
         "code": "BS-DL0015",
         "url": "/door-locks/lop-lock-cv50-cv180",
-        "image": "/img/products/door-locks/lop-lock-cv50-cv180/lop-lock-cv50-cv180-1.jpg",
+        "image": "/img/products/door-locks/lop-lock-cv50-cv180/elevator-lop-lock-cv50-cv180-1.jpg",
         "alttext": "Elevator LOP Lock CV50 CV180",
         "canonical": "https://www.bestechparts.ae/products/door-locks/lop-lock-cv50-cv180",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5114,11 +5114,11 @@
         "description": "DK-RN4",
         "code": "BS-DL0016",
         "url": "/door-locks/door-lock-device-dk-rn4",
-        "image": "/img/products/door-locks/door-lock-device-dk-rn4/door-lock-device-dk-rn4-1.jpg",
+        "image": "/img/products/door-locks/door-lock-device-dk-rn4/elevator-door-lock-device-dk-rn4-1.jpg",
         "alttext": "Elevator Door Lock DK-RN4",
         "slider": [
-          "door-lock-device-dk-rn4-1",
-          "door-lock-device-dk-rn4-2"
+          "elevator-door-lock-device-dk-rn4-1",
+          "elevator-door-lock-device-dk-rn4-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-device-dk-rn4",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5132,11 +5132,11 @@
         "description": "BH-253",
         "code": "BS-DL0017",
         "url": "/door-locks/door-lock-contact-bh-253",
-        "image": "/img/products/door-locks/door-lock-contact-bh-253/door-lock-contact-bh-253-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-bh-253/elevator-door-lock-contact-bh-253-1.jpg",
         "alttext": "Elevator Door Lock Contact BH-253",
         "slider": [
-          "door-lock-contact-bh-253-1",
-          "door-lock-contact-bh-253-2"
+          "elevator-door-lock-contact-bh-253-1",
+          "elevator-door-lock-contact-bh-253-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-bh-253",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5150,7 +5150,7 @@
         "description": "AZ-061",
         "code": "BS-DL0018",
         "url": "/door-locks/door-lock-contact-az-061",
-        "image": "/img/products/door-locks/door-lock-contact-az-061/door-lock-contact-az-061-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-az-061/elevator-door-lock-contact-az-061-1.jpg",
         "alttext": "Door Lock Contact AZ-061 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-061",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5164,11 +5164,11 @@
         "description": "3201.05.0013/C",
         "code": "BS-DL0019",
         "url": "/door-locks/door-lock-wheel-3201-05-0013-c",
-        "image": "/img/products/door-locks/door-lock-wheel-3201-05-0013-c/door-lock-wheel-3201-05-0013-c-1.jpg",
+        "image": "/img/products/door-locks/door-lock-wheel-3201-05-0013-c/elevator-door-lock-wheel-3201-05-0013-c-1.jpg",
         "alttext": "Door Lock Wheel 3201.05.0013/C Elevator Spare Parts",
         "slider": [
-          "door-lock-wheel-3201-05-0013-c-1",
-          "door-lock-wheel-3201-05-0013-c-2"
+          "elevator-door-lock-wheel-3201-05-0013-c-1",
+          "elevator-door-lock-wheel-3201-05-0013-c-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-wheel-3201-05-0013-c",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5182,7 +5182,7 @@
         "description": "XQ",
         "code": "BS-DL0020",
         "url": "/door-locks/door-triangle-lock-xq",
-        "image": "/img/products/door-locks/door-triangle-lock-xq/door-triangle-lock-xq-1.jpg",
+        "image": "/img/products/door-locks/door-triangle-lock-xq/elevator-door-triangle-lock-xq-1.jpg",
         "alttext": "Elevator Door Triangle Lock XQ",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-triangle-lock-xq",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5196,7 +5196,7 @@
         "description": "2801/2802/2803",
         "code": "BS-DL0021",
         "url": "/door-locks/lop-lock-2801-2802-2803",
-        "image": "/img/products/door-locks/lop-lock-2801-2802-2803/lop-lock-2801-2802-2803-1.jpg",
+        "image": "/img/products/door-locks/lop-lock-2801-2802-2803/elevator-lop-lock-2801-2802-2803-1.jpg",
         "alttext": "LOP Lock: 2801/2802/2803 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/lop-lock-2801-2802-2803",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5210,11 +5210,11 @@
         "description": "SEL1-A1Z",
         "code": "BS-DL0022",
         "url": "/door-locks/door-lock-contact-sel1-a1z",
-        "image": "/img/products/door-locks/door-lock-contact-sel1-a1z/door-lock-contact-sel1-a1z-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-sel1-a1z/elevator-door-lock-contact-sel1-a1z-1.jpg",
         "slider": [
-          "door-lock-contact-sel1-a1z-1",
-          "door-lock-contact-sel1-a1z-2",
-          "door-lock-contact-sel1-a1z-3"
+          "elevator-door-lock-contact-sel1-a1z-1",
+          "elevator-door-lock-contact-sel1-a1z-2",
+          "elevator-door-lock-contact-sel1-a1z-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-sel1-a1z",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5228,7 +5228,7 @@
         "description": "50/11.Left",
         "code": "BS-DL0023",
         "url": "/door-locks/landing-door-lock-device-50-11-left",
-        "image": "/img/products/door-locks/landing-door-lock-device-50-11-left/landing-door-lock-device-50-11-left-1.jpg",
+        "image": "/img/products/door-locks/landing-door-lock-device-50-11-left/elevator-landing-door-lock-device-50-11-left-1.jpg",
         "alttext": "Landing door lock device: 50/11.Left Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-device-50-11-left",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5242,7 +5242,7 @@
         "description": "50/11.Right",
         "code": "BS-DL0024",
         "url": "/door-locks/landing-door-lock-device-50-11-right",
-        "image": "/img/products/door-locks/landing-door-lock-device-50-11-right/landing-door-lock-device-50-11-right-1.jpg",
+        "image": "/img/products/door-locks/landing-door-lock-device-50-11-right/elevator-landing-door-lock-device-50-11-right-1.jpg",
         "alttext": "Elevator Landing Door Lock Device 50-11 Right",
         "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-device-50-11-right",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5256,11 +5256,11 @@
         "description": "ASME",
         "code": "BS-DL0025",
         "url": "/door-locks/door-lock-contact-asme",
-        "image": "/img/products/door-locks/door-lock-contact-asme/door-lock-contact-asme-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-asme/elevator-door-lock-contact-asme-1.jpg",
         "alttext": "Elevator Door Lock Contact ASME",
         "slider": [
-          "door-lock-contact-asme-1",
-          "door-lock-contact-asme-2"
+          "elevator-door-lock-contact-asme-1",
+          "elevator-door-lock-contact-asme-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-asme",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5274,11 +5274,11 @@
         "description": "EDC-92L/EDC-61L",
         "code": "BS-DL0026",
         "url": "/door-locks/door-lock-contact-edc-92l-edc-61l",
-        "image": "/img/products/door-locks/door-lock-contact-edc-92l-edc-61l/door-lock-contact-edc-92l-edc-61l-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-edc-92l-edc-61l/elevator-door-lock-contact-edc-92l-edc-61l-1.jpg",
         "alttext": "Elevator Door Lock Contact EDC-92L & EDC-61L",
         "slider": [
-          "door-lock-contact-edc-92l-edc-61l-1",
-          "door-lock-contact-edc-92l-edc-61l-2"
+          "elevator-door-lock-contact-edc-92l-edc-61l-1",
+          "elevator-door-lock-contact-edc-92l-edc-61l-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-edc-92l-edc-61l",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5292,11 +5292,11 @@
         "description": "",
         "code": "BS-DL0027",
         "url": "/door-locks/door-closer",
-        "image": "/img/products/door-locks/door-closer/door-closer-1.jpg",
+        "image": "/img/products/door-locks/door-closer/elevator-door-closer-1.jpg",
         "alttext": "Elevator Door Closer",
         "slider": [
-          "door-closer-1",
-          "door-closer-2"
+          "elevator-door-closer-1",
+          "elevator-door-closer-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-closer",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5310,11 +5310,11 @@
         "description": "",
         "code": "BS-DL0028",
         "url": "/door-locks/cop-lock",
-        "image": "/img/products/door-locks/cop-lock/cop-lock-1.jpg",
+        "image": "/img/products/door-locks/cop-lock/elevator-cop-lock-1.jpg",
         "alttext": "Lift COP Lock Elevator Spare Parts",
         "slider": [
-          "cop-lock-1",
-          "cop-lock-2"
+          "elevator-cop-lock-1",
+          "elevator-cop-lock-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/cop-lock",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5328,11 +5328,11 @@
         "description": "",
         "code": "BS-DL0029",
         "url": "/door-locks/door-lock-contact-161",
-        "image": "/img/products/door-locks/door-lock-contact-161/door-lock-contact-161-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-161/elevator-door-lock-contact-161-1.jpg",
         "alttext": "Door lock contact: 161 Elevator Spare Parts",
         "slider": [
-          "door-lock-contact-161-1",
-          "door-lock-contact-161-2"
+          "elevator-door-lock-contact-161-1",
+          "elevator-door-lock-contact-161-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -5346,48 +5346,87 @@
         "description": "Otis: G509/102121A Roller",
         "code": "BS-DL0030",
         "url": "/door-locks/landing-door-lock-roller-g509102121a",
-        "image": "/img/products/door-locks/landing-door-lock-roller-g509102121a/landing-door-lock-roller-g509102121a-1.jpg",
+        "image": "/img/products/door-locks/landing-door-lock-roller-g509102121a/elevator-landing-door-lock-roller-g509102121a-1.jpg",
         "alttext": "Landing Door Lock Roller: G509/102121A Elevator Spare Parts",
         "slider": [
-          "landing-door-lock-roller-g509102121a-1",
-          "landing-door-lock-roller-g509102121a-2"
+          "elevator-landing-door-lock-roller-g509102121a-1",
+          "elevator-landing-door-lock-roller-g509102121a-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/landing-door-lock-roller-g509102121a",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Landing Door Lock Roller G509102121A | Elevator Lock Part",
+        "meta_description": "Elevator landing door lock roller G509102121A for lift systems.  Durable door locking component ensures smooth and secure door operation.",
+        "keywords": "elevator landing door lock roller, lift door lock roller, elevator door locking component",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Elevator landing door lock roller G509102121A is designed to support smooth and secure operation of elevator landing door locking systems. This lift door lock roller helps maintain proper door alignment and stable locking performance during elevator operation.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong>  Landing Door Lock Roller: G509/102121A</li><li><strong>Product Code:</strong> BS-DL0030</li><li><strong>Category:</strong> Door Locks</li<li><strong>Type:</strong> Lift Door Lock Roller</li><li><strong>Application:</strong> Elevator Landing Door Lock / Elevator Door Locking Component</li></ul>"
+        ]
       },
       {
         "name": "Key switch lock - A4N19290 / A4J19289",
         "description": "",
         "code": "BS-DL0031",
         "url": "/door-locks/key-switch-lock-a4n19290-a4j19289",
-        "image": "/img/products/door-locks/key-switch-lock-a4n19290-a4j19289/key-switch-lock-a4n19290-a4j19289-1.jpg",
+        "image": "/img/products/door-locks/key-switch-lock-a4n19290-a4j19289/elevator-key-switch-lock-a4n19290-a4j19289-1.jpg",
         "alttext": "Key switch lock - A4N19290 / A4J19289 Elevator Spare Parts",
         "slider": [
-          "key-switch-lock-a4n19290-a4j19289-1",
-          "key-switch-lock-a4n19290-a4j19289-2"
+          "elevator-key-switch-lock-a4n19290-a4j19289-1",
+          "elevator-key-switch-lock-a4n19290-a4j19289-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-locks/key-switch-lock-a4n19290-a4j19289",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Key Switch Lock A4N19290 | Premium Elevator Control",
+        "meta_description": "Original A4N19290 / A4J19289 elevator key switch lock. Secure access for inspection, maintenance and emergency stop functions.",
+        "keywords": "elevator key switch lock, lift key lock switch, elevator control lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator key switch lock A4N19290 & A4J19289 is a reliable access control component designed for modern elevator systems.The lift key lock switch allows authorized personnel to manage elevator functions safely during maintenance, inspection or restricted access situations. </p>",
+          "<p>This elevator control lock is ideal for residential, commercial and industrial lift applications where safety and controlled access are essential.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Key Switch Lock - A4N19290 / A4J19289</li><li><strong>Product Code:</strong> BS-DL0031</li><li><strong>Category:</strong>Door Locks</li><li><strong>Type:</strong> Elevator Key Switch Lock</li><li><strong>Application:</strong> Elevator Control Lock / Lift Key Lock Switch</li></ul>"
+        ]
       },
       {
         "name": "Door lock contact: 161 (Separate T)",
         "description": "Mitsubishi: 161 (Separate T)",
         "code": "BS-DL0032",
         "url": "/door-locks/door-lock-contact-161-separate-t",
-        "image": "/img/products/door-locks/door-lock-contact-161-separate-t/door-lock-contact-161-separate-t-1.jpg",
+        "image": "/img/products/door-locks/door-lock-contact-161-separate-t/elevator-door-lock-contact-161-separate-t-1.jpg",
         "alttext": "Door lock contact: 161 (Separate T) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161-separate-t",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "161 Separate T Door Lock Contact | Elevator Safety Switch",
+        "meta_description": "Ensure secure elevator door locking and safety circuit integrity with 161 Separate T door lock contact. High-quality and reliable control performance.",
+        "keywords": "elevator door lock contact, lift door safety contact, elevator lock switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 161 Separate T elevator door lock contact is a critical safety component designed for reliable door locking verification in elevator systems. This lift door safety contact helps ensure that elevator doors are securely locked before movement begins. </p>",
+          "<p>The elevator lock switch provides stable electrical contact and enhanced operational safety, reducing the risk of door-related faults and improving overall elevator reliability.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Lock Contact: 161 (Separate T)</li><li><strong>Product Code:</strong> BS-DL0032</li><li><strong>Category:</strong> Door Locks</li><li><strong>Compatibility:</strong> Mitsubishi</li><li><strong>Type:</strong> 3-Phase (3P)</li><li><strong>Application:</strong> Emergency rescue for elevator traction systems</li></ul>"
+        ]
       },
       {
         "name": "Lift Door locking device - Left side",
         "description": "Manual door locking device - Left side",
         "code": "BS-DL0033",
         "url": "/door-locks/lift-door-locking-device-left-side",
-        "image": "/img/products/door-locks/lift-door-locking-device-left-side/lift-door-locking-device-left-side-1.jpg",
+        "image": "/img/products/door-locks/lift-door-locking-device-left-side/elevator-lift-door-locking-device-left-side-1.jpg",
         "alttext": "Lift Door locking device - Left side Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/lift-door-locking-device-left-side",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Left Side Elevator Door Locking Device | Landing Door Lock",
+        "meta_description": "Ensure secure landing door closure and safe operation with left-side elevator door locking device. Direct-fit replacement for reliable performance.",
+        "keywords": "elevator door locking device, lift left side door lock, elevator landing door lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The left side elevator door locking device is designed to provide secure and stable locking performance for elevator landing doors. This left side door lock helps maintain proper door alignment and ensures safe elevator functionality in residential, commercial and industrial buildings. </p>",
+          "<p>The elevator landing door lock plays a critical role in elevator safety by preventing door movement unless the locking mechanism is fully engaged. Its robust construction and precise locking action make it an essential component in modern lift systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Lift Door Locking Device - Left Side</li><li><strong>Side:</strong> Left</li><li><strong>Product Code:</strong> BS-DL0033</li><li><strong>Category:</strong> ARD (Automatic Rescue Device)Door Locks</li><li><strong>Type:</strong> Manual Elevator Door Locking Device</li><li><strong>Application:</strong> Elevator Landing Door Lock / Lift Left Side Door Lock</li></ul>"
+        ]
       },
       {
         "name": "Elevator Door Triangle Lock S",
@@ -5397,37 +5436,75 @@
         "image": "/img/products/door-locks/elevator-door-triangle-lock-s/elevator-door-triangle-lock-s-1.jpg",
         "alttext": "Elevator Door Triangle Lock S",
         "canonical": "https://www.bestechparts.ae/products/door-locks/elevator-door-triangle-lock-s",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Triangle Lock Key | Lift Emergency Door Unlock ",
+        "meta_description": "Durable elevator triangle lock key for emergency door access. Secure and reliable door unlocking for maintenance and rescue.",
+        "keywords": "elevator triangle lock, lift emergency door key, elevator door unlock key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator triangle lock is a safety and maintenance tool used for emergency access to elevator landing doors. This emergency door key allows authorized personnel to unlock elevator doors safely during inspection or emergency situations. Its precision design ensures compatibility with standard elevator triangle lock mechanisms while supporting safe maintenance operations.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Door Triangle Lock S</li><li><strong>Product Code:</strong> BS-DL0034</li><li><strong>Category:</strong> Door Locks</li><li><strong>Type:</strong> Elevator Triangle Lock / Emergency Door Release</li><li><strong>Application:</strong> Lift Emergency Door Key / Elevator Door Unlock Key</li></ul>"
+        ]
       },
       {
         "name": "TY-161 Door Female Lock (DL-1102)",
         "description": "TY-161 Door Female Lock (DL-1102)",
         "code": "BS-DL0035",
         "url": "/door-locks/ty-161-door-female-lock-dl-1102",
-        "image": "/img/products/door-locks/ty-161-door-female-lock-dl-1102/ty-161-door-female-lock-dl-1102-1.jpg",
+        "image": "/img/products/door-locks/ty-161-door-female-lock-dl-1102/elevator-ty-161-door-female-lock-dl-1102-1.jpg",
         "alttext": "TY-161 Door Female Lock (DL-1102) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/ty-161-door-female-lock-dl-1102",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "TY-161 Female Door Lock | Elevator Landing Lock System",
+        "meta_description": "Ensure secure door closure and safe elevator operation with TY-161 DL-1102 female door lock. Compatible with standard lift landing door systems.",
+        "keywords": "elevator TY-161 female lock, lift door lock device, elevator landing lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The TY-161 DL-1102 female lock is used in elevator landing doors to ensure safe and secure closure. It works with the male lock to complete the safety circuit, allowing the lift to operate only when the door is fully locked. It is built for long-lasting performance in demanding elevator environments.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> TY-161 Door Female Lock (DL-1102)</li><li><strong>Product Code:</strong> BS-DL0035</li><li><strong>Category:</strong> Door Locks</li><li><strong>Type:</strong> Elevator TY-161 Female Lock</li><li><strong>Application:</strong> Lift Door Lock Device / Elevator Landing Lock</li></ul>"
+        ]
       },
       {
         "name": "Controller lock and key",
         "description": "Controller lock and key",
         "code": "BS-DL0036",
         "url": "/door-locks/controller-lock-and-key",
-        "image": "/img/products/door-locks/controller-lock-and-key/controller-lock-and-key-1.jpg",
+        "image": "/img/products/door-locks/controller-lock-and-key/elevator-controller-lock-and-key-1.jpg",
         "alttext": "Controller lock and key Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/controller-lock-and-key",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Controller Lock & Key | Control Panel Security",
+        "meta_description": "Secure elevator controller lock and key for lift panels and control cabinets. Durable locking solution for safe and reliable elevator access control.",
+        "keywords": "elevator controller lock and key, lift panel lock, elevator control cabinet lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator controller lock and key is designed to provide secure access control for elevator control panels and cabinet systems. This lift panel lock helps protect sensitive elevator controls from unauthorized access while ensuring smooth operation for maintenance and service personnel. </p>",
+          "<p>This elevator control cabinet lock is suitable for residential, commercial and industrial lift systems where safety, security and controlled access are essential.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Controller Lock and Key</li><li><strong>Includes:</strong> Lock and Key</li><li><strong>Product Code:</strong> BS-DL0036</li><li><strong>Category:</strong> Door Locks</li><li><strong>Type:</strong> Elevator Control Cabinet Lock</li><li><strong>Application:</strong> Elevator Controller Lock / Lift Panel Lock</li></ul>"
+        ]
       },
       {
         "name": "Fermator Landing Door Lock",
         "description": "Fermator Landing Door Lock",
         "code": "BS-DL0037",
         "url": "/door-locks/fermator-landing-door-lock",
-        "image": "/img/products/door-locks/fermator-landing-door-lock/fermator-landing-door-lock-1.jpeg",
+        "image": "/img/products/door-locks/fermator-landing-door-lock/elevator-fermator-landing-door-lock-1.jpg",
         "alttext": "Fermator Landing Door Lock Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-locks/fermator-landing-door-lock",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Secure Fermator Door Lock for Elevator Landing Systems ",
+        "meta_description": "High-quality Fermator landing door lock designed for smooth and secure elevator door operation. Ideal for reliable lift safety and locking performance.",
+        "keywords": "Fermator landing door lock, elevator door locking system, lift landing door lock",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Fermator landing door lock is a high-quality safety component designed for secure and reliable elevator door operation. This elevator door locking system ensures landing doors remain safely locked during elevator movement, improving passenger safety and operational reliability. </p>",
+          "<p>Its precision locking mechanism supports stable door alignment, secure locking action and long-lasting performance in high-traffic environments.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Fermator Landing Door Lock</li><li><strong>Product Code:</strong> BS-DL0037</li><li><strong>Category:</strong> Door Locks</li><li><strong>Type:</strong> Elevator Landing Door Lock</li><li><strong>Application:</strong> Fermator Lift Landing Door Lock / Elevator Door Locking System</li></ul>"
+        ]
       }
     ]
   },
@@ -8287,7 +8364,7 @@
         "alttext": "HH ARD 3P-30KW 380V (TF) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-30kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-          "meta_title": "Elevator ARD 30KW for Safe & Smooth Lift Rescue ",
+        "meta_title": "Elevator ARD 30KW for Safe & Smooth Lift Rescue ",
         "meta_description": "High-performance elevator ARD 30KW designed for safe lift rescue, smooth emergency response and dependable backup operation.",
         "keywords": "elevator ARD 30KW, lift rescue power system, elevator emergency ARD",
         "paragraph_text": [
@@ -8306,7 +8383,7 @@
         "alttext": "HH ARD 3P-37KW 380V (TF) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-37kw-380v-tf",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-           "meta_title": "Elevator ARD 37KW Lift Rescue Device | Bestech",
+        "meta_title": "Elevator ARD 37KW Lift Rescue Device | Bestech",
         "meta_description": "Smart elevator ARD 37KW for reliable lift rescue, safe passenger evacuation and smooth emergency backup during power loss.",
         "keywords": "elevator ARD 37KW, lift emergency rescue system, elevator ARD unit",
         "paragraph_text": [
@@ -8344,7 +8421,7 @@
         "alttext": "Elevator Battey 12V 7AH Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-7ah",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Backup Battery 12V 7AH for Elevator ARD Systems | Bestech",
+        "meta_title": "Backup Battery 12V 7AH for Elevator ARD Systems | Bestech",
         "meta_description": "Keep your elevator running during outages with this 12V 7AH lift backup battery. Ideal as ARD battery for elevator systems.",
         "keywords": "elevator battery 12V 7AH, lift backup battery, ARD battery for elevator",
         "paragraph_text": [
@@ -8363,7 +8440,7 @@
         "alttext": "Elevator Battery 12V 9AH Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-9ah",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "12V 9AH Elevator Battery | Reliable Backup for ARD Systems",
+        "meta_title": "12V 9AH Elevator Battery | Reliable Backup for ARD Systems",
         "meta_description": "Ensure safe elevator operation during outages with this 12V 9AH backup battery. It delivers reliable power when the main supply fails.",
         "keywords": "elevator battery 12V 9AH, lift UPS battery, ARD backup battery",
         "paragraph_text": [
@@ -8382,7 +8459,7 @@
         "alttext": "Elevator Battery 12V 12AH Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/battery-12v-12ah",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator ARD Battery 12V 12AH | Rescue & Lift Backup ",
+        "meta_title": "Elevator ARD Battery 12V 12AH | Rescue & Lift Backup ",
         "meta_description": "A high-capacity 12V 12AH battery designed for elevator emergency systems. Powers lift backup during outages.",
         "keywords": "elevator battery 12V 12AH, lift emergency battery, elevator ARD battery",
         "paragraph_text": [
@@ -8405,7 +8482,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ups-1500va-900w",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "1500VA Elevator UPS | Emergency Power Backup",
+        "meta_title": "1500VA Elevator UPS | Emergency Power Backup",
         "meta_description": "Keep your lift running during outages with this 1500VA UPS. A stable, compact power backup for elevator emergency systems.",
         "keywords": "elevator UPS 1500VA, lift power backup UPS, elevator emergency power supply",
         "paragraph_text": [
@@ -8424,7 +8501,7 @@
         "alttext": "Elevator TMR-ARD-3P-15KW Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-15kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "15KW TMR ARD for Elevators | Elevator Rescue Device ",
+        "meta_title": "15KW TMR ARD for Elevators | Elevator Rescue Device ",
         "meta_description": "Keep your elevator running during outages with the 15KW TMR ARD. This automatic rescue device safely moves lifts to the nearest floor when power fails.",
         "keywords": "elevator ARD 15KW TMR, lift rescue device, elevator automatic rescue unit",
         "paragraph_text": [
@@ -8443,7 +8520,7 @@
         "alttext": "Elevator TMR-ARD-3P-45KW Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-45kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator TMR-ARD 45KW | Emergency Rescue System",
+        "meta_title": "Elevator TMR-ARD 45KW | Emergency Rescue System",
         "meta_description": "TMR-ARD 45KW is a heavy-duty elevator backup rescue unit built for high-capacity lifts. Automatically rescues passengers when mains power fails.",
         "keywords": "elevator ARD 45KW TMR, lift emergency rescue system, elevator backup rescue unit",
         "paragraph_text": [
@@ -8466,7 +8543,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-18.5kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "18.5KW Elevator ARD | Automatic Rescue During Power Failure",
+        "meta_title": "18.5KW Elevator ARD | Automatic Rescue During Power Failure",
         "meta_description": "The 18.5KW elevator ARD ensures safe, automatic lift evacuation during outages. Ideal for medium to large buildings with 380V systems.",
         "keywords": "elevator ARD 18.5KW, lift automatic rescue system, elevator emergency device",
         "paragraph_text": [
@@ -8490,7 +8567,7 @@
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/inovance-ard-3p-7.5kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Inovance 7.5KW ARD | Elevator Rescue System",
+        "meta_title": "Inovance 7.5KW ARD | Elevator Rescue System",
         "meta_description": "The Inovance elevator ARD 7.5KW provides automatic rescue during power cuts. Keeps lifts safe and moving.",
         "keywords": "Inovance elevator ARD 7.5KW, lift rescue device Inovance, elevator ARD system",
         "paragraph_text": [
