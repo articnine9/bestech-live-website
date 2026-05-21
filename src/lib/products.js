@@ -1976,8 +1976,8 @@ export const products = [
         description: "LA137-BD21",
         code: "BS-SW0001",
         url: "/switches/inspection-normal-switch-no",
-        image: "/img/products/switches/inspection-normal-switch-no/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/inspection-normal-switch-no/elevator-inspection-normal-switch-no-1.jpg",
+        slider: ["elevator-inspection-normal-switch-no-1", "elevator-inspection-normal-switch-no-2"],
         meta_title:
           "Elevator Inspection Normal Switch No. Supplier in UAE | Bestech",
         meta_description:
@@ -1996,7 +1996,7 @@ export const products = [
         description: "LA137-CK12M45",
         code: "BS-SW0002",
         url: "/switches/inspection-normal-switch-light-no",
-        image: "/img/products/switches/inspection-normal-switch-light-no/1.jpg",
+        image: "/img/products/switches/inspection-normal-switch-light-no/elevator-inspection-normal-switch-light-no-1.jpg",
         meta_title:
           "Elevator Inspection Light Switch NO Supplier in UAE | Bestech",
         meta_description:
@@ -2015,7 +2015,7 @@ export const products = [
         description: "MKG131-03",
         code: "BS-SW0003",
         url: "/switches/bistable-switch-mkg131-03",
-        image: "/img/products/switches/bistable-switch-mkg131-03/1.jpg",
+        image: "/img/products/switches/bistable-switch-mkg131-03/elevator-bistable-switch-mkg131-03-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/switches/bistable-switch-mkg131-03",
         robots:
@@ -2034,8 +2034,8 @@ export const products = [
         description: "LAY7(PBCY090)LAY37",
         code: "BS-SW0004",
         url: "/switches/emergency-stop-switch-lay7",
-        image: "/img/products/switches/emergency-stop-switch-lay7/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/emergency-stop-switch-lay7/elevator-emergency-stop-switch-lay7-1.jpg",
+        slider: ["elevator-emergency-stop-switch-lay7-1", "elevator-emergency-stop-switch-lay7-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/emergency-stop-switch-lay7",
         robots:
@@ -2053,8 +2053,8 @@ export const products = [
         description: "UKS/UKT",
         code: "BS-SW0005",
         url: "/switches/buffer-switch-uks-ukt",
-        image: "/img/products/switches/buffer-switch-uks-ukt/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/buffer-switch-uks-ukt/elevator-buffer-switch-uks-ukt-1.jpg",
+        slider: ["elevator-buffer-switch-uks-ukt-1", "elevator-buffer-switch-uks-ukt-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/buffer-switch-uks-ukt",
         robots:
@@ -2072,12 +2072,12 @@ export const products = [
         name: "Pit buffer switch",
         description: "LXP1(3SE3)-020-1A",
         code: "BS-SW0006",
-        url: "/switches/pit-buffer-switch-lxp1-3SE3-020-1a",
+        url: "/switches/pit-buffer-switch-lxp1-3se3-020-1a",
         image:
-          "/img/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a/elevator-pit-buffer-switch-lxp1-3SE3-020-1a-1.jpg",
+        slider: ["elevator-pit-buffer-switch-lxp1-3SE3-020-1a-1", "elevator-pit-buffer-switch-lxp1-3SE3-020-1a-2"],
         canonical:
-          "https://www.bestechparts.ae/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a",
+          "https://www.bestechparts.ae/products/switches/pit-buffer-switch-lxp1-3se3-020-1a",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -2094,8 +2094,8 @@ export const products = [
         description: "DS-131",
         code: "BS-SW0007",
         url: "/switches/door-switch-ds-131",
-        image: "/img/products/switches/door-switch-ds-131/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/switches/door-switch-ds-131/elevator-door-switch-ds-131-1.jpg",
+        slider: ["elevator-door-switch-ds-131-1", "elevator-door-switch-ds-131-2", "elevator-door-switch-ds-131-3"],
         canonical:
           "https://www.bestechparts.ae/products/switches/door-switch-ds-131",
         robots:
@@ -2113,7 +2113,7 @@ export const products = [
         description: "YA043D166-04",
         code: "BS-SW0008",
         url: "/switches/door-machine-switch-ya043d166-04",
-        image: "/img/products/switches/door-machine-switch-ya043d166-04/1.jpg",
+        image: "/img/products/switches/door-machine-switch-ya043d166-04/elevator-door-machine-switch-ya043d166-04-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/switches/door-machine-switch-ya043d166-04",
         robots:
@@ -2132,8 +2132,8 @@ export const products = [
         description: "D4NA-4132/D4N-4A72",
         code: "BS-SW0009",
         url: "/switches/limit-switch-d4na-4132-d4n-4a72",
-        image: "/img/products/switches/limit-switch-d4na-4132-d4n-4a72/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/limit-switch-d4na-4132-d4n-4a72/elevator-limit-switch-d4na-4132-d4n-4a72-1.jpg",
+        slider: ["elevator-limit-switch-d4na-4132-d4n-4a72-1", "elevator-limit-switch-d4na-4132-d4n-4a72-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/limit-switch-d4na-4132-d4n-4a72",
         robots:
@@ -2152,8 +2152,8 @@ export const products = [
         description: "HD-MV01A",
         code: "BS-SW0010",
         url: "/switches/overload-switch-hd-mv01a",
-        image: "/img/products/switches/overload-switch-hd-mv01a/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/overload-switch-hd-mv01a/elevator-overload-switch-hd-mv01a-1.jpg",
+        slider: ["elevator-overload-switch-hd-mv01a-1", "elevator-overload-switch-hd-mv01a-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/overload-switch-hd-mv01a",
         robots:
@@ -2172,8 +2172,8 @@ export const products = [
         description: "X-10GQ-B",
         code: "BS-SW0011",
         url: "/switches/micro-switch-x-10gq-b",
-        image: "/img/products/switches/micro-switch-x-10gq-b/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/micro-switch-x-10gq-b/elevator-micro-switch-x-10gq-b-1.jpg",
+        slider: ["elevator-micro-switch-x-10gq-b-1", "elevator-micro-switch-x-10gq-b-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/micro-switch-x-10gq-b",
         robots:
@@ -2192,8 +2192,8 @@ export const products = [
         description: "S3-B1270/S3-1371",
         code: "BS-SW0012",
         url: "/switches/limit-switch-s3-b1270-s3-1371",
-        image: "/img/products/switches/limit-switch-s3-b1270-s3-1371/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/limit-switch-s3-b1270-s3-1371/elevator-limit-switch-s3-b1270-s3-1371-1.jpg",
+        slider: ["elevator-limit-switch-s3-b1270-s3-1371-1", "elevator-limit-switch-s3-b1270-s3-1371-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/limit-switch-s3-b1270-s3-1371",
         robots:
@@ -2213,8 +2213,8 @@ export const products = [
         code: "BS-SW0013",
         url: "/switches/brake-detection-switch-b3181-83186",
         image:
-          "/img/products/switches/brake-detection-switch-b3181-83186/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/switches/brake-detection-switch-b3181-83186/elevator-brake-detection-switch-b3181-83186-1.jpg",
+        slider: ["elevator-brake-detection-switch-b3181-83186-1", "elevator-brake-detection-switch-b3181-83186-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/brake-detection-switch-b3181-83186",
         robots:
@@ -2233,8 +2233,8 @@ export const products = [
         description: "KCB-JUA/KCB-JUB",
         code: "BS-SW0014",
         url: "/switches/door-switch-kcb-jua-kcb-jub",
-        image: "/img/products/switches/door-switch-kcb-jua-kcb-jub/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/door-switch-kcb-jua-kcb-jub/elevator-door-switch-kcb-jua-kcb-jub-1.jpg",
+        slider: ["elevator-door-switch-kcb-jua-kcb-jub-1", "elevator-door-switch-kcb-jua-kcb-jub-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/door-switch-kcb-jua-kcb-jub",
         robots:
@@ -2252,8 +2252,8 @@ export const products = [
         description: "",
         code: "BS-SW0015",
         url: "/switches/bistable-switch",
-        image: "/img/products/switches/bistable-switch/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/bistable-switch/elevator-bistable-switch-1.jpg",
+        slider: ["elevator-bistable-switch-1", "elevator-bistable-switch-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/bistable-switch",
         robots:
@@ -2271,8 +2271,8 @@ export const products = [
         description: "",
         code: "BS-SW0016",
         url: "/switches/monostable-switch",
-        image: "/img/products/switches/monostable-switch/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/monostable-switch/elevator-monostable-switch-1.jpg",
+        slider: ["elevator-monostable-switch-1", "elevator-monostable-switch-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/monostable-switch",
         robots:
@@ -2291,8 +2291,8 @@ export const products = [
         code: "BS-SW0017",
         url: "/switches/bestech-brand-roller-switch-bs-s3-b1370",
         image:
-          "/img/products/switches/bestech-brand-roller-switch-bs-s3-b1370/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/switches/bestech-brand-roller-switch-bs-s3-b1370/elevator-bestech-brand-roller-switch-bs-s3-b1370-1.jpg",
+        slider: ["elevator-bestech-brand-roller-switch-bs-s3-b1370-1", "elevator-bestech-brand-roller-switch-bs-s3-b1370-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/bestech-brand-roller-switch-bs-s3-b1370",
         robots:
@@ -2304,7 +2304,7 @@ export const products = [
         code: "BS-SW0018",
         url: "/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
         image:
-          "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/1.jpg",
+          "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/elevator-bestech-brand-buffer-switch-bs-uks-bs-ukt-1.jpg",
 
         canonical:
           "https://www.bestechparts.ae/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
@@ -2316,8 +2316,8 @@ export const products = [
         description: "Elevator Limit Switch ME-8108",
         code: "BS-SW0019",
         url: "/switches/elevator-limit-switch-me-8108",
-        image: "/img/products/switches/elevator-limit-switch-me-8108/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/elevator-limit-switch-me-8108/elevator-limit-switch-me-8108-1.jpg",
+        slider: ["elevator-limit-switch-me-8108-1", "elevator-limit-switch-me-8108-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/elevator-limit-switch-me-8108",
         robots:
@@ -2328,8 +2328,8 @@ export const products = [
         description: "Elevator Limit Switch RL8108",
         code: "BS-SW0020",
         url: "/switches/elevator-limit-switch-rl8108",
-        image: "/img/products/switches/elevator-limit-switch-rl8108/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/switches/elevator-limit-switch-rl8108/elevator-limit-switch-rl8108-1.jpg",
+        slider: ["elevator-limit-switch-rl8108-1", "elevator-limit-switch-rl8108-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/elevator-limit-switch-rl8108",
         robots:
@@ -2340,7 +2340,7 @@ export const products = [
         description: "Elevator Limit Switch AZ8108",
         code: "BS-SW0021",
         url: "/switches/elevator-limit-switch-az8108",
-        image: "/img/products/switches/elevator-limit-switch-az8108/1.jpg",
+        image: "/img/products/switches/elevator-limit-switch-az8108/elevator-limit-switch-az8108-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/switches/elevator-limit-switch-az8108",
         robots:
@@ -2351,7 +2351,7 @@ export const products = [
         description: "Schindler - 5791 3864  (TAYEE)",
         code: "BS-SW0022",
         url: "/switches/escalator-switch-5791-3864-tayee",
-        image: "/img/products/switches/escalator-switch-5791-3864-tayee/1.jpg",
+        image: "/img/products/switches/escalator-switch-5791-3864-tayee/elevator-escalator-switch-5791-3864-tayee-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/switches/escalator-switch-5791-3864-tayee",
         robots:
@@ -2362,10 +2362,10 @@ export const products = [
         description: "OTIS Escalator Switch - XBA26220AB2",
         code: "BS-SW0023",
         url: "/switches/escalator-switch-xba26220ab2",
-        image: "/img/products/switches/escalator-switch-xba26220ab2/1.jpg",
+        image: "/img/products/switches/escalator-switch-xba26220ab2/elevator-escalator-switch-xba26220ab2-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/switches/escalator-switch-xba26220ab2",
-        slider: ["1", "2"],
+        slider: ["elevator-escalator-switch-xba26220ab2-1", "elevator-escalator-switch-xba26220ab2-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },

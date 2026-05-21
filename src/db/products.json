@@ -663,7 +663,7 @@
         "keywords": "Schneider LC1D18 contactor, elevator 24VDC contactor, lift Schneider contactor",
         "canonical": "https://www.bestechparts.ae/products/contactors/schneider-24vdc-18a-lc1d18",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Schneider LC1D18 contactor is a compact DC-operated switching device designed for lift control systems. Unlike standard AC contactors, this elevator 24VDC contactor uses a 24-volt DC coil, making it ideal for low-voltage control panels inside lift machinery. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -685,7 +685,7 @@
         "keywords": "Schneider LC1D25F7C contactor, elevator Schneider contactor, lift 110VAC contactor",
         "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vac-25a-lc1d25f7c",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Schneider 110VAC 25A - LC1D25F7C is a heavy-duty electrical switch built for reliable motor control and power switching in lift systems. Operating on a secure 110V AC control coil, this authentic elevator Schneider contactor safely manages electrical circuits drawing up to 25 Amps. Its compact and durable design handles frequent daily use without wear, serving as an essential part that coordinates power flow and protects circuits inside standard lift 110VAC contactor panels or drive networks. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -746,7 +746,7 @@
         "keywords": "Schneider LC1D65AF7C contactor, elevator 65A contactor, lift control contactor",
         "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vac-65a-lc1d65af7c",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>This Schneider LC1D65AF7C contactor handles demanding industrial loads with ease. Its 65A capacity and 110VAC coil make it a versatile lift control part for facilities managers who need a proven, safe switching solution for lift motor circuits.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -765,7 +765,7 @@
         "keywords": "Schneider LC1D32M7 contactor, elevator 220VAC contactor, lift Schneider relay contactor",
         "canonical": "https://www.bestechparts.ae/products/contactors/schneider-220vac-32a-lc1d32m7",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The Schneider LC1D32M7 contactor is a three-pole electrical contactor designed for motor switching and power control in lift control panels. Operating on a 220V AC control coil, this industrial-grade component safely manages inductive motor loads drawing up to 32 Amps.</p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -788,7 +788,7 @@
         "keywords": "ABB AF09 contactor, elevator ABB contactor, lift electrical contactor",
         "canonical": "https://www.bestechparts.ae/products/contactors/abb-af09-30-10-13-25a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-          "paragraph_text": [
+        "paragraph_text": [
           "<h2><strong>Product Overview</strong></h2>",
           "<p>The ABB AF09-30-10-13 contactor is a 25A switching device designed for lift motor control systems. As a verified elevator ABB contactor, it handles the electrical load in lift circuits safely. This compact, block-type module features built-in overvoltage protection and an advanced electronic coil interface that eliminates the need for external surge suppressors inside your control cabinet. </p>",
           "<h2><strong>Key specifications</Strong></h2>",
@@ -2342,12 +2342,12 @@
         "description": "LA137-BD21",
         "code": "BS-SW0001",
         "url": "/switches/inspection-normal-switch-no",
-        "image": "/img/products/switches/inspection-normal-switch-no/inspection-normal-switch-no-1.jpg",
+        "image": "/img/products/switches/inspection-normal-switch-no/elevator-inspection-normal-switch-no-1.jpg",
         "slider": [
-          "inspection-normal-switch-no-1",
-          "inspection-normal-switch-no-2"
+          "elevator-inspection-normal-switch-no-1",
+          "elevator-inspection-normal-switch-no-2"
         ],
-        "alttext": "Elevator Inspection / normal switch (NO)",
+        "alttext": "Elevator Inspection / normal switch (NO) Elevator Spare Parts",
         "meta_title": "Elevator Inspection Normal Switch No. Supplier in UAE | Bestech",
         "meta_description": "Buy elevator inspection normal switch No. in Sharjah, Dubai & UAE. High-quality lift control box parts for Otis, Kone, Mitsubishi, Schindler, Hyundai & more brands.",
         "canonical": "https://www.bestechparts.ae/products/switches/inspection-normal-switch-no",
@@ -2360,8 +2360,8 @@
         "description": "LA137-CK12M45",
         "code": "BS-SW0002",
         "url": "/switches/inspection-normal-switch-light-no",
-        "image": "/img/products/switches/inspection-normal-switch-light-no/inspection-normal-switch-light-no-1.jpg",
-        "alttext": "Elevator Inspection / normal switch light (NO)",
+        "image": "/img/products/switches/inspection-normal-switch-light-no/elevator-inspection-normal-switch-light-no-1.jpg",
+        "alttext": "Elevator Inspection / normal switch light (NO) Elevator Spare Parts",
         "meta_title": "Elevator Inspection Light Switch NO Supplier in UAE | Bestech",
         "meta_description": "Get elevator inspection light switch No. from Bestech in Sharjah, Dubai & UAE. Quality lift lighting switches for Otis, Kone, Schindler, Hyundai & Mitsubishi.",
         "canonical": "https://www.bestechparts.ae/products/switches/inspection-normal-switch-light-no",
@@ -2374,7 +2374,7 @@
         "description": "MKG131-03",
         "code": "BS-SW0003",
         "url": "/switches/bistable-switch-mkg131-03",
-        "image": "/img/products/switches/bistable-switch-mkg131-03/bistable-switch-mkg131-03-1.jpg",
+        "image": "/img/products/switches/bistable-switch-mkg131-03/elevator-bistable-switch-mkg131-03-1.jpg",
         "alttext": "Bistable switch Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/switches/bistable-switch-mkg131-03",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2388,11 +2388,11 @@
         "description": "LAY7(PBCY090)LAY37",
         "code": "BS-SW0004",
         "url": "/switches/emergency-stop-switch-lay7",
-        "image": "/img/products/switches/emergency-stop-switch-lay7/emergency-stop-switch-lay7-1.jpg",
+        "image": "/img/products/switches/emergency-stop-switch-lay7/elevator-emergency-stop-switch-lay7-1.jpg",
         "alttext": "Emergency stop switch Elevator Spare Parts",
         "slider": [
-          "emergency-stop-switch-lay7-1",
-          "emergency-stop-switch-lay7-2"
+          "elevator-emergency-stop-switch-lay7-1",
+          "elevator-emergency-stop-switch-lay7-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/emergency-stop-switch-lay7",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2406,11 +2406,11 @@
         "description": "UKS/UKT",
         "code": "BS-SW0005",
         "url": "/switches/buffer-switch-uks-ukt",
-        "image": "/img/products/switches/buffer-switch-uks-ukt/buffer-switch-uks-ukt-1.jpg",
+        "image": "/img/products/switches/buffer-switch-uks-ukt/elevator-buffer-switch-uks-ukt-1.jpg",
         "alttext": "Buffer switch Elevator Spare Parts",
         "slider": [
-          "buffer-switch-uks-ukt-1",
-          "buffer-switch-uks-ukt-2"
+          "elevator-buffer-switch-uks-ukt-1",
+          "elevator-buffer-switch-uks-ukt-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/buffer-switch-uks-ukt",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2423,14 +2423,14 @@
         "name": "Pit buffer switch",
         "description": "LXP1(3SE3)-020-1A",
         "code": "BS-SW0006",
-        "url": "/switches/pit-buffer-switch-lxp1-3SE3-020-1a",
-        "image": "/img/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a/pit-buffer-switch-lxp1-3SE3-020-1a-1.jpg",
+        "url": "/switches/pit-buffer-switch-lxp1-3se3-020-1a",
+        "image": "/img/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a/elevator-pit-buffer-switch-lxp1-3SE3-020-1a-1.jpg",
         "alttext": "Pit buffer switch Elevator Spare Parts",
         "slider": [
-          "pit-buffer-switch-lxp1-3SE3-020-1a-1",
-          "pit-buffer-switch-lxp1-3SE3-020-1a-2"
+          "elevator-pit-buffer-switch-lxp1-3SE3-020-1a-1",
+          "elevator-pit-buffer-switch-lxp1-3SE3-020-1a-2"
         ],
-        "canonical": "https://www.bestechparts.ae/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a",
+        "canonical": "https://www.bestechparts.ae/products/switches/pit-buffer-switch-lxp1-3se3-020-1a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator Pit Buffer Switch LXP1-3SE3-020-1A in UAE | Bestech",
         "meta_description": "Purchase LXP1-3SE3-020-1A pit buffer switch in Sharjah, Dubai & UAE. Trusted lift safety spare for Otis, Kone, Hyundai, Schindler, Mitsubishi elevators.",
@@ -2442,12 +2442,12 @@
         "description": "DS-131",
         "code": "BS-SW0007",
         "url": "/switches/door-switch-ds-131",
-        "image": "/img/products/switches/door-switch-ds-131/door-switch-ds-131-1.jpg",
+        "image": "/img/products/switches/door-switch-ds-131/elevator-door-switch-ds-131-1.jpg",
         "alttext": "Elevator Door Switch Elevator Spare Parts",
         "slider": [
-          "door-switch-ds-131-1",
-          "door-switch-ds-131-2",
-          "door-switch-ds-131-3"
+          "elevator-door-switch-ds-131-1",
+          "elevator-door-switch-ds-131-2",
+          "elevator-door-switch-ds-131-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/door-switch-ds-131",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2461,8 +2461,8 @@
         "description": "YA043D166-04",
         "code": "BS-SW0008",
         "url": "/switches/door-machine-switch-ya043d166-04",
-        "image": "/img/products/switches/door-machine-switch-ya043d166-04/door-machine-switch-ya043d166-04-1.jpg",
-        "alttext": "Elevator Door Machine Switch",
+        "image": "/img/products/switches/door-machine-switch-ya043d166-04/elevator-door-machine-switch-ya043d166-04-1.jpg",
+        "alttext": "Elevator Door Machine Switch Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/switches/door-machine-switch-ya043d166-04",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Elevator Door Machine Switch YA043D166-04 in UAE | Bestech",
@@ -2475,11 +2475,11 @@
         "description": "D4NA-4132/D4N-4A72",
         "code": "BS-SW0009",
         "url": "/switches/limit-switch-d4na-4132-d4n-4a72",
-        "image": "/img/products/switches/limit-switch-d4na-4132-d4n-4a72/limit-switch-d4na-4132-d4n-4a72-1.jpg",
-        "alttext": "Elevator Limit Switch",
+        "image": "/img/products/switches/limit-switch-d4na-4132-d4n-4a72/elevator-limit-switch-d4na-4132-d4n-4a72-1.jpg",
+        "alttext": "Elevator Limit Switch Elevator Spare Parts",
         "slider": [
-          "limit-switch-d4na-4132-d4n-4a72-1",
-          "limit-switch-d4na-4132-d4n-4a72-2"
+          "elevator-limit-switch-d4na-4132-d4n-4a72-1",
+          "elevator-limit-switch-d4na-4132-d4n-4a72-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/limit-switch-d4na-4132-d4n-4a72",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2493,11 +2493,11 @@
         "description": "HD-MV01A",
         "code": "BS-SW0010",
         "url": "/switches/overload-switch-hd-mv01a",
-        "image": "/img/products/switches/overload-switch-hd-mv01a/overload-switch-hd-mv01a-1.jpg",
-        "alttext": "Elevator Overload Switch",
+        "image": "/img/products/switches/overload-switch-hd-mv01a/elevator-overload-switch-hd-mv01a-1.jpg",
+        "alttext": "Elevator Overload Switch Elevator Spare Parts",
         "slider": [
-          "overload-switch-hd-mv01a-1",
-          "overload-switch-hd-mv01a-2"
+          "elevator-overload-switch-hd-mv01a-1",
+          "elevator-overload-switch-hd-mv01a-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/overload-switch-hd-mv01a",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2511,11 +2511,11 @@
         "description": "X-10GQ-B",
         "code": "BS-SW0011",
         "url": "/switches/micro-switch-x-10gq-b",
-        "image": "/img/products/switches/micro-switch-x-10gq-b/micro-switch-x-10gq-b-1.jpg",
-        "alttext": "Elevator Micro Switch",
+        "image": "/img/products/switches/micro-switch-x-10gq-b/elevator-micro-switch-x-10gq-b-1.jpg",
+        "alttext": "Elevator Micro Switch Elevator Spare Parts",
         "slider": [
-          "micro-switch-x-10gq-b-1",
-          "micro-switch-x-10gq-b-2"
+          "elevator-micro-switch-x-10gq-b-1",
+          "elevator-micro-switch-x-10gq-b-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/micro-switch-x-10gq-b",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2529,11 +2529,11 @@
         "description": "S3-B1270/S3-1371",
         "code": "BS-SW0012",
         "url": "/switches/limit-switch-s3-b1270-s3-1371",
-        "image": "/img/products/switches/limit-switch-s3-b1270-s3-1371/limit-switch-s3-b1270-s3-1371-1.jpg",
-        "alttext": "Elevator Limit Switch",
+        "image": "/img/products/switches/limit-switch-s3-b1270-s3-1371/elevator-limit-switch-s3-b1270-s3-1371-1.jpg",
+        "alttext": "Elevator Limit Switch Elevator Spare Parts",
         "slider": [
-          "limit-switch-s3-b1270-s3-1371-1",
-          "limit-switch-s3-b1270-s3-1371-2"
+          "elevator-limit-switch-s3-b1270-s3-1371-1",
+          "elevator-limit-switch-s3-b1270-s3-1371-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/limit-switch-s3-b1270-s3-1371",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2547,11 +2547,11 @@
         "description": "B3181/83186",
         "code": "BS-SW0013",
         "url": "/switches/brake-detection-switch-b3181-83186",
-        "image": "/img/products/switches/brake-detection-switch-b3181-83186/brake-detection-switch-b3181-83186-1.jpg",
-        "alttext": "Elevator Brake Detection Switch",
+        "image": "/img/products/switches/brake-detection-switch-b3181-83186/elevator-brake-detection-switch-b3181-83186-1.jpg",
+        "alttext": "Elevator Brake Detection Switch Elevator Spare Parts",
         "slider": [
-          "brake-detection-switch-b3181-83186-1",
-          "brake-detection-switch-b3181-83186-2"
+          "elevator-brake-detection-switch-b3181-83186-1",
+          "elevator-brake-detection-switch-b3181-83186-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/brake-detection-switch-b3181-83186",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2565,11 +2565,11 @@
         "description": "KCB-JUA/KCB-JUB",
         "code": "BS-SW0014",
         "url": "/switches/door-switch-kcb-jua-kcb-jub",
-        "image": "/img/products/switches/door-switch-kcb-jua-kcb-jub/door-switch-kcb-jua-kcb-jub-1.jpg",
-        "alttext": "Elevator Door Switch KCB-JUA/KCB-JUB",
+        "image": "/img/products/switches/door-switch-kcb-jua-kcb-jub/elevator-door-switch-kcb-jua-kcb-jub-1.jpg",
+        "alttext": "Elevator Door Switch KCB-JUA/KCB-JUB Elevator Spare Parts",
         "slider": [
-          "door-switch-kcb-jua-kcb-jub-1",
-          "door-switch-kcb-jua-kcb-jub-2"
+          "elevator-door-switch-kcb-jua-kcb-jub-1",
+          "elevator-door-switch-kcb-jua-kcb-jub-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/door-switch-kcb-jua-kcb-jub",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2583,11 +2583,11 @@
         "description": "",
         "code": "BS-SW0015",
         "url": "/switches/bistable-switch",
-        "image": "/img/products/switches/bistable-switch/bistable-switch-1.jpg",
-        "alttext": "Elevator Bistable Switch",
+        "image": "/img/products/switches/bistable-switch/elevator-bistable-switch-1.jpg",
+        "alttext": "Elevator Bistable Switch Elevator Spare Parts",
         "slider": [
-          "bistable-switch-1",
-          "bistable-switch-2"
+          "elevator-bistable-switch-1",
+          "elevator-bistable-switch-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/bistable-switch",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2601,11 +2601,11 @@
         "description": "",
         "code": "BS-SW0016",
         "url": "/switches/monostable-switch",
-        "image": "/img/products/switches/monostable-switch/monostable-switch-1.jpg",
-        "alttext": "Elevator Monostable Switch",
+        "image": "/img/products/switches/monostable-switch/elevator-monostable-switch-1.jpg",
+        "alttext": "Elevator Monostable Switch Elevator Spare Parts",
         "slider": [
-          "monostable-switch-1",
-          "monostable-switch-2"
+          "elevator-monostable-switch-1",
+          "elevator-monostable-switch-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/monostable-switch",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2619,24 +2619,44 @@
         "description": "Bestech: BS-S3-B1370",
         "code": "BS-SW0017",
         "url": "/switches/bestech-brand-roller-switch-bs-s3-b1370",
-        "image": "/img/products/switches/bestech-brand-roller-switch-bs-s3-b1370/bestech-brand-roller-switch-bs-s3-b1370-1.jpg",
+        "image": "/img/products/switches/bestech-brand-roller-switch-bs-s3-b1370/elevator-bestech-brand-roller-switch-bs-s3-b1370-1.jpg",
         "alttext": "Bestech brand: Roller Switch Elevator Spare Parts",
         "slider": [
-          "bestech-brand-roller-switch-bs-s3-b1370-1",
-          "bestech-brand-roller-switch-bs-s3-b1370-2"
+          "elevator-bestech-brand-roller-switch-bs-s3-b1370-1",
+          "elevator-bestech-brand-roller-switch-bs-s3-b1370-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/bestech-brand-roller-switch-bs-s3-b1370",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Roller Limit Switch BS-S3-B1370 | BESTECH",
+        "meta_description": "Shop the BS-S3-B1370 elevator roller switch unit online to source high-integrity replacement spares built for direct installation on hoistway door tracks.",
+        "keywords": "elevator roller switch, lift roller limit switch, elevator safety switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BESTECH BS-S3-B1370 is a roller-type limit switch built for elevator and lift systems. It works as an elevator roller switch that detects the position of the lift car or door using a roller actuator. This lift roller limit switch is commonly used in door machine assemblies and car frame positions.</p>",
+          "<p>As an elevator safety switch, it helps the lift control system know when to stop or change direction. The roller mechanism ensures smooth and repeatable contact, which is important for lift safety and performance.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BESTECH Roller Switch BS-S3-B1370</li><li><strong>Product Code:</strong> BS-SW0017</li><li><strong>Category:</strong> Switches</li><li><strong>Switch Type:</strong> Roller Actuated Limit Switch</li><li><strong>Actuator:</strong> Roller Lever</li></ul>"
+        ]
       },
       {
         "name": "Bestech brand Buffer switch: BS-UKS BS-UKT",
         "description": "Bestech: BS-UKS BS-UKT",
         "code": "BS-SW0018",
         "url": "/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
-        "image": "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/bestech-brand-buffer-switch-bs-uks-bs-ukt-1.jpg",
+        "image": "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/elevator-bestech-brand-buffer-switch-bs-uks-bs-ukt-1.jpg",
         "alttext": "Bestech brand Buffer switch Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Buy Lift Buffer Switch BS-UKS UKT | BESTECH UAE ",
+        "meta_description": "This 10A elevator buffer switch replacement spare features a standardized terminal setup to drop directly into standard industrial circuit loops for your lift.",
+        "keywords": "elevator buffer switch, lift safety buffer switch, elevator limit safety switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The BESTECH BS-UKS and BS-UKT are elevator buffer switches designed for lift pit safety. Both models are IP65-rated waterproof safety circuit switches that cut power to the safety string when the lift buffer is compressed.</p>",
+          "<p>The BS-UKS features a straight vertical plunger (Senkrecht) for top-mounted installation. The BS-UKT uses an angled side plunger (Tangential) for side-mounted installation. Both serve as lift safety buffer switches and elevator limit safety switches in UAE elevator systems from Otis, Schindler, Kone and Thyssenkrupp.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> BESTECH Buffer Switch (BS-UKS & BS-UKT)</li><li><strong>Product Code:</strong> BS-SW0018</li><li><strong>Category:</strong> Switches</li><li><strong>Switch Type:</strong> Elevator Safety Buffer Switch</li></ul>"
+        ]
       },
       {
         "name": "Elevator Limit Switch ME-8108",
@@ -2644,13 +2664,23 @@
         "code": "BS-SW0019",
         "url": "/switches/elevator-limit-switch-me-8108",
         "image": "/img/products/switches/elevator-limit-switch-me-8108/elevator-limit-switch-me-8108-1.jpg",
-        "alttext": "Elevator Limit Switch ME-8108",
+        "alttext": "Elevator Limit Switch ME-8108 Elevator Spare Parts",
         "slider": [
           "elevator-limit-switch-me-8108-1",
           "elevator-limit-switch-me-8108-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-me-8108",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Elevator Limit Switch ME-8108 | Roller Lift Switch",
+        "meta_description": "Built with a strong metal case, this elevator limit switch ME-8108 component fits perfectly into emergency safety circuit lines to protect your moving lift.",
+        "keywords": "elevator limit switch ME-8108, lift limit switch, elevator control switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator Limit Switch ME-8108 is a simple mechanical safety switch made to protect lift systems from accidents. Operating as an elevator limit switch ME-8108, it sits at the absolute top and bottom of the shaft to act as an emergency stop.</p>",
+          "<p>When the moving lift car reaches its final limits, it pushes the small roller wheel on the metal arm. This durable lift limit switch immediately acts as a safety elevator control switch, cutting off power to the motor so the car stops safely before overshooting or hitting the floor.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong>  Elevator Limit Switch ME-8108</li><li><strong>Product Code:</strong> BS-SW0019</li><li><strong>Category:</strong> Switches</li><li><strong>Switch Type:</strong> Mechanical Safety Limit Switch</li></ul>"
+        ]
       },
       {
         "name": "Elevator Limit Switch RL8108",
@@ -2658,13 +2688,22 @@
         "code": "BS-SW0020",
         "url": "/switches/elevator-limit-switch-rl8108",
         "image": "/img/products/switches/elevator-limit-switch-rl8108/elevator-limit-switch-rl8108-1.jpg",
-        "alttext": "Elevator Limit Switch RL8108",
+        "alttext": "Elevator Limit Switch RL8108 Elevator Spare Parts",
         "slider": [
           "elevator-limit-switch-rl8108-1",
           "elevator-limit-switch-rl8108-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-rl8108",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+          "meta_title": "Elevator Limit Switch RL8108 | Lift Control Switch",
+        "meta_description": "Buy this elevator mechanical switch spare part online to secure your circuits as the adjustable roller mechanism ensures safe tracking for your lift.",
+        "keywords": "elevator limit switch RL8108, lift safety switch, elevator mechanical switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator Limit Switch RL8108 is a simple mechanical safety device used in lift systems to prevent over-travel at both the top and bottom ends of the hoistway. As a lift safety switch, it acts as a final line of defence when the car reaches its travel limit. A small roller on a metal arm gets pushed by the moving lift car. This triggers the elevator mechanical switch to open the safety circuit and stop the motor immediately.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Limit Switch RL8108</li><li><strong>Product Code:</strong> BS-SW0020</li><li><strong>Category:</strong> Switches</li><li><strong>Switch Type:</strong> Mechanical Safety Limit Switch</li></ul>"
+        ]
       },
       {
         "name": "Elevator Limit Switch AZ8108",
@@ -2672,33 +2711,60 @@
         "code": "BS-SW0021",
         "url": "/switches/elevator-limit-switch-az8108",
         "image": "/img/products/switches/elevator-limit-switch-az8108/elevator-limit-switch-az8108-1.jpg",
-        "alttext": "Elevator Limit Switch AZ8108",
+        "alttext": "Elevator Limit Switch AZ8108 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-az8108",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+          "meta_title": "Elevator Limit Switch AZ8108 | Lift Safety Switch ",
+        "meta_description": "Buy the AZ8108 elevator safety switch unit online to source high-integrity replacement spares built for direct installation on hoistway structural rails.",
+        "keywords": "elevator limit switch AZ8108, lift control limit switch, elevator safety switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator Limit Switch AZ8108 is a heavy-duty safety component made to stop the elevator car immediately if it travels too far inside the shaft. Operating as a reliable lift control limit switch, it sits at the absolute top and bottom ends of the track to serve as an emergency backup. When the moving cabin passes its normal limits, it pushes the oversized black roller wheel on the metal arm, triggering this durable elevator safety switch to break the electrical circuit instantly and shut off the motor before an accident happens.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Limit Switch AZ8108</li><li><strong>Product Code:</strong> BS-SW0021</li><li><strong>Category:</strong> Switches</li><li><strong>Switch Type:</strong> Roller mechanical limit switch</li><li><strong>Primary Use:</strong> Emergency backup stop control for elevator and lift safety systems</li></ul>"
+        ]
       },
       {
         "name": "Escalator Switch - 5791 3864  (TAYEE)",
         "description": "Schindler - 5791 3864  (TAYEE)",
         "code": "BS-SW0022",
         "url": "/switches/escalator-switch-5791-3864-tayee",
-        "image": "/img/products/switches/escalator-switch-5791-3864-tayee/escalator-switch-5791-3864-tayee-1.jpg",
+        "image": "/img/products/switches/escalator-switch-5791-3864-tayee/elevator-escalator-switch-5791-3864-tayee-1.jpg",
         "alttext": "Escalator Switch - 5791 3864 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/switches/escalator-switch-5791-3864-tayee",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+          "meta_title": "Buy Escalator Switch 5791-3864 | Tayee Safety Spares",
+        "meta_description": "Get this mechanical escalator switch 5791-3864 unit online to source high-integrity replacement spares built for direct installation on lift frames.",
+        "keywords": "escalator switch 5791-3864, lift escalator safety switch, Tayee escalator switch",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Escalator Switch - 5791 3864 (TAYEE) is a simple safety switch made as a replacement part for moving stairways. Operating as a reliable escalator switch 5791-3864, this genuine Tayee escalator switch is built to control the emergency stop button system. It serves as an important lift escalator safety switch that instantly cuts off the electricity to turn off the motor if an accident happens, keeping passengers and equipment safe inside busy shopping malls and public buildings.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Escalator Switch - 5791 3864 (TAYEE)</li><li><strong>Product Code:</strong> BS-SW0022</li><li><strong>Category:</strong> Switches</li><li><strong>OEM Number:</strong> 5791 3864</li><li><strong>Brand Compatibility:</strong> Schindler</li></ul>"
+        ]
       },
       {
         "name": "Escalator Switch - XBA26220AB2",
         "description": "OTIS Escalator Switch - XBA26220AB2",
         "code": "BS-SW0023",
         "url": "/switches/escalator-switch-xba26220ab2",
-        "image": "/img/products/switches/escalator-switch-xba26220ab2/escalator-switch-xba26220ab2-1.jpg",
+        "image": "/img/products/switches/escalator-switch-xba26220ab2/elevator-escalator-switch-xba26220ab2-1.jpg",
         "alttext": "Escalator Switch - XBA26220AB2 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/switches/escalator-switch-xba26220ab2",
         "slider": [
-          "escalator-switch-xba26220ab2-1",
-          "escalator-switch-xba26220ab2-2"
+          "elevator-escalator-switch-xba26220ab2-1",
+          "elevator-escalator-switch-xba26220ab2-2"
         ],
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Escalator Switch XBA26220AB2 | OTIS Key Box Assembly",
+        "meta_description": "Order this complete three-in-one escalator switch XBA26220AB2 spare from our local stockroom to fix sticky direction toggle keys on your commercial lift.",
+        "keywords": "escalator switch XBA26220AB2, lift escalator control switch, escalator safety component",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>This is a three-in-one safety replacement block designed for moving stairways. This genuine escalator switch XBA26220AB2 features a red emergency stop button, an integrated digital status display, and a manual Up/Down key switch built into a clean stainless steel faceplate. It works as a reliable lift escalator control switch to manage direction shifts and shut off power instantly during emergencies.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Escalator Switch - XBA26220AB2</li><li><strong>Product Code:</strong> BS-SW0023</li><li><strong>Category:</strong> Switches</li><li><strong>Model Number:</strong> XBA26220AB2</li><li><strong>Brand Compatibility:</strong> OTIS escalator systems</li></ul>"
+        ]
       }
     ]
   },
