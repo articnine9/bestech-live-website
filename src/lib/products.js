@@ -5625,8 +5625,8 @@ export const products = [
         description: "",
         code: "BS-DS0001",
         url: "/door-sliders/k-door-slider",
-        image: "/img/products/door-sliders/k-door-slider/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-sliders/k-door-slider/elevator-k-door-slider-1.jpg",
+        slider: ["elevator-k-door-slider-1", "elevator-k-door-slider-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/k-door-slider",
         robots:
@@ -5637,7 +5637,7 @@ export const products = [
         description: "",
         code: "BS-DS0002",
         url: "/door-sliders/o-door-slider",
-        image: "/img/products/door-sliders/o-door-slider/1.jpg",
+        image: "/img/products/door-sliders/o-door-slider/elevator-o-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/o-door-slider",
         robots:
@@ -5648,7 +5648,7 @@ export const products = [
         description: "",
         code: "BS-DS0003",
         url: "/door-sliders/o-nylon-rubber-door-slider",
-        image: "/img/products/door-sliders/o-nylon-rubber-door-slider/1.jpg",
+        image: "/img/products/door-sliders/o-nylon-rubber-door-slider/elevator-o-nylon-rubber-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/o-nylon-rubber-door-slider",
         robots:
@@ -5659,8 +5659,8 @@ export const products = [
         description: "K200/S200",
         code: "BS-DS0004",
         url: "/door-sliders/door-slider-k200-s200",
-        image: "/img/products/door-sliders/door-slider-k200-s200/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/door-sliders/door-slider-k200-s200/elevator-door-slider-k200-s200-1.jpg",
+        slider: ["elevator-door-slider-k200-s200-1", "elevator-door-slider-k200-s200-2", "elevator-door-slider-k200-s200-3", "elevator-door-slider-k200-s200-4"],
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-k200-s200",
         robots:
@@ -5671,7 +5671,7 @@ export const products = [
         description: "",
         code: "BS-DS0005",
         url: "/door-sliders/s-door-slider",
-        image: "/img/products/door-sliders/s-door-slider/1.jpg",
+        image: "/img/products/door-sliders/s-door-slider/elevator-s-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/s-door-slider",
         robots:
@@ -5693,7 +5693,7 @@ export const products = [
         description: "",
         code: "BS-DS0007",
         url: "/door-sliders/to-door-slider",
-        image: "/img/products/door-sliders/to-door-slider/1.jpg",
+        image: "/img/products/door-sliders/to-door-slider/elevator-to-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/to-door-slider",
         robots:
@@ -5704,8 +5704,8 @@ export const products = [
         description: "",
         code: "BS-DS0008",
         url: "/door-sliders/hi-door-slider",
-        image: "/img/products/door-sliders/hi-door-slider/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-sliders/hi-door-slider/elevator-hi-door-slider-1.jpg",
+        slider: ["elevator-hi-door-slider-1", "elevator-hi-door-slider-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/hi-door-slider",
         robots:
@@ -5716,8 +5716,8 @@ export const products = [
         description: "",
         code: "BS-DS0009",
         url: "/door-sliders/e-door-slider",
-        image: "/img/products/door-sliders/e-door-slider/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-sliders/e-door-slider/elevator-e-door-slider-1.jpg",
+        slider: ["elevator-e-door-slider-1", "elevator-e-door-slider-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/e-door-slider",
         robots:
@@ -5728,7 +5728,7 @@ export const products = [
         description: "",
         code: "BS-DS0010",
         url: "/door-sliders/hy-door-slider",
-        image: "/img/products/door-sliders/hy-door-slider/1.jpg",
+        image: "/img/products/door-sliders/hy-door-slider/elevator-hy-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/hy-door-slider",
         robots:
@@ -5739,7 +5739,7 @@ export const products = [
         description: "",
         code: "BS-DS0011",
         url: "/door-sliders/c-door-slider",
-        image: "/img/products/door-sliders/c-door-slider/1.jpg",
+        image: "/img/products/door-sliders/c-door-slider/elevator-c-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/c-door-slider",
         robots:
@@ -5750,7 +5750,7 @@ export const products = [
         description: "",
         code: "BS-DS0012",
         url: "/door-sliders/i-door-slider",
-        image: "/img/products/door-sliders/i-door-slider/1.jpg",
+        image: "/img/products/door-sliders/i-door-slider/elevator-i-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/i-door-slider",
         robots:
@@ -5761,7 +5761,7 @@ export const products = [
         description: "",
         code: "BS-DS0013",
         url: "/door-sliders/quilog-door-slider",
-        image: "/img/products/door-sliders/quilog-door-slider/1.jpg",
+        image: "/img/products/door-sliders/quilog-door-slider/elevator-quilog-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/quilog-door-slider",
         robots:
@@ -5772,7 +5772,7 @@ export const products = [
         description: "",
         code: "BS-DS0014",
         url: "/door-sliders/freight-elevator-door-slider",
-        image: "/img/products/door-sliders/freight-elevator-door-slider/1.jpg",
+        image: "/img/products/door-sliders/freight-elevator-door-slider/elevator-freight-elevator-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/freight-elevator-door-slider",
         robots:
@@ -5783,7 +5783,7 @@ export const products = [
         description: "",
         code: "BS-DS0015",
         url: "/door-sliders/m-door-slider",
-        image: "/img/products/door-sliders/m-door-slider/1.jpg",
+        image: "/img/products/door-sliders/m-door-slider/elevator-m-door-slider-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/m-door-slider",
         robots:
@@ -5794,7 +5794,7 @@ export const products = [
         description: "Door slider 31mmX15mm",
         code: "BS-DS0016",
         url: "/door-sliders/door-slider-31mmx15mm",
-        image: "/img/products/door-sliders/door-slider-31mmx15mm/1.jpg",
+        image: "/img/products/door-sliders/door-slider-31mmx15mm/elevator-door-slider-31mmx15mm-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-31mmx15mm",
         robots:
@@ -5805,7 +5805,7 @@ export const products = [
         description: "Door slider 39mmX14mm",
         code: "BS-DS0017",
         url: "/door-sliders/door-slider-39mmx14mm",
-        image: "/img/products/door-sliders/door-slider-39mmx14mm/1.jpg",
+        image: "/img/products/door-sliders/door-slider-39mmx14mm/elevator-door-slider-39mmx14mm-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-39mmx14mm",
         robots:
@@ -5816,7 +5816,7 @@ export const products = [
         description: "Door slider White 18mmX25mm - Schindler",
         code: "BS-DS0018",
         url: "/door-sliders/door-slider-white-18mmx25mm-s",
-        image: "/img/products/door-sliders/door-slider-white-18mmx25mm-s/1.jpg",
+        image: "/img/products/door-sliders/door-slider-white-18mmx25mm-s/elevator-door-slider-white-18mmx25mm-s-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-white-18mmx25mm-s",
         robots:
@@ -5827,7 +5827,7 @@ export const products = [
         description: "OTIS Door Slider black - 12X50",
         code: "BS-DS0019",
         url: "/door-sliders/door-slider-black-12x50",
-        image: "/img/products/door-sliders/door-slider-black-12x50/1.jpg",
+        image: "/img/products/door-sliders/door-slider-black-12x50/elevator-door-slider-black-12x50-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-black-12x50",
         robots:

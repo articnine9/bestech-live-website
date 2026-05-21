@@ -5871,7 +5871,7 @@
         "alttext": "Door wheel roller 70*25*6204 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-wheels/door-wheel-roller-70-25-6204",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-         "meta_title": "Elevator Door Roller 70-25-6204 | Lift Sliding Wheel",
+        "meta_title": "Elevator Door Roller 70-25-6204 | Lift Sliding Wheel",
         "meta_description": "Durable 70-25-6204 elevator door wheel roller for lift systems. Ensures smooth sliding door movement, low noise and stable long-lasting performance.",
         "keywords": "elevator door wheel roller, lift door roller 70-25-6204, elevator sliding door roller",
         "paragraph_text": [
@@ -7320,11 +7320,11 @@
         "description": "",
         "code": "BS-DS0001",
         "url": "/door-sliders/k-door-slider",
-        "image": "/img/products/door-sliders/k-door-slider/k-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/k-door-slider/elevator-k-door-slider-1.jpg",
         "alttext": "K door slider elevator",
         "slider": [
-          "k-door-slider-1",
-          "k-door-slider-2"
+          "elevator-k-door-slider-1",
+          "elevator-k-door-slider-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-sliders/k-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7338,7 +7338,7 @@
         "description": "",
         "code": "BS-DS0002",
         "url": "/door-sliders/o-door-slider",
-        "image": "/img/products/door-sliders/o-door-slider/o-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/o-door-slider/elevator-o-door-slider-1.jpg",
         "alttext": "Elevator O door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/o-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7352,7 +7352,7 @@
         "description": "",
         "code": "BS-DS0003",
         "url": "/door-sliders/o-nylon-rubber-door-slider",
-        "image": "/img/products/door-sliders/o-nylon-rubber-door-slider/o-nylon-rubber-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/o-nylon-rubber-door-slider/elevator-o-nylon-rubber-door-slider-1.jpg",
         "alttext": "Elevator O Nylon Rubber Door Slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/o-nylon-rubber-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7366,13 +7366,13 @@
         "description": "K200/S200",
         "code": "BS-DS0004",
         "url": "/door-sliders/door-slider-k200-s200",
-        "image": "/img/products/door-sliders/door-slider-k200-s200/door-slider-k200-s200-1.jpg",
+        "image": "/img/products/door-sliders/door-slider-k200-s200/elevator-door-slider-k200-s200-1.jpg",
         "alttext": "elevator K200 S200 door slider",
         "slider": [
-          "door-slider-k200-s200-1",
-          "door-slider-k200-s200-2",
-          "door-slider-k200-s200-3",
-          "door-slider-k200-s200-4"
+          "elevator-door-slider-k200-s200-1",
+          "elevator-door-slider-k200-s200-2",
+          "elevator-door-slider-k200-s200-3",
+          "elevator-door-slider-k200-s200-4"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-k200-s200",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7386,7 +7386,7 @@
         "description": "",
         "code": "BS-DS0005",
         "url": "/door-sliders/s-door-slider",
-        "image": "/img/products/door-sliders/s-door-slider/s-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/s-door-slider/elevator-s-door-slider-1.jpg",
         "alttext": "S-Door slider Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/s-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7410,7 +7410,7 @@
         "description": "",
         "code": "BS-DS0007",
         "url": "/door-sliders/to-door-slider",
-        "image": "/img/products/door-sliders/to-door-slider/to-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/to-door-slider/elevator-to-door-slider-1.jpg",
         "alttext": "TO-Door slider Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/to-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7424,11 +7424,11 @@
         "description": "",
         "code": "BS-DS0008",
         "url": "/door-sliders/hi-door-slider",
-        "image": "/img/products/door-sliders/hi-door-slider/hi-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/hi-door-slider/elevator-hi-door-slider-1.jpg",
         "alttext": "Hi-Door slider Elevator Spare Parts",
         "slider": [
-          "hi-door-slider-1",
-          "hi-door-slider-2"
+          "elevator-hi-door-slider-1",
+          "elevator-hi-door-slider-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-sliders/hi-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7442,11 +7442,11 @@
         "description": "",
         "code": "BS-DS0009",
         "url": "/door-sliders/e-door-slider",
-        "image": "/img/products/door-sliders/e-door-slider/e-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/e-door-slider/elevator-e-door-slider-1.jpg",
         "alttext": "E Door Slider Elevator",
         "slider": [
-          "e-door-slider-1",
-          "e-door-slider-2"
+          "elevator-e-door-slider-1",
+          "elevator-e-door-slider-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-sliders/e-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7460,7 +7460,7 @@
         "description": "",
         "code": "BS-DS0010",
         "url": "/door-sliders/hy-door-slider",
-        "image": "/img/products/door-sliders/hy-door-slider/hy-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/hy-door-slider/elevator-hy-door-slider-1.jpg",
         "alttext": "HY-Door slider Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/hy-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7474,7 +7474,7 @@
         "description": "",
         "code": "BS-DS0011",
         "url": "/door-sliders/c-door-slider",
-        "image": "/img/products/door-sliders/c-door-slider/c-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/c-door-slider/elevator-c-door-slider-1.jpg",
         "alttext": "C Door Slider Elevator",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/c-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7488,7 +7488,7 @@
         "description": "",
         "code": "BS-DS0012",
         "url": "/door-sliders/i-door-slider",
-        "image": "/img/products/door-sliders/i-door-slider/i-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/i-door-slider/elevator-i-door-slider-1.jpg",
         "alttext": "I Door Slider Elevator",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/i-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7502,7 +7502,7 @@
         "description": "",
         "code": "BS-DS0013",
         "url": "/door-sliders/quilog-door-slider",
-        "image": "/img/products/door-sliders/quilog-door-slider/quilog-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/quilog-door-slider/elevator-quilog-door-slider-1.jpg",
         "alttext": "Quilog door slider elevator",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/quilog-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7516,7 +7516,7 @@
         "description": "",
         "code": "BS-DS0014",
         "url": "/door-sliders/freight-elevator-door-slider",
-        "image": "/img/products/door-sliders/freight-elevator-door-slider/freight-elevator-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/freight-elevator-door-slider/elevator-freight-elevator-door-slider-1.jpg",
         "alttext": "Freight Elevator door slider",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/freight-elevator-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7530,7 +7530,7 @@
         "description": "",
         "code": "BS-DS0015",
         "url": "/door-sliders/m-door-slider",
-        "image": "/img/products/door-sliders/m-door-slider/m-door-slider-1.jpg",
+        "image": "/img/products/door-sliders/m-door-slider/elevator-m-door-slider-1.jpg",
         "alttext": "M-Door slider Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/m-door-slider",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7544,40 +7544,78 @@
         "description": "Door slider 31mmX15mm",
         "code": "BS-DS0016",
         "url": "/door-sliders/door-slider-31mmx15mm",
-        "image": "/img/products/door-sliders/door-slider-31mmx15mm/door-slider-31mmx15mm-1.jpg",
+        "image": "/img/products/door-sliders/door-slider-31mmx15mm/elevator-door-slider-31mmx15mm-1.jpg",
         "alttext": "Door slider 31mmX15mm Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-31mmx15mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Slider 31mm x 15mm | Smooth Door Operation",
+        "meta_description": "Durable 31mm x 15mm door slider for elevator doors. Ensures smooth, quiet operation and proper alignment. Ideal for maintenance and repair.",
+        "keywords": "elevator door slider 31mmx15mm, lift door guide slider, elevator sliding shoe",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>This 31mm x 15mm door slider is a replacement roller for elevator door systems. It guides the door during opening and closing, helping it move smoothly and stay aligned. It is a commonly used size across a range of lift door systems, making this a straightforward swap for technicians doing routine maintenance or replacing worn parts on site.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Slider 31mmX15mm</li><li><strong>Product Code:</strong> BS-DS0016</li><li><strong>Category:</strong> Elevator Door Sliders</li><li><strong>Type:</strong> Elevator Sliding Shoe / Door Sill Guide</li><li><strong>Application:</strong> Elevator Door Slider / Lift Door Guide Slider</li></ul>"
+        ]
       },
       {
         "name": "Door slider 39mmX14mm",
         "description": "Door slider 39mmX14mm",
         "code": "BS-DS0017",
         "url": "/door-sliders/door-slider-39mmx14mm",
-        "image": "/img/products/door-sliders/door-slider-39mmx14mm/door-slider-39mmx14mm-1.jpg",
+        "image": "/img/products/door-sliders/door-slider-39mmx14mm/elevator-door-slider-39mmx14mm-1.jpg",
         "alttext": "Door slider 39mmX14mm Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-39mmx14mm",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Slider 39x14mm | Lift Sliding Guide Shoe",
+        "meta_description": "A well-fitted elevator door shoe for smooth lift door guidance along the sill track. Direct replacement and easy on-site install.",
+        "keywords": "elevator door slider 39mmx14mm, lift door sliding guide, elevator door shoe",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The 39mm x 14mm elevator door slider is a engineered guide roller designed to ensure smooth and reliable door movement. It is commonly used as an elevator door shoe. It reduces friction, prevents misalignment and minimizes noise during operation.</p>",
+          "<p>This lift door sliding guide is ideal for both residential and commercial elevators. It is a direct-fit replacement part, making it easy to install during routine maintenance or repairs.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Slider 39mmX14mm</li><li><strong>Product Code:</strong> BS-DS0017</li><li><strong>Category:</strong> Elevator Door Sliders</li><li><strong>Type:</strong> Elevator Door Shoe / Door Sill Guide</li><li><strong>Application:</strong> Elevator Door Slider / Lift Door Sliding Guide</li></ul>"
+        ]
       },
       {
         "name": "Door slider White 18mmX25mm - S",
         "description": "Door slider White 18mmX25mm - Schindler",
         "code": "BS-DS0018",
         "url": "/door-sliders/door-slider-white-18mmx25mm-s",
-        "image": "/img/products/door-sliders/door-slider-white-18mmx25mm-s/door-slider-white-18mmx25mm-s-1.jpg",
+        "image": "/img/products/door-sliders/door-slider-white-18mmx25mm-s/elevator-door-slider-white-18mmx25mm-s-1.jpg",
         "alttext": "Door slider White 18mmX25mm - S Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-white-18mmx25mm-s",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Schindler Door Slider 18mmx25mm White | Lift Guide Shoe",
+        "meta_description": "White 18mm x 25mm elevator door slider for smooth operation. Durable lift sliding guide shoe, ideal for replacement and maintenance.",
+        "keywords": "elevator white door slider, lift sliding guide shoe, elevator door slider 18mmx25mm",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Door Slider White 18mm x 25mm - S is a premium-grade elevator door sliding guide shoe specifically engineered for Schindler lift systems. This high-performance guide shoe ensures smooth, quiet and safe sliding of elevator doors by minimizing friction and wear during every open/close cycle. It helps prevent sticking and misalignment.</p>",
+          "<p>This lift door sliding guide is ideal for both residential and commercial elevators. It is a direct-fit replacement part, making it easy to install during routine maintenance or repairs.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Slider White 18mmX25mm - S</li><li><strong>Product Code:</strong> BS-DS0018</li><li><strong>Colour:</strong> White</li><li><strong>Category:</strong> Elevator Door Sliders</li><li><strong>Type:</strong> Elevator Sliding Guide Shoe</li><li><strong>Application:</strong> Elevator White Door Slider / Lift Door Sill Guide</li></ul>"
+        ]
       },
       {
         "name": "Door Slider black - 12X50",
         "description": "OTIS Door Slider black - 12X50",
         "code": "BS-DS0019",
         "url": "/door-sliders/door-slider-black-12x50",
-        "image": "/img/products/door-sliders/door-slider-black-12x50/door-slider-black-12x50-1.jpg",
+        "image": "/img/products/door-sliders/door-slider-black-12x50/elevator-door-slider-black-12x50-1.jpg",
         "alttext": "Door Slider black - 12X50 Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-slider-black-12x50",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Slider Black 12X50 | Durable Guide Roller",
+        "meta_description": "High-quality 12x50 black elevator door slider. Ensures smooth, reliable door movement, built to last in residential and commercial lift systems.",
+        "keywords": "elevator black door slider, lift door guide shoe, elevator slider 12x50",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Door Slider Black 12mm x 50mm is a premium-grade elevator door sliding guide shoe specifically engineered for OTIS lift systems. This high-performance guide shoe ensures smooth, quiet and safe sliding of elevator doors by minimizing friction and wear during every open/close cycle. It is simple to replace and trusted by technicians for consistent performance.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Slider Black 12X50</li><li><strong>Product Code:</strong> BS-DS0019</li><li><strong>Colour:</strong> Black</li><li><strong>Category:</strong> Elevator Door Sliders</li><li><strong>Type:</strong> Elevator Door Guide Shoe</li><li><strong>Application:</strong> Elevator Black Door Slider / Lift Door Sill Guide</li></ul>"
+        ]
       }
     ]
   },
