@@ -8105,14 +8105,14 @@
         "description": "ARD-4007-3P",
         "code": "BS-AR0001",
         "url": "/ard/ard-7kw-ard-4007-3p",
-        "image": "/img/products/ard/ard-7kw-ard-4007-3p/ard-7kw-ard-4007-3p-1.jpg",
-        "alttext": "Elevator ARD 7KW: Type:ARD-4007-3P",
+        "image": "/img/products/ard/ard-7kw-ard-4007-3p/elevator-ard-7kw-ard-4007-3p-1.jpg",
+        "alttext": "ARD 7KW: Type:ARD-4007-3P Elevator Spare Parts",
         "slider": [
-          "ard-7kw-ard-4007-3p-1",
-          "ard-7kw-ard-4007-3p-2",
-          "ard-7kw-ard-4007-3p-3",
-          "ard-7kw-ard-4007-3p-4",
-          "ard-7kw-ard-4007-3p-5"
+          "elevator-ard-7kw-ard-4007-3p-1",
+          "elevator-ard-7kw-ard-4007-3p-2",
+          "elevator-ard-7kw-ard-4007-3p-3",
+          "elevator-ard-7kw-ard-4007-3p-4",
+          "elevator-ard-7kw-ard-4007-3p-5"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-7kw-ard-4007-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8132,12 +8132,12 @@
         "description": "ARD-4011-3P",
         "code": "BS-AR0002",
         "url": "/ard/ard-11kw-ard-4011-3p",
-        "image": "/img/products/ard/ard-11kw-ard-4011-3p/ard-11kw-ard-4011-3p-2.jpg",
-        "alttext": "Elevator ARD 11KW: Type:ARD-4011-3P",
+        "image": "/img/products/ard/ard-11kw-ard-4011-3p/elevator-ard-11kw-ard-4011-3p-2.jpg",
+        "alttext": "ARD 11KW: Type:ARD-4011-3P Elevator Spare Parts",
         "slider": [
-          "ard-11kw-ard-4011-3p-2",
-          "ard-11kw-ard-4011-3p-1",
-          "ard-11kw-ard-4011-3p-3"
+          "elevator-ard-11kw-ard-4011-3p-2",
+          "elevator-ard-11kw-ard-4011-3p-1",
+          "elevator-ard-11kw-ard-4011-3p-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-11kw-ard-4011-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8156,12 +8156,12 @@
         "description": "Type:ARD-4015-3P",
         "code": "BS-AR0003",
         "url": "/ard/ard-4015-3p",
-        "image": "/img/products/ard/ard-4015-3p/ard-4015-3p-1.jpg",
-        "alttext": "Elevator ARD Type:ARD-4015-3P",
+        "image": "/img/products/ard/ard-4015-3p/elevator-ard-4015-3p-1.jpg",
+        "alttext": "ARD Type:ARD-4015-3P Elevator Spare Parts",
         "slider": [
-          "ard-4015-3p-1",
-          "ard-4015-3p-2",
-          "ard-4015-3p-3"
+          "elevator-ard-4015-3p-1",
+          "elevator-ard-4015-3p-2",
+          "elevator-ard-4015-3p-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/ard-4015-3p",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8180,78 +8180,141 @@
         "description": "TMR ARD 3P-7.5KW 380V (TF)",
         "code": "BS-AR0004",
         "url": "/ard/tmr-ard-3p-7-5kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-75kw-380v-tf/ard-3p-75kw-380v-tf-1.jpg",
-        "alttext": "Elevator TMR ARD 3P-7.5KW 380V (TF)",
+        "image": "/img/products/ard/ard-3p-75kw-380v-tf/elevator-ard-3p-75kw-380v-tf-1.jpg",
+        "alttext": "TMR ARD 3P-7.5KW 380V (TF) Elevator Spare Parts",
         "slider": [
-          "ard-3p-75kw-380v-tf-1",
-          "ard-3p-75kw-380v-tf-2"
+          "elevator-ard-3p-75kw-380v-tf-1",
+          "elevator-ard-3p-75kw-380v-tf-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-7-5kw-380v-tf",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Emergency Rescue Device ARD 7.5 KW | Bestech",
+        "meta_description": "Advanced 7.5 KW elevator rescue system, featuring automatic operation and 380V=tf configuration for optimal performance in emergency situations.",
+        "keywords": "elevator ARD 7.5KW, lift automatic rescue device, elevator emergency rescue system",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The ARD 7.5KW is a high-performance elevator emergency rescue system designed to ensure safe passenger evacuation during sudden power failures. It features a 380V=tf configuration, ensuring reliable operation in emergency situations.This lift rescue device automatically moves the elevator cabin to the nearest floor and opens the doors safely, improving passenger safety and minimizing downtime.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> ARD 15KWTMR-ARD-3P-7.5KW-380V-(TF)</li><li><strong>Product Code:</strong> BS-AR0004</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> TF Configuration</li><li><strong>Application:</strong> Elevator / Lift Emergency Rescue</li></ul>"
+        ]
       },
       {
         "name": "TMR ARD 3P-11KW 380V (TF)",
         "description": "TMR ARD 3P-11KW 380V (TF)",
         "code": "BS-AR0005",
         "url": "/ard/tmr-ard-3p-11kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-11kw-380v-tf/ard-3p-11kw-380v-tf-1.jpg",
-        "alttext": "Elevator TMR ARD 3P-11KW 380V (TF)",
+        "image": "/img/products/ard/ard-3p-11kw-380v-tf/elevator-ard-3p-11kw-380v-tf-1.jpg",
+        "alttext": "TMR ARD 3P-11KW 380V (TF) Elevator Spare Parts",
         "slider": [
-          "ard-3p-11kw-380v-tf-1",
-          "ard-3p-11kw-380v-tf-2"
+          "elevator-ard-3p-11kw-380v-tf-1",
+          "elevator-ard-3p-11kw-380v-tf-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-11kw-380v-tf",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Rescue Device System ARD 11KW–TMR | Bestech",
+        "meta_description": "Efficient elevator ARD 11KW for safe lift operation during power failure. Reliable rescue control system for smooth emergency evacuation.",
+        "keywords": "elevator ARD 11KW, lift rescue device system, elevator ARD controller",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The TMR-ARD-3P-11KW-380V-TF is a high-performance elevator solution designed to provide safe and reliable elevator rescue operation during unexpected power interruptions. This advanced lift rescue device system automatically moves the elevator cabin to the nearest floor and safely opens the doors, ensuring passenger protection and operational safety.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> The TMR ARD 3P-11KW 380V (TF)</li><li><strong>Product Code:</strong> BS-AR0005</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> TF Configuration</li><li><strong>Application:</strong> Elevator emergency rescue operation</li></ul>"
+        ]
       },
       {
         "name": "HH ARD 3P-15KW 380V (TF)",
         "description": "HH ARD 3P-15KW 380V (TF)",
         "code": "BS-AR0006",
         "url": "/ard/hh-ard-3p-15kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-15kw-380v-tf/ard-3p-15kw-380v-tf-1.jpg",
-        "alttext": "Elevator HH ARD 3P-15KW 380V (TF)",
+        "image": "/img/products/ard/ard-3p-15kw-380v-tf/elevator-ard-3p-15kw-380v-tf-1.jpg",
+        "alttext": "HH ARD 3P-15KW 380V (TF) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-15kw-380v-tf",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Automatic Lift Rescue System HH-ARD 15KW | Bestech",
+        "meta_description": "Advanced elevator ARD 15KW with automatic rescue control for safe lift evacuation and reliable emergency performance during power failures.",
+        "keywords": "elevator ARD 15KW, lift emergency rescue device, elevator automatic rescue system ",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The HH-ARD-3P-15KW-380V-TF is a lift emergency rescue device made to keep passengers safe during sudden power failures. When the main power goes out, the system automatically moves the lift to the nearest floor and opens the doors, allowing passengers to exit safely and comfortably. This lift emergency rescue device is suitable for residential buildings, commercial spaces and high-rise projects.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> HH ARD 3P-15KW 380V (TF)</li><li><strong>Product Code:</strong> BS-AR0006</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> TF Configuration</li><li><strong>Application:</strong> Elevator / Lift Emergency Rescue</li></ul>"
+        ]
       },
       {
         "name": "TMR ARD 3P-18KW 380V (TF)",
         "description": "TMR ARD 3P-18KW 380V (TF)",
         "code": "BS-AR0007",
         "url": "/ard/tmr-ard-3p-18kw-380v-tf",
-        "image": "/img/products/ard/tmr-ard-3p-18kw-380v-tf/tmr-ard-3p-18kw-380v-tf-1.jpg",
-        "alttext": "Elevator TMR ARD 3P-18KW 380V (TF)",
+        "image": "/img/products/ard/tmr-ard-3p-18kw-380v-tf/elevator-tmr-ard-3p-18kw-380v-tf-1.jpg",
+        "alttext": "TMR ARD 3P-18KW 380V (TF) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/tmr-ard-3p-18kw-380v-tf",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Emergency Power Device TMR-ARD 18KW | UAE",
+        "meta_description": "Advanced elevator ARD 18KW designed for safe lift rescue, smooth emergency operation, and reliable backup performance during outages.",
+        "keywords": "elevator ARD 18KW, lift ARD system, elevator emergency power device",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The TMR-ARD-3P-18KW-380V-TF is designed to keep elevators running safely when power interruptions happen unexpectedly. This elevator ARD 18KW automatically brings the lift to the nearest floor and opens the doors, helping passengers exit safely without panic or delay. It offers quick emergency response and stable backup support for residential, commercial and high-rise elevator systems.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> TMR-ARD-3P-18KW-380V-TF</li><li><strong>Product Code:</strong> BS-AR0007</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> TF Configuration</li><li><strong>Application:</strong> Lift ARD / Elevator Emergency Power</li></ul>"
+        ]
       },
       {
         "name": "HH ARD 3P-22KW 380V (TF)",
         "description": "HH ARD 3P-22KW 380V (TF)",
         "code": "BS-AR0008",
         "url": "/ard/hh-ard-3p-22kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-22kw-380v-tf/ard-3p-22kw-380v-tf-1.jpg",
-        "alttext": "Elevator HH ARD 3P-22KW 380V (TF)",
+        "image": "/img/products/ard/ard-3p-22kw-380v-tf/elevator-ard-3p-22kw-380v-tf-1.jpg",
+        "alttext": "HH ARD 3P-22KW 380V (TF) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-22kw-380v-tf",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator ARD 22KW for Safer Lift Operation | Bestech",
+        "meta_description": "Dependable elevator ARD 22KW with automatic rescue support for safe passenger evacuation and reliable lift performance during outages.",
+        "keywords": "elevator ARD 22KW, lift automatic rescue unit, elevator backup rescue device",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The HH-ARD-3P-22KW-380V-TF is built to keep elevators safe and operational during unexpected power failures. This elevator ARD 22KW automatically moves the lift to the nearest floor and opens the doors, helping passengers exit safely without delay. The unit provides stable backup support and quick rescue response for residential buildings, commercial towers and high-rise projects. Its compact structure and dependable control system make it a practical choice for modern elevator safety requirements.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> HH ARD 3P-22KW 380V (TF)</li><li><strong>Product Code:</strong> BS-AR0008</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> TF Configuration</li><li><strong>Application:</strong> Lift Automatic Rescue / Elevator Backup Rescue</li></ul>"
+        ]
       },
       {
         "name": "HH ARD 3P-30KW 380V (TF)",
         "description": "HH ARD 3P-30KW 380V (TF)",
         "code": "BS-AR0009",
         "url": "/ard/hh-ard-3p-30kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-30kw-380v-tf/ard-3p-30kw-380v-tf-1.jpg",
-        "alttext": "Elevator HH ARD 3P-30KW 380V (TF)",
+        "image": "/img/products/ard/ard-3p-30kw-380v-tf/elevator-ard-3p-30kw-380v-tf-1.jpg",
+        "alttext": "HH ARD 3P-30KW 380V (TF) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-30kw-380v-tf",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+          "meta_title": "Elevator ARD 30KW for Safe & Smooth Lift Rescue ",
+        "meta_description": "High-performance elevator ARD 30KW designed for safe lift rescue, smooth emergency response and dependable backup operation.",
+        "keywords": "elevator ARD 30KW, lift rescue power system, elevator emergency ARD",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The HH-ARD-3P-30KW-380V-TF is designed to keep elevators moving safely during sudden power failures. This elevator ARD 30KW quickly activates when power is lost, bringing the lift to the nearest floor and opening the doors so passengers can exit safely. It is made for modern buildings and high-traffic elevator systems. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> HH ARD 3P-30KW 380V (TF)</li><li><strong>Product Code:</strong> BS-AR0009</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> TF Configuration</li><li><strong>Application:</strong> Lift Rescue Power / Elevator Emergency ARD</li></ul>"
+        ]
       },
       {
         "name": "HH ARD 3P-37KW 380V (TF)",
         "description": "HH ARD 3P-37KW 380V (TF)",
         "code": "BS-AR0010",
         "url": "/ard/hh-ard-3p-37kw-380v-tf",
-        "image": "/img/products/ard/ard-3p-37kw-380v-tf/ard-3p-37kw-380v-tf-1.jpg",
-        "alttext": "Elevator HH ARD 3P-37KW 380V (TF)",
+        "image": "/img/products/ard/ard-3p-37kw-380v-tf/elevator-ard-3p-37kw-380v-tf-1.jpg",
+        "alttext": "HH ARD 3P-37KW 380V (TF) Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/ard/hh-ard-3p-37kw-380v-tf",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+           "meta_title": "Elevator ARD 37KW Lift Rescue Device | Bestech",
+        "meta_description": "Smart elevator ARD 37KW for reliable lift rescue, safe passenger evacuation and smooth emergency backup during power loss.",
+        "keywords": "elevator ARD 37KW, lift emergency rescue system, elevator ARD unit",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The HH-ARD-3P-37KW-380V-TF is designed to keep elevators safe and operational during sudden power failures. This elevator ARD 37KW automatically guides the lift to the nearest floor and opens the doors, helping passengers exit safely and without delay. The system delivers stable emergency performance with fast rescue response and dependable backup support. It is suitable for commercial buildings, residential towers, hospitals and high-rise projects.The HH-ARD-3P-37KW-380V-TF is designed to keep elevators safe and operational during sudden power failures. This elevator ARD 37KW automatically guides the lift to the nearest floor and opens the doors, helping passengers exit safely and without delay. The system delivers stable emergency performance with fast rescue response and dependable backup support. It is suitable for commercial buildings, residential towers, hospitals and high-rise projects.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> HH ARD 3P-37KW 380V (TF)</li><li><strong>Product Code:</strong> BS-AR0010</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> TF Configuration</li><li><strong>Application:</strong> Lift Emergency Rescue / Elevator ARD Unit</li></ul>"
+        ]
       },
       {
         "name": "HH ARD 3P-45KW 380V (TF)",

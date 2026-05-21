@@ -6477,8 +6477,8 @@ export const products = [
         description: "ARD-4007-3P",
         code: "BS-AR0001",
         url: "/ard/ard-7kw-ard-4007-3p",
-        image: "/img/products/ard/ard-7kw-ard-4007-3p/1.jpg",
-        slider: ["1", "2", "3", "4", "5"],
+        image: "/img/products/ard/ard-7kw-ard-4007-3p/elevator-ard-7kw-ard-4007-3p-1.jpg",
+        slider: ["elevator-ard-7kw-ard-4007-3p-1", "elevator-ard-7kw-ard-4007-3p-2", "elevator-ard-7kw-ard-4007-3p-3", "elevator-ard-7kw-ard-4007-3p-4", "elevator-ard-7kw-ard-4007-3p-5"],
         canonical:
           "https://www.bestechparts.ae/products/ard/ard-7kw-ard-4007-3p",
         robots:
@@ -6489,8 +6489,8 @@ export const products = [
         description: "ARD-4011-3P",
         code: "BS-AR0002",
         url: "/ard/ard-11kw-ard-4011-3p",
-        image: "/img/products/ard/ard-11kw-ard-4011-3p/2.jpg",
-        slider: ["2", "1", "3"],
+        image: "/img/products/ard/ard-11kw-ard-4011-3p/elevator-ard-11kw-ard-4011-3p-2.jpg",
+        slider: ["elevator-ard-11kw-ard-4011-3p-2", "elevator-ard-11kw-ard-4011-3p-1", "elevator-ard-11kw-ard-4011-3p-3"],
         canonical:
           "https://www.bestechparts.ae/products/ard/ard-11kw-ard-4011-3p",
         robots:
@@ -6501,8 +6501,8 @@ export const products = [
         description: "Type:ARD-4015-3P",
         code: "BS-AR0003",
         url: "/ard/ard-4015-3p",
-        image: "/img/products/ard/ard-4015-3p/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/ard/ard-4015-3p/elevator-ard-4015-3p-1.jpg",
+        slider: ["elevator-ard-4015-3p-1", "elevator-ard-4015-3p-2", "elevator-ard-4015-3p-3"],
         canonical: "https://www.bestechparts.ae/products/ard/ard-4015-3p",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -6512,8 +6512,8 @@ export const products = [
         description: "TMR ARD 3P-7.5KW 380V (TF)",
         code: "BS-AR0004",
         url: "/ard/tmr-ard-3p-7-5kw-380v-tf",
-        image: "/img/products/ard/ard-3p-75kw-380v-tf/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/ard/ard-3p-75kw-380v-tf/elevator-ard-3p-75kw-380v-tf-1.jpg",
+        slider: ["elevator-ard-3p-75kw-380v-tf-1", "elevator-ard-3p-75kw-380v-tf-2"],
         canonical:
           "https://www.bestechparts.ae/products/ard/tmr-ard-3p-7-5kw-380v-tf",
         robots:
@@ -6524,8 +6524,8 @@ export const products = [
         description: "TMR ARD 3P-11KW 380V (TF)",
         code: "BS-AR0005",
         url: "/ard/tmr-ard-3p-11kw-380v-tf",
-        image: "/img/products/ard/ard-3p-11kw-380v-tf/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/ard/ard-3p-11kw-380v-tf/elevator-ard-3p-11kw-380v-tf-1.jpg",
+        slider: ["elevator-ard-3p-11kw-380v-tf-1", "elevator-ard-3p-11kw-380v-tf-2"],
         canonical:
           "https://www.bestechparts.ae/products/ard/tmr-ard-3p-11kw-380v-tf",
         robots:
@@ -6536,7 +6536,7 @@ export const products = [
         description: "HH ARD 3P-15KW 380V (TF)",
         code: "BS-AR0006",
         url: "/ard/hh-ard-3p-15kw-380v-tf",
-        image: "/img/products/ard/ard-3p-15kw-380v-tf/1.jpg",
+        image: "/img/products/ard/ard-3p-15kw-380v-tf/elevator-ard-3p-15kw-380v-tf-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-15kw-380v-tf",
         robots:
@@ -6547,7 +6547,7 @@ export const products = [
         description: "TMR ARD 3P-18KW 380V (TF)",
         code: "BS-AR0007",
         url: "/ard/tmr-ard-3p-18kw-380v-tf",
-        image: "/img/products/ard/tmr-ard-3p-18kw-380v-tf/1.jpg",
+        image: "/img/products/ard/tmr-ard-3p-18kw-380v-tf/elevator-tmr-ard-3p-18kw-380v-tf-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ard/tmr-ard-3p-18kw-380v-tf",
         robots:
@@ -6558,7 +6558,7 @@ export const products = [
         description: "HH ARD 3P-22KW 380V (TF)",
         code: "BS-AR0008",
         url: "/ard/hh-ard-3p-22kw-380v-tf",
-        image: "/img/products/ard/ard-3p-22kw-380v-tf/1.jpg",
+        image: "/img/products/ard/ard-3p-22kw-380v-tf/elevator-ard-3p-22kw-380v-tf-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-22kw-380v-tf",
         robots:
@@ -6569,7 +6569,7 @@ export const products = [
         description: "HH ARD 3P-30KW 380V (TF)",
         code: "BS-AR0009",
         url: "/ard/hh-ard-3p-30kw-380v-tf",
-        image: "/img/products/ard/ard-3p-30kw-380v-tf/1.jpg",
+        image: "/img/products/ard/ard-3p-30kw-380v-tf/elevator-ard-3p-30kw-380v-tf-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-30kw-380v-tf",
         robots:
@@ -6580,7 +6580,7 @@ export const products = [
         description: "HH ARD 3P-37KW 380V (TF)",
         code: "BS-AR0010",
         url: "/ard/hh-ard-3p-37kw-380v-tf",
-        image: "/img/products/ard/ard-3p-37kw-380v-tf/1.jpg",
+        image: "/img/products/ard/ard-3p-37kw-380v-tf/elevator-ard-3p-37kw-380v-tf-1.jpg",
 
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-37kw-380v-tf",
