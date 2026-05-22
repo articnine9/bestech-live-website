@@ -5854,7 +5854,7 @@ export const products = [
         description: "Encoder cable 5M",
         code: "BS-EN0001",
         url: "/encoders/encoder-cable-5m",
-        image: "/img/products/encoders/encoder-cable-5m/1.jpg",
+        image: "/img/products/encoders/encoder-cable-5m/elevator-encoder-cable-5m-1.jpg",
         slider: ["1"],
         meta_title: "Elevator Encoder Cable 5m for Lift Feedback Use | UAE",
         meta_description:
@@ -5873,8 +5873,8 @@ export const products = [
         description: "Encoder cable 10M",
         code: "BS-EN0002",
         url: "/encoders/encoder-cable-10m",
-        image: "/img/products/encoders/encoder-cable-10m/1.jpg",
-        slider: ["1"],
+        image: "/img/products/encoders/encoder-cable-10m/elevator-encoder-cable-10m-1.jpg",
+        slider: ["elevator-encoder-cable-10m-1"],
         meta_title: "Elevator Encoder Cable 10m for Lift Control Systems | UAE",
         meta_description:
           "Pre assembled elevator encoder cable 10m for lift systems in UAE. Supports position and speed feedback between encoder and controller.",
@@ -5892,7 +5892,7 @@ export const products = [
         description: "Encoder cable 15M",
         code: "BS-EN0003",
         url: "/encoders/encoder-cable-15m",
-        image: "/img/products/encoders/encoder-cable-15m/1.jpg",
+        image: "/img/products/encoders/encoder-cable-15m/elevator-encoder-cable-15m-1.jpg",
         slider: ["1"],
         meta_title: "Elevator Encoder Cable 15m for Lift Systems | UAE",
         meta_description:
@@ -5911,7 +5911,7 @@ export const products = [
         description: "Encoder roller 37mm",
         code: "BS-EN0004",
         url: "/encoders/encoder-roller-37mm",
-        image: "/img/products/encoders/encoder-roller-37mm/1.jpg",
+        image: "/img/products/encoders/encoder-roller-37mm/elevator-encoder-roller-37mm-1.jpg",
         slider: ["1"],
         meta_title: "Elevator Encoder Roller 37mm for Lift Position Control",
         meta_description:
@@ -5930,8 +5930,8 @@ export const products = [
         description: "Encoder roller 75mm",
         code: "BS-EN0005",
         url: "/encoders/encoder-roller-75mm",
-        image: "/img/products/encoders/encoder-roller-75mm/1.jpg",
-        slider: ["1"],
+        image: "/img/products/encoders/encoder-roller-75mm/elevator-encoder-roller-75mm-1.jpg",
+        slider: ["elevator-encoder-roller-75mm-1"],
         meta_title: "Elevator Encoder Roller 75mm for Lift Movement Reading",
         meta_description:
           "Elevator encoder roller 75mm for lift systems. Friction roller used with encoders to measure elevator movement and support position and speed reading in UAE lifts.",
@@ -5949,8 +5949,8 @@ export const products = [
         description: "Encoder 1387",
         code: "BS-EN0006",
         url: "/encoders/encoder-1387",
-        image: "/img/products/encoders/encoder-1387/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/encoders/encoder-1387/elevator-encoder-1387-1.jpg",
+        slider: ["elevator-encoder-1387-1", "elevator-encoder-1387-2", "elevator-encoder-1387-3"],
         meta_title: "Buy Elevator Encoder 1387 for Lift Speed Control in UAE",
         meta_description:
           "Buy elevator encoder 1387 for lift systems. Incremental rotary encoder used to monitor shaft movement and support smooth lift control in UAE.",
@@ -5967,8 +5967,8 @@ export const products = [
         description: "Encoder 1024 30mm",
         code: "BS-EN0007",
         url: "/encoders/encoder-1024-30mm",
-        image: "/img/products/encoders/encoder-1024-30mm/1.jpg",
-        slider: ["1"],
+        image: "/img/products/encoders/encoder-1024-30mm/elevator-encoder-1024-30mm-1.jpg",
+        slider: ["elevator-encoder-1024-30mm-1"],
         meta_title: "Buy Elevator Encoder 1024 30mm for Lift Systems | UAE",
         meta_description:
           "Buy elevator encoder 1024 30mm for lift systems. Incremental rotary encoder with 1024 pulses and 30 mm shaft for position and speed feedback.",
@@ -5986,8 +5986,8 @@ export const products = [
         description: "Encoder 1024 35mm",
         code: "BS-EN0008",
         url: "/encoders/encoder-1024-35mm",
-        image: "/img/products/encoders/encoder-1024-35mm/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/encoder-1024-35mm/elevator-encoder-1024-35mm-1.jpg",
+        slider: ["elevator-encoder-1024-35mm-1", "elevator-encoder-1024-35mm-2"],
         meta_title: "Buy Elevator Encoder 1024 35mm for Lift Systems in UAE",
         meta_description:
           "Buy elevator encoder 1024 35mm for lift systems in UAE. Incremental rotary encoder with 1024 pulses and 35 mm shaft for accurate speed and position feedback.",
@@ -6005,8 +6005,8 @@ export const products = [
         description: "Encoder 1024 40mm",
         code: "BS-EN0009",
         url: "/encoders/encoder-1024-40mm",
-        image: "/img/products/encoders/encoder-1024-40mm/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/encoder-1024-40mm/elevator-encoder-1024-40mm-1.jpg",
+        slider: ["elevator-encoder-1024-40mm-1", "elevator-encoder-1024-40mm-2"],
         meta_title: "Elevator Encoder 1024 40mm for Lift Control Systems | UAE",
         meta_description:
           "Buy elevator encoder 1024 40mm for UAE lift systems. Incremental rotary encoder designed to provide clear position and speed feedback.",
@@ -6024,8 +6024,8 @@ export const products = [
         description: "Encoder 1024 45mm",
         code: "BS-EN0010",
         url: "/encoders/encoder-1024-45mm",
-        image: "/img/products/encoders/encoder-1024-45mm/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/encoder-1024-45mm/elevator-encoder-1024-45mm-1.jpg",
+        slider: ["elevator-encoder-1024-45mm-1", "elevator-encoder-1024-45mm-2"],
         meta_title: "Elevator Encoder 1024 45mm for Lift Systems in UAE",
         meta_description:
           "Elevator encoder 1024 45mm for lift systems. Incremental rotary encoder with 1024 pulses and 45mm shaft for position and speed feedback.",
@@ -6043,8 +6043,8 @@ export const products = [
         description: "PG card MCTC-PG-E",
         code: "BS-EN0011",
         url: "/encoders/encoder-pg-card-mctc-pg-e",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e/elevator-encoder-pg-card-mctc-pg-e-1.jpg",
+        slider: ["elevator-encoder-pg-card-mctc-pg-e-1", "elevator-encoder-pg-card-mctc-pg-e-2"],
         meta_title: "Elevator Encoder PG Card MCTC-PG-E for Lift Systems | UAE",
         meta_description:
           "Elevator encoder pg card mctc-pg-e for lift systems. PG card used with Monarch Nice 3000+ inverter to process encoder speed and position signals.",
@@ -6062,8 +6062,8 @@ export const products = [
         description: "PG card MCTC-PG-A2",
         code: "BS-EN0012",
         url: "/encoders/encoder-pg-card-mctc-pg-a2",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-a2/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-a2/elevator-encoder-pg-card-mctc-pg-a2-1.jpg",
+        slider: ["elevator-encoder-pg-card-mctc-pg-a2-1", "elevator-encoder-pg-card-mctc-pg-a2-2"],
         meta_title:
           "Elevator Encoder PG Card MCTC PG A2 for Lift Systems | UAE",
         meta_description:
@@ -6082,8 +6082,8 @@ export const products = [
         description: "ECN 1313 encoder with 7M cable",
         code: "BS-EN0013",
         url: "/encoders/ecn-1313-encoder-with-7m-cable",
-        image: "/img/products/encoders/ecn-1313-encoder-with-7m-cable/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/ecn-1313-encoder-with-7m-cable/elevator-ecn-1313-encoder-with-7m-cable-1.jpg",
+        slider: ["elevator-ecn-1313-encoder-with-7m-cable-1", "elevator-ecn-1313-encoder-with-7m-cable-2"],
         meta_title: "ECN 1313 Encoder 7m Cable for Elevator Systems | UAE",
         meta_description:
           "ECN 1313 encoder 7m cable for elevator systems in UAE. Absolute rotary encoder by Heidenhain with fixed 7 metre cable for clear and steady position feedback.",
@@ -6101,8 +6101,8 @@ export const products = [
         description: "Encoder ERN 1387",
         code: "BS-EN0014",
         url: "/encoders/encoder-ern-1387",
-        image: "/img/products/encoders/encoder-ern-1387/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/encoder-ern-1387/elevator-encoder-ern-1387-1.jpg",
+        slider: ["elevator-encoder-ern-1387-1", "elevator-encoder-ern-1387-2"],
         meta_title: "Elevator Encoder ERN 1387 for Lift Systems in UAE",
         meta_description:
           "Elevator encoder ERN 1387 for lift systems in UAE. Incremental rotary encoder by Heidenhain used to provide clear speed and position feedback in elevators.",
@@ -6120,8 +6120,8 @@ export const products = [
         description: "TKE HENGSTLER 0541419",
         code: "BS-EN0015",
         url: "/encoders/hengstler-0541419-rotary-encoder",
-        image: "/img/products/encoders/hengstler-0541419-rotary-encoder/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/hengstler-0541419-rotary-encoder/elevator-hengstler-0541419-rotary-encoder-1.jpg",
+        slider: ["elevator-hengstler-0541419-rotary-encoder-1", "elevator-hengstler-0541419-rotary-encoder-2"],
         canonical:
           "https://www.bestechparts.ae/products/encoders/hengstler-0541419-rotary-encoder",
         robots:
@@ -6132,8 +6132,8 @@ export const products = [
         description: "Arkel: ENCABIT",
         code: "BS-EN0016",
         url: "/encoders/encabit-plus-module-pg-card",
-        image: "/img/products/encoders/encabit-plus-module-pg-card/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/encabit-plus-module-pg-card/elevator-encabit-plus-module-pg-card-1.jpg",
+        slider: ["elevator-encabit-plus-module-pg-card-1", "elevator-encabit-plus-module-pg-card-2"],
         canonical:
           "https://www.bestechparts.ae/products/encoders/encabit-plus-module-pg-card",
         robots:
@@ -6144,7 +6144,7 @@ export const products = [
         description: "Encoder PG card: MCTC-PG-E6",
         code: "BS-EN0017",
         url: "/encoders/encoder-pg-card-mctc-pg-e6",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e6/1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e6/elevator-encoder-pg-card-mctc-pg-e6-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-e6",
         robots:
@@ -6155,7 +6155,7 @@ export const products = [
         description: "Encoder PG card: MCTC-PG-D",
         code: "BS-EN0018",
         url: "/encoders/encoder-pg-card-mctc-pg-d",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-d/1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-d/elevator-encoder-pg-card-mctc-pg-d-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-d",
         robots:
@@ -6166,7 +6166,7 @@ export const products = [
         description: "Encoder PG card: MCTC-PG-F",
         code: "BS-EN0019",
         url: "/encoders/encoder-pg-card-mctc-pg-f",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-f/1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-f/elevator-encoder-pg-card-mctc-pg-f-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-f",
         robots:
@@ -6177,7 +6177,7 @@ export const products = [
         description: "LS ROTARY ENCODER H-40-8-1024VL",
         code: "BS-EN0020",
         url: "/encoders/rotary-encoder-h-40-8-1024vl",
-        image: "/img/products/encoders/rotary-encoder-h-40-8-1024vl/1.jpg",
+        image: "/img/products/encoders/rotary-encoder-h-40-8-1024vl/elevator-rotary-encoder-h-40-8-1024vl-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/encoders/rotary-encoder-h-40-8-1024vl",
         robots:
@@ -6188,7 +6188,7 @@ export const products = [
         description: "Encoder cable open terminals",
         code: "BS-EN0021",
         url: "/encoders/7m-cable-for-1313-encoder",
-        image: "/img/products/encoders/7m-cable-for-1313-encoder/1.jpg",
+        image: "/img/products/encoders/7m-cable-for-1313-encoder/elevator-7m-cable-for-1313-encoder-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/encoders/7m-cable-for-1313-encoder",
         robots:
@@ -6199,7 +6199,7 @@ export const products = [
         description: "Encoder cable open terminals",
         code: "BS-EN0022",
         url: "/encoders/7m-cable-for-1387-encoder",
-        image: "/img/products/encoders/7m-cable-for-1387-encoder/1.jpg",
+        image: "/img/products/encoders/7m-cable-for-1387-encoder/elevator-7m-cable-for-1387-encoder-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/encoders/7m-cable-for-1387-encoder",
         robots:
@@ -6210,8 +6210,8 @@ export const products = [
         description: "Penon H40-8-2500UL",
         code: "BS-EN0023",
         url: "/encoders/encoder-h40-8-2500ul",
-        image: "/img/products/encoders/encoder-h40-8-2500ul/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/encoder-h40-8-2500ul/elevator-encoder-h40-8-2500ul-1.jpg",
+        slider: ["elevator-encoder-h40-8-2500ul-1", "elevator-encoder-h40-8-2500ul-2"],
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-h40-8-2500ul",
         robots:
@@ -6222,7 +6222,7 @@ export const products = [
         description: "Arkel: ENCA Encoder board",
         code: "BS-EN0024",
         url: "/encoders/enca-encoder-board",
-        image: "/img/products/encoders/enca-encoder-board/1.jpeg",
+        image: "/img/products/encoders/enca-encoder-board/elevator-enca-encoder-board-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/encoders/enca-encoder-board",
         robots:
@@ -6233,7 +6233,7 @@ export const products = [
         description: "1387 Encoder cable 20M with shield",
         code: "BS-EN0025",
         url: "/encoders/1387-encoder-cable-20m",
-        image: "/img/products/encoders/1387-encoder-cable-20m/1.jpg",
+        image: "/img/products/encoders/1387-encoder-cable-20m/elevator-1387-encoder-cable-20m-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/encoders/1387-encoder-cable-20m",
         robots:
@@ -6244,8 +6244,8 @@ export const products = [
         description: "Mitsubishi Elevator Encoder X65AC11",
         code: "BS-EN0026",
         url: "/encoders/elevator-encoder-x65ac11-512-45mm",
-        image: "/img/products/encoders/elevator-encoder-x65ac11-512-45mm/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/encoders/elevator-encoder-x65ac11-512-45mm/elevator-encoder-x65ac11-512-45mm-1.jpg",
+        slider: ["elevator-encoder-x65ac11-512-45mm-1", "elevator-encoder-x65ac11-512-45mm-2"],
         canonical:
           "https://www.bestechparts.ae/products/encoders/elevator-encoder-x65ac11-512-45mm",
         robots:

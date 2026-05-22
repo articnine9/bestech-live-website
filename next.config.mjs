@@ -10,8 +10,107 @@ const nextConfig = {
         destination: "/products/door-locks/door-lock-contact-sel1-a1z",
         permanent: true,
       },
+      {
+        source: "/products/door-drives/dc-door-drive-24v",
+        destination: "/products/door-drives-and-motors/dc-door-drive-24v",
+        permanent: true,
+      },
+      {
+        source: "/products/door-drives/door-drive-bs-dd0001",
+        destination: "/products/door-drives-and-motors/door-drive-bs-dd0001",
+        permanent: true,
+      },
+      {
+        source: "/products/door-drives/door-drive-bs-dd0002",
+        destination: "/products/door-drives-and-motors/door-drive-bs-dd0002",
+        permanent: true,
+      },
+       {
+        source: "/products/door-drives/dc-door-drive-24v",
+        destination: "/products/door-drives-and-motors/dc-door-drive-24v",
+        permanent: true,
+      },
+         {
+        source: "/products/door-drives/dc-door-drive-dr2009c-200w",
+        destination: "/products/door-drives-and-motors/dc-door-drive-dr2009c-200w",
+        permanent: true,
+      },
+          {
+        source: "/products/door-drives/door-motor-with-encoder-pm61842",
+        destination: "/products/door-drives-and-motors/door-motor-with-encoder-pm61842",
+        permanent: true,
+      },
+  {
+        source: "/products/door-drives/km-10s-door-controller-box",
+        destination: "/products/door-drives-and-motors/km-10s-door-controller-box",
+        permanent: true,
+      },
+      {
+        source: "/products/door-drives/elevator-door-controller-v5",
+        destination: "/products/door-drives-and-motors/elevator-door-controller-v5",
+        permanent: true,
+      },
+       {
+        source: "/products/door-drives/elevator-door-controller-do3000s",
+        destination: "/products/door-drives-and-motors/elevator-door-controller-do3000s",
+        permanent: true,
+      },
+         {
+        source: "/products/door-drives/door-drive-nsfc01-02",
+        destination: "/products/door-drives-and-motors/door-drive-nsfc01-02",
+        permanent: true,
+      },
+          {
+        source: "/products/door-drives/elevator-door-motor-yvp90-6",
+        destination: "/products/door-drives-and-motors/elevator-door-motor-yvp90-6",
+        permanent: true,
+      },
+          {
+        source: "/products/door-drives/elevator-door-motor-yvp90-6b1",
+        destination: "/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
+        permanent: true,
+      },
+    {
+        source: "/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren",
+        destination: "/products/door-drives-and-motors/door-motor-gr63x55-24vdc-dunkermotoren",
+        permanent: true,
+      },
+       {
+        source: "/products/sensors/leveling-sensor-61u-61n-30-77u-77n",
+        destination: "/products/sensors/levelling-sensor-61u-61n-30-77u-77n",
+        permanent: true,
+      },
+        {
+        source: "/products/sensors/u-type-leveling-sensor",
+        destination: "/products/sensors/u-type-levelling-sensor",
+        permanent: true,
+      },
+        {
+        source: "/products/sensors/leveling-sensor-zpad01-001",
+        destination: "/products/sensors/levelling-sensor-zpad01-001",
+        permanent: true,
+      },
+       {
+        source: "/products/sensors/leveling-sensor-yg-28-25-2561-128",
+        destination: "/products/sensors/levelling-sensor-yg-28-25-2561-128",
+        permanent: true,
+      },
+         {
+        source: "/products/sensors/leveling-sensor-gls126nt2ncno",
+        destination: "/products/sensors/levelling-sensor-gls126nt2ncno",
+        permanent: true,
+      },
+        {
+        source: "/products/sensors/leveling-sensor-gls-tk",
+        destination: "/products/sensors/levelling-sensor-gls-tk",
+        permanent: true,
+      },
+         {
+        source: "/products/sensors/leveling-sensor-mkf71asakx",
+        destination: "/products/sensors/levelling-sensor-mkf71asakx",
+        permanent: true,
+      }
 
-     
 
       // ✅ Force non-www → www (SEO fix)
       // {
