@@ -5140,7 +5140,7 @@ export const products = [
         description: "100/140 X 10/16",
         code: "BS-GS0001",
         url: "/guide-shoes/guide-shoe-100-100-10-16-s",
-        image: "/img/products/guide-shoes/guide-shoe-100-100-10-16-s/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-100-100-10-16-s/elevator-guide-shoe-100-100-10-16-s-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-100-100-10-16-s",
         robots:
@@ -5151,7 +5151,7 @@ export const products = [
         description: "65 X 10 X 16",
         code: "BS-GS0002",
         url: "/guide-shoes/guide-shoe-65-10-16-s",
-        image: "/img/products/guide-shoes/guide-shoe-65-10-16-s/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-65-10-16-s/elevator-guide-shoe-65-10-16-s-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-65-10-16-s",
         robots:
@@ -5162,7 +5162,7 @@ export const products = [
         description: "145 X 36",
         code: "BS-GS0003",
         url: "/guide-shoes/guide-shoe-insert-145-36-o",
-        image: "/img/products/guide-shoes/guide-shoe-insert-145-36-o/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-145-36-o/elevator-guide-shoe-insert-145-36-o-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-145-36-o",
         robots:
@@ -5174,7 +5174,7 @@ export const products = [
         code: "BS-GS0004",
         url: "/guide-shoes/general-guide-shoe-insert-120-10-16",
         image:
-          "/img/products/guide-shoes/general-guide-shoe-insert-120-10-16/1.jpg",
+          "/img/products/guide-shoes/general-guide-shoe-insert-120-10-16/elevator-general-guide-shoe-insert-120-10-16-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-insert-120-10-16",
         robots:
@@ -5186,7 +5186,7 @@ export const products = [
         description: "230 X 10/16",
         code: "BS-GS0005",
         url: "/guide-shoes/guide-shoe-insert-230-10-16-m",
-        image: "/img/products/guide-shoes/guide-shoe-insert-230-10-16-m/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-230-10-16-m/elevator-guide-shoe-insert-230-10-16-m-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-230-10-16-m",
         robots:
@@ -5197,7 +5197,7 @@ export const products = [
         description: "100 X 25 X 62052",
         code: "BS-GS0006",
         url: "/guide-shoes/guide-shoe-wheel-100-25-62052",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-100-25-62052/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-100-25-62052/elevator-guide-shoe-wheel-100-25-62052-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-100-25-62052",
         robots:
@@ -5208,8 +5208,8 @@ export const products = [
         description: "120 X 10/16",
         code: "BS-GS0007",
         url: "/guide-shoes/guide-shoe-120-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-120-10-16/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/guide-shoes/guide-shoe-120-10-16/elevator-guide-shoe-120-10-16-1.jpg",
+        slider: ["elevator-guide-shoe-120-10-16-1", "elevator-guide-shoe-120-10-16-2", "elevator-guide-shoe-120-10-16-3"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-120-10-16",
         robots:
@@ -5220,8 +5220,8 @@ export const products = [
         description: "110 X 10/16",
         code: "BS-GS0008",
         url: "/guide-shoes/guide-shoe-110-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-110-10-16/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-110-10-16/elevator-guide-shoe-110-10-16-1.jpg",
+        slider: ["elevator-guide-shoe-110-10-16-1", "elevator-guide-shoe-110-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-110-10-16",
         robots:
@@ -5232,8 +5232,8 @@ export const products = [
         description: "120 X 10/16",
         code: "BS-GS0009",
         url: "/guide-shoes/guide-shoe-120-10-16-alt",
-        image: "/img/products/guide-shoes/guide-shoe-120-10-16-alt/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-120-10-16-alt/elevator-guide-shoe-120-10-16-alt-1.jpg",
+        slider: ["elevator-guide-shoe-120-10-16-alt-1", "elevator-guide-shoe-120-10-16-alt-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-120-10-16-alt",
         robots:
@@ -5244,7 +5244,7 @@ export const products = [
         description: "80 X 10/16",
         code: "BS-GS0010",
         url: "/guide-shoes/guide-shoe-80-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-80-10-16/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-80-10-16/elevator-guide-shoe-80-10-16-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-80-10-16",
         robots:
@@ -5255,8 +5255,8 @@ export const products = [
         description: "KM924_10G G16A",
         code: "BS-GS0011",
         url: "/guide-shoes/guide-shoe-km924-10g-g16a",
-        image: "/img/products/guide-shoes/guide-shoe-km924-10g-g16a/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-km924-10g-g16a/elevator-guide-shoe-km924-10g-g16a-1.jpg",
+        slider: ["elevator-guide-shoe-km924-10g-g16a-1", "elevator-guide-shoe-km924-10g-g16a-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-km924-10g-g16a",
         robots:
@@ -5267,7 +5267,7 @@ export const products = [
         description: "L10",
         code: "BS-GS0012",
         url: "/guide-shoes/guide-shoe-l10",
-        image: "/img/products/guide-shoes/guide-shoe-l10/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-l10/elevator-guide-shoe-l10-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-l10",
         robots:
@@ -5278,8 +5278,8 @@ export const products = [
         description: "100 X 10/16",
         code: "BS-GS0013",
         url: "/guide-shoes/guide-shoe-100-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-100-10-16/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-100-10-16/elevator-guide-shoe-100-10-16-1.jpg",
+        slider: ["elevator-guide-shoe-100-10-16-1", "elevator-guide-shoe-100-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-100-10-16",
         robots:
@@ -5290,8 +5290,8 @@ export const products = [
         description: "DX18",
         code: "BS-GS0014",
         url: "/guide-shoes/general-guide-shoe-dx18",
-        image: "/img/products/guide-shoes/general-guide-shoe-dx18/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/general-guide-shoe-dx18/elevator-general-guide-shoe-dx18-1.jpg",
+        slider: ["elevator-general-guide-shoe-dx18-1", "elevator-general-guide-shoe-dx18-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-dx18",
         robots:
@@ -5302,7 +5302,7 @@ export const products = [
         description: "DX 10A",
         code: "BS-GS0015",
         url: "/guide-shoes/general-guide-shoe-dx-10a",
-        image: "/img/products/guide-shoes/general-guide-shoe-dx-10a/1.jpg",
+        image: "/img/products/guide-shoes/general-guide-shoe-dx-10a/elevator-general-guide-shoe-dx-10a-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-dx-10a",
         robots:
@@ -5313,8 +5313,8 @@ export const products = [
         description: "110 X 10/16",
         code: "BS-GS0016",
         url: "/guide-shoes/guide-shoe-110-10-16-alt",
-        image: "/img/products/guide-shoes/guide-shoe-110-10-16-alt/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-110-10-16-alt/elevator-guide-shoe-110-10-16-alt-1.jpg",
+        slider: ["elevator-guide-shoe-110-10-16-alt-1", "elevator-guide-shoe-110-10-16-alt-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-110-10-16-alt",
         robots:
@@ -5325,8 +5325,8 @@ export const products = [
         description: "150 X 10 X 16",
         code: "BS-GS0017",
         url: "/guide-shoes/guide-shoe-150-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-150-10-16/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-150-10-16/elevator-guide-shoe-150-10-16-1.jpg",
+        slider: ["elevator-guide-shoe-150-10-16-1", "elevator-guide-shoe-150-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-150-10-16",
         robots:
@@ -5337,8 +5337,8 @@ export const products = [
         description: "100 X 10/16",
         code: "BS-GS0018",
         url: "/guide-shoes/guide-shoe-insert-100-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-100-10-16/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/guide-shoes/guide-shoe-insert-100-10-16/elevator-guide-shoe-insert-100-10-16-1.jpg",
+        slider: ["elevator-guide-shoe-insert-100-10-16-1", "elevator-guide-shoe-insert-100-10-16-2", "elevator-guide-shoe-insert-100-10-16-3"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-100-10-16",
         robots:
@@ -5349,8 +5349,8 @@ export const products = [
         description: "80 X 10/16",
         code: "BS-GS0019",
         url: "/guide-shoes/guide-shoe-insert-80-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-80-10-16/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-insert-80-10-16/elevator-guide-shoe-insert-80-10-16-1.jpg",
+        slider: ["elevator-guide-shoe-insert-80-10-16-1", "elevator-guide-shoe-insert-80-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-80-10-16",
         robots:
@@ -5361,8 +5361,8 @@ export const products = [
         description: "140 X 10/16",
         code: "BS-GS0020",
         url: "/guide-shoes/guide-shoe-insert-140-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-140-10-16/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-insert-140-10-16/elevator-guide-shoe-insert-140-10-16-1.jpg",
+        slider: ["elevator-guide-shoe-insert-140-10-16-1", "elevator-guide-shoe-insert-140-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-140-10-16",
         robots:
@@ -5373,7 +5373,7 @@ export const products = [
         description: "20 X 10/16",
         code: "BS-GS0021",
         url: "/guide-shoes/guide-shoe-insert-20-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-20-10-16/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-20-10-16/elevator-guide-shoe-insert-20-10-16-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-20-10-16",
         robots:
@@ -5384,8 +5384,8 @@ export const products = [
         description: "20 X 10/16",
         code: "BS-GS0022",
         url: "/guide-shoes/guide-shoe-insert-140-x-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-140-x-10-16/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-insert-140-x-10-16/elevator-guide-shoe-insert-140-x-10-16-1.jpg",
+        slider: ["elevator-guide-shoe-insert-140-x-10-16-1", "elevator-guide-shoe-insert-140-x-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-140-x-10-16",
         robots:
@@ -5397,8 +5397,8 @@ export const products = [
         code: "BS-GS0023",
         url: "/guide-shoes/guide-shoe-insert-230-10-16-alt",
         image:
-          "/img/products/guide-shoes/guide-shoe-insert-230-10-16-alt/1.jpg",
-        slider: ["1", "2", "3"],
+          "/img/products/guide-shoes/guide-shoe-insert-230-10-16-alt/elevator-guide-shoe-insert-230-10-16-alt-1.jpg",
+        slider: ["elevator-guide-shoe-insert-230-10-16-alt-1", "elevator-guide-shoe-insert-230-10-16-alt-2", "elevator-guide-shoe-insert-230-10-16-alt-3"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-230-10-16-alt",
         robots:
@@ -5410,8 +5410,8 @@ export const products = [
         code: "BS-GS0024",
         url: "/guide-shoes/guide-shoe-insert-100-10-16-alt",
         image:
-          "/img/products/guide-shoes/guide-shoe-insert-100-10-16-alt/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/guide-shoes/guide-shoe-insert-100-10-16-alt/elevator-guide-shoe-insert-100-10-16-alt-1.jpg",
+        slider: ["elevator-guide-shoe-insert-100-10-16-alt-1", "elevator-guide-shoe-insert-100-10-16-alt-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-100-10-16-alt",
         robots:
@@ -5422,7 +5422,7 @@ export const products = [
         description: "125 X 10/16",
         code: "BS-GS0025",
         url: "/guide-shoes/guide-shoe-insert-125-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-125-10-16/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-125-10-16/elevator-guide-shoe-insert-125-10-16-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-125-10-16",
         robots:
@@ -5433,8 +5433,8 @@ export const products = [
         description: "76 X 21 X 6203",
         code: "BS-GS0026",
         url: "/guide-shoes/guide-shoe-wheel-76-21-6203",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-76-21-6203/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/guide-shoes/guide-shoe-wheel-76-21-6203/elevator-guide-shoe-wheel-76-21-6203-1.jpg",
+        slider: ["elevator-guide-shoe-wheel-76-21-6203-1", "elevator-guide-shoe-wheel-76-21-6203-2", "elevator-guide-shoe-wheel-76-21-6203-3", "elevator-guide-shoe-wheel-76-21-6203-4"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-76-21-6203",
         robots:
@@ -5445,7 +5445,7 @@ export const products = [
         description: "125 X 22 X 6303",
         code: "BS-GS0027",
         url: "/guide-shoes/guide-shoe-wheel-125-22-6303",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-125-22-6303/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-125-22-6303/elevator-guide-shoe-wheel-125-22-6303-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-125-22-6303",
         robots:
@@ -5456,7 +5456,7 @@ export const products = [
         description: "150 X 32 X 6203",
         code: "BS-GS0028",
         url: "/guide-shoes/guide-shoe-wheel-150-32-6203",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-150-32-6203/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-150-32-6203/elevator-guide-shoe-wheel-150-32-6203-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-150-32-6203",
         robots:
@@ -5467,8 +5467,8 @@ export const products = [
         description: "80 X 24 X 6203",
         code: "BS-GS0029",
         url: "/guide-shoes/guide-shoe-wheel-80-24-6203",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-80-24-6203/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-wheel-80-24-6203/elevator-guide-shoe-wheel-80-24-6203-1.jpg",
+        slider: ["elevator-guide-shoe-wheel-80-24-6203-1", "elevator-guide-shoe-wheel-80-24-6203-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-80-24-6203",
         robots:
@@ -5479,7 +5479,7 @@ export const products = [
         description: "SG12/SG13",
         code: "BS-GS0030",
         url: "/guide-shoes/guide-shoe-sg12-sg13-t",
-        image: "/img/products/guide-shoes/guide-shoe-sg12-sg13-t/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-sg12-sg13-t/elevator-guide-shoe-sg12-sg13-t-1.jpg",
         meta_title: "Guide Shoe SG12/SG13 T | Elevator Guide Shoes UAE",
         meta_description:
           "Order the SG12/SG13 T elevator guide shoe for smooth performance and ride stability. Trusted by professionals across UAE.",
@@ -5493,7 +5493,7 @@ export const products = [
         description: "140 X 10/15",
         code: "BS-GS0031",
         url: "/guide-shoes/guide-shoe-140-10-15",
-        image: "/img/products/guide-shoes/guide-shoe-140-10-15/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-140-10-15/elevator-guide-shoe-140-10-15-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-140-10-15",
         robots:
@@ -5505,7 +5505,7 @@ export const products = [
         code: "BS-GS0032",
         url: "/guide-shoes/general-guide-shoe-insert-140-10-16",
         image:
-          "/img/products/guide-shoes/general-guide-shoe-insert-140-10-16/1.jpg",
+          "/img/products/guide-shoes/general-guide-shoe-insert-140-10-16/elevator-general-guide-shoe-insert-140-10-16-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-insert-140-10-16",
         robots:
@@ -5516,8 +5516,8 @@ export const products = [
         description: "Hitachi: 150X32X6204",
         code: "BS-GS0033",
         url: "/guide-shoes/guide-wheel-150x32x6204",
-        image: "/img/products/guide-shoes/guide-wheel-150x32x6204/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/guide-shoes/guide-wheel-150x32x6204/elevator-guide-wheel-150x32x6204-1.jpg",
+        slider: ["elevator-guide-wheel-150x32x6204-1", "elevator-guide-wheel-150x32x6204-2", "elevator-guide-wheel-150x32x6204-3"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-wheel-150x32x6204",
         robots:
@@ -5528,8 +5528,8 @@ export const products = [
         description: "Kone: 16mm 10mm",
         code: "BS-GS0034",
         url: "/guide-shoes/guide-shoe-full-set-k",
-        image: "/img/products/guide-shoes/guide-shoe-full-set-k/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/guide-shoes/guide-shoe-full-set-k/elevator-guide-shoe-full-set-k-1.jpg",
+        slider: ["elevator-guide-shoe-full-set-k-1", "elevator-guide-shoe-full-set-k-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-k",
         robots:
@@ -5541,7 +5541,7 @@ export const products = [
         code: "BS-GS0035",
         url: "/guide-shoes/guide-shoes-full-set-yellow-o-k",
         image:
-          "/img/products/guide-shoes/guide-shoes-full-set-yellow-o-k/1.jpg",
+          "/img/products/guide-shoes/guide-shoes-full-set-yellow-o-k/elevator-guide-shoes-full-set-yellow-o-k-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoes-full-set-yellow-o-k",
         robots:
@@ -5553,7 +5553,7 @@ export const products = [
         code: "BS-GS0036",
         url: "/guide-shoes/doppler-guide-rail-shoe-120x29",
         image:
-          "/img/products/guide-shoes/doppler-guide-rail-shoe-120x29/1.jpeg",
+          "/img/products/guide-shoes/doppler-guide-rail-shoe-120x29/elevator-doppler-guide-rail-shoe-120x29-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/doppler-guide-rail-shoe-120x29",
         robots:
@@ -5564,7 +5564,7 @@ export const products = [
         description: "TKE: 140*10/16 white",
         code: "BS-GS0037",
         url: "/guide-shoes/guide-shoe-140-10-16-white",
-        image: "/img/products/guide-shoes/guide-shoe-140-10-16-white/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-140-10-16-white/elevator-guide-shoe-140-10-16-white-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-140-10-16-white",
         robots:
@@ -5576,7 +5576,7 @@ export const products = [
         code: "BS-GS0038",
         url: "/guide-shoes/elevator-guide-shoe-insert-150-10-16",
         image:
-          "/img/products/guide-shoes/elevator-guide-shoe-insert-150-10-16/1.jpg",
+          "/img/products/guide-shoes/elevator-guide-shoe-insert-150-10-16/elevator-guide-shoe-insert-150-10-16-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/elevator-guide-shoe-insert-150-10-16",
         robots:
@@ -5587,7 +5587,7 @@ export const products = [
         description: "OTIS Guide Shoe Full set - 6mm",
         code: "BS-GS0039",
         url: "/guide-shoes/guide-shoe-full-set-6mm",
-        image: "/img/products/guide-shoes/guide-shoe-full-set-6mm/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-full-set-6mm/elevator-guide-shoe-full-set-6mm-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-6mm",
         robots:
@@ -5598,7 +5598,7 @@ export const products = [
         description: "OTIS Guide Shoe Insert - 6mm",
         code: "BS-GS0040",
         url: "/guide-shoes/guide-shoe-insert-6mm",
-        image: "/img/products/guide-shoes/guide-shoe-insert-6mm/1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-6mm/elevator-guide-shoe-insert-6mm-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-6mm",
         robots:
