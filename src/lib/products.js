@@ -4809,11 +4809,11 @@ export const products = [
         name: "Leveling sensor: 61U 61N 30 77U 77N",
         description: "61U 61N 30 77U 77N",
         code: "BS-SR0002",
-        url: "/sensors/leveling-sensor-61u-61n-30-77u-77n",
-        image: "/img/products/sensors/leveling-sensor-61u-61n-30-77u-77n/elevator-levelling-sensor-61u-61n-30-77u-77n-1.jpg",
+        url: "/sensors/levelling-sensor-61u-61n-30-77u-77n",
+        image: "/img/products/sensors/levelling-sensor-61u-61n-30-77u-77n/elevator-levelling-sensor-61u-61n-30-77u-77n-1.jpg",
         slider: ["elevator-levelling-sensor-61u-61n-30-77u-77n-1", "elevator-levelling-sensor-61u-61n-30-77u-77n-2", "elevator-levelling-sensor-61u-61n-30-77u-77n-3"],
         canonical:
-          "https://www.bestechparts.ae/products/sensors/leveling-sensor-61u-61n-30-77u-77n",
+          "https://www.bestechparts.ae/products/sensors/levelling-sensor-61u-61n-30-77u-77n",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -4821,10 +4821,10 @@ export const products = [
         name: "U-Type leveling sensor: DS-25/KM86420G03",
         description: "DS-25/KM86420G03",
         code: "BS-SR0003",
-        url: "/sensors/u-type-leveling-sensor",
-        image: "/img/products/sensors/u-type-leveling-sensor/elevator-u-type-levelling-sensor-1.jpg",
+        url: "/sensors/u-type-levelling-sensor",
+        image: "/img/products/sensors/u-type-levelling-sensor/elevator-u-type-levelling-sensor-1.jpg",
         canonical:
-          "https://www.bestechparts.ae/products/sensors/u-type-leveling-sensor",
+          "https://www.bestechparts.ae/products/sensors/u-type-levelling-sensor",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -4833,11 +4833,11 @@ export const products = [
         name: "Leveling sensor: GLS126NT2NCNO",
         description: "GLS126NT2NCNO",
         code: "BS-SR0004",
-        url: "/sensors/leveling-sensor-gls126nt2ncno",
-        image: "/img/products/sensors/leveling-sensor-gls126nt2ncno/elevator-levelling-sensor-gls126nt2ncno-1.jpg",
+        url: "/sensors/levelling-sensor-gls126nt2ncno",
+        image: "/img/products/sensors/levelling-sensor-gls126nt2ncno/elevator-levelling-sensor-gls126nt2ncno-1.jpg",
         slider: ["elevator-levelling-sensor-gls126nt2ncno-1", "elevator-levelling-sensor-gls126nt2ncno-2"],
         canonical:
-          "https://www.bestechparts.ae/products/sensors/leveling-sensor-gls126nt2ncno",
+          "https://www.bestechparts.ae/products/sensors/levelling-sensor-gls126nt2ncno",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -4845,11 +4845,11 @@ export const products = [
         name: "Leveling sensor: YG-28/25/2561/128",
         description: "YG-28/25/2561/128",
         code: "BS-SR0005",
-        url: "/sensors/leveling-sensor-yg-28-25-2561-128",
-        image: "/img/products/sensors/leveling-sensor-yg-28-25-2561-128/elevator-levelling-sensor-yg-28-25-2561-128-1.jpg",
+        url: "/sensors/levelling-sensor-yg-28-25-2561-128",
+        image: "/img/products/sensors/levelling-sensor-yg-28-25-2561-128/elevator-levelling-sensor-yg-28-25-2561-128-1.jpg",
         slider: ["elevator-levelling-sensor-yg-28-25-2561-128-1", "elevator-levelling-sensor-yg-28-25-2561-128-2", "elevator-levelling-sensor-yg-28-25-2561-128-3", "elevator-levelling-sensor-yg-28-25-2561-128-4", "elevator-levelling-sensor-yg-28-25-2561-128-5", "elevator-levelling-sensor-yg-28-25-2561-128-6", "elevator-levelling-sensor-yg-28-25-2561-128-7"],
         canonical:
-          "https://www.bestechparts.ae/products/sensors/leveling-sensor-yg-28-25-2561-128",
+          "https://www.bestechparts.ae/products/sensors/levelling-sensor-yg-28-25-2561-128",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -4857,10 +4857,10 @@ export const products = [
         name: "Leveling  sensor: ZPAD01-001",
         description: "ZPAD01-001",
         code: "BS-SR0006",
-        url: "/sensors/leveling-sensor-zpad01-001",
-        image: "/img/products/sensors/leveling-sensor-zpad01-001/elevator-levelling-sensor-zpad01-001-1.jpg",
+        url: "/sensors/levelling-sensor-zpad01-001",
+        image: "/img/products/sensors/levelling-sensor-zpad01-001/elevator-levelling-sensor-zpad01-001-1.jpg",
         canonical:
-          "https://www.bestechparts.ae/products/sensors/leveling-sensor-zpad01-001",
+          "https://www.bestechparts.ae/products/sensors/levelling-sensor-zpad01-001",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -4868,11 +4868,11 @@ export const products = [
         name: "Leveling sensor: GLS TK",
         description: "GLS TK",
         code: "BS-SR0007",
-        url: "/sensors/leveling-sensor-gls-tk",
-        image: "/img/products/sensors/leveling-sensor-gls-tk/elevator-levelling-sensor-gls-tk-1.jpg",
+        url: "/sensors/levelling-sensor-gls-tk",
+        image: "/img/products/sensors/levelling-sensor-gls-tk/elevator-levelling-sensor-gls-tk-1.jpg",
         slider: ["elevator-levelling-sensor-gls-tk-1", "elevator-levelling-sensor-gls-tk-2", "elevator-levelling-sensor-gls-tk-3"],
         canonical:
-          "https://www.bestechparts.ae/products/sensors/leveling-sensor-gls-tk",
+          "https://www.bestechparts.ae/products/sensors/levelling-sensor-gls-tk",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -4880,11 +4880,11 @@ export const products = [
         name: "Leveling sensor: MKF71ASAKX",
         description: "MKF71ASAKX",
         code: "BS-SR0008",
-        url: "/sensors/leveling-sensor-mkf71asakx",
-        image: "/img/products/sensors/leveling-sensor-mkf71asakx/elevator-levelling-sensor-mkf71asakx-1.jpg",
+        url: "/sensors/levelling-sensor-mkf71asakx",
+        image: "/img/products/sensors/levelling-sensor-mkf71asakx/elevator-levelling-sensor-mkf71asakx-1.jpg",
         slider: ["elevator-levelling-sensor-mkf71asakx-1", "elevator-levelling-sensor-mkf71asakx-2"],
         canonical:
-          "https://www.bestechparts.ae/products/sensors/leveling-sensor-mkf71asakx",
+          "https://www.bestechparts.ae/products/sensors/levelling-sensor-mkf71asakx",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
