@@ -678,8 +678,8 @@ export const products = [
         description: "",
         code: "BS-CB0001",
         url: "/circuit-breakers/mcb-63a-4p",
-        image: "/img/products/circuit-breakers/mcb-63a-4p/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/circuit-breakers/mcb-63a-4p/elevator-circuit-breakers-mcb-63a-4p-1.jpg",
+        slider: ["elevator-circuit-breakers-mcb-63a-4p-1", "elevator-circuit-breakers-mcb-63a-4p-2"],
         meta_title:
           " Elevator Circuit breaker MCB 63A 4P for UAE | Lift Safety Parts",
         meta_description:
@@ -698,8 +698,8 @@ export const products = [
         description: "",
         code: "BS-CB0002",
         url: "/circuit-breakers/mcb-6a-1p",
-        image: "/img/products/circuit-breakers/mcb-6a-1p/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/circuit-breakers/mcb-6a-1p/elevator-circuit-breakers-mcb-6a-1p-1.jpg",
+        slider: ["elevator-circuit-breakers-mcb-6a-1p-1", "elevator-circuit-breakers-mcb-6a-1p-2", "elevator-circuit-breakers-mcb-6a-1p-3"],
         meta_title:
           "Elevator Circuit breaker MCB 6A 1P UAE | Lift & Escalator Parts",
         meta_description:
@@ -718,8 +718,8 @@ export const products = [
         description: "",
         code: "BS-CB0003",
         url: "/circuit-breakers/mcb-10a-1p",
-        image: "/img/products/circuit-breakers/mcb-10a-1p/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/circuit-breakers/mcb-10a-1p/elevator-circuit-breakers-mcb-10a-1p-1.jpg",
+        slider: ["elevator-circuit-breakers-mcb-10a-1p-1", "elevator-circuit-breakers-mcb-10a-1p-2", "elevator-circuit-breakers-mcb-10a-1p-3", "elevator-circuit-breakers-mcb-10a-1p-4"],
         meta_title:
           "Elevator Circuit breaker MCB 10A 1P UAE | Reliable Lift Spares",
         meta_description:
@@ -738,7 +738,7 @@ export const products = [
         description: "",
         code: "BS-CB0004",
         url: "/circuit-breakers/mcb-6a-2p",
-        image: "/img/products/circuit-breakers/mcb-6a-2p/1.jpg",
+        image: "/img/products/circuit-breakers/mcb-6a-2p/elevator-circuit-breakers-mcb-6a-2p-1.jpg",
         meta_title:
           "Elevator Circuit breaker MCB 6A 2P UAE | Miniature Lift Breaker",
         meta_description:
@@ -757,8 +757,8 @@ export const products = [
         description: "",
         code: "BS-CB0005",
         url: "/circuit-breakers/mcb-10a-2p",
-        image: "/img/products/circuit-breakers/mcb-10a-2p/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/circuit-breakers/mcb-10a-2p/elevator-circuit-breakers-mcb-10a-2p-1.jpg",
+        slider: ["elevator-circuit-breakers-mcb-10a-2p-1", "elevator-circuit-breakers-mcb-10a-2p-2", "elevator-circuit-breakers-mcb-10a-2p-3"],
         meta_title:
           "Elevator Circuit breaker MCB 10A 2P UAE | Premium Lift Parts",
         meta_description:
@@ -777,8 +777,7 @@ export const products = [
         description: "MCB 10A 2P DZ47s",
         code: "BS-CB0006",
         url: "/circuit-breakers/delixi-mcb-10a-2p-dz47s",
-        image: "/img/products/circuit-breakers/delixi-mcb-10a-2p-dz47s/1.jpg",
-
+        image: "/img/products/circuit-breakers/delixi-mcb-10a-2p-dz47s/elevator-circuit-breakers-delixi-mcb-10a-2p-dz47s-1.jpg",
         meta_title: "",
         meta_description: "",
         canonical:
@@ -792,7 +791,7 @@ export const products = [
         description: "MCB 10A 1P DZ47s",
         code: "BS-CB0007",
         url: "/circuit-breakers/delixi-mcb-10a-1p-dz47s",
-        image: "/img/products/circuit-breakers/delixi-mcb-10a-1p-dz47s/1.jpg",
+        image: "/img/products/circuit-breakers/delixi-mcb-10a-1p-dz47s/elevator-circuit-breakers-delixi-mcb-10a-1p-dz47s-1.jpg",
         meta_title: "",
         meta_description: "",
         canonical:
@@ -806,7 +805,7 @@ export const products = [
         description: "MCB 63A 4P DZ47s",
         code: "BS-CB0008",
         url: "/circuit-breakers/delixi-mcb-63a-4p-dz47s",
-        image: "/img/products/circuit-breakers/delixi-mcb-63a-4p-dz47s/1.jpg",
+        image: "/img/products/circuit-breakers/delixi-mcb-63a-4p-dz47s/elevator-circuit-breakers-delixi-mcb-63a-4p-dz47s-1.jpg",
         meta_title: "",
         meta_description: "",
         canonical:
@@ -820,7 +819,7 @@ export const products = [
         description: "MCB 100A 4P DZ47s",
         code: "BS-CB0009",
         url: "/circuit-breakers/delixi-mcb-100a-4p-dz47s",
-        image: "/img/products/circuit-breakers/delixi-mcb-100a-4p-dz47s/1.jpg",
+        image: "/img/products/circuit-breakers/delixi-mcb-100a-4p-dz47s/elevator-circuit-breakers-delixi-mcb-100a-4p-dz47s-1.jpg",
         meta_title: "",
         meta_description: "",
         canonical:
@@ -851,8 +850,8 @@ export const products = [
         description: "LA137-BS542 40",
         code: "BS-BT0001",
         url: "/buttons/stop-push-button-nc",
-        image: "/img/products/buttons/stop-push-button-nc/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/stop-push-button-nc/elevator-stop-push-button-nc-1.jpg",
+        slider: ["elevator-stop-push-button-nc-1", "elevator-stop-push-button-nc-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/stop-push-button-nc",
         robots:
@@ -863,8 +862,8 @@ export const products = [
         description: "LA137-XB2-BA3341",
         code: "BS-BT0002",
         url: "/buttons/white-arrow-button-no",
-        image: "/img/products/buttons/white-arrow-button-no/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/white-arrow-button-no/elevator-white-arrow-button-no-1.jpg",
+        slider: ["elevator-white-arrow-button-no-1", "elevator-white-arrow-button-no-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/white-arrow-button-no",
         robots:
@@ -875,8 +874,8 @@ export const products = [
         description: "LA137-XB2-BA3351",
         code: "BS-BT0003",
         url: "/buttons/black-arrow-button-no",
-        image: "/img/products/buttons/black-arrow-button-no/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/black-arrow-button-no/elevator-black-arrow-button-no-1.jpg",
+        slider: ["elevator-black-arrow-button-no-1", "elevator-black-arrow-button-no-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/black-arrow-button-no",
         robots:
@@ -887,7 +886,7 @@ export const products = [
         description: "LA137-CW35M1",
         code: "BS-BT0004",
         url: "/buttons/green-push-button-with-light-no",
-        image: "/img/products/buttons/green-push-button-with-light-no/1.jpg",
+        image: "/img/products/buttons/green-push-button-with-light-no/elevator-green-push-button-with-light-no-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/buttons/green-push-button-with-light-no",
         robots:
@@ -898,7 +897,7 @@ export const products = [
         description: "LA137-CW35M2",
         code: "BS-BT0005",
         url: "/buttons/red-push-button-with-light-no",
-        image: "/img/products/buttons/red-push-button-with-light-no/1.jpg",
+        image: "/img/products/buttons/red-push-button-with-light-no/elevator-red-push-button-with-light-no-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/buttons/red-push-button-with-light-no",
         robots:
@@ -909,8 +908,8 @@ export const products = [
         description: "KDS330/KDS220",
         code: "BS-BT0006",
         url: "/buttons/button-kds330-kds220",
-        image: "/img/products/buttons/button-kds330-kds220/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-kds330-kds220/elevator-button-kds330-kds220-1.jpg",
+        slider: ["elevator-button-kds330-kds220-1", "elevator-button-kds330-kds220-2"],
         "meta-title":
           "Elevator Push Button KDS330 & KDS220 Supplier in UAE | Bestech",
         meta_description:
@@ -929,8 +928,8 @@ export const products = [
         description: " MTD482 DA482A101",
         code: "BS-BT0007",
         url: "/buttons/button-mtd482-da482a101",
-        image: "/img/products/buttons/button-mtd482-da482a101/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-mtd482-da482a101/elevator-button-mtd482-da482a101-1.jpg",
+        slider: ["elevator-button-mtd482-da482a101-1", "elevator-button-mtd482-da482a101-2"],
         "meta-title":
           "Elevator Push Button MTD482 & DA482A101 in Sharjah | Bestech",
         meta_description:
@@ -949,8 +948,8 @@ export const products = [
         description: "MTD340",
         code: "BS-BT0008",
         url: "/buttons/button-mtd340",
-        image: "/img/products/buttons/button-mtd340/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/buttons/button-mtd340/elevator-button-mtd340-1.jpg",
+        slider: ["elevator-button-mtd340-1", "elevator-button-mtd340-2", "elevator-button-mtd340-3", "elevator-button-mtd340-4"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-mtd340",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -967,8 +966,8 @@ export const products = [
         description: "AK2026F",
         code: "BS-BT0009",
         url: "/buttons/button-ak2026f",
-        image: "/img/products/buttons/button-ak2026f/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-ak2026f/elevator-button-ak2026f-1.jpg",
+        slider: ["elevator-button-ak2026f-1", "elevator-button-ak2026f-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-ak2026f",
         robots:
@@ -987,8 +986,8 @@ export const products = [
         description: "BR27C/A311",
         code: "BS-BT0010",
         url: "/buttons/button-br27c-a311",
-        image: "/img/products/buttons/button-br27c-a311/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-br27c-a311/elevator-button-br27c-a311-1.jpg",
+        slider: ["elevator-button-br27c-a311-1", "elevator-button-br27c-a311-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-br27c-a311",
         robots:
@@ -1007,8 +1006,8 @@ export const products = [
         description: "CN03010009/A4J16354",
         code: "BS-BT0011",
         url: "/buttons/button-cn03010009-a4j16354",
-        image: "/img/products/buttons/button-cn03010009-a4j16354/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-cn03010009-a4j16354/elevator-button-cn03010009-a4j16354-1.jpg",
+        slider: ["elevator-button-cn03010009-a4j16354-1", "elevator-button-cn03010009-a4j16354-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-cn03010009-a4j16354",
         robots:
@@ -1027,7 +1026,7 @@ export const products = [
         description: "A3N47136/KAS441",
         code: "BS-BT0012",
         url: "/buttons/button-a3n47136-kas441",
-        image: "/img/products/buttons/button-a3n47136-kas441/1.jpg",
+        image: "/img/products/buttons/button-a3n47136-kas441/elevator-button-a3n47136-kas441-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-a3n47136-kas441",
         robots:
@@ -1045,8 +1044,8 @@ export const products = [
         description: "A3N47325/AJ47324A2",
         code: "BS-BT0013",
         url: "/buttons/button-a3n47325-aj47324a2",
-        image: "/img/products/buttons/button-a3n47325-aj47324a2/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-a3n47325-aj47324a2/elevator-button-a3n47325-aj47324a2-1.jpg",
+        slider: ["elevator-button-a3n47325-aj47324a2-1", "elevator-button-a3n47325-aj47324a2-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-a3n47325-aj47324a2",
         robots:
@@ -1065,8 +1064,8 @@ export const products = [
         description: "KD550",
         code: "BS-BT0014",
         url: "/buttons/button-kd550",
-        image: "/img/products/buttons/button-kd550/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-kd550/elevator-button-kd550-1.jpg",
+        slider: ["elevator-button-kd550-1", "elevator-button-kd550-2"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-kd550",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1083,8 +1082,8 @@ export const products = [
         description: "KDS300",
         code: "BS-BT0015",
         url: "/buttons/square-button-kds300",
-        image: "/img/products/buttons/square-button-kds300/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/square-button-kds300/elevator-square-button-kds300-1.jpg",
+        slider: ["elevator-square-button-kds300-1", "elevator-square-button-kds300-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/square-button-kds300",
         robots:
@@ -1114,8 +1113,8 @@ export const products = [
         code: "BS-BT0017",
         url: "/buttons/giant-button-a4j16467-a4j16465-a4j20057",
         image:
-          "/img/products/buttons/giant-button-a4j16467-a4j16465-a4j20057/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/buttons/giant-button-a4j16467-a4j16465-a4j20057/elevator-giant-button-a4j16467-a4j16465-a4j20057-1.jpg",
+        slider: ["elevator-giant-button-a4j16467-a4j16465-a4j20057-1", "elevator-giant-button-a4j16467-a4j16465-a4j20057-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/giant-button-a4j16467-a4j16465-a4j20057",
         robots:
@@ -1133,8 +1132,8 @@ export const products = [
         description: "MTD511G01/DA511G01",
         code: "BS-BT0018",
         url: "/buttons/button-mtd511g01-da511g01",
-        image: "/img/products/buttons/button-mtd511g01-da511g01/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-mtd511g01-da511g01/elevator-button-mtd511g01-da511g01-1.jpg",
+        slider: ["elevator-button-mtd511g01-da511g01-1", "elevator-button-mtd511g01-da511g01-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-mtd511g01-da511g01",
         robots:
@@ -1152,8 +1151,8 @@ export const products = [
         description: "DA180/MTD180",
         code: "BS-BT0019",
         url: "/buttons/button-da180-mtd180",
-        image: "/img/products/buttons/button-da180-mtd180/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/buttons/button-da180-mtd180/elevator-button-da180-mtd180-1.jpg",
+        slider: ["elevator-button-da180-mtd180-1", "elevator-button-da180-mtd180-2", "elevator-button-da180-mtd180-3"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-da180-mtd180",
         robots:
@@ -1166,8 +1165,8 @@ export const products = [
         description: "SL-TC",
         code: "BS-BT0020",
         url: "/buttons/button-sl-tc",
-        image: "/img/products/buttons/button-sl-tc/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/buttons/button-sl-tc/elevator-button-sl-tc-1.jpg",
+        slider: ["elevator-button-sl-tc-1", "elevator-button-sl-tc-2", "elevator-button-sl-tc-3"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-sl-tc",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1185,8 +1184,8 @@ export const products = [
         description: "HD60-1",
         code: "BS-BT0021",
         url: "/buttons/button-hd60-1",
-        image: "/img/products/buttons/button-hd60-1/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-hd60-1/elevator-button-hd60-1-1.jpg",
+        slider: ["elevator-button-hd60-1-1", "elevator-button-hd60-1-2"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-hd60-1",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1203,8 +1202,8 @@ export const products = [
         description: "KAS040/AMV243/AAD7442",
         code: "BS-BT0022",
         url: "/buttons/button-kas040-amv243-aad7442",
-        image: "/img/products/buttons/button-kas040-amv243-aad7442/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-kas040-amv243-aad7442/elevator-button-kas040-amv243-aad7442-1.jpg",
+        slider: ["elevator-button-kas040-amv243-aad7442-1", "elevator-button-kas040-amv243-aad7442-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-kas040-amv243-aad7442",
         robots:
@@ -1222,8 +1221,8 @@ export const products = [
         description: "CS-41-GG",
         code: "BS-BT0023",
         url: "/buttons/button-cs-41-gg",
-        image: "/img/products/buttons/button-cs-41-gg/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-cs-41-gg/elevator-button-cs-41-gg-1.jpg",
+        slider: ["elevator-button-cs-41-gg-1", "elevator-button-cs-41-gg-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-cs-41-gg",
         robots:
@@ -1241,8 +1240,8 @@ export const products = [
         description: "MTD118",
         code: "BS-BT0024",
         url: "/buttons/button-mtd118",
-        image: "/img/products/buttons/button-mtd118/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-mtd118/elevator-button-mtd118-1.jpg",
+        slider: ["elevator-button-mtd118-1", "elevator-button-mtd118-2"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-mtd118",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1260,8 +1259,8 @@ export const products = [
         description: "A4J13868/A4N13869",
         code: "BS-BT0025",
         url: "/buttons/button-a4j13868-a4n13869",
-        image: "/img/products/buttons/button-a4j13868-a4n13869/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-a4j13868-a4n13869/elevator-button-a4j13868-a4n13869-1.jpg",
+        slider: ["elevator-button-a4j13868-a4n13869-1", "elevator-button-a4j13868-a4n13869-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-a4j13868-a4n13869",
         robots:
@@ -1279,7 +1278,7 @@ export const products = [
         description: "KA313-0",
         code: "BS-BT0026",
         url: "/buttons/emergency-light-round-cop",
-        image: "/img/products/buttons/emergency-light-round-cop/1.jpg",
+        image: "/img/products/buttons/emergency-light-round-cop/elevator-emergency-light-round-cop-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/buttons/emergency-light-round-cop",
         robots:
@@ -1297,8 +1296,8 @@ export const products = [
         description: "DA411/B113/MTD411",
         code: "BS-BT0027",
         url: "/buttons/button-da411-b113-mtd411",
-        image: "/img/products/buttons/button-da411-b113-mtd411/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/button-da411-b113-mtd411/elevator-button-da411-b113-mtd411-1.jpg",
+        slider: ["elevator-button-da411-b113-mtd411-1", "elevator-button-da411-b113-mtd411-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1315,7 +1314,7 @@ export const products = [
         description: "COP button - Open",
         code: "BS-BT0028",
         url: "/buttons/cop-button-open",
-        image: "/img/products/buttons/cop-button-open/1.jpg",
+        image: "/img/products/buttons/cop-button-open/elevator-cop-button-open-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Door Open Button | Lift Spare, UAE",
@@ -1331,7 +1330,7 @@ export const products = [
         description: "COP button - Close",
         code: "BS-BT0029",
         url: "/buttons/cop-button-close",
-        image: "/img/products/buttons/cop-button-close/1.jpg",
+        image: "/img/products/buttons/cop-button-close/elevator-cop-button-close-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Door Close Button | Lift Spare, UAE",
@@ -1347,7 +1346,7 @@ export const products = [
         description: "COP button - P1",
         code: "BS-BT0030",
         url: "/buttons/cop-button-p1",
-        image: "/img/products/buttons/cop-button-p1/1.jpg",
+        image: "/img/products/buttons/cop-button-p1/elevator-cop-button-p1-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P1 for Lift Panels in UAE | Bestech",
@@ -1363,7 +1362,7 @@ export const products = [
         description: "COP button - P2",
         code: "BS-BT0031",
         url: "/buttons/cop-button-p2",
-        image: "/img/products/buttons/cop-button-p2/1.jpg",
+        image: "/img/products/buttons/cop-button-p2/elevator-cop-button-p2-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P2 for Lift Panels in UAE | Bestech",
@@ -1379,7 +1378,7 @@ export const products = [
         description: "COP button - P3",
         code: "BS-BT0032",
         url: "/buttons/cop-button-p3",
-        image: "/img/products/buttons/cop-button-p3/1.jpg",
+        image: "/img/products/buttons/cop-button-p3/elevator-cop-button-p3-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1396,7 +1395,7 @@ export const products = [
         description: "COP button - P4",
         code: "BS-BT0033",
         url: "/buttons/cop-button-p4",
-        image: "/img/products/buttons/cop-button-p4/1.jpg",
+        image: "/img/products/buttons/cop-button-p4/elevator-cop-button-p4-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P4 for Lift Control Panels | UAE",
@@ -1412,7 +1411,7 @@ export const products = [
         description: "COP button - P5",
         code: "BS-BT0034",
         url: "/buttons/cop-button-p5",
-        image: "/img/products/buttons/cop-button-p5/1.jpg",
+        image: "/img/products/buttons/cop-button-p5/elevator-cop-button-p5-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P5 | High Quality Lift Buttons, UAE",
@@ -1428,8 +1427,8 @@ export const products = [
         description: "COP button - G",
         code: "BS-BT0035",
         url: "/buttons/cop-button-g",
-        image: "/img/products/buttons/cop-button-g/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/buttons/cop-button-g/elevator-cop-button-g-1.jpg",
+        slider: ["elevator-cop-button-g-1", "elevator-cop-button-g-2", "elevator-cop-button-g-3"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button G | High Quality Lift Buttons, UAE",
@@ -1445,7 +1444,7 @@ export const products = [
         description: "COP button - M",
         code: "BS-BT0036",
         url: "/buttons/cop-button-m",
-        image: "/img/products/buttons/cop-button-m/1.jpg",
+        image: "/img/products/buttons/cop-button-m/elevator-cop-button-m-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1462,8 +1461,8 @@ export const products = [
         description: "COP button - 1",
         code: "BS-BT0037",
         url: "/buttons/cop-button-1",
-        image: "/img/products/buttons/cop-button-1/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/cop-button-1/elevator-cop-button-1-1.jpg",
+        slider: ["elevator-cop-button-1-1", "elevator-cop-button-1-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 1 | Lift Panel Spare Parts in UAE",
@@ -1479,7 +1478,7 @@ export const products = [
         description: "COP button - 2",
         code: "BS-BT0037",
         url: "/buttons/cop-button-2",
-        image: "/img/products/buttons/cop-button-2/1.jpg",
+        image: "/img/products/buttons/cop-button-2/elevator-cop-button-2-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 2 | Lift Control Buttons in UAE",
@@ -1495,7 +1494,7 @@ export const products = [
         description: "COP button - 3",
         code: "BS-BT0039",
         url: "/buttons/cop-button-3",
-        image: "/img/products/buttons/cop-button-3/1.jpg",
+        image: "/img/products/buttons/cop-button-3/elevator-cop-button-3-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1512,7 +1511,7 @@ export const products = [
         description: "COP button - 4",
         code: "BS-BT0040",
         url: "/buttons/cop-button-4",
-        image: "/img/products/buttons/cop-button-4/1.jpg",
+        image: "/img/products/buttons/cop-button-4/elevator-cop-button-4-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 4 | Lift Spare Supplier in UAE",
@@ -1528,7 +1527,7 @@ export const products = [
         description: "COP button - 5",
         code: "BS-BT0041",
         url: "/buttons/cop-button-5",
-        image: "/img/products/buttons/cop-button-5/1.jpg",
+        image: "/img/products/buttons/cop-button-5/elevator-cop-button-5-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1545,7 +1544,7 @@ export const products = [
         description: "COP button - 6",
         code: "BS-BT0042",
         url: "/buttons/cop-button-6",
-        image: "/img/products/buttons/cop-button-6/1.jpg",
+        image: "/img/products/buttons/cop-button-6/elevator-cop-button-6-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1562,7 +1561,7 @@ export const products = [
         description: "COP button - 7",
         code: "BS-BT0043",
         url: "/buttons/cop-button-7",
-        image: "/img/products/buttons/cop-button-7/1.jpg",
+        image: "/img/products/buttons/cop-button-7/elevator-cop-button-7-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1579,7 +1578,7 @@ export const products = [
         description: "COP button - 8",
         code: "BS-BT0044",
         url: "/buttons/cop-button-8",
-        image: "/img/products/buttons/cop-button-8/1.jpg",
+        image: "/img/products/buttons/cop-button-8/elevator-cop-button-8-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1596,7 +1595,7 @@ export const products = [
         description: "COP button - 9",
         code: "BS-BT0045",
         url: "/buttons/cop-button-9",
-        image: "/img/products/buttons/cop-button-9/1.jpg",
+        image: "/img/products/buttons/cop-button-9/elevator-cop-button-9-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1613,7 +1612,7 @@ export const products = [
         description: "COP button - 10",
         code: "BS-BT0046",
         url: "/buttons/cop-button-10",
-        image: "/img/products/buttons/cop-button-10/1.jpg",
+        image: "/img/products/buttons/cop-button-10/elevator-cop-button-10-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1630,7 +1629,7 @@ export const products = [
         description: "COP button - 11",
         code: "BS-BT0047",
         url: "/buttons/cop-button-11",
-        image: "/img/products/buttons/cop-button-11/1.jpg",
+        image: "/img/products/buttons/cop-button-11/elevator-cop-button-11-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1647,7 +1646,7 @@ export const products = [
         description: "COP button - 12",
         code: "BS-BT0048",
         url: "/buttons/cop-button-12",
-        image: "/img/products/buttons/cop-button-12/1.jpg",
+        image: "/img/products/buttons/cop-button-12/elevator-cop-button-12-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1664,7 +1663,7 @@ export const products = [
         description: "COP button - R",
         code: "BS-BT0049",
         url: "/buttons/cop-button-r",
-        image: "/img/products/buttons/cop-button-r/1.jpg",
+        image: "/img/products/buttons/cop-button-r/elevator-cop-button-r-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1681,7 +1680,7 @@ export const products = [
         description: "COP button - Alarm",
         code: "BS-BT0050",
         url: "/buttons/cop-button-alarm",
-        image: "/img/products/buttons/cop-button-alarm/1.jpg",
+        image: "/img/products/buttons/cop-button-alarm/elevator-cop-button-alarm-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator Alarm Button | High Quality Lift Spare in UAE",
@@ -1697,7 +1696,7 @@ export const products = [
         description: "Model: Monarch",
         code: "BS-BT0051",
         url: "/buttons/lop-button-up-and-down-arrow",
-        image: "/img/products/buttons/lop-button-up-and-down-arrow/1.jpg",
+        image: "/img/products/buttons/lop-button-up-and-down-arrow/elevator-lop-button-up-and-down-arrow-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1706,7 +1705,7 @@ export const products = [
         description: "Model-monarch",
         code: "BS-BT0052",
         url: "/buttons/cop-button-intercom",
-        image: "/img/products/buttons/cop-button-intercom/1.jpg",
+        image: "/img/products/buttons/cop-button-intercom/elevator-cop-button-intercom-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1715,8 +1714,8 @@ export const products = [
         description: "Kone: KM51071111H06",
         code: "BS-BT0053",
         url: "/buttons/elevator-button-km51071111h06",
-        image: "/img/products/buttons/elevator-button-km51071111h06/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/elevator-button-km51071111h06/elevator-button-km51071111h06-1.jpg",
+        slider: ["elevator-button-km51071111h06-1", "elevator-button-km51071111h06-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1725,8 +1724,8 @@ export const products = [
         description: "OTIS: A4J43675",
         code: "BS-BT0054",
         url: "/buttons/elevator-button-a4j43675",
-        image: "/img/products/buttons/elevator-button-a4j43675/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/elevator-button-a4j43675/elevator-button-a4j43675-1.jpg",
+        slider: ["elevator-button-a4j43675-1", "elevator-button-a4j43675-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1735,7 +1734,7 @@ export const products = [
         description: "Button Empty Holder",
         code: "BS-BT0055",
         url: "/buttons/button-empty-holder",
-        image: "/img/products/buttons/button-empty-holder/1.jpg",
+        image: "/img/products/buttons/button-empty-holder/elevator-button-empty-holder-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1744,7 +1743,7 @@ export const products = [
         description: "AK07",
         code: "BS-BT0056",
         url: "/buttons/elevator-square-button-ak07",
-        image: "/img/products/buttons/elevator-square-button-ak07/1.jpg",
+        image: "/img/products/buttons/elevator-square-button-ak07/elevator-square-button-ak07-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1753,7 +1752,7 @@ export const products = [
         description: "LG Sigma: AK25 MTD265",
         code: "BS-BT0057",
         url: "/buttons/elevator-push-button-ak25-mtd265",
-        image: "/img/products/buttons/elevator-push-button-ak25-mtd265/1.jpg",
+        image: "/img/products/buttons/elevator-push-button-ak25-mtd265/elevator-push-button-ak25-mtd265-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1762,7 +1761,7 @@ export const products = [
         description: "A4N11286",
         code: "BS-BT0058",
         url: "/buttons/a4n11286-elevator-led-push-button",
-        image: "/img/products/buttons/a4n11286-elevator-led-push-button/1.jpg",
+        image: "/img/products/buttons/a4n11286-elevator-led-push-button/elevator-a4n11286-elevator-led-push-button-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1771,7 +1770,7 @@ export const products = [
         description: "BST: A3N18489",
         code: "BS-BT0059",
         url: "/buttons/bst-elevator-button-a3n18489",
-        image: "/img/products/buttons/bst-elevator-button-a3n18489/1.jpg",
+        image: "/img/products/buttons/bst-elevator-button-a3n18489/elevator-bst-elevator-button-a3n18489-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1780,7 +1779,7 @@ export const products = [
         description: "KONE: KDS50 863233H03",
         code: "BS-BT0060",
         url: "/buttons/elevator-push-button-kds50-round",
-        image: "/img/products/buttons/elevator-push-button-kds50-round/1.jpg",
+        image: "/img/products/buttons/elevator-push-button-kds50-round/elevator-push-button-kds50-round-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1789,7 +1788,7 @@ export const products = [
         description: "Mitsubishi: LHB-005B",
         code: "BS-BT0061",
         url: "/buttons/elevator-button-lhb-005b",
-        image: "/img/products/buttons/elevator-button-lhb-005b/1.jpg",
+        image: "/img/products/buttons/elevator-button-lhb-005b/elevator-button-lhb-005b-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1798,7 +1797,7 @@ export const products = [
         description: "Mitsubishi: LHB-006B",
         code: "BS-BT0062",
         url: "/buttons/elevator-button-lhb-006b",
-        image: "/img/products/buttons/elevator-button-lhb-006b/1.jpg",
+        image: "/img/products/buttons/elevator-button-lhb-006b/elevator-button-lhb-006b-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1807,7 +1806,7 @@ export const products = [
         description: "Mitsubishi: LHB-007B",
         code: "BS-BT0063",
         url: "/buttons/elevator-button-lhb-007b",
-        image: "/img/products/buttons/elevator-button-lhb-007b/1.jpg",
+        image: "/img/products/buttons/elevator-button-lhb-007b/elevator-button-lhb-007b-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1817,7 +1816,7 @@ export const products = [
           "1/2/3/4/5/open/close/6 to 40/G, alarm, intercom B1, B2, B3, P1, P2, P3, M",
         code: "BS-BT0064",
         url: "/buttons/otis-button-lock-27mm-flush",
-        image: "/img/products/buttons/otis-button-lock-27mm-flush/1.jpg",
+        image: "/img/products/buttons/otis-button-lock-27mm-flush/elevator-otis-button-lock-27mm-flush-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1827,7 +1826,7 @@ export const products = [
           "1/2/3/4/5/open/close/6 to 40/G, alarm, intercom B1, B2, B3, P1, P2, P3, M",
         code: "BS-BT0065",
         url: "/buttons/otis-button-lock-27mm-screw",
-        image: "/img/products/buttons/otis-button-lock-27mm-screw/1.jpg",
+        image: "/img/products/buttons/otis-button-lock-27mm-screw/elevator-otis-button-lock-27mm-screw-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1836,7 +1835,7 @@ export const products = [
         description: "Hyundai: A4N135161",
         code: "BS-BT0066",
         url: "/buttons/elevator-push-button-a4n135161",
-        image: "/img/products/buttons/elevator-push-button-a4n135161/1.jpg",
+        image: "/img/products/buttons/elevator-push-button-a4n135161/elevator-push-button-a4n135161-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1846,7 +1845,7 @@ export const products = [
         description: "Mitsubishi G floor button cover (Green)",
         code: "BS-BT0067",
         url: "/buttons/g-floor-button-cover-green",
-        image: "/img/products/buttons/g-floor-button-cover-green/1.jpg",
+        image: "/img/products/buttons/g-floor-button-cover-green/elevator-g-floor-button-cover-green-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1855,7 +1854,7 @@ export const products = [
         description: "Mitsubishi ",
         code: "BS-BT0068",
         url: "/buttons/button-stickers",
-        image: "/img/products/buttons/button-stickers/1.jpg",
+        image: "/img/products/buttons/button-stickers/elevator-button-stickers-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1864,8 +1863,8 @@ export const products = [
         description: "TF-LB38R COP Buttons ",
         code: "BS-BT0069",
         url: "/buttons/touchless-cop-buttons-tf-lb38r",
-        image: "/img/products/buttons/touchless-cop-buttons-tf-lb38r/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/touchless-cop-buttons-tf-lb38r/elevator-touchless-cop-buttons-tf-lb38r-1.jpg",
+        slider: ["elevator-touchless-cop-buttons-tf-lb38r-1", "elevator-touchless-cop-buttons-tf-lb38r-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1874,7 +1873,7 @@ export const products = [
         description: "TF-LB38R LOP Buttons",
         code: "BS-BT0070",
         url: "/buttons/touchless-lop-buttons-tf-lb38r",
-        image: "/img/products/buttons/touchless-lop-buttons-tf-lb38r/1.jpg",
+        image: "/img/products/buttons/touchless-lop-buttons-tf-lb38r/elevator-touchless-lop-buttons-tf-lb38r-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1883,8 +1882,8 @@ export const products = [
         description: "BST PUSH BUTTON MA1200 SS",
         code: "BS-BT0071",
         url: "/buttons/bst-push-button-ma1200-ss",
-        image: "/img/products/buttons/bst-push-button-ma1200-ss/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/bst-push-button-ma1200-ss/elevator-bst-push-button-ma1200-ss-1.jpg",
+        slider: ["elevator-bst-push-button-ma1200-ss-1", "elevator-bst-push-button-ma1200-ss-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1893,7 +1892,7 @@ export const products = [
         description: "Sigma round - Push buttons AK-29B",
         code: "BS-BT0072",
         url: "/buttons/push-buttons-ak-29b",
-        image: "/img/products/buttons/push-buttons-ak-29b/1.jpg",
+        image: "/img/products/buttons/push-buttons-ak-29b/elevator-push-buttons-ak-29b-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1902,8 +1901,8 @@ export const products = [
         description: "Monarch: 13-25. Blue/Red",
         code: "BS-BT0073",
         url: "/buttons/cop-button-monarch-13",
-        image: "/img/products/buttons/cop-button-monarch-13/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/cop-button-monarch-13/elevator-cop-button-monarch-13-1.jpg",
+        slider: ["elevator-cop-button-monarch-13-1", "elevator-cop-button-monarch-13-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1912,7 +1911,7 @@ export const products = [
         description: "Kone buttons. Red",
         code: "BS-BT0074",
         url: "/buttons/kds-button-square-with-screws",
-        image: "/img/products/buttons/kds-button-square-with-screws/1.jpg",
+        image: "/img/products/buttons/kds-button-square-with-screws/elevator-kds-button-square-with-screws-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1921,7 +1920,7 @@ export const products = [
         description: "Push Button Red: AN306",
         code: "BS-BT0075",
         url: "/buttons/push-button-round-an306",
-        image: "/img/products/buttons/push-button-round-an306/1.jpg",
+        image: "/img/products/buttons/push-button-round-an306/elevator-push-button-round-an306-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1930,8 +1929,8 @@ export const products = [
         description: "Elevator Push Button KA1060",
         code: "BS-BT0076",
         url: "/buttons/elevator-push-button-ka1060",
-        image: "/img/products/buttons/elevator-push-button-ka1060/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/buttons/elevator-push-button-ka1060/elevator-push-button-ka1060-1.jpg",
+        slider: ["elevator-push-button-ka1060-1", "elevator-push-button-ka1060-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1942,7 +1941,7 @@ export const products = [
         code: "BS-BT0077",
         url: "/buttons/touchless-cop-buttons-tf-lb38r-silver",
         image:
-          "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/1.jpg",
+          "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/elevator-touchless-cop-buttons-tf-lb38r-silver-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1951,7 +1950,7 @@ export const products = [
         description: "COP buttons NY20041659H01",
         code: "BS-BT0078",
         url: "/buttons/cop-buttons-ny20041659h01",
-        image: "/img/products/buttons/cop-buttons-ny20041659h01/1.jpg",
+        image: "/img/products/buttons/cop-buttons-ny20041659h01/elevator-cop-buttons-ny20041659h01-1.jpg",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -3333,8 +3332,8 @@ export const products = [
         description: "",
         code: "BS-ME0001",
         url: "/mechanical/rivet-nuts-jx-f-m3-r-st",
-        image: "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/elevator-rivet-nuts-jx-f-m3-r-st-1.jpg",
+        slider: ["elevator-rivet-nuts-jx-f-m3-r-st-1", "elevator-rivet-nuts-jx-f-m3-r-st-2"],
         meta_title:
           "Buy Mechanical Rivet nuts JX-F-M3-R-ST UAE | Best Lift Parts in Dubai, Sharjah",
         meta_description:
@@ -3349,8 +3348,8 @@ export const products = [
         description: "",
         code: "BS-ME0002",
         url: "/mechanical/rivet-nuts-jx-f-m4-r-st",
-        image: "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/elevator-rivet-nuts-jx-f-m4-r-st-1.jpg",
+        slider: ["elevator-rivet-nuts-jx-f-m4-r-st-1", "elevator-rivet-nuts-jx-f-m4-r-st-2"],
         meta_title:
           "Blind Rivet Suppliers JX-F-M4-R-ST UAE | Rivet Nuts for Elevators in Dubai",
         meta_description:
@@ -3365,8 +3364,8 @@ export const products = [
         description: "",
         code: "BS-ME0003",
         url: "/mechanical/rivet-nuts-jx-f-m5-r-st",
-        image: "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/elevator-rivet-nuts-jx-f-m5-r-st-1.jpg",
+        slider: ["elevator-rivet-nuts-jx-f-m5-r-st-1", "elevator-rivet-nuts-jx-f-m5-r-st-2"],
         meta_title:
           "Blind Rivet Suppliers JX-F-M5-R-ST in UAE | Elevator Nuts Dubai & Sharjah",
         meta_description:
@@ -3381,8 +3380,8 @@ export const products = [
         description: "",
         code: "BS-ME0004",
         url: "/mechanical/rivet-nuts-jx-f-m6-r-st",
-        image: "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/elevator-rivet-nuts-jx-f-m6-r-st-1.jpg",
+        slider: ["elevator-rivet-nuts-jx-f-m6-r-st-1", "elevator-rivet-nuts-jx-f-m6-r-st-2"],
         meta_title:
           "Blind Rivet JX-F-M6-R-ST Suppliers in UAE | Best Lift Nuts Dubai Sharjah",
         meta_description:
@@ -3398,8 +3397,8 @@ export const products = [
         code: "BS-ME0005",
         url: "/mechanical/steel-socket-head-screws-m3x20mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m3x20mm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/steel-socket-head-screws-m3x20mm/elevator-steel-socket-head-screws-m3x20mm-1.jpg",
+        slider: ["elevator-steel-socket-head-screws-m3x20mm-1", "elevator-steel-socket-head-screws-m3x20mm-2"],
         meta_title: "Buy Elevator Steel Socket Screws M3x20mm in Dubai, UAE",
         meta_description:
           "Buy elevator steel socket screws m3x20mm from Bestechparts. Best supplier in Sharjah, Dubai & UAE for Mitsubishi, Kone, Otis & Thyssenkrupp lifts.",
@@ -3414,8 +3413,8 @@ export const products = [
         code: "BS-ME0006",
         url: "/mechanical/steel-socket-head-screws-m3x30mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m3x30mm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/steel-socket-head-screws-m3x30mm/elevator-steel-socket-head-screws-m3x30mm-1.jpg",
+        slider: ["elevator-steel-socket-head-screws-m3x30mm-1", "elevator-steel-socket-head-screws-m3x30mm-2"],
         meta_title: "Buy Elevator Steel Socket Screws M3x30mm in Dubai, UAE",
         meta_description:
           "Get elevator steel socket screws m3x30mm from Bestechparts. Trusted supplier in Dubai, Sharjah & UAE for Otis, Schindler, Kone & Mitsubishi elevators.",
@@ -3430,8 +3429,8 @@ export const products = [
         code: "BS-ME0007",
         url: "/mechanical/steel-socket-head-screws-m4x20mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m4x20mm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/steel-socket-head-screws-m4x20mm/elevator-steel-socket-head-screws-m4x20mm-1.jpg",
+        slider: ["elevator-steel-socket-head-screws-m4x20mm-1", "elevator-steel-socket-head-screws-m4x20mm-2"],
         meta_title: "Buy Elevator Steel Socket Screws M4x20mm in Dubai, UAE",
         meta_description:
           "Buy elevator steel socket screws m4x20mm from Bestechparts. Top supplier in Dubai, Sharjah & UAE for Otis, Thyssenkrupp, Kone & Schindler lifts.",
@@ -3446,8 +3445,8 @@ export const products = [
         code: "BS-ME0008",
         url: "/mechanical/steel-socket-head-screws-m4x30mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m4x30mm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/steel-socket-head-screws-m4x30mm/elevator-steel-socket-head-screws-m4x30mm-1.jpg",
+        slider: ["elevator-steel-socket-head-screws-m4x30mm-1", "elevator-steel-socket-head-screws-m4x30mm-2"],
         meta_title: "Buy Elevator Steel Socket Screws M4x30mm in Dubai, UAE",
         meta_description:
           "Purchase elevator steel socket screws m4x30mm at Bestechparts. Leading supplier in Dubai, Sharjah & UAE for Kone, Otis, Mitsubishi & Schindler lifts.",
@@ -3462,8 +3461,8 @@ export const products = [
         code: "BS-ME0009",
         url: "/mechanical/steel-socket-head-screws-m5x20mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m5x20mm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/steel-socket-head-screws-m5x20mm/elevator-steel-socket-head-screws-m5x20mm-1.jpg",
+        slider: ["elevator-steel-socket-head-screws-m5x20mm-1", "elevator-steel-socket-head-screws-m5x20mm-2"],
         meta_title:
           "Buy Elevator Steel Socket Screws M5x20mm | Bestechparts, UAE",
         meta_description:
@@ -3479,8 +3478,8 @@ export const products = [
         code: "BS-ME0010",
         url: "/mechanical/steel-socket-head-screws-m5x30mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m5x30mm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/steel-socket-head-screws-m5x30mm/elevator-steel-socket-head-screws-m5x30mm-1.jpg",
+        slider: ["elevator-steel-socket-head-screws-m5x30mm-1", "elevator-steel-socket-head-screws-m5x30mm-2"],
         meta_title:
           "Elevator Steel Socket Screws M5x30mm | Bestechparts Dubai, UAE",
         meta_description:
@@ -3496,8 +3495,8 @@ export const products = [
         code: "BS-ME0011",
         url: "/mechanical/steel-socket-head-screws-m6x20mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m6x20mm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/steel-socket-head-screws-m6x20mm/elevator-steel-socket-head-screws-m6x20mm-1.jpg",
+        slider: ["elevator-steel-socket-head-screws-m6x20mm-1", "elevator-steel-socket-head-screws-m6x20mm-2"],
         meta_title:
           "Elevator Steel Socket Screws M6x20mm | Bestechparts Dubai, UAE",
         meta_description:
@@ -3513,8 +3512,8 @@ export const products = [
         code: "BS-ME0012",
         url: "/mechanical/steel-socket-head-screws-m6x30mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m6x30mm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/steel-socket-head-screws-m6x30mm/elevator-steel-socket-head-screws-m6x30mm-1.jpg",
+        slider: ["elevator-steel-socket-head-screws-m6x30mm-1", "elevator-steel-socket-head-screws-m6x30mm-2"],
         meta_title:
           "Elevator Steel Socket Screws M6x30mm | Bestechparts Sharjah, UAE",
         meta_description:
@@ -3545,8 +3544,8 @@ export const products = [
         code: "BS-ME0014",
         url: "/mechanical/door-wire-rope-1720-1800-1900-2000",
         image:
-          "/img/products/mechanical/door-wire-rope-1720-1800-1900-2000/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/mechanical/door-wire-rope-1720-1800-1900-2000/elevator-door-wire-rope-1720-1800-1900-2000-1.jpg",
+        slider: ["elevator-door-wire-rope-1720-1800-1900-2000-1", "elevator-door-wire-rope-1720-1800-1900-2000-2"],
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3558,7 +3557,7 @@ export const products = [
         description: " Dortalu: 11mm to 13mm",
         code: "BS-ME0015",
         url: "/mechanical/rope-thimble-rod-12mm",
-        image: "/img/products/mechanical/rope-thimble-rod-12mm/1.jpg",
+        image: "/img/products/mechanical/rope-thimble-rod-12mm/elevator-rope-thimble-rod-12mm-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3570,7 +3569,7 @@ export const products = [
         description: "Round Magnet",
         code: "BS-ME0016",
         url: "/mechanical/round-magnet",
-        image: "/img/products/mechanical/round-magnet/1.jpg",
+        image: "/img/products/mechanical/round-magnet/elevator-round-magnet-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3582,7 +3581,7 @@ export const products = [
         description: "Strip Magnet 1M",
         code: "BS-ME0017",
         url: "/mechanical/strip-magnet-1m",
-        image: "/img/products/mechanical/strip-magnet-1m/1.jpg",
+        image: "/img/products/mechanical/strip-magnet-1m/elevator-strip-magnet-1m-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3594,7 +3593,7 @@ export const products = [
         description: "Oil Cups (8 models)",
         code: "BS-ME0018",
         url: "/mechanical/oil-cups-assorted",
-        image: "/img/products/mechanical/oil-cups-assorted/1.jpg",
+        image: "/img/products/mechanical/oil-cups-assorted/elevator-oil-cups-assorted-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3606,7 +3605,7 @@ export const products = [
         description: "Steel core Rope 8mm",
         code: "BS-ME0019",
         url: "/mechanical/steel-core-rope-8mm",
-        image: "/img/products/mechanical/steel-core-rope-8mm/1.jpg",
+        image: "/img/products/mechanical/steel-core-rope-8mm/elevator-steel-core-rope-8mm-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3618,7 +3617,7 @@ export const products = [
         description: "6 and 6",
         code: "BS-ME0020",
         url: "/mechanical/coupling-shaft",
-        image: "/img/products/mechanical/coupling-shaft/1.jpg",
+        image: "/img/products/mechanical/coupling-shaft/elevator-coupling-shaft-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3631,7 +3630,7 @@ export const products = [
         code: "BS-ME0021",
         url: "/mechanical/wire-rope-fasteners-thimble-12-13mm-c",
         image:
-          "/img/products/mechanical/wire-rope-fasteners-thimble-12-13mm-c/1.jpg",
+          "/img/products/mechanical/wire-rope-fasteners-thimble-12-13mm-c/elevator-wire-rope-fasteners-thimble-12-13mm-c-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3643,8 +3642,8 @@ export const products = [
         description: "Mitsubishi Sheave: 620*4*12 M",
         code: "BS-ME0022",
         url: "/mechanical/traction-sheave-620-4-12-m",
-        image: "/img/products/mechanical/traction-sheave-620-4-12-m/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/mechanical/traction-sheave-620-4-12-m/elevator-traction-sheave-620-4-12-m-1.jpg",
+        slider: ["elevator-traction-sheave-620-4-12-m-1", "elevator-traction-sheave-620-4-12-m-2"],
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3656,7 +3655,7 @@ export const products = [
         description: "Mitsubishi sheave: 620*6*12 M",
         code: "BS-ME0023",
         url: "/mechanical/traction-sheave-620-6-12-m",
-        image: "/img/products/mechanical/traction-sheave-620-6-12-m/1.jpg",
+        image: "/img/products/mechanical/traction-sheave-620-6-12-m/elevator-traction-sheave-620-6-12-m-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3668,7 +3667,7 @@ export const products = [
         description: "Sigma sheave: 605*3*12 S",
         code: "BS-ME0024",
         url: "/mechanical/traction-sheave-605-3-12-s",
-        image: "/img/products/mechanical/traction-sheave-605-3-12-s/1.jpg",
+        image: "/img/products/mechanical/traction-sheave-605-3-12-s/elevator-traction-sheave-605-3-12-s-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3681,7 +3680,7 @@ export const products = [
         description: "Sigma sheave: 605*4*12 S",
         code: "BS-ME0026",
         url: "/mechanical/traction-sheave-605-4-12-s",
-        image: "/img/products/mechanical/traction-sheave-605-4-12-s/1.jpg",
+        image: "/img/products/mechanical/traction-sheave-605-4-12-s/elevator-traction-sheave-605-4-12-s-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3693,7 +3692,7 @@ export const products = [
         description: "Sigma sheave: 505*4*12 S",
         code: "BS-ME0027",
         url: "/mechanical/traction-sheave-505-4-12-s",
-        image: "/img/products/mechanical/traction-sheave-505-4-12-s/1.jpg",
+        image: "/img/products/mechanical/traction-sheave-505-4-12-s/elevator-traction-sheave-505-4-12-s-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3705,8 +3704,8 @@ export const products = [
         description: "Escalator Handrail Belt Tool",
         code: "BS-ME0028",
         url: "/mechanical/escalator-handrail-belt-tool",
-        image: "/img/products/mechanical/escalator-handrail-belt-tool/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/mechanical/escalator-handrail-belt-tool/elevator-escalator-handrail-belt-tool-1.jpg",
+        slider: ["elevator-escalator-handrail-belt-tool-1", "elevator-escalator-handrail-belt-tool-2"],
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3719,7 +3718,7 @@ export const products = [
         code: "BS-ME0029",
         url: "/mechanical/shock-absorber-swing-manual-doors",
         image:
-          "/img/products/mechanical/shock-absorber-swing-manual-doors/1.jpg",
+          "/img/products/mechanical/shock-absorber-swing-manual-doors/elevator-shock-absorber-swing-manual-doors-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3731,7 +3730,7 @@ export const products = [
         description: "Door Spring 250",
         code: "BS-ME0030",
         url: "/mechanical/door-spring-250",
-        image: "/img/products/mechanical/door-spring-250/1.jpg",
+        image: "/img/products/mechanical/door-spring-250/elevator-door-spring-250-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3743,7 +3742,7 @@ export const products = [
         description: "China Rope Thimble rod - 6mm",
         code: "BS-ME0031",
         url: "/mechanical/rope-thimble-rod-6mm",
-        image: "/img/products/mechanical/rope-thimble-rod-6mm/1.jpg",
+        image: "/img/products/mechanical/rope-thimble-rod-6mm/elevator-rope-thimble-rod-6mm-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3755,7 +3754,7 @@ export const products = [
         description: "China Rope Thimble rod - 8mm",
         code: "BS-ME0032",
         url: "/mechanical/rope-thimble-rod-8mm",
-        image: "/img/products/mechanical/rope-thimble-rod-8mm/1.jpg",
+        image: "/img/products/mechanical/rope-thimble-rod-8mm/elevator-rope-thimble-rod-8mm-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3767,7 +3766,7 @@ export const products = [
         description: "China Rope Thimble rod - 10mm",
         code: "BS-ME0033",
         url: "/mechanical/rope-thimble-rod-10mm",
-        image: "/img/products/mechanical/rope-thimble-rod-10mm/1.jpg",
+        image: "/img/products/mechanical/rope-thimble-rod-10mm/elevator-rope-thimble-rod-10mm-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3780,7 +3779,7 @@ export const products = [
         code: "BS-ME0034",
         url: "/mechanical/speed-governor-ox-200-tension-weight",
         image:
-          "/img/products/mechanical/speed-governor-ox-200-tension-weight/1.jpg",
+          "/img/products/mechanical/speed-governor-ox-200-tension-weight/elevator-speed-governor-ox-200-tension-weight-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3792,7 +3791,7 @@ export const products = [
         description: "Over Speed Governor OX-208",
         code: "BS-ME0035",
         url: "/mechanical/over-speed-governor-ox-208",
-        image: "/img/products/mechanical/over-speed-governor-ox-208/1.jpg",
+        image: "/img/products/mechanical/over-speed-governor-ox-208/elevator-over-speed-governor-ox-208-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3804,7 +3803,7 @@ export const products = [
         description: "Otis/Hyundai/Fermator",
         code: "BS-ME0036",
         url: "/mechanical/door-springs-assorted",
-        image: "/img/products/mechanical/door-springs-assorted/1.jpg",
+        image: "/img/products/mechanical/door-springs-assorted/elevator-door-springs-assorted-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3816,7 +3815,7 @@ export const products = [
         description: "Buffer OH-J11",
         code: "BS-ME0037",
         url: "/mechanical/buffer-oh-j11",
-        image: "/img/products/mechanical/buffer-oh-j11/1.jpg",
+        image: "/img/products/mechanical/buffer-oh-j11/elevator-buffer-oh-j11-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3828,7 +3827,7 @@ export const products = [
         description: "Buffer OH-J21",
         code: "BS-ME0038",
         url: "/mechanical/buffer-oh-j21",
-        image: "/img/products/mechanical/buffer-oh-j21/1.jpg",
+        image: "/img/products/mechanical/buffer-oh-j21/elevator-buffer-oh-j21-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3840,7 +3839,7 @@ export const products = [
         description: "Buffer OH-80",
         code: "BS-ME0039",
         url: "/mechanical/buffer-oh-80",
-        image: "/img/products/mechanical/buffer-oh-80/1.jpg",
+        image: "/img/products/mechanical/buffer-oh-80/elevator-buffer-oh-80-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3852,8 +3851,8 @@ export const products = [
         description: "Buffer OH-175E",
         code: "BS-ME0040",
         url: "/mechanical/buffer-oh-175e",
-        image: "/img/products/mechanical/buffer-oh-175e/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/mechanical/buffer-oh-175e/elevator-buffer-oh-175e-1.jpg",
+        slider: ["elevator-buffer-oh-175e-1", "elevator-buffer-oh-175e-2"],
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3865,8 +3864,8 @@ export const products = [
         description: "Buffer OH-210H",
         code: "BS-ME0041",
         url: "/mechanical/buffer-oh-210h",
-        image: "/img/products/mechanical/buffer-oh-210h/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/mechanical/buffer-oh-210h/elevator-buffer-oh-210h-1.jpg",
+        slider: ["elevator-buffer-oh-210h-1", "elevator-buffer-oh-210h-2"],
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3878,7 +3877,7 @@ export const products = [
         description: "Kone 800MM 1.55M",
         code: "BS-ME0042",
         url: "/mechanical/door-sill-800mm-1-55m-k",
-        image: "/img/products/mechanical/door-sill-800mm-1-55m-k/1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-55m-k/elevator-door-sill-800mm-1-55m-k-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3890,7 +3889,7 @@ export const products = [
         description: "Kone 900MM 1.75M",
         code: "BS-ME0043",
         url: "/mechanical/door-sill-900mm-1-75m-k",
-        image: "/img/products/mechanical/door-sill-900mm-1-75m-k/1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-75m-k/elevator-door-sill-900mm-1-75m-k-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3902,7 +3901,7 @@ export const products = [
         description: "Kone 1100MM 2.15M",
         code: "BS-ME0044",
         url: "/mechanical/door-sill-1100mm-2-15m-k",
-        image: "/img/products/mechanical/door-sill-1100mm-2-15m-k/1.jpg",
+        image: "/img/products/mechanical/door-sill-1100mm-2-15m-k/elevator-door-sill-1100mm-2-15m-k-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3914,7 +3913,7 @@ export const products = [
         description: "Sigma 800MM 1.56M",
         code: "BS-ME0045",
         url: "/mechanical/door-sill-800mm-1-56m-si",
-        image: "/img/products/mechanical/door-sill-800mm-1-56m-si/1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-56m-si/elevator-door-sill-800mm-1-56m-si-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3926,7 +3925,7 @@ export const products = [
         description: "Sigma 900MM 1.76M",
         code: "BS-ME0046",
         url: "/mechanical/door-sill-900mm-1-76m-si",
-        image: "/img/products/mechanical/door-sill-900mm-1-76m-si/1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-76m-si/elevator-door-sill-900mm-1-76m-si-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3938,7 +3937,7 @@ export const products = [
         description: "Sigma 1000MM 1.96M",
         code: "BS-ME0047",
         url: "/mechanical/door-sill-1000mm-1-96m-si",
-        image: "/img/products/mechanical/door-sill-1000mm-1-96m-si/1.jpg",
+        image: "/img/products/mechanical/door-sill-1000mm-1-96m-si/elevator-door-sill-1000mm-1-96m-si-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3950,7 +3949,7 @@ export const products = [
         description: "Otis 800MM 1.64M",
         code: "BS-ME0048",
         url: "/mechanical/door-sill-800mm-1-64m-o",
-        image: "/img/products/mechanical/door-sill-800mm-1-64m-o/1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-64m-o/elevator-door-sill-800mm-1-64m-o-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3962,7 +3961,7 @@ export const products = [
         description: "Otis 900MM 1.84M",
         code: "BS-ME0049",
         url: "/mechanical/door-sill-900mm-1-84m-o",
-        image: "/img/products/mechanical/door-sill-900mm-1-84m-o/1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-84m-o/elevator-door-sill-900mm-1-84m-o-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3974,7 +3973,7 @@ export const products = [
         description: "Otis 1000MM 2.04M",
         code: "BS-ME0050",
         url: "/mechanical/door-sill-1000mm-2-04m-o",
-        image: "/img/products/mechanical/door-sill-1000mm-2-04m-o/1.jpg",
+        image: "/img/products/mechanical/door-sill-1000mm-2-04m-o/elevator-door-sill-1000mm-2-04m-o-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3986,7 +3985,7 @@ export const products = [
         description: "Mitsubishi 800MM 1.6M",
         code: "BS-ME0051",
         url: "/mechanical/door-sill-800mm-1-6m-m",
-        image: "/img/products/mechanical/door-sill-800mm-1-6m-m/1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-6m-m/elevator-door-sill-800mm-1-6m-m-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3998,7 +3997,7 @@ export const products = [
         description: "Mitsubishi 900MM 1.8M",
         code: "BS-ME0052",
         url: "/mechanical/door-sill-900mm-1-8m-m",
-        image: "/img/products/mechanical/door-sill-900mm-1-8m-m/1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-8m-m/elevator-door-sill-900mm-1-8m-m-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4010,7 +4009,7 @@ export const products = [
         description: "Mitsubishi 1000MM 2.0M",
         code: "BS-ME0053",
         url: "/mechanical/door-sill-1000mm-2-0m-m",
-        image: "/img/products/mechanical/door-sill-1000mm-2-0m-m/1.jpg",
+        image: "/img/products/mechanical/door-sill-1000mm-2-0m-m/elevator-door-sill-1000mm-2-0m-m-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4022,7 +4021,7 @@ export const products = [
         description: "fermator models 800MM 1.665M",
         code: "BS-ME0054",
         url: "/mechanical/door-sill-800mm-1-665m-f",
-        image: "/img/products/mechanical/door-sill-800mm-1-665m-f/1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-665m-f/elevator-door-sill-800mm-1-665m-f-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4034,7 +4033,7 @@ export const products = [
         description: "fermator models 900MM 1.865M",
         code: "BS-ME0055",
         url: "/mechanical/door-sill-900mm-1-865m-f",
-        image: "/img/products/mechanical/door-sill-900mm-1-865m-f/1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-865m-f/elevator-door-sill-900mm-1-865m-f-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4046,7 +4045,7 @@ export const products = [
         description: "fermator models 1000MM 2.065M",
         code: "BS-ME0056",
         url: "/mechanical/door-sill-1000mm-2-065m-f",
-        image: "/img/products/mechanical/door-sill-1000mm-2-065m-f/1.jpg",
+        image: "/img/products/mechanical/door-sill-1000mm-2-065m-f/elevator-door-sill-1000mm-2-065m-f-1.jpg",
         meta_title: "",
         meta_description: "",
         keywords: "",
