@@ -6704,8 +6704,8 @@ export const products = [
         description: "NICE-D-A-SP04",
         code: "BS-DD0001",
         url: "/door-drives-and-motors/door-drive-bs-dd0001",
-        image: "/img/products/door-drives/door-drive-bs-dd0001/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/door-drives/door-drive-bs-dd0001/elevator-door-drive-bs-dd0001-1.jpg",
+        slider: ["elevator-door-drive-bs-dd0001-1", "elevator-door-drive-bs-dd0001-2", "elevator-door-drive-bs-dd0001-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0001",
         robots:
@@ -6716,8 +6716,8 @@ export const products = [
         description: "AAD03011DK",
         code: "BS-DD0002",
         url: "/door-drives-and-motors/door-drive-bs-dd0002",
-        image: "/img/products/door-drives/door-drive-bs-dd0002/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-drives/door-drive-bs-dd0002/elevator-door-drive-bs-dd0002-1.jpg",
+        slider: ["elevator-door-drive-bs-dd0002-1", "elevator-door-drive-bs-dd0002-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
         robots:
@@ -6739,8 +6739,8 @@ export const products = [
         description: "DC Door Drives and Motors - DR2009C",
         code: "BS-DD0004",
         url: "/door-drives-and-motors/dc-door-drive-dr2009c-200w",
-        image: "/img/products/door-drives/dc-door-drive-dr2009c-200w/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-drives/dc-door-drive-dr2009c-200w/elevator-dc-door-drive-dr2009c-200w-1.jpg",
+        slider: ["elevator-dc-door-drive-dr2009c-200w-1", "elevator-dc-door-drive-dr2009c-200w-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-dr2009c-200w",
         robots:
@@ -6752,8 +6752,8 @@ export const products = [
         code: "BS-DD0005",
         url: "/door-drives-and-motors/door-motor-with-encoder-pm61842",
         image:
-          "/img/products/door-drives/door-motor-with-encoder-pm61842/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/door-drives/door-motor-with-encoder-pm61842/elevator-door-motor-with-encoder-pm61842-1.jpg",
+        slider: ["elevator-door-motor-with-encoder-pm61842-1", "elevator-door-motor-with-encoder-pm61842-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
         robots:
@@ -6764,8 +6764,8 @@ export const products = [
         description: "Arkel: KM-10S",
         code: "BS-DD0006",
         url: "/door-drives-and-motors/km-10s-door-controller-box",
-        image: "/img/products/door-drives/km-10s-door-controller-box/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-drives/km-10s-door-controller-box/elevator-km-10s-door-controller-box-1.jpg",
+        slider: ["elevator-km-10s-door-controller-box-1", "elevator-km-10s-door-controller-box-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/km-10s-door-controller-box",
         robots:
@@ -6776,7 +6776,7 @@ export const products = [
         description: "Fermator: V5+",
         code: "BS-DD0007",
         url: "/door-drives-and-motors/elevator-door-controller-v5",
-        image: "/img/products/door-drives/elevator-door-controller-v5/1.jpg",
+        image: "/img/products/door-drives/elevator-door-controller-v5/elevator-door-controller-v5-1.jpg",
 
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-v5",
@@ -6789,8 +6789,8 @@ export const products = [
         code: "BS-DD0008",
         url: "/door-drives-and-motors/elevator-door-controller-do3000s",
         image:
-          "/img/products/door-drives/elevator-door-controller-do3000s/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/door-drives/elevator-door-controller-do3000s/elevator-door-controller-do3000s-1.jpg",
+        slider: ["elevator-door-controller-do3000s-1", "elevator-door-controller-do3000s-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-do3000s",
         robots:
@@ -6801,8 +6801,8 @@ export const products = [
         description: "NBSL NSFC01-02",
         code: "BS-DD0009",
         url: "/door-drives-and-motors/door-drive-nsfc01-02",
-        image: "/img/products/door-drives/door-drive-nsfc01-02/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-drives/door-drive-nsfc01-02/elevator-door-drive-nsfc01-02-1.jpg",
+        slider: ["elevator-door-drive-nsfc01-02-1", "elevator-door-drive-nsfc01-02-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-nsfc01-02",
         robots:
@@ -6813,8 +6813,8 @@ export const products = [
         description: "Elevator Door Motor YVP90-6",
         code: "BS-DD0010",
         url: "/door-drives-and-motors/elevator-door-motor-yvp90-6",
-        image: "/img/products/door-drives/elevator-door-motor-yvp90-6/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-drives/elevator-door-motor-yvp90-6/elevator-door-motor-yvp90-6-1.jpg",
+        slider: ["elevator-door-motor-yvp90-6-1", "elevator-door-motor-yvp90-6-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6",
         robots:
@@ -6825,8 +6825,8 @@ export const products = [
         description: "Elevator Door Motor YVP90-6B1",
         code: "BS-DD0011",
         url: "/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
-        image: "/img/products/door-drives/elevator-door-motor-yvp90-6b1/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/door-drives/elevator-door-motor-yvp90-6b1/elevator-door-motor-yvp90-6b1-1.jpg",
+        slider: ["elevator-door-motor-yvp90-6b1-1", "elevator-door-motor-yvp90-6b1-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
         robots:
@@ -6838,8 +6838,8 @@ export const products = [
         code: "BS-DD0012",
         url: "/door-drives-and-motors/door-motor-gr63x55-24vdc-dunkermotoren",
         image:
-          "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/1.jpeg",
-        slider: ["1", "2"],
+          "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/elevator-door-motor-gr63x55-24vdc-dunkermotoren-1.jpg",
+        slider: ["elevator-door-motor-gr63x55-24vdc-dunkermotoren-1", "elevator-door-motor-gr63x55-24vdc-dunkermotoren-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
         robots:
@@ -7731,7 +7731,7 @@ export const products = [
         description: "",
         code: "BS-TL0001",
         url: "/tool-kits/k-tool-kit",
-        image: "/img/products/tool-kits/k-tool-kit/1.jpg",
+        image: "/img/products/tool-kits/k-tool-kit/elevator-k-tool-kit-1.jpg",
         canonical: "https://www.bestechparts.ae/products/tool-kits/k-tool-kit",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7741,7 +7741,7 @@ export const products = [
         description: "",
         code: "BS-TL0002",
         url: "/tool-kits/o-tool-kit",
-        image: "/img/products/tool-kits/o-tool-kit/1.jpg",
+        image: "/img/products/tool-kits/o-tool-kit/elevator-o-tool-kit-1.jpg",
         canonical: "https://www.bestechparts.ae/products/tool-kits/o-tool-kit",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7751,8 +7751,8 @@ export const products = [
         description: "",
         code: "BS-TL0003",
         url: "/tool-kits/tool-kit-keypad",
-        image: "/img/products/tool-kits/tool-kit-keypad/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/tool-kits/tool-kit-keypad/elevator-tool-kit-keypad-1.jpg",
+        slider: ["elevator-tool-kit-keypad-1", "elevator-tool-kit-keypad-2"],
         canonical:
           "https://www.bestechparts.ae/products/tool-kits/tool-kit-keypad",
         robots:
@@ -7763,8 +7763,8 @@ export const products = [
         description: "Sigma DOA-100+ ",
         code: "BS-TL0004",
         url: "/tool-kits/doa-100-tool-kit",
-        image: "/img/products/tool-kits/doa-100-tool-kit/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/tool-kits/doa-100-tool-kit/elevator-doa-100-tool-kit-1.jpg",
+        slider: ["elevator-doa-100-tool-kit-1", "elevator-doa-100-tool-kit-2"],
         canonical:
           "https://www.bestechparts.ae/products/tool-kits/doa-100-tool-kit",
         robots:
@@ -7791,8 +7791,8 @@ export const products = [
         description: "",
         code: "BS-KY0001",
         url: "/keys/door-open-key",
-        image: "/img/products/keys/door-open-key/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/keys/door-open-key/elevator-door-open-key-1.jpg",
+        slider: ["elevator-door-open-key-1", "elevator-door-open-key-2"],
         canonical: "https://www.bestechparts.ae/products/keys/door-open-key",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7802,7 +7802,7 @@ export const products = [
         description: "Type: 102",
         code: "BS-KY0002",
         url: "/keys/s-key-type-102",
-        image: "/img/products/keys/s-key-type-102/1.jpg",
+        image: "/img/products/keys/s-key-type-102/elevator-s-key-type-102-1.jpg",
         canonical: "https://www.bestechparts.ae/products/keys/s-key-type-102",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7812,7 +7812,7 @@ export const products = [
         description: "Type: TA6461",
         code: "BS-KY0003",
         url: "/keys/key-type-ta6461",
-        image: "/img/products/keys/key-type-ta6461/1.jpg",
+        image: "/img/products/keys/key-type-ta6461/elevator-key-type-ta6461-1.jpg",
         canonical: "https://www.bestechparts.ae/products/keys/key-type-ta6461",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7822,7 +7822,7 @@ export const products = [
         description: "",
         code: "BS-KY0004",
         url: "/keys/k-key",
-        image: "/img/products/keys/k-key/1.jpg",
+        image: "/img/products/keys/k-key/elevator-k-key-1.jpg",
         canonical: "https://www.bestechparts.ae/products/keys/k-key",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7832,7 +7832,7 @@ export const products = [
         description: "",
         code: "BS-KY0005",
         url: "/keys/h-key",
-        image: "/img/products/keys/h-key/1.jpg",
+        image: "/img/products/keys/h-key/elevator-h-key-1.jpg",
         canonical: "https://www.bestechparts.ae/products/keys/h-key",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7842,7 +7842,7 @@ export const products = [
         description: "Kone Control cabinet key",
         code: "BS-KY0006",
         url: "/keys/sj-black-control-cabinet-key",
-        image: "/img/products/keys/sj-black-control-cabinet-key/1.jpg",
+        image: "/img/products/keys/sj-black-control-cabinet-key/elevator-sj-black-control-cabinet-key-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/keys/sj-black-control-cabinet-key",
         robots:
@@ -7853,7 +7853,7 @@ export const products = [
         description: "Kone COP Key",
         code: "BS-KY0007",
         url: "/keys/type-a-key",
-        image: "/img/products/keys/type-a-key/1.jpg",
+        image: "/img/products/keys/type-a-key/elevator-type-a-key-1.jpg",
         canonical: "https://www.bestechparts.ae/products/type-a-key",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7863,7 +7863,7 @@ export const products = [
         description: "Yellow handle key",
         code: "BS-KY0008",
         url: "/keys/mitsubishi-door-open-key",
-        image: "/img/products/keys/mitsubishi-door-open-key/1.jpg",
+        image: "/img/products/keys/mitsubishi-door-open-key/elevator-mitsubishi-door-open-key-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/keys/mitsubishi-door-open-key",
         robots:
@@ -7874,7 +7874,7 @@ export const products = [
         description: "Door Key 1000mm K",
         code: "BS-KY0009",
         url: "/keys/door-key-1000mm-k",
-        image: "/img/products/keys/door-key-1000mm-k/1.jpg",
+        image: "/img/products/keys/door-key-1000mm-k/elevator-door-key-1000mm-k-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/keys/door-key-1000mm-k",
         robots:

@@ -3002,7 +3002,7 @@
         "description": "CHINT: 500VA",
         "code": "BS-EL0012",
         "url": "/electrical/chint-transformer-500va",
-        "image": "/img/products/electrical/chint-transformer-500va/-chint-transformer-500velevatora-1.jpg",
+        "image": "/img/products/electrical/chint-transformer-500va/elevator-chint-transformer-500va-1.jpg",
         "alttext": "CHINT Transformer Elevator Spare Parts",
         "slider": [
           "elevator-chint-transformer-500va-1",
@@ -8961,12 +8961,12 @@
         "description": "NICE-D-A-SP04",
         "code": "BS-DD0001",
         "url": "/door-drives-and-motors/door-drive-bs-dd0001",
-        "image": "/img/products/door-drives/door-drive-bs-dd0001/door-drive-bs-dd0001-1.jpg",
+        "image": "/img/products/door-drives/door-drive-bs-dd0001/elevator-door-drive-bs-dd0001-1.jpg",
         "alttext": "Door Drives and Motors: NICE-D-A-SOP4 Elevator Spare Parts",
         "slider": [
-          "door-drive-bs-dd0001-1",
-          "door-drive-bs-dd0001-2",
-          "door-drive-bs-dd0001-3"
+          "elevator-door-drive-bs-dd0001-1",
+          "elevator-door-drive-bs-dd0001-2",
+          "elevator-door-drive-bs-dd0001-3"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0001",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8988,11 +8988,11 @@
         "description": "AAD03011DK",
         "code": "BS-DD0002",
         "url": "/door-drives-and-motors/door-drive-bs-dd0002",
-        "image": "/img/products/door-drives/door-drive-bs-dd0002/door-drive-bs-dd0002-1.jpg",
+        "image": "/img/products/door-drives/door-drive-bs-dd0002/elevator-door-drive-bs-dd0002-1.jpg",
         "alttext": "Door Drives and Motors: AAD03011DK Elevator Spare Parts",
         "slider": [
-          "door-drive-bs-dd0002-1",
-          "door-drive-bs-dd0002-2"
+          "elevator-door-drive-bs-dd0002-1",
+          "elevator-door-drive-bs-dd0002-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -9014,49 +9014,85 @@
         "image": "/img/product-default-img.jpg",
         "alttext": "DC Door Drives and Motors: 24V Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-24v",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Automatic Door Drive 24V | Lift Motor",
+        "meta_description": "Buy the 24V DC elevator door drive, designed for automatic lift operator systems to ensure smooth and controlled entrance door movement.",
+        "keywords": "elevator DC door drive 24V, lift door drive motor, elevator automatic door drive",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator DC door drive 24V is a door operating component used in lift systems for automatic door opening and closing applications. This type of lift door drive motor is commonly installed in elevator door operator assemblies where controlled door movement is required. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> DC Door Drives and Motors: 24V</li><li><strong>Product code:</strong> BS-DD0003</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Description Reference:</strong> HAS DC Door Drives and Motors: 24V</li><li><strong>Product Type:</strong> Elevator automatic door drive</li><li><strong>Operating Voltage:</strong> 24V DC</li><li><strong>Application:</strong> Lift automatic door opening and closing systems</li></li></ul>"
+        ]
       },
       {
         "name": "DC Door Drives and Motors - DR2009C 200W",
         "description": "DC Door Drives and Motors - DR2009C",
         "code": "BS-DD0004",
         "url": "/door-drives-and-motors/dc-door-drive-dr2009c-200w",
-        "image": "/img/products/door-drives/dc-door-drive-dr2009c-200w/dc-door-drive-dr2009c-200w-1.jpg",
+        "image": "/img/products/door-drives/dc-door-drive-dr2009c-200w/elevator-dc-door-drive-dr2009c-200w-1.jpg",
         "alttext": "DC Door Drives and Motors - DR2009C 200W Elevator Spare Parts",
         "slider": [
-          "dc-door-drive-dr2009c-200w-1",
-          "dc-door-drive-dr2009c-200w-2"
+          "elevator-dc-door-drive-dr2009c-200w-1",
+          "elevator-dc-door-drive-dr2009c-200w-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-dr2009c-200w",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Drive DR2009C | Lift Motor System",
+        "meta_description": "Order this complete elevator door drive DR2009C controller casing to replace fried electronics chips and quickly clear broken entrance errors on your lift.",
+        "keywords": "elevator door drive DR2009C 200W, lift DC door motor, elevator door operator drive",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator door drive DR2009C 200W is a door operator component used in lift systems for automated door movement applications. It is commonly installed in elevator entrance systems and door operator assemblies. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> DC Door Drives and Motors: 24V</li><li><strong>Product code:</strong> BS-DD0004</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Product Type:</strong> Elevator door operator drive</li><li><strong>Model:</strong> ElevDR2009C</li><li><strong>Power Rating:</strong> 200W</li></ul>"
+        ]
       },
       {
         "name": "Door Motor with Encoder PM61842",
         "description": "PM61842 43W",
         "code": "BS-DD0005",
         "url": "/door-drives-and-motors/door-motor-with-encoder-pm61842",
-        "image": "/img/products/door-drives/door-motor-with-encoder-pm61842/door-motor-with-encoder-pm61842-1.jpg",
+        "image": "/img/products/door-drives/door-motor-with-encoder-pm61842/elevator-door-motor-with-encoder-pm61842-1.jpg",
         "alttext": "Door Motor with Encoder PM61842 Elevator Spare Parts",
         "slider": [
-          "door-motor-with-encoder-pm61842-1",
-          "door-motor-with-encoder-pm61842-2"
+          "elevator-door-motor-with-encoder-pm61842-1",
+          "elevator-door-motor-with-encoder-pm61842-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-motor-with-encoder-pm61842",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Motor with Encoder | Lift Operator ",
+        "meta_description": "Replace burnt-out copper windings or broken sensor caps immediately by ordering this replacement 43W Lift encoder door motor component for your lift.",
+        "keywords": "elevator door motor with encoder, lift encoder door motor, PM61842 elevator motor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The PM61842 elevator motor is a compact door control motor used in lift systems to operate automatic elevator doors. Featuring a 43W power output design, this genuine spare part runs efficiently under continuous cycle loads. The integrated encoder helps support door positioning and movement monitoring during opening and closing cycles to help maintain smooth operational cycles.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Motor with Encoder PM61842</li><li><strong>Product code:</strong> BS-DD0005</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Product Type:</strong> Lift encoder door motor</li><li><strong>Model:</strong> PM61842 43W</li><li><strong>Feature:</strong> Integrated encoder support</li></ul>"
+        ]
       },
       {
         "name": "KM 10S Door Controller (Box)",
         "description": "Arkel: KM-10S",
         "code": "BS-DD0006",
         "url": "/door-drives-and-motors/km-10s-door-controller-box",
-        "image": "/img/products/door-drives/km-10s-door-controller-box/km-10s-door-controller-box-1.jpg",
+        "image": "/img/products/door-drives/km-10s-door-controller-box/elevator-km-10s-door-controller-box-1.jpg",
         "alttext": "KM 10S Door Controller (Box) Elevator Spare Parts",
         "slider": [
-          "km-10s-door-controller-box-1",
-          "km-10s-door-controller-box-2"
+          "elevator-km-10s-door-controller-box-1",
+          "elevator-km-10s-door-controller-box-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/km-10s-door-controller-box",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Controller Box | KM-10S Lift Unit",
+        "meta_description": "Swap out glitchy operator cards by installing this genuine elevator door controller board featuring a built-in LCD screen to clear fault codes on your lift.",
+        "keywords": "elevator door controller box KM-10S, lift door control unit, elevator door controller",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The lift door control unit KM-10S is an electrical controller used in elevator automatic door systems for door movement management applications. It is commonly installed in lift entrance door mechanisms and operator control setups.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> KM 10S Door Controller (Box)</li><li><strong>Product code:</strong> BS-DD0006</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Product Type:</strong> Elevator door controller</li><li><strong>Model:</strong> KM-10S</li><li><strong>Configuration:</strong> Door controller box</li></ul>"
+        ]
       },
       {
         "name": "Elevator Door Controller V5+",
@@ -9066,7 +9102,16 @@
         "image": "/img/products/door-drives/elevator-door-controller-v5/elevator-door-controller-v5-1.jpg",
         "alttext": "Elevator Door Controller V5+ Elevator Spare Parts",
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-v5",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Controller V5 for Lift Systems UAE",
+        "meta_description": "Get this variable-frequency elevator door controller unit online to replace old boards and protect automated door mechanisms on your lift.",
+        "keywords": "elevator door controller V5, lift door control board, elevator automatic door controller",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator door controller V5+ is a door control module used in lift systems for automatic entrance door operation applications. It is commonly installed in elevator door operator assemblies and door automation systems. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Door Controller V5+</li><li><strong>Product code:</strong> BS-DD0007</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Product Type:</strong> Elevator automatic door controller</li><li><strong>Model:</strong> V5+</li><li><strong>Configuration:</strong> Door control board</li></ul>"
+        ]
       },
       {
         "name": "Elevator Door Controller DO3000S",
@@ -9080,21 +9125,39 @@
           "elevator-door-controller-do3000s-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-do3000s",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Door Operator Controller | DO3000S Module",
+        "meta_description": "Deliver a smooth entryway ride with low mechanical shock by managing permanent magnet synchronous motor speeds using this Lift Door Operator Controller on your lift.",
+        "keywords": "elevator door controller DO3000S, lift door operator controller, elevator control module",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator control module DO3000S is used in lift systems to manage automatic door opening and closing functions. This controller is commonly connected with elevator door operator assemblies and related door drive components. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Door Controller DO3000S</li><li><strong>Product code:</strong> BS-DD0008</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Brand Compatibility:</strong> OTIS</li><li><strong>Model:</strong> DO3000S</li></ul>"
+        ]
       },
       {
         "name": "Door Drives and Motors NSFC01-02",
         "description": "NBSL NSFC01-02",
         "code": "BS-DD0009",
         "url": "/door-drives-and-motors/door-drive-nsfc01-02",
-        "image": "/img/products/door-drives/door-drive-nsfc01-02/door-drive-nsfc01-02-1.jpg",
+        "image": "/img/products/door-drives/door-drive-nsfc01-02/elevator-door-drive-nsfc01-02-1.jpg",
         "alttext": "Door Drives and Motors NSFC01-02 Elevator Spare Parts",
         "slider": [
-          "door-drive-nsfc01-02-1",
-          "door-drive-nsfc01-02-2"
+          "elevator-door-drive-nsfc01-02-1",
+          "elevator-door-drive-nsfc01-02-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-nsfc01-02",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Motor System NSFC01-02 | Lift Spare",
+        "meta_description": "Control the opening and closing speeds of automatic entrance panels by running this frequency-conversion lift door operator drive module on your moving lift.",
+        "keywords": "elevator door drive NSFC01-02, lift door operator drive, elevator door motor system",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator door motor system NSFC01-02 is used in lift systems to support automatic entrance door movement and door operator functions. It is commonly connected with elevator automatic door assemblies. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Drives and Motors NSFC01-02</li><li><strong>Product code:</strong> BS-DD0009</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Product Type:</strong> Lift door operator drive</li><li><strong>Model:</strong> NSFC01-02</li></ul>"
+        ]
       },
       {
         "name": "Elevator Door Motor YVP90-6",
@@ -9108,7 +9171,16 @@
           "elevator-door-motor-yvp90-6-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator AC Door Motor YVP90-6 | Spare Parts",
+        "meta_description": "Buy the YVP90-6 elevator door operator motor. Dependable replacement parts for automatic lift door operators and entrance drives.",
+        "keywords": "elevator door motor YVP90-6, lift door operator motor, elevator AC door motor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The YVP90-6 is an automatic elevator AC door motor designed for lift door operator assemblies. It functions as the primary drive component responsible for the controlled opening and closing movement of elevator entrance doors.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Door Motor</li><li><strong>Product code:</strong> BS-DD0010</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Product Type:</strong> Elevator AC door motor</li><li><strong>Model:</strong> YVP90-6</li></ul>"
+        ]
       },
       {
         "name": "Elevator Door Motor YVP90-6B1",
@@ -9122,21 +9194,39 @@
           "elevator-door-motor-yvp90-6b1-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Door Motor YVP90-6B1 for Lift Systems ",
+        "meta_description": "Looking for a elevator door motor? Replace worn drives with this dependable actuator designed to ensure reliable automatic opening and closing cycles.",
+        "keywords": "elevator door motor YVP90-6B1, lift automatic door motor, elevator drive motor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Engineered for modern lift infrastructure, the elevator door motor YVP90-6B1 is a dedicated drive solution for automatic elevator door systems. This component integrates directly into the car header assembly to automate door panel operations.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Elevator Door Motor YVP90-6B1</li><li><strong>Product code:</strong> BS-DD0011</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Model:</strong> YVP90-6B1</li><li><strong>Application:</strong> Lift automatic door opening and closing systems</li></ul>"
+        ]
       },
       {
         "name": "Door Motor GR63X55 24VDC Dunkermotoren",
         "description": "Door Motor GR63X55 24VDC Dunkermotoren",
         "code": "BS-DD0012",
         "url": "/door-drives-and-motors/door-motor-gr63x55-24vdc-dunkermotoren",
-        "image": "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/door-motor-gr63x55-24vdc-dunkermotoren-1.jpg",
+        "image": "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/elevator-door-motor-gr63x55-24vdc-dunkermotoren-1.jpg",
         "alttext": "Door Motor GR63X55 24VDC Dunkermotoren Elevator Spare Parts",
         "slider": [
-          "door-motor-gr63x55-24vdc-dunkermotoren-1",
-          "door-motor-gr63x55-24vdc-dunkermotoren-2"
+          "elevator-door-motor-gr63x55-24vdc-dunkermotoren-1",
+          "elevator-door-motor-gr63x55-24vdc-dunkermotoren-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/door-motor-gr63x55-24vdc-dunkermotoren",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+         "meta_title": "Lift DC Door Operator Motor | Dunkermotoren",
+        "meta_description": "Control elevator door-panel movements with the Dunkermotoren door motor GR63X55 24VDC. Engineered for automatic sliding entrances and lift door assemblies.",
+        "keywords": "Dunkermotoren door motor GR63x55 24VDC, elevator door motor, lift DC door operator motor",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Dunkermotoren door motor GR63X55 24VDC is a drive unit designed for automated entryways and modern lift door operator mechanisms. This industrial actuator translates control card signals into fluid, smooth door-panel movements, preventing sudden impacts or system wear.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Motor GR63X55 24VDC Dunkermotoren</li><li><strong>Product code:</strong> BS-DD0012</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Product Type:</strong> Lift DC door operator motor</li><li><strong>Model:</strong> GR63X55</li><li><strong>Brand Reference:</strong> Dunkermotoren</li></ul>"
+        ]
       }
     ]
   },
@@ -10474,48 +10564,84 @@
         "description": "",
         "code": "BS-TL0001",
         "url": "/tool-kits/k-tool-kit",
-        "image": "/img/products/tool-kits/k-tool-kit/k-tool-kit-1.jpg",
-        "alttext": "Elevator K-Tool kit",
+        "image": "/img/products/tool-kits/k-tool-kit/elevator-k-tool-kit-1.jpg",
+        "alttext": "Elevator K-Tool kit elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/tool-kits/k-tool-kit",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Maintenance Tool Kit for Elevator | K Tool",
+        "meta_description": "Unlock motherboard diagnostic menus and clear hidden fault logs by running this electronic elevator K tool kit server module on your moving lift.",
+        "keywords": "elevator K tool kit, lift maintenance tool kit, elevator service tools",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator K tool kit is a specialized digital interface used by technicians to communicate with and unlock the mainboards of KONE and Giant KONE lift systems. It is an essential component of a modern, electronic lift maintenance tool kit.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong>  K-Tool Kit (KONE-Compatible Mainboard Decoder)</li><li><strong>Product code:</strong> BS-TL0001</li><li><strong>Type:</strong> Lift maintenance tool kit</li><li><strong>Category:</strong> Tool Kits</li><li><strong>Application:</strong> Lift inspection, repair and adjustment work</li></ul>"
+        ]
       },
       {
         "name": "O-Tool kit",
         "description": "",
         "code": "BS-TL0002",
         "url": "/tool-kits/o-tool-kit",
-        "image": "/img/products/tool-kits/o-tool-kit/o-tool-kit-1.jpg",
-        "alttext": "Elevator O-Tool kit",
+        "image": "/img/products/tool-kits/o-tool-kit/elevator-o-tool-kit-1.jpg",
+        "alttext": "Elevator O-Tool kit elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/tool-kits/o-tool-kit",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Repair Tool Kit | Elevator Maintenance Tools",
+        "meta_description": "Buy this specialised O-Tool Kit online to adjust door operator parameters and reprogram control mainboards on your lift systems.",
+        "keywords": "elevator O tool kit, lift repair tool kit, elevator maintenance equipment",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>This handheld terminal is a system debugger designed to interface with dedicated elevator control units. The module facilitates communication between field technicians and lift mainboards to perform diagnostic checking routines, clear system error logs and manage functional parameters.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> O-Tool Kit</li><li><strong>Product code:</strong> BS-TL0002</li><li><strong>Product Type:</strong> Lift repair tool kit</li><li><strong>Category:</strong> Tool Kits</li><li><strong>Use:</strong> Elevator servicing and maintenance support</li></ul>"
+        ]
       },
       {
         "name": "Tool kit - Keypad",
         "description": "",
         "code": "BS-TL0003",
         "url": "/tool-kits/tool-kit-keypad",
-        "image": "/img/products/tool-kits/tool-kit-keypad/tool-kit-keypad-1.jpg",
-        "alttext": "Elevator Tool kit - Keypad",
+        "image": "/img/products/tool-kits/tool-kit-keypad/elevator-tool-kit-keypad-1.jpg",
+        "alttext": "Elevator Tool kit - Keypad elevator spare parts",
         "slider": [
-          "tool-kit-keypad-1",
-          "tool-kit-keypad-2"
+          "elevator-tool-kit-keypad-1",
+          "elevator-tool-kit-keypad-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/tool-kits/tool-kit-keypad",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Maintenance Keypad for Lift Systems UAE",
+        "meta_description": "Buy this handheld elevator maintenance keypad to access control board menus, modify functional parameters and clear diagnostic logs for your lift.",
+        "keywords": "elevator keypad tool kit, lift service keypad tool, elevator maintenance keypad",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>This handheld operator keyboard serves as a portable debugging terminal designed for professional elevator maintenance and diagnostics. The unit establishes direct communication with compatible elevator controller boards to check operational logs, view system variables and update settings.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Tool Kit - Keypad</li><li><strong>Product code:</strong> BS-TL0003</li><li><strong>Product Type:</strong> Elevator maintenance keypad</li><li><strong>Category:</strong> Tool Kits</li><li><strong>Use:</strong> Lift servicing and maintenance support</li></ul>"
+        ]
       },
       {
         "name": "DOA-100+ Tool Kit",
         "description": "Sigma DOA-100+ ",
         "code": "BS-TL0004",
         "url": "/tool-kits/doa-100-tool-kit",
-        "image": "/img/products/tool-kits/doa-100-tool-kit/doa-100-tool-kit-1.jpg",
-        "alttext": "Elevator DOA-100+ Tool Kit",
+        "image": "/img/products/tool-kits/doa-100-tool-kit/elevator-doa-100-tool-kit-1.jpg",
+        "alttext": "Elevator DOA-100+ Tool Kit elevator spare parts",
         "slider": [
-          "doa-100-tool-kit-1",
-          "doa-100-tool-kit-2"
+          "elevator-doa-100-tool-kit-1",
+          "elevator-doa-100-tool-kit-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/tool-kits/doa-100-tool-kit",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Sigma Elevator Diagnostic Test Tool | Lift Maintenance Tools",
+        "meta_description": "Easily find lift errors, fix settings and check elevator performance with this Sigma and LG-Otis compatible diagnostic tool board.",
+        "keywords": "DOA-100 tool kit, elevator troubleshooting tool kit, lift maintenance tools",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The DOA-100 tool kit is an electronic diagnostic board used by technicians to find system errors, adjust settings and check performance on Sigma and LG-Otis elevators. It is a core component of an electronic lift maintenance tool kit. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> DOA-100+ Tool Kit</li><li><strong>Product code:</strong> BS-TL0004</li><li><strong>Product Type:</strong> Elevator troubleshooting tool kit</li><li><strong>Category:</strong> Tool Kits</li><li><strong>Use:</strong> Lift servicing and maintenance support</li></ul>"
+        ]
       }
     ]
   },
@@ -10534,94 +10660,175 @@
         "description": "",
         "code": "BS-KY0001",
         "url": "/keys/door-open-key",
-        "image": "/img/products/keys/door-open-key/door-open-key-1.jpg",
-        "alttext": "Elevator Door open key",
+        "image": "/img/products/keys/door-open-key/elevator-door-open-key-1.jpg",
+        "alttext": "Elevator Door open key elevator spare parts",
         "slider": [
-          "door-open-key-1",
-          "door-open-key-2"
+          "elevator-door-open-key-1",
+          "elevator-door-open-key-2"
         ],
         "canonical": "https://www.bestechparts.ae/products/keys/door-open-key",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Maintenance Key | Lift Access Tool UAE",
+        "meta_description": "Manually release landing door interlocks and open outer hoistway doors during emergency rescues or routine inspections by using this elevator maintenance key on your lift.",
+        "keywords": "elevator door open key, lift emergency key, elevator maintenance key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator door open key is a service key used in lift systems for maintenance access and controlled landing door opening applications. It is commonly carried by elevator technicians during routine servicing work. This heavy-duty service key features a right-angle bent design with a hollow triangular socket head, allowing authorized personnel to unlock outer hoistway doors safely from the landing corridor during emergency rescues or routine inspections.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Open Key</li><li><strong>Product code:</strong> BS-KY0001</li><li><strong>Type:</strong> Lift emergency key</li><li><strong>Category:</strong> Keys</li><li><strong>Use:</strong> Elevator landing door access support</li></ul>"
+        ]
       },
       {
         "name": "S-Key: Type: 102",
         "description": "Type: 102",
         "code": "BS-KY0002",
         "url": "/keys/s-key-type-102",
-        "image": "/img/products/keys/s-key-type-102/s-key-type-102-1.jpg",
+        "image": "/img/products/keys/s-key-type-102/elevator-s-key-type-102-1.jpg",
         "alttext": "Elevator S-Key: Type: 102",
         "canonical": "https://www.bestechparts.ae/products/keys/s-key-type-102",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Control Cabinet Key for Elevator Systems | Type 102",
+        "meta_description": "Replace misplaced or bent master service box tools easily by attaching this standalone flat thumb-grip type 102 access key onto the keyring of your lift.",
+        "keywords": "elevator S key type 102, lift control cabinet key, elevator service key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator S-Key Type 102 is a specialised barrel-style service key built for lift control cabinet access. It is used by authorised elevator technicians to unlock machine room panels, hoistway controllers and emergency operating switchboards during scheduled maintenance or inspection work. The key features a precise notch-cut pattern on its round tip, making it a secure and reliable access tool for certified lift servicing professionals. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> S-Key</li><li><strong>Product code:</strong> BS-KY0002</li><li><strong>Product Type:</strong> Elevator service key</li><li><strong>Key Type:</strong> Type 102</li><li><strong>Category:</strong> Keys</li><li><strong>Use:</strong> Lift control cabinet access support</li></ul>"
+        ]
       },
       {
         "name": "Key: Type:TA6461",
         "description": "Type: TA6461",
         "code": "BS-KY0003",
         "url": "/keys/key-type-ta6461",
-        "image": "/img/products/keys/key-type-ta6461/key-type-ta6461-1.jpg",
-        "alttext": "Elevator Key: Type:TA6461",
+        "image": "/img/products/keys/key-type-ta6461/elevator-key-type-ta6461-1.jpg",
+        "alttext": "Elevator Key: Type:TA6461 elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/keys/key-type-ta6461",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Access Key TA6461 for Lift Systems | Bestech",
+        "meta_description": "Turn the side-notched cylindrical tip of this metal tool to open electronic machine room boxes and bypass restricted control shutters safely inside your lift.",
+        "keywords": "elevator key TA6461, lift maintenance key, elevator access key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator access key TA6461 is a coded barrel-style service key designed for lift maintenance and controlled access applications. It is a standard item carried by authorised elevator technicians across the UAE for troubleshooting, inspection and repair work. This key features a tubular barrel design with a precise notch-cut profile on its round shaft, allowing engineering teams to securely unlock restricted machine room panels, hoistway controllers and emergency service switchboards during scheduled servicing or urgent repairs.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Key - Type: TA6461</li><li><strong>Product code:</strong> BS-KY0003</li><li><strong>Product Type:</strong> Elevator access key</li><li><strong>Key Type:</strong> TA6461</li></ul>"
+        ]
       },
       {
         "name": "K-Key",
         "description": "",
         "code": "BS-KY0004",
         "url": "/keys/k-key",
-        "image": "/img/products/keys/k-key/k-key-1.jpg",
-        "alttext": "Elevator K-Key",
+        "image": "/img/products/keys/k-key/elevator-k-key-1.jpg",
+        "alttext": "Elevator K-Key elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/keys/k-key",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Service Key for Elevator Maintenance | Bestech",
+        "meta_description": "Disengage mechanical landing locks and slide outer corridor panels open by inserting this T-handle Lift Service Key into the door frame of your lift.",
+        "keywords": "elevator K key, lift service key, elevator control key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The K-Key is a manual elevator access tool designed to unlock landing doors during lift servicing and authorised maintenance procedures. This lift landing door unlocking tool features a T-handle design that allows technicians to grip and operate it securely during maintenance access tasks. It is a standard item carried by authorised lift service personnel for inspection, servicing and emergency maintenance support.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong>  K-Key</li><li><strong>Product code:</strong> BS-KY0004</li><li><strong>Product Type:</strong> Elevator control key</li><li><strong>Physical Build:</strong> Golden-zinc plated steel rod with an integrated top T-handle crossbar grip [K-Key Design]</li></ul>"
+        ]
       },
       {
         "name": "H-Key",
         "description": "",
         "code": "BS-KY0005",
         "url": "/keys/h-key",
-        "image": "/img/products/keys/h-key/h-key-1.jpg",
-        "alttext": "Elevator H-Key",
+        "image": "/img/products/keys/h-key/elevator-h-key-1.jpg",
+        "alttext": "Elevator H-Key elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/keys/h-key",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Elevator Maintenance Tool Key for Lift Access",
+        "meta_description": "Gain secure manual corridor access for authorized technicians during servicing tasks by using this steel elevator H key on your lift.",
+        "keywords": "elevator H key, lift access key, elevator maintenance tool key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator H key is a manual hand tool used to unlock elevator landing doors from the corridor side during servicing or emergency rescues. The tool consists of a straight steel rod with a top cross-handle grip. When inserted into the designated release hole in the door frame, it physically pushes the internal mechanical lock to let the outer doors slide open safely. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> H-Key</li><li><strong>Product code:</strong> BS-KY0005</li><li><strong>Product Type:</strong>  Lift access key</li><li><strong>Physical Build:</strong> Zinc-plated steel rod with an integrated top crossbar grip</li></ul>"
+        ]
       },
       {
         "name": "SJ Black Control Cabinet key",
         "description": "Kone Control cabinet key",
         "code": "BS-KY0006",
         "url": "/keys/sj-black-control-cabinet-key",
-        "image": "/img/products/keys/sj-black-control-cabinet-key/sj-black-control-cabinet-key-1.jpg",
-        "alttext": "Elevator SJ Black Control Cabinet key",
+        "image": "/img/products/keys/sj-black-control-cabinet-key/elevator-sj-black-control-cabinet-key-1.jpg",
+        "alttext": "Elevator SJ Black Control Cabinet key elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/keys/sj-black-control-cabinet-key",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Buy Elevator Control Cabinet Key | SJ Black Spares",
+        "meta_description": "Get this elevator control cabinet key to safely open hidden control panels, circuit boards and emergency switch boxes on your lift.",
+        "keywords": "elevator control cabinet key, lift cabinet access key, SJ black key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The SJ Black Control Cabinet key is a manual hand tool used to lock and unlock elevator machinery doors and electrical boxes. This specialized elevator control cabinet key functions as a secure entry tool used by authorized technicians during maintenance. When inserted into a matching panel lock, it rotates the internal cylinder to grant fast access to high-voltage breakers, controller boards and hidden car operating panel switches.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> SJ Black Control Cabinet key</li><li><strong>Product code:</strong> BS-KY0006</li><li><strong>Product Type:</strong>  Lift cabinet access key</li><li><strong>Physical Build:</strong> Coded metal key shank attached to a molded black plastic thumb-grip head</li></ul>"
+        ]
       },
       {
         "name": "Type A key",
         "description": "Kone COP Key",
         "code": "BS-KY0007",
         "url": "/keys/type-a-key",
-        "image": "/img/products/keys/type-a-key/type-a-key-1.jpg",
-        "alttext": "Elevator Type A key",
+        "image": "/img/products/keys/type-a-key/elevator-type-a-key-1.jpg",
+        "alttext": "Elevator Type A key elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/type-a-key",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Lift Service Key | Elevator Access Control Tool ",
+        "meta_description": "Buy elevator type A key is used in lift systems for authorised maintenance access, inspection support, servicing tasks and repair operations.",
+        "keywords": "elevator type A key, lift service key, elevator access control key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>Acting as an essential elevator access control key, this hand tool allows authorised service personnel to turn the lock cylinder safely. Once inserted into a matching frame lock, it retracts the internal locking latch to allow quick maintenance inspections on distribution boxes, high-voltage breakers and car operating panel toggle switches.</p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Type: A key</li><li><strong>Product code:</strong> BS-KY0007</li><li><strong>Product Type:</strong> Lift service key</li><li><strong>Physical Build:</strong> Coded metal key shank attached to a molded thumb-grip head</li></ul>"
+        ]
       },
       {
         "name": "Mitsubishi Door open Key",
         "description": "Yellow handle key",
         "code": "BS-KY0008",
         "url": "/keys/mitsubishi-door-open-key",
-        "image": "/img/products/keys/mitsubishi-door-open-key/mitsubishi-door-open-key-1.jpg",
-        "alttext": "Mitsubishi Door open Key",
+        "image": "/img/products/keys/mitsubishi-door-open-key/elevator-mitsubishi-door-open-key-1.jpg",
+        "alttext": "Mitsubishi Door open Key elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/keys/mitsubishi-door-open-key",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Mitsubishi Elevator Door Open Key for Lift Use",
+        "meta_description": "Buy the lift emergency door key which enables landing door access during servicing, inspection, maintenance work and technician tasks.",
+        "keywords": "Mitsubishi elevator door open key, lift emergency door key, elevator service key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Mitsubishi elevator door open key is a hand-operated access tool designed for lift maintenance and emergency door unlocking. This Mitsubishi-specific key features a durable metal shaft with a visible yellow plastic handle grip, making it easy to identify during servicing tasks. It is a standard item carried by authorised Mitsubishi lift technicians for routine inspections, maintenance and emergency rescue operations. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Mitsubishi Door Open Key</li><li><strong>Product code:</strong> BS-KY0008</li><li><strong>Product Type:</strong> Lift emergency door key</li><li><strong>Compatibility:</strong> Mitsubishi elevator systems</li><li><strong>Handle Colour:</strong> Yellow</li><li><strong>Construction:</strong> Metal shaft with plastic handle grip</li></ul>"
+        ]
       },
       {
         "name": "Door Key 1000mm K",
         "description": "Door Key 1000mm K",
         "code": "BS-KY0009",
         "url": "/keys/door-key-1000mm-k",
-        "image": "/img/products/keys/door-key-1000mm-k/door-key-1000mm-k-1.jpg",
-        "alttext": "Elevator Door Key 1000mm K",
+        "image": "/img/products/keys/door-key-1000mm-k/elevator-door-key-1000mm-k-1.jpg",
+        "alttext": "Elevator Door Key 1000mm K elevator spare parts",
         "canonical": "https://www.bestechparts.ae/products/keys/door-key-1000mm-k",
-        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Buy elevator Door Key 1000mm | Lift Spares",
+        "meta_description": "The elevator door key 1000mm is used for lift landing door access during maintenance procedures, servicing tasks and inspections.",
+        "keywords": "elevator door key 1000mm, lift door access key, elevator maintenance key",
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator door key 1000mm is a long access tool used in lift systems for authorised landing door access during maintenance and servicing procedures. This type of lift door access key is commonly used by elevator technicians when working on lift landing door systems. </p>",
+          "<h2><strong>Key specifications</Strong></h2>",
+          "<ul><li><strong>Product Name:</Strong> Door Key 1000mm K</li><li><strong>Product code:</strong> BS-KY0009</li><li><strong>Product Type:</strong> Lift door access key</li><li><strong>Total Component Length:</strong> 1000 mm (1 Metre)</li></ul>"
+        ]
       }
     ]
   },
