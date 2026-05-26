@@ -87,5 +87,39 @@ export default async function Page(props) {
 
   if (!initialCategory) return notFound();
 
-  return <ProductPageClient initialCategory={initialCategory} />;
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://www.bestechparts.ae/",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Products",
+        item: "https://www.bestechparts.ae/products",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: initialCategory.page_name,
+        item: `https://www.bestechparts.ae/products/${slug}`,
+      },
+    ],
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbSchema),
+        }}
+      />
+      <ProductPageClient initialCategory={initialCategory} />
+    </>);
 }

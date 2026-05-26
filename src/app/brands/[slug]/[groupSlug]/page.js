@@ -105,8 +105,40 @@ export default async function Page(props) {
 
   if (!group) return notFound();
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://www.bestechparts.ae/",
+      },
+     
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: brand.page_name,
+        item: `https://www.bestechparts.ae/brands/${slug}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: group.group_name,
+        item: `https://www.bestechparts.ae/brands/${slug}/${groupSlug}`,
+      },
+    ],
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbSchema),
+        }}
+      />
       <PageHeader title={`${group.group_name} - ${brand.page_name}`} />
 
       <section className="container padding pb-120">

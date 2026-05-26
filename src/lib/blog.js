@@ -158,6 +158,13 @@ export const blogPosts = [
     description:
       "Learn how to identify worn elevator parts and replace them early to prevent system failure, improve safety and reduce maintenance cost.",
   },
+    {
+    slug: "elevator-door-lock-failures",
+    title: "Common Elevator Door Lock Failures and the Parts You Should Check First",
+    date: "2026-05-26",
+    description:
+      "Understand elevator door lock problems, and learn which parts to inspect first, with simple steps to reduce lift breakdown and improve safety.",
+  },
 ];
 
 // Function to fetch all blog posts

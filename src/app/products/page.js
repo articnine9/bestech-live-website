@@ -63,8 +63,33 @@ const categories = [
 ];
 
 export default function ProductsPage() {
+
+  const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Home",
+      item: "https://www.bestechparts.ae/",
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: "Products",
+      item: "https://www.bestechparts.ae/products",
+    },
+  ],
+};
   return (
     <div className="body-dark-bg">
+      <script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(breadcrumbSchema),
+  }}
+/>
       <div className="fix">
         {/* Page Header */}
         <PageHeader title="Products" />

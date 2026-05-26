@@ -80,8 +80,38 @@ export default async function Page(props) {
 
   if (!matchedCategory) return notFound();
 
+   // ✅ Breadcrumb Schema
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://www.bestechparts.ae/",
+      },
+    
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: matchedCategory.page_name,
+        item: `https://www.bestechparts.ae/brands/${slug}`,
+      },
+    ],
+  };
+
   return (
+
+    
     <div className="body-dark-bg">
+        {/* ✅ Breadcrumb Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbSchema),
+        }}
+      />
       <div className="fix">
         <PageHeader title={matchedCategory.page_name} />
         <div className="pb-120">
