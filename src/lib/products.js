@@ -2957,8 +2957,8 @@ export const products = [
         description: "W8L 11KW",
         code: "BS-CS0001",
         url: "/cabinet-set/control-cabinet-w8l-11kw",
-        image: "/img/products/cabinet-set/control-cabinet-w8l-11kw/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/cabinet-set/control-cabinet-w8l-11kw/elevator-control-cabinet-w8l-11kw-1.jpg",
+        slider: ["elevator-control-cabinet-w8l-11kw-1", "elevator-control-cabinet-w8l-11kw-2", "elevator-control-cabinet-w8l-11kw-3", "elevator-control-cabinet-w8l-11kw-4"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-11kw",
         robots:
@@ -2975,8 +2975,8 @@ export const products = [
         description: "W8L 7.5KW",
         code: "BS-CS0002",
         url: "/cabinet-set/control-cabinet-w8l-75kw",
-        image: "/img/products/cabinet-set/control-cabinet-w8l-75kw/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/cabinet-set/control-cabinet-w8l-75kw/elevator-control-cabinet-w8l-75kw-1.jpg",
+        slider: ["elevator-control-cabinet-w8l-75kw-1", "elevator-control-cabinet-w8l-75kw-2", "elevator-control-cabinet-w8l-75kw-3", "elevator-control-cabinet-w8l-75kw-4"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-75kw",
         robots:
@@ -2993,8 +2993,8 @@ export const products = [
         description: "Communication box",
         code: "BS-CS0003",
         url: "/cabinet-set/car-top-communication-box",
-        image: "/img/products/cabinet-set/car-top-communication-box/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/cabinet-set/car-top-communication-box/elevator-car-top-communication-box-1.jpg",
+        slider: ["elevator-car-top-communication-box-1", "elevator-car-top-communication-box-2", "elevator-car-top-communication-box-3", "elevator-car-top-communication-box-4"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box",
         robots:
@@ -3008,7 +3008,7 @@ export const products = [
         description: "20CM",
         code: "BS-CS0004",
         url: "/cabinet-set/socket-and-wire-20cm",
-        image: "/img/products/cabinet-set/socket-and-wire-20cm/1.jpg",
+        image: "/img/products/cabinet-set/socket-and-wire-20cm/elevator-socket-and-wire-20cm-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/socket-and-wire-20cm",
         robots:
@@ -3025,8 +3025,8 @@ export const products = [
         description: "35mm 2M",
         code: "BS-CS0005",
         url: "/cabinet-set/din-rail-35mm-2m",
-        image: "/img/products/cabinet-set/din-rail-35mm-2m/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/cabinet-set/din-rail-35mm-2m/elevator-din-rail-35mm-2m-1.jpg",
+        slider: ["elevator-din-rail-35mm-2m-1", "elevator-din-rail-35mm-2m-2", "elevator-din-rail-35mm-2m-3"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/din-rail-35mm-2m",
         robots:
@@ -3043,7 +3043,7 @@ export const products = [
         description: "2M",
         code: "BS-CS0006",
         url: "/cabinet-set/trunking-2m",
-        image: "/img/products/cabinet-set/trunking-2m/1.jpg",
+        image: "/img/products/cabinet-set/trunking-2m/elevator-trunking-2m-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/trunking-2m",
         robots:
@@ -3060,7 +3060,7 @@ export const products = [
         description: "Type: 2500W",
         code: "BS-CS0007",
         url: "/cabinet-set/braking-resistor-2500w",
-        image: "/img/products/cabinet-set/braking-resistor-2500w/1.jpg",
+        image: "/img/products/cabinet-set/braking-resistor-2500w/elevator-braking-resistor-2500w-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-2500w",
         robots:
@@ -3077,7 +3077,7 @@ export const products = [
         description: "Type: 3500W",
         code: "BS-CS0008",
         url: "/cabinet-set/braking-resistor-3500w",
-        image: "/img/products/cabinet-set/braking-resistor-3500w/1.jpg",
+        image: "/img/products/cabinet-set/braking-resistor-3500w/elevator-braking-resistor-3500w-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-3500w",
         robots:
@@ -3094,7 +3094,7 @@ export const products = [
         description: "Type: 5500W",
         code: "BS-CS0009",
         url: "/cabinet-set/braking-resistor-5500w",
-        image: "/img/products/cabinet-set/braking-resistor-5500w/1.jpg",
+        image: "/img/products/cabinet-set/braking-resistor-5500w/elevator-braking-resistor-5500w-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-5500w",
         robots:
@@ -3111,7 +3111,7 @@ export const products = [
         description: "1050(H) X 600(W) X 260(D)",
         code: "BS-CS0010",
         url: "/cabinet-set/empty-control-cabinet-blue",
-        image: "/img/products/cabinet-set/empty-control-cabinet-blue/1.jpg",
+        image: "/img/products/cabinet-set/empty-control-cabinet-blue/elevator-empty-control-cabinet-blue-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/empty-control-cabinet-blue",
         robots:
@@ -3122,7 +3122,7 @@ export const products = [
         description: "Bestech Car top box - Blue",
         code: "BS-CS0011",
         url: "/cabinet-set/car-top-communication-box-blue",
-        image: "/img/products/cabinet-set/car-top-communication-box-blue/1.jpg",
+        image: "/img/products/cabinet-set/car-top-communication-box-blue/elevator-car-top-communication-box-blue-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box-blue",
         robots:
@@ -3137,10 +3137,10 @@ export const products = [
         description: "Bestech controller - 7.5KW",
         code: "BS-CS0012",
         url: "/cabinet-set/control-cabinet-mrl-75kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-mrl-75kw-blue/1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-mrl-75kw-blue/elevator-control-cabinet-mrl-75kw-blue-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-75kw-blue",
-        slider: ["1", "2", "3", "4", "5"],
+        slider: ["elevator-control-cabinet-mrl-75kw-blue-1", "elevator-control-cabinet-mrl-75kw-blue-2", "elevator-control-cabinet-mrl-75kw-blue-3", "elevator-control-cabinet-mrl-75kw-blue-4", "elevator-control-cabinet-mrl-75kw-blue-5"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -3149,10 +3149,10 @@ export const products = [
         description: "Bestech controller - 11KW",
         code: "BS-CS0013",
         url: "/cabinet-set/control-cabinet-mrl-11kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-mrl-11kw-blue/1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-mrl-11kw-blue/elevator-control-cabinet-mrl-11kw-blue-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-11kw-blue",
-        slider: ["1", "2", "3", "4", "5"],
+        slider: ["elevator-control-cabinet-mrl-11kw-blue-1", "elevator-control-cabinet-mrl-11kw-blue-2", "elevator-control-cabinet-mrl-11kw-blue-3", "elevator-control-cabinet-mrl-11kw-blue-4", "elevator-control-cabinet-mrl-11kw-blue-5"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -3161,8 +3161,8 @@ export const products = [
         description: "Braking resistor - Type: 6500W",
         code: "BS-CS0014",
         url: "/cabinet-set/braking-resistor-type-6500w",
-        image: "/img/products/cabinet-set/braking-resistor-type-6500w/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/cabinet-set/braking-resistor-type-6500w/elevator-braking-resistor-type-6500w-1.jpg",
+        slider: ["elevator-braking-resistor-type-6500w-1", "elevator-braking-resistor-type-6500w-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-6500w",
         robots:
@@ -3173,8 +3173,8 @@ export const products = [
         description: " Control cabinet - 15KW - Blue",
         code: "BS-CS0015",
         url: "/cabinet-set/control-cabinet-15kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-15kw-blue/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/cabinet-set/control-cabinet-15kw-blue/elevator-control-cabinet-15kw-blue-1.jpg",
+        slider: ["elevator-control-cabinet-15kw-blue-1", "elevator-control-cabinet-15kw-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-15kw-blue",
         robots:
@@ -3185,7 +3185,7 @@ export const products = [
         description: "Control cabinet - 45KW - Blue",
         code: "BS-CS0016",
         url: "/cabinet-set/control-cabinet-45kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-45kw-blue/1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-45kw-blue/elevator-control-cabinet-45kw-blue-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-45kw-blue",
         robots:
@@ -3197,8 +3197,8 @@ export const products = [
         code: "BS-CS0017",
         url: "/cabinet-set/braking-resistor-type-4500w-40ohm",
         image:
-          "/img/products/cabinet-set/braking-resistor-type-4500w-40ohm/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/cabinet-set/braking-resistor-type-4500w-40ohm/elevator-braking-resistor-type-4500w-40ohm-1.jpg",
+        slider: ["elevator-braking-resistor-type-4500w-40ohm-1", "elevator-braking-resistor-type-4500w-40ohm-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-4500w-40ohm",
         robots:
@@ -3209,7 +3209,7 @@ export const products = [
         description: "Cabinet Encloser - Small",
         code: "BS-CS0018",
         url: "/cabinet-set/cabinet-encloser-small",
-        image: "/img/products/cabinet-set/cabinet-encloser-small/1.jpg",
+        image: "/img/products/cabinet-set/cabinet-encloser-small/elevator-cabinet-encloser-small-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/cabinet-encloser-small",
         robots:
@@ -3221,8 +3221,8 @@ export const products = [
         code: "BS-CS0019",
         url: "/cabinet-set/braking-resistor-type-1600w-110",
         image:
-          "/img/products/cabinet-set/braking-resistor-type-1600w-110/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/cabinet-set/braking-resistor-type-1600w-110/elevator-braking-resistor-type-1600w-110-1.jpg",
+        slider: ["elevator-braking-resistor-type-1600w-110-1", "elevator-braking-resistor-type-1600w-110-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-1600w-110",
         robots:
@@ -3233,8 +3233,8 @@ export const products = [
         description: " Control cabinet - 22KW - Blue",
         code: "BS-CS0020",
         url: "/cabinet-set/control-cabinet-22kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-22kw-blue/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/cabinet-set/control-cabinet-22kw-blue/elevator-control-cabinet-22kw-blue-1.jpg",
+        slider: ["elevator-control-cabinet-22kw-blue-1", "elevator-control-cabinet-22kw-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-22kw-blue",
         robots:
@@ -3245,7 +3245,7 @@ export const products = [
         description: "ARCUBE - Car Top Inspection Box",
         code: "BS-CS0021",
         url: "/cabinet-set/arcube-car-top-inspection-box",
-        image: "/img/products/cabinet-set/arcube-car-top-inspection-box/1.jpeg",
+        image: "/img/products/cabinet-set/arcube-car-top-inspection-box/elevator-arcube-car-top-inspection-box-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/arcube-car-top-inspection-box",
         robots:
@@ -3256,8 +3256,8 @@ export const products = [
         description: "Control cabinet - 18KW - Bestech",
         code: "BS-CS0022",
         url: "/cabinet-set/control-cabinet-18kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-18kw-blue/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/cabinet-set/control-cabinet-18kw-blue/elevator-control-cabinet-18kw-blue-1.jpg",
+        slider: ["elevator-control-cabinet-18kw-blue-1", "elevator-control-cabinet-18kw-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-18kw-blue",
         robots:
@@ -3268,7 +3268,7 @@ export const products = [
         description: " Control cabinet - 5.5KW - Blue",
         code: "BS-CS0023",
         url: "/cabinet-set/control-cabinet-5.5kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-5.5kw-blue/1.jpeg",
+        image: "/img/products/cabinet-set/control-cabinet-5.5kw-blue/elevator-control-cabinet-5.5kw-blue-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-5.5kw-blue",
         robots:
@@ -3280,7 +3280,7 @@ export const products = [
         code: "BS-CS0024",
         url: "/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
         image:
-          "/img/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech/1.jpeg",
+          "/img/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech/elevator-mrl-control-cabinet-5.5kw-bestech-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
         robots:
@@ -3292,8 +3292,8 @@ export const products = [
         code: "BS-CS0025",
         url: "/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
         image:
-          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw/elevator-monarch-controller-cabinet-mrl-5.5kw-1.jpg",
+        slider: ["elevator-monarch-controller-cabinet-mrl-5.5kw-1", "elevator-monarch-controller-cabinet-mrl-5.5kw-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
         robots:
@@ -3305,8 +3305,8 @@ export const products = [
         code: "BS-CS0026",
         url: "/cabinet-set/monarch-controller-cabinet-mrl-11kw",
         image:
-          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-11kw/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-11kw/elevator-monarch-controller-cabinet-mrl-11kw-1.jpg",
+        slider: ["elevator-monarch-controller-cabinet-mrl-11kw-1", "elevator-monarch-controller-cabinet-mrl-11kw-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-11kw",
         robots:
@@ -6279,8 +6279,8 @@ export const products = [
         description: "NICE-L-C-4007",
         code: "BS-IN0001",
         url: "/inverters/inverter-7-5kw-nice-l-c-4007",
-        image: "/img/products/inverters/inverter-7-5kw-nice-l-c-4007/3.jpg",
-        slider: ["3", "2", "1"],
+        image: "/img/products/inverters/inverter-7-5kw-nice-l-c-4007/elevator-inverter-7-5kw-nice-l-c-4007-3.jpg",
+        slider: ["elevator-inverter-7-5kw-nice-l-c-4007-3", "elevator-inverter-7-5kw-nice-l-c-4007-2", "elevator-inverter-7-5kw-nice-l-c-4007-1"],
         meta_title:
           "Monarch Elevator Inverter 7.5KW NICE-L-C-4007 for Lift Control UAE",
         meta_description:
@@ -6299,8 +6299,8 @@ export const products = [
         description: "NICE-L-C-4011",
         code: "BS-IN0002",
         url: "/inverters/inverter-11kw-nice-l-c-4011",
-        image: "/img/products/inverters/inverter-11kw-nice-l-c-4011/3.jpg",
-        slider: ["3", "2", "1"],
+        image: "/img/products/inverters/inverter-11kw-nice-l-c-4011/elevator-inverter-11kw-nice-l-c-4011-3.jpg",
+        slider: ["elevator-inverter-11kw-nice-l-c-4011-3", "elevator-inverter-11kw-nice-l-c-4011-2", "elevator-inverter-11kw-nice-l-c-4011-1"],
         meta_title:
           "Monarch Elevator Inverter 11KW NICE-L-C-4011 | Dubai Spare Parts",
         meta_description:
@@ -6319,8 +6319,8 @@ export const products = [
         description: "NICE-L-C-4015",
         code: "BS-IN0003",
         url: "/inverters/inverter-15kw-nice-l-c-4015",
-        image: "/img/products/inverters/inverter-15kw-nice-l-c-4015/3.jpg",
-        slider: ["3", "2", "1"],
+        image: "/img/products/inverters/inverter-15kw-nice-l-c-4015/elevator-inverter-15kw-nice-l-c-4015-3.jpg",
+        slider: ["elevator-inverter-15kw-nice-l-c-4015-3", "elevator-inverter-15kw-nice-l-c-4015-2", "elevator-inverter-15kw-nice-l-c-4015-1"],
         meta_title:
           "Monarch Elevator Inverter 15KW NICE-L-C-4015 Supply | Sharjah",
         meta_description:
@@ -6339,8 +6339,8 @@ export const products = [
         description: "NICE-L-C-4018",
         code: "BS-IN0004",
         url: "/inverters/inverter-18kw-nice-l-c-4018",
-        image: "/img/products/inverters/inverter-18kw-nice-l-c-4018/3.jpg",
-        slider: ["3", "2", "1"],
+        image: "/img/products/inverters/inverter-18kw-nice-l-c-4018/elevator-inverter-18kw-nice-l-c-4018-3.jpg",
+        slider: ["elevator-inverter-18kw-nice-l-c-4018-3", "elevator-inverter-18kw-nice-l-c-4018-2", "elevator-inverter-18kw-nice-l-c-4018-1"],
         meta_title:
           "Monarch Elevator Inverter 18KW NICE-L-C-4018 Power Supply, UAE",
         meta_description:
@@ -6359,8 +6359,8 @@ export const products = [
         description: "NICE-L-C-4022",
         code: "BS-IN0005",
         url: "/inverters/inverter-22kw-nice-l-c-4022",
-        image: "/img/products/inverters/inverter-22kw-nice-l-c-4022/3.jpg",
-        slider: ["3", "2", "1"],
+        image: "/img/products/inverters/inverter-22kw-nice-l-c-4022/elevator-inverter-22kw-nice-l-c-4022-3.jpg",
+        slider: ["elevator-inverter-22kw-nice-l-c-4022-3", "elevator-inverter-22kw-nice-l-c-4022-2", "elevator-inverter-22kw-nice-l-c-4022-1"],
         meta_title:
           "Monarch Elevator Inverter 22KW NICE-L-C-4022 Parts in Dubai",
         meta_description:
@@ -6379,8 +6379,8 @@ export const products = [
         description: "AS380",
         code: "BS-IN0006",
         url: "/inverters/inverter-11kw-as380",
-        image: "/img/products/inverters/inverter-11kw-as380/3.jpg",
-        slider: ["3", "2", "1"],
+        image: "/img/products/inverters/inverter-11kw-as380/elevator-inverter-11kw-as380-3.jpg",
+        slider: ["elevator-inverter-11kw-as380-3", "elevator-inverter-11kw-as380-2", "elevator-inverter-11kw-as380-1"],
         meta_title:
           "Elevator Inverter 11KW AS380 High-Performance Lift Drives, UAE",
         meta_description:
@@ -6399,8 +6399,8 @@ export const products = [
         description: "Type:NICE-L-C-4005",
         code: "BS-IN0007",
         url: "/inverters/inverter-5-5kw-nice-l-c",
-        image: "/img/products/inverters/inverter-5-5kw-nice-l-c/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/inverters/inverter-5-5kw-nice-l-c/elevator-inverter-5-5kw-nice-l-c-1.jpg",
+        slider: ["elevator-inverter-5-5kw-nice-l-c-1", "elevator-inverter-5-5kw-nice-l-c-2"],
         canonical:
           "https://www.bestechparts.ae/products/inverters/inverter-5-5kw-nice-l-c",
         robots:
@@ -6411,8 +6411,8 @@ export const products = [
         description: "NICE-L-C-4030 30KW",
         code: "BS-IN0008",
         url: "/inverters/nice-l-c-4030-30kw",
-        image: "/img/products/inverters/nice-l-c-4030-30kw/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/inverters/nice-l-c-4030-30kw/elevator-nice-l-c-4030-30kw-1.jpg",
+        slider: ["elevator-nice-l-c-4030-30kw-1", "elevator-nice-l-c-4030-30kw-2"],
         canonical:
           "https://www.bestechparts.ae/products/inverters/nice-l-c-4030-30kw",
         robots:
@@ -6423,8 +6423,8 @@ export const products = [
         description: "NICE-L-C-4045 45KW",
         code: "BS-IN0009",
         url: "/inverters/nice-l-c-4045-45kw",
-        image: "/img/products/inverters/nice-l-c-4045-45kw/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/inverters/nice-l-c-4045-45kw/elevator-nice-l-c-4045-45kw-1.jpg",
+        slider: ["elevator-nice-l-c-4045-45kw-1", "elevator-nice-l-c-4045-45kw-2"],
         canonical:
           "https://www.bestechparts.ae/products/inverters/nice-l-c-4045-45kw",
         robots:
@@ -6435,8 +6435,8 @@ export const products = [
         description: "Kone Monospace KDL16L 12A 400V",
         code: "BS-IN0010",
         url: "/inverters/monospace-kdl-16l",
-        image: "/img/products/inverters/monospace-kdl-16l/1.jpg",
-        slider: ["1", "2", "3", "4"],
+        image: "/img/products/inverters/monospace-kdl-16l/elevator-monospace-kdl-16l-1.jpg",
+        slider: ["elevator-monospace-kdl-16l-1", "elevator-monospace-kdl-16l-2", "elevator-monospace-kdl-16l-3", "elevator-monospace-kdl-16l-4"],
         canonical:
           "https://www.bestechparts.ae/products/inverters/monospace-kdl-16l",
         robots:
@@ -6448,7 +6448,7 @@ export const products = [
         code: "BS-IN0011",
         url: "/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
         image:
-          "/img/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw/1.jpg",
+          "/img/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw/elevator-delta-vfd-inverter-vfd022e43a-2-2kw-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
         robots:
@@ -6866,8 +6866,8 @@ export const products = [
         description: "",
         code: "BS-SG0001",
         url: "/signalization/lop-up-and-down",
-        image: "/img/products/signalization/lop-up-and-down/lop-up-and-down-1.jpg",
-        slider: ["lop-up-and-down-1", "lop-up-and-down-2", "lop-up-and-down-3"],
+        image: "/img/products/signalization/lop-up-and-down/elevator-lop-up-and-down-1.jpg",
+        slider: ["elevator-lop-up-and-down-1", "elevator-lop-up-and-down-2", "elevator-lop-up-and-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-up-and-down",
         robots:
@@ -6878,8 +6878,8 @@ export const products = [
         description: "",
         code: "BS-SG0002",
         url: "/signalization/lop-up-lock",
-        image: "/img/products/signalization/lop-up-lock/lop-up-lock-1.jpg",
-        slider: ["lop-up-lock-1", "lop-up-lock-2"],
+        image: "/img/products/signalization/lop-up-lock/elevator-lop-up-lock-1.jpg",
+        slider: ["elevator-lop-up-lock-1", "elevator-lop-up-lock-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-up-lock",
         robots:
@@ -6890,8 +6890,8 @@ export const products = [
         description: "",
         code: "BS-SG0003",
         url: "/signalization/lop-down",
-        image: "/img/products/signalization/lop-down/lop-down-1.jpg",
-        slider: ["lop-down-1", "lop-down-2", "lop-down-3"],
+        image: "/img/products/signalization/lop-down/elevator-lop-down-1.jpg",
+        slider: ["elevator-lop-down-1", "elevator-lop-down-2", "elevator-lop-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-down",
         robots:
@@ -6902,8 +6902,8 @@ export const products = [
         description: "",
         code: "BS-SG0004",
         url: "/signalization/duplex-lop-up-and-down",
-        image: "/img/products/signalization/duplex-lop-up-and-down/duplex-lop-up-and-down-1.jpg",
-        slider: ["duplex-lop-up-and-down-1", "duplex-lop-up-and-down-2", "duplex-lop-up-and-down-3"],
+        image: "/img/products/signalization/duplex-lop-up-and-down/elevator-duplex-lop-up-and-down-1.jpg",
+        slider: ["elevator-duplex-lop-up-and-down-1", "elevator-duplex-lop-up-and-down-2", "elevator-duplex-lop-up-and-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-up-and-down",
         robots:
@@ -6914,8 +6914,8 @@ export const products = [
         description: "",
         code: "BS-SG0005",
         url: "/signalization/duplex-lop-up-lock",
-        image: "/img/products/signalization/duplex-lop-up-lock/duplex-lop-up-lock-1.jpg",
-        slider: ["duplex-lop-up-lock-1", "duplex-lop-up-lock-2"],
+        image: "/img/products/signalization/duplex-lop-up-lock/elevator-duplex-lop-up-lock-1.jpg",
+        slider: ["elevator-duplex-lop-up-lock-1", "elevator-duplex-lop-up-lock-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-up-lock",
         robots:
@@ -6926,8 +6926,8 @@ export const products = [
         description: "",
         code: "BS-SG0006",
         url: "/signalization/duplex-lop-down",
-        image: "/img/products/signalization/duplex-lop-down/duplex-lop-down-1.jpg",
-        slider: ["duplex-lop-down-1", "duplex-lop-down-2"],
+        image: "/img/products/signalization/duplex-lop-down/elevator-duplex-lop-down-1.jpg",
+        slider: ["elevator-duplex-lop-down-1", "elevator-duplex-lop-down-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-down",
         robots:
@@ -7234,8 +7234,8 @@ export const products = [
         description: "MCTC-HCB-R1",
         code: "BS-DI0001",
         url: "/displays/cop-display-green-mctc-hcb-r1",
-        image: "/img/products/displays/cop-display-green-mctc-hcb-r1/cop-display-green-mctc-hcb-r1-1.jpg",
-        slider: ["cop-display-green-mctc-hcb-r1-1", "cop-display-green-mctc-hcb-r1-2"],
+        image: "/img/products/displays/cop-display-green-mctc-hcb-r1/elevator-cop-display-green-mctc-hcb-r1-1.jpg",
+        slider: ["elevator-cop-display-green-mctc-hcb-r1-1", "elevator-cop-display-green-mctc-hcb-r1-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-green-mctc-hcb-r1",
         robots:
@@ -7246,8 +7246,8 @@ export const products = [
         description: "MCTC-HCB-R1",
         code: "BS-DI0002",
         url: "/displays/cop-display-black-mctc-hcb-r1",
-        image: "/img/products/displays/cop-display-black-mctc-hcb-r1/cop-display-black-mctc-hcb-r1-1.jpg",
-        slider: ["cop-display-black-mctc-hcb-r1-1", "cop-display-black-mctc-hcb-r1-2"],
+        image: "/img/products/displays/cop-display-black-mctc-hcb-r1/elevator-cop-display-black-mctc-hcb-r1-1.jpg",
+        slider: ["elevator-cop-display-black-mctc-hcb-r1--1", "elevator-cop-display-black-mctc-hcb-r1-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-black-mctc-hcb-r1",
         robots:
@@ -7258,8 +7258,8 @@ export const products = [
         description: "",
         code: "BS-DI0003",
         url: "/displays/lop-display-led",
-        image: "/img/products/displays/lop-display-led/lop-display-led-1.jpg",
-        slider: ["lop-display-led-1", "lop-display-led-2", "lop-display-led-3"],
+        image: "/img/products/displays/lop-display-led/elevator-lop-display-led-1.jpg",
+        slider: ["elevator-lop-display-led-1", "elevator-lop-display-led-2", "elevator-lop-display-led-3"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lop-display-led",
         robots:
@@ -7271,7 +7271,7 @@ export const products = [
         description: "",
         code: "BS-DI0004",
         url: "/displays/dot-matrix-display-vertical",
-        image: "/img/products/displays/dot-matrix-display-vertical/dot-matrix-display-vertical-1.jpg",
+        image: "/img/products/displays/dot-matrix-display-vertical/elevator-dot-matrix-display-vertical-1.jpg",
         slider: ["dot-matrix-display-vertical-1", "dot-matrix-display-vertical-2", "dot-matrix-display-vertical-3"],
         canonical:
           "https://www.bestechparts.ae/products/displays/dot-matrix-display-vertical",
@@ -7283,7 +7283,7 @@ export const products = [
         description: "",
         code: "BS-DI0005",
         url: "/displays/dot-matrix-display-horizontal",
-        image: "/img/products/displays/dot-matrix-display-horizontal/dot-matrix-display-horizontal-1.jpg",
+        image: "/img/products/displays/dot-matrix-display-horizontal/elevator-dot-matrix-display-horizontal-1.jpg",
         slider: ["dot-matrix-display-horizontal-1", "dot-matrix-display-horizontal-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/dot-matrix-display-horizontal",
@@ -7295,7 +7295,7 @@ export const products = [
         description: "",
         code: "BS-DI0006",
         url: "/displays/lcd-display-vertical",
-        image: "/img/products/displays/lcd-display-vertical/lcd-display-vertical-1.jpg",
+        image: "/img/products/displays/lcd-display-vertical/elevator-lcd-display-vertical-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-vertical",
         robots:
@@ -7307,7 +7307,7 @@ export const products = [
         description: "",
         code: "BS-DI0007",
         url: "/displays/lcd-display-horizontal",
-        image: "/img/products/displays/lcd-display-horizontal/lcd-display-horizontal-1.jpg",
+        image: "/img/products/displays/lcd-display-horizontal/elevator-lcd-display-horizontal-1.jpg",
         slider: ["lcd-display-horizontal-1", "lcd-display-horizontal-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-horizontal",
@@ -7319,8 +7319,8 @@ export const products = [
         description: "4.3 inch",
         code: "BS-DI0008",
         url: "/displays/display-led-4-3",
-        image: "/img/products/displays/display-led-4-3/display-led-4-3-1.jpg",
-        slider: ["display-led-4-3-1", "display-led-4-3-2"],
+        image: "/img/products/displays/display-led-4-3/elevator-display-led-4-3-1.jpg",
+        slider: ["elevator-display-led-4-3-1", "elevator-display-led-4-3-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/display-led-4-3",
         robots:
@@ -7331,8 +7331,8 @@ export const products = [
         description: "",
         code: "BS-DI0009",
         url: "/displays/lcd-display-sftc-hcb-sl-blue",
-        image: "/img/products/displays/lcd-display-sftc-hcb-sl-blue/lcd-display-sftc-hcb-sl-blue-1.jpg",
-        slider: ["lcd-display-sftc-hcb-sl-blue-1", "lcd-display-sftc-hcb-sl-blue-2"],
+        image: "/img/products/displays/lcd-display-sftc-hcb-sl-blue/elevator-lcd-display-sftc-hcb-sl-blue-1.jpg",
+        slider: ["elevator-lcd-display-sftc-hcb-sl-blue-1", "elevator-lcd-display-sftc-hcb-sl-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-sftc-hcb-sl-blue",
         robots:
@@ -7344,8 +7344,8 @@ export const products = [
         code: "BS-DI0010",
         url: "/displays/cop-display-horizontal-cv-ccb-d5-sx",
         image:
-          "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/cop-display-horizontal-cv-ccb-d5-sx-1.jpg",
-        slider: ["cop-display-horizontal-cv-ccb-d5-sx-1", "cop-display-horizontal-cv-ccb-d5-sx-2"],
+          "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/elevator-cop-display-horizontal-cv-ccb-d5-sx-1.jpg",
+        slider: ["elevator-cop-display-horizontal-cv-ccb-d5-sx-1", "elevator-cop-display-horizontal-cv-ccb-d5-sx-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-horizontal-cv-ccb-d5-sx",
         robots:
@@ -7357,8 +7357,8 @@ export const products = [
         code: "BS-DI0011",
         url: "/displays/vertical-segment-display-cilvle-cv-d5",
         image:
-          "/img/products/displays/vertical-segment-display-cilvle-cv-d5/vertical-segment-display-cilvle-cv-d5-1.jpg",
-        slider: ["vertical-segment-display-cilvle-cv-d5-1", "vertical-segment-display-cilvle-cv-d5-2"],
+          "/img/products/displays/vertical-segment-display-cilvle-cv-d5/elevator-vertical-segment-display-cilvle-cv-d5-1.jpg",
+        slider: ["elevator-vertical-segment-display-cilvle-cv-d5-1", "elevator-vertical-segment-display-cilvle-cv-d5-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/vertical-segment-display-cilvle-cv-d5",
         robots:
@@ -7370,7 +7370,7 @@ export const products = [
         code: "BS-DI0012",
         url: "/displays/display-mctc-hcb-u673",
         image: "/img/products/displays/display-mctc-hcb-u673/display-mctc-hcb-u673-1.jpg",
-        slider: ["display-mctc-hcb-u673-1", "display-mctc-hcb-u673-2"],
+        slider: ["elevator-display-mctc-hcb-u673-1", "elevator-display-mctc-hcb-u673-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/display-mctc-hcb-u673",
         robots:
@@ -7382,7 +7382,7 @@ export const products = [
         code: "BS-DI0013",
         url: "/displays/ks208-7-segment-indicator-with-arrows",
         image:
-          "/img/products/displays/ks208-7-segment-indicator-with-arrows/ks208-7-segment-indicator-with-arrows-1.jpg",
+          "/img/products/displays/ks208-7-segment-indicator-with-arrows/elevator-ks208-7-segment-indicator-with-arrows-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ks208-7-segment-indicator-with-arrows",
         robots:
@@ -7393,7 +7393,7 @@ export const products = [
         description: "KS308 - 7 Segment Single",
         code: "BS-DI0014",
         url: "/displays/ks308-7-segment-indicator-single",
-        image: "/img/products/displays/ks308-7-segment-indicator-single/ks308-7-segment-indicator-single-1.jpg",
+        image: "/img/products/displays/ks308-7-segment-indicator-single/elevator-ks308-7-segment-indicator-single-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/ks308-7-segment-indicator-single",
         robots:
@@ -7404,7 +7404,7 @@ export const products = [
         description: "MCTC-HCB-T647",
         code: "BS-DI0015",
         url: "/displays/display-vertical-mctc-hcb-t647",
-        image: "/img/products/displays/display-vertical-mctc-hcb-t647/display-vertical-mctc-hcb-t647-1.jpg",
+        image: "/img/products/displays/display-vertical-mctc-hcb-t647/elevator-display-vertical-mctc-hcb-t647-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/displays/display-vertical-mctc-hcb-t647",
         robots:
@@ -7415,7 +7415,7 @@ export const products = [
         description: "MCTC-HCB-U672",
         code: "BS-DI0016",
         url: "/displays/display-horizontal-mctc-hcb-u672",
-        image: "/img/products/displays/display-horizontal-mctc-hcb-u672/display-horizontal-mctc-hcb-u672-1.jpg",
+        image: "/img/products/displays/display-horizontal-mctc-hcb-u672/elevator-display-horizontal-mctc-hcb-u672-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/displays/display-horizontal-mctc-hcb-u672",
         robots:
@@ -7426,7 +7426,7 @@ export const products = [
         description: "Arkel: BC-D3X INDICATOR (RED)",
         code: "BS-DI0017",
         url: "/displays/bc-d3x-indicator-red",
-        image: "/img/products/displays/bc-d3x-indicator-red/bc-d3x-indicator-red-1.jpg",
+        image: "/img/products/displays/bc-d3x-indicator-red/elevator-bc-d3x-indicator-red-1.jpg",
         slider: ["bc-d3x-indicator-red-1", "bc-d3x-indicator-red-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/bc-d3x-indicator-red",
@@ -7438,7 +7438,7 @@ export const products = [
         description: "STEP: Display Board SM.04V16",
         code: "BS-DI0018",
         url: "/displays/step-display-board-sm-04v16",
-        image: "/img/products/displays/step-display-board-sm-04v16/step-display-board-sm-04v16-1.jpg",
+        image: "/img/products/displays/step-display-board-sm-04v16/elevator-step-display-board-sm-04v16-1.jpg",
         slider: ["step-display-board-sm-04v16-1", "step-display-board-sm-04v16-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/step-display-board-sm-04v16",
@@ -7467,8 +7467,8 @@ export const products = [
         description: "MCTC-CTB-A",
         code: "BS-PB0001",
         url: "/pcb-boards/car-top-board-mctc-ctb-a",
-        image: "/img/products/pcb-boards/car-top-board-mctc-ctb-a/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/car-top-board-mctc-ctb-a/elevator-car-top-board-mctc-ctb-a-1.jpg",
+        slider: ["elevator-car-top-board-mctc-ctb-a-1", "elevator-car-top-board-mctc-ctb-a-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         canonical:
@@ -7479,8 +7479,8 @@ export const products = [
         description: "MCTC-CCB-A",
         code: "BS-PB0002",
         url: "/pcb-boards/command-board-mctc-ccb-a",
-        image: "/img/products/pcb-boards/command-board-mctc-ccb-a/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/command-board-mctc-ccb-a/elevator-command-board-mctc-ccb-a-1.jpg",
+        slider: ["elevator-command-board-mctc-ccb-a-1", "elevator-command-board-mctc-ccb-a-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/command-board-mctc-ccb-a",
         robots:
@@ -7491,8 +7491,8 @@ export const products = [
         description: "",
         code: "BS-PB0003",
         url: "/pcb-boards/car-top-board-step",
-        image: "/img/products/pcb-boards/car-top-board-step/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/car-top-board-step/elevator-car-top-board-step-1.jpg",
+        slider: ["elevator-car-top-board-step-1", "elevator-car-top-board-step-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/car-top-board-step",
         robots:
@@ -7503,8 +7503,8 @@ export const products = [
         description: "",
         code: "BS-PB0004",
         url: "/pcb-boards/cop-command-board-step",
-        image: "/img/products/pcb-boards/cop-command-board-step/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/cop-command-board-step/elevator-cop-command-board-step-1.jpg",
+        slider: ["elevator-cop-command-board-step-1", "elevator-cop-command-board-step-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/cop-command-board-step",
         robots:
@@ -7516,8 +7516,8 @@ export const products = [
         code: "BS-PB0005",
         url: "/pcb-boards/group-control-board-mctc-gcb-b1-a1",
         image:
-          "/img/products/pcb-boards/group-control-board-mctc-gcb-b1-a1/1.jpg",
-        slider: ["1", "2"],
+          "/img/products/pcb-boards/group-control-board-mctc-gcb-b1-a1/elevator-group-control-board-mctc-gcb-b1-a1-1.jpg",
+        slider: ["elevator-group-control-board-mctc-gcb-b1-a1-1", "elevator-group-control-board-mctc-gcb-b1-a1-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/group-control-board-mctc-gcb-b1-a1",
         robots:
@@ -7528,8 +7528,8 @@ export const products = [
         description: "MCTC-SCB-A1",
         code: "BS-PB0006",
         url: "/pcb-boards/ucmp-mctc-scb-a1",
-        image: "/img/products/pcb-boards/ucmp-mctc-scb-a1/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/ucmp-mctc-scb-a1/elevator-ucmp-mctc-scb-a1-1.jpg",
+        slider: ["elevator-ucmp-mctc-scb-a1-1", "elevator-ucmp-mctc-scb-a1-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/ucmp-mctc-scb-a1",
         robots:
@@ -7540,7 +7540,7 @@ export const products = [
         description: "ML65X",
         code: "BS-PB0007",
         url: "/pcb-boards/ml65x-lift-controller",
-        image: "/img/products/pcb-boards/ml65x-lift-controller/1.jpg",
+        image: "/img/products/pcb-boards/ml65x-lift-controller/elevator-ml65x-lift-controller-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/ml65x-lift-controller",
         robots:
@@ -7552,7 +7552,7 @@ export const products = [
         code: "BS-PB0008",
         url: "/pcb-boards/mlseri65-serial-communication-card",
         image:
-          "/img/products/pcb-boards/mlseri65-serial-communication-card/1.jpg",
+          "/img/products/pcb-boards/mlseri65-serial-communication-card/elevator-mlseri65-serial-communication-card-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mlseri65-serial-communication-card",
         robots:
@@ -7563,7 +7563,7 @@ export const products = [
         description: "MLKR1",
         code: "BS-PB0009",
         url: "/pcb-boards/mlkr1-door-bridging-card",
-        image: "/img/products/pcb-boards/mlkr1-door-bridging-card/1.jpg",
+        image: "/img/products/pcb-boards/mlkr1-door-bridging-card/elevator-mlkr1-door-bridging-card-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mlkr1-door-bridging-card",
         robots:
@@ -7574,8 +7574,8 @@ export const products = [
         description: "Arkel: ARL-300",
         code: "BS-PB0010",
         url: "/pcb-boards/lift-controller-set-arl-300",
-        image: "/img/products/pcb-boards/lift-controller-set-arl-300/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/lift-controller-set-arl-300/elevator-lift-controller-set-arl-300-1.jpg",
+        slider: ["elevator-lift-controller-set-arl-300-1", "elevator-lift-controller-set-arl-300-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/lift-controller-set-arl-300",
         robots:
@@ -7587,7 +7587,7 @@ export const products = [
         code: "BS-PB0011",
         url: "/pcb-boards/dhg-161-hoistway-communication-board",
         image:
-          "/img/products/pcb-boards/dhg-161-hoistway-communication-board/1.jpg",
+          "/img/products/pcb-boards/dhg-161-hoistway-communication-board/elevator-dhg-161-hoistway-communication-board-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/dhg-161-hoistway-communication-board",
         robots:
@@ -7598,8 +7598,8 @@ export const products = [
         description: "Step Motherboard SM.01 F5021",
         code: "BS-PB0012",
         url: "/pcb-boards/step-motherboard-sm01-f5021",
-        image: "/img/products/pcb-boards/step-motherboard-sm01-f5021/1.jpg",
-        slider: ["1", "2", "3"],
+        image: "/img/products/pcb-boards/step-motherboard-sm01-f5021/elevator-step-motherboard-sm01-f5021-1.jpg",
+        slider: ["elevator-step-motherboard-sm01-f5021-1", "elevator-step-motherboard-sm01-f5021-2", "elevator-step-motherboard-sm01-f5021-3"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/step-motherboard-sm01-f5021",
         robots:
@@ -7610,7 +7610,7 @@ export const products = [
         description: "SM.02/G",
         code: "BS-PB0013",
         url: "/pcb-boards/as380-communication-board-sm02g",
-        image: "/img/products/pcb-boards/as380-communication-board-sm02g/1.jpg",
+        image: "/img/products/pcb-boards/as380-communication-board-sm02g/elevator-as380-communication-board-sm02g-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/as380-communication-board-sm02g",
         robots:
@@ -7621,7 +7621,7 @@ export const products = [
         description: "Monarch: MCTC-GCB-B2 (4 lifts)",
         code: "BS-PB0014",
         url: "/pcb-boards/group-control-board-mctc-gcb-b2",
-        image: "/img/products/pcb-boards/group-control-board-mctc-gcb-b2/1.jpg",
+        image: "/img/products/pcb-boards/group-control-board-mctc-gcb-b2/elevator-group-control-board-mctc-gcb-b2-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/group-control-board-mctc-gcb-b2",
         robots:
@@ -7633,7 +7633,7 @@ export const products = [
         code: "BS-PB0015",
         url: "/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
         image:
-          "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/1.jpg",
+          "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/elevator-pcb-power-board-zws30-12j-pwb-655h-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
         robots:
@@ -7644,8 +7644,8 @@ export const products = [
         description: " Step SM-02 D (5021)",
         code: "BS-PB0016",
         url: "/pcb-boards/step-sm02-d-5021",
-        image: "/img/products/pcb-boards/step-sm02-d-5021/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/step-sm02-d-5021/elevator-step-sm02-d-5021-1.jpg",
+        slider: ["elevator-step-sm02-d-5021-1", "elevator-step-sm02-d-5021-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/step-sm02-d-5021",
         robots:
@@ -7656,8 +7656,8 @@ export const products = [
         description: "Monarch: MCTC-MCB-C2",
         code: "BS-PB0017",
         url: "/pcb-boards/mctc-mcb-c2",
-        image: "/img/products/pcb-boards/mctc-mcb-c2/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/mctc-mcb-c2/elevator-mctc-mcb-c2-1.jpg",
+        slider: ["elevator-mctc-mcb-c2-1", "elevator-mctc-mcb-c2-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c2",
         robots:
@@ -7669,8 +7669,8 @@ export const products = [
         description: "Monarch: MCTC-MCB-C3",
         code: "BS-PB0018",
         url: "/pcb-boards/mctc-mcb-c3",
-        image: "/img/products/pcb-boards/mctc-mcb-c3/1.jpg",
-        slider: ["1", "2"],
+        image: "/img/products/pcb-boards/mctc-mcb-c3/elevator-mctc-mcb-c3-1.jpg",
+        slider: ["elevator-mctc-mcb-c3-1", "elevator-mctc-mcb-c3-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c3",
         robots:
@@ -7681,7 +7681,7 @@ export const products = [
         description: "MNK Bluetooth",
         code: "BS-PB0019",
         url: "/pcb-boards/mnk-bluetooth",
-        image: "/img/products/pcb-boards/mnk-bluetooth/1.jpg",
+        image: "/img/products/pcb-boards/mnk-bluetooth/elevator-mnk-bluetooth-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mnk-bluetooth",
         robots:
@@ -7692,7 +7692,7 @@ export const products = [
         description: "MCTC-CCB-B COP Board",
         code: "BS-PB0021",
         url: "/pcb-boards/mctc-ccb-b-cop-board",
-        image: "/img/products/pcb-boards/mctc-ccb-b-cop-board/1.jpg",
+        image: "/img/products/pcb-boards/mctc-ccb-b-cop-board/elevator-mctc-ccb-b-cop-board-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mctc-ccb-b-cop-board",
         robots:
@@ -7703,7 +7703,7 @@ export const products = [
         description: "FAA23600AB1 - Arrival Gong PCB OTIS",
         code: "BS-PB0022",
         url: "/pcb-boards/arrival-gong-pcb-faa23600ab1",
-        image: "/img/products/pcb-boards/arrival-gong-pcb-faa23600ab1/1.jpeg",
+        image: "/img/products/pcb-boards/arrival-gong-pcb-faa23600ab1/elevator-arrival-gong-pcb-faa23600ab1-1.jpg",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/arrival-gong-pcb-faa23600ab1",
         robots:
