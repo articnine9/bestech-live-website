@@ -7369,7 +7369,7 @@ export const products = [
         description: "Monarch: MCTC-HCB-U673",
         code: "BS-DI0012",
         url: "/displays/display-mctc-hcb-u673",
-        image: "/img/products/displays/display-mctc-hcb-u673/display-mctc-hcb-u673-1.jpg",
+        image: "/img/products/displays/display-mctc-hcb-u673/elevator-display-mctc-hcb-u673-1.jpg",
         slider: ["elevator-display-mctc-hcb-u673-1", "elevator-display-mctc-hcb-u673-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/display-mctc-hcb-u673",
