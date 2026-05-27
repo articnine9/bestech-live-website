@@ -111,6 +111,7 @@ export default async function Page(props) {
     (cat) => cat.slug?.toLowerCase() === lowerSlug
   );
 
+
   // ✅ Case-insensitive product match
   const product = category?.items?.find((item) => {
     const parts = item.url?.split("/").filter(Boolean);
