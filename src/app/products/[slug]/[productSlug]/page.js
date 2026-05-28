@@ -177,6 +177,11 @@ export default async function Page(props) {
       `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
 
     category: category?.page_name || "",
+     "offers": {
+    "@type": "Offer",
+    "priceCurrency": "",
+    "price": "",
+  }
   };
 
   return (
