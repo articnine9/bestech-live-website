@@ -165,10 +165,10 @@ export default async function Page(props) {
 
     image: product.image
     ? `https://www.bestechparts.ae${product.image}`
-    : product.alttext,
+    : undefined,
 
     description:
-      product.meta_description || "product.name",
+      product.meta_description || product.name,
 
     sku: product.code || "",
 
