@@ -164,8 +164,8 @@ export default async function Page(props) {
     name: product.name,
 
     image: product.image
-    ? `https://www.bestechparts.ae${product.image}`
-    : undefined,
+      ? `https://www.bestechparts.ae${product.image}`
+      : undefined,
 
     description:
       product.meta_description || product.name,
@@ -177,11 +177,12 @@ export default async function Page(props) {
       `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
 
     category: category?.page_name || "",
-     "offers": {
-    "@type": "Offer",
-    "priceCurrency": "",
-    "price": "",
-  }
+    "offers": {
+      "@type": "Offer",
+      "url": product.canonical ||
+        `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
+      "availability": "https://schema.org/InStock"
+    }
   };
 
   return (
@@ -193,12 +194,12 @@ export default async function Page(props) {
         }}
       />
 
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{
-        __html: JSON.stringify(productSchema),
-      }}
-    />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(productSchema),
+        }}
+      />
 
       <ProductDetailsPageClient product={product} />
     </>
