@@ -1,5 +1,5 @@
 
-import { notFound,redirect } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import fs from "fs";
 import path from "path";
 import ProductDetailsPageClient from "./ProductDetailsPageClient";
@@ -22,8 +22,8 @@ export async function generateMetadata(props) {
   const data = JSON.parse(fileContents);
 
   const category = data.find(
-  (cat) => cat.slug?.toLowerCase() === slug?.toLowerCase()
-);
+    (cat) => cat.slug?.toLowerCase() === slug?.toLowerCase()
+  );
 
   const product = category?.items?.find((item) => {
     const parts = item.url?.split("/").filter(Boolean);
@@ -88,7 +88,7 @@ export default async function Page(props) {
 
   if (!slug || !productSlug) return notFound();
 
-   // ✅ Convert params to lowercase
+  // ✅ Convert params to lowercase
   const lowerSlug = slug.toLowerCase();
   const lowerProductSlug = productSlug.toLowerCase();
 
@@ -125,48 +125,77 @@ export default async function Page(props) {
   if (!product) return notFound();
 
   const breadcrumbSchema = {
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  itemListElement: [
-    {
-      "@type": "ListItem",
-      position: 1,
-      name: "Home",
-      item: "https://www.bestechparts.ae/",
-    },
-    {
-      "@type": "ListItem",
-      position: 2,
-      name: "Products",
-      item: "https://www.bestechparts.ae/products",
-    },
-    {
-      "@type": "ListItem",
-      position: 3,
-      name: category.page_name,
-      item: `https://www.bestechparts.ae/products/${slug}`,
-    },
-    {
-      "@type": "ListItem",
-      position: 4,
-      name: product.name,
-      item:
-        product.canonical ||
-        `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
-    },
-  ],
-};
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://www.bestechparts.ae/",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Products",
+        item: "https://www.bestechparts.ae/products",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: category.page_name,
+        item: `https://www.bestechparts.ae/products/${slug}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 4,
+        name: product.name,
+        item:
+          product.canonical ||
+          `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
+      },
+    ],
+  };
+
+  const productSchema = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+
+    name: product.name,
+
+    image: product.image
+    ? `https://www.bestechparts.ae${product.image}`
+    : product.alttext,
+
+    description:
+      product.meta_description || "product.name",
+
+    sku: product.code || "",
+
+    url:
+      product.canonical ||
+      `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
+
+    category: category?.page_name || "",
+  };
 
   return (
     <>
-     <script
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbSchema),
+        }}
+      />
+
+    <script
       type="application/ld+json"
       dangerouslySetInnerHTML={{
-        __html: JSON.stringify(breadcrumbSchema),
+        __html: JSON.stringify(productSchema),
       }}
     />
 
-  <ProductDetailsPageClient product={product} />
-  </>
+      <ProductDetailsPageClient product={product} />
+    </>
   );
 }
