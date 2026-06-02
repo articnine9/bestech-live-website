@@ -2172,7 +2172,7 @@ export const products = [
         code: "BS-SW0011",
         url: "/switches/micro-switch-x-10gq-b",
         image: "/img/products/switches/micro-switch-x-10gq-b/elevator-micro-switch-x-10gq-b-1.jpg",
-        slider: ["elevator-micro-switch-x-10gq-b-1", "elevator-micro-switch-x-10gq-b-2"],
+        slider: ["elevator-micro-switch-x-10gq-b-1"],
         canonical:
           "https://www.bestechparts.ae/products/switches/micro-switch-x-10gq-b",
         robots:

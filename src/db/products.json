@@ -2552,14 +2552,13 @@
       },
       {
         "name": "Micro switch",
-        "description": "X-10GQ-B",
+        "description": "LXW5-11M / LXW5-11G2 / X-10GQ-B",
         "code": "BS-SW0011",
         "url": "/switches/micro-switch-x-10gq-b",
         "image": "/img/products/switches/micro-switch-x-10gq-b/elevator-micro-switch-x-10gq-b-1.jpg",
         "alttext": "Elevator Micro Switch Elevator Spare Parts",
         "slider": [
-          "elevator-micro-switch-x-10gq-b-1",
-          "elevator-micro-switch-x-10gq-b-2"
+          "elevator-micro-switch-x-10gq-b-1"   
         ],
         "canonical": "https://www.bestechparts.ae/products/switches/micro-switch-x-10gq-b",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
