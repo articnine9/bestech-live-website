@@ -92,7 +92,11 @@ export default function ProductsPage() {
 />
       <div className="fix">
         {/* Page Header */}
-        <PageHeader title="Products" />
+        <PageHeader title="Products" 
+         breadcrumbs={[
+           
+            { label: "Products"}
+          ]} />
 
         {/* Products Section */}
         <section className="container pt-5">

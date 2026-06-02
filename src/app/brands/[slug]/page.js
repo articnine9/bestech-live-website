@@ -80,7 +80,7 @@ export default async function Page(props) {
 
   if (!matchedCategory) return notFound();
 
-   // ✅ Breadcrumb Schema
+  // ✅ Breadcrumb Schema
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -91,7 +91,7 @@ export default async function Page(props) {
         name: "Home",
         item: "https://www.bestechparts.ae/",
       },
-    
+
       {
         "@type": "ListItem",
         position: 2,
@@ -103,9 +103,9 @@ export default async function Page(props) {
 
   return (
 
-    
+
     <div className="body-dark-bg">
-        {/* ✅ Breadcrumb Schema */}
+      {/* ✅ Breadcrumb Schema */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -113,7 +113,11 @@ export default async function Page(props) {
         }}
       />
       <div className="fix">
-        <PageHeader title={matchedCategory.page_name} />
+        <PageHeader title={matchedCategory.page_name}
+          breadcrumbs={[
+           
+            { label: matchedCategory.page_name }
+          ]} />
         <div className="pb-120">
           <Brand category={matchedCategory} />
         </div>

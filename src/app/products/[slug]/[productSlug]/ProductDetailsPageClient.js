@@ -16,7 +16,20 @@ export default function ProductDetailsPageClient() {
 
   return (
     <>
-      <PageHeader title={product?.name || "Product Not Found"} />
+      <PageHeader title={product?.name || "Product Not Found"} 
+      breadcrumbs={[
+    {
+      label: "Products",
+      href: "/products",
+    },
+    {
+      label: category?.page_name,
+      href: `/products/${slug}`,
+    },
+    {
+      label: product?.name,
+    },
+  ]}/>
       <DetailsSection product={product} category={category} />
     </>
   );

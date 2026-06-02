@@ -135,7 +135,15 @@ export default function BlogContent({ slug }) {
         />
       )}
 
-      <PageHeader title={blog.title} />
+      <PageHeader title={blog.title} breadcrumbs={[
+    {
+      label: "Blog",
+      href: "/blog",
+    },
+    {
+      label: blog.title,
+    },
+  ]}/>
 
       <section className="blog-details padding" id="blog-cta">
         <div className="container">

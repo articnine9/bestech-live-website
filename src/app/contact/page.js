@@ -51,7 +51,10 @@ export async function generateMetadata() {
 const ContactPage = () => {
   return (
     <>
-      <PageHeader title="Contact Us" />
+      <PageHeader title="Contact Us" 
+        breadcrumbs={[
+          { label: "Contact Us" }
+        ]}/>
       <ContactUsSection />
       <MapSection />
     </>

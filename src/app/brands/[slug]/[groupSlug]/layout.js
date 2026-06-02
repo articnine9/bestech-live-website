@@ -4,10 +4,9 @@ export const dynamic = "force-dynamic"; // 🔥 VERY IMPORTANT FOR VERCEL
 export const revalidate = 0; // 🔥 Disable static cache
 
 export async function generateMetadata({ params }) {
-  const { slug, groupSlug } = params || {};
+  const { slug, groupSlug } = await params;
 
-  console.log("➡️ Metadata Params:", params);
-
+  
   if (!slug || !groupSlug) {
     console.log("❌ Missing slug or groupSlug");
     return {

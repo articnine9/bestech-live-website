@@ -46,7 +46,10 @@ export default function BlogPage() {
   return (
     <div className="body-dark-bg">
       <div className="fix">
-        <PageHeader title="Blog" />
+        <PageHeader title="Blog" 
+         breadcrumbs={[
+          { label: "Blog" }
+        ]}/>
         <Blog />
       </div>
     </div>

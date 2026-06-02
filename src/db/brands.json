@@ -8,13 +8,15 @@
     "keywords": "Hyundai elevator spare parts UAE, hyundai elevator spare parts suppliers Dubai, Hyundai elevator components, Hyundai display board parts, Hyundai parts for elevators UAE, Bestech Hyundai elevator parts, Hyundai brand spare parts Bestech, hyundai door roller suppliers, hyundai display board suppliers",
     "canonical": "https://www.bestechparts.ae/brands/hyundai",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-
     "groups": [
       {
         "group_name": "Push Button",
         "slug": "push-button",
         "items": [
-          { "name": "Push Button, 24V", "code": "HYBT01 - A4J16002 A2" },
+          {
+            "name": "Push Button, 24V",
+            "code": "HYBT01 - A4J16002 A2"
+          },
           {
             "name": "Push Button, Installation Hole Size: 34",
             "code": "HYBT02 - AK32"
@@ -29,60 +31,118 @@
         "group_name": "Door Roller",
         "slug": "door-roller",
         "items": [
-          { "name": "Door Roller - Φ66 X 15 X 6202", "code": "HYWR01" },
-          { "name": "Door Roller - Φ45 X 15 X Φ12", "code": "HYWR02" },
-          { "name": "Door Roller - Φ84 X Φ77 X 17 X M10", "code": "HYWR03" },
-          { "name": "Door Roller - Φ30(6200) X 33 X M6", "code": "HYWR04" },
-          { "name": "Door Roller - Φ70 X 10 X 6001", "code": "HYWR05" }
+          {
+            "name": "Door Roller - Φ66 X 15 X 6202",
+            "code": "HYWR01"
+          },
+          {
+            "name": "Door Roller - Φ45 X 15 X Φ12",
+            "code": "HYWR02"
+          },
+          {
+            "name": "Door Roller - Φ84 X Φ77 X 17 X M10",
+            "code": "HYWR03"
+          },
+          {
+            "name": "Door Roller - Φ30(6200) X 33 X M6",
+            "code": "HYWR04"
+          },
+          {
+            "name": "Door Roller - Φ70 X 10 X 6001",
+            "code": "HYWR05"
+          }
         ]
       },
       {
         "group_name": "Guide Shoe Insert",
         "slug": "guide-shoe-insert",
         "items": [
-          { "name": "Guide Shoe Insert - 120 X 22 X 6", "code": "HYGS01" },
-          { "name": "Guide Shoe Insert - 80 X 50 X 57 X 7", "code": "HYGS02" }
+          {
+            "name": "Guide Shoe Insert - 120 X 22 X 6",
+            "code": "HYGS01"
+          },
+          {
+            "name": "Guide Shoe Insert - 80 X 50 X 57 X 7",
+            "code": "HYGS02"
+          }
         ]
       },
       {
         "group_name": "Door Slider",
         "slug": "door-slider",
-        "items": [{ "name": "Door Slider - 96 X 42 X 11", "code": "HYDS01" }]
+        "items": [
+          {
+            "name": "Door Slider - 96 X 42 X 11",
+            "code": "HYDS01"
+          }
+        ]
       },
       {
         "group_name": "Door Lock",
         "slug": "door-lock",
         "items": [
-          { "name": "Door Lock - GLKS-M34", "code": "HYLO01" },
-
-          { "name": "Door Lock", "code": "HYLO04" },
-          { "name": "Door Lock", "code": "HYLO05" }
+          {
+            "name": "Door Lock - GLKS-M34",
+            "code": "HYLO01"
+          },
+          {
+            "name": "Door Lock",
+            "code": "HYLO04"
+          },
+          {
+            "name": "Door Lock",
+            "code": "HYLO05"
+          }
         ]
       },
       {
         "group_name": "Triangle Lock",
         "slug": "triangle-lock",
         "items": [
-          { "name": "Triangle Lock", "code": "HYLO02" },
-          { "name": "Triangle Lock", "code": "HYLO03" }
+          {
+            "name": "Triangle Lock",
+            "code": "HYLO02"
+          },
+          {
+            "name": "Triangle Lock",
+            "code": "HYLO03"
+          }
         ]
       },
       {
         "group_name": "Switches & Sensors",
         "slug": "switches-sensors",
         "items": [
-          { "name": "Limited Switch - ID2-F8-AS1/AS2", "code": "HYSS01" },
-          { "name": "Limited Switch - BUP-50-HD", "code": "HYSS02" },
-          { "name": "Limited Switch - BUP-50-H(BUD-50-H)", "code": "HYSS03" },
-          { "name": "Proximity Switch - PF125/PFI25-8DN", "code": "HYSS04" },
-          { "name": "Load Sensors - HLC-2004 STVF5", "code": "HYSS05" }
+          {
+            "name": "Limited Switch - ID2-F8-AS1/AS2",
+            "code": "HYSS01"
+          },
+          {
+            "name": "Limited Switch - BUP-50-HD",
+            "code": "HYSS02"
+          },
+          {
+            "name": "Limited Switch - BUP-50-H(BUD-50-H)",
+            "code": "HYSS03"
+          },
+          {
+            "name": "Proximity Switch - PF125/PFI25-8DN",
+            "code": "HYSS04"
+          },
+          {
+            "name": "Load Sensors - HLC-2004 STVF5",
+            "code": "HYSS05"
+          }
         ]
       },
       {
         "group_name": "Service Tool",
         "slug": "service-tool",
         "items": [
-          { "name": "Service Tool - STVF 9", "code": "HYTT01 - HHT-WB100" }
+          {
+            "name": "Service Tool - STVF 9",
+            "code": "HYTT01 - HHT-WB100"
+          }
         ]
       },
       {
@@ -91,13 +151,39 @@
         "meta_title": "Hyundai Elevator Display Board | HYDI01 to HYDI05",
         "meta_description": "Shop Hyundai Elevator Display Board models HYDI01 to HYDI05 for clear floor display, direction arrows, and message alerts inside the lift car.",
         "keywords": "Hyundai Elevator Display Board, Hyundai Display Board HYDI01 - HIPD-CAN, Hyundai Display Board HYDI02 - HIP-CM, Hyundai Display Board HYDI03 - OPB-CAN-INDICATOR, Hyundai Display Board HYDI04 - HIPD-CAN-LCD, Hyundai Display Board HYDI05 - HPID-CAN",
-        "paragraph_text": "<h2>Hyundai Elevator Display Boards for Clear Floor Updates</h2>\n<p>The Hyundai Elevator Display Board is a crucial component of the elevator car. It facilitates people's understanding of the lift's location, direction of travel, and presence of any special messages. This display is usually placed above the button panel or built into it so that riders can see the details clearly during the ride. Clear floor numbers and direction signs help make lift use easy and stress free for daily users.</p>\n<p>These display boards are used in many buildings where smooth and clear lift movement information is needed. They help people feel more confident while using the elevator by showing updates in a simple and readable way. From homes to offices and public buildings, these displays support better communication inside the lift.</p>\n<h2>What the Hyundai Elevator Display Board Shows</h2>\n<p>The main purpose of the Hyundai Elevator Display Board is to share key travel details with passengers. It shows the current floor number so users know where the lift is at any moment. It also shows whether the elevator is going up or down, which helps everyone to understand the movement clearly. In some cases, short system messages may also appear to guide users during operation.</p>\n<p>It stays within easy view throughout the ride because the display is placed near or above the button panel. This placement helps users check updates without turning or searching for information. The clear layout supports smooth movement awareness from the moment the doors close until they open again.</p>\n<h2>System Compatibility and Model Overview</h2>\n<p>The Hyundai display board range includes several models designed to work with specific system types. These models support different setups while keeping the same purpose of showing clear lift information.</p>\n<p>The available models include:</p>\n<ul>\n  <li><strong>Hyundai Display Board HYDI01 – HIPD-CAN</strong></li>\n  <li><strong>Hyundai Display Board HYDI02 – HIP-CMO</strong></li>\n  <li><strong>Hyundai Display Board HYDI03 – OPB-CAN-INDICATOR</strong></li>\n  <li><strong>Hyundai Display Board HYDI04 – HIPD-CAN-LCD</strong></li>\n  <li><strong>Hyundai Display Board HYDI05 – HPID-CAN</strong></li>\n</ul>\n<h3>Hyundai Display Board HYDI01 – HIPD-CAN</h3>\n<p>The HYDI01 (HIPD-CAN) is the foundational, standard LED display board for Landing Operating Panels (LOP) in Hyundai elevator systems. It is basically used to display floor numbers and directional arrows at each floor landing. This robust component communicates via the CAN-bus protocol, ensuring clear and steady visibility for passengers during elevator operations.</p>\n<h3>Hyundai Display Board HYDI02 – HIP-CMO</h3>\n<p>The HYDI02 (HIP-CMO) board serves a similar function to the HYDI01, acting as an interface logic PCB for Landing Operating Panels (LOP). It is frequently interchangeable with the HIPD-CAN in specific assemblies. This board maintains full compatibility with the STVF5 and STVF7 systems and focuses on robust signal processing for reliable floor and direction indicators.</p>\n<h3>Hyundai Display Board HYDI03 – OPB-CAN-INDICATOR</h3>\n<p>The HYDI03 (OPB-CAN-INDICATOR) is a specialized display board designed for the Car Operating Panel (COP), the main control panel located inside the elevator car. Its features are tailored to integrate seamlessly with the car's internal wiring harness, displaying the current floor position and travel direction with high reliability within the lift cabin environment.</p>\n<h3>Hyundai Display Board HYDI04 – HIPD-CAN-LCD</h3>\n<p>The HYDI04 (HIPD-CAN-LCD) introduces modern display technology to the Hyundai lineup by utilizing a Liquid Crystal Display (LCD) rather than traditional LED segments. This upgrade allows for high-resolution graphics, custom text messages (e.g., \"Fire Alarm,\" \"Out of Service\"), and enhanced aesthetic appeal. It offers dynamic content capabilities for both LOP and COP applications where a premium visual interface is desired.</p>\n<h3>Hyundai Display Board HYDI05 – HPID-CAN</h3>\n<p>The HYDI05 (HPID-CAN) is a versatile hardware revision that provides broader compatibility across Hyundai systems, including STVF5, STVF7, and STVF8. This robust display board is designed for both domestic and overseas markets, offering high resistance to vibration and physical impact while maintaining reliable, high-visibility floor and direction indication via the CAN-bus network.</p>\n<h2>Why These Display Boards Matter in Daily Lift Use</h2>\n<p>A clear display inside the elevator helps people feel comfortable and informed. When riders can see the floor number and direction, they understand what the lift is doing at every moment. This reduces confusion and makes travel smoother for everyone, including visitors who are not familiar with the building.</p>\n<p>The Hyundai Elevator Display Board range supports this by offering multiple models that fit different system needs. Each model focuses on clear presentation and easy viewing. The simple layout helps users read the display quickly without effort.</p>\n<p>These display boards are suitable for many types of buildings and lift setups. With proper placement and system matching, they help improve the overall lift experience by keeping information visible and easy to follow.</p>\n<h2>A Simple and Clear Display Solution for Elevators</h2>\n<p>Choosing the right display board helps maintain clear communication inside the elevator car. The Hyundai range offers options that work with STVF5, STVF7, and STVF8 systems, making it easier to match the correct model for each setup. With support for floor numbers, direction signs, and short messages, these boards help create a smooth and clear lift journey.</p>\n<p>The Hyundai Elevator Display Board range supports daily operation by keeping users informed at every step. With clear placement, simple viewing, and multiple model choices, these display boards help ensure that every ride feels easy to understand and well guided.</p>",
+        "paragraph_text": [
+          "<h2><strong>Hyundai Elevator Display Boards for Clear Floor Updates</strong></h2>",
+          "<p>The Hyundai Elevator Display Board is a crucial component of the elevator car. It facilitates people's understanding of the lift's location, direction of travel, and presence of any special messages. This display is usually placed above the button panel or built into it so that riders can see the details clearly during the ride. Clear floor numbers and direction signs help make lift use easy and stress free for daily users.</p>",
+          "<p>These display boards are used in many buildings where smooth and clear lift movement information is needed. They help people feel more confident while using the elevator by showing updates in a simple and readable way. From homes to offices and public buildings, these displays support better communication inside the lift.</p>",
+          "<h2><strong>What the Hyundai Elevator Display Board Shows</strong></h2>",
+          "<p>The main purpose of the Hyundai Elevator Display Board is to share key travel details with passengers. It shows the current floor number so users know where the lift is at any moment. It also shows whether the elevator is going up or down, which helps everyone to understand the movement clearly. In some cases, short system messages may also appear to guide users during operation.</p>",
+          "<p>It stays within easy view throughout the ride because the display is placed near or above the button panel. This placement helps users check updates without turning or searching for information. The clear layout supports smooth movement awareness from the moment the doors close until they open again.</p>",
+          "<h2><strong>System Compatibility and Model Overview</strong></h2>",
+          "<p>The Hyundai display board range includes several models designed to work with specific system types. These models support different setups while keeping the same purpose of showing clear lift information.</p>",
+          "<p>The available models include:</p>",
+          "<ul><li><strong>Hyundai Display Board HYDI01 – HIPD-CAN</strong></li>\n  <li><strong>Hyundai Display Board HYDI02 – HIP-CMO</strong></li>\n  <li><strong>Hyundai Display Board HYDI03 – OPB-CAN-INDICATOR</strong></li>\n  <li><strong>Hyundai Display Board HYDI04 – HIPD-CAN-LCD</strong></li>\n  <li><strong>Hyundai Display Board HYDI05 – HPID-CAN</strong></li>\n</ul>",
+          "<h3><strong>Hyundai Display Board HYDI01 – HIPD-CAN</strong></h3>",
+          "<p>The HYDI01 (HIPD-CAN) is the foundational, standard LED display board for Landing Operating Panels (LOP) in Hyundai elevator systems. It is basically used to display floor numbers and directional arrows at each floor landing. This robust component communicates via the CAN-bus protocol, ensuring clear and steady visibility for passengers during elevator operations.</p>",
+          "<h3><strong>Hyundai Display Board HYDI02 – HIP-CMO</strong></h3>",
+          "<p>The HYDI02 (HIP-CMO) board serves a similar function to the HYDI01, acting as an interface logic PCB for Landing Operating Panels (LOP). It is frequently interchangeable with the HIPD-CAN in specific assemblies. This board maintains full compatibility with the STVF5 and STVF7 systems and focuses on robust signal processing for reliable floor and direction indicators.</p>\n<h3>Hyundai Display Board HYDI03 – OPB-CAN-INDICATOR</h3>",
+          "<p>The HYDI03 (OPB-CAN-INDICATOR) is a specialized display board designed for the Car Operating Panel (COP), the main control panel located inside the elevator car. Its features are tailored to integrate seamlessly with the car's internal wiring harness, displaying the current floor position and travel direction with high reliability within the lift cabin environment.</p>\n<h3>Hyundai Display Board HYDI04 – HIPD-CAN-LCD</h3>",
+          "<p>The HYDI04 (HIPD-CAN-LCD) introduces modern display technology to the Hyundai lineup by utilizing a Liquid Crystal Display (LCD) rather than traditional LED segments. This upgrade allows for high-resolution graphics, custom text messages (e.g., \"Fire Alarm,\" \"Out of Service\"), and enhanced aesthetic appeal. It offers dynamic content capabilities for both LOP and COP applications where a premium visual interface is desired.</p>",
+          "<h3><strong>Hyundai Display Board HYDI05 – HPID-CAN</strong></h3>",
+          "<p>The HYDI05 (HPID-CAN) is a versatile hardware revision that provides broader compatibility across Hyundai systems, including STVF5, STVF7, and STVF8. This robust display board is designed for both domestic and overseas markets, offering high resistance to vibration and physical impact while maintaining reliable, high-visibility floor and direction indication via the CAN-bus network.</p>\n<h2>Why These Display Boards Matter in Daily Lift Use</h2>",
+          "<p>A clear display inside the elevator helps people feel comfortable and informed. When riders can see the floor number and direction, they understand what the lift is doing at every moment. This reduces confusion and makes travel smoother for everyone, including visitors who are not familiar with the building.</p>\n<p>The Hyundai Elevator Display Board range supports this by offering multiple models that fit different system needs. Each model focuses on clear presentation and easy viewing. The simple layout helps users read the display quickly without effort.</p>",
+          "<p>These display boards are suitable for many types of buildings and lift setups. With proper placement and system matching, they help improve the overall lift experience by keeping information visible and easy to follow.</p>",
+          "<h2><strong>A Simple and Clear Display Solution for Elevators</strong></h2>",
+          "<p>Choosing the right display board helps maintain clear communication inside the elevator car. The Hyundai range offers options that work with STVF5, STVF7, and STVF8 systems, making it easier to match the correct model for each setup. With support for floor numbers, direction signs, and short messages, these boards help create a smooth and clear lift journey.</p>\n<p>The Hyundai Elevator Display Board range supports daily operation by keeping users informed at every step. With clear placement, simple viewing, and multiple model choices, these display boards help ensure that every ride feels easy to understand and well guided.</p>"
+        ],
         "items": [
           {
             "name": "Display Board - STVF5/STVF7",
             "code": "HYDI01 - HIPD-CAN"
           },
-          { "name": "Display Board - STVF5/STVF7", "code": "HYDI02 - HIP-CMO" },
+          {
+            "name": "Display Board - STVF5/STVF7",
+            "code": "HYDI02 - HIP-CMO"
+          },
           {
             "name": "Display Board - STVF5/STVF7",
             "code": "HYDI03 - OPB-CAN-INDICATOR"
@@ -110,30 +196,84 @@
             "name": "Display Board - STVF5/STVF8",
             "code": "HYDI05 - HPID-CAN"
           },
-          { "name": "Display Board", "code": "HYDI06 - HPID-CANV3.1" },
-          { "name": "Display Board", "code": "HYDI07 - HPID-CANV3.2" },
-          { "name": "Display Board", "code": "HYDI08 - COLTD12SEG" }
+          {
+            "name": "Display Board",
+            "code": "HYDI06 - HPID-CANV3.1"
+          },
+          {
+            "name": "Display Board",
+            "code": "HYDI07 - HPID-CANV3.2"
+          },
+          {
+            "name": "Display Board",
+            "code": "HYDI08 - COLTD12SEG"
+          }
         ]
       },
       {
         "group_name": "PC Board",
         "slug": "pc-board",
         "items": [
-          { "name": "PC Board - HIDC-N", "code": "HYPCB01" },
-          { "name": "PC Board - BOARD 204C1699 H22", "code": "HYPCB02 - MPCU" },
-          { "name": "PC Board - OPB-340", "code": "HYPCB03" },
-          { "name": "PC Board - PWR", "code": "HYPCB04" },
-          { "name": "PC Board - TCB-3", "code": "HYPCB05" },
-          { "name": "PC Board - M33 BD REV .D1", "code": "HYPCB06" },
-          { "name": "PC Board - MCU, STVF7/DWG N 20400065", "code": "HYPCB07" },
-          { "name": "PC Board - STVF7", "code": "HYPCB08 - TNP7A" },
-          { "name": "PC Board - OPB-340, STVF5/STVF7", "code": "HYPCB09" },
-          { "name": "PC Board - CCB-7", "code": "HYPCB10" },
-          { "name": "PC Board - STVF5/STVF8", "code": "HYPCB11 - HIVD900SS" },
-          { "name": "PC Board - PSDM", "code": "HYPCB12" },
-          { "name": "PC Board - H9G 15SF R4.0 CAUTION", "code": "HYPCB13" },
-          { "name": "PC Board - TPB-2", "code": "HYPCB14" },
-          { "name": "PC Board - XDDY-12V V3.3", "code": "HYPCB15" }
+          {
+            "name": "PC Board - HIDC-N",
+            "code": "HYPCB01"
+          },
+          {
+            "name": "PC Board - BOARD 204C1699 H22",
+            "code": "HYPCB02 - MPCU"
+          },
+          {
+            "name": "PC Board - OPB-340",
+            "code": "HYPCB03"
+          },
+          {
+            "name": "PC Board - PWR",
+            "code": "HYPCB04"
+          },
+          {
+            "name": "PC Board - TCB-3",
+            "code": "HYPCB05"
+          },
+          {
+            "name": "PC Board - M33 BD REV .D1",
+            "code": "HYPCB06"
+          },
+          {
+            "name": "PC Board - MCU, STVF7/DWG N 20400065",
+            "code": "HYPCB07"
+          },
+          {
+            "name": "PC Board - STVF7",
+            "code": "HYPCB08 - TNP7A"
+          },
+          {
+            "name": "PC Board - OPB-340, STVF5/STVF7",
+            "code": "HYPCB09"
+          },
+          {
+            "name": "PC Board - CCB-7",
+            "code": "HYPCB10"
+          },
+          {
+            "name": "PC Board - STVF5/STVF8",
+            "code": "HYPCB11 - HIVD900SS"
+          },
+          {
+            "name": "PC Board - PSDM",
+            "code": "HYPCB12"
+          },
+          {
+            "name": "PC Board - H9G 15SF R4.0 CAUTION",
+            "code": "HYPCB13"
+          },
+          {
+            "name": "PC Board - TPB-2",
+            "code": "HYPCB14"
+          },
+          {
+            "name": "PC Board - XDDY-12V V3.3",
+            "code": "HYPCB15"
+          }
         ]
       }
     ]
@@ -147,27 +287,49 @@
     "keywords": "kone elevator spare parts uae, Kone elevator spare parts suppliers Dubai, KONE Lift Spare Parts Dubai",
     "canonical": "https://www.bestechparts.ae/brands/kone",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-
     "groups": [
       {
         "group_name": "Push Button",
         "slug": "push-button",
         "items": [
-          { "name": "Push Button Round - KD550", "code": "KOBT01 - KD550" },
-          { "name": "Push Button Round - KD550", "code": "KOBT02 - KD550" },
-          { "name": "Push Button Round - KDS300", "code": "KOBT03 - KDS300" },
-          { "name": "Push Button Square - KDS300", "code": "KOBT04 - KDS300" },
-          { "name": "Button Plate", "code": "KOBT05" }
+          {
+            "name": "Push Button Round - KD550",
+            "code": "KOBT01 - KD550"
+          },
+          {
+            "name": "Push Button Round - KD550",
+            "code": "KOBT02 - KD550"
+          },
+          {
+            "name": "Push Button Round - KDS300",
+            "code": "KOBT03 - KDS300"
+          },
+          {
+            "name": "Push Button Square - KDS300",
+            "code": "KOBT04 - KDS300"
+          },
+          {
+            "name": "Button Plate",
+            "code": "KOBT05"
+          }
         ]
       },
-
       {
         "group_name": "Door Roller & Sheave",
         "slug": "door-roller-sheave",
         "items": [
-          { "name": "Door Roller - Ø68 X 17 X M10", "code": "KOWR01" },
-          { "name": "Door Roller - Ø94 X 19 X M8", "code": "KOWR02A" },
-          { "name": "Door Roller - Ø94 X 19 X M10", "code": "KOWR02B" },
+          {
+            "name": "Door Roller - Ø68 X 17 X M10",
+            "code": "KOWR01"
+          },
+          {
+            "name": "Door Roller - Ø94 X 19 X M8",
+            "code": "KOWR02A"
+          },
+          {
+            "name": "Door Roller - Ø94 X 19 X M10",
+            "code": "KOWR02B"
+          },
           {
             "name": "Door Roller - Ø85 X 17 X 9 6203",
             "code": "KOWR19 - KFKM68226601K"
@@ -180,7 +342,10 @@
             "name": "Door Roller - Ø85 X 17 X Ø10",
             "code": "KOWR21 - "
           },
-          { "name": "Car Door Roller - Ø60 X 14 X M8", "code": "KOWR03" },
+          {
+            "name": "Car Door Roller - Ø60 X 14 X M8",
+            "code": "KOWR03"
+          },
           {
             "name": "Car Door Roller - Ø64 X Ø39 X 16 X M12",
             "code": "KOWR04"
@@ -189,8 +354,14 @@
             "name": "Sheave - Ø45 X 11 X Ø10",
             "code": "KOWR11 - "
           },
-          { "name": "Sheave - Ø48 X 8 X Ø10", "code": "KOWR17" },
-          { "name": "Sheave - Ø116 X 12 X Ø10", "code": "KOWR18" },
+          {
+            "name": "Sheave - Ø48 X 8 X Ø10",
+            "code": "KOWR17"
+          },
+          {
+            "name": "Sheave - Ø116 X 12 X Ø10",
+            "code": "KOWR18"
+          },
           {
             "name": "Sheave Components - Ø45 X 11 X Ø10",
             "code": "KOWR22 - "
@@ -345,15 +516,26 @@
           }
         ]
       },
-
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
         "items": [
-          { "name": "Guide Shoe Insert - 128 X 34 X 16mm", "code": "KOGS01" },
-          { "name": "Guide Shoe Insert - 128 X 34 X 10mm", "code": "KOGS02" },
-          { "name": "Guide Shoe Insert - 140 X 30 X 16mm", "code": "KOGS03" },
-          { "name": "Guide Shoe Insert - 140 X 30 X 10mm", "code": "KOGS04" },
+          {
+            "name": "Guide Shoe Insert - 128 X 34 X 16mm",
+            "code": "KOGS01"
+          },
+          {
+            "name": "Guide Shoe Insert - 128 X 34 X 10mm",
+            "code": "KOGS02"
+          },
+          {
+            "name": "Guide Shoe Insert - 140 X 30 X 16mm",
+            "code": "KOGS03"
+          },
+          {
+            "name": "Guide Shoe Insert - 140 X 30 X 10mm",
+            "code": "KOGS04"
+          },
           {
             "name": "Guide Shoe Insert - 80 X 25 X 5mm",
             "code": "KOGS05 - "
@@ -378,21 +560,32 @@
             "name": "Guide Shoe With Rubber Cushion - 130 X 10/16mm",
             "code": "KOGS10 - "
           },
-          { "name": "Guide Shoe", "code": "KOGS12" },
+          {
+            "name": "Guide Shoe",
+            "code": "KOGS12"
+          },
           {
             "name": "Guide Shoe - 120 X 22 X 29mm",
             "code": "KOGS11 - "
           }
         ]
       },
-
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
         "items": [
-          { "name": "Door Slider - 70 X 40 X 14", "code": "KODS01" },
-          { "name": "Door Slider - 70 X 42 X 12.5", "code": "KODS02" },
-          { "name": "Door Slider - 71 X 15 X 12", "code": "KODS03" },
+          {
+            "name": "Door Slider - 70 X 40 X 14",
+            "code": "KODS01"
+          },
+          {
+            "name": "Door Slider - 70 X 42 X 12.5",
+            "code": "KODS02"
+          },
+          {
+            "name": "Door Slider - 71 X 15 X 12",
+            "code": "KODS03"
+          },
           {
             "name": "Door Slider - 71 X 14 X 3 - Φ7",
             "code": "KODS04 - "
@@ -409,31 +602,50 @@
             "name": "Frequency Conversion Door Vane",
             "code": "KODV01 - "
           },
-          { "name": "Mechanical Door Vane", "code": "KODV02" },
-          { "name": "Door Vane", "code": "KODV03" }
+          {
+            "name": "Mechanical Door Vane",
+            "code": "KODV02"
+          },
+          {
+            "name": "Door Vane",
+            "code": "KODV03"
+          }
         ]
       },
-
       {
         "group_name": "Door Lock & power Lock",
         "slug": "door-lock",
         "items": [
-          { "name": "Door Lock (Right)", "code": "KOLO01 - MKG161-09" },
-          { "name": "Power Lock - Ø28", "code": "KOLO03" },
+          {
+            "name": "Door Lock (Right)",
+            "code": "KOLO01 - MKG161-09"
+          },
+          {
+            "name": "Power Lock - Ø28",
+            "code": "KOLO03"
+          },
           {
             "name": "Power Lock (Thin Type) - Ø28",
             "code": "KOLO02 - "
           }
         ]
       },
-
       {
         "group_name": "Sensors",
         "slug": "sensors",
         "items": [
-          { "name": "Leveling Sensor - 61U, 61N", "code": "KOSS01" },
-          { "name": "Leveling Sensor - 77U, 77N", "code": "KOSS02" },
-          { "name": "Leveling Sensor - BAR2000", "code": "KOSS04" },
+          {
+            "name": "Leveling Sensor - 61U, 61N",
+            "code": "KOSS01"
+          },
+          {
+            "name": "Leveling Sensor - 77U, 77N",
+            "code": "KOSS02"
+          },
+          {
+            "name": "Leveling Sensor - BAR2000",
+            "code": "KOSS04"
+          },
           {
             "name": "Leveling Sensor - 61U, 61N, 30S",
             "code": "KOSS01 - 740336 G01"
@@ -452,44 +664,64 @@
           }
         ]
       },
-
       {
         "group_name": "Inspection & Oil Box",
         "slug": "inspection-oil-box",
         "items": [
-          { "name": "Car Top Inspection Box", "code": "KOIB01" },
-          { "name": "Oil Box Square", "code": "KOOC01" }
+          {
+            "name": "Car Top Inspection Box",
+            "code": "KOIB01"
+          },
+          {
+            "name": "Oil Box Square",
+            "code": "KOOC01"
+          }
         ]
       },
-
       {
         "group_name": "Service Tool & Decoder",
         "slug": "service-tool-decoder",
         "items": [
-          { "name": "Service Tool", "code": "KOTT01" },
-          { "name": "Decode Board", "code": "KOTT02" }
+          {
+            "name": "Service Tool",
+            "code": "KOTT01"
+          },
+          {
+            "name": "Decode Board",
+            "code": "KOTT02"
+          }
         ]
       },
-
       {
         "group_name": "Encoder",
         "slug": "encoder",
         "items": [
-          { "name": "Encoder for KDL16L Inverter", "code": "KOEN01" },
-          { "name": "Encoder for MX14 Motor", "code": "KOEN02" },
+          {
+            "name": "Encoder for KDL16L Inverter",
+            "code": "KOEN01"
+          },
+          {
+            "name": "Encoder for MX14 Motor",
+            "code": "KOEN02"
+          },
           {
             "name": "Encoder for MX14 Motor, TS5246N705",
             "code": "KOEN03 - KM5002777"
           }
         ]
       },
-
       {
         "group_name": "Door Motor & Controller",
         "slug": "door-motor-controller",
         "items": [
-          { "name": "Door Motor", "code": "KODM01" },
-          { "name": "Door Motor Transformer", "code": "KODM05" },
+          {
+            "name": "Door Motor",
+            "code": "KODM01"
+          },
+          {
+            "name": "Door Motor Transformer",
+            "code": "KODM05"
+          },
           {
             "name": "Door Motor",
             "code": "KODM01 - 89717G08"
@@ -510,7 +742,10 @@
             "name": "Door Motor Transformer",
             "code": "KODM05 - KM606850G01"
           },
-          { "name": "Door Controller Board", "code": "KODC01" },
+          {
+            "name": "Door Controller Board",
+            "code": "KODC01"
+          },
           {
             "name": "Door Controller Board",
             "code": "KODC01 - 601810G01"
@@ -529,12 +764,14 @@
           }
         ]
       },
-
       {
         "group_name": "Brake, Fan & Tachometer",
         "slug": "brake-fan-tachometer",
         "items": [
-          { "name": "Brake Coil - MX10", "code": "KOBM01" },
+          {
+            "name": "Brake Coil - MX10",
+            "code": "KOBM01"
+          },
           {
             "name": "Brake Coil - MX10",
             "code": "KOBM01 - KM650824G01/02"
@@ -543,39 +780,58 @@
             "name": "Fan - D2E133-DM47-E6",
             "code": "KOBM02 - KM255063"
           },
-          { "name": "Fan - D2E133-DM47-E6", "code": "KOBM02" },
+          {
+            "name": "Fan - D2E133-DM47-E6",
+            "code": "KOBM02"
+          },
           {
             "name": "Tachometer - Type: RE.0444L1B0.06CA",
             "code": "KOBM03 - KM814490G01"
           },
-          { "name": "Tachometer", "code": "KOBM03" },
+          {
+            "name": "Tachometer",
+            "code": "KOBM03"
+          },
           {
             "name": "Tachometer - RE.0444L1B0.06CA",
             "code": "KOBM04 - KM276027"
           }
         ]
       },
-
       {
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
         "items": [
-          { "name": "Frequency Inverter - V3F16L", "code": "KOFI01" },
-          { "name": "Frequency Inverter - KDL16", "code": "KOFI02" },
+          {
+            "name": "Frequency Inverter - V3F16L",
+            "code": "KOFI01"
+          },
+          {
+            "name": "Frequency Inverter - KDL16",
+            "code": "KOFI02"
+          },
           {
             "name": "Frequency Inverter - KDL16R",
             "code": "KOFI03 - KM968094G03"
           }
         ]
       },
-
       {
         "group_name": "HOP",
         "slug": "hop",
         "items": [
-          { "name": "HOP", "code": "KOHOP01" },
-          { "name": "HOP", "code": "KOHOP02" },
-          { "name": "HOP", "code": "KOHOP03" },
+          {
+            "name": "HOP",
+            "code": "KOHOP01"
+          },
+          {
+            "name": "HOP",
+            "code": "KOHOP02"
+          },
+          {
+            "name": "HOP",
+            "code": "KOHOP03"
+          },
           {
             "name": "HOP",
             "code": "KOHOP04 - "
@@ -590,18 +846,22 @@
           }
         ]
       },
-
       {
         "group_name": "Display Board",
         "slug": "display-board",
-
         "items": [
-          { "name": "Landing Display Board", "code": "KODI01" },
+          {
+            "name": "Landing Display Board",
+            "code": "KODI01"
+          },
           {
             "name": "Landing Display Board",
             "code": "KODI06 - KM863270G02"
           },
-          { "name": "Car Display Board", "code": "KODI02" },
+          {
+            "name": "Car Display Board",
+            "code": "KODI02"
+          },
           {
             "name": "Car Display Board",
             "code": "KODI02 - 713563H05"
@@ -680,7 +940,6 @@
           }
         ]
       },
-
       {
         "group_name": "PC Board",
         "slug": "pc-board",
@@ -897,9 +1156,18 @@
             "name": "PC Board",
             "code": "KOPCB53 - KM937520G01"
           },
-          { "name": "PC Board - V3F16L-A1", "code": "KOPCB05" },
-          { "name": "PC Board - LCE CPU", "code": "KOPCB16" },
-          { "name": "Safety Circuit PC Board", "code": "KOPCB24" }
+          {
+            "name": "PC Board - V3F16L-A1",
+            "code": "KOPCB05"
+          },
+          {
+            "name": "PC Board - LCE CPU",
+            "code": "KOPCB16"
+          },
+          {
+            "name": "Safety Circuit PC Board",
+            "code": "KOPCB24"
+          }
         ]
       }
     ]
@@ -913,7 +1181,6 @@
     "keywords": "mitsubishi elevator spare parts uae, mitsubishi elevator spare parts suppliers Dubai, mitsubishi Lift Spare Parts Dubai, mitsubishi Elevator Parts Supplier UAE, mitsubishi Lift Spare Parts Suppliers in UAE",
     "canonical": "https://www.bestechparts.ae/brands/mitsubishi",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-
     "groups": [
       {
         "group_name": "Push Buttons",
@@ -947,31 +1214,68 @@
             "name": "Push Button LEHY-11 - Installation Hole Size:Φ37",
             "code": "MIBT07 - P235801B000G01"
           },
-          { "name": "Push Button", "code": "MIBT08 - LHB-005B" },
-          { "name": "Push Button", "code": "MIBT09 - LHB-007B" },
-          { "name": "Push Button", "code": "MIBT10 - LHB-006B" },
-          { "name": "Push Button", "code": "MIBT11 - LHB-051A" },
-          { "name": "Push Button", "code": "MIBT12 - LHB-008B" },
-          { "name": "Push Button", "code": "MIBT13 - LHB-052A" },
-          { "name": "Push Button", "code": "MIBT14 - J-M5112" },
-          { "name": "Push Button", "code": "MIBT15 - D51.31AG01" },
-          { "name": "Push Button", "code": "MIBT16 - J-M5497-01" }
+          {
+            "name": "Push Button",
+            "code": "MIBT08 - LHB-005B"
+          },
+          {
+            "name": "Push Button",
+            "code": "MIBT09 - LHB-007B"
+          },
+          {
+            "name": "Push Button",
+            "code": "MIBT10 - LHB-006B"
+          },
+          {
+            "name": "Push Button",
+            "code": "MIBT11 - LHB-051A"
+          },
+          {
+            "name": "Push Button",
+            "code": "MIBT12 - LHB-008B"
+          },
+          {
+            "name": "Push Button",
+            "code": "MIBT13 - LHB-052A"
+          },
+          {
+            "name": "Push Button",
+            "code": "MIBT14 - J-M5112"
+          },
+          {
+            "name": "Push Button",
+            "code": "MIBT15 - D51.31AG01"
+          },
+          {
+            "name": "Push Button",
+            "code": "MIBT16 - J-M5497-01"
+          }
         ]
       },
-
       {
         "group_name": "Door Rollers,Belt Roller & Sheaves",
         "slug": "door-rollers-belt-roller-sheaves",
         "items": [
-          { "name": "Door Roller Nylon Φ56 X 14 X 6201", "code": "MIWR01" },
-          { "name": "Door Roller Φ56 X 14 X 6201", "code": "MIWR02" },
-          { "name": "Door Roller With Axle Φ56 X 14 X M10", "code": "MIWR03" },
+          {
+            "name": "Door Roller Nylon Φ56 X 14 X 6201",
+            "code": "MIWR01"
+          },
+          {
+            "name": "Door Roller Φ56 X 14 X 6201",
+            "code": "MIWR02"
+          },
+          {
+            "name": "Door Roller With Axle Φ56 X 14 X M10",
+            "code": "MIWR03"
+          },
           {
             "name": "Door Roller, Φ25 X 10 X M8",
             "code": "MIWR04"
           },
-
-          { "name": "Door Roller Φ72 X 15 X 6202", "code": "MIWR09" },
+          {
+            "name": "Door Roller Φ72 X 15 X 6202",
+            "code": "MIWR09"
+          },
           {
             "name": "Door Roller, Nylon, Φ72 X 15 X 6202",
             "code": "MIWR10"
@@ -996,7 +1300,10 @@
             "name": "Car Door Roller, Φ84 X 18 X 6204",
             "code": "MIWR11"
           },
-          { "name": "Guide Shoe Roller Φ150 X 32 X 2-6203", "code": "MIVR24" },
+          {
+            "name": "Guide Shoe Roller Φ150 X 32 X 2-6203",
+            "code": "MIVR24"
+          },
           {
             "name": "Belt Roller,Φ90 X 30 X Φ20 X 32",
             "code": "MIWR12"
@@ -1039,7 +1346,6 @@
           }
         ]
       },
-
       {
         "group_name": "Guide Shoes",
         "slug": "guide-shoes",
@@ -1064,8 +1370,14 @@
             "name": "Guide Shoe Insert, 120 X 27 X 9",
             "code": "MIGS05"
           },
-          { "name": "Guide Shoe Assembly 86 X 18/12", "code": "MIGS07" },
-          { "name": "Guide Shoe Assembly 230 X 10/16", "code": "MIGS08" },
+          {
+            "name": "Guide Shoe Assembly 86 X 18/12",
+            "code": "MIGS07"
+          },
+          {
+            "name": "Guide Shoe Assembly 230 X 10/16",
+            "code": "MIGS08"
+          },
           {
             "name": "Guide Shoe Assembly, 86 X 18/12, Mounting Hole:68",
             "code": "MIGS07"
@@ -1156,31 +1468,50 @@
         "group_name": "Door Sliders",
         "slug": "door-sliders",
         "items": [
-          { "name": "Door Slider 65 X 40 X 11.5", "code": "MIDS01" },
-          { "name": "Door Slider 62 X 40 X 10", "code": "MIDS02" },
-          { "name": "Door Slider 54 X 44 X 12", "code": "MIDS03" }
+          {
+            "name": "Door Slider 65 X 40 X 11.5",
+            "code": "MIDS01"
+          },
+          {
+            "name": "Door Slider 62 X 40 X 10",
+            "code": "MIDS02"
+          },
+          {
+            "name": "Door Slider 54 X 44 X 12",
+            "code": "MIDS03"
+          }
         ]
       },
-
       {
         "group_name": "Door Vanes",
         "slug": "door-vanes",
         "items": [
-          { "name": "Door Vane 161(PB255)", "code": "MIDV01" },
-          { "name": "Door Vane SLK161-06(PB256)", "code": "MIDV02" },
-          { "name": "Door Vane HA1410A1", "code": "MIDV03" },
+          {
+            "name": "Door Vane 161(PB255)",
+            "code": "MIDV01"
+          },
+          {
+            "name": "Door Vane SLK161-06(PB256)",
+            "code": "MIDV02"
+          },
+          {
+            "name": "Door Vane HA1410A1",
+            "code": "MIDV03"
+          },
           {
             "name": "SLH161-08 Door Vane",
             "code": "MIDV04"
           }
         ]
       },
-
       {
         "group_name": "Door Locks,Triangle Lock & Power Locks",
         "slug": "door-locks-power-locks",
         "items": [
-          { "name": "Door Lock PB161A", "code": "MIL001" },
+          {
+            "name": "Door Lock PB161A",
+            "code": "MIL001"
+          },
           {
             "name": "Door Lock (Left)",
             "code": "MIL002 - 161(PB259)"
@@ -1201,19 +1532,46 @@
             "name": "Door Lock",
             "code": "MIL008 - MIL008"
           },
-          { "name": "Door Lock, Small", "code": "MIL011 - SK-C" },
-          { "name": "Door Lock, Small", "code": "MIL012 - SK-A" },
-          { "name": "Door Lock Contact, 161", "code": "MIL013 - " },
-          { "name": "Door Lock Contact, 161", "code": "MIL014 - " },
-          { "name": "Door Lock Contact", "code": "MIL015 - 161A-13" },
-          { "name": "Door Lock Contact", "code": "MIL016 - PB161A-1" },
-          { "name": "Door Lock Contact, 161", "code": "MIL017 - " },
-          { "name": "Triangle Lock PB263", "code": "MIL003" },
+          {
+            "name": "Door Lock, Small",
+            "code": "MIL011 - SK-C"
+          },
+          {
+            "name": "Door Lock, Small",
+            "code": "MIL012 - SK-A"
+          },
+          {
+            "name": "Door Lock Contact, 161",
+            "code": "MIL013 - "
+          },
+          {
+            "name": "Door Lock Contact, 161",
+            "code": "MIL014 - "
+          },
+          {
+            "name": "Door Lock Contact",
+            "code": "MIL015 - 161A-13"
+          },
+          {
+            "name": "Door Lock Contact",
+            "code": "MIL016 - PB161A-1"
+          },
+          {
+            "name": "Door Lock Contact, 161",
+            "code": "MIL017 - "
+          },
+          {
+            "name": "Triangle Lock PB263",
+            "code": "MIL003"
+          },
           {
             "name": "Triangle Lock Key",
             "code": "MIL004 - MIL004"
           },
-          { "name": "Power Lock For HOP Φ20", "code": "MIL009A" },
+          {
+            "name": "Power Lock For HOP Φ20",
+            "code": "MIL009A"
+          },
           {
             "name": "Power Lock For COP",
             "code": "MIL009B - MIL009B"
@@ -1224,46 +1582,120 @@
           }
         ]
       },
-
       {
         "group_name": "Sensors & Switches",
         "slug": "sensors-switches",
         "items": [
-          { "name": "Limited Switch", "code": "MISS01 - S3-1370" },
-          { "name": "Safety Touch Panel Switch", "code": "MISS02 - LXW5-11N1" },
-          { "name": "Buffer Switch", "code": "MISS03 - 3SE3-0201" },
-          { "name": "Photoelectric Switch", "code": "MISS04 - YA043D166-04" },
-          { "name": "Leveling Sensor", "code": "MISS05 - YG-25" },
-          { "name": "Leveling Sensor", "code": "MISS06 - PAD-1" },
-          { "name": "Magnetic Sensor", "code": "MISS07 - ADS-51M" },
-          { "name": "Magnetic Sensor", "code": "MISS10A - KCB-III" },
-          { "name": "Magnetic Sensor", "code": "MISS11 - YG-29" },
-          { "name": "Magnetic Sensor", "code": "MISS12 - YG-1A" },
-          { "name": "Magnetic Sensor", "code": "MISS13 - TNG-DS26E4" },
-          { "name": "Magnetic Sensor", "code": "MISS14 - YG-28" },
-          { "name": "Magnetic Sensor", "code": "MISS15 - YG-30" },
-          { "name": "Magnetic Sensor", "code": "MISS16 - YG-20" },
+          {
+            "name": "Limited Switch",
+            "code": "MISS01 - S3-1370"
+          },
+          {
+            "name": "Safety Touch Panel Switch",
+            "code": "MISS02 - LXW5-11N1"
+          },
+          {
+            "name": "Buffer Switch",
+            "code": "MISS03 - 3SE3-0201"
+          },
+          {
+            "name": "Photoelectric Switch",
+            "code": "MISS04 - YA043D166-04"
+          },
+          {
+            "name": "Leveling Sensor",
+            "code": "MISS05 - YG-25"
+          },
+          {
+            "name": "Leveling Sensor",
+            "code": "MISS06 - PAD-1"
+          },
+          {
+            "name": "Magnetic Sensor",
+            "code": "MISS07 - ADS-51M"
+          },
+          {
+            "name": "Magnetic Sensor",
+            "code": "MISS10A - KCB-III"
+          },
+          {
+            "name": "Magnetic Sensor",
+            "code": "MISS11 - YG-29"
+          },
+          {
+            "name": "Magnetic Sensor",
+            "code": "MISS12 - YG-1A"
+          },
+          {
+            "name": "Magnetic Sensor",
+            "code": "MISS13 - TNG-DS26E4"
+          },
+          {
+            "name": "Magnetic Sensor",
+            "code": "MISS14 - YG-28"
+          },
+          {
+            "name": "Magnetic Sensor",
+            "code": "MISS15 - YG-30"
+          },
+          {
+            "name": "Magnetic Sensor",
+            "code": "MISS16 - YG-20"
+          },
           {
             "name": "Magnetic Sensor, PSMO-25G1",
             "code": "MISS17 - YX40C1097-01A"
           },
-          { "name": "Sensor, YX302C481-01", "code": "MISS18 - X54HA-01" },
-          { "name": "Sensor, HC-MT100V4812", "code": "MISS19 - YX-302C031-02" },
-          { "name": "Sensor", "code": "MISS20 - ESD-R-38B" },
-          { "name": "Car Door Switch For DS-131", "code": "MISS08 - " },
-          { "name": "Car Door Switch For 121", "code": "MISS09 - " }
+          {
+            "name": "Sensor, YX302C481-01",
+            "code": "MISS18 - X54HA-01"
+          },
+          {
+            "name": "Sensor, HC-MT100V4812",
+            "code": "MISS19 - YX-302C031-02"
+          },
+          {
+            "name": "Sensor",
+            "code": "MISS20 - ESD-R-38B"
+          },
+          {
+            "name": "Car Door Switch For DS-131",
+            "code": "MISS08 - "
+          },
+          {
+            "name": "Car Door Switch For 121",
+            "code": "MISS09 - "
+          }
         ]
       },
       {
         "group_name": "Oil & Inspection Box",
         "slug": "oil",
         "items": [
-          { "name": "Oil Box Square", "code": "MIOC01 - MIOC01" },
-          { "name": "Oil Box Round", "code": "MIOC02 - " },
-          { "name": "Oil Can", "code": "MIOC03 - " },
-          { "name": "Oil Box Felt", "code": "MIOC04 - " },
-          { "name": "Oil Seal, Φ78 X Φ55 X 12", "code": "MIBM08 - " },
-          { "name": "Oil Seal, Φ95 X Φ70 X 12", "code": "MIBM09 - " },
+          {
+            "name": "Oil Box Square",
+            "code": "MIOC01 - MIOC01"
+          },
+          {
+            "name": "Oil Box Round",
+            "code": "MIOC02 - "
+          },
+          {
+            "name": "Oil Can",
+            "code": "MIOC03 - "
+          },
+          {
+            "name": "Oil Box Felt",
+            "code": "MIOC04 - "
+          },
+          {
+            "name": "Oil Seal, Φ78 X Φ55 X 12",
+            "code": "MIBM08 - "
+          },
+          {
+            "name": "Oil Seal, Φ95 X Φ70 X 12",
+            "code": "MIBM09 - "
+          },
           {
             "name": "Car Top Inspection Box, 210 X 72",
             "code": "MIIB01 - BE-IB05"
@@ -1274,19 +1706,46 @@
         "group_name": "Encoders & Modules",
         "slug": "encoders-modules",
         "items": [
-          { "name": "Encoder ZKT-18B", "code": "MIEN01" },
+          {
+            "name": "Encoder ZKT-18B",
+            "code": "MIEN01"
+          },
           {
             "name": "Encoder, ZKT-18B-51.2B-G12C(3.5M)",
             "code": "MIEN01 - Z65AC-08"
           },
-          { "name": "Encoder", "code": "MIEN02 - X65AC-20" },
-          { "name": "Encoder", "code": "MIEN03 - X65AC-01" },
-          { "name": "Encoder", "code": "MIEN04 - X65AC-10" },
-          { "name": "Encoder, SBX-8192-5MD", "code": "MIEN05 - X65AC-31" },
-          { "name": "Encoder", "code": "MIEN06 - YTJ031-14" },
-          { "name": "Encoder, SBU-8192-6MD", "code": "MIEN07 - Z65AC-003" },
-          { "name": "Encoder, SBH-8192-5MD", "code": "MIEN08 - " },
-          { "name": "Encoder, ZKT-18B-51.2G12C", "code": "MIEN09 - Z65AC-012" },
+          {
+            "name": "Encoder",
+            "code": "MIEN02 - X65AC-20"
+          },
+          {
+            "name": "Encoder",
+            "code": "MIEN03 - X65AC-01"
+          },
+          {
+            "name": "Encoder",
+            "code": "MIEN04 - X65AC-10"
+          },
+          {
+            "name": "Encoder, SBX-8192-5MD",
+            "code": "MIEN05 - X65AC-31"
+          },
+          {
+            "name": "Encoder",
+            "code": "MIEN06 - YTJ031-14"
+          },
+          {
+            "name": "Encoder, SBU-8192-6MD",
+            "code": "MIEN07 - Z65AC-003"
+          },
+          {
+            "name": "Encoder, SBH-8192-5MD",
+            "code": "MIEN08 - "
+          },
+          {
+            "name": "Encoder, ZKT-18B-51.2G12C",
+            "code": "MIEN09 - Z65AC-012"
+          },
           {
             "name": "Encoder, ZKT-18B-51.2B-G12C-3550MM",
             "code": "MIEN10 - Z65AC-011"
@@ -1295,29 +1754,76 @@
             "name": "Encoder, 47HB1321ZD50H8-B-35-1",
             "code": "MIEN11 - Z65AC-018"
           },
-          { "name": "Encoder", "code": "MIEN12 - 15BBRX-1019-C05" },
-          { "name": "Module", "code": "MIMO01 - 7MBP150RA120-05" },
-          { "name": "Module", "code": "MIMO02 - CM75E3Y-24E" },
-          { "name": "Module", "code": "MIMO03 - CM150DY-24H" },
-          { "name": "Module", "code": "MIMO04 - QM75E1Y-H" },
-          { "name": "Module", "code": "MIMO05 - QM300HH-H" },
-          { "name": "Module", "code": "MIMO06 - CM150DY-24NF" },
-          { "name": "Module", "code": "MIMO07 - PM100RSE120" },
-          { "name": "Module", "code": "MIMO08 - PM150RSE120" },
-          { "name": "Module", "code": "MIMO09 - 2MBI150NC-120" },
-          { "name": "Module", "code": "MIMO10 - CM600HA-24H" }
+          {
+            "name": "Encoder",
+            "code": "MIEN12 - 15BBRX-1019-C05"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO01 - 7MBP150RA120-05"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO02 - CM75E3Y-24E"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO03 - CM150DY-24H"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO04 - QM75E1Y-H"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO05 - QM300HH-H"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO06 - CM150DY-24NF"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO07 - PM100RSE120"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO08 - PM150RSE120"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO09 - 2MBI150NC-120"
+          },
+          {
+            "name": "Module",
+            "code": "MIMO10 - CM600HA-24H"
+          }
         ]
       },
-
       {
         "group_name": "Door Motors,Fan & Brakes",
         "slug": "door-motors-fan-brakes",
         "items": [
-          { "name": "Door Motor EMB-80-4", "code": "MIDM01" },
-          { "name": "Door Motor EMB-48-8", "code": "MIDM02" },
-          { "name": "Door Motor", "code": "MIDM03 - YTJ031-14" },
-          { "name": "Mangent Brake", "code": "MIBM03 - P101041A140G01L01" },
-          { "name": "Brake Plunger", "code": "MIBM04 - " },
+          {
+            "name": "Door Motor EMB-80-4",
+            "code": "MIDM01"
+          },
+          {
+            "name": "Door Motor EMB-48-8",
+            "code": "MIDM02"
+          },
+          {
+            "name": "Door Motor",
+            "code": "MIDM03 - YTJ031-14"
+          },
+          {
+            "name": "Mangent Brake",
+            "code": "MIBM03 - P101041A140G01L01"
+          },
+          {
+            "name": "Brake Plunger",
+            "code": "MIBM04 - "
+          },
           {
             "name": "Brake Copper Bush, Size: 60 X 80 X 55",
             "code": "MIBM05 - "
@@ -1336,45 +1842,144 @@
         "group_name": "Contator & Filter",
         "slug": "contator-filter",
         "items": [
-          { "name": "Contator, DC125V", "code": "MICT01 - SD-N21" },
-          { "name": "Contator, DC125V", "code": "MICT02 - SD-N35" },
-          { "name": "Contator, DC125V", "code": "MICT03 - SD-N50" },
-          { "name": "Contator, DC125V", "code": "MICT04 - SD-N65" },
-          { "name": "Contator, DC125V", "code": "MICT05 - SD-N80" },
-          { "name": "Contator, DC125V", "code": "MICT06 - SD-N95" },
-          { "name": "Contator", "code": "MICT07 - SRD-N4" },
-          { "name": "Contator", "code": "MICT08 - SRD-N8" },
-          { "name": "Filter", "code": "MICT09 - LF360CFW7" }
+          {
+            "name": "Contator, DC125V",
+            "code": "MICT01 - SD-N21"
+          },
+          {
+            "name": "Contator, DC125V",
+            "code": "MICT02 - SD-N35"
+          },
+          {
+            "name": "Contator, DC125V",
+            "code": "MICT03 - SD-N50"
+          },
+          {
+            "name": "Contator, DC125V",
+            "code": "MICT04 - SD-N65"
+          },
+          {
+            "name": "Contator, DC125V",
+            "code": "MICT05 - SD-N80"
+          },
+          {
+            "name": "Contator, DC125V",
+            "code": "MICT06 - SD-N95"
+          },
+          {
+            "name": "Contator",
+            "code": "MICT07 - SRD-N4"
+          },
+          {
+            "name": "Contator",
+            "code": "MICT08 - SRD-N8"
+          },
+          {
+            "name": "Filter",
+            "code": "MICT09 - LF360CFW7"
+          }
         ]
       },
       {
         "group_name": "Transformer, Hop & Display Board",
         "slug": "transformer-hop-display-board",
         "items": [
-          { "name": "Transformer", "code": "MICT10 - X54DC-02" },
-          { "name": "Transformer", "code": "MICT11 - X54GS-18" },
-          { "name": "Transformer", "code": "MICT12 - MCE-4" },
-          { "name": "Transformer", "code": "MICT13 - X54DH-07" },
-          { "name": "Transformer", "code": "MICT14 - YX100C378-02" },
-          { "name": "Display Board", "code": "MIDI01 - " },
-          { "name": "Display Board", "code": "MIDI02 - " },
-          { "name": "Display Board", "code": "MIDI03 - " },
-          { "name": "Display Board", "code": "MIDI04 - " },
-          { "name": "Display Board", "code": "MIDI05 - " },
-          { "name": "Display Board", "code": "MIDI06 - " },
-          { "name": "Display Board", "code": "MIDI07 - " },
-          { "name": "Display Board", "code": "MIDI08 - " },
-          { "name": "Display Board", "code": "MIDI09 - " },
-          { "name": "Display Board", "code": "MIDI10 - " },
-          { "name": "Display Board", "code": "MIDI11 - " },
-          { "name": "Display Board", "code": "MIDI12 - " },
-          { "name": "Display Board", "code": "MIDI13 - " },
-          { "name": "Display Board", "code": "MIDI14 - " },
-          { "name": "Display Board", "code": "MIDI15 - " },
-          { "name": "Display Board", "code": "MIDI16 - " },
-          { "name": "Display Board", "code": "MIDI17 - " },
-          { "name": "Display Board", "code": "MIDI18 - " },
-          { "name": "Display Board", "code": "MIDI19 - " },
+          {
+            "name": "Transformer",
+            "code": "MICT10 - X54DC-02"
+          },
+          {
+            "name": "Transformer",
+            "code": "MICT11 - X54GS-18"
+          },
+          {
+            "name": "Transformer",
+            "code": "MICT12 - MCE-4"
+          },
+          {
+            "name": "Transformer",
+            "code": "MICT13 - X54DH-07"
+          },
+          {
+            "name": "Transformer",
+            "code": "MICT14 - YX100C378-02"
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI01 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI02 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI03 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI04 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI05 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI06 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI07 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI08 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI09 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI10 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI11 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI12 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI13 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI14 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI15 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI16 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI17 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI18 - "
+          },
+          {
+            "name": "Display Board",
+            "code": "MIDI19 - "
+          },
           {
             "name": "HOP box for GPS-3 without display, Simplex",
             "code": "MIDI20 - "
@@ -1389,162 +1994,630 @@
         "group_name": "PC Boards",
         "slug": "pc-boards",
         "items": [
-          { "name": "PC Board A904701B000G01", "code": "MIPCB01" },
-          { "name": "Circuit PC Board DOR-122C", "code": "MIPCB02" },
-          { "name": "PC Board DOR-160D", "code": "MIPCB03" },
-          { "name": "PC Board", "code": "MIPCB04 - DOR-430A" },
-          { "name": "PC Board", "code": "MIPCB05 - DOR-565" },
-          { "name": "PC Board", "code": "MIPCB06 - DOR-590A" },
-          { "name": "PC Board", "code": "MIPCB07 - DOR-710B" },
-          { "name": "PC Board", "code": "MIPCB08 - DOR-1202A" },
-          { "name": "PC Board", "code": "MIPCB09 - DOR-1215A" },
-          { "name": "PC Board", "code": "MIPCB10 - DOR-1231B" },
-          { "name": "PC Board", "code": "MIPCB11 - J631704B000G01" },
-          { "name": "PC Board", "code": "MIPCB12 - KCA-1020C" },
-          { "name": "PC Board", "code": "MIPCB13 - KCA-1081B" },
-          { "name": "PC Board", "code": "MIPCB14 - KCA-1130D" },
-          { "name": "PC Board", "code": "MIPCB15 - KCA-1150A" },
-          { "name": "PC Board", "code": "MIPCB16 - KCA-1160A" },
-          { "name": "PC Board", "code": "MIPCB17 - KCA-1190A" },
-          { "name": "PC Board", "code": "MIPCB18 - KCB-750A" },
-          { "name": "PC Board", "code": "MIPCB19 - KCC-400C" },
-          { "name": "PC Board", "code": "MIPCB20 - KCC-801A" },
-          { "name": "PC Board", "code": "MIPCB21 - KCC-1001C" },
-          { "name": "PC Board", "code": "MIPCB22 - KCD-701C" },
-          { "name": "PC Board", "code": "MIPCB23 - KCD-760A" },
-          { "name": "PC Board", "code": "MIPCB24 - KCD-1001B" },
-          { "name": "PC Board", "code": "MIPCB25 - KCD-1001C" },
-          { "name": "PC Board", "code": "MIPCB26 - KCD-1011A" },
-          { "name": "PC Board", "code": "MIPCB27 - KCD-1013D" },
-          { "name": "PC Board", "code": "MIPCB28 - KCD-1050C" },
-          { "name": "PC Board", "code": "MIPCB29 - KCD-1161A" },
-          { "name": "PC Board", "code": "MIPCB30 - KCJ-400A" },
-          { "name": "PC Board", "code": "MIPCB31 - KCJ-420C" },
-          { "name": "PC Board", "code": "MIPCB32 - KCN-760A" },
-          { "name": "PC Board", "code": "MIPCB33 - KCN-920A" },
-          { "name": "PC Board", "code": "MIPCB34 - KCN-1000A" },
-          { "name": "PC Board", "code": "MIPCB35 - KCR-630A" },
-          { "name": "PC Board, GPS-3", "code": "MIPCB36 - KCR-746A" },
-          { "name": "PC Board", "code": "MIPCB37 - KCR-750D" },
-          { "name": "PC Board", "code": "MIPCB38 - KCR-752D" },
-          { "name": "PC Board", "code": "MIPCB39 - KCR-816A" },
-          { "name": "PC Board", "code": "MIPCB40 - KCR-870A" },
-          { "name": "PC Board", "code": "MIPCB41 - KCR-905A" },
-          { "name": "PC Board", "code": "MIPCB42 - KCR-907A" },
-          { "name": "PC Board", "code": "MIPCB43 - KCR-910C" },
-          { "name": "PC Board", "code": "MIPCB44 - KCR-916C" },
-          { "name": "PC Board", "code": "MIPCB45 - KCR-940A" },
-          { "name": "PC Board", "code": "MIPCB46 - KCR-943A" },
-          { "name": "PC Board", "code": "MIPCB47 - KCR-948A" },
-          { "name": "PC Board", "code": "MIPCB48 - KCR-950A" },
-          { "name": "PC Board", "code": "MIPCB49 - KCR-965A" },
-          { "name": "PC Board", "code": "MIPCB50 - KCR-976A" },
-          { "name": "PC Board", "code": "MIPCB51 - KCR-1013E" },
-          { "name": "PC Board", "code": "MIPCB52 - KCR-1020C" },
-          { "name": "PC Board", "code": "MIPCB53 - KCR-1050A" },
-          { "name": "PC Board", "code": "MIPCB54 - KCR-1120A" },
-          { "name": "PC Board", "code": "MIPCB55 - KCZ-532A" },
-          { "name": "PC Board", "code": "MIPCB56 - KCZ-771A" },
-          { "name": "PC Board", "code": "MIPCB57 - KCZ-774A" },
-          { "name": "PC Board", "code": "MIPCB58 - KCZ-810A" },
-          { "name": "PC Board", "code": "MIPCB59 - KCZ-900A" },
-          { "name": "PC Board", "code": "MIPCB60 - KCZ-910A" },
-          { "name": "PC Board", "code": "MIPCB61 - KCZ-1203A" },
-          { "name": "PC Board", "code": "MIPCB62 - KCZ-1230A" },
-          { "name": "Button PC Board", "code": "MIPCB63 - LHB-056G06" },
-          { "name": "Button PC Board", "code": "MIPCB64 - LHB-058G08" },
-          { "name": "Button PC Board", "code": "MIPCB65 - LHS-1000A" },
-          { "name": "PC Board", "code": "MIPCB66 - KCZ-990A" },
-          { "name": "PC Board", "code": "MIPCB67 - LHH-1010B" },
-          { "name": "PC Board", "code": "MIPCB68 - LHH-1020C" },
-          { "name": "PC Board", "code": "MIPCB69 - LHS-320A" },
-          { "name": "PC Board", "code": "MIPCB70 - LIN-612A" },
-          { "name": "PC Board", "code": "MIPCB71 - MEP-351A" },
-          { "name": "PC Board", "code": "MIPCB72 - P203710B000" },
-          { "name": "PC Board", "code": "MIPCB73 - P203718B000G03" },
-          { "name": "PC Board", "code": "MIPCB74 - P203729B000G01" },
-          { "name": "PC Board", "code": "MIPCB75 - P203730B000G01" },
-          { "name": "PC Board", "code": "MIPCB76 - P203735B000G01" },
-          { "name": "PC Board", "code": "MIPCB77 - P203737B000G01" },
-          { "name": "PC Board", "code": "MIPCB78 - KCW-350A" },
-          { "name": "PC Board", "code": "MIPCB79 - P203741B000G01" },
-          { "name": "PC Board", "code": "MIPCB80 - P203744B000G01" },
-          { "name": "PC Board", "code": "MIPCB81 - P203745B000G02" },
-          { "name": "PC Board", "code": "MIPCB82 - P203746B000G01" },
-          { "name": "PC Board", "code": "MIPCB83 - P203758B000G02L01" },
-          { "name": "PC Board", "code": "MIPCB84 - P203758B000G03L01" },
-          { "name": "PC Board", "code": "MIPCB85 - P208705B000G01" },
-          { "name": "PC Board", "code": "MIPCB86 - P203768B000G03" },
-          { "name": "PC Board", "code": "MIPCB87 - P213703B000G01" },
-          { "name": "PC Board", "code": "MIPCB88 - P214701B000G02" },
-          { "name": "PC Board", "code": "MIPCB89 - P231708B000G01" },
-          { "name": "PC Board", "code": "MIPCB90 - P231709B000G03" },
-          { "name": "PC Board", "code": "MIPCB91 - P235707B000G01" },
-          { "name": "PC Board", "code": "MIPCB92 - P235715B000G01" },
-          { "name": "PC Board", "code": "MIPCB93 - P235716B000G01" },
-          { "name": "PC Board", "code": "MIPCB94 - P235717B000G14L01" },
-          { "name": "PC Board", "code": "MIPCB95 - P235719B000G11" },
-          { "name": "PC Board", "code": "MIPCB96 - P235720B000G33" },
-          { "name": "PC Board", "code": "MIPCB97 - P235752B000G01" },
-          { "name": "PC Board", "code": "MIPCB98 - P266701B000G01" },
-          { "name": "PC Board", "code": "MIPCB99 - P280702B000G01" },
-          { "name": "PC Board", "code": "MIPCB100 - P366712B000G01" },
-          { "name": "PC Board", "code": "MIPCB101 - P366718B000G02" },
-          { "name": "PC Board", "code": "MIPCB102 - X59LX-95" },
-          { "name": "PC Board", "code": "MIPCB103 - P203703B000G02" },
-          { "name": "PC Board", "code": "MIPCB104 - P235705C" },
-          { "name": "PC Board", "code": "MIPCB105 - P203713B000G11" },
-          { "name": "PC Board", "code": "MIPCB106 - P203721B000G01" },
-          { "name": "PC Board", "code": "MIPCB107 - P203722B000G01" },
-          { "name": "PC Board", "code": "MIPCB108 - LHS-200B" },
-          { "name": "PC Board", "code": "MIPCB109 - LHS-410A" },
-          { "name": "PC Board", "code": "MIPCB110 - P203723B000G01" },
-          { "name": "PC Board", "code": "MIPCB111 - P203728B000G01" },
-          { "name": "PC Board", "code": "MIPCB112 - P231701B000G01" },
-          { "name": "PC Board", "code": "MIPCB113 - LHS-420A" },
-          { "name": "PC Board", "code": "MIPCB114 - KCZ-401A" },
-          { "name": "PC Board", "code": "MIPCB115 - KCZ-540A" },
-          { "name": "PC Board", "code": "MIPCB116 - P203701B000G01" },
-          { "name": "PC Board", "code": "MIPCB117 - P203702B000" },
-          { "name": "PC Board", "code": "MIPCB118 - LIR-813B-X" },
-          { "name": "PC Board", "code": "MIPCB119 - LOA-422" },
-          { "name": "PC Board", "code": "MIPCB120 - LOA-503" },
-          { "name": "PC Board", "code": "MIPCB121 - P235711B000G02" },
-          { "name": "PC Board", "code": "MIPCB122 - P231707B000G03" },
-          { "name": "PC Board", "code": "MIPCB123 - KCA-22A" },
-          { "name": "PC Board", "code": "MIPCB124 - KCW-510B" },
-          { "name": "PC Board", "code": "MIPCB125 - P235701B000G02" },
-          { "name": "PC Board", "code": "MIPCB126 - P203712B000G01" },
-          { "name": "PC Board", "code": "MIPCB127 - DOR-101" },
-          { "name": "PC Board", "code": "MIPCB128 - DOR-110B" },
-          { "name": "PC Board", "code": "MIPCB129 - DOR-120C" },
-          { "name": "PC Board", "code": "MIPCB130 - DOR-261B" },
-          { "name": "PC Board", "code": "MIPCB131 - DOR-201" },
-          { "name": "PC Board", "code": "MIPCB132 - DOR-143A" },
-          { "name": "PC Board", "code": "MIPCB133 - DOR-545A" },
-          { "name": "PC Board", "code": "MIPCB134 - DOR-1241" },
-          { "name": "PC Board", "code": "MIPCB135 - KCB-520B" },
-          { "name": "PC Board", "code": "MIPCB136 - KCA-31A" },
-          { "name": "PC Board", "code": "MIPCB137 - KCA-231A" },
-          { "name": "PC Board", "code": "MIPCB138 - KCA-600A" },
-          { "name": "PC Board", "code": "MIPCB139 - KCA-762A" },
-          { "name": "PC Board", "code": "MIPCB140 - KCA-922B" },
-          { "name": "PC Board", "code": "MIPCB141 - KCA-941A" },
-          { "name": "PC Board", "code": "MIPCB142 - KCA-1005A" },
-          { "name": "PC Board", "code": "MIPCB143 - KCR-759C" },
-          { "name": "PC Board", "code": "MIPCB144 - KCC-301A" },
-          { "name": "PC Board", "code": "MIPCB145 - KCC-700A" },
-          { "name": "PC Board", "code": "MIPCB146 - KCC-704C" },
-          { "name": "PC Board", "code": "MIPCB147 - KCD-600E" },
-          { "name": "PC Board", "code": "MIPCB148 - KCD-705C" },
-          { "name": "PC Board", "code": "MIPCB149 - KCD-911A" },
-          { "name": "PC Board", "code": "MIPCB150 - KCJ-520B" },
-          { "name": "PC Board", "code": "MIPCB151 - KCJ-501B" },
-          { "name": "PC Board", "code": "MIPCB152 - KCN-755A" },
-          { "name": "PC Board", "code": "MIPCB153 - C731000G11" },
-          { "name": "PC Board", "code": "MIPCB154 - KCJ-100A" },
-          { "name": "PC Board", "code": "MIPCB155 - KCR-900B" },
-          { "name": "PC Board", "code": "MIPCB156 - KCR-946A" }
+          {
+            "name": "PC Board A904701B000G01",
+            "code": "MIPCB01"
+          },
+          {
+            "name": "Circuit PC Board DOR-122C",
+            "code": "MIPCB02"
+          },
+          {
+            "name": "PC Board DOR-160D",
+            "code": "MIPCB03"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB04 - DOR-430A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB05 - DOR-565"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB06 - DOR-590A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB07 - DOR-710B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB08 - DOR-1202A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB09 - DOR-1215A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB10 - DOR-1231B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB11 - J631704B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB12 - KCA-1020C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB13 - KCA-1081B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB14 - KCA-1130D"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB15 - KCA-1150A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB16 - KCA-1160A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB17 - KCA-1190A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB18 - KCB-750A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB19 - KCC-400C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB20 - KCC-801A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB21 - KCC-1001C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB22 - KCD-701C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB23 - KCD-760A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB24 - KCD-1001B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB25 - KCD-1001C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB26 - KCD-1011A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB27 - KCD-1013D"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB28 - KCD-1050C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB29 - KCD-1161A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB30 - KCJ-400A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB31 - KCJ-420C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB32 - KCN-760A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB33 - KCN-920A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB34 - KCN-1000A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB35 - KCR-630A"
+          },
+          {
+            "name": "PC Board, GPS-3",
+            "code": "MIPCB36 - KCR-746A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB37 - KCR-750D"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB38 - KCR-752D"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB39 - KCR-816A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB40 - KCR-870A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB41 - KCR-905A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB42 - KCR-907A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB43 - KCR-910C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB44 - KCR-916C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB45 - KCR-940A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB46 - KCR-943A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB47 - KCR-948A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB48 - KCR-950A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB49 - KCR-965A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB50 - KCR-976A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB51 - KCR-1013E"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB52 - KCR-1020C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB53 - KCR-1050A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB54 - KCR-1120A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB55 - KCZ-532A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB56 - KCZ-771A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB57 - KCZ-774A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB58 - KCZ-810A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB59 - KCZ-900A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB60 - KCZ-910A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB61 - KCZ-1203A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB62 - KCZ-1230A"
+          },
+          {
+            "name": "Button PC Board",
+            "code": "MIPCB63 - LHB-056G06"
+          },
+          {
+            "name": "Button PC Board",
+            "code": "MIPCB64 - LHB-058G08"
+          },
+          {
+            "name": "Button PC Board",
+            "code": "MIPCB65 - LHS-1000A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB66 - KCZ-990A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB67 - LHH-1010B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB68 - LHH-1020C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB69 - LHS-320A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB70 - LIN-612A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB71 - MEP-351A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB72 - P203710B000"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB73 - P203718B000G03"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB74 - P203729B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB75 - P203730B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB76 - P203735B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB77 - P203737B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB78 - KCW-350A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB79 - P203741B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB80 - P203744B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB81 - P203745B000G02"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB82 - P203746B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB83 - P203758B000G02L01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB84 - P203758B000G03L01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB85 - P208705B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB86 - P203768B000G03"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB87 - P213703B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB88 - P214701B000G02"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB89 - P231708B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB90 - P231709B000G03"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB91 - P235707B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB92 - P235715B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB93 - P235716B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB94 - P235717B000G14L01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB95 - P235719B000G11"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB96 - P235720B000G33"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB97 - P235752B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB98 - P266701B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB99 - P280702B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB100 - P366712B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB101 - P366718B000G02"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB102 - X59LX-95"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB103 - P203703B000G02"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB104 - P235705C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB105 - P203713B000G11"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB106 - P203721B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB107 - P203722B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB108 - LHS-200B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB109 - LHS-410A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB110 - P203723B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB111 - P203728B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB112 - P231701B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB113 - LHS-420A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB114 - KCZ-401A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB115 - KCZ-540A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB116 - P203701B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB117 - P203702B000"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB118 - LIR-813B-X"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB119 - LOA-422"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB120 - LOA-503"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB121 - P235711B000G02"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB122 - P231707B000G03"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB123 - KCA-22A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB124 - KCW-510B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB125 - P235701B000G02"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB126 - P203712B000G01"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB127 - DOR-101"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB128 - DOR-110B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB129 - DOR-120C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB130 - DOR-261B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB131 - DOR-201"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB132 - DOR-143A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB133 - DOR-545A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB134 - DOR-1241"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB135 - KCB-520B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB136 - KCA-31A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB137 - KCA-231A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB138 - KCA-600A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB139 - KCA-762A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB140 - KCA-922B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB141 - KCA-941A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB142 - KCA-1005A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB143 - KCR-759C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB144 - KCC-301A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB145 - KCC-700A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB146 - KCC-704C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB147 - KCD-600E"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB148 - KCD-705C"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB149 - KCD-911A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB150 - KCJ-520B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB151 - KCJ-501B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB152 - KCN-755A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB153 - C731000G11"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB154 - KCJ-100A"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB155 - KCR-900B"
+          },
+          {
+            "name": "PC Board",
+            "code": "MIPCB156 - KCR-946A"
+          }
         ]
       }
     ]
@@ -1558,15 +2631,23 @@
     "keywords": "Otis elevator spare parts suppliers UAE",
     "canonical": "https://www.bestechparts.ae/brands/otis",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-
     "groups": [
       {
         "group_name": "Push Button & Button Plate",
         "slug": "push-button-button-plate",
         "items": [
-          { "name": "Push Button T-40", "code": "OTBT01" },
-          { "name": "Button Otis 3200", "code": "OTBT02" },
-          { "name": "Button BR24", "code": "OTBT03" },
+          {
+            "name": "Push Button T-40",
+            "code": "OTBT01"
+          },
+          {
+            "name": "Button Otis 3200",
+            "code": "OTBT02"
+          },
+          {
+            "name": "Button BR24",
+            "code": "OTBT03"
+          },
           {
             "name": "Button, Red Light, Polished SS",
             "code": "OTBT04 - FAA25090A111"
@@ -1615,21 +2696,44 @@
             "name": "Button,Blue Light,Unpolished Stainless Steel",
             "code": "OTBT04 - FAA25090A318"
           },
-          { "name": "Button GAK-AB", "code": "OTBT05" },
-          { "name": "Button XHB-R34D-A01", "code": "OTBT06" },
-          { "name": "Button CHVF", "code": "OTBT07" },
-          { "name": "GEN2 Button Plate", "code": "OTBT08" },
-          { "name": "GEN2 Button Plate SS", "code": "OTBT09" }
+          {
+            "name": "Button GAK-AB",
+            "code": "OTBT05"
+          },
+          {
+            "name": "Button XHB-R34D-A01",
+            "code": "OTBT06"
+          },
+          {
+            "name": "Button CHVF",
+            "code": "OTBT07"
+          },
+          {
+            "name": "GEN2 Button Plate",
+            "code": "OTBT08"
+          },
+          {
+            "name": "GEN2 Button Plate SS",
+            "code": "OTBT09"
+          }
         ]
       },
-
       {
         "group_name": "Door & Hanger Roller / Sheave",
         "slug": "door-hanger-roller-sheave",
         "items": [
-          { "name": "Hanger Roller Φ86", "code": "OTWR01" },
-          { "name": "Door Hanger Roller Φ140", "code": "OTWR02" },
-          { "name": "Door Hanger Roller D2200", "code": "OTWR03A/B" },
+          {
+            "name": "Hanger Roller Φ86",
+            "code": "OTWR01"
+          },
+          {
+            "name": "Door Hanger Roller Φ140",
+            "code": "OTWR02"
+          },
+          {
+            "name": "Door Hanger Roller D2200",
+            "code": "OTWR03A/B"
+          },
           {
             "name": "Door Hanger Roller,Φ80 X 18,6204",
             "code": "OTWR10 - "
@@ -1662,7 +2766,10 @@
             "name": "Landing Door Hanger, JJ-700-1100",
             "code": "OTDH02 - TOEC-40 2000VF"
           },
-          { "name": "AT120 Hanger Roller", "code": "OTWR04–08" },
+          {
+            "name": "AT120 Hanger Roller",
+            "code": "OTWR04–08"
+          },
           {
             "name": "AT120 Hanger Roller,Φ56 X 16,White",
             "code": "OTWR04 - "
@@ -1699,7 +2806,10 @@
             "name": "3200 Door Lock Roller, 052 X 20 X Φ12",
             "code": "OTWR17 - "
           },
-          { "name": "Door Knife Roller", "code": "OTWR18–19" },
+          {
+            "name": "Door Knife Roller",
+            "code": "OTWR18–19"
+          },
           {
             "name": "Door Knife Roller, 037 X 20 X Φ12",
             "code": "OTWR18 - "
@@ -1708,7 +2818,10 @@
             "name": "Door Knife Roller, 030 X 8 X Φ5 X M8",
             "code": "OTWR19 - "
           },
-          { "name": "Roller Guide Wheel", "code": "OTWR20–29" },
+          {
+            "name": "Roller Guide Wheel",
+            "code": "OTWR20–29"
+          },
           {
             "name": "Roller Guide Wheel, Φ125mm",
             "code": "OTWR20 - 456CN"
@@ -1749,7 +2862,10 @@
             "name": "Roller Guide Wheel For Hydraulic, Φ80 X 25,6205",
             "code": "OTWR29 - "
           },
-          { "name": "Roller Guide Shoe Assembly", "code": "OTWR30–34" },
+          {
+            "name": "Roller Guide Shoe Assembly",
+            "code": "OTWR30–34"
+          },
           {
             "name": "Roller Guide Shoe Assembly, Φ125 X 22, 6203, Mouting Hole: Φ140 X 76",
             "code": "OTWR30 - "
@@ -1772,7 +2888,6 @@
           }
         ]
       },
-
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
@@ -1917,7 +3032,10 @@
             "name": "Guide Shoe Insert",
             "code": "OTGS32 - "
           },
-          { "name": "Guide Shoe Cabin & Counterweight", "code": "OTGS33–34" },
+          {
+            "name": "Guide Shoe Cabin & Counterweight",
+            "code": "OTGS33–34"
+          },
           {
             "name": "Guide Shoe For Cabin,220 X 10, Mounting Hole:80 X 65",
             "code": "OTGS34A - DAA237D1"
@@ -1936,13 +3054,18 @@
           }
         ]
       },
-
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
         "items": [
-          { "name": "Door Slider 80/50", "code": "OTDS01" },
-          { "name": "Door Slider 70 X 12", "code": "OTDS03" },
+          {
+            "name": "Door Slider 80/50",
+            "code": "OTDS01"
+          },
+          {
+            "name": "Door Slider 70 X 12",
+            "code": "OTDS03"
+          },
           {
             "name": "Door Slider",
             "code": "OTDS02 - "
@@ -1993,15 +3116,26 @@
           }
         ]
       },
-
       {
         "group_name": "Door Lock & Contact",
         "slug": "door-lock-contact",
         "items": [
-          { "name": "Door Lock Left GS09", "code": "OTL001" },
-          { "name": "Door Lock Left 3100", "code": "OTL002" },
-          { "name": "Triangle Lock & Key", "code": "OTL005" },
-          { "name": "Door Lock Contacts", "code": "OTL010–013" },
+          {
+            "name": "Door Lock Left GS09",
+            "code": "OTL001"
+          },
+          {
+            "name": "Door Lock Left 3100",
+            "code": "OTL002"
+          },
+          {
+            "name": "Triangle Lock & Key",
+            "code": "OTL005"
+          },
+          {
+            "name": "Door Lock Contacts",
+            "code": "OTL010–013"
+          },
           {
             "name": "Door Lock,Left",
             "code": "OTL003 - K5"
@@ -2040,7 +3174,6 @@
           }
         ]
       },
-
       {
         "group_name": "Switches & Sensors",
         "slug": "switches-sensors",
@@ -2121,8 +3254,14 @@
             "name": "Photoelectric Switch",
             "code": "OTSS26 - E3S-GS3B4"
           },
-          { "name": "Photo & Proximity Sensor", "code": "OTSS20–22" },
-          { "name": "Leveling & Speed Sensor", "code": "OTSS23–30" },
+          {
+            "name": "Photo & Proximity Sensor",
+            "code": "OTSS20–22"
+          },
+          {
+            "name": "Leveling & Speed Sensor",
+            "code": "OTSS23–30"
+          },
           {
             "name": "GLS126 Leveling Sensor,NO/NC",
             "code": "OTSS19 - XAA177AZ4"
@@ -2169,13 +3308,18 @@
           }
         ]
       },
-
       {
         "group_name": "Oil Box & Felt",
         "slug": "oil-box-felt",
         "items": [
-          { "name": "Oil Box Square", "code": "OTOC01" },
-          { "name": "Oil Box Round", "code": "OTOC02" },
+          {
+            "name": "Oil Box Square",
+            "code": "OTOC01"
+          },
+          {
+            "name": "Oil Box Round",
+            "code": "OTOC02"
+          },
           {
             "name": "Oil Box Square",
             "code": "OTOC03 - "
@@ -2194,7 +3338,6 @@
           }
         ]
       },
-
       {
         "group_name": "Inspection Box,Control & Intercom",
         "slug": "inspection-box-control-intercom",
@@ -2215,7 +3358,10 @@
             "name": "Car Top Inspection Box",
             "code": "OTIB03 - DAA24831F2"
           },
-          { "name": "Intercom & Power", "code": "OTIB05–10" },
+          {
+            "name": "Intercom & Power",
+            "code": "OTIB05–10"
+          },
           {
             "name": "Intercom,601WF-B6",
             "code": "OTIB05 - XAA25302B6"
@@ -2300,7 +3446,10 @@
             "name": "Steel Strip Slider,92 X 37 X 8.5",
             "code": "OTSC11 - "
           },
-          { "name": "Door Belt DO2000", "code": "OTSC10" },
+          {
+            "name": "Door Belt DO2000",
+            "code": "OTSC10"
+          },
           {
             "name": "3 Belt Traction Belt Detection Device",
             "code": "OTTT03 - FAA21700F1/ABA21700X1"
@@ -2311,7 +3460,6 @@
           }
         ]
       },
-
       {
         "group_name": "Service Tool",
         "slug": "service-tool",
@@ -2326,7 +3474,6 @@
           }
         ]
       },
-
       {
         "group_name": "Encoder",
         "slug": "encoder",
@@ -2405,18 +3552,26 @@
           }
         ]
       },
-
       {
         "group_name": "Door Motor,Door Power & Control Box",
         "slug": "door-motor-door-power-control-box",
         "items": [
-          { "name": "Door Motor AT120", "code": "OTDM01" },
+          {
+            "name": "Door Motor AT120",
+            "code": "OTDM01"
+          },
           {
             "name": "Door Motor,XRDS-80J1,80W,DC110V/1.1A",
             "code": "OTDM02 - XAA20500H1"
           },
-          { "name": "Door Motor DO2000", "code": "OTDM03" },
-          { "name": "Door Control Box DCSS", "code": "OTDC01–07" },
+          {
+            "name": "Door Motor DO2000",
+            "code": "OTDM03"
+          },
+          {
+            "name": "Door Control Box DCSS",
+            "code": "OTDC01–07"
+          },
           {
             "name": "Door Control Box",
             "code": "OTDC01 - GBA24350BBH1"
@@ -2447,12 +3602,14 @@
           }
         ]
       },
-
       {
         "group_name": "Brake, Machine& Fan",
         "slug": "brake-machine-fan",
         "items": [
-          { "name": "Brake Coil", "code": "OTBM08–11" },
+          {
+            "name": "Brake Coil",
+            "code": "OTBM08–11"
+          },
           {
             "name": "Brake Coil",
             "code": "OTBM08 - TAB330AJ1"
@@ -2485,12 +3642,14 @@
             "name": "Brake Bar For 17CT",
             "code": "OTBM15 - "
           },
-
           {
             "name": "Fan For 17CT Machine",
             "code": "OTBM17 - "
           },
-          { "name": "Brake Pad", "code": "OTBM18–23" },
+          {
+            "name": "Brake Pad",
+            "code": "OTBM18–23"
+          },
           {
             "name": "Brake Pad For 13VTR",
             "code": "OTBM18 - "
@@ -2515,7 +3674,10 @@
             "name": "Brake Pad For 18ATF",
             "code": "OTBM23 - "
           },
-          { "name": "Traction Machine", "code": "OTBM28–31" },
+          {
+            "name": "Traction Machine",
+            "code": "OTBM28–31"
+          },
           {
             "name": "Traction Machine,13VTR",
             "code": "OTBM28 - "
@@ -2564,8 +3726,14 @@
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
         "items": [
-          { "name": "OVF30 Inverter", "code": "OTF101–103" },
-          { "name": "OVF20 Inverter", "code": "OTF104–105" },
+          {
+            "name": "OVF30 Inverter",
+            "code": "OTF101–103"
+          },
+          {
+            "name": "OVF20 Inverter",
+            "code": "OTF104–105"
+          },
           {
             "name": "Frequency Inverter,OVF30/70A",
             "code": "OTF101 - ACA21290AK2"
@@ -2588,7 +3756,6 @@
           }
         ]
       },
-
       {
         "group_name": "Display Board & Outbound Board",
         "slug": "display-board-outbound-board",
@@ -2753,10 +3920,12 @@
             "name": "Display Board",
             "code": "OTD140 - DCE2350167"
           },
-          { "name": "TOEC-40 Display", "code": "OTD134" }
+          {
+            "name": "TOEC-40 Display",
+            "code": "OTD134"
+          }
         ]
       },
-
       {
         "group_name": "PC Board (ALL MAIN, INVERTER, CONTROL, COMMUNICATION)",
         "slug": "pc-board",
@@ -3214,14 +4383,19 @@
     "keywords": "Schindler elevator spare parts UAE",
     "canonical": "https://www.bestechparts.ae/brands/schindler",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-
     "groups": [
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
         "items": [
-          { "name": "Guide Shoe Insert 220×10mm", "code": "SCGS-11 - B22" },
-          { "name": "CW Guide Shoe insert 150×30mm 10mm", "code": "SCGS-2" },
+          {
+            "name": "Guide Shoe Insert 220×10mm",
+            "code": "SCGS-11 - B22"
+          },
+          {
+            "name": "CW Guide Shoe insert 150×30mm 10mm",
+            "code": "SCGS-2"
+          },
           {
             "name": "300P 对重导靴 CW Guide Shoe 97×101×100mm",
             "code": "SCGS-3"
@@ -3234,14 +4408,26 @@
             "name": "Guide Shoe insert 101×16mm",
             "code": "SCGS-5 - 300P 红靴衬"
           },
-          { "name": "CW Guide Shoe insert 150×30mm 16mm", "code": "SCGS-6" },
+          {
+            "name": "CW Guide Shoe insert 150×30mm 16mm",
+            "code": "SCGS-6"
+          },
           {
             "name": "Guide Shoe insert 220×30mm 16mm",
             "code": "SCGS-7"
           },
-          { "name": "Guide Shoe insert 220×30mm 10mm", "code": "SCGS-22" },
-          { "name": "Guide Shoe insert 140×10mm", "code": "SCGS-8" },
-          { "name": "Guide Shoe insert 140×16mm", "code": "SCGS-9" },
+          {
+            "name": "Guide Shoe insert 220×30mm 10mm",
+            "code": "SCGS-22"
+          },
+          {
+            "name": "Guide Shoe insert 140×10mm",
+            "code": "SCGS-8"
+          },
+          {
+            "name": "Guide Shoe insert 140×16mm",
+            "code": "SCGS-9"
+          },
           {
             "name": "L7 导靴 Guide Shoe 65×51×35mm",
             "code": "SCGS-10"
@@ -3296,16 +4482,20 @@
           }
         ]
       },
-
       {
         "group_name": "Guide Shoe Roller",
         "slug": "guide-shoe-roller",
         "items": [
-          { "name": "Roller for Guide Shoe 150×30", "code": "SCGS-15" },
-          { "name": "Roller for Guide Shoe 100×25", "code": "SCGS-16" }
+          {
+            "name": "Roller for Guide Shoe 150×30",
+            "code": "SCGS-15"
+          },
+          {
+            "name": "Roller for Guide Shoe 100×25",
+            "code": "SCGS-16"
+          }
         ]
       },
-
       {
         "group_name": "Door Vane & Door Slider",
         "slug": "door-vane-door-slider",
@@ -3356,7 +4546,6 @@
           }
         ]
       },
-
       {
         "group_name": "Push Button",
         "slug": "push-button",
@@ -3379,7 +4568,6 @@
           }
         ]
       },
-
       {
         "group_name": "Hanger Roller & Sheave",
         "slug": "hanger-roller-sheave",
@@ -3430,7 +4618,6 @@
           }
         ]
       },
-
       {
         "group_name": "Door Lock & Power Lock",
         "slug": "door-lock-power-lock",
@@ -3483,8 +4670,14 @@
             "name": "Open Dorscore",
             "code": "SCLO-9 - 断开装置"
           },
-          { "name": "Open Device", "code": "SCLO-9" },
-          { "name": "OK59 Door Lock Contact", "code": "SCLO-12" },
+          {
+            "name": "Open Device",
+            "code": "SCLO-9"
+          },
+          {
+            "name": "OK59 Door Lock Contact",
+            "code": "SCLO-12"
+          },
           {
             "name": "V30(PB257) Door Lock",
             "code": "SCLO-17 - ID. NO. 282650"
@@ -3559,7 +4752,6 @@
           }
         ]
       },
-
       {
         "group_name": "Door Motor,Drum & Cable",
         "slug": "door-motor-drum-cable",
@@ -3606,7 +4798,6 @@
           }
         ]
       },
-
       {
         "group_name": "Encoder, Fan & Oil",
         "slug": "encoder-fan-oil",
@@ -3637,7 +4828,6 @@
           }
         ]
       },
-
       {
         "group_name": "Inverter & PCB",
         "slug": "inverter-pcb",
@@ -3792,7 +4982,6 @@
           }
         ]
       },
-
       {
         "group_name": "Display Board",
         "slug": "display-board",
@@ -3834,22 +5023,29 @@
     "keywords": "Thyssenkrupp elevator parts UAE",
     "canonical": "https://www.bestechparts.ae/brands/thyssenkrupp",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-
     "groups": [
       {
         "group_name": "Push Button",
         "slug": "push-button",
         "items": [
-          { "name": "Push Button 32.6 × 32.6", "code": "THBT01" },
-          { "name": "Push Button 36.8 × 36.8", "code": "THBT02" }
+          {
+            "name": "Push Button 32.6 × 32.6",
+            "code": "THBT01"
+          },
+          {
+            "name": "Push Button 36.8 × 36.8",
+            "code": "THBT02"
+          }
         ]
       },
-
       {
         "group_name": "Door Roller & Guide Shoe Roller",
         "slug": "door-roller-guide-shoe-roller",
         "items": [
-          { "name": "Door Roller Φ30 × 9 × M10", "code": "THWR01" },
+          {
+            "name": "Door Roller Φ30 × 9 × M10",
+            "code": "THWR01"
+          },
           {
             "name": "Door Roller,Φ70 X 17 X 6200,R-Groove",
             "code": "THWR02 - "
@@ -3880,22 +5076,42 @@
           }
         ]
       },
-
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
         "items": [
-          { "name": "Guide Shoe Insert 150 × 17mm", "code": "THGS01" },
-          { "name": "Guide Shoe Insert 125 × 5mm", "code": "THGS02" },
-          { "name": "Guide Shoe Insert 48 × 28 × 17mm", "code": "THGS03" },
-          { "name": "Guide Shoe Insert 125 × 10mm", "code": "THGS04" },
-          { "name": "Guide Shoe Insert 125 × 16mm", "code": "THGS05" },
-          { "name": "Guide Shoe Insert 130 × 10mm", "code": "THGS06" },
+          {
+            "name": "Guide Shoe Insert 150 × 17mm",
+            "code": "THGS01"
+          },
+          {
+            "name": "Guide Shoe Insert 125 × 5mm",
+            "code": "THGS02"
+          },
+          {
+            "name": "Guide Shoe Insert 48 × 28 × 17mm",
+            "code": "THGS03"
+          },
+          {
+            "name": "Guide Shoe Insert 125 × 10mm",
+            "code": "THGS04"
+          },
+          {
+            "name": "Guide Shoe Insert 125 × 16mm",
+            "code": "THGS05"
+          },
+          {
+            "name": "Guide Shoe Insert 130 × 10mm",
+            "code": "THGS06"
+          },
           {
             "name": "Guide Shoe Rubber Cushion,118 X 92 X 47mm",
             "code": "THGS07 - "
           },
-          { "name": "Guide Shoe Insert 140 × 16/10mm", "code": "THGS08" },
+          {
+            "name": "Guide Shoe Insert 140 × 16/10mm",
+            "code": "THGS08"
+          },
           {
             "name": "Guide Shoe Insert,220 X 27 X 24 X 10/16mm",
             "code": "THGS09 - "
@@ -3922,7 +5138,6 @@
           }
         ]
       },
-
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
@@ -3971,22 +5186,38 @@
             "name": "Door Slider,70 X 42 X 12.5",
             "code": "THDS11 - "
           },
-          { "name": "Door Vane S8", "code": "THDV01" },
-          { "name": "Door Vane F3", "code": "THDV02" }
+          {
+            "name": "Door Vane S8",
+            "code": "THDV01"
+          },
+          {
+            "name": "Door Vane F3",
+            "code": "THDV02"
+          }
         ]
       },
-
       {
         "group_name": "Door Lock & Power Lock",
         "slug": "door-lock-power-lock",
         "items": [
-          { "name": "Landing Door Lock K8", "code": "THLO01" },
-          { "name": "Car Door Lock K8", "code": "THLO02" },
-          { "name": "Triangle Lock", "code": "THLO03" },
-          { "name": "Power Lock", "code": "THLO04" }
+          {
+            "name": "Landing Door Lock K8",
+            "code": "THLO01"
+          },
+          {
+            "name": "Car Door Lock K8",
+            "code": "THLO02"
+          },
+          {
+            "name": "Triangle Lock",
+            "code": "THLO03"
+          },
+          {
+            "name": "Power Lock",
+            "code": "THLO04"
+          }
         ]
       },
-
       {
         "group_name": "Sensors & Switches",
         "slug": "sensors-switches",
@@ -4013,7 +5244,6 @@
           }
         ]
       },
-
       {
         "group_name": "Oil Box & Inspection Box",
         "slug": "oil-box-inspection-box",
@@ -4040,101 +5270,260 @@
           }
         ]
       },
-
       {
         "group_name": "Test Tools",
         "slug": "test-tools",
         "items": [
-          { "name": "Parameter Test TT", "code": "THTT01" },
-          { "name": "Parameter Test PT", "code": "THTT02" }
+          {
+            "name": "Parameter Test TT",
+            "code": "THTT01"
+          },
+          {
+            "name": "Parameter Test PT",
+            "code": "THTT02"
+          }
         ]
       },
-
       {
         "group_name": "Encoder & Contactor",
         "slug": "encoder-contactor",
         "items": [
-          { "name": "Encoder ECN 1313", "code": "THEN01" },
-          { "name": "Encoder HG 900E", "code": "THEN02" },
-          { "name": "Encoder ECN-113", "code": "THEN03" },
-          { "name": "Encoder 4096", "code": "THEN04" },
-          { "name": "Encoder", "code": "THEN05" },
-          { "name": "Model BSM150GB120DN2", "code": "THEN06" },
-          { "name": "Model SR2", "code": "THEN07" },
-          { "name": "Contactor SR1", "code": "THEN08" }
+          {
+            "name": "Encoder ECN 1313",
+            "code": "THEN01"
+          },
+          {
+            "name": "Encoder HG 900E",
+            "code": "THEN02"
+          },
+          {
+            "name": "Encoder ECN-113",
+            "code": "THEN03"
+          },
+          {
+            "name": "Encoder 4096",
+            "code": "THEN04"
+          },
+          {
+            "name": "Encoder",
+            "code": "THEN05"
+          },
+          {
+            "name": "Model BSM150GB120DN2",
+            "code": "THEN06"
+          },
+          {
+            "name": "Model SR2",
+            "code": "THEN07"
+          },
+          {
+            "name": "Contactor SR1",
+            "code": "THEN08"
+          }
         ]
       },
-
       {
         "group_name": "Door Motor",
         "slug": "door-motor",
         "items": [
-          { "name": "Door Motor Box F9", "code": "THDM01" },
-          { "name": "Door Motor F9", "code": "THDM02" },
-          { "name": "Door Motor K200", "code": "THDM03" }
+          {
+            "name": "Door Motor Box F9",
+            "code": "THDM01"
+          },
+          {
+            "name": "Door Motor F9",
+            "code": "THDM02"
+          },
+          {
+            "name": "Door Motor K200",
+            "code": "THDM03"
+          }
         ]
       },
-
       {
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
         "items": [
-          { "name": "Frequency Inverter CPIK48M1", "code": "THFI01" },
-          { "name": "Frequency Inverter DIC-S120P4", "code": "THFI02" },
-          { "name": "Frequency Inverter K300", "code": "THFI03" }
+          {
+            "name": "Frequency Inverter CPIK48M1",
+            "code": "THFI01"
+          },
+          {
+            "name": "Frequency Inverter DIC-S120P4",
+            "code": "THFI02"
+          },
+          {
+            "name": "Frequency Inverter K300",
+            "code": "THFI03"
+          }
         ]
       },
-
       {
         "group_name": "Display Board",
         "slug": "display-board",
         "items": [
-          { "name": "Display Board G-264A", "code": "THDI01" },
-          { "name": "Display Board G-264F", "code": "THDI02" },
-          { "name": "Display Board G-291B", "code": "THDI03" },
-          { "name": "Display Board MA3", "code": "THDI04" },
-          { "name": "Display Board MA5", "code": "THDI05" },
-          { "name": "Display Board MA9-E1.1", "code": "THDI06" },
-          { "name": "Display Board MS2", "code": "THDI07" },
-          { "name": "Display Board MA1.1", "code": "THDI08" },
-          { "name": "Display Board MS3-C", "code": "THDI09" },
-          { "name": "Display Board GMA9", "code": "THDI10" },
-          { "name": "Display Board GMA4", "code": "THDI11" }
+          {
+            "name": "Display Board G-264A",
+            "code": "THDI01"
+          },
+          {
+            "name": "Display Board G-264F",
+            "code": "THDI02"
+          },
+          {
+            "name": "Display Board G-291B",
+            "code": "THDI03"
+          },
+          {
+            "name": "Display Board MA3",
+            "code": "THDI04"
+          },
+          {
+            "name": "Display Board MA5",
+            "code": "THDI05"
+          },
+          {
+            "name": "Display Board MA9-E1.1",
+            "code": "THDI06"
+          },
+          {
+            "name": "Display Board MS2",
+            "code": "THDI07"
+          },
+          {
+            "name": "Display Board MA1.1",
+            "code": "THDI08"
+          },
+          {
+            "name": "Display Board MS3-C",
+            "code": "THDI09"
+          },
+          {
+            "name": "Display Board GMA9",
+            "code": "THDI10"
+          },
+          {
+            "name": "Display Board GMA4",
+            "code": "THDI11"
+          }
         ]
       },
-
       {
         "group_name": "PCB Board",
         "slug": "pcb-board",
         "items": [
-          { "name": "PC Board MC2-S", "code": "THPCB01" },
-          { "name": "PC Board MS3-SG", "code": "THPCB02" },
-          { "name": "PC Board MS3-E", "code": "THPCB03" },
-          { "name": "Inverter Drive PC Board", "code": "THPCB04" },
-          { "name": "PC Board CTU2", "code": "THPCB05" },
-          { "name": "PC Board MC2", "code": "THPCB06" },
-          { "name": "PC Board MC3", "code": "THPCB07" },
-          { "name": "PC Board MF4", "code": "THPCB08" },
-          { "name": "PC Board MG3", "code": "THPCB09" },
-          { "name": "PC Board MZ1", "code": "THPCB10" },
-          { "name": "PC Board MW1", "code": "THPCB11" },
-          { "name": "Alarm Bell PC Board", "code": "THPCB12" },
-          { "name": "PC Board MH2", "code": "THPCB13" },
-          { "name": "PC Board MM", "code": "THPCB14" },
-          { "name": "PC Board MF3", "code": "THPCB15" },
-          { "name": "PC Board LMS1-C", "code": "THPCB16" },
-          { "name": "PC Board F1", "code": "THPCB17" },
-          { "name": "Control PC Board MP", "code": "THPCB18" },
-          { "name": "Control PC Board ESA", "code": "THPCB19" },
-          { "name": "PC Board FMC2", "code": "THPCB20" },
-          { "name": "PC Board MC1", "code": "THPCB21" },
-          { "name": "PC Board CPU", "code": "THPCB22" },
-          { "name": "Brake Power PC Board", "code": "THPCB23" },
-          { "name": "PC Board LMS1", "code": "THPCB24" },
-          { "name": "PC Board KMB", "code": "THPCB25" },
-          { "name": "PC Board TMI2", "code": "THPCB26" },
-          { "name": "PC Board SM-01-BII", "code": "THPCB27" },
-          { "name": "PC Board MH3", "code": "THPCB28" }
+          {
+            "name": "PC Board MC2-S",
+            "code": "THPCB01"
+          },
+          {
+            "name": "PC Board MS3-SG",
+            "code": "THPCB02"
+          },
+          {
+            "name": "PC Board MS3-E",
+            "code": "THPCB03"
+          },
+          {
+            "name": "Inverter Drive PC Board",
+            "code": "THPCB04"
+          },
+          {
+            "name": "PC Board CTU2",
+            "code": "THPCB05"
+          },
+          {
+            "name": "PC Board MC2",
+            "code": "THPCB06"
+          },
+          {
+            "name": "PC Board MC3",
+            "code": "THPCB07"
+          },
+          {
+            "name": "PC Board MF4",
+            "code": "THPCB08"
+          },
+          {
+            "name": "PC Board MG3",
+            "code": "THPCB09"
+          },
+          {
+            "name": "PC Board MZ1",
+            "code": "THPCB10"
+          },
+          {
+            "name": "PC Board MW1",
+            "code": "THPCB11"
+          },
+          {
+            "name": "Alarm Bell PC Board",
+            "code": "THPCB12"
+          },
+          {
+            "name": "PC Board MH2",
+            "code": "THPCB13"
+          },
+          {
+            "name": "PC Board MM",
+            "code": "THPCB14"
+          },
+          {
+            "name": "PC Board MF3",
+            "code": "THPCB15"
+          },
+          {
+            "name": "PC Board LMS1-C",
+            "code": "THPCB16"
+          },
+          {
+            "name": "PC Board F1",
+            "code": "THPCB17"
+          },
+          {
+            "name": "Control PC Board MP",
+            "code": "THPCB18"
+          },
+          {
+            "name": "Control PC Board ESA",
+            "code": "THPCB19"
+          },
+          {
+            "name": "PC Board FMC2",
+            "code": "THPCB20"
+          },
+          {
+            "name": "PC Board MC1",
+            "code": "THPCB21"
+          },
+          {
+            "name": "PC Board CPU",
+            "code": "THPCB22"
+          },
+          {
+            "name": "Brake Power PC Board",
+            "code": "THPCB23"
+          },
+          {
+            "name": "PC Board LMS1",
+            "code": "THPCB24"
+          },
+          {
+            "name": "PC Board KMB",
+            "code": "THPCB25"
+          },
+          {
+            "name": "PC Board TMI2",
+            "code": "THPCB26"
+          },
+          {
+            "name": "PC Board SM-01-BII",
+            "code": "THPCB27"
+          },
+          {
+            "name": "PC Board MH3",
+            "code": "THPCB28"
+          }
         ]
       }
     ]

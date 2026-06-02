@@ -41,7 +41,13 @@ export default function ProductPageClient({ initialCategory }) {
   return (
     <div className="body-dark-bg">
       <div className="fix">
-        <PageHeader title={category.page_name} />
+     <PageHeader
+  title={category.page_name}
+  breadcrumbs={[
+    { label: "Products", href: "/products" },
+    { label: category.page_name }
+  ]}
+/>
         <Product category={category} />
       </div>
     </div>

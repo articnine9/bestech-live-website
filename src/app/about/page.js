@@ -54,7 +54,10 @@ const AboutPage = () => {
   return (
     <div className="body-dark-bg">
       <div className="fix">
-        <PageHeader title="About Us" />
+        <PageHeader title="About Us" 
+        breadcrumbs={[
+          { label: "About Us" }
+        ]}/>
         <AboutSection />
       </div>
     </div>

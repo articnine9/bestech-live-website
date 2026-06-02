@@ -115,7 +115,7 @@ export default async function Page(props) {
         name: "Home",
         item: "https://www.bestechparts.ae/",
       },
-     
+
       {
         "@type": "ListItem",
         position: 2,
@@ -134,25 +134,52 @@ export default async function Page(props) {
   return (
     <>
       <script
+        id="breadcrumb-schema"
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(breadcrumbSchema),
         }}
       />
-      <PageHeader title={`${group.group_name} - ${brand.page_name}`} />
+      <PageHeader title={`${group.group_name} - ${brand.page_name}`}
+        breadcrumbs={[
+          { label: brand.page_name, href: `/brands/${brand.slug}` },
+          { label: group.group_name }
+        ]}
+      />
 
       <section className="container padding pb-120">
         <BrandCardFour items={group.items} productcode={brand.code} />
 
+
+        {Array.isArray(group?.paragraph_text) ? (
+          group.paragraph_text.map((item, index) => (
+            <section className="container padding">
+              <div
+                key={index}
+                className="seo-content flex flex-col gap-[10px] pb-[200px] mb-3"
+                dangerouslySetInnerHTML={{ __html: item }}
+              />
+            </section>
+
+          ))
+        ) : group?.paragraph_text ? (
+          <section className="container padding">
+            <div
+              className="seo-content flex flex-col gap-[10px] pb-[200px] mb-3"
+              dangerouslySetInnerHTML={{ __html: group.paragraph_text }}
+            />
+          </section>
+        ) : null}
+
         {/* ✅ SEO CONTENT */}
-        {group.paragraph_text && (
+        {/* {group.paragraph_text && (
           <section className="container padding">
             <div
               className="seo-content flex flex-col gap-[10px] pb-[200px]"
               dangerouslySetInnerHTML={{ __html: group.paragraph_text }}
             />
           </section>
-        )}
+        )} */}
       </section>
     </>
   );
