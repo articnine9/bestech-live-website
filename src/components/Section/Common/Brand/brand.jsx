@@ -45,7 +45,7 @@ const Brand = ({ category }) => {
                     >
                       <img
                         src={group.image || "/img/product-default-img.jpg"}
-                        alt={group.group_name}
+                        alt={group.alttext_group || group.group_name}
                         className="card-img-top"
                         style={{ height: "180px", objectFit: "cover" }}
                       />

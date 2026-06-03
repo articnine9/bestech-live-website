@@ -17,19 +17,20 @@
         "meta_title": "Hyundai Lift Push Button Components | Bestech UAE",
         "meta_description": "Find Hyundai elevator push buttons for passenger interface systems, including car call and hall call applications across elevator panels.",
         "keywords": "Hyundai Elevator push button, Hyundai push button A4J16002 A2,  AK32, Hyundai push button AK-4B",
+        "alttext_group":"HYUNDAI Elevator Spare Parts Push Button",
         "paragraph_text": [
           "<h2><strong>Hyundai Elevator Push Button</strong></h2>",
           "<p>Hyundai elevator push button is the main contact point used by passengers to select floors and request lift movement. When pressed, the button sends a signal to the elevator control system which then manages travel direction and stopping points. This process supports safe and organised passenger movement inside buildings.</p>",
           "<p>In elevators manufactured by Hyundai, push buttons are designed to match system voltage, panel layout and control logic. Each button is made for clear response, stable use and correct fitting within the elevator panel. Reliable push buttons are essential for smooth lift service in the UAE where elevators run daily in residential and commercial buildings.</p>",
           "<p>The Hyundai elevator push button supports both car calls and hall calls. Car call buttons are used inside the lift cabin to select floors. Hall call buttons are used on each landing to request upward or downward travel. Both types must work without delay to avoid confusion and service issues.</p>",
-          "<h2><strong>Available Hyundai Push Button Types</strong></h2>",
+          "<h3><strong>Available Hyundai Push Button Types</strong></h3>",
           "<p>Our Hyundai elevator push button range includes various button models designed for elevator control panels and operating systems, including:</p>",
           "<ul><li><strong>Push Button 24V - A4J16002 A2</strong></li>\n  <li><strong>Push Button AK32 - Installation Hole Size 34</strong></li>\n  <li><strong>Push Button AK-4B - Installation Hole Size 33</strong></li></ul>",
           "<p>These Hyundai elevator push buttons are available in different configurations to support various car call and hall call applications within elevator passenger interface systems.</p>",
-          "<h2><strong>Product Applications</strong></h2>",
+          "<h3><strong>Product Applications</strong></h3>",
           "<p>Safe applications based on the client input:</p>",
           "<ul><li><strong>Car call applications</strong></li>\n  <li><strong>Hall call applications</strong></li>\n  <li><strong>Car operating panels (COP)</strong></li>\n  <li><strong>Landing operating panels (LOP)</strong></li>\n<li><strong>Elevator passenger interface systems</strong></li>\n<li><strong>Elevator maintenance and replacement requirements</strong></li></ul>",
-          "<h2><strong>FAQ</strong></h2>",
+          "<h3><strong>FAQ</strong></h3>",
           "<p><strong>1. How does a passenger communicate a floor request in an elevator?</strong><br>Passengers use elevator push buttons to register travel requests within the elevator system.</p>",
           "<p><strong>2. Are push buttons used in both COP and LOP panels?</strong><br>Yes. Push buttons are commonly installed in both Car Operating Panels (COP) and Landing Operating Panels (LOP).</p>",
           "<p><strong>3. What is the purpose of a hall call button?</strong><br>A hall call button allows passengers to request elevator service from a floor landing.</p>",
@@ -80,6 +81,7 @@
         "group_name": "Door Roller",
         "slug": "door-roller",
         "canonical": "https://www.bestechparts.ae/brands/hyundai/door-roller",
+         "alttext_group":"HYUNDAI Elevator Spare Parts Door Roller",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Hyundai Elevator Door Roller | Bestech UAE",
         "meta_description": "Buy Hyundai elevator door roller components for landing doors and car door systems. Contact Bestech for Hyundai lift spare parts and replacement components.",
@@ -89,14 +91,14 @@
           "<p>The Hyundai elevator door roller is an essential part of a Hyundai lift door system. It supports safe and smooth door movement during every opening and closing cycle. These rollers are designed to guide the door panel along its track with steady motion and low noise.</p>",
           "<p>Lift doors operate in a controlled and reliable way that meets daily building use needs when the correct roller is used and fitted properly.</p>",
           "<p>Door rollers are also known as door wheels. They carry the door panel weight and reduces direct contact between the door and the guide rail. This helps limit wear on the door system and supports long service life. In Hyundai elevators, using the right roller model is important for correct alignment and safe door travel.</p>",
-          "<h2><strong>Available Hyundai Door Roller Types</strong></h2>",
+          "<h3><strong>Available Hyundai Door Roller Types</strong></h3>",
           "<p>Our Hyundai elevator door roller range includes:</p>",
           "<ul><li><strong>Door Roller - Φ66 × 15 × 6202</strong></li>\n  <li><strong>Door Roller - Φ45 × 15 × Φ12</strong></li>\n  <li><strong>Door Roller - Φ84 × Φ77 × 17 × M10</strong></li>\n  <li><strong>Door Roller - Φ30 (6200) × 33 × M6</strong></li>\n  <li><strong>Door Roller - Φ70 × 10 × 6001</strong></li></ul>",
           "<p>These Hyundai elevator door rollers are available in different sizes and configurations to match specific elevator door system requirements and replacement applications.</p>",
-          "<h2><strong>Product Applications</strong></h2>",
+          "<h3><strong>Product Applications</strong></h3>",
           "<p>Hyundai elevator door roller components are commonly associated with:</p>",
           "<ul><li><strong>Elevator door opening and closing systems</strong></li>\n  <li><strong>Car door assemblies</strong></li>\n  <li><strong>Landing door assemblies</strong></li>\n  <li><strong>Smooth door operation applications</strong></li>\n<li><strong>Elevator maintenance activities</strong></li>\n<li><strong>Door roller replacement requirements</strong></li></ul>",
-          "<h2><strong>FAQ</strong></h2>",
+          "<h3><strong>FAQ</strong></h3>",
           "<p><strong>1. Are door rollers and door wheels the same component?</strong><br>Yes. The terms door roller and door wheel are commonly used to describe the same elevator door component.</p>",
           "<p><strong>2. What are the common applications of elevator door rollers?</strong><br>Door rollers are used within elevator door systems to support the movement of door panels during opening and closing operations.</p>",
           "<p><strong>3. Are Hyundai door rollers used in both new installations and maintenance projects?</strong><br>Yes. Door rollers may be used for replacement, servicing and elevator door system maintenance requirements.</p>",
@@ -128,57 +130,160 @@
         "items": [
           {
             "name": "Door Roller - Φ66 X 15 X 6202",
-            "code": "HYWR01"
+            "code": "HYWR01",
+            "alttext": "HYUNDAI Elevator Spare Parts Door Roller - Φ66 X 15 X 6202"
           },
           {
             "name": "Door Roller - Φ45 X 15 X Φ12",
-            "code": "HYWR02"
+            "code": "HYWR02",
+             "alttext": "HYUNDAI Elevator Spare Parts Door Roller - Φ45 X 15 X Φ12"
           },
           {
             "name": "Door Roller - Φ84 X Φ77 X 17 X M10",
-            "code": "HYWR03"
+            "code": "HYWR03",
+            "alttext": "HYUNDAI Elevator Spare Parts Door Roller - Φ84 X Φ77 X 17 X M10"
           },
           {
             "name": "Door Roller - Φ30(6200) X 33 X M6",
-            "code": "HYWR04"
+            "code": "HYWR04",
+            "alttext": "HYUNDAI Elevator Spare Parts Door Roller - Φ30(6200) X 33 X M6"
           },
           {
             "name": "Door Roller - Φ70 X 10 X 6001",
-            "code": "HYWR05"
+            "code": "HYWR05",
+            "alttext": "HYUNDAI Elevator Spare Parts Door Roller - Φ70 X 10 X 6001"
           }
         ]
       },
       {
         "group_name": "Guide Shoe Insert",
         "slug": "guide-shoe-insert",
+        "canonical": "https://www.bestechparts.ae/brands/hyundai/door-roller",
+         "alttext_group":"HYUNDAI Elevator Spare Parts Guide Shoe Insert",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Hyundai Elevator Guide Shoe Insert Replacement | Bestech UAE",
+        "meta_description": "Buy Hyundai elevator guide shoe insert replacement components for guide shoe assemblies and elevator guiding system applications.",
+        "keywords": "Hyundai Elevator Guide Shoe Insert, Hyundai Guide Shoe Insert, Elevator Guide Shoe Insert UAE",
+        "paragraph_text": [
+          "<h2><strong>Hyundai Elevator Guide Shoe Insert</strong></h2>",
+          "<p>The Hyundai elevator guide shoe insert is a small, removable component that makes direct contact with the elevator guide rail. Installed within the guide shoe assembly, it forms part of the elevator guiding system during normal lift operation.</p>",
+          "<p>As the contact material between the guide shoe assembly and the guide rail, the guide shoe insert is an important component used across Hyundai elevator systems. Different insert sizes are available to match specific guide shoe configurations and maintenance requirements.</p>",
+          "<p>It can be replaced during servicing without changing the complete guide shoe assembly because the insert is removable. This helps simplify maintenance and replacement activities when required.</p>",
+          "<h3><strong>Available Hyundai Guide Shoe Insert Types</strong></h3>",
+          "<p>Our Hyundai elevator guide shoe insert range includes:</p>",
+          "<ul><li><strong>Guide Shoe Insert - 120 × 22 × 6</strong></li>\n  <li><strong>Guide Shoe Insert - 80 × 50 × 57 × 7</strong></li></ul>",
+          "<p>These guide shoe inserts are used as the contact material between the guide shoe assembly and the elevator guide rail. Different insert sizes are available to match specific elevator guide shoe configurations.</p>",
+          "<h3><strong>Product Applications</strong></h3>",
+          "<p>Hyundai elevator guide shoe insert components are commonly associated with:</p>",
+          "<ul><li><strong>Guide shoe assemblies</strong></li>\n  <li><strong>Elevator guide rail contact applications</strong></li>\n  <li><strong>Elevator guiding systems</strong></li>\n  <li><strong>Elevator maintenance activities</strong></li>\n<li><strong>Replacement requirements</strong></li>\n<li><strong>Residential, commercial and industrial elevator applications</strong></li></ul>",
+          "<h3><strong>FAQ</strong></h3>",
+          "<p><strong>1. Why are guide shoe inserts designed as removable components?</strong><br>Removable guide shoe inserts allow the contact material to be replaced without changing the complete guide shoe assembly.</p>",
+          "<p><strong>2. What is the difference between a guide shoe and a guide shoe insert?</strong><br>The guide shoe is the complete assembly, while the guide shoe insert is the replaceable component that makes contact with the guide rail.</p>",
+          "<p><strong>3. Why are guide shoe inserts available in different dimensions?</strong><br>Different guide shoe assemblies require specific insert sizes to match their design and installation requirements.</p>",
+          "<p><strong>4. Can guide shoe inserts be replaced without changing the full guide shoe?</strong><br>Yes. Guide shoe inserts are removable components that can typically be replaced independently. </p>",
+          "<p><strong>5. When should a guide shoe insert be inspected?</strong><br>Guide shoe inserts are commonly checked during routine elevator maintenance and servicing activities.</p>"
+        ],
+        "faq": [
+          {
+            "question": "Why are guide shoe inserts designed as removable components?",
+            "answer": "Removable guide shoe inserts allow the contact material to be replaced without changing the complete guide shoe assembly."
+          },
+          {
+            "question": "What is the difference between a guide shoe and a guide shoe insert?",
+            "answer": "The guide shoe is the complete assembly, while the guide shoe insert is the replaceable component that makes contact with the guide rail."
+          },
+          {
+            "question": "Why are guide shoe inserts available in different dimensions?",
+            "answer": "Different guide shoe assemblies require specific insert sizes to match their design and installation requirements."
+          },
+          {
+            "question": "Can guide shoe inserts be replaced without changing the full guide shoe?",
+            "answer": "Yes. Guide shoe inserts are removable components that can typically be replaced independently."
+          },
+          {
+            "question": "When should a guide shoe insert be inspected?",
+            "answer": "Guide shoe inserts are commonly checked during routine elevator maintenance and servicing activities."
+          }
+        ],
         "items": [
           {
             "name": "Guide Shoe Insert - 120 X 22 X 6",
-            "code": "HYGS01"
+            "code": "HYGS01",
+            "alttext": "HYUNDAI Elevator Spare Parts Guide Shoe Insert - 120 X 22 X 6"
           },
           {
             "name": "Guide Shoe Insert - 80 X 50 X 57 X 7",
-            "code": "HYGS02"
+            "code": "HYGS02",
+            "alttext": "HYUNDAI Elevator Spare Parts Guide Shoe Insert - 80 X 50 X 57 X 7"
           }
         ]
       },
       {
         "group_name": "Door Slider",
         "slug": "door-slider",
+        "alttext_group":"HYUNDAI Elevator Spare Parts Door Slider",
+        "canonical": "https://www.bestechparts.ae/brands/hyundai/door-roller",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Hyundai Door Slider for Elevator Doors | Bestech UAE",
+        "meta_description": "Get Hyundai elevator door slider components for car doors and landing doors. Find replacement door sliders for elevator maintenance and servicing applications.",
+        "keywords": "hyundai elevator door slider, hyundai brand lift door slider, Elevator door slider UAE",
+        "paragraph_text": [
+          "<h2><strong>Hyundai Elevator Door Slider </strong></h2>",
+          "<p>Hyundai elevator door sliders are small components installed along the bottom edge of elevator doors. Used on both car doors and landing doors, these parts help support the guided movement of door panels during normal elevator operation.</p>",
+          "<p>Manufactured from durable, low-friction materials, door sliders form part of the elevator door assembly and are commonly replaced during maintenance and servicing activities. Hyundai elevator door sliders are used across residential, commercial and industrial elevator applications.</p>",
+          "<p>At Bestech, we supply the hyundai elevator door slider, made to match Hyundai lift door systems used across the UAE.</p>",
+          "<h3><strong>Available Hyundai Door Slider Types</strong></h3>",
+          "<h4><strong>Door Slider - 96 X 42 X 11</strong></h4>",
+          "<p>This Hyundai elevator door slider is installed at the bottom edge of elevator doors and forms part of the door assembly. Its compact design supports use on both car doors and landing doors within Hyundai elevator systems.</p>",
+          "<h3><strong>Product Applications</strong></h3>",
+          "<p>Hyundai elevator door sliders are commonly associated with:</p>",
+          "<ul><li><strong>Car door applications</strong></li>\n  <li><strong>Landing door applications</strong></li>\n  <li><strong>Elevator door guidance</strong></li>\n  <li><strong>Door panel movement</strong></li>\n<li><strong>Elevator maintenance activities</strong></li>\n<li><strong>Replacement requirements</strong></li></ul>",
+          "<h3><strong>FAQ</strong></h3>",
+          "<p><strong>1. What is a Hyundai elevator door slider?</strong><br>A Hyundai elevator door slider is a component attached to the bottom edge of elevator doors to support guided door movement.</p>",
+          "<p><strong>2. Where is an elevator door slider installed?</strong><br>Door sliders are commonly installed on the bottom edge of both car doors and landing doors.</p>",
+          "<p><strong>3. Are door sliders used on both car doors and landing doors?</strong><br>Yes. Door sliders are commonly fitted to both car and landing door assemblies.</p>",
+          "<p><strong>4. Can worn door sliders be replaced?</strong><br>Yes. Door sliders can be replaced as part of elevator maintenance and servicing requirements.</p>",
+          "<p><strong>5. Why are low-friction door sliders used in elevators?</strong><br>Low-friction door sliders help support smooth door movement during normal elevator operation.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a Hyundai elevator door slider?",
+            "answer": "A Hyundai elevator door slider is a component attached to the bottom edge of elevator doors to support guided door movement."
+          },
+          {
+            "question": "Where is an elevator door slider installed?",
+            "answer": "Door sliders are commonly installed on the bottom edge of both car doors and landing doors."
+          },
+          {
+            "question": "Are door sliders used on both car doors and landing doors?",
+            "answer": "Yes. Door sliders are commonly fitted to both car and landing door assemblies."
+          },
+          {
+            "question": "Can worn door sliders be replaced?",
+            "answer": "Yes. Door sliders can be replaced as part of elevator maintenance and servicing requirements."
+          },
+          {
+            "question": "Why are low-friction door sliders used in elevators?",
+            "answer": "Low-friction door sliders help support smooth door movement during normal elevator operation."
+          }
+        ],
         "items": [
           {
             "name": "Door Slider - 96 X 42 X 11",
-            "code": "HYDS01"
+            "code": "HYDS01",
+            "alttext": "HYUNDAI Elevator Spare Parts Door Slider - 96 X 42 X 11"
           }
         ]
       },
       {
         "group_name": "Door Lock",
         "slug": "door-lock",
+         "alttext_group":"HYUNDAI Elevator Spare Parts Door Lock",
         "items": [
           {
             "name": "Door Lock - GLKS-M34",
             "code": "HYLO01"
+            
           },
           {
             "name": "Door Lock",
@@ -193,6 +298,7 @@
       {
         "group_name": "Triangle Lock",
         "slug": "triangle-lock",
+         "alttext_group":"HYUNDAI Elevator Spare Parts Triangle Lock",
         "items": [
           {
             "name": "Triangle Lock",
@@ -207,6 +313,7 @@
       {
         "group_name": "Switches & Sensors",
         "slug": "switches-sensors",
+         "alttext_group":"HYUNDAI Elevator Spare Parts Switches & Sensors",
         "items": [
           {
             "name": "Limited Switch - ID2-F8-AS1/AS2",
@@ -233,6 +340,7 @@
       {
         "group_name": "Service Tool",
         "slug": "service-tool",
+        "alttext_group":"HYUNDAI Elevator Spare Parts Service Tool",
         "items": [
           {
             "name": "Service Tool - STVF 9",
@@ -243,6 +351,7 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
+        "alttext_group":"HYUNDAI Elevator Spare Parts Display Board",
         "meta_title": "Hyundai Elevator Display Board | HYDI01 to HYDI05",
         "meta_description": "Shop Hyundai Elevator Display Board models HYDI01 to HYDI05 for clear floor display, direction arrows, and message alerts inside the lift car.",
         "keywords": "Hyundai Elevator Display Board, Hyundai Display Board HYDI01 - HIPD-CAN, Hyundai Display Board HYDI02 - HIP-CM, Hyundai Display Board HYDI03 - OPB-CAN-INDICATOR, Hyundai Display Board HYDI04 - HIPD-CAN-LCD, Hyundai Display Board HYDI05 - HPID-CAN",
@@ -308,6 +417,7 @@
       {
         "group_name": "PC Board",
         "slug": "pc-board",
+        "alttext_group":"HYUNDAI Elevator Spare Parts PC Board",
         "items": [
           {
             "name": "PC Board - HIDC-N",
@@ -386,6 +496,7 @@
       {
         "group_name": "Push Button",
         "slug": "push-button",
+        "alttext_group":"KONE Elevator Spare Parts Push Button",
         "items": [
           {
             "name": "Push Button Round - KD550",
@@ -412,6 +523,7 @@
       {
         "group_name": "Door Roller & Sheave",
         "slug": "door-roller-sheave",
+        "alttext_group":"KONE Elevator Spare Parts Door Roller & Sheave",
         "items": [
           {
             "name": "Door Roller - Ø68 X 17 X M10",
@@ -466,6 +578,7 @@
       {
         "group_name": "Door Lock Roller",
         "slug": "door-lock-roller",
+        "alttext_group":"KONE Elevator Spare Parts Door Lock Roller",
         "items": [
           {
             "name": "Door Lock Roller Components",
@@ -480,6 +593,7 @@
       {
         "group_name": "Lock Roller",
         "slug": "lock-roller",
+        "alttext_group":"KONE Elevator Spare Parts Lock Roller",
         "items": [
           {
             "name": "Lock Roller - Ø31.5 X 17 X Ø8",
@@ -502,6 +616,8 @@
       {
         "group_name": "Guide Shoe Roller",
         "slug": "Guide-Shoe-Roller",
+        "alttext_group":"KONE Elevator Spare Parts Guide Shoe Roller",
+
         "items": [
           {
             "name": "Guide Shoe Roller - Ø80 X 25 X 6203",
@@ -532,6 +648,7 @@
       {
         "group_name": "Roller Guide Shoe Assembly - Roller",
         "slug": "Roller-Guide-Shoe-Assembly-Roller",
+        "alttext_group":"KONE Elevator Spare Parts Roller Guide Shoe Assembly - Roller",
         "items": [
           {
             "name": "Roller Guide Shoe Assembly - Roller Ø80 X 25 X 6203",
@@ -550,6 +667,7 @@
       {
         "group_name": "Tachometer Roller",
         "slug": "Tachometer-Roller",
+        "alttext_group":"KONE Elevator Spare Parts Tachometer Roller",
         "items": [
           {
             "name": "Tachometer Roller - Ø37.5mm",
@@ -564,6 +682,7 @@
       {
         "group_name": "Door Down Roller",
         "slug": "door-down-roller",
+        "alttext_group":"KONE Elevator Spare Parts Door Down Roller",
         "items": [
           {
             "name": "Door Down Roller - Ø74 X 16 X M10",
@@ -614,6 +733,7 @@
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
+        "alttext_group":"KONE Elevator Spare Parts Guide Shoe & Insert",
         "items": [
           {
             "name": "Guide Shoe Insert - 128 X 34 X 16mm",
@@ -668,6 +788,7 @@
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
+        "alttext_group":"KONE Elevator Spare Parts Door Slider & Door Vane",
         "items": [
           {
             "name": "Door Slider - 70 X 40 X 14",
@@ -710,6 +831,7 @@
       {
         "group_name": "Door Lock & power Lock",
         "slug": "door-lock",
+        "alttext_group":"KONE Elevator Spare Parts Door Lock & power Lock",
         "items": [
           {
             "name": "Door Lock (Right)",
@@ -728,6 +850,8 @@
       {
         "group_name": "Sensors",
         "slug": "sensors",
+        "alttext_group":"KONE Elevator Spare Parts Sensors",
+
         "items": [
           {
             "name": "Leveling Sensor - 61U, 61N",
@@ -762,6 +886,8 @@
       {
         "group_name": "Inspection & Oil Box",
         "slug": "inspection-oil-box",
+        "alttext_group":"KONE Elevator Spare Parts Inspection & Oil Box",
+
         "items": [
           {
             "name": "Car Top Inspection Box",
@@ -776,6 +902,7 @@
       {
         "group_name": "Service Tool & Decoder",
         "slug": "service-tool-decoder",
+        "alttext_group":"KONE Elevator Spare Parts Service Tool & Decoder",
         "items": [
           {
             "name": "Service Tool",
@@ -790,6 +917,8 @@
       {
         "group_name": "Encoder",
         "slug": "encoder",
+        "alttext_group":"KONE Elevator Spare Parts Encoder",
+
         "items": [
           {
             "name": "Encoder for KDL16L Inverter",
@@ -808,6 +937,7 @@
       {
         "group_name": "Door Motor & Controller",
         "slug": "door-motor-controller",
+        "alttext_group":"KONE Elevator Spare Parts Door Motor & Controller",
         "items": [
           {
             "name": "Door Motor",
@@ -862,6 +992,7 @@
       {
         "group_name": "Brake, Fan & Tachometer",
         "slug": "brake-fan-tachometer",
+        "alttext_group":"KONE Elevator Spare Parts Brake, Fan & Tachometer",
         "items": [
           {
             "name": "Brake Coil - MX10",
@@ -896,6 +1027,7 @@
       {
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
+        "alttext_group":"KONE Elevator Spare Parts Frequency Inverter",
         "items": [
           {
             "name": "Frequency Inverter - V3F16L",
@@ -914,6 +1046,7 @@
       {
         "group_name": "HOP",
         "slug": "hop",
+        "alttext_group":"KONE Elevator Spare Parts HOP",
         "items": [
           {
             "name": "HOP",
@@ -944,6 +1077,7 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
+        "alttext_group":"KONE Elevator Spare Parts Display Board",
         "items": [
           {
             "name": "Landing Display Board",
@@ -1038,7 +1172,8 @@
       {
         "group_name": "PC Board",
         "slug": "pc-board",
-        "items": [
+        "alttext_group":"KONE Elevator Spare Parts PC Board",
+                "items": [
           {
             "name": "Car 2 Button PC Board",
             "code": "KOPCB01A - KM612913H07"
@@ -1280,6 +1415,8 @@
       {
         "group_name": "Push Buttons",
         "slug": "push-buttons",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Push Buttons",
+
         "items": [
           {
             "name": "Push Button HOPE Type - Installation Hole Size:31 X 31",
@@ -1350,6 +1487,8 @@
       {
         "group_name": "Door Rollers,Belt Roller & Sheaves",
         "slug": "door-rollers-belt-roller-sheaves",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Rollers,Belt Roller & Sheaves",
+
         "items": [
           {
             "name": "Door Roller Nylon Φ56 X 14 X 6201",
@@ -1444,6 +1583,8 @@
       {
         "group_name": "Guide Shoes",
         "slug": "guide-shoes",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Guide Shoes",
+
         "items": [
           {
             "name": "Guide Shoe Insert, One 230 X 35 X 8, Two 230 X 30 X 12.5",
@@ -1514,6 +1655,8 @@
       {
         "group_name": "Catch Plate & Damping Pad",
         "slug": "car-door-hanger",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Catch Plate & Damping Pad",
+
         "items": [
           {
             "name": "Ceiling Catch Plate",
@@ -1526,8 +1669,10 @@
         ]
       },
       {
-        "group_name": " Door Hanger",
+        "group_name": "Door Hanger",
         "slug": "door-hanger",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Hanger",
+
         "items": [
           {
             "name": "Car Door Hanger, JJ=700-1100",
@@ -1562,6 +1707,8 @@
       {
         "group_name": "Door Sliders",
         "slug": "door-sliders",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Sliders",
+
         "items": [
           {
             "name": "Door Slider 65 X 40 X 11.5",
@@ -1580,6 +1727,7 @@
       {
         "group_name": "Door Vanes",
         "slug": "door-vanes",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Vanes",
         "items": [
           {
             "name": "Door Vane 161(PB255)",
@@ -1602,6 +1750,8 @@
       {
         "group_name": "Door Locks,Triangle Lock & Power Locks",
         "slug": "door-locks-power-locks",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Locks,Triangle Lock & Power Locks",
+
         "items": [
           {
             "name": "Door Lock PB161A",
@@ -1680,6 +1830,8 @@
       {
         "group_name": "Sensors & Switches",
         "slug": "sensors-switches",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Sensors & Switches",
+
         "items": [
           {
             "name": "Limited Switch",
@@ -1766,6 +1918,8 @@
       {
         "group_name": "Oil & Inspection Box",
         "slug": "oil",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Oil & Inspection Box",
+
         "items": [
           {
             "name": "Oil Box Square",
@@ -1800,6 +1954,8 @@
       {
         "group_name": "Encoders & Modules",
         "slug": "encoders-modules",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Encoders & Modules",
+
         "items": [
           {
             "name": "Encoder ZKT-18B",
@@ -1898,6 +2054,8 @@
       {
         "group_name": "Door Motors,Fan & Brakes",
         "slug": "door-motors-fan-brakes",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Motors,Fan & Brakes",
+
         "items": [
           {
             "name": "Door Motor EMB-80-4",
@@ -1936,6 +2094,7 @@
       {
         "group_name": "Contator & Filter",
         "slug": "contator-filter",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Contator & Filter",
         "items": [
           {
             "name": "Contator, DC125V",
@@ -1978,6 +2137,8 @@
       {
         "group_name": "Transformer, Hop & Display Board",
         "slug": "transformer-hop-display-board",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts Transformer, Hop & Display Board",
+
         "items": [
           {
             "name": "Transformer",
@@ -2088,6 +2249,8 @@
       {
         "group_name": "PC Boards",
         "slug": "pc-boards",
+        "alttext_group":"MITSUBISHI Elevator Spare Parts PC Boards",
+
         "items": [
           {
             "name": "PC Board A904701B000G01",
@@ -2730,6 +2893,8 @@
       {
         "group_name": "Push Button & Button Plate",
         "slug": "push-button-button-plate",
+        "alttext_group":"OTIS Elevator Spare Parts Push Button & Button Plate",
+
         "items": [
           {
             "name": "Push Button T-40",
@@ -2816,6 +2981,8 @@
       {
         "group_name": "Door & Hanger Roller / Sheave",
         "slug": "door-hanger-roller-sheave",
+        "alttext_group":"OTIS Elevator Spare Parts Door & Hanger Roller / Sheave",
+
         "items": [
           {
             "name": "Hanger Roller Φ86",
@@ -2986,6 +3153,8 @@
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
+        "alttext_group":"OTIS Elevator Spare Parts Guide Shoe & Insert",
+
         "items": [
           {
             "name": "XIZi Guide Shoe Insert, 200 X 25 X 6, White/Black",
@@ -3152,6 +3321,8 @@
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
+        "alttext_group":"OTIS Elevator Spare Parts Door Slider & Door Vane",
+
         "items": [
           {
             "name": "Door Slider 80/50",
@@ -3214,6 +3385,8 @@
       {
         "group_name": "Door Lock & Contact",
         "slug": "door-lock-contact",
+        "alttext_group":"OTIS Elevator Spare Parts Door Lock & Contact",
+
         "items": [
           {
             "name": "Door Lock Left GS09",
@@ -3272,6 +3445,8 @@
       {
         "group_name": "Switches & Sensors",
         "slug": "switches-sensors",
+        "alttext_group":"OTIS Elevator Spare Parts Switches & Sensors",
+
         "items": [
           {
             "name": "Mechanical Switch",
@@ -3406,6 +3581,8 @@
       {
         "group_name": "Oil Box & Felt",
         "slug": "oil-box-felt",
+        "alttext_group":"OTIS Elevator Spare Parts Oil Box & Felt",
+
         "items": [
           {
             "name": "Oil Box Square",
@@ -3436,6 +3613,8 @@
       {
         "group_name": "Inspection Box,Control & Intercom",
         "slug": "inspection-box-control-intercom",
+        "alttext_group":"OTIS Elevator Spare Parts Inspection Box,Control & Intercom",
+
         "items": [
           {
             "name": "Car Top Inspection Box",
@@ -3486,6 +3665,8 @@
       {
         "group_name": "Electric Bell",
         "slug": "electric-bell",
+        "alttext_group":"OTIS Elevator Spare Parts Electric Bell",
+
         "items": [
           {
             "name": "Board For Electric Bell",
@@ -3500,6 +3681,8 @@
       {
         "group_name": "Steel Cable, Strip & Belt",
         "slug": "steel-cable-strip-belt",
+        "alttext_group":"OTIS Elevator Spare Parts Steel Cable, Strip & Belt",
+
         "items": [
           {
             "name": "Steel Cable,VV30 X 10 Cores",
@@ -3558,6 +3741,7 @@
       {
         "group_name": "Service Tool",
         "slug": "service-tool",
+        "alttext_group":"OTIS Elevator Spare Parts Steel Service Tool",
         "items": [
           {
             "name": "Service Tool",
@@ -3572,6 +3756,8 @@
       {
         "group_name": "Encoder",
         "slug": "encoder",
+        "alttext_group":"OTIS Elevator Spare Parts Encoder",
+
         "items": [
           {
             "name": "Encoder,SBH2-1024-2T(30-050-16)",
@@ -3650,6 +3836,7 @@
       {
         "group_name": "Door Motor,Door Power & Control Box",
         "slug": "door-motor-door-power-control-box",
+        "alttext_group":"OTIS Elevator Spare Parts Door Motor,Door Power & Control Box",
         "items": [
           {
             "name": "Door Motor AT120",
@@ -3700,6 +3887,8 @@
       {
         "group_name": "Brake, Machine& Fan",
         "slug": "brake-machine-fan",
+        "alttext_group":"OTIS Elevator Spare Parts Brake, Machine& Fan",
+
         "items": [
           {
             "name": "Brake Coil",
@@ -3794,6 +3983,8 @@
       {
         "group_name": "Oil Seal & Sealing Cover",
         "slug": "oil-seal-sealing-cover",
+        "alttext_group":"OTIS Elevator Spare Parts Oil Seal & Sealing Cover",
+
         "items": [
           {
             "name": "Oil Seal For 13VTR",
@@ -3820,6 +4011,8 @@
       {
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
+        "alttext_group":"OTIS Elevator Spare Parts Frequency Inverter",
+
         "items": [
           {
             "name": "OVF30 Inverter",
@@ -3854,6 +4047,8 @@
       {
         "group_name": "Display Board & Outbound Board",
         "slug": "display-board-outbound-board",
+        "alttext_group":"OTIS Elevator Spare Parts Display Board & Outbound Board",
+
         "items": [
           {
             "name": "Car Display Board",
@@ -4024,6 +4219,8 @@
       {
         "group_name": "PC Board (ALL MAIN, INVERTER, CONTROL, COMMUNICATION)",
         "slug": "pc-board",
+        "alttext_group":"OTIS Elevator Spare Parts PC Board (ALL MAIN, INVERTER, CONTROL, COMMUNICATION)",
+
         "items": [
           {
             "name": "Main PC Board",
@@ -4482,6 +4679,8 @@
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
+        "alttext_group":"Schindler Elevator Spare Parts Guide Shoe & Insert",
+
         "items": [
           {
             "name": "Guide Shoe Insert 220×10mm",
@@ -4580,6 +4779,8 @@
       {
         "group_name": "Guide Shoe Roller",
         "slug": "guide-shoe-roller",
+        "alttext_group":"Schindler Elevator Spare Parts Guide Shoe Roller",
+
         "items": [
           {
             "name": "Roller for Guide Shoe 150×30",
@@ -4594,6 +4795,8 @@
       {
         "group_name": "Door Vane & Door Slider",
         "slug": "door-vane-door-slider",
+        "alttext_group":"Schindler Elevator Spare Parts Door Vane & Door Slider",
+
         "items": [
           {
             "name": "PB51 Door Vane",
@@ -4644,6 +4847,8 @@
       {
         "group_name": "Push Button",
         "slug": "push-button",
+        "alttext_group":"Schindler Elevator Spare Parts Push Button",
+
         "items": [
           {
             "name": "D 型按钮",
@@ -4666,6 +4871,8 @@
       {
         "group_name": "Hanger Roller & Sheave",
         "slug": "hanger-roller-sheave",
+        "alttext_group":"Schindler Elevator Spare Parts Hanger Roller & Sheave",
+
         "items": [
           {
             "name": "Hanger Roller QD=76mm",
@@ -4716,6 +4923,8 @@
       {
         "group_name": "Door Lock & Power Lock",
         "slug": "door-lock-power-lock",
+        "alttext_group":"Schindler Elevator Spare Parts Door Lock & Power Lock",
+
         "items": [
           {
             "name": "OKS9(PB260) Door Lock 1 left + 1 right",
@@ -4806,6 +5015,7 @@
       {
         "group_name": "Contactor & Controller",
         "slug": "contactor-controller",
+        "alttext_group":"Schindler Elevator Spare Parts Contactor & Controller",
         "items": [
           {
             "name": "Contactor",
@@ -4824,6 +5034,7 @@
       {
         "group_name": "Switches & Safety",
         "slug": "switches-safety",
+        "alttext_group":"Schindler Elevator Spare Parts Switches & Safety",
         "items": [
           {
             "name": "UKT Limit Switch Automatic Return 109×31×30mm",
@@ -4850,6 +5061,8 @@
       {
         "group_name": "Door Motor,Drum & Cable",
         "slug": "door-motor-drum-cable",
+        "alttext_group":"Schindler Elevator Spare Parts Door Motor,Drum & Cable",
+
         "items": [
           {
             "name": "Door Relating Cable JJ=800",
@@ -4896,6 +5109,8 @@
       {
         "group_name": "Encoder, Fan & Oil",
         "slug": "encoder-fan-oil",
+        "alttext_group":"Schindler Elevator Spare Parts Encoder, Fan & Oil",
+
         "items": [
           {
             "name": "Heidenhain Encoder ECMA-2048/8815-2K",
@@ -4926,6 +5141,8 @@
       {
         "group_name": "Inverter & PCB",
         "slug": "inverter-pcb",
+        "alttext_group":"Schindler Elevator Spare Parts Inverter & PCB",
+
         "items": [
           {
             "name": "迅达变频器  Inverter Variodyn VF33BR",
@@ -5080,6 +5297,8 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
+        "alttext_group":"Schindler Elevator Spare Parts Display Board",
+
         "items": [
           {
             "name": "300P 轿厢显示",
@@ -5122,6 +5341,8 @@
       {
         "group_name": "Push Button",
         "slug": "push-button",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Push Button",
+
         "items": [
           {
             "name": "Push Button 32.6 × 32.6",
@@ -5136,6 +5357,8 @@
       {
         "group_name": "Door Roller & Guide Shoe Roller",
         "slug": "door-roller-guide-shoe-roller",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Door Roller & Guide Shoe Roller",
+
         "items": [
           {
             "name": "Door Roller Φ30 × 9 × M10",
@@ -5174,6 +5397,8 @@
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Guide Shoe & Insert",
+
         "items": [
           {
             "name": "Guide Shoe Insert 150 × 17mm",
@@ -5236,6 +5461,8 @@
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Door Slider & Door Vane",
+
         "items": [
           {
             "name": "Door Slider,48 X 20 X 12 X Φ5",
@@ -5294,6 +5521,8 @@
       {
         "group_name": "Door Lock & Power Lock",
         "slug": "door-lock-power-lock",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Door Lock & Power Lock",
+
         "items": [
           {
             "name": "Landing Door Lock K8",
@@ -5316,6 +5545,8 @@
       {
         "group_name": "Sensors & Switches",
         "slug": "sensors-switches",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Sensors & Switches",
+
         "items": [
           {
             "name": "Leveling Sensor,CEDES/GLS/TK",
@@ -5342,6 +5573,8 @@
       {
         "group_name": "Oil Box & Inspection Box",
         "slug": "oil-box-inspection-box",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Oil Box & Inspection Box",
+
         "items": [
           {
             "name": "Oil Box",
@@ -5368,6 +5601,8 @@
       {
         "group_name": "Test Tools",
         "slug": "test-tools",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Test Tools",
+
         "items": [
           {
             "name": "Parameter Test TT",
@@ -5382,6 +5617,8 @@
       {
         "group_name": "Encoder & Contactor",
         "slug": "encoder-contactor",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Encoder & Contactor",
+
         "items": [
           {
             "name": "Encoder ECN 1313",
@@ -5420,6 +5657,8 @@
       {
         "group_name": "Door Motor",
         "slug": "door-motor",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Door Motor",
+
         "items": [
           {
             "name": "Door Motor Box F9",
@@ -5438,6 +5677,8 @@
       {
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Frequency Inverter",
+
         "items": [
           {
             "name": "Frequency Inverter CPIK48M1",
@@ -5456,6 +5697,8 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts Display Board",
+
         "items": [
           {
             "name": "Display Board G-264A",
@@ -5506,6 +5749,8 @@
       {
         "group_name": "PCB Board",
         "slug": "pcb-board",
+        "alttext_group":"Thyssenkrupp Elevator Spare Parts PCB Board",
+
         "items": [
           {
             "name": "PC Board MC2-S",
