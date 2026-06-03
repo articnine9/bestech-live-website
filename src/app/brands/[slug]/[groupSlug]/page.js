@@ -7,9 +7,9 @@ export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
 // ✅ NEXT 16 SAFE METADATA
-export async function generateMetadata(props) {
-  const params = await props.params;
-  const { slug, groupSlug } = params || {};
+export async function generateMetadata({params}) {
+  const { slug, groupSlug  } = await params;
+  // const { slug, groupSlug } = params || {};
 
   if (!slug || !groupSlug) {
     return {
@@ -131,6 +131,22 @@ export default async function Page(props) {
     ],
   };
 
+  const faqSchema =
+    group?.faq?.length > 0
+      ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: group.faq.map((faq) => ({
+          "@type": "Question",
+          name: faq.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: faq.answer.replace(/<[^>]*>?/gm, ""),
+          },
+        })),
+      }
+      : null;
+
   return (
     <>
       <script
@@ -140,6 +156,17 @@ export default async function Page(props) {
           __html: JSON.stringify(breadcrumbSchema),
         }}
       />
+      {/* ✅ FAQ SCHEMA — PAGE SPECIFIC */}
+      {group?.faq?.length > 0 && (
+        <script
+          id="faq-schema"
+          type="application/ld+json"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(faqSchema),
+          }}
+        />
+      )}
       <PageHeader title={`${group.group_name} - ${brand.page_name}`}
         breadcrumbs={[
           { label: brand.page_name, href: `/brands/${brand.slug}` },
@@ -153,7 +180,7 @@ export default async function Page(props) {
 
         {Array.isArray(group?.paragraph_text) ? (
           group.paragraph_text.map((item, index) => (
-            <section className="container padding">
+            <section className="container padding mt-3">
               <div
                 key={index}
                 className="seo-content flex flex-col gap-[10px] pb-[200px] mb-3"

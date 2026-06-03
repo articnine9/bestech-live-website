@@ -4639,7 +4639,7 @@ export const products = [
         code: "BS-DW0011",
         url: "/door-wheels/door-machine-positioning-wheel",
         image: "/img/products/door-wheels/door-machine-positioning-wheel/elevator-door-machine-positioning-wheel-1.jpg",
-        slider: ["elevator-door-machine-positioning-wheel-1", "elevator-door-machine-positioning-wheel-2", "elevator-door-machine-positioning-wheel-3", "elevator-door-machine-positioning-wheel-4", "elevator-door-machine-positioning-wheel-5", "elevator-door-machine-positioning-wheel-6"],
+        slider: ["elevator-door-machine-positioning-wheel-1", "elevator-door-machine-positioning-wheel-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-machine-positioning-wheel",
         robots:

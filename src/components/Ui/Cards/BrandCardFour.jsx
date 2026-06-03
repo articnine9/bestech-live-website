@@ -64,7 +64,7 @@ const BrandCardFour = ({ items }) => {
                         <div className="inner">
                           <img
                             src={item?.img2 || "/img/product-default-img.jpg"}
-                            alt={item?.name || "Blog image"}
+                            alt={ item?.alttext || item?.name}
                           />
                         </div>
                       </div>
