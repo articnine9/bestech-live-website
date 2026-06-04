@@ -109,6 +109,11 @@ const nextConfig = {
         source: "/products/sensors/leveling-sensor-mkf71asakx",
         destination: "/products/sensors/levelling-sensor-mkf71asakx",
         permanent: true,
+      },
+        {
+        source: "/brands/mitsubishi/sensors-switches",
+        destination: "/brands/mitsubishi/switches",
+        permanent: true,
       }
 
 

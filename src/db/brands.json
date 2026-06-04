@@ -17,7 +17,7 @@
         "meta_title": "Hyundai Lift Push Button Components | Bestech UAE",
         "meta_description": "Find Hyundai elevator push buttons for passenger interface systems, including car call and hall call applications across elevator panels.",
         "keywords": "Hyundai Elevator push button, Hyundai push button A4J16002 A2,  AK32, Hyundai push button AK-4B",
-        "alttext_group":"HYUNDAI Elevator Spare Parts Push Button",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Push Button",
         "paragraph_text": [
           "<h2><strong>Hyundai Elevator Push Button</strong></h2>",
           "<p>Hyundai elevator push button is the main contact point used by passengers to select floors and request lift movement. When pressed, the button sends a signal to the elevator control system which then manages travel direction and stopping points. This process supports safe and organised passenger movement inside buildings.</p>",
@@ -81,7 +81,7 @@
         "group_name": "Door Roller",
         "slug": "door-roller",
         "canonical": "https://www.bestechparts.ae/brands/hyundai/door-roller",
-         "alttext_group":"HYUNDAI Elevator Spare Parts Door Roller",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Door Roller",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Hyundai Elevator Door Roller | Bestech UAE",
         "meta_description": "Buy Hyundai elevator door roller components for landing doors and car door systems. Contact Bestech for Hyundai lift spare parts and replacement components.",
@@ -136,7 +136,7 @@
           {
             "name": "Door Roller - Φ45 X 15 X Φ12",
             "code": "HYWR02",
-             "alttext": "HYUNDAI Elevator Spare Parts Door Roller - Φ45 X 15 X Φ12"
+            "alttext": "HYUNDAI Elevator Spare Parts Door Roller - Φ45 X 15 X Φ12"
           },
           {
             "name": "Door Roller - Φ84 X Φ77 X 17 X M10",
@@ -159,7 +159,7 @@
         "group_name": "Guide Shoe Insert",
         "slug": "guide-shoe-insert",
         "canonical": "https://www.bestechparts.ae/brands/hyundai/door-roller",
-         "alttext_group":"HYUNDAI Elevator Spare Parts Guide Shoe Insert",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Guide Shoe Insert",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Hyundai Elevator Guide Shoe Insert Replacement | Bestech UAE",
         "meta_description": "Buy Hyundai elevator guide shoe insert replacement components for guide shoe assemblies and elevator guiding system applications.",
@@ -221,7 +221,7 @@
       {
         "group_name": "Door Slider",
         "slug": "door-slider",
-        "alttext_group":"HYUNDAI Elevator Spare Parts Door Slider",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Door Slider",
         "canonical": "https://www.bestechparts.ae/brands/hyundai/door-roller",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta_title": "Hyundai Door Slider for Elevator Doors | Bestech UAE",
@@ -278,206 +278,494 @@
       {
         "group_name": "Door Lock",
         "slug": "door-lock",
-         "alttext_group":"HYUNDAI Elevator Spare Parts Door Lock",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Door Lock",
+        "canonical": "https://www.bestechparts.ae/brands/hyundai/door-lock",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Hyundai Elevator Door Lock & Interlock | Bestech UAE",
+        "meta_description": "Find Hyundai elevator door lock components including hall door interlocks and cabin door locks for elevator door system applications. ",
+        "keywords": "Hyundai Elevator Door Lock, Elevator Door Lock UAE, Hyundai Door Lock Spare Parts",
+        "paragraph_text": [
+          "<h2><strong>Hyundai Elevator Door Lock</strong></h2>",
+          "<p>Door locks play an important role in elevator door operation by helping manage the locking and interlock functions of both landing and cabin doors. Hyundai elevator door lock components include landing door interlocks and car door locks used across various elevator applications.</p>",
+          "<p>Installed as part of the elevator door system, these components are associated with door locking, door monitoring and safety-related elevator functions.</p>",
+          "<p>Based in Sharjah, Bestech UAE is your trusted source for genuine Hyundai elevator door lock assemblies. We deliver dependable spare parts and technical assistance designed to meet the exact requirements.</p>",
+          "<h3><strong>Available Hyundai Product Types</strong></h3>",
+          "<p>Our collection includes the most commonly used components for Hyundai lift door systems:</p>",
+          "<ul><li><strong>Landing Door Interlock:</strong> Also known as the Hall Door lock, this mechanical and electrical safety device secures hoistway doors on every floor.</li>\n  <li><strong>Car Door Lock:</strong> Also known as the Cabin Door lock, this safety component secures the moving cabin doors during travel.</li></ul>",
+          "<h3><strong>Product Catalog Reference</strong></h3>",
+          "<p>We supply Hyundai elevator door lock components compatible with various elevator door systems and replacement requirements, including:</p>",
+          "<div class='table-wrapper'><table class='blog-table'><tr><th>Product</th><th>Reference Model</th></tr><tr><td>Door Lock - GLKS-M34</td><td>GLKS-M34</td></tr><tr><td>Hyundai Elevator Door Lock</td><td>Available in multiple configurations</td></tr></table></div>",
+          "<h3><strong>Product Applications</strong></h3>",
+          "<p>Hyundai elevator door lock components are commonly associated with:</p>",
+          "<ul><li><strong>Landing door interlock applications</strong></li>\n  <li><strong>Cabin door lock applications</strong></li>\n  <li><strong>Elevator door locking systems</strong></li>\n  <li><strong>Elevator maintenance activities</strong></li>\n<li><strong>Inspection and replacement requirements</strong></li>\n<li><strong>Safety-related elevator door functions</strong></li></ul>",
+          "<h3><strong>FAQ</strong></h3>",
+          "<p><strong>1. What is a car door lock in an elevator? </strong><br>A car door lock is a locking component associated with the elevator cabin door system.</p>",
+          "<p><strong>2. Why are elevator door interlocks important?</strong><br>Door interlocks are associated with elevator door locking functions and form part of the overall elevator door system.</p>",
+          "<p><strong>3. How do I identify the correct Hyundai elevator door lock?</strong><br>The correct door lock can be identified using the elevator model, existing lock specifications and installation requirements.</p>",
+          "<p><strong>4. Are Hyundai door locks used in both residential and commercial elevators?</strong><br>Yes. Hyundai door lock components are used across various residential, commercial and industrial elevator applications.</p>",
+          "<p><strong>5. What should be checked before replacing an elevator door lock?</strong><br>The existing lock model, elevator system requirements and installation compatibility should be verified before replacement.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a car door lock in an elevator?",
+            "answer": "A car door lock is a locking component associated with the elevator cabin door system."
+          },
+          {
+            "question": "Why are elevator door interlocks important?",
+            "answer": "Door interlocks are associated with elevator door locking functions and form part of the overall elevator door system."
+          },
+          {
+            "question": "How do I identify the correct Hyundai elevator door lock?",
+            "answer": "The correct door lock can be identified using the elevator model, existing lock specifications and installation requirements."
+          },
+          {
+            "question": "Are Hyundai door locks used in both residential and commercial elevators?",
+            "answer": "Yes. Hyundai door lock components are used across various residential, commercial and industrial elevator applications."
+          },
+          {
+            "question": "What should be checked before replacing an elevator door lock?",
+            "answer": "The existing lock model, elevator system requirements and installation compatibility should be verified before replacement."
+          }
+        ],
         "items": [
           {
             "name": "Door Lock - GLKS-M34",
-            "code": "HYLO01"
-            
+            "code": "HYLO01",
+            "alttext": "HYUNDAI Elevator Spare Parts Door Lock - GLKS-M34"
           },
           {
             "name": "Door Lock",
-            "code": "HYLO04"
+            "code": "HYLO04",
+            "alttext": "HYUNDAI Elevator Spare Parts Door Lock"
           },
           {
             "name": "Door Lock",
-            "code": "HYLO05"
+            "code": "HYLO05",
+            "alttext": "HYUNDAI Elevator Spare Parts Door Lock"
           }
         ]
       },
       {
         "group_name": "Triangle Lock",
         "slug": "triangle-lock",
-         "alttext_group":"HYUNDAI Elevator Spare Parts Triangle Lock",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Triangle Lock",
+        "canonical": "https://www.bestechparts.ae/brands/hyundai/triangle-lock",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Hyundai Elevator Triangle Lock | Bestech UAE",
+        "meta_description": "Buy Hyundai elevator triangle lock solutions for elevator safety and access applications. Contact Bestech for Hyundai lift spare parts and replacement components. ",
+        "keywords": "Hyundai Elevator Triangle Lock, Elevator Triangle Lock UAE, Hyundai Elevator Maintenance Lock",
+        "paragraph_text": [
+          "<h2><strong>Hyundai Elevator Triangle Lock</strong></h2>",
+          "<p>The Hyundai Elevator Triangle Lock is a specialized safety component designed to secure the elevator system. It consists of a robust locking mechanism operated by a unique triangular key, used primarily to control access to the elevator car, machinery rooms and control cabinets.</p>",
+          "<p>In Hyundai elevator systems, this lock ensures that the lift cannot be operated or accessed by unauthorized personnel during maintenance or emergencies. It is a critical part of the safety protocol for both residential and commercial installations across the UAE.</p>",
+          "<p>As a trusted Hyundai spare parts supplier serving the UAE market, Bestech ensures every component meets the quality standards expected by elevator maintenance professionals. </p>",
+          "<h3><strong>Available Hyundai Product Types</strong></h3>",
+          "<p>The Hyundai triangle lock range includes:</p>",
+          "<ul><li><strong>Hyundai Elevator Triangle Locks</strong></li>\n  <li><strong>Elevator Access Triangle Locks</strong></li>\n  <li><strong>Elevator Maintenance Lock Components</strong></li>\n  <li><strong>Triangle Lock Systems for Hyundai Elevators</strong></li></ul>",
+          "<h3><strong>Product Applications</strong></h3>",
+          "<p>Hyundai elevator triangle locks are commonly associated with:</p>",
+          "<ul><li><strong>Elevator safety-related applications</strong></li>\n  <li><strong>Elevator inspection activities</strong></li>\n  <li><strong>Maintenance and servicing work</strong></li>\n  <li><strong>Replacement requirements</strong></li>\n<li><strong>Elevator access hardware applications</strong></li></ul>",
+          "<h3><strong>FAQ</strong></h3>",
+          "<p><strong>1. What is a Hyundai elevator triangle lock?</strong><br>A Hyundai elevator triangle lock is a safety-related component used within Hyundai elevator systems.</p>",
+          "<p><strong>2. Do you supply the key with the lock?</strong><br>We supply the Hyundai Elevator Triangle Lock. The matching triangular key is available separately, contact our team to confirm availability for your model.</p>",
+          "<p><strong>3. Can a damaged triangle lock be replaced?</strong><br>Yes. Triangle locks can be replaced as part of elevator maintenance and servicing requirements.</p>",
+          "<p><strong>4. Are triangle locks used in elevator maintenance activities?</strong><br>Yes. Triangle locks are commonly associated with maintenance, inspection and replacement work.</p>",
+          "<p><strong>5. Do you supply Hyundai elevator triangle locks in the UAE?</strong><br>Yes. BESTECH supplies Hyundai elevator spare parts, including triangle lock components across the UAE.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a Hyundai elevator triangle lock?",
+            "answer": "A Hyundai elevator triangle lock is a safety-related component used within Hyundai elevator systems."
+          },
+          {
+            "question": "Do you supply the key with the lock?",
+            "answer": "We supply the Hyundai Elevator Triangle Lock. The matching triangular key is available separately, contact our team to confirm availability for your model."
+          },
+          {
+            "question": "Can a damaged triangle lock be replaced?",
+            "answer": "Yes. Triangle locks can be replaced as part of elevator maintenance and servicing requirements."
+          },
+          {
+            "question": "Are triangle locks used in elevator maintenance activities?",
+            "answer": "Yes. Triangle locks are commonly associated with maintenance, inspection and replacement work."
+          },
+          {
+            "question": "Do you supply Hyundai elevator triangle locks in the UAE?",
+            "answer": "Yes. BESTECH supplies Hyundai elevator spare parts, including triangle lock components across the UAE."
+          }
+        ],
         "items": [
           {
             "name": "Triangle Lock",
-            "code": "HYLO02"
+            "code": "HYLO02",
+            "alttext": "HYUNDAI Elevator Spare Parts Triangle Lock-1"
           },
           {
             "name": "Triangle Lock",
-            "code": "HYLO03"
+            "code": "HYLO03",
+            "alttext": "HYUNDAI Elevator Spare Parts Triangle Lock-2"
           }
         ]
       },
       {
         "group_name": "Switches & Sensors",
         "slug": "switches-sensors",
-         "alttext_group":"HYUNDAI Elevator Spare Parts Switches & Sensors",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Switches & Sensors",
+        "canonical": "https://www.bestechparts.ae/brands/hyundai/switches-sensors",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Hyundai Elevator Switches & Sensors | Bestech UAE",
+        "meta_description": "Shop reliable Hyundai elevator switches and sensors at Bestech UAE. Find high-quality limit switches, load sensors and proximity switches for lift systems.",
+        "keywords": "Hyundai Elevator Switches and Sensors, Hyundai Elevator switches parts, Hyundai Elevator Sensor Parts, Elevator Switches and Sensors UAE",
+        "paragraph_text": [
+          "<h2><strong>Hyundai Elevator Switches and Sensors</strong></h2>",
+          "<p>Within an elevator system, switches and sensors provide information related to position, movement and load conditions. Hyundai elevator switches and sensors include components such as limit switches, load sensors and proximity switches, each supporting a specific monitoring function during lift operation.</p>",
+          "<p>From defining travel limits to detecting metal targets and monitoring elevator load, these components support various monitoring and safety-related functions across Hyundai elevator systems. They are commonly used during elevator maintenance, inspection and replacement activities in residential and commercial buildings.</p>",
+          "<p>At Bestech UAE, we specialize in supplying genuine Hyundai elevator spare parts. Based in Sharjah, we provide reliable switches and sensors for residential, commercial and industrial sectors with expert support. </p>",
+          "<h3><strong>Available Hyundai Product Types</strong></h3>",
+          "<p>Our collection includes the commonly used Hyundai elevator components for maintenance and safety applications:</p>",
+          "<div class='table-wrapper'><table class='blog-table'><tr><th>Product</th><th>Available Models</th><th>Function</th></tr><tr><td>Limit Switches</td><td>ID2-F8-AS1/AS2, BUP-50-HD, BUP-50-H(BUD-50-H)</td><td>Safety devices that monitor and define the travel limits of the elevator car.</td></tr><tr><td>Load Sensors</td><td>HLC-2004 STVF5 </td><td>Weight-measuring components that monitor the load inside the elevator car.</td></tr><tr><td>Proximity Switches</td><td>PF125/PFI25-8DN</td><td>Non-contact sensors used to detect metal targets such as steel plates and guide </td></tr></table></div>",
+          "<h3><strong>Product Applications</strong></h3>",
+          "<p>Hyundai elevator switches and sensors are commonly used for:</p>",
+          "<ul><li><strong>Routine lift maintenance and part replacements.</strong></li>\n  <li><strong>Elevator safety system checks.</strong></li>\n  <li><strong>Weight monitoring and load management.</strong></li>\n  <li><strong>Lift troubleshooting and technical support work.</strong></li>\n<li><strong>Commercial and residential building lift inspections.</strong></li></ul>",
+          "<h3><strong>FAQ</strong></h3>",
+          "<p><strong>1. What does a Hyundai elevator limit switch do?</strong><br>A limit switch acts as a safety sensor to make sure the elevator car does not travel past its safe boundaries.</p>",
+          "<p><strong>2. Why are load sensors important in a lift system?</strong><br>Load sensors measure the weight inside the elevator car and support load monitoring applications.</p>",
+          "<p><strong>3. How do proximity switches work in Hyundai elevators?</strong><br>They are electronic sensors that detect metal targets such as steel plates and guide rails without physical contact. </p>",
+          "<p><strong>4. Are these parts suitable for both commercial and residential buildings?</strong><br>Yes. The switches and sensors are designed for standard Hyundai elevator setups in various building types.</p>",
+          "<p><strong>5. Can these parts be used for routine maintenance replacements?</strong><br>Yes. These are commonly sourced by technicians for standard repairs, maintenance and safety inspections.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What does a Hyundai elevator limit switch do?",
+            "answer": "A limit switch acts as a safety sensor to make sure the elevator car does not travel past its safe boundaries."
+          },
+          {
+            "question": "Why are load sensors important in a lift system?",
+            "answer": "Load sensors measure the weight inside the elevator car and support load monitoring applications."
+          },
+          {
+            "question": "How do proximity switches work in Hyundai elevators?",
+            "answer": "They are electronic sensors that detect metal targets such as steel plates and guide rails without physical contact."
+          },
+          {
+            "question": "Are these parts suitable for both commercial and residential buildings?",
+            "answer": "Yes. The switches and sensors are designed for standard Hyundai elevator setups in various building types."
+          },
+          {
+            "question": "Can these parts be used for routine maintenance replacements?",
+            "answer": "Yes. These are commonly sourced by technicians for standard repairs, maintenance and safety inspections."
+          }
+        ],
         "items": [
           {
             "name": "Limited Switch - ID2-F8-AS1/AS2",
-            "code": "HYSS01"
+            "code": "HYSS01",
+            "alttext": "HYUNDAI Elevator Spare Parts Switches & Sensors Limited Switch - ID2-F8-AS1/AS2"
           },
           {
             "name": "Limited Switch - BUP-50-HD",
-            "code": "HYSS02"
+            "code": "HYSS02",
+            "alttext": "HYUNDAI Elevator Spare Parts Switches & Sensors Limited Switch - BUP-50-HD"
           },
           {
             "name": "Limited Switch - BUP-50-H(BUD-50-H)",
-            "code": "HYSS03"
+            "code": "HYSS03",
+            "alttext": "HYUNDAI Elevator Spare Parts Switches & Sensors Limited Switch - BUP-50-H(BUD-50-H)"
           },
           {
             "name": "Proximity Switch - PF125/PFI25-8DN",
-            "code": "HYSS04"
+            "code": "HYSS04",
+            "alttext": "HYUNDAI Elevator Spare Parts Switches & Sensors Proximity Switch - PF125/PFI25-8DN"
           },
           {
             "name": "Load Sensors - HLC-2004 STVF5",
-            "code": "HYSS05"
+            "code": "HYSS05",
+            "alttext": "HYUNDAI Elevator Spare Parts Switches & Sensors Load Sensors - HLC-2004 STVF5"
           }
         ]
       },
       {
         "group_name": "Service Tool",
         "slug": "service-tool",
-        "alttext_group":"HYUNDAI Elevator Spare Parts Service Tool",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Service Tool",
+        "canonical": "https://www.bestechparts.ae/brands/hyundai/service-tool",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "Hyundai Elevator Service Tool | Bestech UAE",
+        "meta_description": "Buy high-quality Hyundai elevator service tools for routine lift maintenance, troubleshooting and inspections. Contact Bestech UAE for a quote today.",
+        "keywords": "Hyundai Elevator Service Tools, Hyundai STVF9 Service Tool, Elevator Service Tools UAE",
+        "paragraph_text": [
+          "<h2><strong>Hyundai Elevator Service Tool</strong></h2>",
+          "<p>Hyundai elevator service tools are used to support elevator maintenance, troubleshooting and servicing requirements. These tools help technicians perform maintenance activities and assist with service support applications across Hyundai elevator systems.</p>",
+          "<p>Suitable for residential and commercial lift environments, Hyundai service tools are commonly used during inspection, maintenance and system checking activities. Their practical design supports technicians in carrying out routine elevator servicing requirements.</p>",
+          "<h3><strong>Available Hyundai Service Tool Types</strong></h3>",
+          "<p>The Hyundai elevator service tool range includes various diagnostic and maintenance tools used for elevator troubleshooting, configuration and controller communication. Available Hyundai service tool types include:</p>",
+          "<ul><li><strong>STVF9 Service Tools</strong></li>\n  <li><strong>HHT-WB100 Service Tools</strong></li>\n  <li><strong>Hyundai Elevator Diagnostic Tools</strong></li>\n  <li><strong>Hyundai Controller Programming Tools</strong></li></ul>",
+          "<h3><strong>Service Tool Applications</strong></h3>",
+          "<p>Hyundai elevator service tools are commonly used for:</p>",
+          "<ul><li><strong>Elevator maintenance support</strong></li>\n  <li><strong>Lift troubleshooting applications</strong></li>\n  <li><strong>Routine servicing activities</strong></li>\n  <li><strong>Elevator inspection work</strong></li>\n<li><strong>Technical service support</strong></li>\n<li><strong>Maintenance assistance</strong></li></ul>",
+          "<h3><strong>Maintenance Support for Hyundai Elevators</strong></h3>",
+          "<p>Hyundai service tools play an important role in elevator servicing and maintenance activities. Suitable for use across Hyundai elevator systems, these tools help support routine inspection, troubleshooting and maintenance requirements.</p>",
+          "<p>With practical applications in servicing and technical support work, Hyundai elevator service tools are widely used in residential and commercial lift environments.</p>",
+          "<h3><strong>FAQ</strong></h3>",
+          "<p><strong>1. Can a Hyundai service tool help during elevator maintenance?</strong><br>Yes. Hyundai service tools are commonly used to support inspection, maintenance and servicing activities.</p>",
+          "<p><strong>2. Are service tools required for elevator troubleshooting?</strong><br>Service tools can assist technicians during troubleshooting and maintenance procedures in elevator systems.</p>",
+          "<p><strong>3. Do Hyundai service tools support STVF elevator systems?</strong><br>Yes. Hyundai service tools are available for use with selected STVF elevator applications.</p>",
+          "<p><strong>4. Who typically uses Hyundai elevator service tools?</strong><br>Hyundai service tools are commonly used by elevator technicians and maintenance personnel during servicing work.</p>",
+          "<p><strong>5. Can service tools be used during routine elevator inspections?</strong><br>Yes. Service tools are often used to support routine inspections and maintenance activities.</p>"
+        ],
+        "faq": [
+          {
+            "question": "Can a Hyundai service tool help during elevator maintenance?",
+            "answer": "Yes. Hyundai service tools are commonly used to support inspection, maintenance and servicing activities."
+          },
+          {
+            "question": "Are service tools required for elevator troubleshooting?",
+            "answer": "Service tools can assist technicians during troubleshooting and maintenance procedures in elevator systems."
+          },
+          {
+            "question": "Do Hyundai service tools support STVF elevator systems?",
+            "answer": "Yes. Hyundai service tools are available for use with selected STVF elevator applications."
+          },
+          {
+            "question": "Who typically uses Hyundai elevator service tools?",
+            "answer": "Hyundai service tools are commonly used by elevator technicians and maintenance personnel during servicing work."
+          },
+          {
+            "question": "Can service tools be used during routine elevator inspections?",
+            "answer": "Yes. Service tools are often used to support routine inspections and maintenance activities."
+          }
+        ],
         "items": [
           {
             "name": "Service Tool - STVF 9",
-            "code": "HYTT01 - HHT-WB100"
+            "code": "HYTT01 - HHT-WB100",
+            "alttext": "HYUNDAI Elevator Spare Parts Service Tool Service Tool - STVF 9"
           }
         ]
       },
       {
         "group_name": "Display Board",
         "slug": "display-board",
-        "alttext_group":"HYUNDAI Elevator Spare Parts Display Board",
-        "meta_title": "Hyundai Elevator Display Board | HYDI01 to HYDI05",
-        "meta_description": "Shop Hyundai Elevator Display Board models HYDI01 to HYDI05 for clear floor display, direction arrows, and message alerts inside the lift car.",
-        "keywords": "Hyundai Elevator Display Board, Hyundai Display Board HYDI01 - HIPD-CAN, Hyundai Display Board HYDI02 - HIP-CM, Hyundai Display Board HYDI03 - OPB-CAN-INDICATOR, Hyundai Display Board HYDI04 - HIPD-CAN-LCD, Hyundai Display Board HYDI05 - HPID-CAN",
+        "alttext_group": "HYUNDAI Elevator Spare Parts Display Board",
+        "canonical": "https://www.bestechparts.ae/brands/hyundai/display-board",
+        "meta_title": "Hyundai Elevator Display Board | Bestech UAE",
+        "meta_description": "Shop Hyundai Elevator Display Board solutions for STVF5, STVF7 and STVF8 elevator systems with clear floor indication, direction display and passenger information support.",
+        "keywords": "Hyundai Elevator Display Boards, Hyundai Display Board Parts, Elevator Display Boards UAE",
         "paragraph_text": [
-          "<h2><strong>Hyundai Elevator Display Boards for Clear Floor Updates</strong></h2>",
-          "<p>The Hyundai Elevator Display Board is a crucial component of the elevator car. It facilitates people's understanding of the lift's location, direction of travel, and presence of any special messages. This display is usually placed above the button panel or built into it so that riders can see the details clearly during the ride. Clear floor numbers and direction signs help make lift use easy and stress free for daily users.</p>",
-          "<p>These display boards are used in many buildings where smooth and clear lift movement information is needed. They help people feel more confident while using the elevator by showing updates in a simple and readable way. From homes to offices and public buildings, these displays support better communication inside the lift.</p>",
-          "<h2><strong>What the Hyundai Elevator Display Board Shows</strong></h2>",
-          "<p>The main purpose of the Hyundai Elevator Display Board is to share key travel details with passengers. It shows the current floor number so users know where the lift is at any moment. It also shows whether the elevator is going up or down, which helps everyone to understand the movement clearly. In some cases, short system messages may also appear to guide users during operation.</p>",
-          "<p>It stays within easy view throughout the ride because the display is placed near or above the button panel. This placement helps users check updates without turning or searching for information. The clear layout supports smooth movement awareness from the moment the doors close until they open again.</p>",
-          "<h2><strong>System Compatibility and Model Overview</strong></h2>",
-          "<p>The Hyundai display board range includes several models designed to work with specific system types. These models support different setups while keeping the same purpose of showing clear lift information.</p>",
-          "<p>The available models include:</p>",
-          "<ul><li><strong>Hyundai Display Board HYDI01 – HIPD-CAN</strong></li>\n  <li><strong>Hyundai Display Board HYDI02 – HIP-CMO</strong></li>\n  <li><strong>Hyundai Display Board HYDI03 – OPB-CAN-INDICATOR</strong></li>\n  <li><strong>Hyundai Display Board HYDI04 – HIPD-CAN-LCD</strong></li>\n  <li><strong>Hyundai Display Board HYDI05 – HPID-CAN</strong></li>\n</ul>",
-          "<h3><strong>Hyundai Display Board HYDI01 – HIPD-CAN</strong></h3>",
-          "<p>The HYDI01 (HIPD-CAN) is the foundational, standard LED display board for Landing Operating Panels (LOP) in Hyundai elevator systems. It is basically used to display floor numbers and directional arrows at each floor landing. This robust component communicates via the CAN-bus protocol, ensuring clear and steady visibility for passengers during elevator operations.</p>",
-          "<h3><strong>Hyundai Display Board HYDI02 – HIP-CMO</strong></h3>",
-          "<p>The HYDI02 (HIP-CMO) board serves a similar function to the HYDI01, acting as an interface logic PCB for Landing Operating Panels (LOP). It is frequently interchangeable with the HIPD-CAN in specific assemblies. This board maintains full compatibility with the STVF5 and STVF7 systems and focuses on robust signal processing for reliable floor and direction indicators.</p>\n<h3>Hyundai Display Board HYDI03 – OPB-CAN-INDICATOR</h3>",
-          "<p>The HYDI03 (OPB-CAN-INDICATOR) is a specialized display board designed for the Car Operating Panel (COP), the main control panel located inside the elevator car. Its features are tailored to integrate seamlessly with the car's internal wiring harness, displaying the current floor position and travel direction with high reliability within the lift cabin environment.</p>\n<h3>Hyundai Display Board HYDI04 – HIPD-CAN-LCD</h3>",
-          "<p>The HYDI04 (HIPD-CAN-LCD) introduces modern display technology to the Hyundai lineup by utilizing a Liquid Crystal Display (LCD) rather than traditional LED segments. This upgrade allows for high-resolution graphics, custom text messages (e.g., \"Fire Alarm,\" \"Out of Service\"), and enhanced aesthetic appeal. It offers dynamic content capabilities for both LOP and COP applications where a premium visual interface is desired.</p>",
-          "<h3><strong>Hyundai Display Board HYDI05 – HPID-CAN</strong></h3>",
-          "<p>The HYDI05 (HPID-CAN) is a versatile hardware revision that provides broader compatibility across Hyundai systems, including STVF5, STVF7, and STVF8. This robust display board is designed for both domestic and overseas markets, offering high resistance to vibration and physical impact while maintaining reliable, high-visibility floor and direction indication via the CAN-bus network.</p>\n<h2>Why These Display Boards Matter in Daily Lift Use</h2>",
-          "<p>A clear display inside the elevator helps people feel comfortable and informed. When riders can see the floor number and direction, they understand what the lift is doing at every moment. This reduces confusion and makes travel smoother for everyone, including visitors who are not familiar with the building.</p>\n<p>The Hyundai Elevator Display Board range supports this by offering multiple models that fit different system needs. Each model focuses on clear presentation and easy viewing. The simple layout helps users read the display quickly without effort.</p>",
-          "<p>These display boards are suitable for many types of buildings and lift setups. With proper placement and system matching, they help improve the overall lift experience by keeping information visible and easy to follow.</p>",
-          "<h2><strong>A Simple and Clear Display Solution for Elevators</strong></h2>",
-          "<p>Choosing the right display board helps maintain clear communication inside the elevator car. The Hyundai range offers options that work with STVF5, STVF7, and STVF8 systems, making it easier to match the correct model for each setup. With support for floor numbers, direction signs, and short messages, these boards help create a smooth and clear lift journey.</p>\n<p>The Hyundai Elevator Display Board range supports daily operation by keeping users informed at every step. With clear placement, simple viewing, and multiple model choices, these display boards help ensure that every ride feels easy to understand and well guided.</p>"
+          "<h2><strong>Hyundai Elevator Display Boards</strong></h2>",
+          "<p>Hyundai elevator display boards and floor indicators are used to show floor position, travel direction and lift status information inside elevator systems. These display units are commonly used in Hyundai STVF5, STVF7 and STVF8 elevator systems for smooth passenger communication and easy floor indication.</p>",
+          "<p>Designed for both car operating panels (COP) and landing operating panels (LOP), Hyundai display boards help improve passenger guidance during daily elevator operation. Clear visibility and proper indication support a better lift experience in residential and commercial buildings.</p>",
+          "<h3><strong>Available Hyundai Display Board Types</strong></h3>",
+          "<p>Our Hyundai elevator display board range includes various display and communication boards compatible with STVF5, STVF7 and STVF8 elevator systems. Available Hyundai display board models include:</p>",
+          "<ul><li><strong>HIPD-CAN Display Board - STVF5/STVF7</strong></li>\n  <li><strong>HIP-CMO Display Board - STVF5/STVF7</strong></li>\n  <li><strong>OPB-CANL Display Board - STVF5/STVF7</strong></li>\n  <li><strong>HIPD-CAN-LCD Display Board - STVF5/STVF7</strong></li>\n  <li><strong>HIPD-CAN Display Board - STVF5/STVF8</strong></li>\n <li><strong>HIPD-CANV3.1 Display Board</strong></li>\n <li><strong>HIPD-CANV3.2 Display Board</strong></li>\n <li><strong>COLTD12SEG Display Board</strong></li></ul>",
+          "<h3><strong>Display Functions</strong></h3>",
+          "<p>Hyundai elevator display boards support multiple display functions, including:</p>",
+          "<ul><li><strong>Floor indication</strong></li>\n  <li><strong>Direction indication</strong></li>\n  <li><strong>Elevator status display</strong></li>\n  <li><strong>COP panel indication</strong></li>\n  <li><strong>LOP panel indication</strong></li>\n<li><strong>Passenger information display</strong></li></ul>",
+          "<h3><strong>Applications</strong></h3>",
+          "<p>Hyundai elevator display boards are commonly used in:</p>",
+          "<ul><li><strong>Apartment elevators</strong></li>\n  <li><strong>Commercial buildings</strong></li>\n  <li><strong>Hospitals</strong></li>\n  <li><strong>Hotels</strong></li>\n  <li><strong>Shopping malls</strong></li>\n<li><strong>Office elevators</strong></li></ul>",
+          "<p>These display systems help passengers easily identify floor movement and elevator direction during travel.</p>",
+          "<h3><strong>Clear Display Solution for Elevators</strong></h3>",
+          "<p>Choosing the right display board helps maintain clear communication inside elevator systems. Hyundai display boards are designed to support smooth passenger guidance with visible floor indication and direction display throughout lift operation. Their compatibility with STVF5, STVF7 and STVF8 systems makes them suitable for different elevator setups and building requirements.</p>",
+          "<p>With clear visibility and practical indication functions, Hyundai elevator display boards help improve the overall passenger experience in both residential and commercial lift environments.</p>",
+          "<h3><strong>FAQ</strong></h3>",
+          "<p><strong>1.  How do I choose the correct Hyundai display board?</strong><br>The correct Hyundai display board depends on the elevator system, panel type and display application requirements.</p>",
+          "<p><strong>2.  Do you provide other Hyundai elevator spare parts?</strong><br>Yes. BESTECH supplies Hyundai PCB boards, control boards, display boards, sensors, inverters and other elevator spare parts.</p>",
+          "<p><strong>3.  What types of Hyundai elevator display boards are available? </strong><br>We supply various Hyundai elevator display boards including HIPD-CAN, HIP-CMO, OPB-CANL, HIPD-CAN-LCD and HIDC-N models compatible with STVF elevator systems.</p>",
+          "<p><strong>4.  Do Hyundai elevator display boards support CAN communication systems?</strong><br>Yes. Selected Hyundai display boards are suitable for CAN-based elevator display applications.</p>",
+          "<p><strong>5.  What is the difference between COP and LOP display boards?</strong><br>COP display boards are installed inside the elevator car, while LOP display boards are installed outside the elevator on each floor for floor and direction indication.</p>"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the correct Hyundai display board?",
+            "answer": "The correct Hyundai display board depends on the elevator system, panel type and display application requirements."
+          },
+          {
+            "question": "Do you provide other Hyundai elevator spare parts?",
+            "answer": "Yes. BESTECH supplies Hyundai PCB boards, control boards, display boards, sensors, inverters and other elevator spare parts."
+          },
+          {
+            "question": "What types of Hyundai elevator display boards are available?",
+            "answer": "We supply various Hyundai elevator display boards including HIPD-CAN, HIP-CMO, OPB-CANL, HIPD-CAN-LCD and HIDC-N models compatible with STVF elevator systems."
+          },
+          {
+            "question": "Do Hyundai elevator display boards support CAN communication systems?",
+            "answer": "Yes. Selected Hyundai display boards are suitable for CAN-based elevator display applications."
+          },
+          {
+            "question": "What is the difference between COP and LOP display boards?",
+            "answer": "COP display boards are installed inside the elevator car, while LOP display boards are installed outside the elevator on each floor for floor and direction indication."
+          }
         ],
         "items": [
           {
             "name": "Display Board - STVF5/STVF7",
-            "code": "HYDI01 - HIPD-CAN"
+            "code": "HYDI01 - HIPD-CAN",
+            "alttext": "HYUNDAI Elevator Spare Parts Display Board - STVF5/STVF7"
           },
           {
             "name": "Display Board - STVF5/STVF7",
-            "code": "HYDI02 - HIP-CMO"
+            "code": "HYDI02 - HIP-CMO",
+            "alttext": "HYUNDAI Elevator Spare Parts Display Board - STVF5/STVF7"
           },
           {
             "name": "Display Board - STVF5/STVF7",
-            "code": "HYDI03 - OPB-CAN-INDICATOR"
+            "code": "HYDI03 - OPB-CAN-INDICATOR",
+            "alttext": "HYUNDAI Elevator Spare Parts Display Board - STVF5/STVF7"
           },
           {
             "name": "Display Board - STVF5/STVF7",
-            "code": "HYDI04 - HIPD-CAN-LCD"
+            "code": "HYDI04 - HIPD-CAN-LCD",
+            "alttext": "HYUNDAI Elevator Spare Parts Display Board - STVF5/STVF7"
           },
           {
             "name": "Display Board - STVF5/STVF8",
-            "code": "HYDI05 - HPID-CAN"
+            "code": "HYDI05 - HPID-CAN",
+            "alttext": "HYUNDAI Elevator Spare Parts Display Board - STVF5/STVF8"
           },
           {
             "name": "Display Board",
-            "code": "HYDI06 - HPID-CANV3.1"
+            "code": "HYDI06 - HPID-CANV3.1",
+            "alttext": "HYUNDAI Elevator Spare Parts Display Board HPID-CANV3.1"
           },
           {
             "name": "Display Board",
-            "code": "HYDI07 - HPID-CANV3.2"
+            "code": "HYDI07 - HPID-CANV3.2",
+            "alttext": "HYUNDAI Elevator Spare Parts Display Board HPID-CANV3.2"
           },
           {
             "name": "Display Board",
-            "code": "HYDI08 - COLTD12SEG"
+            "code": "HYDI08 - COLTD12SEG",
+            "alttext": "HYUNDAI Elevator Spare Parts Display Board COLTD12SEG"
           }
         ]
       },
       {
         "group_name": "PC Board",
         "slug": "pc-board",
-        "alttext_group":"HYUNDAI Elevator Spare Parts PC Board",
+        "alttext_group": "HYUNDAI Elevator Spare Parts PC Board",
+        "canonical": "https://www.bestechparts.ae/brands/hyundai/pc-board",
+        "meta_title": "Hyundai Elevator PC Board | Bestech UAE",
+        "meta_description": "Shop Hyundai Elevator PC Board solutions for STVF5, STVF7 and STVF8 elevator systems including control boards, PCB modules and elevator electronic boards.",
+        "keywords": "Hyundai Elevator PC Boards, Hyundai Elevator PCB Boards, Elevator PC Board Parts UAE",
+        "paragraph_text": [
+          "<h2><strong>Hyundai Elevator PC Boards</strong></h2>",
+          "<p>Hyundai elevator PC boards are important electronic components used in elevator control and system management applications. These elevator PCB boards help support communication between lift components and are commonly used in Hyundai STVF5, STVF7 and STVF8 elevator systems.</p>",
+          "<p>Installed inside elevator control panels, Hyundai PCB boards support electronic communication and controller functions within lift systems. These elevator PCB boards are suitable for maintenance, replacement and elevator control applications in residential and commercial buildings.</p>",
+          "<h3><strong>Available Hyundai PC Board Types</strong></h3>",
+          "<p>Our Hyundai PC board range includes popular OEM board models such as HIDC-N, MPCU, OPB-340, PWR, TCB-3, M33 BD REV .D1, MCU, TNP7A, CCB-7, HIVD900SS, PSDM, TPB-2, BOARD 204C1699 H22, H9G 15SF R4.0 CAUTION and XDDY-12V V3.3.</p>",
+          "<p>These boards are compatible with various Hyundai elevator controller systems including STVF5, STVF7 and STVF8 applications.</p>",
+
+          "<h3><strong>PC Board Functions</strong></h3>",
+          "<p>Hyundai elevator PCB boards support various elevator system functions, including:</p>",
+          "<ul><li><strong>Lift control support</strong></li>\n  <li><strong>Electronic signal communication</strong></li>\n  <li><strong>Elevator controller support</strong></li>\n  <li><strong>Elevator monitoring functions</strong></li>\n  <li><strong>System operation support</strong></li>\n<li><strong>Electronic system support</strong></li></ul>",
+          "<h3><strong>PCB Solutions for Hyundai Elevators</strong></h3>",
+          "<p>Hyundai PC boards play an important role in elevator control panel operation and electronic system support. Compatible with STVF5, STVF7 and STVF8 elevator systems, these PCB boards are suitable for various lift control and replacement applications.</p>",
+          "<p>With support for lift communication and controller applications, Hyundai elevator PCB boards are widely used in residential and commercial lift systems for maintenance and servicing.</p>",
+          "<h3><strong>FAQ</strong></h3>",
+          "<p><strong>1. How do I identify the correct Hyundai elevator PCB board?</strong><br>The correct PCB board can be identified using the elevator system type, board model and control panel configuration.</p>",
+          "<p><strong>2. Can a faulty elevator PCB board affect lift operation?</strong><br>Yes, damaged or faulty PCB boards can affect elevator communication, control functions and system operation.</p>",
+          "<p><strong>3. Do you supply replacement PCB boards for Hyundai elevators?</strong><br>Yes, BESTECH supplies replacement Hyundai PCB boards, controller boards and elevator electronic components.</p>",
+          "<p><strong>4. What types of Hyundai elevator PCB boards are available?</strong><br>The range includes controller boards, OPB boards, MCU boards, power boards and lift control PCB modules.</p>",
+          "<p><strong>5. Why is PCB board compatibility important in elevators?</strong><br>Using a compatible PCB board helps support proper communication and control functions within the elevator system.</p>"
+        ],
+        "faq": [
+          {
+            "question": "How do I identify the correct Hyundai elevator PCB board?",
+            "answer": "The correct PCB board can be identified using the elevator system type, board model and control panel configuration."
+          },
+          {
+            "question": "Can a faulty elevator PCB board affect lift operation?",
+            "answer": "Yes, damaged or faulty PCB boards can affect elevator communication, control functions and system operation."
+          },
+          {
+            "question": "Do you supply replacement PCB boards for Hyundai elevators?",
+            "answer": "Yes, BESTECH supplies replacement Hyundai PCB boards, controller boards and elevator electronic components."
+          },
+          {
+            "question": "What types of Hyundai elevator PCB boards are available?",
+            "answer": "The range includes controller boards, OPB boards, MCU boards, power boards and lift control PCB modules."
+          },
+          {
+            "question": "Why is PCB board compatibility important in elevators?",
+            "answer": "Using a compatible PCB board helps support proper communication and control functions within the elevator system."
+          }
+        ],
         "items": [
           {
             "name": "PC Board - HIDC-N",
-            "code": "HYPCB01"
+            "code": "HYPCB01",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - HIDC-N"
           },
           {
             "name": "PC Board - BOARD 204C1699 H22",
-            "code": "HYPCB02 - MPCU"
+            "code": "HYPCB02 - MPCU",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - BOARD 204C1699 H22"
           },
           {
             "name": "PC Board - OPB-340",
-            "code": "HYPCB03"
+            "code": "HYPCB03",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - OPB-340"
           },
           {
             "name": "PC Board - PWR",
-            "code": "HYPCB04"
+            "code": "HYPCB04",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - PWR"
           },
           {
             "name": "PC Board - TCB-3",
-            "code": "HYPCB05"
+            "code": "HYPCB05",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - TCB-3"
           },
           {
             "name": "PC Board - M33 BD REV .D1",
-            "code": "HYPCB06"
+            "code": "HYPCB06",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - M33 BD REV .D1"
           },
           {
             "name": "PC Board - MCU, STVF7/DWG N 20400065",
-            "code": "HYPCB07"
+            "code": "HYPCB07",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - MCU, STVF7/DWG N 20400065"
           },
           {
             "name": "PC Board - STVF7",
-            "code": "HYPCB08 - TNP7A"
+            "code": "HYPCB08 - TNP7A",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - STVF7"
           },
           {
             "name": "PC Board - OPB-340, STVF5/STVF7",
-            "code": "HYPCB09"
+            "code": "HYPCB09",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - OPB-340, STVF5/STVF7"
           },
           {
             "name": "PC Board - CCB-7",
-            "code": "HYPCB10"
+            "code": "HYPCB10",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - CCB-7"
           },
           {
             "name": "PC Board - STVF5/STVF8",
-            "code": "HYPCB11 - HIVD900SS"
+            "code": "HYPCB11 - HIVD900SS",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - STVF5/STVF8"
           },
           {
             "name": "PC Board - PSDM",
-            "code": "HYPCB12"
+            "code": "HYPCB12",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - PSDM"
           },
           {
             "name": "PC Board - H9G 15SF R4.0 CAUTION",
-            "code": "HYPCB13"
+            "code": "HYPCB13",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - H9G 15SF R4.0 CAUTION"
           },
           {
             "name": "PC Board - TPB-2",
-            "code": "HYPCB14"
+            "code": "HYPCB14",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - TPB-2"
           },
           {
             "name": "PC Board - XDDY-12V V3.3",
-            "code": "HYPCB15"
+            "code": "HYPCB15",
+            "alttext": "HYUNDAI Elevator Spare Parts PC Board - XDDY-12V V3.3"
           }
         ]
       }
@@ -496,7 +784,7 @@
       {
         "group_name": "Push Button",
         "slug": "push-button",
-        "alttext_group":"KONE Elevator Spare Parts Push Button",
+        "alttext_group": "KONE Elevator Spare Parts Push Button",
         "items": [
           {
             "name": "Push Button Round - KD550",
@@ -523,7 +811,7 @@
       {
         "group_name": "Door Roller & Sheave",
         "slug": "door-roller-sheave",
-        "alttext_group":"KONE Elevator Spare Parts Door Roller & Sheave",
+        "alttext_group": "KONE Elevator Spare Parts Door Roller & Sheave",
         "items": [
           {
             "name": "Door Roller - Ø68 X 17 X M10",
@@ -578,7 +866,7 @@
       {
         "group_name": "Door Lock Roller",
         "slug": "door-lock-roller",
-        "alttext_group":"KONE Elevator Spare Parts Door Lock Roller",
+        "alttext_group": "KONE Elevator Spare Parts Door Lock Roller",
         "items": [
           {
             "name": "Door Lock Roller Components",
@@ -593,7 +881,7 @@
       {
         "group_name": "Lock Roller",
         "slug": "lock-roller",
-        "alttext_group":"KONE Elevator Spare Parts Lock Roller",
+        "alttext_group": "KONE Elevator Spare Parts Lock Roller",
         "items": [
           {
             "name": "Lock Roller - Ø31.5 X 17 X Ø8",
@@ -616,8 +904,7 @@
       {
         "group_name": "Guide Shoe Roller",
         "slug": "Guide-Shoe-Roller",
-        "alttext_group":"KONE Elevator Spare Parts Guide Shoe Roller",
-
+        "alttext_group": "KONE Elevator Spare Parts Guide Shoe Roller",
         "items": [
           {
             "name": "Guide Shoe Roller - Ø80 X 25 X 6203",
@@ -648,7 +935,7 @@
       {
         "group_name": "Roller Guide Shoe Assembly - Roller",
         "slug": "Roller-Guide-Shoe-Assembly-Roller",
-        "alttext_group":"KONE Elevator Spare Parts Roller Guide Shoe Assembly - Roller",
+        "alttext_group": "KONE Elevator Spare Parts Roller Guide Shoe Assembly - Roller",
         "items": [
           {
             "name": "Roller Guide Shoe Assembly - Roller Ø80 X 25 X 6203",
@@ -667,7 +954,7 @@
       {
         "group_name": "Tachometer Roller",
         "slug": "Tachometer-Roller",
-        "alttext_group":"KONE Elevator Spare Parts Tachometer Roller",
+        "alttext_group": "KONE Elevator Spare Parts Tachometer Roller",
         "items": [
           {
             "name": "Tachometer Roller - Ø37.5mm",
@@ -682,7 +969,7 @@
       {
         "group_name": "Door Down Roller",
         "slug": "door-down-roller",
-        "alttext_group":"KONE Elevator Spare Parts Door Down Roller",
+        "alttext_group": "KONE Elevator Spare Parts Door Down Roller",
         "items": [
           {
             "name": "Door Down Roller - Ø74 X 16 X M10",
@@ -733,7 +1020,7 @@
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
-        "alttext_group":"KONE Elevator Spare Parts Guide Shoe & Insert",
+        "alttext_group": "KONE Elevator Spare Parts Guide Shoe & Insert",
         "items": [
           {
             "name": "Guide Shoe Insert - 128 X 34 X 16mm",
@@ -788,7 +1075,7 @@
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
-        "alttext_group":"KONE Elevator Spare Parts Door Slider & Door Vane",
+        "alttext_group": "KONE Elevator Spare Parts Door Slider & Door Vane",
         "items": [
           {
             "name": "Door Slider - 70 X 40 X 14",
@@ -831,7 +1118,7 @@
       {
         "group_name": "Door Lock & power Lock",
         "slug": "door-lock",
-        "alttext_group":"KONE Elevator Spare Parts Door Lock & power Lock",
+        "alttext_group": "KONE Elevator Spare Parts Door Lock & power Lock",
         "items": [
           {
             "name": "Door Lock (Right)",
@@ -850,8 +1137,7 @@
       {
         "group_name": "Sensors",
         "slug": "sensors",
-        "alttext_group":"KONE Elevator Spare Parts Sensors",
-
+        "alttext_group": "KONE Elevator Spare Parts Sensors",
         "items": [
           {
             "name": "Leveling Sensor - 61U, 61N",
@@ -886,8 +1172,7 @@
       {
         "group_name": "Inspection & Oil Box",
         "slug": "inspection-oil-box",
-        "alttext_group":"KONE Elevator Spare Parts Inspection & Oil Box",
-
+        "alttext_group": "KONE Elevator Spare Parts Inspection & Oil Box",
         "items": [
           {
             "name": "Car Top Inspection Box",
@@ -902,7 +1187,7 @@
       {
         "group_name": "Service Tool & Decoder",
         "slug": "service-tool-decoder",
-        "alttext_group":"KONE Elevator Spare Parts Service Tool & Decoder",
+        "alttext_group": "KONE Elevator Spare Parts Service Tool & Decoder",
         "items": [
           {
             "name": "Service Tool",
@@ -917,8 +1202,7 @@
       {
         "group_name": "Encoder",
         "slug": "encoder",
-        "alttext_group":"KONE Elevator Spare Parts Encoder",
-
+        "alttext_group": "KONE Elevator Spare Parts Encoder",
         "items": [
           {
             "name": "Encoder for KDL16L Inverter",
@@ -937,7 +1221,7 @@
       {
         "group_name": "Door Motor & Controller",
         "slug": "door-motor-controller",
-        "alttext_group":"KONE Elevator Spare Parts Door Motor & Controller",
+        "alttext_group": "KONE Elevator Spare Parts Door Motor & Controller",
         "items": [
           {
             "name": "Door Motor",
@@ -992,7 +1276,7 @@
       {
         "group_name": "Brake, Fan & Tachometer",
         "slug": "brake-fan-tachometer",
-        "alttext_group":"KONE Elevator Spare Parts Brake, Fan & Tachometer",
+        "alttext_group": "KONE Elevator Spare Parts Brake, Fan & Tachometer",
         "items": [
           {
             "name": "Brake Coil - MX10",
@@ -1027,7 +1311,7 @@
       {
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
-        "alttext_group":"KONE Elevator Spare Parts Frequency Inverter",
+        "alttext_group": "KONE Elevator Spare Parts Frequency Inverter",
         "items": [
           {
             "name": "Frequency Inverter - V3F16L",
@@ -1046,7 +1330,7 @@
       {
         "group_name": "HOP",
         "slug": "hop",
-        "alttext_group":"KONE Elevator Spare Parts HOP",
+        "alttext_group": "KONE Elevator Spare Parts HOP",
         "items": [
           {
             "name": "HOP",
@@ -1077,7 +1361,7 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
-        "alttext_group":"KONE Elevator Spare Parts Display Board",
+        "alttext_group": "KONE Elevator Spare Parts Display Board",
         "items": [
           {
             "name": "Landing Display Board",
@@ -1172,8 +1456,8 @@
       {
         "group_name": "PC Board",
         "slug": "pc-board",
-        "alttext_group":"KONE Elevator Spare Parts PC Board",
-                "items": [
+        "alttext_group": "KONE Elevator Spare Parts PC Board",
+        "items": [
           {
             "name": "Car 2 Button PC Board",
             "code": "KOPCB01A - KM612913H07"
@@ -1415,8 +1699,7 @@
       {
         "group_name": "Push Buttons",
         "slug": "push-buttons",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Push Buttons",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Push Buttons",
         "items": [
           {
             "name": "Push Button HOPE Type - Installation Hole Size:31 X 31",
@@ -1487,8 +1770,7 @@
       {
         "group_name": "Door Rollers,Belt Roller & Sheaves",
         "slug": "door-rollers-belt-roller-sheaves",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Rollers,Belt Roller & Sheaves",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Door Rollers,Belt Roller & Sheaves",
         "items": [
           {
             "name": "Door Roller Nylon Φ56 X 14 X 6201",
@@ -1583,8 +1865,7 @@
       {
         "group_name": "Guide Shoes",
         "slug": "guide-shoes",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Guide Shoes",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Guide Shoes",
         "items": [
           {
             "name": "Guide Shoe Insert, One 230 X 35 X 8, Two 230 X 30 X 12.5",
@@ -1655,8 +1936,7 @@
       {
         "group_name": "Catch Plate & Damping Pad",
         "slug": "car-door-hanger",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Catch Plate & Damping Pad",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Catch Plate & Damping Pad",
         "items": [
           {
             "name": "Ceiling Catch Plate",
@@ -1671,8 +1951,7 @@
       {
         "group_name": "Door Hanger",
         "slug": "door-hanger",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Hanger",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Door Hanger",
         "items": [
           {
             "name": "Car Door Hanger, JJ=700-1100",
@@ -1707,8 +1986,7 @@
       {
         "group_name": "Door Sliders",
         "slug": "door-sliders",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Sliders",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Door Sliders",
         "items": [
           {
             "name": "Door Slider 65 X 40 X 11.5",
@@ -1727,7 +2005,7 @@
       {
         "group_name": "Door Vanes",
         "slug": "door-vanes",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Vanes",
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Door Vanes",
         "items": [
           {
             "name": "Door Vane 161(PB255)",
@@ -1750,8 +2028,7 @@
       {
         "group_name": "Door Locks,Triangle Lock & Power Locks",
         "slug": "door-locks-power-locks",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Locks,Triangle Lock & Power Locks",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Door Locks,Triangle Lock & Power Locks",
         "items": [
           {
             "name": "Door Lock PB161A",
@@ -1828,27 +2105,10 @@
         ]
       },
       {
-        "group_name": "Sensors & Switches",
-        "slug": "sensors-switches",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Sensors & Switches",
-
+        "group_name": "Sensors",
+        "slug": "sensors",
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Sensors",
         "items": [
-          {
-            "name": "Limited Switch",
-            "code": "MISS01 - S3-1370"
-          },
-          {
-            "name": "Safety Touch Panel Switch",
-            "code": "MISS02 - LXW5-11N1"
-          },
-          {
-            "name": "Buffer Switch",
-            "code": "MISS03 - 3SE3-0201"
-          },
-          {
-            "name": "Photoelectric Switch",
-            "code": "MISS04 - YA043D166-04"
-          },
           {
             "name": "Leveling Sensor",
             "code": "MISS05 - YG-25"
@@ -1904,6 +2164,29 @@
           {
             "name": "Sensor",
             "code": "MISS20 - ESD-R-38B"
+          }
+        ]
+      },
+      {
+        "group_name": "Switches",
+        "slug": "switches",
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Switches",
+        "items": [
+          {
+            "name": "Limited Switch",
+            "code": "MISS01 - S3-1370"
+          },
+          {
+            "name": "Safety Touch Panel Switch",
+            "code": "MISS02 - LXW5-11N1"
+          },
+          {
+            "name": "Buffer Switch",
+            "code": "MISS03 - 3SE3-0201"
+          },
+          {
+            "name": "Photoelectric Switch",
+            "code": "MISS04 - YA043D166-04"
           },
           {
             "name": "Car Door Switch For DS-131",
@@ -1918,8 +2201,7 @@
       {
         "group_name": "Oil & Inspection Box",
         "slug": "oil",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Oil & Inspection Box",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Oil & Inspection Box",
         "items": [
           {
             "name": "Oil Box Square",
@@ -1954,8 +2236,7 @@
       {
         "group_name": "Encoders & Modules",
         "slug": "encoders-modules",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Encoders & Modules",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Encoders & Modules",
         "items": [
           {
             "name": "Encoder ZKT-18B",
@@ -2054,8 +2335,7 @@
       {
         "group_name": "Door Motors,Fan & Brakes",
         "slug": "door-motors-fan-brakes",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Door Motors,Fan & Brakes",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Door Motors,Fan & Brakes",
         "items": [
           {
             "name": "Door Motor EMB-80-4",
@@ -2094,7 +2374,7 @@
       {
         "group_name": "Contator & Filter",
         "slug": "contator-filter",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Contator & Filter",
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Contator & Filter",
         "items": [
           {
             "name": "Contator, DC125V",
@@ -2137,8 +2417,7 @@
       {
         "group_name": "Transformer, Hop & Display Board",
         "slug": "transformer-hop-display-board",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts Transformer, Hop & Display Board",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Transformer, Hop & Display Board",
         "items": [
           {
             "name": "Transformer",
@@ -2249,8 +2528,7 @@
       {
         "group_name": "PC Boards",
         "slug": "pc-boards",
-        "alttext_group":"MITSUBISHI Elevator Spare Parts PC Boards",
-
+        "alttext_group": "MITSUBISHI Elevator Spare Parts PC Boards",
         "items": [
           {
             "name": "PC Board A904701B000G01",
@@ -2893,8 +3171,7 @@
       {
         "group_name": "Push Button & Button Plate",
         "slug": "push-button-button-plate",
-        "alttext_group":"OTIS Elevator Spare Parts Push Button & Button Plate",
-
+        "alttext_group": "OTIS Elevator Spare Parts Push Button & Button Plate",
         "items": [
           {
             "name": "Push Button T-40",
@@ -2981,8 +3258,7 @@
       {
         "group_name": "Door & Hanger Roller / Sheave",
         "slug": "door-hanger-roller-sheave",
-        "alttext_group":"OTIS Elevator Spare Parts Door & Hanger Roller / Sheave",
-
+        "alttext_group": "OTIS Elevator Spare Parts Door & Hanger Roller / Sheave",
         "items": [
           {
             "name": "Hanger Roller Φ86",
@@ -3153,8 +3429,7 @@
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
-        "alttext_group":"OTIS Elevator Spare Parts Guide Shoe & Insert",
-
+        "alttext_group": "OTIS Elevator Spare Parts Guide Shoe & Insert",
         "items": [
           {
             "name": "XIZi Guide Shoe Insert, 200 X 25 X 6, White/Black",
@@ -3321,8 +3596,7 @@
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
-        "alttext_group":"OTIS Elevator Spare Parts Door Slider & Door Vane",
-
+        "alttext_group": "OTIS Elevator Spare Parts Door Slider & Door Vane",
         "items": [
           {
             "name": "Door Slider 80/50",
@@ -3385,8 +3659,7 @@
       {
         "group_name": "Door Lock & Contact",
         "slug": "door-lock-contact",
-        "alttext_group":"OTIS Elevator Spare Parts Door Lock & Contact",
-
+        "alttext_group": "OTIS Elevator Spare Parts Door Lock & Contact",
         "items": [
           {
             "name": "Door Lock Left GS09",
@@ -3445,8 +3718,7 @@
       {
         "group_name": "Switches & Sensors",
         "slug": "switches-sensors",
-        "alttext_group":"OTIS Elevator Spare Parts Switches & Sensors",
-
+        "alttext_group": "OTIS Elevator Spare Parts Switches & Sensors",
         "items": [
           {
             "name": "Mechanical Switch",
@@ -3581,8 +3853,7 @@
       {
         "group_name": "Oil Box & Felt",
         "slug": "oil-box-felt",
-        "alttext_group":"OTIS Elevator Spare Parts Oil Box & Felt",
-
+        "alttext_group": "OTIS Elevator Spare Parts Oil Box & Felt",
         "items": [
           {
             "name": "Oil Box Square",
@@ -3613,8 +3884,7 @@
       {
         "group_name": "Inspection Box,Control & Intercom",
         "slug": "inspection-box-control-intercom",
-        "alttext_group":"OTIS Elevator Spare Parts Inspection Box,Control & Intercom",
-
+        "alttext_group": "OTIS Elevator Spare Parts Inspection Box,Control & Intercom",
         "items": [
           {
             "name": "Car Top Inspection Box",
@@ -3665,8 +3935,7 @@
       {
         "group_name": "Electric Bell",
         "slug": "electric-bell",
-        "alttext_group":"OTIS Elevator Spare Parts Electric Bell",
-
+        "alttext_group": "OTIS Elevator Spare Parts Electric Bell",
         "items": [
           {
             "name": "Board For Electric Bell",
@@ -3681,8 +3950,7 @@
       {
         "group_name": "Steel Cable, Strip & Belt",
         "slug": "steel-cable-strip-belt",
-        "alttext_group":"OTIS Elevator Spare Parts Steel Cable, Strip & Belt",
-
+        "alttext_group": "OTIS Elevator Spare Parts Steel Cable, Strip & Belt",
         "items": [
           {
             "name": "Steel Cable,VV30 X 10 Cores",
@@ -3741,7 +4009,7 @@
       {
         "group_name": "Service Tool",
         "slug": "service-tool",
-        "alttext_group":"OTIS Elevator Spare Parts Steel Service Tool",
+        "alttext_group": "OTIS Elevator Spare Parts Steel Service Tool",
         "items": [
           {
             "name": "Service Tool",
@@ -3756,8 +4024,7 @@
       {
         "group_name": "Encoder",
         "slug": "encoder",
-        "alttext_group":"OTIS Elevator Spare Parts Encoder",
-
+        "alttext_group": "OTIS Elevator Spare Parts Encoder",
         "items": [
           {
             "name": "Encoder,SBH2-1024-2T(30-050-16)",
@@ -3836,7 +4103,7 @@
       {
         "group_name": "Door Motor,Door Power & Control Box",
         "slug": "door-motor-door-power-control-box",
-        "alttext_group":"OTIS Elevator Spare Parts Door Motor,Door Power & Control Box",
+        "alttext_group": "OTIS Elevator Spare Parts Door Motor,Door Power & Control Box",
         "items": [
           {
             "name": "Door Motor AT120",
@@ -3887,8 +4154,7 @@
       {
         "group_name": "Brake, Machine& Fan",
         "slug": "brake-machine-fan",
-        "alttext_group":"OTIS Elevator Spare Parts Brake, Machine& Fan",
-
+        "alttext_group": "OTIS Elevator Spare Parts Brake, Machine& Fan",
         "items": [
           {
             "name": "Brake Coil",
@@ -3983,8 +4249,7 @@
       {
         "group_name": "Oil Seal & Sealing Cover",
         "slug": "oil-seal-sealing-cover",
-        "alttext_group":"OTIS Elevator Spare Parts Oil Seal & Sealing Cover",
-
+        "alttext_group": "OTIS Elevator Spare Parts Oil Seal & Sealing Cover",
         "items": [
           {
             "name": "Oil Seal For 13VTR",
@@ -4011,8 +4276,7 @@
       {
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
-        "alttext_group":"OTIS Elevator Spare Parts Frequency Inverter",
-
+        "alttext_group": "OTIS Elevator Spare Parts Frequency Inverter",
         "items": [
           {
             "name": "OVF30 Inverter",
@@ -4047,8 +4311,7 @@
       {
         "group_name": "Display Board & Outbound Board",
         "slug": "display-board-outbound-board",
-        "alttext_group":"OTIS Elevator Spare Parts Display Board & Outbound Board",
-
+        "alttext_group": "OTIS Elevator Spare Parts Display Board & Outbound Board",
         "items": [
           {
             "name": "Car Display Board",
@@ -4219,8 +4482,7 @@
       {
         "group_name": "PC Board (ALL MAIN, INVERTER, CONTROL, COMMUNICATION)",
         "slug": "pc-board",
-        "alttext_group":"OTIS Elevator Spare Parts PC Board (ALL MAIN, INVERTER, CONTROL, COMMUNICATION)",
-
+        "alttext_group": "OTIS Elevator Spare Parts PC Board (ALL MAIN, INVERTER, CONTROL, COMMUNICATION)",
         "items": [
           {
             "name": "Main PC Board",
@@ -4679,8 +4941,7 @@
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
-        "alttext_group":"Schindler Elevator Spare Parts Guide Shoe & Insert",
-
+        "alttext_group": "Schindler Elevator Spare Parts Guide Shoe & Insert",
         "items": [
           {
             "name": "Guide Shoe Insert 220×10mm",
@@ -4779,8 +5040,7 @@
       {
         "group_name": "Guide Shoe Roller",
         "slug": "guide-shoe-roller",
-        "alttext_group":"Schindler Elevator Spare Parts Guide Shoe Roller",
-
+        "alttext_group": "Schindler Elevator Spare Parts Guide Shoe Roller",
         "items": [
           {
             "name": "Roller for Guide Shoe 150×30",
@@ -4795,8 +5055,7 @@
       {
         "group_name": "Door Vane & Door Slider",
         "slug": "door-vane-door-slider",
-        "alttext_group":"Schindler Elevator Spare Parts Door Vane & Door Slider",
-
+        "alttext_group": "Schindler Elevator Spare Parts Door Vane & Door Slider",
         "items": [
           {
             "name": "PB51 Door Vane",
@@ -4847,8 +5106,7 @@
       {
         "group_name": "Push Button",
         "slug": "push-button",
-        "alttext_group":"Schindler Elevator Spare Parts Push Button",
-
+        "alttext_group": "Schindler Elevator Spare Parts Push Button",
         "items": [
           {
             "name": "D 型按钮",
@@ -4871,8 +5129,7 @@
       {
         "group_name": "Hanger Roller & Sheave",
         "slug": "hanger-roller-sheave",
-        "alttext_group":"Schindler Elevator Spare Parts Hanger Roller & Sheave",
-
+        "alttext_group": "Schindler Elevator Spare Parts Hanger Roller & Sheave",
         "items": [
           {
             "name": "Hanger Roller QD=76mm",
@@ -4923,8 +5180,7 @@
       {
         "group_name": "Door Lock & Power Lock",
         "slug": "door-lock-power-lock",
-        "alttext_group":"Schindler Elevator Spare Parts Door Lock & Power Lock",
-
+        "alttext_group": "Schindler Elevator Spare Parts Door Lock & Power Lock",
         "items": [
           {
             "name": "OKS9(PB260) Door Lock 1 left + 1 right",
@@ -5015,7 +5271,7 @@
       {
         "group_name": "Contactor & Controller",
         "slug": "contactor-controller",
-        "alttext_group":"Schindler Elevator Spare Parts Contactor & Controller",
+        "alttext_group": "Schindler Elevator Spare Parts Contactor & Controller",
         "items": [
           {
             "name": "Contactor",
@@ -5034,7 +5290,7 @@
       {
         "group_name": "Switches & Safety",
         "slug": "switches-safety",
-        "alttext_group":"Schindler Elevator Spare Parts Switches & Safety",
+        "alttext_group": "Schindler Elevator Spare Parts Switches & Safety",
         "items": [
           {
             "name": "UKT Limit Switch Automatic Return 109×31×30mm",
@@ -5061,8 +5317,7 @@
       {
         "group_name": "Door Motor,Drum & Cable",
         "slug": "door-motor-drum-cable",
-        "alttext_group":"Schindler Elevator Spare Parts Door Motor,Drum & Cable",
-
+        "alttext_group": "Schindler Elevator Spare Parts Door Motor,Drum & Cable",
         "items": [
           {
             "name": "Door Relating Cable JJ=800",
@@ -5109,8 +5364,7 @@
       {
         "group_name": "Encoder, Fan & Oil",
         "slug": "encoder-fan-oil",
-        "alttext_group":"Schindler Elevator Spare Parts Encoder, Fan & Oil",
-
+        "alttext_group": "Schindler Elevator Spare Parts Encoder, Fan & Oil",
         "items": [
           {
             "name": "Heidenhain Encoder ECMA-2048/8815-2K",
@@ -5141,8 +5395,7 @@
       {
         "group_name": "Inverter & PCB",
         "slug": "inverter-pcb",
-        "alttext_group":"Schindler Elevator Spare Parts Inverter & PCB",
-
+        "alttext_group": "Schindler Elevator Spare Parts Inverter & PCB",
         "items": [
           {
             "name": "迅达变频器  Inverter Variodyn VF33BR",
@@ -5297,8 +5550,7 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
-        "alttext_group":"Schindler Elevator Spare Parts Display Board",
-
+        "alttext_group": "Schindler Elevator Spare Parts Display Board",
         "items": [
           {
             "name": "300P 轿厢显示",
@@ -5341,8 +5593,7 @@
       {
         "group_name": "Push Button",
         "slug": "push-button",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Push Button",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Push Button",
         "items": [
           {
             "name": "Push Button 32.6 × 32.6",
@@ -5357,8 +5608,7 @@
       {
         "group_name": "Door Roller & Guide Shoe Roller",
         "slug": "door-roller-guide-shoe-roller",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Door Roller & Guide Shoe Roller",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Door Roller & Guide Shoe Roller",
         "items": [
           {
             "name": "Door Roller Φ30 × 9 × M10",
@@ -5397,8 +5647,7 @@
       {
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Guide Shoe & Insert",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Guide Shoe & Insert",
         "items": [
           {
             "name": "Guide Shoe Insert 150 × 17mm",
@@ -5461,8 +5710,7 @@
       {
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Door Slider & Door Vane",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Door Slider & Door Vane",
         "items": [
           {
             "name": "Door Slider,48 X 20 X 12 X Φ5",
@@ -5521,8 +5769,7 @@
       {
         "group_name": "Door Lock & Power Lock",
         "slug": "door-lock-power-lock",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Door Lock & Power Lock",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Door Lock & Power Lock",
         "items": [
           {
             "name": "Landing Door Lock K8",
@@ -5545,8 +5792,7 @@
       {
         "group_name": "Sensors & Switches",
         "slug": "sensors-switches",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Sensors & Switches",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Sensors & Switches",
         "items": [
           {
             "name": "Leveling Sensor,CEDES/GLS/TK",
@@ -5573,8 +5819,7 @@
       {
         "group_name": "Oil Box & Inspection Box",
         "slug": "oil-box-inspection-box",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Oil Box & Inspection Box",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Oil Box & Inspection Box",
         "items": [
           {
             "name": "Oil Box",
@@ -5601,8 +5846,7 @@
       {
         "group_name": "Test Tools",
         "slug": "test-tools",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Test Tools",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Test Tools",
         "items": [
           {
             "name": "Parameter Test TT",
@@ -5617,8 +5861,7 @@
       {
         "group_name": "Encoder & Contactor",
         "slug": "encoder-contactor",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Encoder & Contactor",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Encoder & Contactor",
         "items": [
           {
             "name": "Encoder ECN 1313",
@@ -5657,8 +5900,7 @@
       {
         "group_name": "Door Motor",
         "slug": "door-motor",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Door Motor",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Door Motor",
         "items": [
           {
             "name": "Door Motor Box F9",
@@ -5677,8 +5919,7 @@
       {
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Frequency Inverter",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Frequency Inverter",
         "items": [
           {
             "name": "Frequency Inverter CPIK48M1",
@@ -5697,8 +5938,7 @@
       {
         "group_name": "Display Board",
         "slug": "display-board",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts Display Board",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts Display Board",
         "items": [
           {
             "name": "Display Board G-264A",
@@ -5749,8 +5989,7 @@
       {
         "group_name": "PCB Board",
         "slug": "pcb-board",
-        "alttext_group":"Thyssenkrupp Elevator Spare Parts PCB Board",
-
+        "alttext_group": "Thyssenkrupp Elevator Spare Parts PCB Board",
         "items": [
           {
             "name": "PC Board MC2-S",

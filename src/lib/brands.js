@@ -1132,7 +1132,7 @@ const brands = [
         ],
       },
       {
-        group_name: " Door Hanger",
+        group_name: "Door Hanger",
         slug: "door-hanger",
         items: [
           {
@@ -1239,13 +1239,10 @@ const brands = [
       },
 
       {
-        group_name: "Sensors & Switches",
-        slug: "sensors-switches",
+        group_name: "Sensors",
+        slug: "sensors",
         items: [
-          { name: "Limited Switch", code: "MISS01 - S3-1370" },
-          { name: "Safety Touch Panel Switch", code: "MISS02 - LXW5-11N1" },
-          { name: "Buffer Switch", code: "MISS03 - 3SE3-0201" },
-          { name: "Photoelectric Switch", code: "MISS04 - YA043D166-04" },
+          
           { name: "Leveling Sensor", code: "MISS05 - YG-25" },
           { name: "Leveling Sensor", code: "MISS06 - PAD-1" },
           { name: "Magnetic Sensor", code: "MISS07 - ADS-51M" },
@@ -1263,6 +1260,17 @@ const brands = [
           { name: "Sensor, YX302C481-01", code: "MISS18 - X54HA-01" },
           { name: "Sensor, HC-MT100V4812", code: "MISS19 - YX-302C031-02" },
           { name: "Sensor", code: "MISS20 - ESD-R-38B" },
+          
+        ],
+      },
+        {
+        group_name: "Switches",
+        slug: "switches",
+        items: [
+          { name: "Limited Switch", code: "MISS01 - S3-1370" },
+          { name: "Safety Touch Panel Switch", code: "MISS02 - LXW5-11N1" },
+          { name: "Buffer Switch", code: "MISS03 - 3SE3-0201" },
+          { name: "Photoelectric Switch", code: "MISS04 - YA043D166-04" },
           { name: "Car Door Switch For DS-131", code: "MISS08 - " },
           { name: "Car Door Switch For 121", code: "MISS09 - " },
         ],
