@@ -2065,8 +2065,8 @@ const brands = [
       },
 
       {
-        group_name: "Switches & Sensors",
-        slug: "switches-sensors",
+        group_name: "Switches",
+        slug: "switches",
         items: [
           {
             name: "Mechanical Switch",
@@ -2143,7 +2143,13 @@ const brands = [
           {
             name: "Photoelectric Switch",
             code: "OTSS26 - E3S-GS3B4",
-          },
+          }  
+        ],
+      },
+       {
+        group_name: "Sensors",
+        slug: "sensors",
+        items: [
           { name: "Photo & Proximity Sensor", code: "OTSS20–22" },
           { name: "Leveling & Speed Sensor", code: "OTSS23–30" },
           {

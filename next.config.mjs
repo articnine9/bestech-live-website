@@ -114,6 +114,11 @@ const nextConfig = {
         source: "/brands/mitsubishi/sensors-switches",
         destination: "/brands/mitsubishi/switches",
         permanent: true,
+      },
+        {
+        source: "/brands/otis/switches-sensors",
+        destination: "/brands/otis/switches",
+        permanent: true,
       }
 
 
