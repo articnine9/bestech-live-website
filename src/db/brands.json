@@ -655,7 +655,6 @@
           "<h2><strong>Available Hyundai PC Board Types</strong></h2>",
           "<p>Our Hyundai PC board range includes popular OEM board models such as HIDC-N, MPCU, OPB-340, PWR, TCB-3, M33 BD REV .D1, MCU, TNP7A, CCB-7, HIVD900SS, PSDM, TPB-2, BOARD 204C1699 H22, H9G 15SF R4.0 CAUTION and XDDY-12V V3.3.</p>",
           "<p>These boards are compatible with various Hyundai elevator controller systems including STVF5, STVF7 and STVF8 applications.</p>",
-
           "<h2><strong>PC Board Functions</strong></h2>",
           "<p>Hyundai elevator PCB boards support various elevator system functions, including:</p>",
           "<ul><li><strong>Lift control support</strong></li>\n  <li><strong>Electronic signal communication</strong></li>\n  <li><strong>Elevator controller support</strong></li>\n  <li><strong>Elevator monitoring functions</strong></li>\n  <li><strong>System operation support</strong></li>\n<li><strong>Electronic system support</strong></li></ul>",
@@ -785,26 +784,75 @@
         "group_name": "Push Button",
         "slug": "push-button",
         "alttext_group": "KONE Elevator Spare Parts Push Button",
+        "canonical": "https://www.bestechparts.ae/brands/kone/push-button",
+        "meta_title": "KONE Elevator Push Button | Elevator Button Components",
+        "meta_description": "Explore KONE elevator push button components for COP and LOP applications, including round and square button options for elevator systems.",
+        "keywords": "KONE Elevator Push Buttons, KONE Elevator Button Parts, Elevator Push Buttons UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Push Button</strong></h2>",
+          "<p>A KONE elevator push button is a key component used for passenger interaction within an elevator system. Installed in both elevator cars and landing panels, these buttons allow users to register floor selections and elevator calls while supporting smooth passenger movement throughout the building.</p>",
+          "<p>As part of the elevator signalization system, KONE push buttons are designed to combine functionality with user-friendly operation. Different button designs are available to suit various elevator models, panel configurations and building requirements. Their design also supports accessibility and visual integration, helping maintain a consistent appearance within modern elevator interiors.</p>",
+          "<p>Used across residential, commercial, hospitality and public buildings, KONE elevator push buttons play an important role in daily elevator operation by providing a clear and reliable interface between passengers and the elevator control system.</p>",
+          "<h2><strong>Available KONE Push Button Options</strong></h2>",
+          "<p>These push buttons are suitable for various KONE elevator systems and panel configurations, including:</p>",
+          "<ul><li><strong>KD550 round push buttons</strong></li>\n  <li><strong>KDS300 round push buttons</strong></li>\n  <li><strong>KDS300 square push buttons</strong></li>\n  <li><strong>Elevator car operating panel (COP) push buttons</strong></li>\n  <li><strong>Elevator landing operating panel (LOP) push buttons</strong></li>\n<li><strong>Floor selection push buttons</strong></li>\n<li><strong>Elevator call buttons</strong></li>\n<li><strong>Elevator button plates</strong></li></ul>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator push buttons support essential passenger communication and elevator operation functions, including:</p>",
+          "<ul><li><strong>Registering floor selection requests</strong></li>\n  <li><strong>Calling the elevator from landing floors</strong></li>\n  <li><strong>Providing passenger input to the elevator control system</strong></li>\n  <li><strong>Supporting elevator navigation and passenger interaction within the building</strong></li>\n  <li><strong>Enhancing user interaction through organised panel layouts</strong></li>\n<li><strong>Provide smooth and efficient elevator operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is the purpose of a KONE elevator push button?</strong><br>A KONE elevator push button allows passengers to interact with the elevator system by selecting floors and registering elevator calls.</p>",
+          "<p><strong>2. What is the difference between COP and LOP push buttons?</strong><br>COP push buttons are installed inside the elevator car for floor selection, while LOP push buttons are installed on each landing floor to call the elevator.</p>",
+          "<p><strong>3. Are KONE elevator push buttons available in different shapes and designs?</strong><br>Yes. KONE elevator push buttons are available in different designs, including round and square button configurations, depending on the elevator system and panel requirements.</p>",
+          "<p><strong>4. How do elevator push buttons improve passenger usability?</strong><br>Elevator push buttons provide a clear method for passengers to register floor selections and elevator calls, supporting convenient system interaction. </p>",
+          "<p><strong>5. What factors should be considered when selecting a replacement KONE push button?</strong><br>Important factors include the elevator model, panel type, button dimensions, mounting configuration and compatibility with the existing system.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is the purpose of a KONE elevator push button?",
+            "answer": "A KONE elevator push button allows passengers to interact with the elevator system by selecting floors and registering elevator calls."
+          },
+          {
+            "question": "What is the difference between COP and LOP push buttons?",
+            "answer": "COP push buttons are installed inside the elevator car for floor selection, while LOP push buttons are installed on each landing floor to call the elevator."
+          },
+          {
+            "question": "Are KONE elevator push buttons available in different shapes and designs?",
+            "answer": "Yes. KONE elevator push buttons are available in different designs, including round and square button configurations, depending on the elevator system and panel requirements."
+          },
+          {
+            "question": "How do elevator push buttons improve passenger usability?",
+            "answer": "Elevator push buttons provide a clear method for passengers to register floor selections and elevator calls, supporting convenient system interaction."
+          },
+          {
+            "question": "What factors should be considered when selecting a replacement KONE push button?",
+            "answer": "Important factors include the elevator model, panel type, button dimensions, mounting configuration and compatibility with the existing system."
+          }
+        ],
         "items": [
           {
             "name": "Push Button Round - KD550",
-            "code": "KOBT01 - KD550"
+            "code": "KOBT01 - KD550",
+            "alttext": "KONE Elevator Spare Parts Push Button Round - KD550"
           },
           {
             "name": "Push Button Round - KD550",
-            "code": "KOBT02 - KD550"
+            "code": "KOBT02 - KD550",
+            "alttext": "KONE Elevator Spare Parts Push Button Round - KD550"
           },
           {
             "name": "Push Button Round - KDS300",
-            "code": "KOBT03 - KDS300"
+            "code": "KOBT03 - KDS300",
+            "alttext": "KONE Elevator Spare Parts Push Button Round - KDS300"
           },
           {
             "name": "Push Button Square - KDS300",
-            "code": "KOBT04 - KDS300"
+            "code": "KOBT04 - KDS300",
+            "alttext": "KONE Elevator Spare Parts Push Button Square - KDS300"
           },
           {
             "name": "Button Plate",
-            "code": "KOBT05"
+            "code": "KOBT05",
+            "alttext": "KONE Elevator Spare Parts Button Plate"
           }
         ]
       },
@@ -812,54 +860,113 @@
         "group_name": "Door Roller & Sheave",
         "slug": "door-roller-sheave",
         "alttext_group": "KONE Elevator Spare Parts Door Roller & Sheave",
+        "canonical": "https://www.bestechparts.ae/brands/kone/door-roller-sheave",
+        "meta_title": "KONE Elevator Door Roller and Sheave | Spare Parts",
+        "meta_description": "Find KONE elevator door roller sheave components, including door rollers, car door rollers, sheaves and related parts for elevator door and traction systems.",
+        "keywords": "KONE Elevator Door Rollers and Sheaves, KONE Door Roller Parts, Elevator Door Roller Sheaves UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Door Roller & Sheave</strong></h2>",
+          "<p>KONE elevator door rollers and sheaves are important mechanical components used in elevator door systems and traction mechanisms. These parts support the smooth movement of elevator doors and help maintain reliable elevator operation within residential, commercial and public buildings.</p>",
+          "<p>Door rollers are used to guide and support the movement of elevator car doors and landing doors during opening and closing cycles. Their role helps reduce friction, support door alignment and contribute to consistent door operation.</p>",
+          "<p>Sheaves are grooved wheel components used within traction elevator systems. They work together with hoist ropes or belts to support the movement of the elevator car and counterweight. As part of the elevator drive mechanism, sheaves play an important role in maintaining controlled elevator travel and system performance.</p>",
+          "<h2><strong>Available KONE Door Roller and Sheave Options</strong></h2>",
+          "<p>The available range includes door rollers, car door rollers, and sheave components in various specifications:</p>",
+          "<h3><strong>Door Rollers</strong></h3>",
+          "<ul><li><strong>Ø68 × 17 × M10</strong></li>\n  <li><strong>Ø94 × 19 × M8</strong></li>\n  <li><strong>Ø94 × 19 × M10</strong></li>\n  <li><strong>Ø85 × 17 × 6203</strong></li>\n  <li><strong>Ø85 × Ø76 × 12 × 6203</strong></li>\n<li><strong>Ø85 × 17 × Ø10</strong></li></ul>",
+          "<h3><strong>Car Door Rollers</strong></h3>",
+          "<ul><li><strong>Ø60 × 14 × M8</strong></li>\n  <li><strong>Ø64 × Ø39 × 16 × M12</strong></li></ul>",
+          "<h3><strong>Sheaves and Sheave Components</strong></h3>",
+          "<ul><li><strong>Ø45 × 11 × Ø10</strong></li>\n  <li><strong>Ø48 × 8 × Ø10</strong></li>\n  <li><strong>Ø116 × 12 × Ø10</strong></li>\n  <li><strong>Ø45 × 11 × Ø10 (Sheave Component)</strong></li></ul>",
+          "<p><strong>Note:</strong> Review the roller dimensions and bearing configuration to identify a suitable replacement.</p>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is the function of a KONE elevator door roller?</strong><br>A KONE elevator door roller helps guide and support the movement of elevator doors during opening and closing operations.</p>",
+          "<p><strong>2. What does a sheave do in a KONE elevator system?</strong><br>A sheave is a grooved wheel component that works with hoist ropes or belts to support elevator car movement within a traction elevator system.</p>",
+          "<p><strong>3. Are door rollers and sheaves used in different parts of the elevator system?</strong><br>Yes. Door rollers are typically used within elevator door mechanisms, while sheaves are used within the traction and drive system.</p>",
+          "<p><strong>4. What can happen when elevator door rollers become worn?</strong><br>Worn door rollers may affect door movement, alignment, or overall door operation, making timely replacement important for system performance.</p>",
+          "<p><strong>5. Why is sheave condition important in traction elevators?</strong><br>The sheave works directly with hoist ropes or belts, making it an important component in elevator movement and traction system operation.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is the function of a KONE elevator door roller?",
+            "answer": "A KONE elevator door roller helps guide and support the movement of elevator doors during opening and closing operations."
+          },
+          {
+            "question": "What does a sheave do in a KONE elevator system?",
+            "answer": "A sheave is a grooved wheel component that works with hoist ropes or belts to support elevator car movement within a traction elevator system."
+          },
+          {
+            "question": "Are door rollers and sheaves used in different parts of the elevator system?",
+            "answer": "Yes. Door rollers are typically used within elevator door mechanisms, while sheaves are used within the traction and drive system."
+          },
+          {
+            "question": "What can happen when elevator door rollers become worn?",
+            "answer": "Worn door rollers may affect door movement, alignment, or overall door operation, making timely replacement important for system performance."
+          },
+          {
+            "question": "Why is sheave condition important in traction elevators?",
+            "answer": "The sheave works directly with hoist ropes or belts, making it an important component in elevator movement and traction system operation."
+          }
+        ],
         "items": [
           {
             "name": "Door Roller - Ø68 X 17 X M10",
-            "code": "KOWR01"
+            "code": "KOWR01",
+            "alttext": "KONE Elevator Spare Parts Door Roller - Ø68 X 17 X M10"
           },
           {
             "name": "Door Roller - Ø94 X 19 X M8",
-            "code": "KOWR02A"
+            "code": "KOWR02A",
+            "alttext": "KONE Elevator Spare Parts Door Roller - Ø94 X 19 X M8"
           },
           {
             "name": "Door Roller - Ø94 X 19 X M10",
-            "code": "KOWR02B"
+            "code": "KOWR02B",
+            "alttext": "KONE Elevator Spare Parts Door Roller - Ø94 X 19 X M10"
           },
           {
             "name": "Door Roller - Ø85 X 17 X 9 6203",
-            "code": "KOWR19 - KFKM68226601K"
+            "code": "KOWR19 - KFKM68226601K",
+            "alttext": "KONE Elevator Spare Parts Door Roller - Ø85 X 17 X 9 6203"
           },
           {
             "name": "Door Roller - Ø85 X Ø76 X 12 X 6203",
-            "code": "KOWR20 - "
+            "code": "KOWR20",
+            "alttext": "KONE Elevator Spare Parts Door Roller - Ø85 X Ø76 X 12 X 6203"
           },
           {
             "name": "Door Roller - Ø85 X 17 X Ø10",
-            "code": "KOWR21 - "
+            "code": "KOWR21",
+            "alttext": "KONE Elevator Spare Parts Door Roller - Ø85 X 17 X Ø10"
           },
           {
             "name": "Car Door Roller - Ø60 X 14 X M8",
-            "code": "KOWR03"
+            "code": "KOWR03",
+            "alttext": "KONE Elevator Spare Parts Car Door Roller - Ø60 X 14 X M8"
           },
           {
             "name": "Car Door Roller - Ø64 X Ø39 X 16 X M12",
-            "code": "KOWR04"
+            "code": "KOWR04",
+            "alttext": "KONE Elevator Spare Parts Car Door Roller - Ø64 X Ø39 X 16 X M12"
           },
           {
             "name": "Sheave - Ø45 X 11 X Ø10",
-            "code": "KOWR11 - "
+            "code": "KOWR11",
+            "alttext": "KONE Elevator Spare Parts Sheave - Ø45 X 11 X Ø10"
           },
           {
             "name": "Sheave - Ø48 X 8 X Ø10",
-            "code": "KOWR17"
+            "code": "KOWR17",
+            "alttext": "KONE Elevator Spare Parts Sheave - Ø48 X 8 X Ø10"
           },
           {
             "name": "Sheave - Ø116 X 12 X Ø10",
-            "code": "KOWR18"
+            "code": "KOWR18",
+            "alttext": "KONE Elevator Spare Parts Sheave - Ø116 X 12 X Ø10"
           },
           {
             "name": "Sheave Components - Ø45 X 11 X Ø10",
-            "code": "KOWR22 - "
+            "code": "KOWR22",
+            "alttext": "KONE Elevator Spare Parts Sheave Components - Ø45 X 11 X Ø10"
           }
         ]
       },
@@ -867,14 +974,58 @@
         "group_name": "Door Lock Roller",
         "slug": "door-lock-roller",
         "alttext_group": "KONE Elevator Spare Parts Door Lock Roller",
+        "canonical": "https://www.bestechparts.ae/brands/kone/door-roller-sheave",
+        "meta_title": "KONE Elevator Door Lock Roller | Elevator Spare Parts",
+        "meta_description": "Buy KONE elevator door lock roller components designed for elevator door assemblies and replacement requirements.",
+        "keywords": "KONE Elevator Door Lock Roller, KONE Door Lock Roller Parts, Elevator Door Lock Roller UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Door Lock Roller</strong></h2>",
+          "<p>The KONE elevator door lock roller is used within elevator door systems. It supports the movement of door locking mechanisms and helps ensure proper door operation during opening and closing cycles.</p>",
+          "<p>These are used in various elevator applications across residential, commercial and public buildings. Available in different sizes and configurations, these components are designed to suit specific elevator models and door system requirements. Regular inspection and replacement of worn components can help maintain proper door operation and system functionality.</p>",
+          "<h2><strong>Available KONE Door Lock Roller Options</strong></h2>",
+          "<p>These door lock roller components are suitable for various KONE elevator door systems, The current product range includes door lock roller components with dimensions of Ø45 × 11 × Ø10 for selected KONE elevator applications. Please review the component specifications before ordering a replacement.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator door lock rollers support several door system functions, including:</p>",
+          "<ul><li><strong>Supporting door movement during operation</strong></li>\n  <li><strong>Assisting door alignment within the door system</strong></li>\n  <li><strong>Helping guide door components during opening and closing</strong></li>\n  <li><strong>Supporting the operation of door locking mechanisms</strong></li>\n  <li><strong>Contributing to consistent door movement</strong></li>\n<li><strong>Assisting the overall operation of elevator door systems</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a KONE elevator door lock roller?</strong><br>A KONE elevator door lock roller is a component used within elevator door systems to support the movement and operation of door locking mechanisms.</p>",
+          "<p><strong>2. Where is a door lock roller used in an elevator?</strong><br>Door lock rollers are installed as part of the elevator door assembly and work alongside other door components during operation.</p>",
+          "<p><strong>3. Are door lock rollers used in both car doors and landing doors?</strong><br>The application depends on the elevator design and door system configuration. </p>",
+          "<p><strong>4. Are door lock rollers available in different sizes?</strong><br>Yes. Door lock rollers are available in different sizes and configurations depending on the elevator model and application requirements.</p>",
+          "<p><strong>5. What information is needed when ordering a replacement KONE door lock roller?</strong><br>Providing the elevator model, part number or roller dimensions can help identify a suitable replacement.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a KONE elevator door lock roller?",
+            "answer": "A KONE elevator door lock roller is a component used within elevator door systems to support the movement and operation of door locking mechanisms."
+          },
+          {
+            "question": "Where is a door lock roller used in an elevator?",
+            "answer": "Door lock rollers are installed as part of the elevator door assembly and work alongside other door components during operation."
+          },
+          {
+            "question": "Are door lock rollers used in both car doors and landing doors?",
+            "answer": "The application depends on the elevator design and door system configuration."
+          },
+          {
+            "question": "Are door lock rollers available in different sizes?",
+            "answer": "Yes. Door lock rollers are available in different sizes and configurations depending on the elevator model and application requirements."
+          },
+          {
+            "question": "What information is needed when ordering a replacement KONE door lock roller?",
+            "answer": "Providing the elevator model, part number or roller dimensions can help identify a suitable replacement."
+          }
+        ],
         "items": [
           {
             "name": "Door Lock Roller Components",
-            "code": "KOWR23 - "
+            "code": "KOWR23",
+            "alttext": "KONE Elevator Spare Parts Door Lock Roller Components"
           },
           {
             "name": "Door Lock Roller Components - Ø45 X 11 X Ø10",
-            "code": "KOWR24 - "
+            "code": "KOWR24",
+            "alttext": "KONE Elevator Spare Parts Door Lock Roller Components - Ø45 X 11 X Ø10"
           }
         ]
       },
@@ -882,22 +1033,71 @@
         "group_name": "Lock Roller",
         "slug": "lock-roller",
         "alttext_group": "KONE Elevator Spare Parts Lock Roller",
+        "canonical": "https://www.bestechparts.ae/brands/kone/lock-roller",
+        "meta_title": "KONE Elevator Lock Roller Components | Replacement Parts",
+        "meta_description": "Find KONE elevator lock roller components designed for elevator door applications. Suitable for replacement, repair and ongoing maintenance requirements.",
+        "keywords": "KONE Elevator Lock Roller, KONE Door Lock Roller, Elevator Lock Roller UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Lock Roller</strong></h2>",
+          "<p>KONE elevator lock roller is a replacement part used in selected KONE elevator door assemblies. During elevator servicing, lock rollers are typically reviewed together with other door assembly components as part of ongoing maintenance requirements.</p>",
+          "<p>Selecting the correct component is important when carrying out replacement or refurbishment work because elevator models may use different roller specifications. The lock rollers are available for various applications and can be matched using part numbers, dimensions or existing component details.</p>",
+          "<p>This category includes lock roller components suitable for KONE elevator maintenance requirements and replacement projects.</p>",
+          "<h2><strong>Available KONE Lock Roller Options</strong></h2>",
+          "<p>Available lock roller specifications include:</p>",
+          "<ul><li><strong>Ø31.5 × 17 × Ø8</strong></li>\n  <li><strong>Ø40 × 17 × Ø8 (Steel Core)</strong></li>\n  <li><strong>Ø31.5 × 17 × Ø15.5</strong></li>\n  <li><strong>Ø33 × 10 × Ø8</strong></li></ul>",
+          "<p><strong>Note:</strong> Always compare the existing roller diameter, thickness and bearing or thread specifications before selecting a replacement component.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator lock rollers are commonly used for:</p>",
+          "<ul><li><strong>Roller-based door mechanism applications</strong></li>\n  <li><strong>Component replacement during maintenance</strong></li>\n  <li><strong>Elevator door assembly repairs</strong></li>\n  <li><strong>Supporting moving door mechanism parts</strong></li>\n  <li><strong>Integration with compatible elevator door systems</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. How do I identify the correct KONE elevator lock roller?</strong><br>Part numbers, dimensions and existing component details can be used to identify a suitable replacement.</p>",
+          "<p><strong>2. Are lock rollers supplied as replacement spare parts?</strong><br>Yes. Lock rollers are commonly supplied as replacement components for maintenance and repair requirements.</p>",
+          "<p><strong>3. Why do lock roller specifications vary between elevator models?</strong><br>Different elevator systems may use different door assembly designs and component dimensions.</p>",
+          "<p><strong>4. What information should be checked before ordering a lock roller?</strong><br>The elevator model, part number, roller dimensions and application details should be verified before ordering.</p>",
+          "<p><strong>5. Can an existing lock roller be matched using dimensions?</strong><br>Yes. Dimensions are often used alongside part numbers to help identify compatible replacement components.</p>"
+        ],
+        "faq": [
+          {
+            "question": "How do I identify the correct KONE elevator lock roller?",
+            "answer": "Part numbers, dimensions and existing component details can be used to identify a suitable replacement."
+          },
+          {
+            "question": "Are lock rollers supplied as replacement spare parts?",
+            "answer": "Yes. Lock rollers are commonly supplied as replacement components for maintenance and repair requirements."
+          },
+          {
+            "question": "Why do lock roller specifications vary between elevator models?",
+            "answer": "Different elevator systems may use different door assembly designs and component dimensions."
+          },
+          {
+            "question": "What information should be checked before ordering a lock roller?",
+            "answer": "The elevator model, part number, roller dimensions and application details should be verified before ordering."
+          },
+          {
+            "question": "Can an existing lock roller be matched using dimensions?",
+            "answer": "Yes. Dimensions are often used alongside part numbers to help identify compatible replacement components."
+          }
+        ],
         "items": [
           {
             "name": "Lock Roller - Ø31.5 X 17 X Ø8",
-            "code": "KOWR25 - "
+            "code": "KOWR25",
+            "alttext": "KONE Elevator Spare Parts Lock Roller - Ø31.5 X 17 X Ø8"
           },
           {
             "name": "Lock Roller With Steel Core - Ø40 X 17 X Ø8",
-            "code": "KOWR26 - "
+            "code": "KOWR26",
+            "alttext": "KONE Elevator Spare Parts Lock Roller With Steel Core - Ø40 X 17 X Ø8"
           },
           {
             "name": "Lock Roller - Ø31.5 X 17 X Ø15.5",
-            "code": "KOWR27 - "
+            "code": "KOWR27",
+            "alttext": "KONE Elevator Spare Parts Lock Roller - Ø31.5 X 17 X Ø15.5"
           },
           {
             "name": "Roller - Ø33 X 10 X Ø8",
-            "code": "KOWR28 - "
+            "code": "KOWR28",
+            "alttext": "KONE Elevator Spare Parts Roller - Ø33 X 10 X Ø8"
           }
         ]
       },
@@ -905,30 +1105,75 @@
         "group_name": "Guide Shoe Roller",
         "slug": "Guide-Shoe-Roller",
         "alttext_group": "KONE Elevator Spare Parts Guide Shoe Roller",
+        "canonical": "https://www.bestechparts.ae/brands/kone/Guide-Shoe-Roller",
+        "meta_title": "KONE Elevator Guide Shoe Roller | Elevator Spare Parts",
+        "meta_description": "Buy KONE elevator guide shoe roller components available in different dimensions and bearing configurations for elevator guidance systems.",
+        "keywords": "KONE Elevator Guide Shoe Rollers, KONE Guide Shoe Roller Parts, Elevator Guide Shoe Rollers UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Guide Shoe Roller</strong></h2>",
+          "<p>Elevator cars and counterweights travel along fixed guide rails throughout the hoistway. The KONE elevator guide shoe roller is one of the components involved in this guided movement, helping the elevator system follow its intended travel path. Installed within guide shoe assemblies, these rollers are used in various KONE elevator applications and are selected according to elevator model and system requirements.</p>",
+          "<p>As elevator systems may use different guide assemblies, guide shoe rollers are supplied in a range of specifications to accommodate various installation requirements.</p>",
+          "<h2><strong>Available KONE Guide Shoe Roller Options</strong></h2>",
+          "<p>The available guide shoe roller range includes the following specifications:</p>",
+          "<ul><li><strong>Ø80 × 25 mm (6203)</strong></li>\n  <li><strong>Ø80 × 28 mm (2 × 6203)</strong></li>\n  <li><strong>Ø125 × 24 mm (M12 Shaft)</strong></li>\n  <li><strong>Ø150 × 38 mm (2 × 6003)</strong></li>\n  <li><strong>Ø150 × 28 mm (2 × 6203)</strong></li>\n  <li><strong>Ø200 × 30 mm (6007)</strong></li></ul>",
+          "<p><strong>Note:</strong> Please verify the outer diameter (Ø), roller width and bearing specifications before selecting a replacement guide shoe roller.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>Within a KONE elevator system, guide shoe rollers play a role in:</p>",
+          "<ul><li><strong>Elevator car guidance</strong></li>\n  <li><strong>Counterweight guidance</strong></li>\n  <li><strong>Alignment along guide rails</strong></li>\n  <li><strong>Vertical travel support</strong></li>\n  <li><strong>Guide shoe assembly operation</strong></li>\n  <li><strong>Elevator guidance system movement</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is the difference between a guide shoe and a guide shoe roller?</strong><br>A guide shoe is the assembly that interfaces with the guide rail, while the guide shoe roller is one of the components used within certain roller guide arrangements.</p>",
+          "<p><strong>2. What measurements should be checked before ordering a replacement guide shoe roller?</strong><br>Important measurements typically include the outer diameter, roller width, shaft size and bearing specification. </p>",
+          "<p><strong>3. Can guide shoe rollers be selected using dimensions alone?</strong><br>Dimensions are useful for identification, but part numbers and elevator model information should also be verified whenever possible.</p>",
+          "<p><strong>4. Are guide shoe rollers used for both elevator cars and counterweights?</strong><br>Depending on the elevator design, guide shoe rollers may be used in guide assemblies associated with the elevator car, counterweight or both. </p>"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between a guide shoe and a guide shoe roller?",
+            "answer": "A guide shoe is the assembly that interfaces with the guide rail, while the guide shoe roller is one of the components used within certain roller guide arrangements."
+          },
+          {
+            "question": "What measurements should be checked before ordering a replacement guide shoe roller?",
+            "answer": "Important measurements typically include the outer diameter, roller width, shaft size and bearing specification."
+          },
+          {
+            "question": "Can guide shoe rollers be selected using dimensions alone?",
+            "answer": "Dimensions are useful for identification, but part numbers and elevator model information should also be verified whenever possible."
+          },
+          {
+            "question": "Are guide shoe rollers used for both elevator cars and counterweights?",
+            "answer": "Depending on the elevator design, guide shoe rollers may be used in guide assemblies associated with the elevator car, counterweight or both."
+          }
+        ],
         "items": [
           {
             "name": "Guide Shoe Roller - Ø80 X 25 X 6203",
-            "code": "KOWR29 - "
+            "code": "KOWR29",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Roller - Ø80 X 25 X 6203"
           },
           {
             "name": "Guide Shoe Roller - Ø150 X 38 X 2-6003",
-            "code": "KOWR30 - "
+            "code": "KOWR30",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Roller - Ø150 X 38 X 2-6003"
           },
           {
             "name": "Guide Shoe Roller - Ø125 X 24 X M12",
-            "code": "KOWR31 - "
+            "code": "KOWR31",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Roller - Ø125 X 24 X M12"
           },
           {
             "name": "Guide Shoe Roller - Ø80 X 28 X 2-6203",
-            "code": "KOWR32 - "
+            "code": "KOWR32",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Roller - Ø80 X 28 X 2-6203"
           },
           {
             "name": "Guide Shoe Roller - Ø150 X 28 X 2-6203",
-            "code": "KOWR33 - "
+            "code": "KOWR33",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Roller - Ø150 X 28 X 2-6203"
           },
           {
             "name": "Guide Shoe Roller - Ø200 X 30 X 6007",
-            "code": "KOWR34 - "
+            "code": "KOWR34",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Roller - Ø200 X 30 X 6007"
           }
         ]
       },
@@ -936,18 +1181,60 @@
         "group_name": "Roller Guide Shoe Assembly - Roller",
         "slug": "Roller-Guide-Shoe-Assembly-Roller",
         "alttext_group": "KONE Elevator Spare Parts Roller Guide Shoe Assembly - Roller",
+        "canonical": "https://www.bestechparts.ae/brands/kone/Roller-Guide-Shoe-Assembly-Roller",
+        "meta_title": "KONE Elevator Roller Guide Shoe Assembly | Bestech",
+        "meta_description": "Find replacement KONE elevator roller guide shoe assemblies with various roller sizes and bearing configurations to match existing systems.",
+        "keywords": "KONE Roller Guide Shoe Assembly, KONE Guide Shoe Rollers, Elevator Roller Guide Shoe Assembly UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator roller guide shoe assembly</strong></h2>",
+          "<p>KONE elevator roller guide shoe assemblies are available in a range of roller sizes and bearing configurations to suit different elevator applications. These assemblies are selected based on the specifications of the existing component and are commonly used during maintenance and replacement work.</p>",
+          "<p>To identify a suitable replacement, it is recommended to verify the roller dimensions, bearing details, and existing part specifications before ordering.</p>",
+          "<h2><strong>Available KONE Roller Guide Shoe Assembly Options</strong></h2>",
+          "<p>The available KONE elevator roller guide shoe assembly range includes the following specifications:</p>",
+          "<ul><li><strong>Roller Ø80 × 25 × 6203</strong></li>\n  <li><strong>Roller Ø150 × 38 × 2-6003</strong></li>\n  <li><strong>Roller Ø200 × 30 × 6007</strong></li></ul>",
+          "<p><strong>Note:</strong> Please verify the roller diameter, width and bearing specification before selecting a replacement roller guide shoe assembly.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>Within a KONE elevator system, roller guide shoe assemblies help with:</p>",
+          "<ul><li><strong>Guiding elevator cars along guide rails</strong></li>\n  <li><strong>Guiding counterweights during travel</strong></li>\n  <li><strong>Supporting alignment within the guide system</strong></li>\n  <li><strong>Assisting controlled vertical movement</strong></li>\n  <li><strong>Housing and supporting guide rollers</strong></li>\n  <li><strong>Contributing to guide shoe assembly operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What does a roller guide shoe assembly do? </strong><br>It guides the elevator smoothly along the steel rails using rollers.</p>",
+          "<p><strong>2. How often should rollers be replaced?</strong><br>Replacement intervals can vary depending on the elevator system, operating conditions and maintenance requirements. </p>",
+          "<p><strong>3. What are the signs of a failing roller guide?</strong><br>Unusual noise, vibration or visible wear may indicate that guide system components require inspection.</p>",
+          "<p><strong>4. Why choose roller guides over sliding shoes?</strong><br>They minimize friction to save energy and provide a smoother ride.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What does a roller guide shoe assembly do?",
+            "answer": "It guides the elevator smoothly along the steel rails using rollers."
+          },
+          {
+            "question": "How often should rollers be replaced?",
+            "answer": "Replacement intervals can vary depending on the elevator system, operating conditions and maintenance requirements."
+          },
+          {
+            "question": "What are the signs of a failing roller guide?",
+            "answer": "Unusual noise, vibration or visible wear may indicate that guide system components require inspection."
+          },
+          {
+            "question": "Why choose roller guides over sliding shoes?",
+            "answer": "They minimize friction to save energy and provide a smoother ride."
+          }
+        ],
         "items": [
           {
             "name": "Roller Guide Shoe Assembly - Roller Ø80 X 25 X 6203",
-            "code": "KOWR35 - "
+            "code": "KOWR35",
+            "alttext": "KONE Elevator Spare Parts Roller Guide Shoe Assembly - Roller Ø80 X 25 X 6203"
           },
           {
             "name": "Roller Guide Shoe Assembly - Roller Ø150 X 38 X 2-6003",
-            "code": "KOWR36 - "
+            "code": "KOWR36",
+            "alttext": "KONE Elevator Spare Parts Roller Guide Shoe Assembly - Roller Ø150 X 38 X 2-6003"
           },
           {
             "name": "Roller Guide Shoe Assembly - Roller Ø200 X 30 X 6007",
-            "code": "KOWR37 - "
+            "code": "KOWR37",
+            "alttext": "KONE Elevator Spare Parts Roller Guide Shoe Assembly - Roller Ø200 X 30 X 6007"
           }
         ]
       },
@@ -955,14 +1242,55 @@
         "group_name": "Tachometer Roller",
         "slug": "Tachometer-Roller",
         "alttext_group": "KONE Elevator Spare Parts Tachometer Roller",
+        "canonical": "https://www.bestechparts.ae/brands/kone/Tachometer-Roller",
+        "meta_title": "KONE Elevator Tachometer Roller | Elevator Spare Parts",
+        "meta_description": "Get KONE elevator tachometer roller options for replacement requirements. Suitable for selected elevator monitoring applications.",
+        "keywords": "KONE Elevator Tachometer Roller, KONE Tachometer Roller Parts, Elevator Tachometer Roller UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Tachometer Roller </strong></h2>",
+          "<p>Tachometer rollers are commonly associated with older or specialised elevator installations where speed and distance information is required for system monitoring. Different roller specifications may be used depending on the elevator model and application requirements.</p>",
+          "<p>When replacing a tachometer roller, it is important to verify the existing specifications and system requirements to help identify a suitable replacement component.</p>",
+          "<h2><strong>Available KONE Tachometer Roller Options</strong></h2>",
+          "<p>The available KONE elevator tachometer roller range includes the following specifications:</p>",
+          "<ul><li><strong>Tachometer Roller - Ø37.5 mm</strong></li>\n  <li><strong>Tachometer Roller - Ø75 mm</strong></li></ul>",
+          "<p><strong>Note:</strong> Verify the roller diameter and existing component specifications before selecting a replacement roller.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>Within a KONE elevator tachometer roller system, tachometer rollers are involved in:</p>",
+          "<ul><li><strong>Transmitting movement-related information</strong></li>\n  <li><strong>Supporting speed monitoring functions</strong></li>\n  <li><strong>Supporting travel distance measurement</strong></li>\n  <li><strong>Working alongside elevator control systems</strong></li>\n  <li><strong>Assisting movement tracking applications</strong></li>\n  <li><strong>Contributing to elevator monitoring functions</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is the purpose of a KONE elevator tachometer roller?</strong><br>A tachometer roller is used as part of a system that provides movement-related information for elevator monitoring and control functions.</p>",
+          "<p><strong>2. What type of information does a tachometer roller help provide?</strong><br>Depending on the system design, tachometer rollers may be associated with speed and travel distance monitoring functions.</p>",
+          "<p><strong>3. What role does a tachometer roller play in elevator monitoring?</strong><br>A tachometer roller works as part of a system that helps provide movement-related information used for elevator monitoring and control functions.</p>",
+          "<p><strong>4. Why are tachometer rollers used in certain elevator systems?</strong><br>Some elevator systems use tachometer rollers as part of their movement monitoring arrangement, depending on the design and control requirements of the installation.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is the purpose of a KONE elevator tachometer roller?",
+            "answer": "A tachometer roller is used as part of a system that provides movement-related information for elevator monitoring and control functions."
+          },
+          {
+            "question": "What type of information does a tachometer roller help provide?",
+            "answer": "Depending on the system design, tachometer rollers may be associated with speed and travel distance monitoring functions."
+          },
+          {
+            "question": "What role does a tachometer roller play in elevator monitoring?",
+            "answer": "A tachometer roller works as part of a system that helps provide movement-related information used for elevator monitoring and control functions."
+          },
+          {
+            "question": "Why are tachometer rollers used in certain elevator systems?",
+            "answer": "Some elevator systems use tachometer rollers as part of their movement monitoring arrangement, depending on the design and control requirements of the installation."
+          }
+        ],
         "items": [
           {
             "name": "Tachometer Roller - Ø37.5mm",
-            "code": "KOWR38 - "
+            "code": "KOWR38",
+            "alttext": "KONE Elevator Spare Parts Tachometer Roller - Ø37.5mm"
           },
           {
             "name": "Tachometer Roller - Ø75mm",
-            "code": "KOWR39 - "
+            "code": "KOWR39",
+            "alttext": "KONE Elevator Spare Parts Tachometer Roller - Ø75mm"
           }
         ]
       },
@@ -970,50 +1298,100 @@
         "group_name": "Door Down Roller",
         "slug": "door-down-roller",
         "alttext_group": "KONE Elevator Spare Parts Door Down Roller",
+        "canonical": "https://www.bestechparts.ae/brands/kone/door-down-roller",
+        "meta_title": "Buy KONE Elevator Door Down Roller Components",
+        "meta_description": "Discover KONE elevator door down roller variants with different diameters, widths and mounting specifications for elevator door systems. ",
+        "keywords": "KONE Elevator Door Down Roller, KONE Door Down Roller Parts, Elevator Door Down Roller UAE",
+        "paragraph_text": [
+          "<h2><strong>Kone Elevator Door Down Roller</strong></h2>",
+          "<p>A KONE elevator door down roller is a door system component used within selected elevator door assemblies. Installed as part of the door mechanism, it works alongside other door-related components during elevator door operation.</p>",
+          "<p>Different door systems may require specific roller dimensions and configurations depending on the elevator model and door assembly design. When selecting a replacement door down roller, it is important to verify the existing component specifications to help identify a suitable match.</p>",
+          "<h2><strong>Available KONE Door Down Roller Options</strong></h2>",
+          "<p>This category includes door down rollers in a variety of dimensional and mounting configurations to suit different KONE elevator door assemblies:</p>",
+          "<ul><li><strong>Ø74 × 16 × M10</strong></li>\n  <li><strong>Ø64 × Ø39 × 16 × M10</strong></li>\n  <li><strong>Ø45 × 38 × 12 × M10</strong></li>\n  <li><strong>Ø70 × 17 × M10</strong></li>\n  <li><strong>Ø85 × 32 × 14 × M8</strong></li>\n  <li><strong>Ø50 × 42 × 12 × Ø10</strong></li>\n  <li><strong>Ø74 × 17 × M10</strong></li>\n  <li><strong>Ø63 × 15 × M12</strong></li>\n  <li><strong>Ø70 × 17 × M8</strong></li>\n  <li><strong>Ø63 × 10.5 × M12</strong></li>\n  <li><strong>Ø80 × 11 × M8</strong></li></ul>",
+          "<p><strong>Selection Tip:</strong> Compare the dimensions and mounting details of the existing component when identifying a suitable replacement.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>Within a KONE elevator door system, door down rollers are involved in:</p>",
+          "<ul><li><strong>Supporting door assembly movement</strong></li>\n  <li><strong>Assisting the operation of door components</strong></li>\n  <li><strong>Working alongside door roller arrangements</strong></li>\n  <li><strong>Supporting door system functionality</strong></li>\n  <li><strong>Contributing to door assembly operation</strong></li>\n  <li><strong>Assisting component movement within door mechanisms</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is the function of the down roller?</strong><br>It supports door panel weight and keeps doors perfectly aligned within the sills.</p>",
+          "<p><strong>2. What happens if they are completely ignored?</strong><br>The doors will start to jam or move unevenly. When this happens, the elevator will automatically shut down for safety, trapping people inside or leaving the elevator broken.</p>",
+          "<p><strong>3. How do I know if they are broken or wearing out?</strong><br>You will hear annoying squeaking, grinding or scraping noises whenever the elevator doors open and close.</p>",
+          "<p><strong>4. Why do some door down rollers appear similar despite having different specifications?</strong><br>Rollers can look similar visually while differing in dimensions or mounting arrangements.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is the function of the down roller?",
+            "answer": "It supports door panel weight and keeps doors perfectly aligned within the sills."
+          },
+          {
+            "question": "What happens if they are completely ignored?",
+            "answer": "The doors will start to jam or move unevenly. When this happens, the elevator will automatically shut down for safety, trapping people inside or leaving the elevator broken."
+          },
+          {
+            "question": "How do I know if they are broken or wearing out?",
+            "answer": "You will hear annoying squeaking, grinding or scraping noises whenever the elevator doors open and close."
+          },
+          {
+            "question": "Why do some door down rollers appear similar despite having different specifications?",
+            "answer": "Rollers can look similar visually while differing in dimensions or mounting arrangements."
+          }
+        ],
         "items": [
           {
             "name": "Door Down Roller - Ø74 X 16 X M10",
-            "code": "KOWR05 - "
+            "code": "KOWR05",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø74 X 16 X M10"
           },
           {
             "name": "Door Down Roller - Ø64 X Ø39 X 16 X M10",
-            "code": "KOWR06 - "
+            "code": "KOWR06",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø64 X Ø39 X 16 X M10"
           },
           {
             "name": "Door Down Roller - Ø45 X 38 X 12 M10",
-            "code": "KOWR07 - "
+            "code": "KOWR07",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø45 X 38 X 12 M10"
           },
           {
             "name": "Door Down Roller - Ø70 X 17 X M10",
-            "code": "KOWR08 - "
+            "code": "KOWR08",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø70 X 17 X M10"
           },
           {
             "name": "Door Down Roller - Ø85 X 32 X 14 X M8",
-            "code": "KOWR09 - "
+            "code": "KOWR09",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø85 X 32 X 14 X M8"
           },
           {
             "name": "Door Down Roller - Ø50 X 42 X 12 Ø10",
-            "code": "KOWR10 - "
+            "code": "KOWR10",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø50 X 42 X 12 Ø10"
           },
           {
             "name": "Door Down Roller - Ø74 X 17 X M10",
-            "code": "KOWR12 - "
+            "code": "KOWR12",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø74 X 17 X M10"
           },
           {
             "name": "Door Down Roller - Ø63 X 15 X M12",
-            "code": "KOWR13 - "
+            "code": "KOWR13",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø63 X 15 X M12"
           },
           {
             "name": "Door Down Roller - Ø70 X 17 X M8",
-            "code": "KOWR14 - "
+            "code": "KOWR14",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø70 X 17 X M8"
           },
           {
             "name": "Door Down Roller - Ø63 X 10.5 X M12",
-            "code": "KOWR15 - "
+            "code": "KOWR15",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø63 X 10.5 X M12"
           },
           {
             "name": "Door Down Roller - Ø80 X 11 X M8",
-            "code": "KOWR16 - "
+            "code": "KOWR16",
+            "alttext": "KONE Elevator Spare Parts Door Down Roller - Ø80 X 11 X M8"
           }
         ]
       },
@@ -2372,40 +2750,40 @@
         ]
       },
       {
-        "group_name": "Contator & Filter",
-        "slug": "contator-filter",
-        "alttext_group": "MITSUBISHI Elevator Spare Parts Contator & Filter",
+        "group_name": "Contactor & Filter",
+        "slug": "contactor-filter",
+        "alttext_group": "MITSUBISHI Elevator Spare Parts Contactor & Filter",
         "items": [
           {
-            "name": "Contator, DC125V",
+            "name": "Contactor, DC125V",
             "code": "MICT01 - SD-N21"
           },
           {
-            "name": "Contator, DC125V",
+            "name": "Contactor, DC125V",
             "code": "MICT02 - SD-N35"
           },
           {
-            "name": "Contator, DC125V",
+            "name": "Contactor, DC125V",
             "code": "MICT03 - SD-N50"
           },
           {
-            "name": "Contator, DC125V",
+            "name": "Contactor, DC125V",
             "code": "MICT04 - SD-N65"
           },
           {
-            "name": "Contator, DC125V",
+            "name": "Contactor, DC125V",
             "code": "MICT05 - SD-N80"
           },
           {
-            "name": "Contator, DC125V",
+            "name": "Contactor, DC125V",
             "code": "MICT06 - SD-N95"
           },
           {
-            "name": "Contator",
+            "name": "Contactor",
             "code": "MICT07 - SRD-N4"
           },
           {
-            "name": "Contator",
+            "name": "Contactor",
             "code": "MICT08 - SRD-N8"
           },
           {
@@ -3796,15 +4174,13 @@
             "name": "Photoelectric Switch",
             "code": "OTSS26 - E3S-GS3B4"
           }
-         
         ]
       },
-       {
+      {
         "group_name": "Sensors",
         "slug": "sensors",
         "alttext_group": "OTIS Elevator Spare Parts Sensors",
         "items": [
-         
           {
             "name": "Photo & Proximity Sensor",
             "code": "OTSS20–22"

@@ -119,6 +119,11 @@ const nextConfig = {
         source: "/brands/otis/switches-sensors",
         destination: "/brands/otis/switches",
         permanent: true,
+      },
+       {
+        source: "/brands/mitsubishi/contator-filter",
+        destination: "/brands/mitsubishi/contactor-filter",
+        permanent: true,
       }
 
 
