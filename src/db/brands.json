@@ -1399,54 +1399,105 @@
         "group_name": "Guide Shoe & Insert",
         "slug": "guide-shoe-insert",
         "alttext_group": "KONE Elevator Spare Parts Guide Shoe & Insert",
+        "canonical": "https://www.bestechparts.ae/brands/kone/guide-shoe-insert",
+        "meta_title": "Buy KONE Elevator Guide Shoe Insert | Lift Spare Parts",
+        "meta_description": "Explore KONE elevator guide shoe insert components used in sliding guide shoe assemblies for elevator car and counterweight applications.",
+        "keywords": "KONE Elevator Guide Shoe Inserts, KONE Guide Shoe Insert Parts, Elevator Guide Shoe Inserts UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Guide Shoe & Insert</strong></h2>",
+          "<p>Within a sliding guide shoe assembly, the KONE elevator guide shoe insert serves as the contact surface between the assembly and the guide rail. These inserts are used in selected KONE elevator systems and are available in different configurations depending on the application.</p>",
+          "<p>Unlike roller-based guidance arrangements, sliding guide shoes use inserts as part of their design. Because these inserts are separate components, they can be replaced when required without changing the complete guide shoe assembly. Different insert types may be used depending on the elevator model and guide shoe configuration.</p>",
+          "<h2><strong>Available KONE Guide Shoe Insert Options</strong></h2>",
+          "<p>The KONE elevator guide shoe insert category includes a range of insert and guide shoe specifications designed for different guide shoe assembly requirements:</p>",
+          "<ul><li><strong>Guide Shoe Insert - 128 X 34 X 16mm</strong></li>\n  <li><strong>Guide Shoe Insert - 128 X 34 X 10mm</strong></li>\n  <li><strong>Guide Shoe Insert - 140 X 30 X 16mm</strong></li>\n  <li><strong>Guide Shoe Insert - 140 X 30 X 10mm</strong></li>\n  <li><strong>Guide Shoe Insert - 80 X 25 X 5mm</strong></li>\n  <li><strong>Guide Shoe Insert - 80 X 30 X 25 X 11mm</strong></li>\n  <li><strong>Guide Shoe Insert - 131 X 22 X 9mm</strong></li>\n  <li><strong>Guide Shoe Insert - 131 X 22 X 16mm</strong></li>\n  <li><strong>Guide Shoe Insert - 130 X 32 X 29 X 10/16mm</strong></li>\n  <li><strong>Guide Shoe With Rubber Cushion - 130 X 10/16mm</strong></li>\n  <li><strong>Guide Shoe - 120 X 22 X 29mm</strong></li></ul>",
+          "<p><strong>Selection Reference:</strong> Guide shoe inserts and related components are available in different dimensions and configurations. Comparing the specifications of the existing component can help during product selection.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>Within a KONE elevator system, guide shoe inserts are involved in:</p>",
+          "<ul><li><strong>Providing a contact surface between the guide shoe and guide rail</strong></li>\n  <li><strong>Supporting sliding guide shoe arrangements</strong></li>\n  <li><strong>Working alongside guide rail systems</strong></li>\n  <li><strong>Forming part of elevator guidance assemblies</strong></li>\n  <li><strong>Assisting elevator car and counterweight travel</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. How do I find out which size I currently have?</strong><br>You can check the part number or measure the existing insert to help find the correct replacement.</p>",
+          "<p><strong>2. Why should I buy just the insert instead of the whole guide shoe?</strong><br>Because the guide shoe insert is a separate component within the guide shoe assembly. In many cases, the insert can be replaced without changing the entire assembly.</p>",
+          "<p><strong>3. Can I use a 10mm insert on a 16mm rail?</strong><br>No. Guide shoe inserts are available in different sizes and configurations. It is important to match the replacement insert with the specifications of the existing component.</p>",
+          "<p><strong>4. What is its main role of a guide shoe insert?</strong><br>A guide shoe insert sits between the guide shoe and guide rail and helps them work together during elevator travel.</p>"
+        ],
+        "faq": [
+          {
+            "question": "How do I find out which size I currently have?",
+            "answer": "You can check the part number or measure the existing insert to help find the correct replacement."
+          },
+          {
+            "question": "Why should I buy just the insert instead of the whole guide shoe?",
+            "answer": "Because the guide shoe insert is a separate component within the guide shoe assembly. In many cases, the insert can be replaced without changing the entire assembly."
+          },
+          {
+            "question": "Can I use a 10mm insert on a 16mm rail?",
+            "answer": "No. Guide shoe inserts are available in different sizes and configurations. It is important to match the replacement insert with the specifications of the existing component."
+          },
+          {
+            "question": "What is its main role of a guide shoe insert?",
+            "answer": "A guide shoe insert sits between the guide shoe and guide rail and helps them work together during elevator travel."
+          }
+        ],
         "items": [
           {
             "name": "Guide Shoe Insert - 128 X 34 X 16mm",
-            "code": "KOGS01"
+            "code": "KOGS01",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 128 X 34 X 16mm"
           },
           {
             "name": "Guide Shoe Insert - 128 X 34 X 10mm",
-            "code": "KOGS02"
+            "code": "KOGS02",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 128 X 34 X 10mm"
           },
           {
             "name": "Guide Shoe Insert - 140 X 30 X 16mm",
-            "code": "KOGS03"
+            "code": "KOGS03",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 140 X 30 X 16mm"
           },
           {
             "name": "Guide Shoe Insert - 140 X 30 X 10mm",
-            "code": "KOGS04"
+            "code": "KOGS04",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 140 X 30 X 10mm"
           },
           {
             "name": "Guide Shoe Insert - 80 X 25 X 5mm",
-            "code": "KOGS05 - "
+            "code": "KOGS05",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 80 X 25 X 5mm"
           },
           {
             "name": "Guide Shoe Insert - 80 X 30 X 25 X 11mm",
-            "code": "KOGS06 - "
+            "code": "KOGS06",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 80 X 30 X 25 X 11mm"
           },
           {
             "name": "Guide Shoe Insert - 131 X 22 X 9mm",
-            "code": "KOGS07 - "
+            "code": "KOGS07",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 131 X 22 X 9mm"
           },
           {
             "name": "Guide Shoe Insert - 131 X 22 X 16mm",
-            "code": "KOGS08 - "
+            "code": "KOGS08",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 131 X 22 X 16mm"
           },
           {
             "name": "Guide Shoe Insert - 130 X 32 X 29 X 10/16mm",
-            "code": "KOGS09 - "
+            "code": "KOGS09",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe Insert - 130 X 32 X 29 X 10/16mm"
           },
           {
             "name": "Guide Shoe With Rubber Cushion - 130 X 10/16mm",
-            "code": "KOGS10 - "
+            "code": "KOGS10",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe With Rubber Cushion - 130 X 10/16mm"
           },
           {
             "name": "Guide Shoe",
-            "code": "KOGS12"
+            "code": "KOGS12",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe"
           },
           {
             "name": "Guide Shoe - 120 X 22 X 29mm",
-            "code": "KOGS11 - "
+            "code": "KOGS11",
+            "alttext": "KONE Elevator Spare Parts Guide Shoe - 120 X 22 X 29mm"
           }
         ]
       },
@@ -1454,42 +1505,94 @@
         "group_name": "Door Slider & Door Vane",
         "slug": "door-slider-door-vane",
         "alttext_group": "KONE Elevator Spare Parts Door Slider & Door Vane",
+        "canonical": "https://www.bestechparts.ae/brands/kone/door-slider-door-vane",
+        "meta_title": "Buy KONE Elevator Door Slider & Door Vane Components ",
+        "meta_description": "From door sliders to door vanes, this KONE elevator category includes components used for door guidance and door operation functions.",
+        "keywords": "KONE Elevator Door Slider and Door Vane, KONE Door Slider Parts, Elevator Door Slider and Door Vane UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Door Slider & Door Vane</strong></h2>",
+          "<p>KONE elevator door slider and door vane components are used within elevator door systems, with each component serving a different purpose during door operation. A door slider, also known as a door gib or door guide shoe, is typically installed at the bottom of the door panel and helps maintain door alignment and stability during movement.</p>",
+          "<p>A door vane is used as part of the car door operator assembly. It works alongside the door system to support the coordinated opening of the elevator car door and landing door.</p>",
+          "<p>At Bestech, door sliders and door vanes are available in a range of designs and specifications to suit elevator door system configurations.</p>",
+          "<h2><strong>Available KONE Door Slider & Door Vane Options</strong></h2>",
+          "<p>The KONE elevator door slider and door vane range includes components used in different door system arrangements:</p>",
+          "<h3><strong>Door Sliders</strong></h3>",
+          "<ul><li><strong>Door Slider - 70 X 40 X 14</strong></li>\n  <li><strong>Door Slider - 70 X 42 X 12.5</strong></li>\n  <li><strong>Door Slider - 71 X 15 X 12</strong></li>\n  <li><strong>Door Slider - 71 X 14 X 3 - Φ7</strong></li>\n  <li><strong>Door Slider - 93 X 60 X 11</strong></li>\n  <li><strong>Door Slider - 61 X 68 X 12</strong></li></ul>",
+          "<h3><strong>Door Vanes</strong></h3>",
+          "<ul><li><strong>Frequency Conversion Door Vane</strong></li>\n  <li><strong>Mechanical Door Vane</strong></li>\n  <li><strong>Door Vane</strong></li></ul>",
+          "<p><strong>Product Note:</strong> Door sliders and door vanes are available in different dimensions and configurations depending on the elevator door system and application requirements.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator door sliders and door vanes play a role in:</p>",
+          "<ul><li><strong>Keeping door panels properly positioned</strong></li>\n  <li><strong>Supporting smooth door movement</strong></li>\n  <li><strong>Assisting door guidance and alignment</strong></li>\n  <li><strong>Supporting door opening operations</strong></li>\n  <li><strong>Working with other door system components</strong></li>\n  <li><strong>Contributing to overall door system operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. Why are door sliders located at the bottom of elevator doors?</strong><br>Door sliders are positioned within the door assembly to help maintain the movement and positioning of the door panel. </p>",
+          "<p><strong>2. Do door sliders and door vanes perform the same function?</strong><br>No. Each component has a different role within the elevator door system and operates alongside different door-related mechanisms. </p>",
+          "<p><strong>3. What is the difference between a door slider and a door vane?</strong><br>A door slider is associated with door guidance and positioning, while a door vane works as part of the door operating mechanism. </p>",
+          "<p><strong>4. Why are door sliders and door vanes available in different designs?</strong><br>Different elevator models and door systems may require specific component configurations. </p>"
+        ],
+        "faq": [
+          {
+            "question": "Why are door sliders located at the bottom of elevator doors?",
+            "answer": "Door sliders are positioned within the door assembly to help maintain the movement and positioning of the door panel."
+          },
+          {
+            "question": "Do door sliders and door vanes perform the same function?",
+            "answer": "No. Each component has a different role within the elevator door system and operates alongside different door-related mechanisms."
+          },
+          {
+            "question": "What is the difference between a door slider and a door vane?",
+            "answer": "A door slider is associated with door guidance and positioning, while a door vane works as part of the door operating mechanism."
+          },
+          {
+            "question": "Why are door sliders and door vanes available in different designs?",
+            "answer": "Different elevator models and door systems may require specific component configurations."
+          }
+        ],
         "items": [
           {
             "name": "Door Slider - 70 X 40 X 14",
-            "code": "KODS01"
+            "code": "KODS01",
+            "alttext": "KONE Elevator Spare Parts Door Slider - 70 X 40 X 14"
           },
           {
             "name": "Door Slider - 70 X 42 X 12.5",
-            "code": "KODS02"
+            "code": "KODS02",
+            "alttext": "KONE Elevator Spare Parts Door Slider - 70 X 42 X 12.5"
           },
           {
             "name": "Door Slider - 71 X 15 X 12",
-            "code": "KODS03"
+            "code": "KODS03",
+            "alttext": "KONE Elevator Spare Parts Door Slider - 71 X 15 X 12"
           },
           {
             "name": "Door Slider - 71 X 14 X 3 - Φ7",
-            "code": "KODS04 - "
+            "code": "KODS04",
+            "alttext": "KONE Elevator Spare Parts Door Slider - 71 X 14 X 3 - Φ7"
           },
           {
             "name": "Door Slider - 93 X 60 X 11",
-            "code": "KODS05 - "
+            "code": "KODS05",
+            "alttext": "KONE Elevator Spare Parts Door Slider - 93 X 60 X 11"
           },
           {
             "name": "Door Slider - 61 X 68 X 12",
-            "code": "KODS06 - "
+            "code": "KODS06",
+            "alttext": "KONE Elevator Spare Parts Door Slider - 61 X 68 X 12"
           },
           {
             "name": "Frequency Conversion Door Vane",
-            "code": "KODV01 - "
+            "code": "KODV01",
+            "alttext": "KONE Elevator Spare Parts Frequency Conversion Door Vane"
           },
           {
             "name": "Mechanical Door Vane",
-            "code": "KODV02"
+            "code": "KODV02",
+            "alttext": "KONE Elevator Spare Parts Mechanical Door Vane"
           },
           {
             "name": "Door Vane",
-            "code": "KODV03"
+            "code": "KODV03",
+            "alttext": "KONE Elevator Spare Parts Door Vane"
           }
         ]
       },
@@ -1497,18 +1600,60 @@
         "group_name": "Door Lock & power Lock",
         "slug": "door-lock",
         "alttext_group": "KONE Elevator Spare Parts Door Lock & power Lock",
+        "canonical": "https://www.bestechparts.ae/brands/kone/door-lock",
+        "meta_title": "Buy KONE Elevator Door Lock & Power Lock Components",
+        "meta_description": "Looking for KONE elevator door lock parts? Explore door lock and power lock options used in elevator landing door applications.",
+        "keywords": "KONE Elevator Door Lock, KONE Door Lock Spare Parts, Elevator Door Lock UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Door Lock & Power Lock </strong></h2>",
+          "<p>KONE elevator door locks are installed on landing doors and are used as part of the door locking system. They help manage when landing doors remain locked and when they can be opened during normal elevator operation.</p>",
+          "<p>Installed on each floor, these door lock assemblies operate as part of the landing door interlock arrangement. They work alongside other door components to support the opening, closing, locking and unlocking functions of elevator landing doors.</p>",
+          "<h2><strong>Available KONE Door Lock Options</strong></h2>",
+          "<p>The KONE elevator door lock range includes the following components:</p>",
+          "<ul><li><strong>Door Lock (Right)</strong></li>\n  <li><strong>Power Lock - Ø28</strong></li>\n  <li><strong>Power Lock (Thin Type) - Ø28</strong></li></ul>",
+          "<p><strong>Selection Tip:</strong> Existing part details and door lock configuration information can help when identifying a suitable replacement component.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>The functions of KONE elevator door lock components include:</p>",
+          "<ul><li><strong>Helps keep landing doors locked</strong></li>\n  <li><strong>Supports interlock operation</strong></li>\n  <li><strong>Assists door locking and unlocking functions</strong></li>\n  <li><strong>Supports coordinated door operation</strong></li>\n  <li><strong>Contributes to elevator door system performance</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What does the hallway door lock do?</strong><br>It helps keep the landing door locked when the elevator car is not at that floor. When the elevator arrives, the lock works as part of the mechanism that allows the door to be opened. </p>",
+          "<p><strong>2. What does the car power lock do?</strong><br>It helps control the locking and unlocking of landing doors as part of the elevator door lock system. </p>",
+          "<p><strong>3. How do I make sure I am buying the right hallway door lock?</strong><br>The best way is to compare the existing part number, door lock type, and product specifications with the replacement component before ordering. </p>",
+          "<p><strong>4. Is it safe for me to install these locks myself?</strong><br>No, elevator door locks are critical safety devices and must always be installed by a certified elevator technician.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What does the hallway door lock do?",
+            "answer": "It helps keep the landing door locked when the elevator car is not at that floor. When the elevator arrives, the lock works as part of the mechanism that allows the door to be opened."
+          },
+          {
+            "question": "What does the car power lock do?",
+            "answer": "It helps control the locking and unlocking of landing doors as part of the elevator door lock system."
+          },
+          {
+            "question": "How do I make sure I am buying the right hallway door lock?",
+            "answer": "The best way is to compare the existing part number, door lock type, and product specifications with the replacement component before ordering."
+          },
+          {
+            "question": "Is it safe for me to install these locks myself?",
+            "answer": "No, elevator door locks are critical safety devices and must always be installed by a certified elevator technician."
+          }
+        ],
         "items": [
           {
             "name": "Door Lock (Right)",
-            "code": "KOLO01 - MKG161-09"
+            "code": "KOLO01 - MKG161-09",
+            "alttext": "KONE Elevator Spare Parts Door Lock (Right)"
           },
           {
             "name": "Power Lock - Ø28",
-            "code": "KOLO03"
+            "code": "KOLO03",
+            "alttext": "KONE Elevator Spare Parts Power Lock - Ø28"
           },
           {
             "name": "Power Lock (Thin Type) - Ø28",
-            "code": "KOLO02 - "
+            "code": "KOLO02",
+            "alttext": "KONE Elevator Spare Parts Power Lock (Thin Type) - Ø28"
           }
         ]
       },
@@ -1516,34 +1661,78 @@
         "group_name": "Sensors",
         "slug": "sensors",
         "alttext_group": "KONE Elevator Spare Parts Sensors",
+        "canonical": "https://www.bestechparts.ae/brands/kone/sensors",
+        "meta_title": "Buy KONE Elevator Sensors for Accurate Floor Levelling",
+        "meta_description": "Used within elevator control systems, KONE sensors assist with car positioning, levelling and floor stop monitoring.",
+        "keywords": "KONE Elevator Sensors, KONE Elevator Sensor Parts, Elevator Sensors UAE ",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Sensors</strong></h2>",
+          "<p>Accurate floor levelling is an important part of elevator operation, as it help passengers enter and exit the elevator comfortably. KONE elevator sensors are used as part of the elevator control system and assist with monitoring elevator car position during travel.</p>",
+          "<p>Levelling sensors help the elevator determine when the car has reached the correct stopping position at a floor. By providing position-related information to the control system, these sensors support accurate floor leveling and contribute to smooth passenger movement between the elevator car and landing.</p>",
+          "<h2><strong>Available KONE Sensor Options</strong></h2>",
+          "<p>The available KONE levelling sensor range includes models such as 61U/61N, 77U/77N, BAR2000, 61U/61N/30S and 77U/77N/77M/77S, along with additional leveling sensor variants for selected elevator applications. </p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator sensors help with:</p>",
+          "<ul><li><strong>Monitoring elevator car position</strong></li>\n  <li><strong>Supporting accurate floor levelling</strong></li>\n  <li><strong>Assisting floor stop positioning</strong></li>\n  <li><strong>Providing information to the control system</strong></li>\n  <li><strong>Supporting elevator travel monitoring</strong></li>\n  <li><strong>Supporting elevator travel monitoring</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is the purpose of a KONE levelling sensor?</strong><br>A levelling sensor helps the elevator determine the correct stopping position at a floor landing</p>",
+          "<p><strong>2. Why is accurate floor levelling important?</strong><br>Accurate levelling helps reduce the gap and height difference between the elevator car and the floor landing.</p>",
+          "<p><strong>3. How does a levelling sensor work?</strong><br>The sensor provides position-related information that is used by the elevator control system during travel and stopping operations.</p>",
+          "<p><strong>4. Are levelling sensors used in every elevator?</strong><br>Most elevator systems use sensors as part of their control and positioning arrangements, although the design may vary between models.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is the purpose of a KONE levelling sensor?",
+            "answer": "A levelling sensor helps the elevator determine the correct stopping position at a floor landing."
+          },
+          {
+            "question": "Why is accurate floor levelling important?",
+            "answer": "Accurate levelling helps reduce the gap and height difference between the elevator car and the floor landing."
+          },
+          {
+            "question": "How does a levelling sensor work?",
+            "answer": "The sensor provides position-related information that is used by the elevator control system during travel and stopping operations."
+          },
+          {
+            "question": "Are levelling sensors used in every elevator?",
+            "answer": "Most elevator systems use sensors as part of their control and positioning arrangements, although the design may vary between models."
+          }
+        ],
         "items": [
           {
-            "name": "Leveling Sensor - 61U, 61N",
-            "code": "KOSS01"
+            "name": "Levelling Sensor - 61U, 61N",
+            "code": "KOSS01",
+            "alttext": "KONE Elevator Spare Parts Levelling Sensor - 61U, 61N"
           },
           {
-            "name": "Leveling Sensor - 77U, 77N",
-            "code": "KOSS02"
+            "name": "Levelling Sensor - 77U, 77N",
+            "code": "KOSS02",
+            "alttext": "KONE Elevator Spare Parts Levelling Sensor - 77U, 77N"
           },
           {
-            "name": "Leveling Sensor - BAR2000",
-            "code": "KOSS04"
+            "name": "Levelling Sensor - BAR2000",
+            "code": "KOSS04",
+            "alttext": "KONE Elevator Spare Parts Levelling Sensor - BAR2000"
           },
           {
-            "name": "Leveling Sensor - 61U, 61N, 30S",
-            "code": "KOSS01 - 740336 G01"
+            "name": "Levelling Sensor - 61U, 61N, 30S",
+            "code": "KOSS01 - 740336 G01",
+            "alttext": "KONE Elevator Spare Parts Levelling Sensor - 61U, 61N, 30S"
           },
           {
-            "name": "Leveling Sensor - 77U, 77N, 77M, 77S",
-            "code": "KOSS02 - 713227 G01"
+            "name": "Levelling Sensor - 77U, 77N, 77M, 77S",
+            "code": "KOSS02 - 713227 G01",
+            "alttext": "KONE Elevator Spare Parts Levelling Sensor - 77U, 77N, 77M, 77S"
           },
           {
-            "name": "Leveling Sensor",
-            "code": "KOSS03 - 86420G03"
+            "name": "Levelling Sensor",
+            "code": "KOSS03 - 86420G03",
+            "alttext": "KONE Elevator Spare Parts Levelling Sensor"
           },
           {
-            "name": "Leveling Sensor - BAR2000",
-            "code": "KOSS04 - KM773350G01"
+            "name": "Levelling Sensor - BAR2000",
+            "code": "KOSS04 - KM773350G01",
+            "alttext": "KONE Elevator Spare Parts Levelling Sensor - BAR2000"
           }
         ]
       },
@@ -1551,14 +1740,56 @@
         "group_name": "Inspection & Oil Box",
         "slug": "inspection-oil-box",
         "alttext_group": "KONE Elevator Spare Parts Inspection & Oil Box",
+        "canonical": "https://www.bestechparts.ae/brands/kone/inspection-oil-box",
+        "meta_title": "Elevator Inspection Box & Oil Box | KONE",
+        "meta_description": "Get essential components for elevator servicing and lubrication, including KONE inspection boxes and oil box solutions.",
+        "keywords": "KONE Inspection Box and Oil Box, KONE Elevator Inspection Box, Elevator Oil Box Parts UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Sensors</strong></h2>",
+          "<p>KONE elevator inspection oil and box components are used in different areas of the elevator system to support maintenance and operational functions. While oil boxes are associated with guide rail lubrication, inspection boxes allow technicians to operate and inspect the elevator during service procedures.</p>",
+          "<p>Oil boxes, also known as guide rail lubricators or oil cups, are used as small reservoirs that supply lubrication to guide rail systems.</p>",
+          "<p>Inspection boxes are typically installed on the roof of the elevator car and are used during maintenance, inspection and repair procedures.</p>",
+          "<p>Together, these components support different aspects of elevator servicing and system operation across a range of KONE elevator applications.</p>",
+          "<h2><strong>Available KONE Inspection Oil & Box Options</strong></h2>",
+          "<p>The current KONE inspection oil and box range includes:</p>",
+          "<ul><li><strong>Car Top Inspection Box (KOIB01) - </strong>used for elevator inspection and service operations.</li>\n  <li><strong>Oil Box Square (KOOC01) - </strong>used as part of guide rail lubrication arrangements.</li></ul>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE inspection oil and box components help with:</p>",
+          "<ul><li><strong>Supporting guide rail lubrication</strong></li>\n  <li><strong>Holding lubricant for guide rail applications</strong></li>\n  <li><strong>Assisting elevator maintenance activities</strong></li>\n  <li><strong>Providing access to inspection controls</strong></li>\n  <li><strong>Supporting service and repair procedures</strong></li>\n  <li><strong>Working alongside elevator maintenance systems</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is an oil box in a KONE elevator?</strong><br>An oil box, also known as a guide rail lubricator or oil cup, is used to hold lubricant for guide rail applications.</p>",
+          "<p><strong>2. What is a car top inspection box?</strong><br>A car top inspection box is a control station installed on the roof of the elevator car and used during inspection and maintenance activities.</p>",
+          "<p><strong>3. Why are oil boxes used in elevator systems?</strong><br>Oil boxes are used to store lubricant for selected guide rail applications. </p>",
+          "<p><strong>4. Do oil boxes and inspection boxes serve the same purpose?</strong><br>No. Oil boxes are associated with lubrication, while inspection boxes are associated with maintenance and inspection functions.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is an oil box in a KONE elevator?",
+            "answer": "An oil box, also known as a guide rail lubricator or oil cup, is used to hold lubricant for guide rail applications."
+          },
+          {
+            "question": "What is a car top inspection box?",
+            "answer": "A car top inspection box is a control station installed on the roof of the elevator car and used during inspection and maintenance activities."
+          },
+          {
+            "question": "Why are oil boxes used in elevator systems?",
+            "answer": "Oil boxes are used to store lubricant for selected guide rail applications."
+          },
+          {
+            "question": "Do oil boxes and inspection boxes serve the same purpose?",
+            "answer": "No. Oil boxes are associated with lubrication, while inspection boxes are associated with maintenance and inspection functions."
+          }
+        ],
         "items": [
           {
             "name": "Car Top Inspection Box",
-            "code": "KOIB01"
+            "code": "KOIB01",
+            "alttext": "KONE Elevator Spare Parts Car Top Inspection Box"
           },
           {
             "name": "Oil Box Square",
-            "code": "KOOC01"
+            "code": "KOOC01",
+            "alttext": "KONE Elevator Spare Parts Oil Box Square"
           }
         ]
       },
@@ -1566,14 +1797,64 @@
         "group_name": "Service Tool & Decoder",
         "slug": "service-tool-decoder",
         "alttext_group": "KONE Elevator Spare Parts Service Tool & Decoder",
+        "canonical": "https://www.bestechparts.ae/brands/kone/service-tool-decoder",
+        "meta_title": "KONE Elevator Service Tool Decoder | Decode Boards ",
+        "meta_description": "Discover KONE service tools and decode boards that support elevator monitoring, diagnostics and information exchange functions.",
+        "keywords": "KONE Elevator Service Tools and Decoders, KONE Service Tool Parts, Elevator Service Tools UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Service Tool & Decoder</strong></h2>",
+          "<p>KONE elevator service tool and decoder components are used within elevator control systems as part of communication and interface arrangements. Decode boards are electronic components used within elevator control systems and are designed to work alongside other control system components.</p>",
+          "<p>As part of the control architecture, decode boards are associated with the exchange of information between connected system components.</p>",
+          "<p>Service tools are used by technicians when carrying out maintenance, inspection, and troubleshooting activities. </p>",
+          "<h2><strong>Available KONE Service Tool & Decoder Options</strong></h2>",
+          "<p>This category includes the following KONE elevator control system components:</p>",
+          "<ul><li><strong>Service Tool (KOTT01)</strong></li>\n  <li><strong>Decode Board (KOTT02)</strong></li></ul>",
+          "<p><strong>Product Note:</strong> While the service tool is used for elevator diagnostics and service-related activities, the decode board functions as part of the control system communication arrangement.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>Within a KONE elevator system, these components help with:</p>",
+          "<h3><strong>Service Tool</strong></h3>",
+          "<ul><li><strong>Supports elevator diagnostic activities</strong></li>\n  <li><strong>Assists maintenance and inspection procedures</strong></li>\n  <li><strong>Helps technicians perform system checks</strong></li>\n  <li><strong>Supports troubleshooting activities</strong></li></ul>",
+          "<h3><strong>Decode Board</strong></h3>",
+          "<ul><li><strong>Supports communication between control system components</strong></li>\n  <li><strong>Assists information exchange within the control system</strong></li>\n  <li><strong>Functions as an interface module</strong></li>\n  <li><strong>Supports control system operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a decode board?</strong><br>A decode board is a PCB that functions as an interface or communication module within the elevator control system.</p>",
+          "<p><strong>2. What is a KONE service tool?</strong><br>A KONE service tool is used by technicians during elevator maintenance, diagnostics and service procedures.</p>",
+          "<p><strong>3. What happens if a KONE decoder board stops working?</strong><br>If it stops working, the affected components may no longer communicate properly, which can interfere with the operation of the related elevator functions.</p>",
+          "<p><strong>4. Where is a decoder board used?</strong><br>A decoder board is used inside the elevator control system, where it acts as a link between electronic components that need to exchange information with one another.</p>",
+          "<p><strong>5. Is a decoder board the same as a main control board?</strong><br>No, the main control board acts as the master brain of the lift, while the decoder board acts as a helper module that processes communication lines.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a decode board?",
+            "answer": "A decode board is a PCB that functions as an interface or communication module within the elevator control system."
+          },
+          {
+            "question": "What is a KONE service tool?",
+            "answer": "A KONE service tool is used by technicians during elevator maintenance, diagnostics and service procedures."
+          },
+          {
+            "question": "What happens if a KONE decoder board stops working?",
+            "answer": "If it stops working, the affected components may no longer communicate properly, which can interfere with the operation of the related elevator functions."
+          },
+          {
+            "question": "Where is a decoder board used?",
+            "answer": "A decoder board is used inside the elevator control system, where it acts as a link between electronic components that need to exchange information with one another."
+          },
+          {
+            "question": "Is a decoder board the same as a main control board?",
+            "answer": "No, the main control board acts as the master brain of the lift, while the decoder board acts as a helper module that processes communication lines."
+          }
+        ],
         "items": [
           {
             "name": "Service Tool",
-            "code": "KOTT01"
+            "code": "KOTT01",
+            "alttext": "KONE Elevator Spare Parts Service Tool"
           },
           {
             "name": "Decode Board",
-            "code": "KOTT02"
+            "code": "KOTT02",
+            "alttext": "KONE Elevator Spare Parts Decode Board"
           }
         ]
       },
@@ -1581,18 +1862,60 @@
         "group_name": "Encoder",
         "slug": "encoder",
         "alttext_group": "KONE Elevator Spare Parts Encoder",
+        "canonical": "https://www.bestechparts.ae/brands/kone/encoder",
+        "meta_title": "KONE Elevator Encoder for Drive System Feedback",
+        "meta_description": "Encoder components used in KONE elevator systems for drive feedback, travel monitoring and position-related functions.",
+        "keywords": "KONE Elevator Encoders, KONE Encoder Modules, Elevator Encoder Parts UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Encoder</strong></h2>",
+          "<p>A KONE elevator encoder is an electronic feedback device used within the elevator drive and control system. It monitors elevator movement and provides position-related information that helps the system manage elevator travel.</p>",
+          "<p>Encoders play an important role in motion control by supplying feedback to the drive system during operation. This information helps support accurate elevator movement, floor leveling and overall system performance.</p>",
+          "<h2><strong>Available KONE Encoder Options</strong></h2>",
+          "<p>Models include:</p>",
+          "<div class='table-wrapper'><table class='blog-table'><tr><th>Application</th><th>OEM Number</th></tr><tr><td>KDL16L Inverter</td><td>KM950278G01</td></tr><tr><td>MX14 Motor</td><td>KM1331189</td></tr><tr><td>MX14 Motor, TS5246N705</td><td>KM5002777</td></tr></table></div>",
+          "<p><strong>Note:</strong> These encoder models are designed for specific elevator drive and motor applications and may vary depending on the system configuration. </p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator encoders play a role in:</p>",
+          "<ul><li><strong>Providing feedback to the drive system</strong></li>\n  <li><strong>Supporting precise motion control</strong></li>\n  <li><strong>Assisting accurate elevator positioning</strong></li>\n  <li><strong>Supporting floor leveling functions</strong></li>\n  <li><strong>Monitoring elevator movement</strong></li>\n  <li><strong>Contributing to elevator operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What should be checked before selecting a replacement encoder?</strong><br>The encoder model, OEM number and associated motor or drive system details should be matched with the existing component.</p>",
+          "<p><strong>2. Why is encoder feedback important?</strong><br>Encoder feedback helps the drive system manage elevator movement and positioning during operation.</p>",
+          "<p><strong>3. Does an elevator encoder measure speed or position?</strong><br>An elevator encoder provides movement-related feedback that can be used by the control system to monitor position and movement characteristics during operation.</p>",
+          "<p><strong>4. Why do encoder models have different OEM numbers?</strong><br>OEM numbers help identify specific encoder models and applications, making it easier to match replacement components with the existing system.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What should be checked before selecting a replacement encoder?",
+            "answer": "The encoder model, OEM number and associated motor or drive system details should be matched with the existing component."
+          },
+          {
+            "question": "Why is encoder feedback important?",
+            "answer": "Encoder feedback helps the drive system manage elevator movement and positioning during operation."
+          },
+          {
+            "question": "Does an elevator encoder measure speed or position?",
+            "answer": "An elevator encoder provides movement-related feedback that can be used by the control system to monitor position and movement characteristics during operation."
+          },
+          {
+            "question": "Why do encoder models have different OEM numbers?",
+            "answer": "OEM numbers help identify specific encoder models and applications, making it easier to match replacement components with the existing system."
+          }
+        ],
         "items": [
           {
             "name": "Encoder for KDL16L Inverter",
-            "code": "KOEN01"
+            "code": "KOEN01",
+            "alttext": "KONE Elevator Spare Parts Encoder for KDL16L Inverter"
           },
           {
             "name": "Encoder for MX14 Motor",
-            "code": "KOEN02"
+            "code": "KOEN02",
+            "alttext": "KONE Elevator Spare Parts Encoder for MX14 Motor"
           },
           {
             "name": "Encoder for MX14 Motor, TS5246N705",
-            "code": "KOEN03 - KM5002777"
+            "code": "KOEN03 - KM5002777",
+            "alttext": "KONE Elevator Spare Parts Encoder for MX14 Motor, TS5246N705"
           }
         ]
       },
@@ -1600,54 +1923,109 @@
         "group_name": "Door Motor & Controller",
         "slug": "door-motor-controller",
         "alttext_group": "KONE Elevator Spare Parts Door Motor & Controller",
+        "canonical": "https://www.bestechparts.ae/brands/kone/door-motor-controller",
+        "meta_title": "Elevator Door Motor & Controller Board Components | KONE ",
+        "meta_description": "KONE door motors and controller boards designed to support controlled elevator door movement and door operator functions.",
+        "keywords": "KONE Elevator Door Motor Controller, KONE Door Motor Controller Parts, Elevator Door Motor Controller UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Door Motor & Controller</strong></h2>",
+          "<p>KONE elevator door motor and controller components are used within elevator door systems to support door operation. Door motors provide the driving force required to power the car door operator and move the elevator car doors. Door controller boards are dedicated electronic PCBs that manage the functions of the car door operator and coordinate door movement during operation.</p>",
+          "<p>The category also includes related door operator components such as door motor transformers used in selected elevator door systems.</p>",
+          "<p>Working together within the door operator system, these components help support smooth and controlled door opening and closing functions.</p>",
+          "<h2><strong>Available KONE Door Motor & Controller Options</strong></h2>",
+          "<h3><strong>Door Motors & Related Components</strong></h3>",
+          "<ul><li><strong>Door Motor – OEM: 89717G08</strong></li>\n  <li><strong>Door Motor – OEM: 89717G06</strong></li>\n  <li><strong>Door Motor – OEM: 602748G04</strong></li>\n  <li><strong>Door Motor – OEM: 601370G04</strong></li>\n  <li><strong>Door Motor Transformer – OEM: KM606850G01</strong></li></ul>",
+          "<h3><strong>Door Controller Boards</strong></h3>",
+          "<ul><li><strong>Door Controller Board – OEM: 601810G01</strong></li>\n  <li><strong>Door Controller Board – OEM: 606810G01</strong></li>\n  <li><strong>Door Controller Board – OEM: 602810G02</strong></li>\n  <li><strong>Door Controller Board – OEM: 603810G01</strong></li></ul>",
+          "<h2><strong>Functions</strong></h2>",
+          "<h3><strong>Door Motor Functions</strong></h3>",
+          "<ul><li><strong>Providing power for door movement</strong></li>\n  <li><strong>Supporting door opening and closing operations</strong></li>\n  <li><strong>Working as part of the car door operator system</strong></li>\n  <li><strong>Assisting controlled door movement</strong></li></ul>",
+          "<h3><strong>Door Controller Board Functions</strong></h3>",
+          "<ul><li><strong>Managing door operator functions</strong></li>\n  <li><strong>Supporting door opening and closing sequences</strong></li>\n  <li><strong>Coordinating door movement operations</strong></li>\n  <li><strong>Working with door system components to support door control</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is the role of a KONE elevator door motor?</strong><br>A door motor provides the power required to operate the elevator car door system.</p>",
+          "<p><strong>2. What does a door controller board do?</strong><br>A door controller board manages and coordinates the functions of the door operator system.</p>",
+          "<p><strong>3. Do door motors and controller boards perform the same function?</strong><br>No. The door motor provides movement, while the controller board manages and controls door operation.</p>",
+          "<p><strong>4. Are door controller boards used in all elevator door systems?</strong><br>Modern elevator door systems typically use dedicated control components to manage door operation, although designs may vary between models and manufacturers.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is the role of a KONE elevator door motor?",
+            "answer": "A door motor provides the power required to operate the elevator car door system."
+          },
+          {
+            "question": "What does a door controller board do?",
+            "answer": "A door controller board manages and coordinates the functions of the door operator system."
+          },
+          {
+            "question": "Do door motors and controller boards perform the same function?",
+            "answer": "No. The door motor provides movement, while the controller board manages and controls door operation."
+          },
+          {
+            "question": "Are door controller boards used in all elevator door systems?",
+            "answer": "Modern elevator door systems typically use dedicated control components to manage door operation, although designs may vary between models and manufacturers."
+          }
+        ],
         "items": [
           {
             "name": "Door Motor",
-            "code": "KODM01"
+            "code": "KODM01",
+            "alttext": "KONE Elevator Spare Parts Door Motor"
           },
           {
             "name": "Door Motor Transformer",
-            "code": "KODM05"
+            "code": "KODM05",
+            "alttext": "KONE Elevator Spare Parts Door Motor Transformer"
           },
           {
             "name": "Door Motor",
-            "code": "KODM01 - 89717G08"
+            "code": "KODM01 - 89717G08",
+            "alttext": "KONE Elevator Spare Parts Door Motor"
           },
           {
             "name": "Door Motor",
-            "code": "KODM02 - 89717G06"
+            "code": "KODM02 - 89717G06",
+            "alttext": "KONE Elevator Spare Parts Door Motor"
           },
           {
             "name": "Door Motor",
-            "code": "KODM03 - 602748G04"
+            "code": "KODM03 - 602748G04",
+            "alttext": "KONE Elevator Spare Parts Door Motor"
           },
           {
             "name": "Door Motor",
-            "code": "KODM04 - 601370G04"
+            "code": "KODM04 - 601370G04",
+            "alttext": "KONE Elevator Spare Parts Door Motor"
           },
           {
             "name": "Door Motor Transformer",
-            "code": "KODM05 - KM606850G01"
+            "code": "KODM05 - KM606850G01",
+            "alttext": "KONE Elevator Spare Parts Door Motor Transformer"
           },
           {
             "name": "Door Controller Board",
-            "code": "KODC01"
+            "code": "KODC01",
+            "alttext": "KONE Elevator Spare Parts Door Controller Board"
           },
           {
             "name": "Door Controller Board",
-            "code": "KODC01 - 601810G01"
+            "code": "KODC01 - 601810G01",
+            "alttext": "KONE Elevator Spare Parts Door Controller Board"
           },
           {
             "name": "Door Controller Board",
-            "code": "KODC02 - 606810G01"
+            "code": "KODC02 - 606810G01",
+            "alttext": "KONE Elevator Spare Parts Door Controller Board"
           },
           {
             "name": "Door Controller Board",
-            "code": "KODC03 - 602810G02"
+            "code": "KODC03 - 602810G02",
+            "alttext": "KONE Elevator Spare Parts Door Controller Board"
           },
           {
             "name": "Door Controller Board",
-            "code": "KODC04 - 603810G01"
+            "code": "KODC04 - 603810G01",
+            "alttext": "KONE Elevator Spare Parts Door Controller Board"
           }
         ]
       },
@@ -1655,34 +2033,83 @@
         "group_name": "Brake, Fan & Tachometer",
         "slug": "brake-fan-tachometer",
         "alttext_group": "KONE Elevator Spare Parts Brake, Fan & Tachometer",
+        "canonical": "https://www.bestechparts.ae/brands/kone/brake-fan-tachometer",
+        "meta_title": "Buy KONE Elevator Brake, Fan & Tachometer | Spare Parts",
+        "meta_description": "Get KONE brake coils, ventilation fans and tachometer components for selected elevator system applications.",
+        "keywords": "KONE Elevator Brake Fan and Tachometer, KONE Elevator Brake Components, Elevator Brake Fan and Tachometer UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Brake, Fan & Tachometer</strong></h2>",
+          "<p>KONE elevator brake, fan and tachometer components are used in different areas of elevator operation and system support. Brake coils are electromagnetic components used within the elevator brake assembly and are associated with brake release functions. Elevator fans form part of the car ventilation system and help circulate air within the elevator car.</p>",
+          "<p>The category also includes tachometer components used in selected elevator monitoring applications. These products serve different purposes within the elevator system and may be used in different elevator models depending on the application requirements.</p>",
+          "<h2><strong>Available KONE Brake, Fan & Tachometer Options</strong></h2>",
+          "<p>The available KONE elevator brake, fan and tachometer range includes:</p>",
+          "<div class='table-wrapper'><table class='blog-table'><tr><th>Component</th><th>OEM / Specification</th></tr><tr><td>Brake Coil - MX10</td><td>KM650824G01/02</td></tr><tr><td>Fan - D2E133-DM47-E6</td><td>KM255063</td></tr><tr><td>Tachometer</td><td>Type: RE.0444L1B0.06CA</td></tr></table></div>",
+          "<h2><strong>Functions</strong></h2>",
+          "<h3><strong>Brake Coil Functions</strong></h3>",
+          "<ul><li><strong>Supporting brake release operation</strong></li>\n  <li><strong>Working as part of the elevator brake assembly</strong></li>\n  <li><strong>Assisting electromagnetic brake functions</strong></li></ul>",
+          "<h3><strong>Fan Functions</strong></h3>",
+          "<ul><li><strong>Supporting air circulation inside the elevator car</strong></li>\n  <li><strong>Assisting passenger comfort</strong></li>\n  <li><strong>Working as part of the car ventilation system</strong></li></ul>",
+          "<h3><strong>Tachometer Functions</strong></h3>",
+          "<ul><li><strong>Supporting movement monitoring applications</strong></li>\n  <li><strong>Assisting speed-related feedback functions</strong></li>\n  <li><strong>Working alongside elevator control systems</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What does a brake coil do in an elevator?</strong><br>A brake coil is an electromagnetic component used within the elevator brake assembly and is associated with brake release functions.</p>",
+          "<p><strong>2. Why is an elevator fan used?</strong><br>An elevator fan helps circulate air within the elevator car to support passenger comfort.</p>",
+          "<p><strong>3. What is the purpose of a tachometer in an elevator?</strong><br>A tachometer is associated with movement monitoring and speed-related feedback functions within the elevator system.</p>",
+          "<p><strong>4. Do brake coils, fans and tachometers perform the same function?</strong><br>No. Each component is used for a different purpose, including braking, ventilation and movement monitoring.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What does a brake coil do in an elevator?",
+            "answer": "A brake coil is an electromagnetic component used within the elevator brake assembly and is associated with brake release functions."
+          },
+          {
+            "question": "Why is an elevator fan used?",
+            "answer": "An elevator fan helps circulate air within the elevator car to support passenger comfort."
+          },
+          {
+            "question": "What is the purpose of a tachometer in an elevator?",
+            "answer": "A tachometer is associated with movement monitoring and speed-related feedback functions within the elevator system."
+          },
+          {
+            "question": "Do brake coils, fans and tachometers perform the same function?",
+            "answer": "No. Each component is used for a different purpose, including braking, ventilation and movement monitoring."
+          }
+        ],
         "items": [
           {
             "name": "Brake Coil - MX10",
-            "code": "KOBM01"
+            "code": "KOBM01",
+            "alttext": "KONE Elevator Spare Parts Brake Coil - MX10"
           },
           {
             "name": "Brake Coil - MX10",
-            "code": "KOBM01 - KM650824G01/02"
+            "code": "KOBM01 - KM650824G01/02",
+            "alttext": "KONE Elevator Spare Parts Brake Coil - MX10"
           },
           {
             "name": "Fan - D2E133-DM47-E6",
-            "code": "KOBM02 - KM255063"
+            "code": "KOBM02 - KM255063",
+            "alttext": "KONE Elevator Spare Parts Fan - D2E133-DM47-E6"
           },
           {
             "name": "Fan - D2E133-DM47-E6",
-            "code": "KOBM02"
+            "code": "KOBM02",
+            "alttext": "KONE Elevator Spare Parts Fan - D2E133-DM47-E6"
           },
           {
             "name": "Tachometer - Type: RE.0444L1B0.06CA",
-            "code": "KOBM03 - KM814490G01"
+            "code": "KOBM03 - KM814490G01",
+            "alttext": "KONE Elevator Spare Parts Tachometer - Type: RE.0444L1B0.06CA"
           },
           {
             "name": "Tachometer",
-            "code": "KOBM03"
+            "code": "KOBM03",
+            "alttext": "KONE Elevator Spare Parts Tachometer"
           },
           {
             "name": "Tachometer - RE.0444L1B0.06CA",
-            "code": "KOBM04 - KM276027"
+            "code": "KOBM04 - KM276027",
+            "alttext": "KONE Elevator Spare Parts Tachometer - RE.0444L1B0.06CA"
           }
         ]
       },
@@ -1690,18 +2117,59 @@
         "group_name": "Frequency Inverter",
         "slug": "frequency-inverter",
         "alttext_group": "KONE Elevator Spare Parts Frequency Inverter",
+        "canonical": "https://www.bestechparts.ae/brands/kone/frequency-inverter",
+        "meta_title": "KONE Elevator Frequency Inverter | VVVF Drive Units",
+        "meta_description": "KONE elevator frequency inverters to control traction motor speed, torque and direction within elevator drive systems.",
+        "keywords": "KONE Elevator Frequency Inverter, KONE Elevator Inverter Drive, Elevator Frequency Inverter UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Frequency Invertors</strong></h2>",
+          "<p>KONE elevator frequency inverters are core electronic drive components used to control the operation of the elevator traction motor. Also known as Variable Voltage Variable Frequency (VVVF) drives or traction drive units, these devices regulate motor speed, torque and direction during elevator travel.</p>",
+          "<p>As a key part of the elevator drive system, frequency inverters provide the control required for elevator acceleration, deceleration and movement management.</p>",
+          "<h2><strong>Available KONE Frequency Inverter Options</strong></h2>",
+          "<p>The KONE elevator frequency inverter range includes the following drive units:</p>",
+          "<ul><li><strong>Frequency Inverter - V3F16L (OEM: KM769900G01)</strong></li>\n<li><strong>Frequency Inverter - KDL16 (OEM: KM953503G21)</strong></li>\n<li><strong>Frequency Inverter - KDL16R (OEM: KM968094G03)</strong></li></ul>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator frequency inverters help with:</p>",
+          "<ul><li><strong>Controlling traction motor operation</strong></li>\n<li><strong>Regulating motor speed</strong></li>\n<li><strong>Managing motor torque</strong></li>\n<li><strong>Controlling travel direction</strong></li>\n<li><strong>Supporting elevator acceleration and deceleration</strong></li>\n<li><strong>Assisting elevator movement control</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a KONE elevator frequency inverter?</strong><br>A frequency inverter is an electronic drive unit used to control the operation of the elevator traction motor.</p>",
+          "<p><strong>2. What does a VVVF drive do in an elevator?</strong><br>A VVVF drive regulates motor speed, torque and direction to support elevator movement.</p>",
+          "<p><strong>3. Why is a frequency inverter important?</strong><br>The frequency inverter provides the control needed for motor operation and elevator travel management.</p>",
+          "<p><strong>4. Is a frequency inverter the same as a traction drive unit?</strong><br>The terms may be used to refer to the drive component responsible for controlling the traction motor within the elevator system.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a KONE elevator frequency inverter?",
+            "answer": "A frequency inverter is an electronic drive unit used to control the operation of the elevator traction motor."
+          },
+          {
+            "question": "What does a VVVF drive do in an elevator?",
+            "answer": "A VVVF drive regulates motor speed, torque and direction to support elevator movement."
+          },
+          {
+            "question": "Why is a frequency inverter important?",
+            "answer": "The frequency inverter provides the control needed for motor operation and elevator travel management."
+          },
+          {
+            "question": "Is a frequency inverter the same as a traction drive unit?",
+            "answer": "The terms may be used to refer to the drive component responsible for controlling the traction motor within the elevator system."
+          }
+        ],
         "items": [
           {
             "name": "Frequency Inverter - V3F16L",
-            "code": "KOFI01"
+            "code": "KOFI01",
+            "alttext": "KONE Elevator Spare Parts Frequency Inverter - V3F16L"
           },
           {
             "name": "Frequency Inverter - KDL16",
-            "code": "KOFI02"
+            "code": "KOFI02",
+            "alttext": "KONE Elevator Spare Parts Frequency Inverter - KDL16"
           },
           {
             "name": "Frequency Inverter - KDL16R",
-            "code": "KOFI03 - KM968094G03"
+            "code": "KOFI03 - KM968094G03",
+            "alttext": "KONE Elevator Spare Parts Frequency Inverter - KDL16R"
           }
         ]
       },
@@ -1709,30 +2177,74 @@
         "group_name": "HOP",
         "slug": "hop",
         "alttext_group": "KONE Elevator Spare Parts HOP",
+        "canonical": "https://www.bestechparts.ae/brands/kone/hop",
+        "meta_title": "Buy KONE Elevator Hall Operating Panel | Bestech",
+        "meta_description": "A range of KONE elevator Hall Operating Panel components for landing floor installations and passenger call operations.",
+        "keywords": "KONE Elevator HOP, KONE Hall Operating Panel, Elevator HOP Panels UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator HOP</strong></h2>",
+          "<p>A KONE elevator HOP (Hall Operating Panel) is installed outside the elevator car at each landing floor and is used by passengers to place elevator calls. Working together with the COP (Car Operating Panel) located inside the elevator car, the HOP forms part of the passenger interface system used during elevator operation. </p>",
+          "<h2><strong>Available KONE Elevator HOP Options</strong></h2>",
+          "<p>Bestech offers a range of KONE elevator HOP (Hall Operating Panel) variants for selected elevator systems. Available products within this category can be referenced using the following internal identification codes:</p>",
+          "<ul><li><strong>KOHOP01</strong></li>\n<li><strong>KOHOP02</strong></li>\n<li><strong>KOHOP03</strong></li>\n<li><strong>KOHOP04</strong></li>\n<li><strong>KOHOP05</strong></li>\n<li><strong>KOHOP06</strong></li></ul>",
+          "<p><strong>Product Note: </strong>The codes listed above are internal product references. HOP designs and configurations may vary depending on the elevator system and application.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator HOPs help with:</p>",
+          "<ul><li><strong>Registering elevator call requests</strong></li>\n<li><strong>Supporting passenger interaction at landing floors</strong></li>\n<li><strong>Working alongside the COP system</strong></li>\n<li><strong>Assisting passenger access to elevator services</strong></li>\n<li><strong>Contributing to elevator system operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What does HOP stand for in an elevator?</strong><br>HOP stands for Hall Operating Panel, which is typically installed outside the elevator car on each floor.</p>",
+          "<p><strong>2. What is the difference between a HOP and a COP?</strong><br>A HOP is located at the landing floor and is used to call the elevator, while a COP is located inside the elevator car and is used for floor selection and other passenger controls.</p>",
+          "<p><strong>3. Does every floor have a HOP?</strong><br>The number and configuration of HOP units depend on the elevator system and building design.</p>",
+          "<p><strong>4. What is the purpose of a KONE elevator HOP?</strong><br>A KONE elevator HOP is used to place elevator call requests from a landing floor and forms part of the passenger interface system.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What does HOP stand for in an elevator?",
+            "answer": "HOP stands for Hall Operating Panel, which is typically installed outside the elevator car on each floor."
+          },
+          {
+            "question": "What is the difference between a HOP and a COP?",
+            "answer": "A HOP is located at the landing floor and is used to call the elevator, while a COP is located inside the elevator car and is used for floor selection and other passenger controls."
+          },
+          {
+            "question": "Does every floor have a HOP?",
+            "answer": "The number and configuration of HOP units depend on the elevator system and building design."
+          },
+          {
+            "question": "What is the purpose of a KONE elevator HOP?",
+            "answer": "A KONE elevator HOP is used to place elevator call requests from a landing floor and forms part of the passenger interface system."
+          }
+        ],
         "items": [
           {
             "name": "HOP",
-            "code": "KOHOP01"
+            "code": "KOHOP01",
+            "alttext": "KONE Elevator Spare Parts HOP"
           },
           {
             "name": "HOP",
-            "code": "KOHOP02"
+            "code": "KOHOP02",
+            "alttext": "KONE Elevator Spare Parts HOP"
           },
           {
             "name": "HOP",
-            "code": "KOHOP03"
+            "code": "KOHOP03",
+            "alttext": "KONE Elevator Spare Parts HOP"
           },
           {
             "name": "HOP",
-            "code": "KOHOP04 - "
+            "code": "KOHOP04",
+            "alttext": "KONE Elevator Spare Parts HOP"
           },
           {
             "name": "HOP",
-            "code": "KOHOP05 - "
+            "code": "KOHOP05",
+            "alttext": "KONE Elevator Spare Parts HOP"
           },
           {
             "name": "HOP",
-            "code": "KOHOP06 - "
+            "code": "KOHOP06",
+            "alttext": "KONE Elevator Spare Parts HOP"
           }
         ]
       },
@@ -1740,94 +2252,160 @@
         "group_name": "Display Board",
         "slug": "display-board",
         "alttext_group": "KONE Elevator Spare Parts Display Board",
+        "canonical": "https://www.bestechparts.ae/brands/kone/display-board",
+        "meta_title": "Buy KONE Elevator Display Board Components | UAE",
+        "meta_description": "Get KONE display board technologies used for elevator status indication and passenger communication functions.",
+        "keywords": "KONE Elevator Display Boards, KONE Elevator Indicator Boards, Elevator Display Board Parts UAE",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator Display Board</strong></h2>",
+          "<p>KONE elevator display boards are signalization components that serve as visual interfaces for communicating elevator status to passengers. Used in different areas of the elevator system, these display boards form part of the passenger information and indication arrangement.</p>",
+          "<p>Display boards are available in various types and technologies and may be used within elevator cars, landing stations and HOP arrangements depending on the application requirements.</p>",
+          "<h2><strong>Available KONE Display Board Options</strong></h2>",
+          "<h3><strong>Landing Display Boards</strong></h3>",
+          "<ul><li><strong>Landing Display Board (OEM: KM863270G02)</strong></li></ul>",
+          "<h3><strong>Car Display Boards</strong></h3>",
+          "<ul><li><strong>Car Display Board (OEM: 713563H05)</strong></li>\n<li><strong>Car Display Board (OEM: KM863210G02)</strong></li>\n<li><strong>Car Display Board (OEM: KM713560G02)</strong></li>\n<li><strong>Car Display Board (OEM: KM851960G01)</strong></li></ul>",
+          "<h3><strong>HOP Display Boards</strong></h3>",
+          "<ul><li><strong>HOP Display Board (OEM: KM853320G01)</strong></li>\n<li><strong>HOP Display Board (OEM: K2416H03)</strong></li>\n<li><strong>HOP Display Board (OEM: 57910070)</strong></li></ul>",
+          "<h3><strong>HOP Display Boards</strong></h3>",
+          "<ul><li><strong>Display Board (OEM: KM863170)</strong></li>\n<li><strong>Display Board (OEM: 853323H02)</strong></li>\n<li><strong>Display Board (OEM: KM713550G01)</strong></li>\n<li><strong>Display Board (OEM: KM853300G11)</strong></li>\n<li><strong>Display Board (OEM: KM853320G10)</strong></li>\n<li><strong>Display Board (OEM: KM853300G01)</strong></li>\n<li><strong>Display Board (OEM: KM853300G03)</strong></li>\n<li><strong>Display Board (OEM: 853333 GG-6G H02)</strong></li>\n<li><strong>Display Board (OEM: 726433H02/736603)</strong></li>\n<li><strong>Display Board (OEM: K2416X1)</strong></li>\n<li><strong>Display Board (OEM: KM863240G03)</strong></li>\n<li><strong>Display Board (OEM: KM135367G01)</strong></li></ul>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator display boards help with:</p>",
+          "<ul><li><strong>Providing visual elevator information</strong></li>\n<li><strong>Supporting passenger communication</strong></li>\n<li><strong>Displaying elevator status information</strong></li>\n<li><strong>Working as part of elevator signalization systems</strong></li>\n<li><strong>Supporting car and landing display applications</strong></li>\n<li><strong>Contributing to passenger awareness during elevator operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a KONE elevator display board?</strong><br>A KONE elevator display board is a signalization component that provides visual information related to elevator operation.</p>",
+          "<p><strong>2. Where are display boards installed in an elevator system?</strong><br>Display boards may be installed inside the elevator car, at landing floors or within HOP arrangements depending on the application.</p>",
+          "<p><strong>3. What is the difference between a car display board and a landing display board?</strong><br>A car display board is installed inside the elevator car, while a landing display board is installed outside the elevator at a floor landing.</p>",
+          "<p><strong>4. Are display boards part of the elevator control system?</strong><br>Display boards are used alongside elevator system components to communicate elevator status and information to passengers during operation.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a KONE elevator display board?",
+            "answer": "A KONE elevator display board is a signalization component that provides visual information related to elevator operation."
+          },
+          {
+            "question": "Where are display boards installed in an elevator system?",
+            "answer": "Display boards may be installed inside the elevator car, at landing floors or within HOP arrangements depending on the application."
+          },
+          {
+            "question": "What is the difference between a car display board and a landing display board?",
+            "answer": "A car display board is installed inside the elevator car, while a landing display board is installed outside the elevator at a floor landing."
+          },
+          {
+            "question": "Are display boards part of the elevator control system?",
+            "answer": "Display boards are used alongside elevator system components to communicate elevator status and information to passengers during operation."
+          }
+        ],
         "items": [
           {
             "name": "Landing Display Board",
-            "code": "KODI01"
+            "code": "KODI01",
+            "alttext": "KONE Elevator Spare Parts Landing Display Board"
           },
           {
             "name": "Landing Display Board",
-            "code": "KODI06 - KM863270G02"
+            "code": "KODI06 - KM863270G02",
+            "alttext": "KONE Elevator Spare Parts Landing Display Board"
           },
           {
             "name": "Car Display Board",
-            "code": "KODI02"
+            "code": "KODI02",
+            "alttext": "KONE Elevator Spare Parts Car Display Board"
           },
           {
             "name": "Car Display Board",
-            "code": "KODI02 - 713563H05"
+            "code": "KODI02 - 713563H05",
+            "alttext": "KONE Elevator Spare Parts Car Display Board"
           },
           {
             "name": "Car Display Board",
-            "code": "KODI05 - KM863210G02"
+            "code": "KODI05 - KM863210G02",
+            "alttext": "KONE Elevator Spare Parts Car Display Board"
           },
           {
             "name": "Car Display Board",
-            "code": "KODI09 - KM713560G02"
+            "code": "KODI09 - KM713560G02",
+            "alttext": "KONE Elevator Spare Parts Car Display Board"
           },
           {
             "name": "Car Display Board",
-            "code": "KODI14 - KM851960G01"
+            "code": "KODI14 - KM851960G01",
+            "alttext": "KONE Elevator Spare Parts Car Display Board"
           },
           {
             "name": "HOP Display Board",
-            "code": "KODI03 - KM853320G01"
+            "code": "KODI03 - KM853320G01",
+            "alttext": "KONE Elevator Spare Parts HOP Display Board"
           },
           {
             "name": "HOP Display Board",
-            "code": "KODI08 - K2416H03"
+            "code": "KODI08 - K2416H03",
+            "alttext": "KONE Elevator Spare Parts HOP Display Board"
           },
           {
             "name": "HOP Display Board",
-            "code": "KODI10 - 57910070"
+            "code": "KODI10 - 57910070",
+            "alttext": "KONE Elevator Spare Parts HOP Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI04 - KM863170"
+            "code": "KODI04 - KM863170",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI07 - 853323H02"
+            "code": "KODI07 - 853323H02",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI11 - KM713550G01"
+            "code": "KODI11 - KM713550G01",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI12 - KM853300G11"
+            "code": "KODI12 - KM853300G11",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI13 - KM853320G10"
+            "code": "KODI13 - KM853320G10",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI15 - KM853300G01"
+            "code": "KODI15 - KM853300G01",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI16 - KM853300G03"
+            "code": "KODI16 - KM853300G03",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI17 - 853333 GG-6G H02"
+            "code": "KODI17 - 853333 GG-6G H02",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI18 - 726433H02/736603"
+            "code": "KODI18 - 726433H02/736603",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI19 - K2416X1"
+            "code": "KODI19 - K2416X1",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI20 - KM863240G03"
+            "code": "KODI20 - KM863240G03",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           },
           {
             "name": "Display Board",
-            "code": "KODI21 - KM135367G01"
+            "code": "KODI21 - KM135367G01",
+            "alttext": "KONE Elevator Spare Parts Display Board"
           }
         ]
       },
@@ -1835,230 +2413,325 @@
         "group_name": "PC Board",
         "slug": "pc-board",
         "alttext_group": "KONE Elevator Spare Parts PC Board",
+        "canonical": "https://www.bestechparts.ae/brands/kone/pc-board",
+        "meta_title": "Buy KONE Elevator PC Boards | Bestech UAE",
+        "meta_description": "KONE elevator PC boards designed for control processing, communication, safety monitoring and system operation.",
+        "keywords": "KONE Elevator PC Boards, KONE Elevator PCB Boards, KONE Elevator Control Boards",
+        "paragraph_text": [
+          "<h2><strong>KONE Elevator PC Board</strong></h2>",
+          "<p>KONE elevator PC boards (Printed Circuit Boards) are electronic control components used within elevator control and monitoring systems. As part of KONE's modular control architecture, these boards are used across different control, communication, safety and operational functions within the elevator system.</p>",
+          "<p>KONE control systems commonly utilise Lift Control Electronics (LCE) and other related electronic assemblies, with different PC board types designed for specific applications. Depending on the system configuration, PC boards may be used for control processing, communication, safety monitoring and other elevator functions.</p>",
+          "<h2><strong>Available Product Options</strong></h2>",
+          "<div class='table-wrapper'><table class='blog-table'><tr><th>PC Board Type</th><th>Available Variants</th></tr><tr><td>Car Button PC Boards</td><td>Car 2 Button PC Board, Car 4 Button PC Board, Car 8 Button PC Board</td></tr><tr><td>LCE PC Boards</td><td>LCE CPU PC Board, LCE-CCB PC Board, LCE ADO PC Board, LCE230 PC Board, LCE ADOE PC Board, LCE OPT PC Board, LCERAL PC Board, LCEREC PC Board</td></tr><tr><td>Communication & Safety PC Boards</td><td>Communication PC Board, Safety Circuit PC Board, Control PC Board, OPT PC Board</td></tr><tr><td>V3F PC Boards</td><td>V3F16L-A1 PC Board, V3F16L-A1 A3 PC Board, V3F25-A1 PC Board, V3F25-A3 PC Board</td></tr><tr><td>Other PC Boards</td><td>FCB PC Board, 385 A3 PC Board, A2 PC Board, A3 PC Board, KDL32-A2 PC Board and other PC board variants</td></tr></table></div>",
+          "<h3><strong>Additional PC Board Variants</strong></h3>",
+          "<p>The KONE elevator PC board range also includes additional OEM-specific PC board variants for selected applications, including models such as KM713730G01, KM7477652G01, KM166628G04, KM713180G01, KM825950G01 and other board references used within KONE elevator control systems. </p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>KONE elevator PC boards help with:</p>",
+          "<ul><li><strong>Supporting elevator control functions</strong></li>\n<li><strong>Assisting communication between system components</strong></li>\n<li><strong>Supporting signal processing operations</strong></li>\n<li><strong>Assisting safety monitoring functions</strong></li>\n<li><strong>Supporting elevator drive and control systems</strong></li>\n<li><strong>Contributing to overall elevator system operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a KONE elevator PC board?</strong><br>A KONE elevator PC board is an electronic circuit board used within the elevator control system to support specific operational, control or communication functions.</p>",
+          "<p><strong>2. What does PCB stand for in an elevator?</strong><br>PCB stands for Printed Circuit Board, an electronic component used within elevator control and monitoring systems.</p>",
+          "<p><strong>3. What is LCE in a KONE elevator?</strong><br>LCE stands for Lift Control Electronics, a control architecture used in KONE elevator systems.</p>",
+          "<p><strong>4. Are all KONE PC boards used for the same purpose?</strong><br>No. Different PC boards are designed for specific functions such as control processing, communication, safety monitoring or drive system operation.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a KONE elevator PC board?",
+            "answer": "A KONE elevator PC board is an electronic circuit board used within the elevator control system to support specific operational, control or communication functions."
+          },
+          {
+            "question": "What does PCB stand for in an elevator?",
+            "answer": "PCB stands for Printed Circuit Board, an electronic component used within elevator control and monitoring systems."
+          },
+          {
+            "question": "What is LCE in a KONE elevator?",
+            "answer": "LCE stands for Lift Control Electronics, a control architecture used in KONE elevator systems."
+          },
+          {
+            "question": "Are all KONE PC boards used for the same purpose?",
+            "answer": "No. Different PC boards are designed for specific functions such as control processing, communication, safety monitoring or drive system operation."
+          }
+        ],
         "items": [
           {
             "name": "Car 2 Button PC Board",
-            "code": "KOPCB01A - KM612913H07"
+            "code": "KOPCB01A - KM612913H07",
+            "alttext": "KONE Elevator Spare Parts Car 2 Button PC Board"
           },
           {
             "name": "Car 4 Button PC Board",
-            "code": "KOPCB01B - KM658810G01"
+            "code": "KOPCB01B - KM658810G01",
+            "alttext": "KONE Elevator Spare Parts Car 4 Button PC Board"
           },
           {
             "name": "Car 8 Button PC Board",
-            "code": "KOPCB01C - KM616530G01"
+            "code": "KOPCB01C - KM616530G01",
+            "alttext": "KONE Elevator Spare Parts Car 8 Button PC Board"
           },
           {
             "name": "PC Board - FCB",
-            "code": "KOPCB02 - KM713700G11"
+            "code": "KOPCB02 - KM713700G11",
+            "alttext": "KONE Elevator Spare Parts PC Board - FCB"
           },
           {
             "name": "PC Board - 385 A3",
-            "code": "KOPCB03 - KM612012G01"
+            "code": "KOPCB03 - KM612012G01",
+            "alttext": "KONE Elevator Spare Parts PC Board - 385 A3"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB04 - KM713730G01"
+            "code": "KOPCB04 - KM713730G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board - V3F16L-A1",
-            "code": "KOPCB05 - KM774150G01"
+            "code": "KOPCB05 - KM774150G01",
+            "alttext": "KONE Elevator Spare Parts PC Board - V3F16L-A1"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB06 - KM7477652G01"
+            "code": "KOPCB06 - KM7477652G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB07 - KM166628G04"
+            "code": "KOPCB07 - KM166628G04",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board - V3F25-A1",
-            "code": "KOPCB08 - KM773180G01"
+            "code": "KOPCB08 - KM773180G01",
+            "alttext": "KONE Elevator Spare Parts PC Board - V3F25-A1"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB10 - KM713180G01"
+            "code": "KOPCB10 - KM713180G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB11 - KM825950G01"
+            "code": "KOPCB11 - KM825950G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board, LCE OPT",
-            "code": "KOPCB12 - KM713150G11"
+            "code": "KOPCB12 - KM713150G11",
+            "alttext": "KONE Elevator Spare Parts PC Board, LCE OPT"
           },
           {
             "name": "PC Board, LCE-CCB",
-            "code": "KOPCB13 - KM713710G01"
+            "code": "KOPCB13 - KM713710G01",
+            "alttext": "KONE Elevator Spare Parts PC Board, LCE-CCB"
           },
           {
             "name": "Communication PC Board",
-            "code": "KOPCB14 - KM713113H04"
+            "code": "KOPCB14 - KM713113H04",
+            "alttext": "KONE Elevator Spare Parts Communication PC Board"
           },
           {
             "name": "PC Board, OPT",
-            "code": "KOPCB15 - KM713154H03"
+            "code": "KOPCB15 - KM713154H03",
+            "alttext": "KONE Elevator Spare Parts PC Board, OPT"
           },
           {
             "name": "PC Board, LCE CPU",
-            "code": "KOPCB16 - KM713100G01"
+            "code": "KOPCB16 - KM713100G01",
+            "alttext": "KONE Elevator Spare Parts PC Board, LCE CPU"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB17 - KM713930G01"
+            "code": "KOPCB17 - KM713930G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB18 - KM763600G01"
+            "code": "KOPCB18 - KM763600G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB19 - KM773380G04"
+            "code": "KOPCB19 - KM773380G04",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board, LCE CPU",
-            "code": "KOPCB20 - KM763460G01"
+            "code": "KOPCB20 - KM763460G01",
+            "alttext": "KONE Elevator Spare Parts PC Board, LCE CPU"
           },
           {
             "name": "PC Board, LCE ADO",
-            "code": "KOPCB21 - KM713160G01"
+            "code": "KOPCB21 - KM713160G01",
+            "alttext": "KONE Elevator Spare Parts PC Board, LCE ADO"
           },
           {
             "name": "PC Board, LCE230",
-            "code": "KOPCB23 - KM713120G02"
+            "code": "KOPCB23 - KM713120G02",
+            "alttext": "KONE Elevator Spare Parts PC Board, LCE230"
           },
           {
             "name": "Safety Circuit PC Board",
-            "code": "KOPCB24 - LCE230130H01"
+            "code": "KOPCB24 - LCE230130H01",
+            "alttext": "KONE Elevator Spare Parts Safety Circuit PC Board"
           },
           {
             "name": "PC Board, A2",
-            "code": "KOPCB25 - KM725800G01"
+            "code": "KOPCB25 - KM725800G01",
+            "alttext": "KONE Elevator Spare Parts PC Board, A2"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB26 - KM802890G01"
+            "code": "KOPCB26 - KM802890G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "LCE ADOE PC Board",
-            "code": "KOPCB27 - KM500065202G01"
+            "code": "KOPCB27 - KM500065202G01",
+            "alttext": "KONE Elevator Spare Parts LCE ADOE PC Board"
           },
           {
             "name": "LCERAL PC Board",
-            "code": "KOPCB28 - KM722040G01"
+            "code": "KOPCB28 - KM722040G01",
+            "alttext": "KONE Elevator Spare Parts LCERAL PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB29 - KM763610G01"
+            "code": "KOPCB29 - KM763610G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board, V3F16L-A1 A3",
-            "code": "KOPCB30 - KM769840G01"
+            "code": "KOPCB30 - KM769840G01",
+            "alttext": "KONE Elevator Spare Parts PC Board, V3F16L-A1 A3"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB31 - KM600400G01"
+            "code": "KOPCB31 - KM600400G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB32 - 398132H05"
+            "code": "KOPCB32 - 398132H05",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB33 - KM722060G01"
+            "code": "KOPCB33 - KM722060G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "LCEREC PC Board",
-            "code": "KOPCB34 - KM713140G04"
+            "code": "KOPCB34 - KM713140G04",
+            "alttext": "KONE Elevator Spare Parts LCEREC PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB35 - KM713110G01"
+            "code": "KOPCB35 - KM713110G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "Control PC Board",
-            "code": "KOPCB36 - KM165812G01"
+            "code": "KOPCB36 - KM165812G01",
+            "alttext": "KONE Elevator Spare Parts Control PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB37 - KM367409G01"
+            "code": "KOPCB37 - KM367409G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB38 - KM477647G01"
+            "code": "KOPCB38 - KM477647G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB39 - KM6054268G01"
+            "code": "KOPCB39 - KM6054268G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB40 - KM86783G01"
+            "code": "KOPCB40 - KM86783G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB41 - KM583544G01"
+            "code": "KOPCB41 - KM583544G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB42 - KM812876G01"
+            "code": "KOPCB42 - KM812876G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB43 - KM713780G12"
+            "code": "KOPCB43 - KM713780G12",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB44 - KM714140G05"
+            "code": "KOPCB44 - KM714140G05",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB45 - KM722080G01"
+            "code": "KOPCB45 - KM722080G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board, A3",
-            "code": "KOPCB46 - KM725810G01"
+            "code": "KOPCB46 - KM725810G01",
+            "alttext": "KONE Elevator Spare Parts PC Board, A3"
           },
           {
             "name": "LCEREC PC Board",
-            "code": "KOPCB47 - KM760310G01"
+            "code": "KOPCB47 - KM760310G01",
+            "alttext": "KONE Elevator Spare Parts LCEREC PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB48 - KM728500G01"
+            "code": "KOPCB48 - KM728500G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB49 - KM773390G03"
+            "code": "KOPCB49 - KM773390G03",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "LCEREC PC Board",
-            "code": "KOPCB50 - KM802870G03"
+            "code": "KOPCB50 - KM802870G03",
+            "alttext": "KONE Elevator Spare Parts LCEREC PC Board"
           },
           {
             "name": "PC Board, V3F25-A3",
-            "code": "KOPCB51 - KM853330G02"
+            "code": "KOPCB51 - KM853330G02",
+            "alttext": "KONE Elevator Spare Parts PC Board, V3F25-A3"
           },
           {
             "name": "PC Board, KDL32-A2",
-            "code": "KOPCB52 - KM887286G01"
+            "code": "KOPCB52 - KM887286G01",
+            "alttext": "KONE Elevator Spare Parts PC Board, KDL32-A2"
           },
           {
             "name": "PC Board",
-            "code": "KOPCB53 - KM937520G01"
+            "code": "KOPCB53 - KM937520G01",
+            "alttext": "KONE Elevator Spare Parts PC Board"
           },
           {
             "name": "PC Board - V3F16L-A1",
-            "code": "KOPCB05"
+            "code": "KOPCB05",
+            "alttext": "KONE Elevator Spare Parts PC Board - V3F16L-A1"
           },
           {
             "name": "PC Board - LCE CPU",
-            "code": "KOPCB16"
+            "code": "KOPCB16",
+            "alttext": "KONE Elevator Spare Parts PC Board - LCE CPU"
           },
           {
             "name": "Safety Circuit PC Board",
-            "code": "KOPCB24"
+            "code": "KOPCB24",
+            "alttext": "KONE Elevator Spare Parts Safety Circuit PC Board"
           }
         ]
       }

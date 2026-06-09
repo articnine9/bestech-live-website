@@ -441,23 +441,23 @@ const brands = [
         group_name: "Sensors",
         slug: "sensors",
         items: [
-          { name: "Leveling Sensor - 61U, 61N", code: "KOSS01" },
-          { name: "Leveling Sensor - 77U, 77N", code: "KOSS02" },
-          { name: "Leveling Sensor - BAR2000", code: "KOSS04" },
+          { name: "Levelling Sensor - 61U, 61N", code: "KOSS01" },
+          { name: "Levelling Sensor - 77U, 77N", code: "KOSS02" },
+          { name: "Levelling Sensor - BAR2000", code: "KOSS04" },
           {
-            name: "Leveling Sensor - 61U, 61N, 30S",
+            name: "Levelling Sensor - 61U, 61N, 30S",
             code: "KOSS01 - 740336 G01",
           },
           {
-            name: "Leveling Sensor - 77U, 77N, 77M, 77S",
+            name: "Levelling Sensor - 77U, 77N, 77M, 77S",
             code: "KOSS02 - 713227 G01",
           },
           {
-            name: "Leveling Sensor",
+            name: "Levelling Sensor",
             code: "KOSS03 - 86420G03",
           },
           {
-            name: "Leveling Sensor - BAR2000",
+            name: "Levelling Sensor - BAR2000",
             code: "KOSS04 - KM773350G01",
           },
         ],
