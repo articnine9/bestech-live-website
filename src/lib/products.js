@@ -4640,7 +4640,7 @@ export const products = [
         url: "/door-wheels/lift-door-eccentric-rollers",
         image: "/img/products/door-wheels/lift-door-eccentric-rollers/elevator-lift-door-eccentric-rollers-1.jpg",
         slider: ["elevator-lift-door-eccentric-rollers-1", "elevator-lift-door-eccentric-rollers-2"],
-       canonical: "https://www.bestechparts.ae/products/door-wheels/lift-door-eccentric-rollers",
+        canonical: "https://www.bestechparts.ae/products/door-wheels/lift-door-eccentric-rollers",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },

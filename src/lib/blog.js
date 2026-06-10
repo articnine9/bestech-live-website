@@ -165,6 +165,13 @@ export const blogPosts = [
     description:
       "Understand elevator door lock problems, and learn which parts to inspect first, with simple steps to reduce lift breakdown and improve safety.",
   },
+   {
+    slug: "elevator-not-working-key-electrical-parts-you-should-check-first",
+    title: "Elevator Not Working? Key Electrical Parts You Should Check First",
+    date: "2026-06-01",
+    description:
+      "Learn key electrical parts to check first and fix common lift issues quickly with simple steps and expert tips.",
+  },
 ];
 
 // Function to fetch all blog posts
