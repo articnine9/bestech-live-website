@@ -110,6 +110,11 @@ const nextConfig = {
         destination: "/products/sensors/levelling-sensor-mkf71asakx",
         permanent: true,
       },
+       {
+        source: "/products/door-wheels/door-machine-positioning-wheel",
+        destination: "/products/door-wheels/lift-door-eccentric-rollers",
+        permanent: true,
+      },
         {
         source: "/brands/mitsubishi/sensors-switches",
         destination: "/brands/mitsubishi/switches",

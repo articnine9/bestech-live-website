@@ -4634,14 +4634,13 @@ export const products = [
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "Door machine positioning wheel",
+        name: "Lift Door Eccentric Rollers",
         description: "",
         code: "BS-DW0011",
-        url: "/door-wheels/door-machine-positioning-wheel",
-        image: "/img/products/door-wheels/door-machine-positioning-wheel/elevator-door-machine-positioning-wheel-1.jpg",
-        slider: ["elevator-door-machine-positioning-wheel-1", "elevator-door-machine-positioning-wheel-2"],
-        canonical:
-          "https://www.bestechparts.ae/products/door-wheels/door-machine-positioning-wheel",
+        url: "/door-wheels/lift-door-eccentric-rollers",
+        image: "/img/products/door-wheels/lift-door-eccentric-rollers/elevator-lift-door-eccentric-rollers-1.jpg",
+        slider: ["elevator-lift-door-eccentric-rollers-1", "elevator-lift-door-eccentric-rollers-2"],
+       canonical: "https://www.bestechparts.ae/products/door-wheels/lift-door-eccentric-rollers",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
