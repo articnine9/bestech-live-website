@@ -179,9 +179,7 @@ export default async function Page(props) {
     category: category?.page_name || "",
     "offers": {
       "@type": "Offer",
-      "url": product.canonical ||
-        `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
-      "availability": "https://schema.org/InStock"
+      "priceCurrency": "AED"
     }
   };
 
