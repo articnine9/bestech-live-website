@@ -30,7 +30,7 @@ export async function generateMetadata(props) {
     const lastSegment = parts?.[parts.length - 1];
     return lastSegment?.toLowerCase() === productSlug?.toLowerCase();
   });
-
+  console.log("product", product)
   if (!product) {
     return {
       title: "Product Not Found",
@@ -164,22 +164,39 @@ export default async function Page(props) {
     name: product.name,
 
     image: product.image
-      ? `https://www.bestechparts.ae${product.image}`
-      : undefined,
+      ? [`https://www.bestechparts.ae${product.image}`]
+      : [],
 
     description:
       product.meta_description || product.name,
 
-    sku: product.code || "",
+    sku: product.code,
+
+    mpn: product.code,
 
     url:
       product.canonical ||
       `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
+    keywords: product.keywords,
+
+    brand: {
+      "@type": "Brand",
+      name: "Bestech Parts"
+    },
 
     category: category?.page_name || "",
-    "offers": {
+    offers: {
       "@type": "Offer",
-      "priceCurrency": "AED"
+      url:
+        product.canonical ||
+        `https://www.bestechparts.ae/products/${slug}/${productSlug}`,
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "100.00",
+        "priceCurrency": "AED"
+      },
+      availability: "https://schema.org/InStock",
+      itemCondition: "https://schema.org/NewCondition"
     }
   };
 
