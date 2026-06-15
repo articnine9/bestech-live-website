@@ -2751,70 +2751,129 @@
         "group_name": "Push Buttons",
         "slug": "push-buttons",
         "alttext_group": "MITSUBISHI Elevator Spare Parts Push Buttons",
+        "meta_title": "Mitsubishi Elevator Push Buttons | Spare Parts",
+        "meta_description": "Discover Mitsubishi elevator push button solutions for hall stations, car operating panels and elevator control interfaces.",
+        "keywords": "Mitsubishi Elevator Push Buttons, Mitsubishi Elevator Button Parts",
+        "paragraph_text": [
+          "<h2><strong>MITSUBISHI Elevator Push Buttons</strong></h2>",
+          "<p>Mitsubishi elevator push buttons serve as the primary interface between passengers and the elevator control system. Installed within elevator cars and at landing stations, these buttons allow passengers to place elevator calls and select travel destinations during operation.</p>",
+          "<p>Mitsubishi uses different push button designs and configurations depending on the elevator system generation and the specific application, including hall stations and car operating panels.  Push buttons may vary in size, mounting specifications and operating features across different elevator models.</p>",
+          "<h2><strong>Available Mitsubishi Elevator Push Button Options</strong></h2>",
+          "<h3><strong>HOPE Type Push Buttons</strong></h3>",
+          "<ul><li><strong>Push Button HOPE Type – Installation Hole Size: 31 × 31</strong></li>\n<li><strong>Push Button HOPE Type – Installation Hole Size: 38.5 × 32.5</strong></li></ul>",
+          "<h3><strong>Standard Push Buttons</strong></h3>",
+          "<ul><li><strong>Push Button – Installation Hole Size: Φ32.5</strong></li>\n<li><strong>Push Button – Installation Hole Size: 39 × 33</strong></li>\n<li><strong>Push Button – Installation Hole Size: Φ33</strong></li></ul>",
+          "<h3><strong>LEHY-11 Push Buttons</strong></h3>",
+          "<ul><li><strong>Push Button LEHY-11 – Installation Hole Size: Φ35</strong></li>\n<li><strong>Push Button LEHY-11 – Installation Hole Size: Φ37</strong></li></ul>",
+          "<h3><strong>Model-Specific Push Buttons</strong></h3>",
+          "<p>Available models include LHB-005B, LHB-007B, LHB-006B, LHB-051A, LHB-008B, LHB-052A, J-M5112, D51.31AG01 and J-M5497-01.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>Mitsubishi elevator push buttons help with:</p>",
+          "<ul><li><strong>Registering passenger requests</strong></li>\n<li><strong>Sending call inputs to the elevator system</strong></li>\n<li><strong>Supporting floor selection functions</strong></li>\n<li><strong>Used in hall stations and car operating panels</strong></li>\n<li><strong>Assisting passenger interaction with the elevator system</strong></li>\n<li><strong>Contributing to elevator operation</strong></li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a Mitsubishi elevator push button?</strong><br>A Mitsubishi elevator push button is a passenger interface component used to register elevator calls and floor selection requests.</p>",
+          "<p><strong>2. Where are elevator push buttons installed?</strong><br>Push buttons may be installed in hall stations outside the elevator and within the car operating panel inside the elevator car.</p>",
+          "<p><strong>3. Why are different push button sizes available?</strong><br>Different elevator models and panel designs may require specific button dimensions and mounting configurations.</p>",
+          "<p><strong>4. What is the difference between hall push buttons and car push buttons?</strong><br>Hall push buttons are used to call the elevator from a floor landing, while car push buttons are used inside the elevator car for floor selection.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a Mitsubishi elevator push button?",
+            "answer": "A Mitsubishi elevator push button is a passenger interface component used to register elevator calls and floor selection requests."
+          },
+          {
+            "question": "Where are elevator push buttons installed?",
+            "answer": "Push buttons may be installed in hall stations outside the elevator and within the car operating panel inside the elevator car."
+          },
+          {
+            "question": "Why are different push button sizes available?",
+            "answer": "Different elevator models and panel designs may require specific button dimensions and mounting configurations."
+          },
+          {
+            "question": "What is the difference between hall push buttons and car push buttons?",
+            "answer": "Hall push buttons are used to call the elevator from a floor landing, while car push buttons are used inside the elevator car for floor selection."
+          }
+        ],
         "items": [
           {
             "name": "Push Button HOPE Type - Installation Hole Size:31 X 31",
-            "code": "MIBT01 - MTD160"
+            "code": "MIBT01 - MTD160",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button HOPE Type - Installation Hole Size:31 X 31"
           },
           {
             "name": "Push Button HOPE Type - Installation Hole Size:38.5 X 32.5",
-            "code": "MIBT02 - DA182.MTD182"
+            "code": "MIBT02 - DA182.MTD182",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button HOPE Type - Installation Hole Size:38.5 X 32.5"
           },
           {
             "name": "Push Button - Installation Hole Size:Φ32.5",
-            "code": "MIBT03 - DA210G01"
+            "code": "MIBT03 - DA210G01",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button - Installation Hole Size:Φ32.5"
           },
           {
             "name": "Push Button - Installation Hole Size:39 X 33",
-            "code": "MIBT04 - BA182 MTD182"
+            "code": "MIBT04 - BA182 MTD182",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button - Installation Hole Size:39 X 33"
           },
           {
             "name": "Push Button - Installation Hole Size:Φ33",
-            "code": "MIBT05 - DA511G01"
+            "code": "MIBT05 - DA511G01",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button - Installation Hole Size:Φ33"
           },
           {
             "name": "Push Button LEHY-11 - Installation Hole Size:Φ35",
-            "code": "MIBT06 - DA482A10"
+            "code": "MIBT06 - DA482A10",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button LEHY-11 - Installation Hole Size:Φ35"
           },
           {
             "name": "Push Button LEHY-11 - Installation Hole Size:Φ37",
-            "code": "MIBT07 - P235801B000G01"
+            "code": "MIBT07 - P235801B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button LEHY-11 - Installation Hole Size:Φ37"
           },
           {
             "name": "Push Button",
-            "code": "MIBT08 - LHB-005B"
+            "code": "MIBT08 - LHB-005B",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           },
           {
             "name": "Push Button",
-            "code": "MIBT09 - LHB-007B"
+            "code": "MIBT09 - LHB-007B",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           },
           {
             "name": "Push Button",
-            "code": "MIBT10 - LHB-006B"
+            "code": "MIBT10 - LHB-006B",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           },
           {
             "name": "Push Button",
-            "code": "MIBT11 - LHB-051A"
+            "code": "MIBT11 - LHB-051A",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           },
           {
             "name": "Push Button",
-            "code": "MIBT12 - LHB-008B"
+            "code": "MIBT12 - LHB-008B",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           },
           {
             "name": "Push Button",
-            "code": "MIBT13 - LHB-052A"
+            "code": "MIBT13 - LHB-052A",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           },
           {
             "name": "Push Button",
-            "code": "MIBT14 - J-M5112"
+            "code": "MIBT14 - J-M5112",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           },
           {
             "name": "Push Button",
-            "code": "MIBT15 - D51.31AG01"
+            "code": "MIBT15 - D51.31AG01",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           },
           {
             "name": "Push Button",
-            "code": "MIBT16 - J-M5497-01"
+            "code": "MIBT16 - J-M5497-01",
+            "alttext": "Mitsubishi Elevator Spare Parts Push Button"
           }
         ]
       },
@@ -2822,94 +2881,176 @@
         "group_name": "Door Rollers,Belt Roller & Sheaves",
         "slug": "door-rollers-belt-roller-sheaves",
         "alttext_group": "MITSUBISHI Elevator Spare Parts Door Rollers,Belt Roller & Sheaves",
+        "meta_title": "Buy Mitsubishi Elevator Rollers & Sheaves | Bestech UAE",
+        "meta_description": "A range of Mitsubishi elevator door rollers, belt rollers and sheaves designed for selected elevator door and traction system applications.",
+        "keywords": "Mitsubishi Elevator door rollers, Mitsubishi Elevator belt roller, Mitsubishi Elevator sheaves",
+        "paragraph_text": [
+          "<h2><strong>Mitsubishi Elevator Door Rollers, Belt Roller & Sheaves</strong></h2>",
+          "<p>Mitsubishi elevator door rollers, belt rollers, lock rollers, door vane rollers and sheaves are used in different areas of the elevator system. Each component performs a specific role in supporting door operation, traction functions and the interaction of elevator system components.</p>",
+          "<h2><strong>1. Door Rollers</strong></h2>",
+          "<p>Door rollers are key components of the elevator door system and are used to support the movement of both car doors and landing doors. Installed within the door mechanism, these rollers help guide the door panels during opening and closing operations. Different roller sizes and configurations may be used depending on the door system design.</p>",
+          "<h3><strong>Available product options include:</strong></h3>",
+          "<ul><li><strong>Door Roller Nylon (Φ56 × 14 × 6201 / Φ72 × 15 × 6202)</strong></li>\n<li><strong>Door Roller (Φ56 × 14 × 6201 / Φ25 × 10 × M8 / Φ72 × 15 × 6202)</strong></li>\n<li><strong>Door Roller With Axle (Φ56 × 14 × M10)</strong></li>\n<li><strong>Door Down Roller With Axle (Φ72 × 15 × M10)</strong></li>\n<li><strong>Door Down Roller (Φ40 × 12 × M8 / Φ40 × 14 × M12 / Φ26 × 9.5 × M8)</strong></li>\n<li><strong>Car Door Roller (Φ84 × 18 × 6204)</strong></li></ul>",
+          "<h2><strong>2. Belt Rollers</strong></h2>",
+          "<p>Mitsubishi elevator belt rollers are associated with belt-driven traction systems and work alongside elevator belts during operation. They are used in selected elevator designs where belts form part of the traction arrangement and help support belt guidance within the system. </p>",
+          "<h3><strong>Available product options include:</strong></h3>",
+          "<ul><li><strong>Belt Roller Φ90 × 30 × Φ20 × 32</strong></li>\n<li><strong>Belt Roller Φ90 × 27 × 6201</strong></li></ul>",
+          "<h2><strong>3. Lock Rollers</strong></h2>",
+          "<p>Lock rollers are used within landing door lock assemblies and form part of the door interlock mechanism. They work alongside other door lock components and are associated with the interaction between the moving elevator car door and the landing door locking arrangement.</p>",
+          "<h3><strong>Available product options include:</strong></h3>",
+          "<ul><li><strong>Lock Roller Φ46 × 13 × (6002) Φ15</strong></li>\n<li><strong>Lock Roller Φ60 × 16 × Φ15</strong></li></ul>",
+          "<h2><strong>4. Door Vane Rollers</strong></h2>",
+          "<p>Door vane rollers are associated with the car door vane or clutch assembly. These components work with other door system parts during door operation and support the engagement process between the car door mechanism and the landing door system.</p>",
+          "<h3><strong>Available product options include:</strong></h3>",
+          "<ul><li><strong>Door Vane Roller Φ46 × 13 × Φ12 </strong></li></ul>",
+          "<h2><strong>5. Sheaves</strong></h2>",
+          "<p>Mitsubishi elevator sheaves are wheel-shaped components used within elevator traction systems. They work with elevator ropes or belts and form part of the mechanism that transfers movement from the drive system through the traction arrangement during elevator operation.</p>",
+          "<h3><strong>Available product options include:</strong></h3>",
+          "<ul><li><strong>Landing Door Linkage Sheave Φ90 × 12 × 6200</strong></li>\n<li><strong>Sheave Components Φ90 × 12 × 6200</strong></li>\n<li><strong>Door Sheave Φ90 × 12 × 6200</strong></li></ul>",
+          "<h2><strong>Additional Roller Components</strong></h2>",
+          "<ul><li><strong>Guide Shoe Roller Φ150 × 32 × 2-6203</strong></li>\n<li><strong>Roller Guide Shoe Assembly, Roller Φ195 × 38 × 2-6003, Mounting Hole Φ140 × 70</strong></li></ul>",
+          "<p><strong>Product Note:</strong> Mitsubishi elevator rollers and sheaves are available in different dimensions and configurations depending on the elevator model, door system and traction system requirements.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<div class='table-wrapper'><table class='blog-table'><thead><tr><th>Components</th><th>Functions</th></tr></thead><tbody><tr><td>Door Rollers</td><td><ol><li>1. Supporting the movement of car and landing door panels</li><li>2. Assisting door guidance during opening and closing</li><li>3. Working as part of the elevator door system</li></ol></td></tr><tr><td>Belt Rollers</td><td><ol><li>1. Supporting belt guidance applications</li><li>2. Working alongside elevator belt systems</li><li>3. Assisting traction system operation</li></ol></td></tr><tr><td>Lock Rollers</td><td><ol><li>1. Supporting landing door interlock arrangements</li><li>2. Assisting interaction between door lock components</li><li>3. Working as part of the door locking mechanism </li></ol></td></tr><tr><td>Door Vane Rollers</td><td><ol><li>1. Supporting door clutch or vane assemblies </li><li>2. Assisting door engagement functions </li><li>3. Working alongside door system components </li></ol></td></tr><tr><td>Sheaves</td><td><ol><li>1. Working with elevator ropes or belts </li><li>2. Supporting traction system operation </li><li>3. Assisting elevator movement functions </li></ol></td></tr></tbody></table></div>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is the purpose of a Mitsubishi elevator door roller?</strong><br>A Mitsubishi elevator door roller is used within the elevator door system to support the movement and guidance of car and landing door panels during opening and closing operations.</p>",
+          "<p><strong>2. What does a belt roller do in an elevator?</strong><br>A belt roller is used in selected belt-driven elevator systems and works alongside elevator belts as part of the traction arrangement.</p>",
+          "<p><strong>3. What is the difference between a door roller and a lock roller?</strong><br>A door roller is associated with the movement of elevator door panels, while a lock roller forms part of the landing door lock assembly and works with door interlock components.</p>",
+          "<p><strong>4. What is a door vane roller used for?</strong><br>A door vane roller is associated with the car door vane or clutch assembly and supports the engagement process between door system components during operation.</p>",
+          "<p><strong>5. What is a sheave in a Mitsubishi elevator?</strong><br>A sheave is a wheel-shaped component used within the elevator traction system and works with elevator ropes or belts during elevator operation.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is the purpose of a Mitsubishi elevator door roller?",
+            "answer": "A Mitsubishi elevator door roller is used within the elevator door system to support the movement and guidance of car and landing door panels during opening and closing operations."
+          },
+          {
+            "question": "What does a belt roller do in an elevator?",
+            "answer": "A belt roller is used in selected belt-driven elevator systems and works alongside elevator belts as part of the traction arrangement."
+          },
+          {
+            "question": "What is the difference between a door roller and a lock roller?",
+            "answer": "A door roller is associated with the movement of elevator door panels, while a lock roller forms part of the landing door lock assembly and works with door interlock components."
+          },
+          {
+            "question": "What is a door vane roller used for?",
+            "answer": "A door vane roller is associated with the car door vane or clutch assembly and supports the engagement process between door system components during operation."
+          },
+          {
+            "question": "What is a sheave in a Mitsubishi elevator?",
+            "answer": "A sheave is a wheel-shaped component used within the elevator traction system and works with elevator ropes or belts during elevator operation."
+          }
+        ],
         "items": [
           {
             "name": "Door Roller Nylon Φ56 X 14 X 6201",
-            "code": "MIWR01"
+            "code": "MIWR01",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Roller Nylon Φ56 X 14 X 6201"
           },
           {
             "name": "Door Roller Φ56 X 14 X 6201",
-            "code": "MIWR02"
+            "code": "MIWR02",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Roller Φ56 X 14 X 6201"
           },
           {
             "name": "Door Roller With Axle Φ56 X 14 X M10",
-            "code": "MIWR03"
+            "code": "MIWR03",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Roller With Axle Φ56 X 14 X M10"
           },
           {
             "name": "Door Roller, Φ25 X 10 X M8",
-            "code": "MIWR04"
+            "code": "MIWR04",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Roller, Φ25 X 10 X M8"
           },
           {
             "name": "Door Roller Φ72 X 15 X 6202",
-            "code": "MIWR09"
+            "code": "MIWR09",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Roller Φ72 X 15 X 6202"
           },
           {
             "name": "Door Roller, Nylon, Φ72 X 15 X 6202",
-            "code": "MIWR10"
+            "code": "MIWR10",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Roller, Nylon, Φ72 X 15 X 6202"
           },
           {
             "name": "Door Down Roller With Axle Φ72 X 15 X M10",
-            "code": "MIWR05"
+            "code": "MIWR05",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Down Roller With Axle Φ72 X 15 X M10"
           },
           {
             "name": "Door Down Roller, Φ40 X 12 X M8",
-            "code": "MIWR06"
+            "code": "MIWR06",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Down Roller, Φ40 X 12 X M8"
           },
           {
             "name": "Door Down Roller, Φ40 X 14 X M12",
-            "code": "MIWR07"
+            "code": "MIWR07",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Down Roller, Φ40 X 14 X M12"
           },
           {
             "name": "Door Down Roller, Φ26 X 9.5 X M8",
-            "code": "MIWR08"
+            "code": "MIWR08",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Down Roller, Φ26 X 9.5 X M8"
           },
           {
             "name": "Car Door Roller, Φ84 X 18 X 6204",
-            "code": "MIWR11"
+            "code": "MIWR11",
+            "alttext": "Mitsubishi Elevator Spare Parts Car Door Roller, Φ84 X 18 X 6204"
           },
           {
             "name": "Guide Shoe Roller Φ150 X 32 X 2-6203",
-            "code": "MIVR24"
+            "code": "MIVR24",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Roller Φ150 X 32 X 2-6203"
           },
           {
             "name": "Belt Roller,Φ90 X 30 X Φ20 X 32",
-            "code": "MIWR12"
+            "code": "MIWR12",
+            "alttext": "Mitsubishi Elevator Spare Parts Belt Roller,Φ90 X 30 X Φ20 X 32"
           },
           {
             "name": "Belt Roller,Φ90 X 30 X Φ20 X 32",
-            "code": "MIVR13"
+            "code": "MIVR13",
+            "alttext": "Mitsubishi Elevator Spare Parts Belt Roller,Φ90 X 30 X Φ20 X 32"
           },
           {
             "name": "Belt Roller, Φ90 X 27 X 6201",
-            "code": "MIVR14"
+            "code": "MIVR14",
+            "alttext": "Mitsubishi Elevator Spare Parts Belt Roller, Φ90 X 27 X 6201"
           },
           {
             "name": "Landing Door Linkage Sheave, Φ90 X 12 X 6200",
-            "code": "MIVR15"
+            "code": "MIVR15",
+            "alttext": "Mitsubishi Elevator Spare Parts Landing Door Linkage Sheave, Φ90 X 12 X 6200"
           },
           {
             "name": "Sheave Components, Φ90 X 12 X 6200",
-            "code": "MIVR16"
+            "code": "MIVR16",
+            "alttext": "Mitsubishi Elevator Spare Parts Sheave Components, Φ90 X 12 X 6200"
           },
           {
             "name": "Door Sheave, Φ90 X 12 X 6200",
-            "code": "MIVR17"
+            "code": "MIVR17",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Sheave, Φ90 X 12 X 6200"
           },
           {
             "name": "Lock Roller, Φ46 X 13 X (6002)Φ15",
-            "code": "MIVR19"
+            "code": "MIVR19",
+            "alttext": "Mitsubishi Elevator Spare Parts Lock Roller, Φ46 X 13 X (6002)Φ15"
           },
           {
             "name": "Lock Roller, Φ60 X 16 X Φ15",
-            "code": "MIVR21"
+            "code": "MIVR21",
+            "alttext": "Mitsubishi Elevator Spare Parts Lock Roller, Φ60 X 16 X Φ15"
           },
           {
             "name": "Door Vane Roller, Φ46 X 13 X Φ12",
-            "code": "MIVR20"
+            "code": "MIVR20",
+            "alttext": "Mitsubishi Elevator Spare Parts Door Vane Roller, Φ46 X 13 X Φ12"
           },
           {
             "name": "Roller Guide Shoe Assembly, Roller:Φ195 X 38 X 2-6003, Mouting Hole:Φ140 X 70",
-            "code": "MIVR26 - PB226"
+            "code": "MIVR26 - PB226",
+            "alttext": "Mitsubishi Elevator Spare Parts Roller Guide Shoe Assembly, Roller:Φ195 X 38 X 2-6003, Mouting Hole:Φ140 X 70"
           }
         ]
       },
@@ -2917,76 +3058,137 @@
         "group_name": "Guide Shoes",
         "slug": "guide-shoes",
         "alttext_group": "MITSUBISHI Elevator Spare Parts Guide Shoes",
+        "meta_title": "Mitsubishi Elevator Guide Shoes & Guide Shoe Inserts",
+        "meta_description": "Find Mitsubishi elevator guide shoes, guide shoe inserts, guide shoe rollers and guide shoe assemblies for various elevator applications.",
+        "keywords": "Mitsubishi Elevator Guide Shoes, Mitsubishi Guide Shoe Inserts, Elevator Guide Shoe Assemblies UAE",
+        "paragraph_text": [
+          "<h2><strong>Mitsubishi Elevator Guide Shoes</strong></h2>",
+          "<p>Mitsubishi elevator guide shoes are components used within the elevator guidance system and work alongside guide rails during elevator operation. The category includes guide shoe inserts, guide shoe assemblies and guide shoe rollers designed for selected Mitsubishi elevator applications.</p>",
+          "<p>Guide shoe components are available in different sizes and configurations depending on the elevator model and system requirements.</p>",
+          "<h2><strong>1. Mitsubishi Guide Shoe Inserts</strong></h2>",
+          "<p>Mitsubishi guide shoe inserts are installed within guide shoe assemblies and work alongside elevator guide rails during operation. Different insert dimensions are available to suit various guide shoe configurations.</p>",
+          "<h3><strong>Available product options include:</strong></h3>",
+          "<p>Guide Shoe Insert (One 230 × 35 × 8, Two 230 × 30 × 12.5), Guide Shoe Insert (One 230 × 35 × 9, Two 230 × 30 × 9), Guide Shoe Insert (120 × 16), Guide Shoe Insert (120 × 10), Guide Shoe Insert (120 × 27 × 9) and Head of Guide Shoe Insert (86 × 18).</p>",
+          "<h2><strong>2. Mitsubishi Guide Shoe Assemblies</strong></h2>",
+          "<p>Mitsubishi elevator guide shoe assemblies are used as part of the elevator guidance arrangement and are available in different dimensions and mounting configurations for selected elevator systems.</p>",
+          "<h3><strong>Available product options include:</strong></h3>",
+          "<p>Guide Shoe Assembly (86 × 18/12), Guide Shoe Assembly (230 × 10/16), Guide Shoe Assembly (86 × 18/12, Mounting Hole: 68), Guide Shoe Assembly (230 × 10/16, Mounting Hole: 150 × 100), Guide Shoe Assembly (120 × 10/16, Mounting Hole: 90) and Roller Guide Shoe Assembly (Roller: Φ195 × 38 × 2-6003, Mounting Hole: Φ140 × 70).</p>",
+          "<h2><strong>3. Mitsubishi Guide Shoe Rollers</strong></h2>",
+          "<p>Mitsubishi guide shoe rollers are used within roller-type guide shoe arrangements and are available in different roller dimensions for selected elevator applications.</p>",
+          "<h3><strong>Available product options include:</strong></h3>",
+          "<p>Guide Shoe Roller (Φ80 × 26.5 × 6203), Guide Shoe Roller (Φ260 × 32 × Φ52), Guide Shoe Roller (Φ150 × 32 × 2-6203) and Guide Shoe Roller (Φ195 × 38 × 2-6003).</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<div class='table-wrapper'><table class='blog-table'><thead><tr><th>Components</th><th>Functions</th></tr></thead><tbody><tr><td>Guide Shoe Inserts</td><td>Installed within guide shoe assemblies and form part of the guide shoe contact arrangement. </td></tr><tr><td>Guide Shoe Assemblies</td><td>Used as a complete guide shoe unit and provide the housing for guide shoe inserts or rollers.</ol></td></tr><tr><td>Guide Shoe Rollers</td><td>Used in roller-type guide shoe systems and work with guide rails during elevator operation.</td></tr></tbody></table></div>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a Mitsubishi elevator guide shoe?</strong><br>A Mitsubishi elevator guide shoe is a component used within the elevator guidance system and works alongside the guide rails during operation.</p>",
+          "<p><strong>2. What is the purpose of a guide shoe insert?</strong><br>A guide shoe insert is installed within a guide shoe assembly and forms part of the guide shoe arrangement used in the elevator system.</p>",
+          "<p><strong>3. What is the difference between a guide shoe assembly and a guide shoe insert?</strong><br>A guide shoe assembly is the complete guide shoe unit, while the guide shoe insert is a component used within the assembly.</p>",
+          "<p><strong>4. What are guide shoe rollers used for?</strong><br>Guide shoe rollers are used in roller-type guide shoe arrangements and work alongside elevator guide rails during operation.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a Mitsubishi elevator guide shoe?",
+            "answer": "A Mitsubishi elevator guide shoe is a component used within the elevator guidance system and works alongside the guide rails during operation."
+          },
+          {
+            "question": "What is the purpose of a guide shoe insert?",
+            "answer": "A guide shoe insert is installed within a guide shoe assembly and forms part of the guide shoe arrangement used in the elevator system."
+          },
+          {
+            "question": "What is the difference between a guide shoe assembly and a guide shoe insert?",
+            "answer": "A guide shoe assembly is the complete guide shoe unit, while the guide shoe insert is a component used within the assembly."
+          },
+          {
+            "question": "What are guide shoe rollers used for?",
+            "answer": "Guide shoe rollers are used in roller-type guide shoe arrangements and work alongside elevator guide rails during operation."
+          }
+        ],
         "items": [
           {
             "name": "Guide Shoe Insert, One 230 X 35 X 8, Two 230 X 30 X 12.5",
-            "code": "MIGS01"
+            "code": "MIGS01",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Insert, One 230 X 35 X 8, Two 230 X 30 X 12.5"
           },
           {
             "name": "Guide Shoe Insert, One 230 X 35 X 9, Two 230 X 30 X 9",
-            "code": "MIGS02"
+            "code": "MIGS02",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Insert, One 230 X 35 X 9, Two 230 X 30 X 9"
           },
           {
             "name": "Guide Shoe Insert, 120 X 16",
-            "code": "MIGS03"
+            "code": "MIGS03",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Insert, 120 X 16"
           },
           {
             "name": "Guide Shoe Insert, 120 X 10",
-            "code": "MIGS04"
+            "code": "MIGS04",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Insert, 120 X 10"
           },
           {
             "name": "Guide Shoe Insert, 120 X 27 X 9",
-            "code": "MIGS05"
+            "code": "MIGS05",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Insert, 120 X 27 X 9"
           },
           {
             "name": "Guide Shoe Assembly 86 X 18/12",
-            "code": "MIGS07"
+            "code": "MIGS07",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Assembly 86 X 18/12"
           },
           {
             "name": "Guide Shoe Assembly 230 X 10/16",
-            "code": "MIGS08"
+            "code": "MIGS08",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Assembly 230 X 10/16"
           },
           {
             "name": "Guide Shoe Assembly, 86 X 18/12, Mounting Hole:68",
-            "code": "MIGS07"
+            "code": "MIGS07",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Assembly, 86 X 18/12, Mounting Hole:68"
           },
           {
             "name": "Guide Shoe Assembly, 230 X 10/16, Mounting Hole:150 X 100",
-            "code": "MIGS08"
+            "code": "MIGS08",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Assembly, 230 X 10/16, Mounting Hole:150 X 100"
           },
           {
             "name": "Guide Shoe Assembly, 120 X 10/16, Mounting Hole:90",
-            "code": "MIGS09"
+            "code": "MIGS09",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Assembly, 120 X 10/16, Mounting Hole:90"
           },
           {
             "name": "Guide Shoe Roller, Φ80 X 26.5 X 6203",
-            "code": "MIVR22"
+            "code": "MIVR22",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Roller, Φ80 X 26.5 X 6203"
           },
           {
             "name": "Guide Shoe Roller, Φ260 X 32 X Φ52",
-            "code": "MIVR23"
+            "code": "MIVR23",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Roller, Φ260 X 32 X Φ52"
           },
           {
             "name": "Guide Shoe Roller, Φ150 X 32 X 2-6203",
-            "code": "MIVR24"
+            "code": "MIVR24",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Roller, Φ150 X 32 X 2-6203"
           },
           {
             "name": "Guide Shoe Roller, Φ195 X 38 X 2-6003",
-            "code": "MIVR25"
+            "code": "MIVR25",
+            "alttext": "Mitsubishi Elevator Spare Parts Guide Shoe Roller, Φ195 X 38 X 2-6003"
           },
           {
             "name": "Head Of Guide Shoe Insert, 86 X 18",
-            "code": "MIGS06"
+            "code": "MIGS06",
+            "alttext": "Mitsubishi Elevator Spare Parts Head Of Guide Shoe Insert, 86 X 18"
           },
           {
             "name": "Roller Guide Shoe Assembly, Roller:Φ195 X 38 X 2-6003, Mouting Hole:Φ140 X 70",
-            "code": "MIVR26 - PB226"
+            "code": "MIVR26 - PB226",
+            "alttext": "Mitsubishi Elevator Spare Parts Roller Guide Shoe Assembly, Roller:Φ195 X 38 X 2-6003, Mouting Hole:Φ140 X 70"
           }
         ]
       },
       {
         "group_name": "Catch Plate & Damping Pad",
-        "slug": "car-door-hanger",
+        "slug": "catch-plate-damping-pad",
         "alttext_group": "MITSUBISHI Elevator Spare Parts Catch Plate & Damping Pad",
         "items": [
           {

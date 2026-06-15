@@ -1119,7 +1119,7 @@ const brands = [
       },
       {
         group_name: "Catch Plate & Damping Pad",
-        slug: "car-door-hanger",
+        slug: "catch-plate-damping-pad",
         items: [
           {
             name: "Ceiling Catch Plate",

@@ -129,6 +129,11 @@ const nextConfig = {
         source: "/brands/mitsubishi/contator-filter",
         destination: "/brands/mitsubishi/contactor-filter",
         permanent: true,
+      },
+       {
+        source: "/brands/mitsubishi/car-door-hanger",
+        destination: "/brands/mitsubishi/catch-plate-damping-pad",
+        permanent: true,
       }
 
 

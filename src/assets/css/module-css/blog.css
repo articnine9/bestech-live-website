@@ -31,6 +31,23 @@
   background-color: #f2f2f2;
 }
 
+.blog-table td ol {
+  margin: 0;
+  padding: 0 !important;
+  list-style: none;
+}
+
+.blog-table td ol li {
+  display: block;
+  width: 100%;
+  padding: 8px 0 !important;
+  border-bottom: 1px solid #ddd;
+}
+
+.blog-table td ol li:last-child {
+  border-bottom: none;
+}
+
 .blog-one__pattern {
   position: absolute;
   top: 0;
