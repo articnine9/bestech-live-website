@@ -1243,8 +1243,8 @@ const brands = [
         slug: "sensors",
         items: [
           
-          { name: "Leveling Sensor", code: "MISS05 - YG-25" },
-          { name: "Leveling Sensor", code: "MISS06 - PAD-1" },
+          { name: "Levelling Sensor", code: "MISS05 - YG-25" },
+          { name: "Levelling Sensor", code: "MISS06 - PAD-1" },
           { name: "Magnetic Sensor", code: "MISS07 - ADS-51M" },
           { name: "Magnetic Sensor", code: "MISS10A - KCB-III" },
           { name: "Magnetic Sensor", code: "MISS11 - YG-29" },
