@@ -2151,21 +2151,21 @@ const brands = [
         slug: "sensors",
         items: [
           { name: "Photo & Proximity Sensor", code: "OTSS20–22" },
-          { name: "Leveling & Speed Sensor", code: "OTSS23–30" },
+          { name: "Levelling & Speed Sensor", code: "OTSS23–30" },
           {
-            name: "GLS126 Leveling Sensor,NO/NC",
+            name: "GLS126 Levelling Sensor,NO/NC",
             code: "OTSS19 - XAA177AZ4",
           },
           {
-            name: "Leveling Sensor",
+            name: "Levelling Sensor",
             code: "OTSS23 - SGD-ADS-1",
           },
           {
-            name: "Leveling Sensor",
+            name: "Levelling Sensor",
             code: "OTSS24 - SGD-ADS-2",
           },
           {
-            name: "Leveling Sensor",
+            name: "Levelling Sensor",
             code: "OTSS25 - SGD-100A",
           },
           {
@@ -2181,15 +2181,15 @@ const brands = [
             code: "OTSS22 - MPS-1600-OTIS",
           },
           {
-            name: "Leveling Sensor",
+            name: "Levelling Sensor",
             code: "OTSS27 - SH-ADS-B",
           },
           {
-            name: "Leveling Sensor",
+            name: "Levelling Sensor",
             code: "OTSS29 - SGD-3EF",
           },
           {
-            name: "Leveling Sensor",
+            name: "Levelling Sensor",
             code: "OTSS30 - SSGD-2LM(S)",
           },
           {
@@ -4027,15 +4027,15 @@ const brands = [
         slug: "sensors-switches",
         items: [
           {
-            name: "Leveling Sensor,CEDES/GLS/TK",
+            name: "Levelling Sensor,CEDES/GLS/TK",
             code: "THSS01 - 103 989",
           },
           {
-            name: "Leveling Sensor,LK-LN",
+            name: "Levelling Sensor,LK-LN",
             code: "THSS02 - 13 F 506",
           },
           {
-            name: "Leveling Sensor,Autonics",
+            name: "Levelling Sensor,Autonics",
             code: "THSS03 - BUP-30S",
           },
           {
