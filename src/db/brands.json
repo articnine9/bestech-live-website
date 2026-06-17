@@ -4381,630 +4381,823 @@
         "group_name": "PC Boards",
         "slug": "pc-boards",
         "alttext_group": "MITSUBISHI Elevator Spare Parts PC Boards",
+        "meta_title": "Buy Mitsubishi Elevator PC Board Parts UAE | Bestech",
+        "meta_description": "Find Mitsubishi elevator PC boards and electronic control board parts for selected elevator systems and replacement requirements.",
+        "keywords": "Mitsubishi Elevator PC Boards, Mitsubishi Elevator PCB Boards, Elevator PC Board Parts UAE",
+        "paragraph_text": [
+          "<h2><strong>MITSUBISHI Elevator PC Boards</strong></h2>",
+          "<p>Mitsubishi elevator PC boards (Printed Circuit Boards) are electronic components used within elevator control, communication and monitoring systems. These boards contain the circuitry, processors and electronic components responsible for supporting various elevator functions, including system control, signal processing, communication and operational management.</p>",
+          "<p>As the electronic control centre of the elevator system, Mitsubishi elevator PCB boards are used across different applications depending on the elevator model and system requirements. The available range includes multiple PC board series and configurations designed for selected Mitsubishi elevator systems.</p>",
+          "<h2><strong>Available Mitsubishi Elevator PC Board Types</strong></h2>",
+          "<p>The Mitsubishi elevator PC board range includes various electronic boards associated with control, communication, monitoring and operating functions within elevator systems. Available categories include:</p>",
+          "<ul><li>Mitsubishi Lift Controller Boards</li><li>Mitsubishi Communication Boards</li><li>Mitsubishi Command Boards</li><li>Mitsubishi Motherboards</li><li>Mitsubishi Power Supply Boards</li><li>Mitsubishi Car Top Boards (CTB)</li><li>Mitsubishi COP Command Boards</li><li>Mitsubishi Group Control Boards</li><li>Mitsubishi Hall Indicator Boards</li><li>Mitsubishi Arrival Gong Boards</li><li>Mitsubishi UCMP Safety Boards</li></ul>",
+          "<p><strong>Product Note:</strong> Mitsubishi elevator PC boards are available in different configurations and specifications depending on the elevator model and system requirements.</p>",
+          "<h2><strong>Functions</strong></h2>",
+          "<p>Mitsubishi elevator PC boards support various electronic functions within elevator systems, including control, communication, passenger interface, monitoring, indication and safety-related applications. The specific function of each board depends on its design and intended system application.</p>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a Mitsubishi elevator PC board?</strong><br>A Mitsubishi elevator PC board is an electronic circuit board used within the elevator system to support control, communication and operational functions.</p>",
+          "<p><strong>2. What information should be checked before replacing a PC board?</strong><br>The existing board number, model reference and elevator system details should be verified before selecting a replacement PC board.</p>",
+          "<p><strong>3. Why is the board number important when selecting a replacement?</strong><br>The board number helps identify the correct PC board configuration and compatibility with the existing elevator system.</p>",
+          "<p><strong>4. Do PC boards only control elevator movement?</strong><br>No. In addition to control-related functions, PC boards may also support communication, passenger interface, indication and monitoring applications depending on the board type.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a Mitsubishi elevator PC board?",
+            "answer": "A Mitsubishi elevator PC board is an electronic circuit board used within the elevator system to support control, communication and operational functions."
+          },
+          {
+            "question": "What information should be checked before replacing a PC board?",
+            "answer": "The existing board number, model reference and elevator system details should be verified before selecting a replacement PC board."
+          },
+          {
+            "question": "Why is the board number important when selecting a replacement?",
+            "answer": "The board number helps identify the correct PC board configuration and compatibility with the existing elevator system."
+          },
+          {
+            "question": "Do PC boards only control elevator movement?",
+            "answer": "No. In addition to control-related functions, PC boards may also support communication, passenger interface, indication and monitoring applications depending on the board type."
+          }
+        ],
         "items": [
           {
             "name": "PC Board A904701B000G01",
-            "code": "MIPCB01"
+            "code": "MIPCB01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board A904701B000G01 MIPCB01"
           },
           {
             "name": "Circuit PC Board DOR-122C",
-            "code": "MIPCB02"
+            "code": "MIPCB02",
+            "alttext": "Mitsubishi Elevator Spare Parts Circuit PC Board DOR-122C MIPCB02"
           },
           {
             "name": "PC Board DOR-160D",
-            "code": "MIPCB03"
+            "code": "MIPCB03",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-160D MIPCB03"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB04 - DOR-430A"
+            "code": "MIPCB04 - DOR-430A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-430A MIPCB04"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB05 - DOR-565"
+            "code": "MIPCB05 - DOR-565",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-565 MIPCB05"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB06 - DOR-590A"
+            "code": "MIPCB06 - DOR-590A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-590A MIPCB06"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB07 - DOR-710B"
+            "code": "MIPCB07 - DOR-710B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-710B MIPCB07"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB08 - DOR-1202A"
+            "code": "MIPCB08 - DOR-1202A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-1202A MIPCB08"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB09 - DOR-1215A"
+            "code": "MIPCB09 - DOR-1215A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-1215A MIPCB09"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB10 - DOR-1231B"
+            "code": "MIPCB10 - DOR-1231B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-1231B MIPCB10"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB11 - J631704B000G01"
+            "code": "MIPCB11 - J631704B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board J631704B000G01 MIPCB11"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB12 - KCA-1020C"
+            "code": "MIPCB12 - KCA-1020C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-1020C MIPCB12"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB13 - KCA-1081B"
+            "code": "MIPCB13 - KCA-1081B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-1081B MIPCB13"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB14 - KCA-1130D"
+            "code": "MIPCB14 - KCA-1130D",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-1130D MIPCB14"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB15 - KCA-1150A"
+            "code": "MIPCB15 - KCA-1150A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-1150A MIPCB15"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB16 - KCA-1160A"
+            "code": "MIPCB16 - KCA-1160A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-1160A MIPCB16"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB17 - KCA-1190A"
+            "code": "MIPCB17 - KCA-1190A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-1190A MIPCB17"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB18 - KCB-750A"
+            "code": "MIPCB18 - KCB-750A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCB-750A MIPCB18"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB19 - KCC-400C"
+            "code": "MIPCB19 - KCC-400C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCC-400C MIPCB19"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB20 - KCC-801A"
+            "code": "MIPCB20 - KCC-801A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCC-801A MIPCB20"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB21 - KCC-1001C"
+            "code": "MIPCB21 - KCC-1001C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCC-1001C MIPCB21"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB22 - KCD-701C"
+            "code": "MIPCB22 - KCD-701C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-701C MIPCB22"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB23 - KCD-760A"
+            "code": "MIPCB23 - KCD-760A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-760A MIPCB23"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB24 - KCD-1001B"
+            "code": "MIPCB24 - KCD-1001B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-1001B MIPCB24"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB25 - KCD-1001C"
+            "code": "MIPCB25 - KCD-1001C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-1001C MIPCB25"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB26 - KCD-1011A"
+            "code": "MIPCB26 - KCD-1011A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-1011A MIPCB26"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB27 - KCD-1013D"
+            "code": "MIPCB27 - KCD-1013D",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-1013D MIPCB27"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB28 - KCD-1050C"
+            "code": "MIPCB28 - KCD-1050C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-1050C MIPCB28"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB29 - KCD-1161A"
+            "code": "MIPCB29 - KCD-1161A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-1161A MIPCB29"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB30 - KCJ-400A"
+            "code": "MIPCB30 - KCJ-400A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCJ-400A MIPCB30"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB31 - KCJ-420C"
+            "code": "MIPCB31 - KCJ-420C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCJ-420C MIPCB31"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB32 - KCN-760A"
+            "code": "MIPCB32 - KCN-760A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCN-760A MIPCB32"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB33 - KCN-920A"
+            "code": "MIPCB33 - KCN-920A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCN-920A MIPCB33"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB34 - KCN-1000A"
+            "code": "MIPCB34 - KCN-1000A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCN-1000A MIPCB34"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB35 - KCR-630A"
+            "code": "MIPCB35 - KCR-630A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-630A MIPCB35"
           },
           {
             "name": "PC Board, GPS-3",
-            "code": "MIPCB36 - KCR-746A"
+            "code": "MIPCB36 - KCR-746A",
+            "alttext": "Mitsubishi Elevator Spare Parts GPS-3 PC Board KCR-746A MIPCB36"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB37 - KCR-750D"
+            "code": "MIPCB37 - KCR-750D",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-750D MIPCB37"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB38 - KCR-752D"
+            "code": "MIPCB38 - KCR-752D",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-752D MIPCB38"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB39 - KCR-816A"
+            "code": "MIPCB39 - KCR-816A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-816A MIPCB39"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB40 - KCR-870A"
+            "code": "MIPCB40 - KCR-870A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-870A MIPCB40"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB41 - KCR-905A"
+            "code": "MIPCB41 - KCR-905A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-905A MIPCB41"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB42 - KCR-907A"
+            "code": "MIPCB42 - KCR-907A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-907A MIPCB42"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB43 - KCR-910C"
+            "code": "MIPCB43 - KCR-910C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-910C MIPCB43"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB44 - KCR-916C"
+            "code": "MIPCB44 - KCR-916C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-916C MIPCB44"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB45 - KCR-940A"
+            "code": "MIPCB45 - KCR-940A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-940A MIPCB45"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB46 - KCR-943A"
+            "code": "MIPCB46 - KCR-943A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-943A MIPCB46"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB47 - KCR-948A"
+            "code": "MIPCB47 - KCR-948A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-948A MIPCB47"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB48 - KCR-950A"
+            "code": "MIPCB48 - KCR-950A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-950A MIPCB48"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB49 - KCR-965A"
+            "code": "MIPCB49 - KCR-965A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-965A MIPCB49"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB50 - KCR-976A"
+            "code": "MIPCB50 - KCR-976A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-976A MIPCB50"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB51 - KCR-1013E"
+            "code": "MIPCB51 - KCR-1013E",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-1013E MIPCB51"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB52 - KCR-1020C"
+            "code": "MIPCB52 - KCR-1020C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-1020C MIPCB52"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB53 - KCR-1050A"
+            "code": "MIPCB53 - KCR-1050A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-1050A MIPCB53"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB54 - KCR-1120A"
+            "code": "MIPCB54 - KCR-1120A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-1120A MIPCB54"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB55 - KCZ-532A"
+            "code": "MIPCB55 - KCZ-532A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-532A MIPCB55"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB56 - KCZ-771A"
+            "code": "MIPCB56 - KCZ-771A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-771A MIPCB56"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB57 - KCZ-774A"
+            "code": "MIPCB57 - KCZ-774A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-774A MIPCB57"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB58 - KCZ-810A"
+            "code": "MIPCB58 - KCZ-810A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-810A MIPCB58"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB59 - KCZ-900A"
+            "code": "MIPCB59 - KCZ-900A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-900A MIPCB59"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB60 - KCZ-910A"
+            "code": "MIPCB60 - KCZ-910A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-910A MIPCB60"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB61 - KCZ-1203A"
+            "code": "MIPCB61 - KCZ-1203A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-1203A MIPCB61"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB62 - KCZ-1230A"
+            "code": "MIPCB62 - KCZ-1230A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-1230A MIPCB62"
           },
           {
             "name": "Button PC Board",
-            "code": "MIPCB63 - LHB-056G06"
+            "code": "MIPCB63 - LHB-056G06",
+            "alttext": "Mitsubishi Elevator Spare Parts Button PC Board LHB-056G06 MIPCB63"
           },
           {
             "name": "Button PC Board",
-            "code": "MIPCB64 - LHB-058G08"
+            "code": "MIPCB64 - LHB-058G08",
+            "alttext": "Mitsubishi Elevator Spare Parts Button PC Board LHB-058G08 MIPCB64"
           },
           {
             "name": "Button PC Board",
-            "code": "MIPCB65 - LHS-1000A"
+            "code": "MIPCB65 - LHS-1000A",
+            "alttext": "Mitsubishi Elevator Spare Parts Button PC Board LHS-1000A MIPCB65"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB66 - KCZ-990A"
+            "code": "MIPCB66 - KCZ-990A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-990A MIPCB66"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB67 - LHH-1010B"
+            "code": "MIPCB67 - LHH-1010B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LHH-1010B MIPCB67"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB68 - LHH-1020C"
+            "code": "MIPCB68 - LHH-1020C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LHH-1020C MIPCB68"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB69 - LHS-320A"
+            "code": "MIPCB69 - LHS-320A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LHS-320A MIPCB69"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB70 - LIN-612A"
+            "code": "MIPCB70 - LIN-612A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LIN-612A MIPCB70"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB71 - MEP-351A"
+            "code": "MIPCB71 - MEP-351A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board MEP-351A MIPCB71"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB72 - P203710B000"
+            "code": "MIPCB72 - P203710B000",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203710B000 MIPCB72"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB73 - P203718B000G03"
+            "code": "MIPCB73 - P203718B000G03",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203718B000G03 MIPCB73"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB74 - P203729B000G01"
+            "code": "MIPCB74 - P203729B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203729B000G01 MIPCB74"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB75 - P203730B000G01"
+            "code": "MIPCB75 - P203730B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203730B000G01 MIPCB75"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB76 - P203735B000G01"
+            "code": "MIPCB76 - P203735B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203735B000G01 MIPCB76"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB77 - P203737B000G01"
+            "code": "MIPCB77 - P203737B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203737B000G01 MIPCB77"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB78 - KCW-350A"
+            "code": "MIPCB78 - KCW-350A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCW-350A MIPCB78"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB79 - P203741B000G01"
+            "code": "MIPCB79 - P203741B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203741B000G01 MIPCB79"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB80 - P203744B000G01"
+            "code": "MIPCB80 - P203744B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203744B000G01 MIPCB80"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB81 - P203745B000G02"
+            "code": "MIPCB81 - P203745B000G02",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203745B000G02 MIPCB81"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB82 - P203746B000G01"
+            "code": "MIPCB82 - P203746B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203746B000G01 MIPCB82"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB83 - P203758B000G02L01"
+            "code": "MIPCB83 - P203758B000G02L01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203758B000G02L01 MIPCB83"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB84 - P203758B000G03L01"
+            "code": "MIPCB84 - P203758B000G03L01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203758B000G03L01 MIPCB84"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB85 - P208705B000G01"
+            "code": "MIPCB85 - P208705B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P208705B000G01 MIPCB85"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB86 - P203768B000G03"
+            "code": "MIPCB86 - P203768B000G03",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203768B000G03 MIPCB86"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB87 - P213703B000G01"
+            "code": "MIPCB87 - P213703B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P213703B000G01 MIPCB87"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB88 - P214701B000G02"
+            "code": "MIPCB88 - P214701B000G02",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P214701B000G02 MIPCB88"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB89 - P231708B000G01"
+            "code": "MIPCB89 - P231708B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P231708B000G01 MIPCB89"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB90 - P231709B000G03"
+            "code": "MIPCB90 - P231709B000G03",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P231709B000G03 MIPCB90"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB91 - P235707B000G01"
+            "code": "MIPCB91 - P235707B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235707B000G01 MIPCB91"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB92 - P235715B000G01"
+            "code": "MIPCB92 - P235715B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235715B000G01 MIPCB92"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB93 - P235716B000G01"
+            "code": "MIPCB93 - P235716B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235716B000G01 MIPCB93"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB94 - P235717B000G14L01"
+            "code": "MIPCB94 - P235717B000G14L01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235717B000G14L01 MIPCB94"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB95 - P235719B000G11"
+            "code": "MIPCB95 - P235719B000G11",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235719B000G11 MIPCB95"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB96 - P235720B000G33"
+            "code": "MIPCB96 - P235720B000G33",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235720B000G33 MIPCB96"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB97 - P235752B000G01"
+            "code": "MIPCB97 - P235752B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235752B000G01 MIPCB97"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB98 - P266701B000G01"
+            "code": "MIPCB98 - P266701B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P266701B000G01 MIPCB98"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB99 - P280702B000G01"
+            "code": "MIPCB99 - P280702B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P280702B000G01 MIPCB99"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB100 - P366712B000G01"
+            "code": "MIPCB100 - P366712B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P366712B000G01 MIPCB100"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB101 - P366718B000G02"
+            "code": "MIPCB101 - P366718B000G02",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P366718B000G02 MIPCB101"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB102 - X59LX-95"
+            "code": "MIPCB102 - X59LX-95",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board X59LX-95 MIPCB102"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB103 - P203703B000G02"
+            "code": "MIPCB103 - P203703B000G02",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203703B000G02 MIPCB103"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB104 - P235705C"
+            "code": "MIPCB104 - P235705C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235705C MIPCB104"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB105 - P203713B000G11"
+            "code": "MIPCB105 - P203713B000G11",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203713B000G11 MIPCB105"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB106 - P203721B000G01"
+            "code": "MIPCB106 - P203721B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203721B000G01 MIPCB106"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB107 - P203722B000G01"
+            "code": "MIPCB107 - P203722B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203722B000G01 MIPCB107"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB108 - LHS-200B"
+            "code": "MIPCB108 - LHS-200B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LHS-200B MIPCB108"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB109 - LHS-410A"
+            "code": "MIPCB109 - LHS-410A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LHS-410A MIPCB109"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB110 - P203723B000G01"
+            "code": "MIPCB110 - P203723B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203723B000G01 MIPCB110"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB111 - P203728B000G01"
+            "code": "MIPCB111 - P203728B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203728B000G01 MIPCB111"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB112 - P231701B000G01"
+            "code": "MIPCB112 - P231701B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P231701B000G01 MIPCB112"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB113 - LHS-420A"
+            "code": "MIPCB113 - LHS-420A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LHS-420A MIPCB113"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB114 - KCZ-401A"
+            "code": "MIPCB114 - KCZ-401A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-401A MIPCB114"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB115 - KCZ-540A"
+            "code": "MIPCB115 - KCZ-540A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCZ-540A MIPCB115"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB116 - P203701B000G01"
+            "code": "MIPCB116 - P203701B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203701B000G01 MIPCB116"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB117 - P203702B000"
+            "code": "MIPCB117 - P203702B000",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203702B000 MIPCB117"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB118 - LIR-813B-X"
+            "code": "MIPCB118 - LIR-813B-X",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LIR-813B-X MIPCB118"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB119 - LOA-422"
+            "code": "MIPCB119 - LOA-422",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LOA-422 MIPCB119"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB120 - LOA-503"
+            "code": "MIPCB120 - LOA-503",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board LOA-503 MIPCB120"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB121 - P235711B000G02"
+            "code": "MIPCB121 - P235711B000G02",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235711B000G02 MIPCB121"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB122 - P231707B000G03"
+            "code": "MIPCB122 - P231707B000G03",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P231707B000G03 MIPCB122"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB123 - KCA-22A"
+            "code": "MIPCB123 - KCA-22A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-22A MIPCB123"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB124 - KCW-510B"
+            "code": "MIPCB124 - KCW-510B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCW-510B MIPCB124"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB125 - P235701B000G02"
+            "code": "MIPCB125 - P235701B000G02",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P235701B000G02 MIPCB125"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB126 - P203712B000G01"
+            "code": "MIPCB126 - P203712B000G01",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board P203712B000G01 MIPCB126"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB127 - DOR-101"
+            "code": "MIPCB127 - DOR-101",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-101 MIPCB127"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB128 - DOR-110B"
+            "code": "MIPCB128 - DOR-110B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-110B MIPCB128"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB129 - DOR-120C"
+            "code": "MIPCB129 - DOR-120C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-120C MIPCB129"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB130 - DOR-261B"
+            "code": "MIPCB130 - DOR-261B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-261B MIPCB130"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB131 - DOR-201"
+            "code": "MIPCB131 - DOR-201",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-201 MIPCB131"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB132 - DOR-143A"
+            "code": "MIPCB132 - DOR-143A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-143A MIPCB132"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB133 - DOR-545A"
+            "code": "MIPCB133 - DOR-545A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-545A MIPCB133"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB134 - DOR-1241"
+            "code": "MIPCB134 - DOR-1241",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board DOR-1241 MIPCB134"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB135 - KCB-520B"
+            "code": "MIPCB135 - KCB-520B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCB-520B MIPCB135"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB136 - KCA-31A"
+            "code": "MIPCB136 - KCA-31A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-31A MIPCB136"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB137 - KCA-231A"
+            "code": "MIPCB137 - KCA-231A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-231A MIPCB137"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB138 - KCA-600A"
+            "code": "MIPCB138 - KCA-600A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-600A MIPCB138"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB139 - KCA-762A"
+            "code": "MIPCB139 - KCA-762A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-762A MIPCB139"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB140 - KCA-922B"
+            "code": "MIPCB140 - KCA-922B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-922B MIPCB140"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB141 - KCA-941A"
+            "code": "MIPCB141 - KCA-941A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-941A MIPCB141"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB142 - KCA-1005A"
+            "code": "MIPCB142 - KCA-1005A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCA-1005A MIPCB142"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB143 - KCR-759C"
+            "code": "MIPCB143 - KCR-759C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-759C MIPCB143"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB144 - KCC-301A"
+            "code": "MIPCB144 - KCC-301A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCC-301A MIPCB144"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB145 - KCC-700A"
+            "code": "MIPCB145 - KCC-700A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCC-700A MIPCB145"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB146 - KCC-704C"
+            "code": "MIPCB146 - KCC-704C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCC-704C MIPCB146"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB147 - KCD-600E"
+            "code": "MIPCB147 - KCD-600E",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-600E MIPCB147"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB148 - KCD-705C"
+            "code": "MIPCB148 - KCD-705C",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-705C MIPCB148"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB149 - KCD-911A"
+            "code": "MIPCB149 - KCD-911A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCD-911A MIPCB149"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB150 - KCJ-520B"
+            "code": "MIPCB150 - KCJ-520B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCJ-520B MIPCB150"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB151 - KCJ-501B"
+            "code": "MIPCB151 - KCJ-501B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCJ-501B MIPCB151"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB152 - KCN-755A"
+            "code": "MIPCB152 - KCN-755A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCN-755A MIPCB152"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB153 - C731000G11"
+            "code": "MIPCB153 - C731000G11",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board C731000G11 MIPCB153"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB154 - KCJ-100A"
+            "code": "MIPCB154 - KCJ-100A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCJ-100A MIPCB154"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB155 - KCR-900B"
+            "code": "MIPCB155 - KCR-900B",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-900B MIPCB155"
           },
           {
             "name": "PC Board",
-            "code": "MIPCB156 - KCR-946A"
+            "code": "MIPCB156 - KCR-946A",
+            "alttext": "Mitsubishi Elevator Spare Parts PC Board KCR-946A MIPCB156"
           }
         ]
       }
@@ -9681,190 +9874,186 @@
         "slug": "pcb-board",
         "alttext_group": "Thyssenkrupp Elevator Spare Parts PCB Board",
         "meta_title": "Buy Thyssenkrupp Elevator PCB Boards | Bestech UAE",
-"meta_description": "Shop Thyssenkrupp Elevator PCB Boards for reliable control, communication and monitoring solutions. Available from Bestech UAE.",
-"keywords": "Thyssenkrupp Elevator PCB Boards, Thyssenkrupp Elevator PC Boards, Thyssenkrupp Elevator Control Boards",
-"paragraph_text": [
-  "<h2><strong>Thyssenkrupp Elevator PCB Boards</strong></h2>",
-  "<p>The Printed Circuit Board (PCB) is one of the most important components in a Thyssenkrupp elevator system. It serves as the electronic backbone of the elevator, helping different components communicate and function together efficiently.</p>",
-  "<p>Modern Thyssenkrupp elevators are built with advanced control technologies that rely on multiple specialized boards. Each board is designed to perform a specific task, allowing the elevator to respond accurately to passenger requests while maintaining operational reliability.</p>",
-
-  "<h2><strong>Available Product Options</strong></h2>",
-  "<div class='table-wrapper'><table class='blog-table'><tr><th>PCB Board Type</th><th>Available Variants</th></tr><tr><td>Control &amp; Processing Boards</td><td>PC Board MC2-S, PC Board MC2, PC Board MC3, PC Board MC1, PC Board MF4, PC Board MF3, PC Board MG3, PC Board CPU</td></tr><tr><td>Signal &amp; Interface Boards</td><td>PC Board MS3-SG, PC Board MS3-E, PC Board CTU2, PC Board MH2, PC Board MM</td></tr><tr><td>System &amp; Communication Boards</td><td>PC Board MZ1, PC Board MW1, PC Board LMS1, PC Board LMS1-C</td></tr><tr><td>Control Boards</td><td>Control PC Board MP, Control PC Board ESA, PC Board FMC2</td></tr><tr><td>Drive &amp; Safety Boards</td><td>Inverter Drive PC Board, Brake Power PC Board, Alarm Bell PC Board</td></tr><tr><td>Auxiliary Boards</td><td>PC Board F1</td></tr></table></div>",
-
-  "<h2><strong>PCB Board Variants</strong></h2>",
-  "<p>The Thyssenkrupp Elevator PCB Boards range includes several specialized variants designed to support different elevator control and monitoring functions.</p>",
-  "<p>The variants are used across various TK Elevator systems to support control processing, communication, signal management, drive operations, safety functions and overall system performance.</p>",
-
-  "<h2><strong>Key Functions of Thyssenkrupp Elevator Control Boards</strong></h2>",
-  "<p>Thyssenkrupp Elevator Control Boards are designed to support a wide range of operational requirements, including:</p>",
-  "<ul><li>Managing elevator control processes.</li><li>Facilitating communication between system components.</li><li>Supporting signal processing functions.</li><li>Assisting with safety monitoring and protection.</li><li>Supporting drive and motion control systems.</li><li>Enhancing overall system performance and reliability.</li></ul>",
-
-  "<h2><strong>FAQ</strong></h2>",
-  "<p><strong>1. What is a Thyssenkrupp elevator PCB board?</strong><br>A Thyssenkrupp elevator PCB board is an electronic circuit board used within TK Elevator systems to control, monitor and manage different elevator functions.</p>",
-  "<p><strong>2. What does PCB stand for?</strong><br>PCB stands for Printed Circuit Board. It is an electronic assembly that connects and supports various components within an elevator control system.</p>",
-  "<p><strong>3. Are different PCB boards used for different functions?</strong><br>Yes. Some boards handle control processing, while others are responsible for communication, safety monitoring, motion control or system interfacing.</p>",
-  "<p><strong>4. Why is a compatible PCB board important?</strong><br>Using the correct PCB board helps ensure proper communication between components, reliable system performance and compatibility with the existing elevator control system.</p>"
-],
-"faq": [
-  {
-    "question": "What is a Thyssenkrupp elevator PCB board?",
-    "answer": "A Thyssenkrupp elevator PCB board is an electronic circuit board used within TK Elevator systems to control, monitor and manage different elevator functions."
-  },
-  {
-    "question": "What does PCB stand for?",
-    "answer": "PCB stands for Printed Circuit Board. It is an electronic assembly that connects and supports various components within an elevator control system."
-  },
-  {
-    "question": "Are different PCB boards used for different functions?",
-    "answer": "Yes. Some boards handle control processing, while others are responsible for communication, safety monitoring, motion control or system interfacing."
-  },
-  {
-    "question": "Why is a compatible PCB board important?",
-    "answer": "Using the correct PCB board helps ensure proper communication between components, reliable system performance and compatibility with the existing elevator control system."
-  }
-],
-       "items": [
-  {
-    "name": "PC Board MC2-S",
-    "code": "THPCB01",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MC2-S THPCB01"
-  },
-  {
-    "name": "PC Board MS3-SG",
-    "code": "THPCB02",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MS3-SG THPCB02"
-  },
-  {
-    "name": "PC Board MS3-E",
-    "code": "THPCB03",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MS3-E THPCB03"
-  },
-  {
-    "name": "Inverter Drive PC Board",
-    "code": "THPCB04",
-    "alttext": "Thyssenkrupp Elevator Spare Parts Inverter Drive PC Board THPCB04"
-  },
-  {
-    "name": "PC Board CTU2",
-    "code": "THPCB05",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board CTU2 THPCB05"
-  },
-  {
-    "name": "PC Board MC2",
-    "code": "THPCB06",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MC2 THPCB06"
-  },
-  {
-    "name": "PC Board MC3",
-    "code": "THPCB07",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MC3 THPCB07"
-  },
-  {
-    "name": "PC Board MF4",
-    "code": "THPCB08",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MF4 THPCB08"
-  },
-  {
-    "name": "PC Board MG3",
-    "code": "THPCB09",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MG3 THPCB09"
-  },
-  {
-    "name": "PC Board MZ1",
-    "code": "THPCB10",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MZ1 THPCB10"
-  },
-  {
-    "name": "PC Board MW1",
-    "code": "THPCB11",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MW1 THPCB11"
-  },
-  {
-    "name": "Alarm Bell PC Board",
-    "code": "THPCB12",
-    "alttext": "Thyssenkrupp Elevator Spare Parts Alarm Bell PC Board THPCB12"
-  },
-  {
-    "name": "PC Board MH2",
-    "code": "THPCB13",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MH2 THPCB13"
-  },
-  {
-    "name": "PC Board MM",
-    "code": "THPCB14",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MM THPCB14"
-  },
-  {
-    "name": "PC Board MF3",
-    "code": "THPCB15",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MF3 THPCB15"
-  },
-  {
-    "name": "PC Board LMS1-C",
-    "code": "THPCB16",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board LMS1-C THPCB16"
-  },
-  {
-    "name": "PC Board F1",
-    "code": "THPCB17",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board F1 THPCB17"
-  },
-  {
-    "name": "Control PC Board MP",
-    "code": "THPCB18",
-    "alttext": "Thyssenkrupp Elevator Spare Parts Control PC Board MP THPCB18"
-  },
-  {
-    "name": "Control PC Board ESA",
-    "code": "THPCB19",
-    "alttext": "Thyssenkrupp Elevator Spare Parts Control PC Board ESA THPCB19"
-  },
-  {
-    "name": "PC Board FMC2",
-    "code": "THPCB20",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board FMC2 THPCB20"
-  },
-  {
-    "name": "PC Board MC1",
-    "code": "THPCB21",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MC1 THPCB21"
-  },
-  {
-    "name": "PC Board CPU",
-    "code": "THPCB22",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board CPU THPCB22"
-  },
-  {
-    "name": "Brake Power PC Board",
-    "code": "THPCB23",
-    "alttext": "Thyssenkrupp Elevator Spare Parts Brake Power PC Board THPCB23"
-  },
-  {
-    "name": "PC Board LMS1",
-    "code": "THPCB24",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board LMS1 THPCB24"
-  },
-  {
-    "name": "PC Board KMB",
-    "code": "THPCB25",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board KMB THPCB25"
-  },
-  {
-    "name": "PC Board TMI2",
-    "code": "THPCB26",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board TMI2 THPCB26"
-  },
-  {
-    "name": "PC Board SM-01-BII",
-    "code": "THPCB27",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board SM-01-BII THPCB27"
-  },
-  {
-    "name": "PC Board MH3",
-    "code": "THPCB28",
-    "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MH3 THPCB28"
-  }
-]
+        "meta_description": "Shop Thyssenkrupp Elevator PCB Boards for reliable control, communication and monitoring solutions. Available from Bestech UAE.",
+        "keywords": "Thyssenkrupp Elevator PCB Boards, Thyssenkrupp Elevator PC Boards, Thyssenkrupp Elevator Control Boards",
+        "paragraph_text": [
+          "<h2><strong>Thyssenkrupp Elevator PCB Boards</strong></h2>",
+          "<p>The Printed Circuit Board (PCB) is one of the most important components in a Thyssenkrupp elevator system. It serves as the electronic backbone of the elevator, helping different components communicate and function together efficiently.</p>",
+          "<p>Modern Thyssenkrupp elevators are built with advanced control technologies that rely on multiple specialized boards. Each board is designed to perform a specific task, allowing the elevator to respond accurately to passenger requests while maintaining operational reliability.</p>",
+          "<h2><strong>Available Product Options</strong></h2>",
+          "<div class='table-wrapper'><table class='blog-table'><tr><th>PCB Board Type</th><th>Available Variants</th></tr><tr><td>Control &amp; Processing Boards</td><td>PC Board MC2-S, PC Board MC2, PC Board MC3, PC Board MC1, PC Board MF4, PC Board MF3, PC Board MG3, PC Board CPU</td></tr><tr><td>Signal &amp; Interface Boards</td><td>PC Board MS3-SG, PC Board MS3-E, PC Board CTU2, PC Board MH2, PC Board MM</td></tr><tr><td>System &amp; Communication Boards</td><td>PC Board MZ1, PC Board MW1, PC Board LMS1, PC Board LMS1-C</td></tr><tr><td>Control Boards</td><td>Control PC Board MP, Control PC Board ESA, PC Board FMC2</td></tr><tr><td>Drive &amp; Safety Boards</td><td>Inverter Drive PC Board, Brake Power PC Board, Alarm Bell PC Board</td></tr><tr><td>Auxiliary Boards</td><td>PC Board F1</td></tr></table></div>",
+          "<h2><strong>PCB Board Variants</strong></h2>",
+          "<p>The Thyssenkrupp Elevator PCB Boards range includes several specialized variants designed to support different elevator control and monitoring functions.</p>",
+          "<p>The variants are used across various TK Elevator systems to support control processing, communication, signal management, drive operations, safety functions and overall system performance.</p>",
+          "<h2><strong>Key Functions of Thyssenkrupp Elevator Control Boards</strong></h2>",
+          "<p>Thyssenkrupp Elevator Control Boards are designed to support a wide range of operational requirements, including:</p>",
+          "<ul><li>Managing elevator control processes.</li><li>Facilitating communication between system components.</li><li>Supporting signal processing functions.</li><li>Assisting with safety monitoring and protection.</li><li>Supporting drive and motion control systems.</li><li>Enhancing overall system performance and reliability.</li></ul>",
+          "<h2><strong>FAQ</strong></h2>",
+          "<p><strong>1. What is a Thyssenkrupp elevator PCB board?</strong><br>A Thyssenkrupp elevator PCB board is an electronic circuit board used within TK Elevator systems to control, monitor and manage different elevator functions.</p>",
+          "<p><strong>2. What does PCB stand for?</strong><br>PCB stands for Printed Circuit Board. It is an electronic assembly that connects and supports various components within an elevator control system.</p>",
+          "<p><strong>3. Are different PCB boards used for different functions?</strong><br>Yes. Some boards handle control processing, while others are responsible for communication, safety monitoring, motion control or system interfacing.</p>",
+          "<p><strong>4. Why is a compatible PCB board important?</strong><br>Using the correct PCB board helps ensure proper communication between components, reliable system performance and compatibility with the existing elevator control system.</p>"
+        ],
+        "faq": [
+          {
+            "question": "What is a Thyssenkrupp elevator PCB board?",
+            "answer": "A Thyssenkrupp elevator PCB board is an electronic circuit board used within TK Elevator systems to control, monitor and manage different elevator functions."
+          },
+          {
+            "question": "What does PCB stand for?",
+            "answer": "PCB stands for Printed Circuit Board. It is an electronic assembly that connects and supports various components within an elevator control system."
+          },
+          {
+            "question": "Are different PCB boards used for different functions?",
+            "answer": "Yes. Some boards handle control processing, while others are responsible for communication, safety monitoring, motion control or system interfacing."
+          },
+          {
+            "question": "Why is a compatible PCB board important?",
+            "answer": "Using the correct PCB board helps ensure proper communication between components, reliable system performance and compatibility with the existing elevator control system."
+          }
+        ],
+        "items": [
+          {
+            "name": "PC Board MC2-S",
+            "code": "THPCB01",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MC2-S THPCB01"
+          },
+          {
+            "name": "PC Board MS3-SG",
+            "code": "THPCB02",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MS3-SG THPCB02"
+          },
+          {
+            "name": "PC Board MS3-E",
+            "code": "THPCB03",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MS3-E THPCB03"
+          },
+          {
+            "name": "Inverter Drive PC Board",
+            "code": "THPCB04",
+            "alttext": "Thyssenkrupp Elevator Spare Parts Inverter Drive PC Board THPCB04"
+          },
+          {
+            "name": "PC Board CTU2",
+            "code": "THPCB05",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board CTU2 THPCB05"
+          },
+          {
+            "name": "PC Board MC2",
+            "code": "THPCB06",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MC2 THPCB06"
+          },
+          {
+            "name": "PC Board MC3",
+            "code": "THPCB07",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MC3 THPCB07"
+          },
+          {
+            "name": "PC Board MF4",
+            "code": "THPCB08",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MF4 THPCB08"
+          },
+          {
+            "name": "PC Board MG3",
+            "code": "THPCB09",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MG3 THPCB09"
+          },
+          {
+            "name": "PC Board MZ1",
+            "code": "THPCB10",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MZ1 THPCB10"
+          },
+          {
+            "name": "PC Board MW1",
+            "code": "THPCB11",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MW1 THPCB11"
+          },
+          {
+            "name": "Alarm Bell PC Board",
+            "code": "THPCB12",
+            "alttext": "Thyssenkrupp Elevator Spare Parts Alarm Bell PC Board THPCB12"
+          },
+          {
+            "name": "PC Board MH2",
+            "code": "THPCB13",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MH2 THPCB13"
+          },
+          {
+            "name": "PC Board MM",
+            "code": "THPCB14",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MM THPCB14"
+          },
+          {
+            "name": "PC Board MF3",
+            "code": "THPCB15",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MF3 THPCB15"
+          },
+          {
+            "name": "PC Board LMS1-C",
+            "code": "THPCB16",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board LMS1-C THPCB16"
+          },
+          {
+            "name": "PC Board F1",
+            "code": "THPCB17",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board F1 THPCB17"
+          },
+          {
+            "name": "Control PC Board MP",
+            "code": "THPCB18",
+            "alttext": "Thyssenkrupp Elevator Spare Parts Control PC Board MP THPCB18"
+          },
+          {
+            "name": "Control PC Board ESA",
+            "code": "THPCB19",
+            "alttext": "Thyssenkrupp Elevator Spare Parts Control PC Board ESA THPCB19"
+          },
+          {
+            "name": "PC Board FMC2",
+            "code": "THPCB20",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board FMC2 THPCB20"
+          },
+          {
+            "name": "PC Board MC1",
+            "code": "THPCB21",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MC1 THPCB21"
+          },
+          {
+            "name": "PC Board CPU",
+            "code": "THPCB22",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board CPU THPCB22"
+          },
+          {
+            "name": "Brake Power PC Board",
+            "code": "THPCB23",
+            "alttext": "Thyssenkrupp Elevator Spare Parts Brake Power PC Board THPCB23"
+          },
+          {
+            "name": "PC Board LMS1",
+            "code": "THPCB24",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board LMS1 THPCB24"
+          },
+          {
+            "name": "PC Board KMB",
+            "code": "THPCB25",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board KMB THPCB25"
+          },
+          {
+            "name": "PC Board TMI2",
+            "code": "THPCB26",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board TMI2 THPCB26"
+          },
+          {
+            "name": "PC Board SM-01-BII",
+            "code": "THPCB27",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board SM-01-BII THPCB27"
+          },
+          {
+            "name": "PC Board MH3",
+            "code": "THPCB28",
+            "alttext": "Thyssenkrupp Elevator Spare Parts PC Board MH3 THPCB28"
+          }
+        ]
       }
     ]
   }

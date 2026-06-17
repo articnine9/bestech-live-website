@@ -180,7 +180,7 @@ export default async function Page(props) {
 
         {Array.isArray(group?.paragraph_text) ? (
           group.paragraph_text.map((item, index) => (
-            <section className="container padding mt-3">
+            <section className="container  mt-3">
               <div
                 key={index}
                 className="seo-content flex flex-col gap-[10px] pb-[200px] mb-3"
