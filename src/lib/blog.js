@@ -172,6 +172,13 @@ export const blogPosts = [
     description:
       "Learn key electrical parts to check first and fix common lift issues quickly with simple steps and expert tips.",
   },
+   {
+    slug: "elevator-brake-system-components",
+    title: "Elevator Brake System Components: How They Work & When to Replace Them",
+    date: "2026-06-18",
+    description:
+      "Learn key electrical parts to check first and fix common lift issues quickly with simple steps and expert tips.",
+  },
 ];
 
 // Function to fetch all blog posts
