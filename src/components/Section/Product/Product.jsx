@@ -114,6 +114,11 @@ const menuData = {
       slug: "keys",
       code: "BS-KY",
     },
+     {
+      name: "Escalators",
+      slug: "escalators",
+      code: "BS-ES",
+    },
   ],
 };
 const Product = ({ category }) => {

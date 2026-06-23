@@ -25,6 +25,8 @@ export async function generateMetadata(props) {
     (cat) => cat.slug?.toLowerCase() === slug?.toLowerCase()
   );
 
+  console.log("Category", category)
+
   const product = category?.items?.find((item) => {
     const parts = item.url?.split("/").filter(Boolean);
     const lastSegment = parts?.[parts.length - 1];

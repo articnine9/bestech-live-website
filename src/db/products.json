@@ -2808,7 +2808,41 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Escalator Switch - XBA26220AB2</li><li><strong>Product Code:</strong> BS-SW0023</li><li><strong>Category:</strong> Switches</li><li><strong>Model Number:</strong> XBA26220AB2</li><li><strong>Brand Compatibility:</strong> OTIS escalator systems</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "Elevator Limit Switch YF121",
+  "description": "Elevator Limit Switch YF121",
+  "code": "BS-SW0024",
+  "url": "/switches/elevator-limit-switch-yf121",
+  "image": "/img/products/switches/elevator-limit-switch-yf121/elevator-spareparts-elevator-limit-switch-yf121-1.jpg",
+  "alttext": "Elevator Limit Switch YF121 Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-yf121",
+  "slider": [
+    "elevator-spareparts-elevator-limit-switch-yf121-1"
+  ],
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Elevator Limit Switch LSE133",
+  "description": "Elevator Limit Switch LSE133",
+  "code": "BS-SW0025",
+  "url": "/switches/elevator-limit-switch-lse133",
+  "image": "/img/products/switches/elevator-limit-switch-lse133/elevator-spareparts-elevator-limit-switch-lse133-1.jpg",
+  "alttext": "Elevator Limit Switch LSE133 Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-lse133",
+  "slider": [
+    "elevator-spareparts-elevator-limit-switch-lse133-1"
+  ],
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+}
     ]
   },
   {
@@ -3534,6 +3568,90 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> SMPS RT-85C (15V)</li><li><strong>Product Code:</strong> BS-EL0035</li><li><strong>Category:</strong> Electrical</li><li><strong>Product Type:</strong>  Switching Power Supply (SMPS)</li><li><strong>Output Voltage:</strong> 15 V DC</li><li><strong>Application:</strong> Elevator control boards, intercoms, sensors, safety circuits</li></ul>"
         ]
+      },
+      {
+        "name": "24 VAC Relay With Base",
+        "description": "24 VAC Relay With Base",
+        "code": "BS-EL0036",
+        "url": "/electrical/24-vac-relay-with-base",
+        "image": "/img/products/electrical/24-vac-relay-with-base/elevator-spareparts-24-vac-relay-with-base-1.jpg",
+        "alttext": "24 VAC Relay With Base Elevator Spare parts",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/24-vac-relay-with-base",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": []
+      },
+      {
+        "name": "110 VDC Relay With Base",
+        "description": "110 VDC Relay With Base",
+        "code": "BS-EL0037",
+        "url": "/electrical/110-vdc-relay-with-base",
+        "image": "/img/products/electrical/110-vdc-relay-with-base/elevator-spareparts-110-vdc-relay-with-base-1.jpg",
+        "alttext": "110 VDC Relay With Base Elevator Spare parts",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/110-vdc-relay-with-base",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": []
+      },
+      {
+        "name": "OSG Coil Switch XS1-26 24V",
+        "description": "OSG Coil Switch XS1-26 24V",
+        "code": "BS-EL0038",
+        "url": "/electrical/osg-coil-switch-xs1-26-24v",
+        "image": "/img/products/electrical/osg-coil-switch-xs1-26-24v/elevator-spareparts-osg-coil-switch-xs1-26-24v-1.jpg",
+        "alttext": "OSG Coil Switch XS1-26 24V Elevator Spare parts",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/osg-coil-switch-xs1-26-24v",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": []
+      },
+      {
+        "name": "OSG Coil Switch XS1-28 220V",
+        "description": "OSG Coil Switch XS1-28 220V",
+        "code": "BS-EL0039",
+        "url": "/electrical/osg-coil-switch-xs1-28-220v",
+        "image": "/img/products/electrical/osg-coil-switch-xs1-28-220v/elevator-spareparts-osg-coil-switch-xs1-28-220v-1.jpg",
+        "alttext": "OSG Coil Switch XS1-28 220V Elevator Spare parts",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/osg-coil-switch-xs1-28-220v",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": []
+      },
+      {
+        "name": "SMPS NET-50C",
+        "description": "SMPS NET-50C",
+        "code": "BS-EL0040",
+        "url": "/electrical/smps-net-50c",
+        "image": "/img/products/electrical/smps-net-50c/elevator-spareparts-smps-net-50c-1.jpg",
+        "alttext": "SMPS NET-50C Elevator Spare parts",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/smps-net-50c",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": []
+      },
+      {
+        "name": "Elevator Power Board EPU-100 EPU-110",
+        "description": "Elevator Power Board EPU-100 EPU-110",
+        "code": "BS-EL0041",
+        "url": "/electrical/elevator-power-board-epu-100-epu-110",
+        "image": "/img/products/electrical/elevator-power-board-epu-100-epu-110/elevator-spareparts-elevator-power-board-epu-100-epu-110-1.jpg",
+        "alttext": "Elevator Power Board EPU-100 EPU-110 Elevator Spare parts",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "canonical": "https://www.bestechparts.ae/products/electrical/elevator-power-board-epu-100-epu-110",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "paragraph_text": []
       }
     ]
   },
@@ -5850,7 +5968,36 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Fermator Landing Door Lock</li><li><strong>Product Code:</strong> BS-DL0037</li><li><strong>Category:</strong> Door Locks</li><li><strong>Type:</strong> Elevator Landing Door Lock</li><li><strong>Application:</strong> Fermator Lift Landing Door Lock / Elevator Door Locking System</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "Door Contact White 100X28",
+  "description": "Door Contact White 100X28",
+  "code": "BS-DL0038",
+  "url": "/door-locks/door-contact-white-100x28",
+  "image": "/img/products/door-locks/door-contact-white-100x28/elevator-spareparts-door-contact-white-100x28-1.jpg",
+  "alttext": "Door Contact White 100X28 Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/door-locks/door-contact-white-100x28",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Elevator COP Key KM747076G11",
+  "description": "Elevator COP Key KM747076G11",
+  "code": "BS-DL0039",
+  "url": "/door-locks/elevator-cop-key-km747076g11",
+  "image": "/img/products/door-locks/elevator-cop-key-km747076g11/elevator-spareparts-elevator-cop-key-km747076g11-1.jpg",
+  "alttext": "Elevator COP Key KM747076G11 Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/door-locks/elevator-cop-key-km747076g11",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+}
+
     ]
   },
   {
@@ -6263,6 +6410,76 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Door Wheel Roller 70×25×6204</li><li><strong>Product Code:</strong> BS-DW0022</li><li><strong>Category:</strong> Door Wheels</li><li><strong>Type:</strong> Elevator Door Wheel Roller</li><li><strong>Application:</strong> Elevator Sliding Door Roller / Lift Door Roller</li></ul>"
         ]
+      },
+      {
+        "name": "Hanger Roller 72*15*6202",
+        "description": "Hanger Roller 72*15*6202",
+        "code": "BS-DW0023",
+        "url": "/door-wheels/hanger-roller-72-15-6202",
+        "image": "/img/products/door-wheels/hanger-roller-72-15-6202/elevator-spareparts-hanger-roller-72-15-6202-1.jpg",
+        "alttext": "Hanger Roller 72*15*6202 Elevator Spare Parts",
+        "canonical": "https://www.bestechparts.ae/products/door-wheels/hanger-roller-72-15-6202",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Hanging Roller 58*9*6002",
+        "description": "Hanging Roller 58*9*6002",
+        "code": "BS-DW0024",
+        "url": "/door-wheels/hanging-roller-58-9-6002",
+        "image": "/img/products/door-wheels/hanging-roller-58-9-6002/elevator-spareparts-hanging-roller-58-9-6002-1.jpg",
+        "alttext": "Hanging Roller 58*9*6002 Elevator Spare Parts",
+        "canonical": "https://www.bestechparts.ae/products/door-wheels/hanging-roller-58-9-6002",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Elevator Car Door Wheel 70X15X6202",
+        "description": "Elevator Car Door Wheel 70X15X6202",
+        "code": "BS-DW0025",
+        "url": "/door-wheels/elevator-car-door-wheel-70x15x6202",
+        "image": "/img/products/door-wheels/elevator-car-door-wheel-70x15x6202/elevator-spareparts-elevator-car-door-wheel-70x15x6202-1.jpg",
+        "alttext": "Elevator Car Door Wheel 70X15X6202 Elevator Spare Parts",
+        "canonical": "https://www.bestechparts.ae/products/door-wheels/elevator-car-door-wheel-70x15x6202",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Door Wheel Roller 25*30 - O",
+        "description": "Door Wheel Roller 25*30 - O",
+        "code": "BS-DW0026",
+        "url": "/door-wheels/door-wheel-roller-25-30-o",
+        "image": "/img/products/door-wheels/door-wheel-roller-25-30-o/elevator-spareparts-door-wheel-roller-25-30-o-1.jpg",
+        "alttext": "Door Wheel Roller 25*30 - O Elevator Spare Parts",
+        "canonical": "https://www.bestechparts.ae/products/door-wheels/door-wheel-roller-25-30-o",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Door Rope Roller KM601198G01",
+        "description": "Door Rope Roller KM601198G01",
+        "code": "BS-DW0027",
+        "url": "/door-wheels/door-rope-roller-km601198g01",
+        "image": "/img/products/door-wheels/door-rope-roller-km601198g01/elevator-spareparts-door-rope-roller-km601198g01-1.jpg",
+        "alttext": "Door Rope Roller KM601198G01 Elevator Spare Parts",
+        "canonical": "https://www.bestechparts.ae/products/door-wheels/door-rope-roller-km601198g01",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
       }
     ]
   },
@@ -9536,6 +9753,128 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Door Motor GR63X55 24VDC Dunkermotoren</li><li><strong>Product code:</strong> BS-DD0012</li><li><strong>Category:</strong> Door Drives and Motors</li><li><strong>Product Type:</strong> Lift DC door operator motor</li><li><strong>Model:</strong> GR63X55</li><li><strong>Brand Reference:</strong> Dunkermotoren</li></ul>"
         ]
+      },
+      {
+        "name": "Door Drive NICE-D-A-SOP7",
+        "description": "Door Drive NICE-D-A-SOP7",
+        "code": "BS-DD0013",
+        "url": "/door-drives-and-motors/door-drive-nice-d-a-sop7",
+        "image": "/img/products/door-drives/door-drive-nice-d-a-sop7/elevator-spareparts-door-drive-nice-d-a-sop7-1.jpg",
+        "alttext": "Door Drive NICE-D-A-SOP7 Elevator Spare Parts",
+        "slider": [
+          "elevator-spareparts-door-drive-nice-d-a-sop7-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-nice-d-a-sop7",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Door Motor AT120 FAA24350BL2",
+        "description": "Door Motor AT120 FAA24350BL2",
+        "code": "BS-DD0014",
+        "url": "/door-drives-and-motors/door-motor-at120-faa24350bl2",
+        "image": "/img/products/door-drives/door-motor-at120-faa24350bl2/elevator-spareparts-door-motor-at120-faa24350bl2-1.jpg",
+        "alttext": "Door Motor AT120 FAA24350BL2 Elevator Spare Parts",
+        "slider": [
+          "elevator-spareparts-door-motor-at120-faa24350bl2-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-motor-at120-faa24350bl2",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Door Motor AT120 FAA24350BL2 C",
+        "description": "Door Motor AT120 FAA24350BL2 C",
+        "code": "BS-DD0015",
+        "url": "/door-drives-and-motors/door-motor-at120-faa24350bl2-c",
+        "image": "/img/products/door-drives/door-motor-at120-faa24350bl2-c/elevator-spareparts-door-motor-at120-faa24350bl2-c-1.jpg",
+        "alttext": "Door Motor AT120 FAA24350BL2 C Elevator Spare Parts",
+        "slider": [
+          "elevator-spareparts-door-motor-at120-faa24350bl2-c-1",
+          "elevator-spareparts-door-motor-at120-faa24350bl2-c-2"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-motor-at120-faa24350bl2-c",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "AMD Door Drive Inverter KM606810G01",
+        "description": "AMD Door Drive Inverter KM606810G01",
+        "code": "BS-DD0016",
+        "url": "/door-drives-and-motors/amd-door-drive-inverter-km606810g01",
+        "image": "/img/products/door-drives/amd-door-drive-inverter-km606810g01/elevator-spareparts-amd-door-drive-inverter-km606810g01-1.jpg",
+        "alttext": "AMD Door Drive Inverter KM606810G01 Elevator Spare Parts",
+        "slider": [
+          "elevator-spareparts-amd-door-drive-inverter-km606810g01-1",
+          "elevator-spareparts-amd-door-drive-inverter-km606810g01-2"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/amd-door-drive-inverter-km606810g01",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Door Drive Motor KM601370G04",
+        "description": "Door Drive Motor KM601370G04",
+        "code": "BS-DD0017",
+        "url": "/door-drives-and-motors/door-drive-motor-km601370g04",
+        "image": "/img/products/door-drives/door-drive-motor-km601370g04/elevator-spareparts-door-drive-motor-km601370g04-1.jpg",
+        "alttext": "Door Drive Motor KM601370G04 Elevator Spare Parts",
+        "slider": [
+          "elevator-spareparts-door-drive-motor-km601370g04-1",
+          "elevator-spareparts-door-drive-motor-km601370g04-2"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-motor-km601370g04",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Wittur ECO Door Coupler 1016499A01",
+        "description": "Wittur ECO Door Coupler 1016499A01",
+        "code": "BS-DD0018",
+        "url": "/door-drives-and-motors/wittur-eco-door-coupler-1016499a01",
+        "image": "/img/products/door-drives/wittur-eco-door-coupler-1016499a01/elevator-spareparts-wittur-eco-door-coupler-1016499a01-1.jpg",
+        "alttext": "Wittur ECO Door Coupler 1016499A01 Elevator Spare Parts",
+        "slider": [
+          "elevator-spareparts-wittur-eco-door-coupler-1016499a01-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/wittur-eco-door-coupler-1016499a01",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Elevator Door Coupler OMS102",
+        "description": "Elevator Door Coupler OMS102",
+        "code": "BS-DD0019",
+        "url": "/door-drives-and-motors/elevator-door-coupler-oms102",
+        "image": "/img/products/door-drives/elevator-door-coupler-oms102/elevator-spareparts-elevator-door-coupler-oms102-1.jpg",
+        "alttext": "Elevator Door Coupler OMS102 Elevator Spare Parts",
+        "slider": [
+          "elevator-spareparts-elevator-door-coupler-oms102-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-coupler-oms102",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
       }
     ]
   },
@@ -11358,6 +11697,190 @@
     ]
   },
   {
+    "slug": "escalators",
+    "page_name": "Escalators",
+    "code": "BS-ES",
+    "meta_title": "",
+    "meta_description": "",
+    "keywords": "",
+    "canonical": "https://www.bestechparts.ae/products/escalators",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "items": [
+      {
+        "name": "Escalator Handrail Bearing 26*26*9",
+        "description": "Escalator Handrail Bearing 26*26*9 BS-ES0001",
+        "code": "BS-ES0001",
+        "url": "/escalators/escalator-handrail-bearing-26-26-9",
+        "image": "/img/products/escalators/escalator-handrail-bearing/elevator-spareparts-escalator-handrail-bearing-1.jpg",
+        "alttext": "Escalator Handrail Bearing 26*26*9 elevator spare parts",
+        "slider": [
+          "elevator-spareparts-escalator-handrail-bearing-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/escalator-handrail-bearing-26-26-9",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Escalator Handrail Roller 76*54*6201",
+        "description": "Escalator Handrail Roller 76*54*6201 BS-ES0002",
+        "code": "BS-ES0002",
+        "url": "/escalators/escalator-handrail-roller-76-54-6201",
+        "image": "/img/products/escalators/escalator-handrail-roller-76-54-6201/elevator-spareparts-escalator-handrail-roller-76-54-6201-1.jpg",
+        "alttext": "Escalator Handrail Roller 76*54*6201 elevator spare parts",
+        "slider": [
+          "elevator-spareparts-escalator-handrail-roller-76-54-6201-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/escalator-handrail-roller-76-54-6201",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Escalator Comb Plates GAA453BV",
+        "description": "Escalator Comb Plates GAA453BV BS-ES0003",
+        "code": "BS-ES0003",
+        "url": "/escalators/escalator-comb-plates-gaa453bv",
+        "image": "/img/products/escalators/escalator-comb-plates-gaa453bv/elevator-spareparts-escalator-comb-plates-gaa453bv-1.jpg",
+        "alttext": "Escalator Comb Plates GAA453BV elevator spare parts",
+        "slider": [
+          "elevator-spareparts-escalator-comb-plates-gaa453bv-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/escalator-comb-plates-gaa453bv",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Escalator Handrail Roller 50*54*6203",
+        "description": "Escalator Handrail Roller 50*54*6203 BS-ES0004",
+        "code": "BS-ES0004",
+        "url": "/escalators/escalator-handrail-roller-50-54-6203",
+        "image": "/img/products/escalators/escalator-handrail-roller-50-54-6203/elevator-spareparts-escalator-handrail-roller-50-54-6203-1.jpg",
+        "alttext": "Escalator Handrail Roller 50*54*6203 elevator spare parts",
+        "slider": [
+          "elevator-spareparts-escalator-handrail-roller-50-54-6203-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/escalator-handrail-roller-50-54-6203",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Escalator Indicators DTL-A-ZZ",
+        "description": "Escalator Indicators DTL-A-ZZ BS-ES0005",
+        "code": "BS-ES0005",
+        "url": "/escalators/escalator-indicators-dtl-a-zz",
+        "image": "/img/products/escalators/escalator-indicators-dtl-a-zz/elevator-spareparts-escalator-indicators-dtl-a-zz-1.jpg",
+        "alttext": "Escalator Indicators DTL-A-ZZ elevator spare parts",
+        "slider": [
+          "elevator-spareparts-escalator-indicators-dtl-a-zz-1",
+          "elevator-spareparts-escalator-indicators-dtl-a-zz-2"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/escalator-indicators-dtl-a-zz",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Escalator Remote Unit GAA26220BN 3-Pin",
+        "description": "Escalator Remote Unit GAA26220BN 3-Pin OTIS BS-ES0006",
+        "code": "BS-ES0006",
+        "url": "/escalators/escalator-remote-unit-gaa26220bn-3-pin",
+        "image": "/img/products/escalators/escalator-remote-unit-gaa26220bn-3-pin/elevator-spareparts-escalator-remote-unit-gaa26220bn-3-pin-1.jpg",
+        "alttext": "Escalator Remote Unit GAA26220BN 3-Pin elevator spare parts",
+        "slider": [
+          "elevator-spareparts-escalator-remote-unit-gaa26220bn-3-pin-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/escalator-remote-unit-gaa26220bn-3-pin",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Escalator Proximity Sensor 9982-2265",
+        "description": "Escalator Proximity Sensor 9982-2265 OTIS China BS-ES0007",
+        "code": "BS-ES0007",
+        "url": "/escalators/escalator-proximity-sensor-9982-2265",
+        "image": "/img/products/escalators/escalator-proximity-sensor-9982-2265/elevator-spareparts-escalator-proximity-sensor-9982-2265-1.jpg",
+        "alttext": "Escalator Proximity Sensor 9982-2265 elevator spare parts",
+        "slider": [
+          "elevator-spareparts-escalator-proximity-sensor-9982-2265-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/escalator-proximity-sensor-9982-2265",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Escalator Handrail Strip",
+        "description": "Escalator Handrail Strip BS-ES0008",
+        "code": "BS-ES0008",
+        "url": "/escalators/escalator-handrail-strip",
+        "image": "/img/products/escalators/escalator-handrail-strip/elevator-spareparts-escalator-handrail-strip-1.jpg",
+        "alttext": "Escalator Handrail Strip elevator spare parts",
+        "slider": [
+          "elevator-spareparts-escalator-handrail-strip-1",
+          "elevator-spareparts-escalator-handrail-strip-2"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/escalator-handrail-strip",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "Canny Escalator Key Switch",
+        "description": "Canny Escalator Key Switch BS-ES0009",
+        "code": "BS-ES0009",
+        "url": "/escalators/canny-escalator-key-switch",
+        "image": "/img/products/escalators/canny-escalator-key-switch/elevator-spareparts-canny-escalator-key-switch-1.jpg",
+        "alttext": "Canny Escalator Key Switch elevator spare parts",
+        "slider": [
+          "elevator-spareparts-canny-escalator-key-switch-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/canny-escalator-key-switch",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      },
+      {
+        "name": "OTIS Escalator Key Switch",
+        "description": "OTIS Escalator Key Switch BS-ES0010",
+        "code": "BS-ES0010",
+        "url": "/escalators/otis-escalator-key-switch",
+        "image": "/img/products/escalators/otis-escalator-key-switch/elevator-spareparts-otis-escalator-key-switch-1.jpg",
+        "alttext": "OTIS Escalator Key Switch elevator spare parts",
+        "slider": [
+          "elevator-spareparts-otis-escalator-key-switch-1"
+        ],
+        "canonical": "https://www.bestechparts.ae/products/escalators/otis-escalator-key-switch",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "meta_title": "",
+        "meta_description": "",
+        "keywords": "",
+        "paragraph_text": []
+      }
+    ]
+  },
+  {
     "slug": "electrical-components",
     "page_name": "Electrical Components",
     "code": "BS-EC",
@@ -11578,6 +12101,14 @@
         "url": "/keys",
         "image": "/img/products/keys/door-open-key/door-open-key-1.jpg",
         "alttext": "Elevator Keys"
+      },
+      {
+        "name": "Escalators",
+        "description": "Elevator Escalators",
+        "code": "BS-ES",
+        "url": "/escalators",
+        "image": "/img/product-default-img.jpg",
+        "alttext": "Elevator Escalators"
       }
     ]
   }

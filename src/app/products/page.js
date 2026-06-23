@@ -58,6 +58,7 @@ const categories = [
       { name: "PCB Boards", link: "pcb-boards" },
       { name: "Tool kits", link: "tool-kits" },
       { name: "Keys", link: "keys" },
+      {name:"Escalators",link:"escalators"}
     ],
   },
 ];

@@ -382,6 +382,11 @@ const Header = () => {
                                                   Keys
                                                 </Link>
                                               </li>
+                                               <li>
+                                                <Link href="/products/escalators">
+                                                  Escaltors
+                                                </Link>
+                                              </li>
                                             </ul>
                                           </div>
                                         </div>
@@ -625,6 +630,9 @@ const Header = () => {
                               </li>
                               <li>
                                 <Link href="/products/keys" onClick={mobileMenuClose}>Keys</Link>
+                              </li>
+                              <li>
+                                <Link href="/products/escalators" onClick={mobileMenuClose}>Escalators</Link>
                               </li>
                             </ul>
                             <div className="dropdown-btn" onClick={() => setOtherComponentsOpen(!otherComponentsOpen)}>
