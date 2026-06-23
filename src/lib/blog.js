@@ -179,6 +179,13 @@ export const blogPosts = [
     description:
       "Learn key electrical parts to check first and fix common lift issues quickly with simple steps and expert tips.",
   },
+    {
+    slug: "elevator-modernization-spare-parts-checklist",
+    title: "Elevator Modernization Spare Parts Checklist: What Needs Replacement First?",
+    date: "2026-06-22",
+    description:
+      "Learn which elevator spare parts should be replaced first during modernization to improve safety, reliability and ride quality in UAE buildings.",
+  },
 ];
 
 // Function to fetch all blog posts

@@ -134,7 +134,13 @@ const nextConfig = {
         source: "/brands/mitsubishi/car-door-hanger",
         destination: "/brands/mitsubishi/catch-plate-damping-pad",
         permanent: true,
+      },
+      {
+        source: "/products/switches/door-switch-kcb-jua-kcb-jub",
+        destination: "/products/switches/door-switch-kcb-iiia-kcb-iiib",
+        permanent: true,
       }
+
 
 
       // ✅ Force non-www → www (SEO fix)

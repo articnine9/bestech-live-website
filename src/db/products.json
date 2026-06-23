@@ -2604,22 +2604,22 @@
         "paragraph_text": "<h2>Brake Detection Switch B3181 / 83186</h2>\n<p>The elevator brake detection switch b3181-83186 is designed to monitor the operational status of elevator brakes, ensuring safe and controlled lift operation. This microswitch provides reliable feedback to the control system, confirming whether the brake is engaged or released. Built for durability and frequent use, it suits UAE elevator systems and other industrial applications where precise brake monitoring is essential. The compact design and robust contacts allow seamless integration into existing control circuits, supporting both new installations and maintenance upgrades.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Series:</strong> B3181 / 83186 Brake Detection Switch</li>\n  <li><strong>Function:</strong> Monitors elevator brake status</li>\n  <li><strong>Mechanism:</strong> Microswitch with reliable contact feedback</li>\n  <li><strong>Durability:</strong> Long operational life for frequent use</li>\n  <li><strong>Use points:</strong> Elevator brake circuits, industrial machinery</li>\n  <li><strong>Build:</strong> Compact and robust for easy integration</li>\n  <li><strong>Application:</strong> Lifts and industrial equipment requiring brake monitoring</li>\n</ul>"
       },
       {
-        "name": "Door Switch",
-        "description": "KCB-JUA/KCB-JUB",
+        "name": "Door Switch - KCB-IIIA / KCB-IIIB",
+        "description": "KCB-IIIA/KCB-IIIB BS-SW0014",
         "code": "BS-SW0014",
-        "url": "/switches/door-switch-kcb-jua-kcb-jub",
-        "image": "/img/products/switches/door-switch-kcb-jua-kcb-jub/elevator-door-switch-kcb-jua-kcb-jub-1.jpg",
-        "alttext": "Elevator Door Switch KCB-JUA/KCB-JUB Elevator Spare Parts",
+        "url": "/switches/door-switch-kcb-iiia-kcb-iiib",
+        "image": "/img/products/switches/door-switch-kcb-iiia-kcb-iiib/elevator-door-switch-kcb-iiia-kcb-iiib-1.jpg",
+        "alttext": "Elevator Door Switch KCB-IIIA/KCB-IIIB Elevator Spare Parts",
         "slider": [
-          "elevator-door-switch-kcb-jua-kcb-jub-1",
-          "elevator-door-switch-kcb-jua-kcb-jub-2"
+          "elevator-door-switch-kcb-iiia-kcb-iiib-1",
+          "elevator-door-switch-kcb-iiia-kcb-iiib-2"
         ],
-        "canonical": "https://www.bestechparts.ae/products/switches/door-switch-kcb-jua-kcb-jub",
+        "canonical": "https://www.bestechparts.ae/products/switches/door-switch-kcb-iiia-kcb-iiib",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "Elevator Door Switch KCB-JUA & KCB-JUB in UAE | Bestech",
-        "meta_description": "Shop KCB-JUA & KCB-JUB elevator door switches in Sharjah, Dubai & UAE. Trusted lift door spares for Otis, Kone, Mitsubishi, Schindler & Hyundai elevators.",
-        "keywords": "elevator door switch kcb-jua-kcb-jub, best elevator door switch suppliers in Dubai, elevator door switch spare parts suppliers",
-        "paragraph_text": "<h2>Compact Elevator Door Control Switch KCB-JUA / KCB-JUB</h2>\n<p>The elevator door switch kcb-jua-kcb-jub is a bistable magnetic switch designed for accurate monitoring of lift door operations. These switches provide reliable feedback to the control system, confirming whether doors are fully open or closed, which ensures safe and smooth elevator functioning. Built for frequent operation, the KCB-JUA and KCB-JUB feature durable construction and consistent performance under UAE lift conditions. Their compact design allows easy integration into new installations or maintenance upgrades, supporting precise door control in modern elevator systems.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Series:</strong> KCB-JUA / KCB-JUB Door Switch</li>\n  <li><strong>Type:</strong> Bistable magnetic switch</li>\n  <li><strong>Function:</strong> Detects door open/close status</li>\n  <li><strong>Mechanism:</strong> Magnetic actuation with reliable contact feedback</li>\n  <li><strong>Durability:</strong> Designed for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Elevator door control circuits</li>\n  <li><strong>Build:</strong> Compact and robust for easy integration</li>\n  <li><strong>Application:</strong> Lift systems requiring precise door monitoring</li>\n</ul>"
+        "meta_title": "Elevator Door Switch KCB-IIIA & KCB-IIIB in UAE | Bestech",
+        "meta_description": "Shop KCB-IIIA & KCB-IIIB elevator door switches in Sharjah, Dubai & UAE. Trusted lift door spares for Otis, Kone, Mitsubishi, Schindler & Hyundai elevators.",
+        "keywords": "elevator door switch kcb-iiia-kcb-iiib, best elevator door switch suppliers in Dubai, elevator door switch spare parts suppliers",
+        "paragraph_text": "<h2>Compact Elevator Door Control Switch KCB-IIIA/KCB-IIIB</h2>\n<p>The elevator door switch kcb-iiia-kcb-iiib is a bistable magnetic switch designed for accurate monitoring of lift door operations. These switches provide reliable feedback to the control system, confirming whether doors are fully open or closed, which ensures safe and smooth elevator functioning. Built for frequent operation, the KCB-IIIA and KCB-IIIB feature durable construction and consistent performance under UAE lift conditions. Their compact design allows easy integration into new installations or maintenance upgrades, supporting precise door control in modern elevator systems.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Series:</strong> KCB-IIIA / KCB-IIIB Door Switch</li>\n  <li><strong>Type:</strong> Bistable magnetic switch</li>\n  <li><strong>Function:</strong> Detects door open/close status</li>\n  <li><strong>Mechanism:</strong> Magnetic actuation with reliable contact feedback</li>\n  <li><strong>Durability:</strong> Designed for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Elevator door control circuits</li>\n  <li><strong>Build:</strong> Compact and robust for easy integration</li>\n  <li><strong>Application:</strong> Lift systems requiring precise door monitoring</li>\n</ul>"
       },
       {
         "name": "Bistable switch",
