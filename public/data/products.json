@@ -794,7 +794,160 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> ABB-AF09-30-10-13 25A</li><li><strong>Brand:</Strong> ABB</li><li><strong>Product Code:</strong> BS-CT0019</li><li><strong>Category:</strong> Contactors</li><li><strong>Model:</strong> AF09-30-10-13</li><li><strong>Current Rating:</strong> 25 Amps (25A)</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "Schneider 110VDC 25A LC1D25FDC",
+  "description": "Schneider 110VDC 25A LC1D25FDC",
+  "code": "BS-CT0020",
+  "url": "/contactors/schneider-110vdc-25a-lc1d25fdc",
+  "image": "/img/products/contactors/schneider-110vdc-25a-lc1d25fdc/elevator-spareparts-schneider-110vdc-25a-lc1d25fdc-1.jpg",
+  "alttext": "Schneider 110VDC 25A LC1D25FDC Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-110vdc-25a-lc1d25fdc-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vdc-25a-lc1d25fdc",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+},
+{
+  "name": "Schneider 110VDC 32A LC1D32FDC",
+  "description": "Schneider 110VDC 32A LC1D32FDC",
+  "code": "BS-CT0021",
+  "url": "/contactors/schneider-110vdc-32a-lc1d32fdc",
+  "image": "/img/products/contactors/schneider-110vdc-32a-lc1d32fdc/elevator-spareparts-schneider-110vdc-32a-lc1d32fdc-1.jpg",
+  "alttext": "Schneider 110VDC 32A LC1D32FDC Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-110vdc-32a-lc1d32fdc-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vdc-32a-lc1d32fdc",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+},
+{
+  "name": "Schneider 110VAC 40A LC1D40AF7C",
+  "description": "Schneider 110VAC 40A LC1D40AF7C",
+  "code": "BS-CT0022",
+  "url": "/contactors/schneider-110vac-40a-lc1d40af7c",
+  "image": "/img/products/contactors/schneider-110vac-40a-lc1d40af7c/elevator-spareparts-schneider-110vac-40a-lc1d40af7c-1.jpg",
+  "alttext": "Schneider 110VAC 40A LC1D40AF7C Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-110vac-40a-lc1d40af7c-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-110vac-40a-lc1d40af7c",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+},
+{
+  "name": "Schneider 220VAC 18A LC1D18M7C",
+  "description": "Schneider 220VAC 18A LC1D18M7C",
+  "code": "BS-CT0023",
+  "url": "/contactors/schneider-220vac-18a-lc1d18m7c",
+  "image": "/img/products/contactors/schneider-220vac-18a-lc1d18m7c/elevator-spareparts-schneider-220vac-18a-lc1d18m7c-1.jpg",
+  "alttext": "Schneider 220VAC 18A LC1D18M7C Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-220vac-18a-lc1d18m7c-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-220vac-18a-lc1d18m7c",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+},
+{
+  "name": "Schneider 220VAC 40A LC1D40M7C",
+  "description": "Schneider 220VAC 40A LC1D40M7C",
+  "code": "BS-CT0024",
+  "url": "/contactors/schneider-220vac-40a-lc1d40m7c",
+  "image": "/img/products/contactors/schneider-220vac-40a-lc1d40m7c/elevator-spareparts-schneider-220vac-40a-lc1d40m7c-1.jpg",
+  "alttext": "Schneider 220VAC 40A LC1D40M7C Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-220vac-40a-lc1d40m7c-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-220vac-40a-lc1d40m7c",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+},
+{
+  "name": "Schneider 220VAC 50A LC1D50M7C",
+  "description": "Schneider 220VAC 50A LC1D50M7C",
+  "code": "BS-CT0025",
+  "url": "/contactors/schneider-220vac-50a-lc1d50m7c",
+  "image": "/img/products/contactors/schneider-220vac-50a-lc1d50m7c/elevator-spareparts-schneider-220vac-50a-lc1d50m7c-1.jpg",
+  "alttext": "Schneider 220VAC 50A LC1D50M7C Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-220vac-50a-lc1d50m7c-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-220vac-50a-lc1d50m7c",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+},
+{
+  "name": "Schneider 220VAC 65A LC1D65M7C",
+  "description": "Schneider 220VAC 65A LC1D65M7C",
+  "code": "BS-CT0026",
+  "url": "/contactors/schneider-220vac-65a-lc1d65m7c",
+  "image": "/img/products/contactors/schneider-220vac-65a-lc1d65m7c/elevator-spareparts-schneider-220vac-65a-lc1d65m7c-1.jpg",
+  "alttext": "Schneider 220VAC 65A LC1D65M7C Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-220vac-65a-lc1d65m7c-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-220vac-65a-lc1d65m7c",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+},
+{
+  "name": "Schneider 48VDC 18A LC1D18",
+  "description": "Schneider 48VDC 18A LC1D18",
+  "code": "BS-CT0027",
+  "url": "/contactors/schneider-48vdc-18a-lc1d18",
+  "image": "/img/products/contactors/schneider-48vdc-18a-lc1d18/elevator-spareparts-schneider-48vdc-18a-lc1d18-1.jpg",
+  "alttext": "Schneider 48VDC 18A LC1D18 Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-48vdc-18a-lc1d18-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-48vdc-18a-lc1d18",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+},
+{
+  "name": "Schneider Overload 24 - 32 A",
+  "description": "Schneider Overload 24 - 32 A",
+  "code": "BS-CT0028",
+  "url": "/contactors/schneider-overload-24-32-a",
+  "image": "/img/products/contactors/schneider-overload-24-32-a/elevator-spareparts-schneider-overload-24-32-a-1.jpg",
+  "alttext": "Schneider Overload 24 - 32 A Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-schneider-overload-24-32-a-1"
+  ],
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "canonical": "https://www.bestechparts.ae/products/contactors/schneider-overload-24-32-a",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "paragraph_text": []
+}
     ]
   },
   {
@@ -7110,7 +7263,58 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</strong> 61U 61N 30 monostable - NC Switch </li><li><strong>Product code:</strong> BS-SR0027</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Monostable NC switch</li><li><strong>Application:</strong> Elevator positioning and control systems</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "Elevator Switch Sensor PF125-8DN-HC",
+  "description": "Elevator Switch Sensor PF125-8DN-HC",
+  "code": "BS-SR0028",
+  "url": "/sensors/elevator-switch-sensor-pf125-8dn-hc",
+  "image": "/img/products/sensors/elevator-switch-sensor-pf125-8dn-hc/elevator-spareparts-elevator-switch-sensor-pf125-8dn-hc-1.jpg",
+  "alttext": "Elevator Switch Sensor PF125-8DN-HC Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-elevator-switch-sensor-pf125-8dn-hc-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/sensors/elevator-switch-sensor-pf125-8dn-hc",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Elevator Light Curtain FCU0796 KM51184565",
+  "description": "Elevator Light Curtain FCU0796 KM51184565",
+  "code": "BS-SR0029",
+  "url": "/sensors/elevator-light-curtain-fcu0796-km51184565",
+  "image": "/img/products/sensors/elevator-light-curtain-fcu0796-km51184565/elevator-spareparts-elevator-light-curtain-fcu0796-km51184565-1.jpg",
+  "alttext": "Elevator Light Curtain FCU0796 KM51184565 Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-elevator-light-curtain-fcu0796-km51184565-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/sensors/elevator-light-curtain-fcu0796-km51184565",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "MPS-1600-OTIS Levelling Sensor",
+  "description": "MPS-1600-OTIS Levelling Sensor",
+  "code": "BS-SR0030",
+  "url": "/sensors/mps-1600-otis-levelling-sensor",
+  "image": "/img/products/sensors/mps-1600-otis-levelling-sensor/elevator-spareparts-mps-1600-otis-levelling-sensor-1.jpg",
+  "alttext": "MPS-1600-OTIS Levelling Sensor Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-mps-1600-otis-levelling-sensor-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/sensors/mps-1600-otis-levelling-sensor",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+}
     ]
   },
   {
@@ -7983,7 +8187,63 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Guide Shoe Insert</li><li><strong>Product Code:</strong> BS-GS0040</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Insert Thickness:</strong> 6 mm</li><li><strong>Brand Compatibility:</strong> OTIS</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "Guide Rollers 76*22*6203",
+  "description": "Guide Rollers 76*22*6203",
+  "code": "BS-GS0041",
+  "url": "/guide-shoes/guide-rollers-76-22-6203",
+  "image": "/img/products/guide-shoes/guide-rollers-76-22-6203/elevator-spareparts-guide-rollers-76-22-6203-1.jpg",
+  "alttext": "Guide Rollers 76*22*6203 Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-rollers-76-22-6203",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Guide Shoe Full Set 200*16mm",
+  "description": "Guide Shoe Full Set 200*16mm",
+  "code": "BS-GS0042",
+  "url": "/guide-shoes/guide-shoe-full-set-200-16mm",
+  "image": "/img/products/guide-shoes/guide-shoe-full-set-200-16mm/elevator-spareparts-guide-shoe-full-set-200-16mm-1.jpg",
+  "alttext": "Guide Shoe Full Set 200*16mm Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-200-16mm",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Guide Shoe Liner 200*16mm",
+  "description": "Guide Shoe Liner 200*16mm",
+  "code": "BS-GS0043",
+  "url": "/guide-shoes/guide-shoe-liner-200-16mm",
+  "image": "/img/products/guide-shoes/guide-shoe-liner-200-16mm/elevator-spareparts-guide-shoe-liner-200-16mm-1.jpg",
+  "alttext": "Guide Shoe Liner 200*16mm Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-liner-200-16mm",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Guide Shoe KM652435G16 White",
+  "description": "Guide Shoe KM652435G16 White",
+  "code": "BS-GS0044",
+  "url": "/guide-shoes/guide-shoe-km652435g16-white",
+  "image": "/img/products/guide-shoes/guide-shoe-km652435g16-white/elevator-spareparts-guide-shoe-km652435g16-white-1.jpg",
+  "alttext": "Guide Shoe KM652435G16 White Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-km652435g16-white",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+}
     ]
   },
   {
@@ -8809,7 +9069,126 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Elevator Encoder X65AC11 - 512 45mm</li><li><strong>Product Code:</strong> BS-EN0026</li><li><strong>Category:</strong> Encoders</li><li><strong>Brand:</strong> Mitsubishi</li><li><strong>Type:</strong> Elevator Shaft Encoder / Lift Rotary Encoder</li><li><strong>Part Reference:</strong> X65AC11</li><li><strong>Application:</strong> Elevator traction and motion control systems.</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "STEP PG Card - AS380 AS.T024",
+  "description": "STEP PG Card - AS380 AS.T024",
+  "code": "BS-EN0027",
+  "url": "/encoders/step-pg-card-as380-as-t024",
+  "image": "/img/products/encoders/step-pg-card-as380-as-t024/elevator-spareparts-step-pg-card-as380-as-t024-1.jpg",
+  "alttxt": "STEP PG Card - AS380 AS.T024 Elevator spare parts",
+  "slider": [
+    "elevator-spareparts-step-pg-card-as380-as-t024-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/encoders/step-pg-card-as380-as-t024",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "ECN 1313 7M Cable (Close)",
+  "description": "ECN 1313 7M Cable (Close)",
+  "code": "BS-EN0028",
+  "url": "/encoders/ecn-1313-7m-cable-close",
+  "image": "/img/products/encoders/ecn-1313-7m-cable-close/elevator-spareparts-ecn-1313-7m-cable-close-1.jpg",
+  "alttxt": "ECN 1313 7M Cable (Close) Elevator spare parts",
+  "slider": [
+    "elevator-spareparts-ecn-1313-7m-cable-close-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/encoders/ecn-1313-7m-cable-close",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Encoder PG-X3",
+  "description": "Encoder PG-X3",
+  "code": "BS-EN0029",
+  "url": "/encoders/encoder-pg-x3",
+  "image": "/img/products/encoders/encoder-pg-x3/elevator-spareparts-encoder-pg-x3-1.jpg",
+  "alttxt": "Encoder PG-X3 Elevator spare parts",
+  "slider": [
+    "elevator-spareparts-encoder-pg-x3-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-x3",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Encoder PG-B3",
+  "description": "Encoder PG-B3",
+  "code": "BS-EN0030",
+  "url": "/encoders/encoder-pg-b3",
+  "image": "/img/products/encoders/encoder-pg-b3/elevator-spareparts-encoder-pg-b3-1.jpg",
+  "alttxt": "Encoder PG-B3 Elevator spare parts",
+  "slider": [
+    "elevator-spareparts-encoder-pg-b3-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-b3",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Encoder PG-F3",
+  "description": "Encoder PG-F3",
+  "code": "BS-EN0031",
+  "url": "/encoders/encoder-pg-f3",
+  "image": "/img/products/encoders/encoder-pg-f3/elevator-spareparts-encoder-pg-f3-1.jpg",
+  "alttxt": "Encoder PG-F3 Elevator spare parts",
+  "slider": [
+    "elevator-spareparts-encoder-pg-f3-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-f3",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Encoder PG-CARD AS.L06/U.01",
+  "description": "Encoder PG-CARD AS.L06/U.01",
+  "code": "BS-EN0032",
+  "url": "/encoders/encoder-pg-card-as-l06-u-01",
+  "image": "/img/products/encoders/encoder-pg-card-as-l06-u-01/elevator-spareparts-encoder-pg-card-as-l06-u-01-1.jpg",
+  "alttxt": "Encoder PG-CARD AS.L06/U.01 Elevator spare parts",
+  "slider": [
+    "elevator-spareparts-encoder-pg-card-as-l06-u-01-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/encoders/encoder-pg-card-as-l06-u-01",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Tachogenerator - GTF7.16L/460",
+  "description": "Tachogenerator - GTF7.16L/460",
+  "code": "BS-EN0033",
+  "url": "/encoders/tachogenerator-gtf7-16l-460",
+  "image": "/img/products/encoders/tachogenerator-gtf7-16l-460/elevator-spareparts-tachogenerator-gtf7-16l-460-1.jpg",
+  "alttxt": "Tachogenerator - GTF7.16L/460 Elevator spare parts",
+  "slider": [
+    "elevator-spareparts-tachogenerator-gtf7-16l-460-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/encoders/tachogenerator-gtf7-16l-460",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+}
     ]
   },
   {
@@ -9054,7 +9433,21 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Delta VFD Inverter VFD022E43A 2.2KW</li><li><strong>Product Code:</strong> BS-IN0011</li><li><strong>Category:</strong> Inverters</li><li><strong>Model Number:</strong> VFD022E43A</li><li><strong>Brand:</strong> Delta</li><li><strong>Power Rating:</strong> 2.2KW</li><li><strong>Type:</strong> Variable Frequency Drive (VFD)</li><li><strong>Application:</strong> Variable speed motor control in elevator door drive and lift auxiliary systems.</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "Inverter ME320LN-4011-SA 11KW",
+  "description": "Inverter ME320LN-4011-SA 11KW",
+  "code": "BS-IN0012",
+  "url": "/inverters/inverter-me320ln-4011-sa-11kw",
+  "image": "/img/products/inverters/inverter-me320ln-4011-sa-11kw/elevator-spareparts-inverter-me320ln-4011-sa-11kw-1.jpg",
+  "alttext": "Inverter ME320LN-4011-SA 11KW Elevator Spare Parts",
+  "canonical": "https://www.bestechparts.ae/products/inverters/inverter-me320ln-4011-sa-11kw",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+}
     ]
   },
   {
@@ -9466,7 +9859,24 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> Inovance ARD 3P 7.5KW</li><li><strong>Product Code:</strong> BS-AR0019</li><li><strong>Category:</strong> ARD</li><li><strong>Product Type:</strong> Automatic Rescue Device</li><li><strong>Application:</strong> Inovance Elevator ARD System / Lift Rescue Device</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "Rescue Device MCTC-ERB-A1",
+  "description": "Rescue Device MCTC-ERB-A1",
+  "code": "BS-AR0020",
+  "url": "/ard/rescue-device-mctc-erb-a1",
+  "image": "/img/products/ard/rescue-device-mctc-erb-a1/elevator-spareparts-rescue-device-mctc-erb-a1-1.jpg",
+  "alttext": "Rescue Device MCTC-ERB-A1 Elevator Spare Parts",
+  "slider": [
+    "elevator-spareparts-rescue-device-mctc-erb-a1-1"
+  ],
+  "canonical": "https://www.bestechparts.ae/products/ard/rescue-device-mctc-erb-a1",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+}
     ]
   },
   {
@@ -11410,7 +11820,107 @@
           "<h2><strong>Key specifications</Strong></h2>",
           "<ul><li><strong>Product Name:</Strong> FAA23600AB1 – Arrival Gong PCB</li><li><strong>Product code:</strong> BS-PB0022</li><li><strong>Type:</strong> Elevator Arrival Gong PCB</li><li><strong>Category:</strong> PCB Board</li><li><strong>Brand Compatibility:</strong> Otis</li><li><strong>Application:</strong> Floor arrival chime signal generation in lift systems.</li></ul>"
         ]
-      }
+      },
+      {
+  "name": "STEP Extension Board SM-04-VHL SM-04-E1",
+  "description": "STEP Extension Board SM-04-VHL SM-04-E1",
+  "code": "BS-PB0023",
+  "url": "/pcb-boards/step-extension-board-sm-04-vhl-sm-04-e1",
+  "image": "/img/products/pcb-boards/step-extension-board-sm-04-vhl-sm-04-e1/elevator-spareparts-step-extension-board-sm-04-vhl-sm-04-e1-1.jpg",
+  "alttext": "STEP Extension Board SM-04-VHL SM-04-E1 elevator spare parts",
+  "canonical": "https://www.bestechparts.ae/products/pcb-boards/step-extension-board-sm-04-vhl-sm-04-e1",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Step Elevator Control PCB Board SM.02/E",
+  "description": "Step Elevator Control PCB Board SM.02/E",
+  "code": "BS-PB0024",
+  "url": "/pcb-boards/step-elevator-control-pcb-board-sm-02-e",
+  "image": "/img/products/pcb-boards/step-elevator-control-pcb-board-sm-02-e/elevator-spareparts-step-elevator-control-pcb-board-sm-02-e-1.jpg",
+  "alttext": "Step Elevator Control PCB Board SM.02/E elevator spare parts",
+  "canonical": "https://www.bestechparts.ae/products/pcb-boards/step-elevator-control-pcb-board-sm-02-e",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Cabinet Interface Board MCTC-KCB-B2",
+  "description": "Cabinet Interface Board MCTC-KCB-B2",
+  "code": "BS-PB0025",
+  "url": "/pcb-boards/cabinet-interface-board-mctc-kcb-b2",
+  "image": "/img/products/pcb-boards/cabinet-interface-board-mctc-kcb-b2/elevator-spareparts-cabinet-interface-board-mctc-kcb-b2-1.jpg",
+  "slider":["elevator-spareparts-cabinet-interface-board-mctc-kcb-b2-1","elevator-spareparts-cabinet-interface-board-mctc-kcb-b2-2"],
+  "alttext": "Cabinet Interface Board MCTC-KCB-B2 elevator spare parts",
+  "canonical": "https://www.bestechparts.ae/products/pcb-boards/cabinet-interface-board-mctc-kcb-b2",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Car Communication Board KLS-CCD-01A",
+  "description": "Car Communication Board KLS-CCD-01A",
+  "code": "BS-PB0026",
+  "url": "/pcb-boards/car-communication-board-kls-ccd-01a",
+  "image": "/img/products/pcb-boards/car-communication-board-kls-ccd-01a/elevator-spareparts-car-communication-board-kls-ccd-01a-1.jpg",
+  "alttext": "Car Communication Board KLS-CCD-01A elevator spare parts",
+  "canonical": "https://www.bestechparts.ae/products/pcb-boards/car-communication-board-kls-ccd-01a",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Extended Command Board KLL-ICU-V10A",
+  "description": "Extended Command Board KLL-ICU-V10A",
+  "code": "BS-PB0027",
+  "url": "/pcb-boards/extended-command-board-kll-icu-v10a",
+  "image": "/img/products/pcb-boards/extended-command-board-kll-icu-v10a/elevator-spareparts-extended-command-board-kll-icu-v10a-1.jpg",
+  "alttext": "Extended Command Board KLL-ICU-V10A elevator spare parts",
+  "slider":["elevator-spareparts-extended-command-board-kll-icu-v10a-1","elevator-spareparts-extended-command-board-kll-icu-v10a-2"],
+  "canonical": "https://www.bestechparts.ae/products/pcb-boards/extended-command-board-kll-icu-v10a",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "Safety Switch Board KLL-BYB-01B",
+  "description": "Safety Switch Board KLL-BYB-01B",
+  "code": "BS-PB0028",
+  "url": "/pcb-boards/safety-switch-board-kll-byb-01b",
+  "image": "/img/products/pcb-boards/safety-switch-board-kll-byb-01b/elevator-spareparts-safety-switch-board-kll-byb-01b-1.jpg",
+  "alttext": "Safety Switch Board KLL-BYB-01B elevator spare parts",
+  "canonical": "https://www.bestechparts.ae/products/pcb-boards/safety-switch-board-kll-byb-01b",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+},
+{
+  "name": "OTIS RS14 Card",
+  "description": "OTIS RS14 Card",
+  "code": "BS-PB0029",
+  "url": "/pcb-boards/otis-rs14-card",
+  "image": "/img/products/pcb-boards/otis-rs14-card/elevator-spareparts-otis-rs14-card-1.jpg",
+  "alttext": "OTIS RS14 Card elevator spare parts",
+  "canonical": "https://www.bestechparts.ae/products/pcb-boards/otis-rs14-card",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "meta_title": "",
+  "meta_description": "",
+  "keywords": "",
+  "paragraph_text": []
+}
     ]
   },
   {

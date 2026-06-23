@@ -384,7 +384,7 @@ const Header = () => {
                                               </li>
                                                <li>
                                                 <Link href="/products/escalators">
-                                                  Escaltors
+                                                  Escalators
                                                 </Link>
                                               </li>
                                             </ul>
