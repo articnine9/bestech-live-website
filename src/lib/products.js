@@ -330,6 +330,16 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "7 Core Cable",
+        description: "7 Core Cable",
+        code: "BS-CW0020",
+        url: "/cables-and-wires/7-core-cable",
+        image: "/img/products/cables-and-wires/7-core-cable/elevator-spareparts-7-core-cable-1.jpg",
+        alttext: "7 Core Cable Elevator Spare Parts",
+        canonical: "https://www.bestechparts.ae/products/cables-and-wires/7-core-cable",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      }
     ],
   },
   {
@@ -2071,6 +2081,36 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "Elevator Button Board 617712G05",
+        description: "Elevator Button Board 617712G05",
+        code: "BS-BT0079",
+        url: "/buttons/elevator-button-board-617712g05",
+        canonical: "https://www.bestechparts.ae/products/buttons/elevator-button-board-617712g05",
+        image: "/img/products/buttons/elevator-button-board-617712g05/elevator-spareparts-elevator-button-board-617712g05-1.jpg",
+        alttext: "Elevator Button Board 617712G05 Elevator Spare Parts",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        name: "Elevator Button Board 724763H02",
+        description: "Elevator Button Board 724763H02",
+        code: "BS-BT0080",
+        url: "/buttons/elevator-button-board-724763h02",
+        canonical: "https://www.bestechparts.ae/products/buttons/elevator-button-board-724763h02",
+        image: "/img/products/buttons/elevator-button-board-724763h02/elevator-spareparts-elevator-button-board-724763h02-1.jpg",
+        alttext: "Elevator Button Board 724763H02 Elevator Spare Parts",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        name: "Elevator Button Board 612913H07",
+        description: "Elevator Button Board 612913H07",
+        code: "BS-BT0081",
+        url: "/buttons/elevator-button-board-612913h07",
+        canonical: "https://www.bestechparts.ae/products/buttons/elevator-button-board-612913h07",
+        image: "/img/products/buttons/elevator-button-board-612913h07/elevator-spareparts-elevator-button-board-612913h07-1.jpg",
+        alttext: "Elevator Button Board 612913H07 Elevator Spare Parts",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      }
     ],
   },
   {
@@ -3515,6 +3555,75 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "Monarch Controller Cabinet MR 15KW",
+        description: "Monarch Controller Cabinet MR 15KW",
+        code: "BS-CS0027",
+        url: "/cabinet-set/monarch-controller-cabinet-mr-15kw",
+        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-15kw/elevator-spareparts-monarch-controller-cabinet-mr-15kw-1.jpg",
+        alttxt: "Monarch Controller Cabinet MR 15KW elevator spare parts",
+        slider: [
+          "elevator-spareparts-monarch-controller-cabinet-mr-15kw-1",
+          "elevator-spareparts-monarch-controller-cabinet-mr-15kw-2"
+        ],
+        canonical: "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mr-15kw",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        name: "Monarch Controller Cabinet MR 18.5KW",
+        description: "Monarch Controller Cabinet MR 18.5KW",
+        code: "BS-CS0028",
+        url: "/cabinet-set/monarch-controller-cabinet-mr-18-5kw",
+        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-18-5kw/elevator-spareparts-monarch-controller-cabinet-mr-18-5kw-1.jpg",
+        alttxt: "Monarch Controller Cabinet MR 18.5KW elevator spare parts",
+        slider: [
+          "elevator-spareparts-monarch-controller-cabinet-mr-18-5kw-1",
+          "elevator-spareparts-monarch-controller-cabinet-mr-18-5kw-2"
+        ],
+        canonical: "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mr-18-5kw",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        name: "Monarch Controller Cabinet MR 22KW",
+        description: "Monarch Controller Cabinet MR 22KW",
+        code: "BS-CS0029",
+        url: "/cabinet-set/monarch-controller-cabinet-mr-22kw",
+        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-22kw/elevator-spareparts-monarch-controller-cabinet-mr-22kw-1.jpg",
+        alttxt: "Monarch Controller Cabinet MR 22KW elevator spare parts",
+        slider: [
+          "elevator-spareparts-monarch-controller-cabinet-mr-22kw-1",
+          "elevator-spareparts-monarch-controller-cabinet-mr-22kw-2"
+        ],
+        canonical: "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mr-22kw",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        name: "Monarch Controller Cabinet MRL 7.5KW",
+        description: "Monarch Controller Cabinet MRL 7.5KW",
+        code: "BS-CS0030",
+        url: "/cabinet-set/monarch-controller-cabinet-mrl-7-5kw",
+        image: "/img/products/cabinet-set/monarch-controller-cabinet-mrl-7-5kw/elevator-spareparts-monarch-controller-cabinet-mrl-7-5kw-1.jpg",
+        alttxt: "Monarch Controller Cabinet MRL 7.5KW elevator spare parts",
+        slider: [
+          "elevator-spareparts-monarch-controller-cabinet-mrl-7-5kw-1",
+          "elevator-spareparts-monarch-controller-cabinet-mrl-7-5kw-2"
+        ],
+        canonical: "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-7-5kw",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        name: "Arkel Controller Cabinet - Hydraulic",
+        description: "Arkel Controller Cabinet - Hydraulic",
+        code: "BS-CS0031",
+        url: "/cabinet-set/arkel-controller-cabinet-hydraulic",
+        image: "/img/products/cabinet-set/arkel-controller-cabinet-hydraulic/elevator-spareparts-arkel-controller-cabinet-hydraulic-1.jpg",
+        alttxt: "Arkel Controller Cabinet - Hydraulic elevator spare parts",
+        slider: [
+          "elevator-spareparts-arkel-controller-cabinet-hydraulic-1"
+        ],
+        canonical: "https://www.bestechparts.ae/products/cabinet-set/arkel-controller-cabinet-hydraulic",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      }
     ],
   },
   {
@@ -4255,6 +4364,56 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "KM756001H01 Elevator Vibration Damper",
+        description: "KM756001H01 Elevator Vibration Damper",
+        code: "BS-ME0057",
+        url: "/mechanical/km756001h01-elevator-vibration-damper",
+        image: "/img/products/mechanical/km756001h01-elevator-vibration-damper/elevator-spareparts-km756001h01-elevator-vibration-damper-1.jpg",
+        alttext: "KM756001H01 Elevator Vibration Damper Elevator Spare Parts",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        canonical: "https://www.bestechparts.ae/products/mechanical/km756001h01-elevator-vibration-damper"
+      },
+      {
+        name: "Guide Clip Set",
+        description: "Guide Clip Set",
+        code: "BS-ME0058",
+        url: "/mechanical/guide-clip-set",
+        image: "/img/products/mechanical/guide-clip-set/elevator-spareparts-guide-clip-set-1.jpg",
+        alttext: "Guide Clip Set Elevator Spare Parts",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        canonical: "https://www.bestechparts.ae/products/mechanical/guide-clip-set"
+      },
+      {
+        name: "Traction Sheave 560*4*12 M",
+        description: "Traction Sheave 560*4*12 M",
+        code: "BS-ME0059",
+        url: "/mechanical/traction-sheave-560-4-12-m",
+        image: "/img/products/mechanical/traction-sheave-560-4-12-m/elevator-spareparts-traction-sheave-560-4-12-m-1.jpg",
+        alttext: "Traction Sheave 560*4*12 M Elevator Spare Parts",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        canonical: "https://www.bestechparts.ae/products/mechanical/traction-sheave-560-4-12-m"
+      },
+      {
+        name: "Traction Sheave 560*3*12 M",
+        description: "Traction Sheave 560*3*12 M",
+        code: "BS-ME0060",
+        url: "/mechanical/traction-sheave-560-3-12-m",
+        image: "/img/products/mechanical/traction-sheave-560-3-12-m/elevator-spareparts-traction-sheave-560-3-12-m-1.jpg",
+        alttext: "Traction Sheave 560*3*12 M Elevator Spare Parts",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        canonical: "https://www.bestechparts.ae/products/mechanical/traction-sheave-560-3-12-m"
+      },
+      {
+        name: "Traction Sheave 680*6*12 M",
+        description: "Traction Sheave 680*6*12 M",
+        code: "BS-ME0061",
+        url: "/mechanical/traction-sheave-680-6-12-m",
+        image: "/img/products/mechanical/traction-sheave-680-6-12-m/elevator-spareparts-traction-sheave-680-6-12-m-1.jpg",
+        alttext: "Traction Sheave 680*6*12 M Elevator Spare Parts",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        canonical: "https://www.bestechparts.ae/products/mechanical/traction-sheave-680-6-12-m"
+      }
     ],
   },
   {
@@ -6183,6 +6342,42 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "Door Sliders 44X21 mm",
+        description: "Door Sliders 44X21 mm",
+        code: "BS-DS0020",
+        url: "/door-sliders/door-sliders-44x21-mm",
+        image: "/img/products/door-sliders/door-sliders-44x21-mm/elevator-spareparts-door-sliders-44x21-mm-1.jpg",
+        alttext: "Door Sliders 44X21 mm Elevator Spare Parts",
+        canonical: "https://www.bestechparts.ae/products/door-sliders/door-sliders-44x21-mm",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        name: "STEP COP Display LCD SM.04VL16/T",
+        description: "STEP COP Display LCD SM.04VL16/T",
+        code: "BS-DI0019",
+        url: "/displays/step-cop-display-lcd-sm-04vl16-t",
+        image: "/img/products/displays/step-cop-display-lcd-sm-04vl16-t/elevator-spareparts-step-cop-display-lcd-sm-04vl16-t-1.jpg",
+        alttext: "STEP COP Display LCD SM.04VL16/T Elevator Spare Parts",
+        slider: [
+          "elevator-spareparts-step-cop-display-lcd-sm-04vl16-t-1"
+        ],
+        canonical: "https://www.bestechparts.ae/products/displays/step-cop-display-lcd-sm-04vl16-t",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        name: "Elevator Display Board FJ-HCB-H",
+        description: "Elevator Display Board FJ-HCB-H",
+        code: "BS-DI0020",
+        url: "/displays/elevator-display-board-fj-hcb-h",
+        image: "/img/products/displays/elevator-display-board-fj-hcb-h/elevator-spareparts-elevator-display-board-fj-hcb-h-1.jpg",
+        alttext: "Elevator Display Board FJ-HCB-H Elevator Spare Parts",
+        slider: [
+          "elevator-spareparts-elevator-display-board-fj-hcb-h-1"
+        ],
+        canonical: "https://www.bestechparts.ae/products/displays/elevator-display-board-fj-hcb-h",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      }
     ],
   },
   {
@@ -8406,6 +8601,19 @@ export const products = [
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
+      {
+        name: "STEP SM-08-C Test Tool",
+        description: "STEP SM-08-C Test Tool",
+        code: "BS-TL0005",
+        url: "/tool-kits/step-sm-08-c-test-tool",
+        image: "/img/products/tool-kits/step-sm-08-c-test-tool/elevator-spareparts-step-sm-08-c-test-tool-1.jpg",
+        alttext: "STEP SM-08-C Test Tool elevator spare parts",
+        slider: [
+          "elevator-spareparts-step-sm-08-c-test-tool-1"
+        ],
+        canonical: "https://www.bestechparts.ae/products/tool-kits/step-sm-08-c-test-tool",
+        robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      }
     ],
   },
   {
