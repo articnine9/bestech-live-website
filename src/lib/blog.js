@@ -186,6 +186,13 @@ export const blogPosts = [
     description:
       "Learn which elevator spare parts should be replaced first during modernization to improve safety, reliability and ride quality in UAE buildings.",
   },
+   {
+    slug: "elevator-door-drive-and-motor-problems",
+    title: "Common Elevator Door Drive & Motor Problems: Signs It's Time for Replacement",
+    date: "2026-06-30",
+    description:
+      "Learn the common elevator door drive and motor problems that indicate it may be time for replacement and improved elevator performance.",
+  },
 ];
 
 // Function to fetch all blog posts
