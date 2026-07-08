@@ -420,12 +420,17 @@
         "url": "/cables-and-wires/7-core-cable",
         "image": "/img/products/cables-and-wires/7-core-cable/elevator-spareparts-7-core-cable-1.jpg",
         "alttext": "7 Core Cable Elevator Spare Parts",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
+        "meta_title": "7 Core Cable | Durable Elevator Control Cable",
+        "meta_description": "Get the elevator 7 core cable from BESTECH. Reliable lift travelling cable for control and signal transmission.",
+        "keywords": "elevator 7 core cable, lift travelling cable, elevator control cable",
         "canonical": "https://www.bestechparts.ae/products/cables-and-wires/7-core-cable",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator 7 core cable is a multi-conductor cable built for the demanding environment of elevator systems. A dependable lift travelling cable is essential for accurate floor positioning, door control and emergency communication. This elevator control cable handles control signals and power transmission between the car and controller that ensures safe and dependable operation on every floor.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> 7 Core Cable</li><li><strong>Product Code:</strong> BS-CW0020</li><li><strong>Category:</strong> Cables and Wires</li><li><strong>Type:</strong> Elevator Control Cable / Lift Travelling Cable</li><li><strong>Conductors:</strong> 7 Core</li><li><strong>Application:</strong> Elevator Car-to-Controller Wiring</li><li><strong>Function:</strong> Power and Signal Transmission</li></ul>"
+        ]
       }
     ]
   },
@@ -2586,42 +2591,57 @@
         "description": "Elevator Button Board 617712G05",
         "code": "BS-BT0079",
         "url": "/buttons/elevator-button-board-617712g05",
-        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-board-617712g05",
         "image": "/img/products/buttons/elevator-button-board-617712g05/elevator-spareparts-elevator-button-board-617712g05-1.jpg",
         "alttext": "Elevator Button Board 617712G05 Elevator Spare Parts",
+        "meta_title": "Lift Control PCB Board 617712G05 | Bestech UAE",
+        "meta_description": "Upgrade your elevator with the button board 617712G05. Advanced lift control button board for responsive floor selection.",
+        "keywords": "elevator button board 617712G05, lift control button board, elevator PCB board",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-board-617712g05",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator button board 617712G05 is a command interface PCB that bridges passenger input with elevator system response. It registers floor selections, manages button lighting, and communicates directly with the controller for seamless operation. A reliable lift control button board keeps the passenger experience smooth and professional.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator Button Board 617712G05</li><li><strong>Product Code:</strong> BS-BT0079</li><li><strong>Category:</strong> Buttons</li><li><strong>Type:</strong> Elevator PCB Board / Lift Control Button Board</li><li><strong>Function:</strong> Floor command processing, controller communication</li><li><strong>Application:</strong> Car Operating Panels, Destination Dispatch Systems, Upgraded Elevators</li></ul>"
+        ]
       },
       {
         "name": "Elevator Button Board 724763H02",
         "description": "Elevator Button Board 724763H02",
         "code": "BS-BT0080",
         "url": "/buttons/elevator-button-board-724763h02",
-        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-board-724763h02",
         "image": "/img/products/buttons/elevator-button-board-724763h02/elevator-spareparts-elevator-button-board-724763h02-1.jpg",
         "alttext": "Elevator Button Board 724763H02 Elevator Spare Parts",
+        "meta_title": "Elevator Button PCB 724763H02 | Lift Button Board",
+        "meta_description": "Keep every floor within reach with the elevator button board 724763H02. Lift button PCB board for accurate call registration and long service life.",
+        "keywords": "elevator button board 724763H02, lift button PCB board, elevator push button board",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-board-724763h02",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator button board 724763H02 is a printed circuit board panel that manages passenger floor selections inside the elevator car. It processes each button press and relays the command to the main controller for immediate response. A dependable lift button PCB board eliminates missed calls and delayed responses.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator Button Board 724763H02</li><li><strong>Product Code:</strong> BS-BT0080</li><li><strong>Category:</strong> Buttons</li><li><strong>Type:</strong> Elevator Push Button Board / Lift Button PCB Board</li><li><strong>Function:</strong> In-car floor selection, button illumination, signal routing</li><li><strong>Application:</strong> Car Operating Panels, Passenger Elevators, Commercial Buildings</li></ul>"
+        ]
       },
       {
         "name": "Elevator Button Board 612913H07",
         "description": "Elevator Button Board 612913H07",
         "code": "BS-BT0081",
         "url": "/buttons/elevator-button-board-612913h07",
-        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-board-612913h07",
         "image": "/img/products/buttons/elevator-button-board-612913h07/elevator-spareparts-elevator-button-board-612913h07-1.jpg",
         "alttext": "Elevator Button Board 612913H07 Elevator Spare Parts",
+        "meta_title": "Elevator Push Button Board 612913H07 | Bestech",
+        "meta_description": "The 612913H07 button board keeps your elevator responding to every floor press. A dependable lift push button board from BESTECH.",
+        "keywords": "elevator button board 612913H07, lift push button board, elevator control board",
+        "canonical": "https://www.bestechparts.ae/products/buttons/elevator-button-board-612913h07",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator button board is a call panel interface that registers passenger floor selections and transmits commands to the elevator controller. It ensures every button press is captured accurately for reliable car dispatch. The elevator control board 612913H07 is built for consistent tactile feedback and reliable signal output to maintain smooth operation in high-traffic buildings.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator Button Board 612913H07</li><li><strong>Product Code:</strong> BS-BT0081</li><li><strong>Category:</strong> Buttons</li><li><strong>Type:</strong> Elevator Control Board / Lift Push Button Board</li><li><strong>Function:</strong> Floor call registration, passenger input processing, signal transmission</li><li><strong>Application:</strong> Hall Call Stations, Car Operating Panels, Modernized Elevators</li></ul>"
+        ]
       }
     ]
   },
@@ -3070,15 +3090,20 @@
         "url": "/switches/elevator-limit-switch-yf121",
         "image": "/img/products/switches/elevator-limit-switch-yf121/elevator-spareparts-elevator-limit-switch-yf121-1.jpg",
         "alttext": "Elevator Limit Switch YF121 Elevator Spare Parts",
-        "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-yf121",
         "slider": [
           "elevator-spareparts-elevator-limit-switch-yf121-1"
         ],
+        "meta_title": "Elevator Safety Limit Switch YF121 | Lift Safety Control",
+        "meta_description": "Prevent over-travel with elevator contact switch YF121. Precision lift safety limit switch that stops elevators at the correct floor.",
+        "keywords": "elevator limit switch YF121, lift safety limit switch, elevator control switch",
+        "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-yf121",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator limit switch YF121 is a position sensor that defines travel boundaries and prevents over-travel in elevator systems. The lift safety limit switch activates at set points to slow, stop, or reverse the car by protecting equipment and passengers from dangerous overrun situations.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator Limit Switch YF121</li><li><strong>Product Code:</strong> BS-SW0024</li><li><strong>Category:</strong> Switches</li><li><strong>Type:</strong> Elevator Control Switch / Lift Safety Limit Switch</li><li><strong>Function:</strong> Over-travel protection, floor leveling, end-of-travel stopping</li><li><strong>Application:</strong> Passenger Elevators, Freight Lifts, High-Rise Installations</li></ul>"
+        ]
       },
       {
         "name": "Elevator Limit Switch LSE133",
@@ -3087,15 +3112,20 @@
         "url": "/switches/elevator-limit-switch-lse133",
         "image": "/img/products/switches/elevator-limit-switch-lse133/elevator-spareparts-elevator-limit-switch-lse133-1.jpg",
         "alttext": "Elevator Limit Switch LSE133 Elevator Spare Parts",
-        "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-lse133",
         "slider": [
           "elevator-spareparts-elevator-limit-switch-lse133-1"
         ],
+        "meta_title": "YF121 Limit Switch | Lift Safety Control Switch",
+        "meta_description": "Stay within safe travel limits with the elevator limit switch LSE133. Durable lift limit switch for precise elevator stopping and floor alignment.",
+        "keywords": "elevator limit switch LSE133, lift limit switch, elevator safety switch",
+        "canonical": "https://www.bestechparts.ae/products/switches/elevator-limit-switch-lse133",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator limit switch LSE133 is a boundary detection device that ensures elevators stop accurately at floor landings and terminal points. This lift limit switch forms a vital layer of protection against overrun by protecting both the mechanical system and the passengers inside.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator Limit Switch LSE133</li><li><strong>Product Code:</strong> BS-SW0024</li><li><strong>Category:</strong> Switches</li><li><strong>Type:</strong> Elevator Safety Switch / Lift Limit Switch</li><li><strong>Function:</strong> Terminal slowing, floor leveling, emergency stopping</li><li><strong>Application:</strong> Passenger Elevators, Hospital Lifts, Commercial Towers</li></ul>"
+        ]
       }
     ]
   },
@@ -6469,12 +6499,17 @@
         "url": "/door-locks/door-contact-white-100x28",
         "image": "/img/products/door-locks/door-contact-white-100x28/elevator-spareparts-door-contact-white-100x28-1.jpg",
         "alttext": "Door Contact White 100X28 Elevator Spare Parts",
+        "meta_title": "Elevator Door Contact Switch White | Bestech",
+        "meta_description": "Secure your elevator doors with the 100×28 white door contact from BESTECH. Reliable lift door contact switch for safe door closure detection.",
+        "keywords": "elevator door contact, lift door contact switch, elevator door safety contact",
         "canonical": "https://www.bestechparts.ae/products/door-locks/door-contact-white-100x28",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator door contact is a safety switch that confirms proper door closure before the elevator can move. A lift door contact switch is essential for compliance and passenger protection. This elevator door safety contact responds instantly when doors are fully closed and sends a clear signal to the controller that the car is safe to depart.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Door Contact White 100X28</li><li><strong>Product Code:</strong> BS-DL0038</li><li><strong>Category:</strong> Door Locks</li><li><strong>Color:</strong> White</li><li><strong>Dimensions:</strong> 100mm × 28mm</li><li><strong>Function:</strong> Door closure detection and safety interlock</li><li><strong>Application:</strong> Passenger Elevators, Freight Lifts, Automatic Door Systems</li></ul>"
+        ]
       },
       {
         "name": "Elevator COP Key KM747076G11",
@@ -6483,12 +6518,17 @@
         "url": "/door-locks/elevator-cop-key-km747076g11",
         "image": "/img/products/door-locks/elevator-cop-key-km747076g11/elevator-spareparts-elevator-cop-key-km747076g11-1.jpg",
         "alttext": "Elevator COP Key KM747076G11 Elevator Spare Parts",
+        "meta_title": "Elevator Control Panel Key KM747076G11 | Bestech",
+        "meta_description": "Gain secure access with the KM747076G11 elevator COP key. Professional lift control panel key for maintenance and fire service operations.",
+        "keywords": "elevator COP key KM747076G11, lift control panel key, elevator service key",
         "canonical": "https://www.bestechparts.ae/products/door-locks/elevator-cop-key-km747076g11",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator COP key KM747076G11 is a specialized service key designed to unlock the car operating panel for maintenance, inspection and emergency access. A properly coded lift control panel key ensures only authorized technicians can access sensitive controls and perform critical safety checks.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator COP Key KM747076G11</li><li><strong>Product Code:</strong> BS-DL0039</li><li><strong>Category:</strong> Door Locks</li><li><strong>Function:</strong> COP access, maintenance mode, fire service override</li><li><strong>Application:</strong> Passenger Elevators, Service Lifts, Commercial Buildings</li></ul>"
+        ]
       }
     ]
   },
@@ -7638,12 +7678,17 @@
         "slider": [
           "elevator-spareparts-elevator-switch-sensor-pf125-8dn-hc-1"
         ],
+        "meta_title": "PF125-8DN-HC Proximity Sensor | Elevator Switch Sensor",
+        "meta_description": "Detect position changes instantly with the elevator switch sensor PF125-8DN-HC. Accurate lift proximity sensor for reliable elevator sensing switch applications.",
+        "keywords": "elevator switch sensor PF125-8DN-HC, lift proximity sensor, elevator sensing switch",
         "canonical": "https://www.bestechparts.ae/products/sensors/elevator-switch-sensor-pf125-8dn-hc",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator switch sensor PF125-8DN-HC is a proximity detection device that senses the position of elevator components without physical contact. A responsive lift proximity sensor eliminates mechanical wear from contact-based switches. The elevator sensing switch delivers consistent detection with no moving parts to fail and extends service intervals.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator Switch Sensor PF125-8DN-HC</li><li><strong>Product Code:</strong> BS-SR0028</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Elevator Sensing Switch / Lift Proximity Sensor</li><li><strong>Function:</strong> Position sensing, component detection, safety zone monitoring</li><li><strong>Application:</strong> Door position feedback, car leveling, zone entry detection</li></ul>"
+        ]
       },
       {
         "name": "Elevator Light Curtain FCU0796 KM51184565",
@@ -7655,12 +7700,17 @@
         "slider": [
           "elevator-spareparts-elevator-light-curtain-fcu0796-km51184565-1"
         ],
+        "meta_title": "Light Curtain FCU0796 | Lift Door Sensor System",
+        "meta_description": "Elevator light curtain with KM51184565 compatibility. Responsive lift door sensor curtain that detects obstacles instantly.",
+        "keywords": "elevator light curtain FCU0796, lift door sensor curtain, KM51184565 light curtain",
         "canonical": "https://www.bestechparts.ae/products/sensors/elevator-light-curtain-fcu0796-km51184565",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator light curtain is a vital door safety component designed to detect passengers or objects in the doorway and prevent the doors from closing until the entrance is clear. The KM51184565 light curtain responds in milliseconds to any beam interruption which ensures doors never close on a person, wheelchair or delivery cart.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator Light Curtain FCU0796 KM51184565</li><li><strong>Product Code:</strong> BS-SR0029</li><li><strong>Category:</strong> Sensors</li><li><strong>Function:</strong> Door obstruction detection, passenger protection, anti-pinch safety</li><li><strong>Application:</strong> Passenger Elevators, Hospital Lifts, High-Traffic Buildings</li></ul>"
+        ]
       },
       {
         "name": "MPS-1600-OTIS Levelling Sensor",
@@ -7672,12 +7722,17 @@
         "slider": [
           "elevator-spareparts-mps-1600-otis-levelling-sensor-1"
         ],
+        "meta_title": "MPS-1600 Elevator Position Sensor | Otis Levelling System",
+        "meta_description": "Achieve precise floor stops with the Otis levelling sensor MPS-1600. Trusted lift position sensor for accurate elevator leveling.",
+        "keywords": "Otis levelling sensor MPS-1600, elevator leveling sensor, lift position sensor",
         "canonical": "https://www.bestechparts.ae/products/sensors/mps-1600-otis-levelling-sensor",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>An accurate lift position sensor eliminates tripping hazards and improves accessibility for all passengers. The elevator leveling sensor MPS-1600 maintains tight tolerances over years of use by keeping door sills aligned and allowing wheelchairs to pass through without obstruction.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> MPS-1600-OTIS Levelling Sensor</li><li><strong>Product Code:</strong> BS-SR0030</li><li><strong>Category:</strong> Sensors</li><li><strong>Type:</strong> Elevator Leveling Sensor / Lift Position Sensor</li><li><strong>Function:</strong> Floor level detection, landing alignment, deceleration feedback</li><li><strong>Application:</strong> Otis Elevators, High-Rise Installations, Precision Leveling Systems</li></ul>"
+        ]
       }
     ]
   },
@@ -8559,12 +8614,17 @@
         "url": "/guide-shoes/guide-rollers-76-22-6203",
         "image": "/img/products/guide-shoes/guide-rollers-76-22-6203/elevator-spareparts-guide-rollers-76-22-6203-1.jpg",
         "alttext": "Guide Rollers 76*22*6203 Elevator Spare Parts",
+        "meta_title": "Elevator Guide Roller with Sealed Bearing | Lift Guide Wheel",
+        "meta_description": "Purchase elevator guide roller 76-22-6203 from BESTECH. Premium lift guide roller with 6203 bearing for elevator operation.",
+        "keywords": "elevator guide roller 76-22-6203, lift guide roller, elevator roller assembly",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-rollers-76-22-6203",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide roller 76-22-6203 is a high-performance elevator roller assembly designed to provide precise guidance and rolling motion for elevator cars and counterweights. It features a sealed 6203 bearing for extended service life. This lift guide roller is designed to handle high dynamic loads while maintaining low rolling resistance and minimal noise.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Guide Rollers 76-22-6203</li><li><strong>Product Code:</strong> BS-GS0041</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Type:</strong> Elevator Roller Assembly / Guide Roller</li><li><strong>Application:</strong> Elevator Car and Counterweight Guidance Systems</li><li><strong>Function:</strong> Rolling contact guide rail support for reduced friction.</li></ul>"
+        ]
       },
       {
         "name": "Guide Shoe Full Set 200*16mm",
@@ -8573,12 +8633,17 @@
         "url": "/guide-shoes/guide-shoe-full-set-200-16mm",
         "image": "/img/products/guide-shoes/guide-shoe-full-set-200-16mm/elevator-spareparts-guide-shoe-full-set-200-16mm-1.jpg",
         "alttext": "Guide Shoe Full Set 200*16mm Elevator Spare Parts",
+        "meta_title": "Guide Shoe Full Set 200x16mm | Elevator Guide Rail Assembly",
+        "meta_description": "Elevator guide shoe full set ensures stable car guidance, reduced vibration and improved ride quality. Complete lift guide shoe assembly included.",
+        "keywords": "elevator guide shoe full set, lift guide shoe assembly, elevator guide rail shoe",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-200-16mm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe full set is a complete assembly solution designed for hassle-free installation and optimal elevator performance. This lift guide shoe assembly includes all necessary components to replace or upgrade your existing guide shoe system.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Guide Shoe Full Set 200 x 16mm</li><li><strong>Product Code:</strong> BS-GS0042</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Components Included:</strong> Complete Guide Shoe Assembly with Liner/Insert</li><li><strong>Application:</strong> Passenger and Freight Elevators</li><li><strong>Function:</strong> Complete guide rail stabilization and friction management.</li></ul>"
+        ]
       },
       {
         "name": "Guide Shoe Liner 200*16mm",
@@ -8587,12 +8652,17 @@
         "url": "/guide-shoes/guide-shoe-liner-200-16mm",
         "image": "/img/products/guide-shoes/guide-shoe-liner-200-16mm/elevator-spareparts-guide-shoe-liner-200-16mm-1.jpg",
         "alttext": "Guide Shoe Liner 200*16mm Elevator Spare Parts",
+        "meta_title": "Lift Guide Shoe Liner 200-16mm | Elevator Rail Insert",
+        "meta_description": "Get your elevator guide shoe liner 200-16mm from BESTECH UAE. This lift guide shoe insert cuts friction and extends rail life.",
+        "keywords": "elevator guide shoe liner 200-16mm, lift guide shoe insert, elevator guide liner",
         "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-liner-200-16mm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator guide shoe liner 200-16mm is a critical wear component designed to minimize friction between the guide shoe and the elevator rail. This lift guide shoe insert ensures quiet operation while protecting the guide rail from premature wear. It handles the load and absorbs vibration.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Guide Shoe Liner 200*16mm</li><li><strong>Product Code:</strong> BS-GS0043</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Size:</strong> 200mm × 16mm</li><li><strong>Type:</strong> Elevator Guide Liner / Lift Guide Shoe Insert</li><li><strong>Function:</strong> Friction reduction and vibration damping.</li></ul>"
+        ]
       },
       {
         "name": "Guide Shoe KM652435G16 White",
@@ -8601,12 +8671,17 @@
         "url": "/guide-shoes/guide-shoe-km652435g16-white",
         "image": "/img/products/guide-shoes/guide-shoe-km652435g16-white/elevator-spareparts-guide-shoe-km652435g16-white-1.jpg",
         "alttext": "Guide Shoe KM652435G16 White Elevator Spare Parts",
-        "canonical": "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-km652435g16-white",
+        "meta_title": "White Lift Guide Shoe KM652435G16 | Bestech UAE",
+        "meta_description": "Buy elevator guide shoe KM652435G16 in white from BESTECH. Premium quality lift guide shoe for smooth elevator operation.",
+        "keywords": "elevator guide shoe KM652435G16, lift guide shoe, elevator guide rail shoe",
+        "canonical": "https://www.bestechparts.ae/products/guide-shoes/elevator-guide-shoe-km652435g16-white",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The Elevator Guide Shoe KM652435G16 is designed for consistent and low-friction contact between the elevator car and guide rail. This lift guide shoe features a durable white finish and is manufactured to meet the highest industry standards. It suits a wide range of elevator systems and is built to handle the demands of daily vertical transport.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Guide Shoe KM652435G16 White</li><li><strong>Product Code:</strong> BS-GS0044</li><li><strong>Category:</strong> Guide Shoes</li><li><strong>Type:</strong> Elevator Guide Rail Shoe</li><li><strong>Color:</strong> White</li><li><strong>Function:</strong> Reduces friction between car and guide rail.</li><li><strong>Application:</strong> Compatible with various elevator systems.</li></ul>"
+        ]
       }
     ]
   },
@@ -8938,12 +9013,17 @@
         "url": "/door-sliders/door-sliders-44x21-mm",
         "image": "/img/products/door-sliders/door-sliders-44x21-mm/elevator-spareparts-door-sliders-44x21-mm-1.jpg",
         "alttext": "Door Sliders 44X21 mm Elevator Spare Parts",
+        "meta_title": "44x21mm Door Slider | Lift Door Guide Shoe for Elevators",
+        "meta_description": "Precision-fit 44x21mm elevator door slider from BESTECH. Engineered lift door guide shoe for consistent track performance and extended service.",
+        "keywords": "elevator door slider 44x21mm, lift door guide shoe, elevator door slider block",
         "canonical": "https://www.bestechparts.ae/products/door-sliders/door-sliders-44x21-mm",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator door slider 44x21mm is a component that guides elevator doors along their track for consistent opening and closing. This lift door guide shoe keeps doors aligned and prevents catching or jamming. It is built to handle frequent use in both residential and commercial buildings.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Door Sliders 44 × 21 mm</li><li><strong>Product Code:</strong> BS-DS0020</li><li><strong>Category:</strong> Door Sliders</li><li><strong>Dimensions:</strong> 44mm × 21mm</li><li><strong>Type:</strong> Elevator Door Slider Block / Lift Door Guide Shoe</li><li><strong>Function:</strong> Door track guidance and friction reduction</li></ul>"
+        ]
       }
     ]
   },
@@ -9854,12 +9934,17 @@
         "url": "/inverters/inverter-me320ln-4011-sa-11kw",
         "image": "/img/products/inverters/inverter-me320ln-4011-sa-11kw/elevator-spareparts-inverter-me320ln-4011-sa-11kw-1.jpg",
         "alttext": "Inverter ME320LN-4011-SA 11KW Elevator Spare Parts",
+        "meta_title": "Elevator VFD Inverter ME320LN-4011-SA | Bestech",
+        "meta_description": "Power your elevator with the ME320LN-4011-SA 11KW inverter. Reliable lift drive inverter for precise motor control and energy-efficient operation.",
+        "keywords": "elevator inverter ME320LN-4011-SA, lift drive inverter 11KW, elevator VFD inverter",
         "canonical": "https://www.bestechparts.ae/products/inverters/inverter-me320ln-4011-sa-11kw",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator inverter ME320LN-4011-SA is an 11KW variable frequency drive designed to deliver precise motor control for elevator systems. It regulates speed, torque and acceleration to ensure comfortable and efficient rides from ground floor to top.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Inverter ME320LN-4011-SA 11KW</li><li><strong>Product Code:</strong> BS-IN0012</li><li><strong>Category:</strong> Inverters</li><li><strong>Power Rating:</strong> 11KW</li><li><strong>Type:</strong> Elevator VFD Inverter / Lift Drive Inverter 11KW</li><li><strong>Function:</strong> Motor speed control, energy optimization, smooth acceleration</li><li><strong>Application:</strong> Passenger Elevators, Freight Lifts, High-Rise Buildings</li></ul>"
+        ]
       }
     ]
   },
@@ -10283,12 +10368,17 @@
         "slider": [
           "elevator-spareparts-rescue-device-mctc-erb-a1-1"
         ],
+        "meta_title": "Lift Rescue Device MCTC ERB-A1 | Lift Emergency System",
+        "meta_description": "MCTC ERB-A1 elevator rescue device provides safe passenger evacuation during power failures. Reliable automatic rescue device for modern elevator systems.",
+        "keywords": "elevator rescue device MCTC ERB-A1, lift automatic rescue device, elevator ARD system",
         "canonical": "https://www.bestechparts.ae/products/ard/rescue-device-mctc-erb-a1",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator rescue device MCTC ERB-A1 is an intelligent safety system designed to activate automatically during power outages or main drive failures. This elevator ARD system brings the elevator car to the nearest landing, opens the doors and allows passengers to exit safely.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Rescue Device MCTC-ERB-A1</li><li><strong>Product Code:</strong> BS-AR0020</li><li><strong>Category:</strong> ARD</li><li><strong>Type:</strong> Elevator ARD System / Lift Automatic Rescue Device</li><li><strong>Function:</strong> Automatic rescue operation during power failure</li><li><strong>Application:</strong> Passenger Elevators, Commercial Buildings, Hospitals, Residential Towers</li></ul>"
+        ]
       }
     ]
   },
@@ -11813,12 +11903,17 @@
         "slider": [
           "elevator-spareparts-step-cop-display-lcd-sm-04vl16-t-1"
         ],
+        "meta_title": "Elevator Car Operating Display | SM-04VL16-T LCD Panel",
+        "meta_description": "Upgrade your elevator interface with the SM-04VL16-T LCD panel. Sharp lift LCD board for clear floor indication and control.",
+        "keywords": "elevator COP display LCD, lift LCD display board, SM-04VL16-T display",
         "canonical": "https://www.bestechparts.ae/products/displays/step-cop-display-lcd-sm-04vl16-t",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator COP display LCD SM-04VL16-T is an operating panel screen that combines floor indication with control interface functions. Its sharp LCD output ensures passengers can read floor numbers, direction and messages clearly in any lighting condition. A responsive lift LCD board is a smart choice for both new builds and retrofit projects.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> STEP COP Display LCD SM.04VL16/T</li><li><strong>Product Code:</strong> BS-D10019</li><li><strong>Category:</strong> Displays</li><li><strong>Function:</strong> Floor display, button interface, status messaging</li><li><strong>Application:</strong> Passenger Elevators, Modernized Cabs, New Installations</li></ul>"
+        ]
       },
       {
         "name": "Elevator Display Board FJ-HCB-H",
@@ -11830,12 +11925,17 @@
         "slider": [
           "elevator-spareparts-elevator-display-board-fj-hcb-h-1"
         ],
+        "meta_title": "Lift Indicator Display Board | Floor Indicator Panel",
+        "meta_description": "FJ-HCB-H elevator display board delivers clear floor indication and reliable performance. Bright lift display board for modern elevator interiors.",
+        "keywords": "elevator display board FJ-HCB-H, lift display board, elevator indicator display",
         "canonical": "https://www.bestechparts.ae/products/displays/elevator-display-board-fj-hcb-h",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator display board FJ-HCB-H is a high-visibility indicator panel designed to show floor numbers, direction arrows and status messages inside the elevator car. It ensures passengers always know where they are and which way they are heading. The elevator indicator display FJ-HCB-H is built for long-term reliability with consistent brightness and clear viewing angles.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> Elevator Display Board FJ-HCB-H</li><li><strong>Product Code:</strong> BS-D10020</li><li><strong>Category:</strong> Displays</li><li><strong>Product Number:</strong> FJ-HCB-H</li><li><strong>Type:</strong> Elevator Indicator Display / Lift Display Board</li><li><strong>Function:</strong> Floor position indication, direction display, status alerts</li><li><strong>Application:</strong> Passenger Elevators, Hotel Lifts, Commercial Buildings</li></ul>"
+        ]
       }
     ]
   },
@@ -12550,12 +12650,17 @@
         "slider": [
           "elevator-spareparts-step-sm-08-c-test-tool-1"
         ],
+        "meta_title": "SM-08-C Diagnostic Device | Professional Lift Testing Tool",
+        "meta_description": "STEP SM-08-C test tool supports quick elevator inspections and fault diagnosis. Professional lift diagnostic tool for reliable maintenance.",
+        "keywords": "elevator test tool SM-08-C, lift diagnostic tool, elevator maintenance tool",
         "canonical": "https://www.bestechparts.ae/products/tool-kits/step-sm-08-c-test-tool",
         "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta_title": "",
-        "meta_description": "",
-        "keywords": "",
-        "paragraph_text": []
+        "paragraph_text": [
+          "<h2><strong>Product Overview</strong></h2>",
+          "<p>The elevator test tool SM-08-C is a professional-grade diagnostic device designed for technicians who maintain and service elevator systems. It provides accurate readings and real-time data to help identify faults quickly and keep equipment running reliably. This lift diagnostic tool saves time on-site and reduces guesswork when resolving issues.</p>",
+          "<h2><strong>Key Specifications</strong></h2>",
+          "<ul><li><strong>Product Name:</strong> STEP SM-08-C Test Tool</li><li><strong>Product Code:</strong> BS-TL0005</li><li><strong>Category:</strong> Tool Kits</li><li><strong>Type:</strong> Elevator Maintenance Tool / Lift Diagnostic Tool</li><li><strong>Function:</strong> Fault detection, system testing and performance analysis</li><li><strong>Application:</strong> Elevator maintenance, commissioning and troubleshooting</li></ul>"
+        ]
       }
     ]
   },
