@@ -193,6 +193,13 @@ export const blogPosts = [
     description:
       "Learn the common elevator door drive and motor problems that indicate it may be time for replacement and improved elevator performance.",
   },
+    {
+    slug: "why-elevator-doors-fail-to-open-or-close",
+    title: "Why Elevator Doors Fail to Open or Close Properly: Common Causes & Spare Parts to Check",
+    date: "2026-07-13",
+    description:
+      "Learn common causes of elevator door failures and the spare parts to inspect for reliable elevator operation and passenger safety.",
+  },
 ];
 
 // Function to fetch all blog posts
