@@ -15,6 +15,7 @@ import Loading from "../components/Section/Common/Loading/Loading";
 import Footer from "../components/Section/Common/Footer";
 import Header from "../components/Section/Common/Header";
 import ChatPopup from "@/components/ChatPopup";
+import Chatbot from "@/components/Chatbot/Chatbot";
 import Script from "next/script";
 
 import React, { useEffect, useState } from "react";
@@ -265,6 +266,7 @@ export default function RootLayout({ children }) {
             <Header />
             {children}
             <ChatPopup />
+            <Chatbot />
             <FloatingButtons />
             <Footer />
           </>
