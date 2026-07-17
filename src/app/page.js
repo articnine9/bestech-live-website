@@ -58,7 +58,25 @@ export const metadata = {
 };
 
 export default function Home() {
+  // const websiteSchema = {
+  //   "@context": "https://schema.org",
+  //   "@type": "WebSite",
+  //   "name": "Bestech Parts",
+  //   "url": "https://www.bestechparts.ae",
+  //   "potentialAction": {
+  //     "@type": "SearchAction",
+  //     "target": "https://www.bestechparts.ae/search?q={search_term_string}",
+  //     "query-input": "required name=search_term_string"
+  //   }
+  // };
   return (
+    <>
+    {/* <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(websiteSchema),
+        }}
+      /> */}
     <div className="body-dark-bg homeOne">
       <div className="fix">
         <Hero />
@@ -69,5 +87,6 @@ export default function Home() {
         <Blog />
       </div>
     </div>
+    </>
   );
 }

@@ -200,6 +200,13 @@ export const blogPosts = [
     description:
       "Learn common causes of elevator door failures and the spare parts to inspect for reliable elevator operation and passenger safety.",
   },
+   {
+    slug: "elevator-preventive-maintenance-checklist",
+    title: "Elevator Preventive Maintenance Checklist: Essential Spare Parts to Inspect and Replace",
+    date: "2026-07-16",
+    description:
+      "Discover the essential elevator preventive maintenance checklist, key spare parts to inspect, replacement schedules, and safety tips for reliable operation.",
+  },
 ];
 
 // Function to fetch all blog posts
