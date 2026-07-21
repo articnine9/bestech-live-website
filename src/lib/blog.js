@@ -207,6 +207,13 @@ export const blogPosts = [
     description:
       "Discover the essential elevator preventive maintenance checklist, key spare parts to inspect, replacement schedules, and safety tips for reliable operation.",
   },
+   {
+    slug: "choosing-the-right-lift-spare-parts-improves-elevator-safety",
+    title: "Why Choosing the Right lift spare parts Improves Elevator Safety ",
+    date: "2026-07-21",
+    description:
+      "Lift spare parts improve elevator safety, reduce breakdowns, and extend lift life. Learn why choosing quality replacement parts matters for reliable performance. ",
+  },
 ];
 
 // Function to fetch all blog posts
