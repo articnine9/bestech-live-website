@@ -139,6 +139,11 @@ const nextConfig = {
         source: "/products/switches/door-switch-kcb-jua-kcb-jub",
         destination: "/products/switches/door-switch-kcb-iiia-kcb-iiib",
         permanent: true,
+      },
+       {
+        source: "/products/sensors/61u-61n-30-monostable-nc-switch",
+        destination: "/products/sensors/kcb-r-59121-monostable-nc-switch",
+        permanent: true,
       }
 
 

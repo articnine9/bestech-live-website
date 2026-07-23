@@ -5536,14 +5536,14 @@ export const products = [
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "61U 61N 30 monostable - NC Switch",
-        description: " 61U 61N 30 monostable - NC Switch",
+        name: "KCB-R-59121 Monostable NC Switch",
+        description: "KCB-R-59121 Monostable NC Switch",
         code: "BS-SR0027",
-        url: "/sensors/61u-61n-30-monostable-nc-switch",
-        image: "/img/products/sensors/61u-61n-30-monostable-nc-switch/elevator-61u-61n-30-monostable-nc-switch-1.jpeg",
-        slider: ["elevator-61u-61n-30-monostable-nc-switch-1", "elevator-61u-61n-30-monostable-nc-switch-2"],
+        url: "/sensors/kcb-r-59121-monostable-nc-switch",
+        image: "/img/products/sensors/kcb-r-59121-monostable-NC-switch/elevator-kcb-r-59121-monostable-NC-switch-1.jpg",
+        slider: ["elevator-kcb-r-59121-monostable-NC-switch-1", "elevator-kcb-r-59121-monostable-NC-switch-2"],
         canonical:
-          "https://www.bestechparts.ae/products/sensors/61u-61n-30-monostable-nc-switch",
+          "https://www.bestechparts.ae/products/sensors/kcb-r-59121-monostable-NC-switch",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
