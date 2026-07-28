@@ -214,6 +214,13 @@ export const blogPosts = [
     description:
       "Lift spare parts improve elevator safety, reduce breakdowns, and extend lift life. Learn why choosing quality replacement parts matters for reliable performance. ",
   },
+   {
+    slug: "most-common-hyundai-elevator-spare-parts",
+    title: "Most Common Hyundai Elevator Spare Parts That Need Replacement",
+    date: "2026-07-28",
+    description:
+      "Discover the most common Hyundai elevator spare parts that need replacement, including PCBs, door locks, inverters, sensors, and control components.",
+  },
 ];
 
 // Function to fetch all blog posts
