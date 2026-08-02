@@ -434,11 +434,6 @@ const Header = () => {
                                         Otis Parts
                                       </Link>
                                     </li>
-                                    <li>
-                                      <Link href="/brands/schindler">
-                                        Schindler Parts
-                                      </Link>
-                                    </li>
                                     {/* <li>
                                       <Link href="/brands/step">
                                         Step Parts
@@ -686,14 +681,6 @@ const Header = () => {
                           <li>
                             <Link href="/brands/otis" onClick={mobileMenuClose}>
                               Otis Parts
-                            </Link>
-                          </li>
-                          <li>
-                            <Link
-                              href="/brands/schindler"
-                              onClick={mobileMenuClose}
-                            >
-                              Schindler Parts
                             </Link>
                           </li>
                           {/* <li>

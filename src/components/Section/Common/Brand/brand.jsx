@@ -9,7 +9,6 @@ const menuData = {
     { name: "KONE Parts", slug: "kone", code: "KN" },
     { name: "Mitsubishi Parts", slug: "mitsubishi", code: "MI" },
     { name: "Otis Parts", slug: "otis", code: "OT" },
-    { name: "Schindler Parts", slug: "schindler", code: "SH" },
     { name: "Thyssenkrupp Parts", slug: "thyssenkrupp", code: "TK" },
   ],
 };

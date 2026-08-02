@@ -13,13 +13,20 @@ const REMOVED_PATHS = new Set([
   "/products/door-sliders/door-slider-white-18mmx25mm-s",
   "/products/signalization/white-lop-full-set",
   "/products/signalization/white-lop-full-set-without-display",
-  "/brands/schindler/push-button",
   "/blog/top-elevator-spare-parts-for-leading-brands-in-the-uae-hyundai-kone-otis-mitsubishi-schindler-thyssenkrupp",
 ]);
 
+// The whole Schindler brand tree (/brands/schindler and every group under it) was
+// removed; lib/brands.js still lists it, so exclude the entire prefix here.
+const REMOVED_PREFIXES = ["/brands/schindler"];
+
 const isRemoved = (url) => {
   try {
-    return REMOVED_PATHS.has(new URL(url).pathname);
+    const { pathname } = new URL(url);
+    if (REMOVED_PATHS.has(pathname)) return true;
+    return REMOVED_PREFIXES.some(
+      (prefix) => pathname === prefix || pathname.startsWith(prefix + "/")
+    );
   } catch {
     return false;
   }
