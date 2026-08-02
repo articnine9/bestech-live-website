@@ -3,6 +3,28 @@ import { products } from "@/lib/products";
 import { getAllBrands } from "@/lib/brands";
 import { getAllBlogPosts } from "@/lib/blog";
 
+// URLs removed from the site (trademark takedown). The pages themselves 404 via
+// their data being deleted; this belt-and-suspenders filter guarantees they are
+// never emitted to Google even though lib/products.js and lib/brands.js still
+// list them. Keep in sync with the removed data; do not re-add without sign-off.
+const REMOVED_PATHS = new Set([
+  "/products/switches/escalator-switch-5791-3864-tayee",
+  "/products/door-locks/elevator-door-triangle-lock-s",
+  "/products/door-sliders/door-slider-white-18mmx25mm-s",
+  "/products/signalization/white-lop-full-set",
+  "/products/signalization/white-lop-full-set-without-display",
+  "/brands/schindler/push-button",
+  "/blog/top-elevator-spare-parts-for-leading-brands-in-the-uae-hyundai-kone-otis-mitsubishi-schindler-thyssenkrupp",
+]);
+
+const isRemoved = (url) => {
+  try {
+    return REMOVED_PATHS.has(new URL(url).pathname);
+  } catch {
+    return false;
+  }
+};
+
 export default async function sitemap() {
   const baseUrl = "https://www.bestechparts.ae";
   const urls = [];
@@ -116,6 +138,12 @@ export default async function sitemap() {
     console.log("Blog post added:", blogUrlObj);
   });
 
-  console.log("Sitemap generation complete. Total URLs:", urls.length);
-  return urls;
+  const filtered = urls.filter((entry) => !isRemoved(entry.url));
+  console.log(
+    "Sitemap generation complete. Total URLs:",
+    filtered.length,
+    "| removed (takedown):",
+    urls.length - filtered.length
+  );
+  return filtered;
 }
