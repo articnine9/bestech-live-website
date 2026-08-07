@@ -221,6 +221,13 @@ export const blogPosts = [
     description:
       "Discover the most common Hyundai elevator spare parts that need replacement, including PCBs, door locks, inverters, sensors, and control components.",
   },
+   {
+    slug: "frequently-replaced-otis-elevator-spare-parts",
+    title: "Most Frequently Replaced Otis Elevator Spare Parts: A Complete Guide",
+    date: "2026-08-07",
+    description:
+      "Learn which Otis elevator spare parts need replacement most and how to choose the right components for reliable elevator performance in the UAE.",
+  },
 ];
 
 // Function to fetch all blog posts
