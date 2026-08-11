@@ -122,7 +122,7 @@ const BlogDetails = () => {
                                                 <Link href="#"><span className="icon-facebook"></span></Link>
                                                 <Link href="#"><span className="icon-twitter"></span></Link>
                                                 <Link href="#"><span className="icon-instagram"></span></Link>
-                                                <Link href="#"><span className="icon-linkedin"></span></Link>
+                                                <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"><span className="icon-linkedin"></span></Link>
                                             </div>
                                         </div>
                                     </div>

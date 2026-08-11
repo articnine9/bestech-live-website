@@ -81,7 +81,7 @@ const Footer = () => {
                         <span className="icon-instagram"></span>
                       </Link>
                       <Link
-                        href="https://www.linkedin.com/company/bes-tech-elevators-spare-parts/"
+                        href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >

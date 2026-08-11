@@ -186,7 +186,7 @@ const Header = () => {
                                     </li>
                                     <li>
                                       <Link
-                                        href="https://www.linkedin.com/company/bes-tech-elevators-spare-parts/"
+                                        href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                       >

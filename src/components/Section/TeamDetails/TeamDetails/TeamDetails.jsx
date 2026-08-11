@@ -126,7 +126,7 @@ const TeamDetails = () => {
                     <Link href="#">
                       <span className="icon-instagram"></span>
                     </Link>
-                    <Link href="#">
+                    <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/">
                       <span className="icon-linkedin"></span>
                     </Link>
                   </div>
