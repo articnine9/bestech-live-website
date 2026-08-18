@@ -2404,42 +2404,42 @@ export const products = [
 
       },
       {
-        name: "Bistable switch",
+        name: "Bistable Switch KCB-R-59122",
         description: "",
         code: "BS-SW0015",
-        url: "/switches/bistable-switch",
+        url: "/switches/bistable-switch-kcb-r-59122",
         image: "/img/products/switches/bistable-switch/elevator-bistable-switch-1.jpg",
         slider: ["elevator-bistable-switch-1", "elevator-bistable-switch-2"],
         canonical:
-          "https://www.bestechparts.ae/products/switches/bistable-switch",
+          "https://www.bestechparts.ae/products/switches/bistable-switch-kcb-r-59122",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta-title": "Elevator Bistable Switch Supplier in UAE | Bestech",
+        "meta-title": "Elevator Bistable Switch KCB-R-59122 Supplier in UAE | Bestech",
         meta_description:
-          "Buy elevator bistable switch from Bestechparts in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Mitsubishi, Schindler, Hyundai & thyssenkrupp elevators.",
+          "Buy elevator bistable switch kcb-r-59122 from Bestechparts in Sharjah, Dubai & UAE. Compatible with Otis, Kone, Mitsubishi, Schindler, Hyundai & thyssenkrupp elevators.",
         keywords:
-          "elevator bistable switch, elevator bistable switch suppliers Dubai, buy quality elevator bistable switch sharjah UAE",
+          "elevator bistable switch kcb-r-59122, elevator bistable switch kcb-r-59122 suppliers Dubai, buy quality elevator bistable switch kcb-r-59122 sharjah UAE",
         paragraph_text:
-          "<h2>Precision Bistable Switch for Lift Systems</h2>\n<p>The elevator bistable switch is a latching switch designed to maintain its current state - ON or OFF, until it receives a control signal to change. This feature ensures reliable operation in elevator systems where consistent status feedback is critical, such as door controls, safety circuits, or machine interlocks. Bistable switches provide precise and durable switching performance, suitable for frequent use in UAE lift installations. Their compact and robust design allows easy integration into both new setups and maintenance upgrades, supporting efficient and safe elevator operations.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Bistable / Latching switch</li>\n  <li><strong>Mechanism:</strong> Electrical impulse control</li>\n  <li><strong>Durability:</strong> Designed for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Door control, safety circuits, interlocks</li>\n  <li><strong>Build:</strong> Compact and robust for reliable integration</li>\n  <li><strong>Application:</strong> Elevators and industrial systems requiring stable switch states</li>\n</ul>",
+          "<h2>Precision Bistable Switch KCB-R-59122 for Lift Systems</h2>\n<p>The elevator bistable switch kcb-r-59122 is a latching switch designed to maintain its current state - ON or OFF, until it receives a control signal to change. This feature ensures reliable operation in elevator systems where consistent status feedback is critical, such as door controls, safety circuits, or machine interlocks. Bistable switches provide precise and durable switching performance, suitable for frequent use in UAE lift installations. Their compact and robust design allows easy integration into both new setups and maintenance upgrades, supporting efficient and safe elevator operations.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Bistable / Latching switch</li>\n  <li><strong>Mechanism:</strong> Electrical impulse control</li>\n  <li><strong>Durability:</strong> Designed for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Door control, safety circuits, interlocks</li>\n  <li><strong>Build:</strong> Compact and robust for reliable integration</li>\n  <li><strong>Application:</strong> Elevators and industrial systems requiring stable switch states</li>\n</ul>",
       },
       {
-        name: "Monostable switch",
+        name: "Monostable Switch KCB-R-59121-NO",
         description: "",
         code: "BS-SW0016",
-        url: "/switches/monostable-switch",
+        url: "/switches/monostable-switch-kcb-r-59121-no",
         image: "/img/products/switches/monostable-switch/elevator-monostable-switch-1.jpg",
         slider: ["elevator-monostable-switch-1", "elevator-monostable-switch-2"],
         canonical:
-          "https://www.bestechparts.ae/products/switches/monostable-switch",
+          "https://www.bestechparts.ae/products/switches//switches/monostable-switch-kcb-r-59121-no",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-        "meta-title": "Elevator Monostable Switch Supplier in UAE | Bestech",
+        "meta-title": "Elevator Monostable Switch KCB-R-59121-NO Supplier in UAE | Bestech",
         meta_description:
-          "Order elevator monostable switch in Sharjah, Dubai & UAE. High-quality lift switch spare for Otis, Kone, Mitsubishi, Schindler, Hyundai & other brands.",
+          "Order elevator monostable switch kcb-r-59121-no in Sharjah, Dubai & UAE. High-quality lift switch spare for Otis, Kone, Mitsubishi, Schindler, Hyundai & other brands.",
         keywords:
-          "elevator monostable switch, elevator monostable switch suppliers Dubai, buy quality elevator monostable switch sharjah UAE",
+          "elevator monostable switch kcb-r-59121-no, elevator monostable switch kcb-r-59121-no suppliers Dubai, buy quality elevator monostable switch kcb-r-59121-no sharjah UAE",
         paragraph_text:
-          "<h2>High-Durability Elevator Monostable Switch</h2>\n<p>The elevator monostable switch is a momentary or spring-return switch designed with a single stable state. It returns to its default position automatically after being pressed, providing precise control in elevator systems. This switch is ideal for applications such as call buttons, door release controls, and safety interlocks, where temporary activation is required. Built for durability, the monostable switch ensures reliable performance under frequent use in UAE lift installations. Its compact design allows easy integration into both new elevator setups and maintenance upgrades, supporting safe and efficient operation.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Monostable / Momentary / Spring-return switch</li>\n  <li><strong>Function:</strong> Single stable state with automatic return</li>\n  <li><strong>Mechanism:</strong> Electrical impulse with spring return</li>\n  <li><strong>Durability:</strong> Suitable for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Call buttons, door release, safety circuits</li>\n  <li><strong>Build:</strong> Compact and robust for reliable integration</li>\n  <li><strong>Application:</strong> Elevators and industrial systems requiring temporary switch activation</li>\n</ul>",
+          "<h2>High-Durability Elevator Monostable Switch KCB-R-59121-NO</h2>\n<p>The elevator monostable switch kcb-r-59121-no is a momentary or spring-return switch designed with a single stable state. It returns to its default position automatically after being pressed, providing precise control in elevator systems. This switch is ideal for applications such as call buttons, door release controls, and safety interlocks, where temporary activation is required. Built for durability, the monostable switch kcb-r-59121-no ensures reliable performance under frequent use in UAE lift installations. Its compact design allows easy integration into both new elevator setups and maintenance upgrades, supporting safe and efficient operation.</p>\n<h2>Key Specifications:</h2>\n<ul>\n  <li><strong>Type:</strong> Monostable / Momentary / Spring-return switch</li>\n  <li><strong>Function:</strong> Single stable state with automatic return</li>\n  <li><strong>Mechanism:</strong> Electrical impulse with spring return</li>\n  <li><strong>Durability:</strong> Suitable for frequent elevator operation</li>\n  <li><strong>Use points:</strong> Call buttons, door release, safety circuits</li>\n  <li><strong>Build:</strong> Compact and robust for reliable integration</li>\n  <li><strong>Application:</strong> Elevators and industrial systems requiring temporary switch activation</li>\n</ul>",
       },
       {
         name: "Bestech brand: Roller Switch: BS-S3-B1370",
@@ -8558,22 +8558,23 @@ export const products = [
 
     items: [
       {
-        name: "K-Tool kit",
+        name: "Tool kit KM878240G01",
+        name: "",
         description: "",
         code: "BS-TL0001",
-        url: "/tool-kits/k-tool-kit",
+        url: "/tool-kits/tool-kit-km878240g01",
         image: "/img/products/tool-kits/k-tool-kit/elevator-k-tool-kit-1.jpg",
-        canonical: "https://www.bestechparts.ae/products/tool-kits/k-tool-kit",
+        canonical: "https://www.bestechparts.ae/products/tool-kits/tool-kit-km878240g01",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "O-Tool kit",
+        name: "Tool kit GAA21750AK3",
         description: "",
         code: "BS-TL0002",
-        url: "/tool-kits/o-tool-kit",
+        url: "/tool-kits/tool-kit-gaa21750ak3",
         image: "/img/products/tool-kits/o-tool-kit/elevator-o-tool-kit-1.jpg",
-        canonical: "https://www.bestechparts.ae/products/tool-kits/o-tool-kit",
+        canonical: "https://www.bestechparts.ae/products/tool-kits/tool-kit-gaa21750ak3",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },

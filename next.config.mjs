@@ -144,6 +144,26 @@ const nextConfig = {
         source: "/products/sensors/61u-61n-30-monostable-nc-switch",
         destination: "/products/sensors/kcb-r-59121-monostable-nc-switch",
         permanent: true,
+      },
+       {
+        source: "/products/switches/monostable-switch",
+        destination: "/products/switches/monostable-switch-kcb-r-59121-no",
+        permanent: true,
+      },
+      {
+        source: "/products/switches/bistable-switch",
+        destination: "/products/switches/bistable-switch-kcb-r-59122-no",
+        permanent: true,
+      },
+      {
+        source: "/products/tool-kits/o-tool-kit",
+        destination: "/products/tool-kits/tool-kit-gaa21750ak3",
+        permanent: true,
+      },
+      {
+        source: "/products/tool-kits/k-tool-kit",
+        destination: "/products/tool-kits/tool-kit-km878240g01",
+        permanent: true,
       }
 
 
