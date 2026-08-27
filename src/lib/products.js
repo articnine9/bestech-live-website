@@ -1056,7 +1056,7 @@ export const products = [
         code: "BS-BT0007",
         url: "/buttons/button-mtd482-da482a101",
         image: "/img/products/buttons/button-mtd482-da482a101/elevator-button-mtd482-da482a101-1.jpg",
-        slider: ["elevator-button-mtd482-da482a101-1", "elevator-button-mtd482-da482a101-2"],
+        slider: ["elevator-button-mtd482-da482a101-1", "elevator-button-mtd482-da482a101-2","elevator-button-mtd482-da482a101-3","elevator-button-mtd482-da482a101-4"],
         "meta-title":
           "Elevator Push Button MTD482 & DA482A101 in Sharjah | Bestech",
         meta_description:
@@ -1076,7 +1076,7 @@ export const products = [
         code: "BS-BT0008",
         url: "/buttons/button-mtd340",
         image: "/img/products/buttons/button-mtd340/elevator-button-mtd340-1.jpg",
-        slider: ["elevator-button-mtd340-1", "elevator-button-mtd340-2", "elevator-button-mtd340-3", "elevator-button-mtd340-4"],
+        slider: ["elevator-button-mtd340-1", "elevator-button-mtd340-2"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-mtd340",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
