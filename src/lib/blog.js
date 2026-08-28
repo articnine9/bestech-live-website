@@ -228,6 +228,13 @@ export const blogPosts = [
     description:
       "Learn which Otis elevator spare parts need replacement most and how to choose the right components for reliable elevator performance in the UAE.",
   },
+    {
+    slug: "top-elevator-spare-parts-for-maintenance-company-needed",
+    title: "Top 10 Elevator Spare Parts in UAE: What Maintenance Companies Need",
+    date: "2026-08-28",
+    description:
+      "Explore 10 commonly needed elevator spare parts in the UAE and what maintenance teams should check before sourcing replacement components.",
+  },
 ];
 
 // Function to fetch all blog posts
