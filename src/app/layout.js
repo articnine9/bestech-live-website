@@ -1,5 +1,3 @@
-"use client";
-
 import "../assets/css/bootstrap.min.css";
 import "../assets/css/all.min.css";
 import "../assets/css/style.css";
@@ -10,49 +8,11 @@ import "../assets/css/react-adjustment.css";
 import "../assets/css/module-css/about.css";
 import "../assets/css/module-css/footer.css";
 import "../assets/css/module-css/header.css";
-import FloatingButtons from "@/components/FloatingButtons";
-import Loading from "../components/Section/Common/Loading/Loading";
-import Footer from "../components/Section/Common/Footer";
-import Header from "../components/Section/Common/Header";
-import ChatPopup from "@/components/ChatPopup";
-import Chatbot from "@/components/Chatbot/Chatbot";
+import ClientLayout from "@/components/ClientLayout";
 import Script from "next/script";
 
-import React, { useEffect, useState } from "react";
-import { usePathname } from "next/navigation";
-
 export default function RootLayout({ children }) {
-  const [isLoading, setIsLoading] = useState(false);
-  const pathname = usePathname();
-
-  useEffect(() => {
-    setIsLoading(true);
-    const timer = setTimeout(() => {
-      setIsLoading(false);
-    }, 200);
-    return () => clearTimeout(timer);
-  }, [pathname]);
-
   // ✅ Defer non-critical animation CSS — loaded after page is interactive
-  useEffect(() => {
-    const deferredStyles = ["/css/animate.min.css", "/css/custom-animate.css"];
-    const load = () => {
-      deferredStyles.forEach((href) => {
-        if (!document.querySelector(`link[href="${href}"]`)) {
-          const link = document.createElement("link");
-          link.rel = "stylesheet";
-          link.href = href;
-          document.head.appendChild(link);
-        }
-      });
-    };
-    if (document.readyState === "complete") {
-      load();
-    } else {
-      window.addEventListener("load", load, { once: true });
-    }
-  }, []);
-
   // ✅ JSON-LD Structured Data
   const schemaData = {
     "@context": "https://schema.org",
@@ -237,7 +197,7 @@ export default function RootLayout({ children }) {
         {/* ✅ GTM — deferred until page is interactive, not blocking render */}
         <Script
           id="gtm-init"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
           dangerouslySetInnerHTML={{
             __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -258,19 +218,9 @@ export default function RootLayout({ children }) {
         </noscript>
 
         {/* ✅ Page Loading Spinner */}
-        <Loading isLoading={isLoading} />
+        <ClientLayout>{children}</ClientLayout>
 
         {/* ✅ Main Layout */}
-        {!isLoading && (
-          <>
-            <Header />
-            {children}
-            <ChatPopup />
-            <Chatbot />
-            <FloatingButtons />
-            <Footer />
-          </>
-        )}
       </body>
     </html>
   );
