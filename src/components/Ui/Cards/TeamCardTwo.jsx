@@ -11,16 +11,16 @@ const TeamCardTwo = ({ item }) => {
         <div className="inner">
           <img src={item?.image} alt="" />
           <div className="social-links">
-            <Link href={item?.socialLinks?.facebook} className="fb">
+            <Link href={item?.socialLinks?.facebook} className="fb" aria-label={`${item?.name || "Team member"} on Facebook`}>
               <span className="icon-facebook"></span>
             </Link>
-            <Link href={item?.socialLinks?.twitter} className="tw">
+            <Link href={item?.socialLinks?.twitter} className="tw" aria-label={`${item?.name || "Team member"} on X`}>
               <span className="icon-twitter"></span>
             </Link>
-            <Link href={item?.socialLinks?.instagram} className="ins">
+            <Link href={item?.socialLinks?.instagram} className="ins" aria-label={`${item?.name || "Team member"} on Instagram`}>
               <span className="icon-instagram"></span>
             </Link>
-            <Link href={item?.socialLinks?.linkedin} className="lin">
+            <Link href={item?.socialLinks?.linkedin} className="lin" aria-label={`${item?.name || "Team member"} on LinkedIn`}>
               <span className="icon-linkedin"></span>
             </Link>
           </div>
@@ -35,7 +35,7 @@ const TeamCardTwo = ({ item }) => {
       <div className="team-two__single-number">
         <ul className="team-two__single-number-box clearfix">
           <li className="icon-box">
-            <Link href="#">
+            <Link href="#" aria-label={`Call ${item?.name || "team member"}`}>
               <span className="icon-out-call"></span>
             </Link>
             <ul className="team-two__single-number-text">

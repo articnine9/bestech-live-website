@@ -23,7 +23,7 @@ const ServiceCardFour = ({item}) => {
                     </p>
                     <div className="count-box">{item?.count}</div>
                     <div className="btn-box">
-              <Link href={item.link}>
+              <Link href={item.link} aria-label={`Read more about ${item?.title || "this service"}`}>
                 Read More <i className="icon-right-arrow-5"></i>
               </Link>
               <div className="number-box">{item.count}</div>

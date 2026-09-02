@@ -16,7 +16,7 @@ const RelatedProduct = ({ item }) => {
         </h3>
         <p>{item?.description}</p>
         <div className="btn-box">
-          <Link href={`/products${item.url}`}>
+          <Link href={`/products${item.url}`} aria-label={`Read more about ${item?.name || "this product"}`}>
             Read More <span className="icon-right-arrow"></span>
           </Link>
         </div>

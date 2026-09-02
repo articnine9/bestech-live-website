@@ -22,7 +22,7 @@ export default function PostCardTwo({ title, category, date, thumbnail, full, })
                         </ul>
 
                         <div className="btn-box">
-                            <Link href="#"
+                            <Link href="#" aria-label={`Read more about ${title || "this article"}`}
                             >Read More <span className="icon-right-arrow-5"></span></Link>
                         </div>
                     </div>

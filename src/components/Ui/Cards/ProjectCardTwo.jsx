@@ -8,7 +8,7 @@ const ProjectCard = ({ item }) => {
                     <div className="overlay-content">
                         <div className="overlay-icon"><span className="icon-road-transport"></span></div>
                         <div className="icon-box">
-                            <Link href={item.link}><span className="icon-right-arrow-5"></span></Link>
+                            <Link href={item.link} aria-label={`View details for ${item?.title || "project"}`}><span className="icon-right-arrow-5"></span></Link>
                         </div>
                         <div className="text-box">
                             <p>{item.category}</p>

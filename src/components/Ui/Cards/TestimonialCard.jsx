@@ -25,19 +25,19 @@ const TestimonialCard = ({ item }) => {
               <h3>“Good Services”</h3>
             </div>
             <div className="rating-box">
-              <Link href="#">
+              <Link href="#" aria-label="Rating star 1 of 5">
                 <i className="icon-star"></i>
               </Link>
-              <Link href="#">
+              <Link href="#" aria-label="Rating star 2 of 5">
                 <i className="icon-star"></i>
               </Link>
-              <Link href="#">
+              <Link href="#" aria-label="Rating star 3 of 5">
                 <i className="icon-star"></i>
               </Link>
-              <Link href="#">
+              <Link href="#" aria-label="Rating star 4 of 5">
                 <i className="icon-star"></i>
               </Link>
-              <Link href="#">
+              <Link href="#" aria-label="Rating star 5 of 5">
                 <i className="icon-star"></i>
               </Link>
             </div>

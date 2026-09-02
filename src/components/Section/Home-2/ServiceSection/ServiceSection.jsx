@@ -75,7 +75,7 @@ export default function ServiceSection() {
                     <div className="count-box">{item?.number}</div>
                   </div>
                   <div className="btn-box">
-                    <Link className="thm-btn" href={item?.link}>
+                    <Link className="thm-btn" href={item?.link} aria-label={`Read more about ${item?.title || "this service"}`}>
                       <span className="txt">Read More</span>
                       <i className="icon-right-arrow"></i>
                     </Link>

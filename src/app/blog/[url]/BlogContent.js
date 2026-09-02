@@ -195,7 +195,9 @@ export default function BlogContent({ slug }) {
                       <h2 className="mb-2">Share this post:</h2>
                       <div className="d-flex gap-2 flex-wrap">
                         <button
+                          type="button"
                           className="btn btn-primary"
+                          aria-label="Share on Facebook"
                           onClick={() =>
                             window.open(
                               `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
@@ -209,7 +211,9 @@ export default function BlogContent({ slug }) {
                         </button>
 
                         <button
+                          type="button"
                           className="btn btn-info text-white"
+                          aria-label="Share on X"
                           onClick={() =>
                             window.open(
                               `https://twitter.com/intent/tweet?url=${encodeURIComponent(
@@ -223,7 +227,9 @@ export default function BlogContent({ slug }) {
                         </button>
 
                         <button
+                          type="button"
                           className="btn btn-secondary"
+                          aria-label="Share on LinkedIn"
                           onClick={() =>
                             window.open(
                               `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
@@ -237,7 +243,9 @@ export default function BlogContent({ slug }) {
                         </button>
 
                         <button
+                          type="button"
                           className="btn btn-success"
+                          aria-label="Share on WhatsApp"
                           onClick={() =>
                             window.open(
                               `https://api.whatsapp.com/send?text=${encodeURIComponent(

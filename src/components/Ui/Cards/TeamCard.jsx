@@ -7,16 +7,16 @@ const TeamCard = ({item}) => {
         <div className="inner">
           <img src={item?.img} alt="" />
           <div className="social-links">
-            <Link href="#">
+            <Link href="#" aria-label={`${item?.name || "Team member"} on Facebook`}>
               <span className="icon-facebook"></span>
             </Link>
-            <Link href="#">
+            <Link href="#" aria-label={`${item?.name || "Team member"} on X`}>
               <span className="icon-twitter"></span>
             </Link>
-            <Link href="#">
+            <Link href="#" aria-label={`${item?.name || "Team member"} on Instagram`}>
               <span className="icon-instagram"></span>
             </Link>
-            <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/">
+            <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/" aria-label={`${item?.name || "Team member"} on LinkedIn`}>
               <span className="icon-linkedin"></span>
             </Link>
           </div>

@@ -54,7 +54,7 @@ const Video = () => {
               <a>Watch Our Intro</a>
             </h3>
             <div className="icon">
-              <a>
+              <a aria-label="Next video">
                 <span className="icon-right-arrow-2"></span>
               </a>
             </div>
@@ -76,7 +76,7 @@ const Video = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-          <button className="mfp-close" onClick={closePopup}>×
+          <button type="button" className="mfp-close" aria-label="Close video" onClick={closePopup}>×
           </button>
         </div>
       </div>

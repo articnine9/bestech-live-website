@@ -162,16 +162,16 @@ const ProductDetails = () => {
                         <h3>Share:</h3>
                       </div>
                       <div className="social-links">
-                        <Link href="#">
+                        <Link href="#" aria-label="Share product on Facebook">
                           <span className="icon-facebook"></span>
                         </Link>
-                        <Link href="#">
+                        <Link href="#" aria-label="Share product on X">
                           <span className="icon-twitter"></span>
                         </Link>
-                        <Link href="#">
+                        <Link href="#" aria-label="Share product on Instagram">
                           <span className="icon-instagram"></span>
                         </Link>
-                        <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/">
+                        <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/" aria-label="Share product on LinkedIn">
                           <span className="icon-linkedin"></span>
                         </Link>
                       </div>
@@ -371,7 +371,7 @@ const ProductDetails = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-          <button className="mfp-close" onClick={closePopup}>
+          <button type="button" className="mfp-close" aria-label="Close video" onClick={closePopup}>
             ×
           </button>
         </div>

@@ -211,8 +211,8 @@ const ServiceDetails = ({ title, transportType, thumbnailOne, thumbnailTwo }) =>
                 </div>
                 <form action="#" className="sidebar__search-form">
                   <input type="search" placeholder="Search Here..." />
-                  <button type="submit">
-                    <i className="icon-magnifying-glass"></i>
+                  <button type="submit" aria-label="Search">
+                    <i className="icon-magnifying-glass" aria-hidden="true"></i>
                   </button>
                 </form>
               </div>
@@ -300,7 +300,7 @@ const ServiceDetails = ({ title, transportType, thumbnailOne, thumbnailTwo }) =>
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-          <button className="mfp-close" onClick={closePopup}>×
+          <button type="button" className="mfp-close" aria-label="Close video" onClick={closePopup}>×
           </button>
         </div>
       </div>

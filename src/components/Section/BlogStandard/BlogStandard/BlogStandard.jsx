@@ -79,7 +79,7 @@ const BlogStandard = () => {
                     letterng...
                   </p>
                   <div className="btn-box">
-                    <Link className="thm-btn" href="blog-details">
+                    <Link className="thm-btn" href="blog-details" aria-label="Read more about Rail Transport Service Functions by Bestech">
                       <span className="txt">Read More</span>
                     </Link>
                   </div>
@@ -148,7 +148,7 @@ const BlogStandard = () => {
                     letterng...
                   </p>
                   <div className="btn-box">
-                    <Link className="thm-btn" href="blog-details">
+                    <Link className="thm-btn" href="blog-details" aria-label="Read more about Advanced Service Functions by Rail Transport">
                       <span className="txt">Read More</span>
                     </Link>
                   </div>
@@ -193,7 +193,7 @@ const BlogStandard = () => {
                     letterng...
                   </p>
                   <div className="btn-box">
-                    <Link className="thm-btn" href="blog-details">
+                    <Link className="thm-btn" href="blog-details" aria-label="Read more about Advanced Service Functions by Road Freight">
                       <span className="txt">Read More</span>
                     </Link>
                   </div>
@@ -242,7 +242,7 @@ const BlogStandard = () => {
                     letterng...
                   </p>
                   <div className="btn-box">
-                    <Link className="thm-btn" href="blog-details">
+                    <Link className="thm-btn" href="blog-details" aria-label="Read more about Ocean Freight Service Functions by Bestech">
                       <span className="txt">Read More</span>
                     </Link>
                   </div>
@@ -259,7 +259,7 @@ const BlogStandard = () => {
                   <Link href="#">3</Link>
                 </li>
                 <li className="arrow next active">
-                  <Link href="#">
+                  <Link href="#" aria-label="Next blog page">
                     <span className="icon-right-arrow1"></span>
                   </Link>
                 </li>
@@ -292,7 +292,7 @@ const BlogStandard = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-          <button className="mfp-close" onClick={closePopup}>
+          <button type="button" className="mfp-close" aria-label="Close video" onClick={closePopup}>
             ×
           </button>
         </div>

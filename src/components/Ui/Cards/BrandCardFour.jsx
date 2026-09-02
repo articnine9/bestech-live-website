@@ -97,7 +97,7 @@ const BrandCardFour = ({ items }) => {
         {showModal && activeItem && (
           <div className="modal-overlay" onClick={handleCloseModal}>
             <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-              <button className="modal-close" onClick={handleCloseModal}>
+              <button type="button" className="modal-close" aria-label="Close details" onClick={handleCloseModal}>
                 &times;
               </button>
               <h2>{activeItem.name}</h2>

@@ -745,6 +745,7 @@ const RequestService = () => {
                   <div className="request-services-one__video">
                     <a
                       className="request-services-one__video-icon video-popup"
+                      aria-label="Play video"
                       onClick={openPopup}
                     >
                       <span className="txt icon-play-button-arrowhead"></span>
@@ -807,7 +808,7 @@ const RequestService = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-          <button className="mfp-close" onClick={closePopup}>×
+          <button type="button" className="mfp-close" aria-label="Close video" onClick={closePopup}>×
           </button>
         </div>
       </div>

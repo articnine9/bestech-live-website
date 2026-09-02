@@ -25,10 +25,10 @@ const TeamCardThree = ({ item }) => {
                     <h3><Link href={item?.link}>{item?.name}</Link></h3>
                     <p>{item?.position}</p>
                     <div className="social-links">
-                        <Link href={item?.social1?.link}><span className={item?.social1?.icon}></span></Link>
-                        <Link href={item?.social2?.link}><span className={item?.social2?.icon}></span></Link>
-                        <Link href={item?.social3?.link}><span className={item?.social3?.icon}></span></Link>
-                        <Link href={item?.social4?.link}><span className={item?.social4?.icon}></span></Link>
+                        <Link href={item?.social1?.link} aria-label={`${item?.name || "Team member"} social profile 1`}><span className={item?.social1?.icon}></span></Link>
+                        <Link href={item?.social2?.link} aria-label={`${item?.name || "Team member"} social profile 2`}><span className={item?.social2?.icon}></span></Link>
+                        <Link href={item?.social3?.link} aria-label={`${item?.name || "Team member"} social profile 3`}><span className={item?.social3?.icon}></span></Link>
+                        <Link href={item?.social4?.link} aria-label={`${item?.name || "Team member"} social profile 4`}><span className={item?.social4?.icon}></span></Link>
                     </div>
                 </div>
             </div>

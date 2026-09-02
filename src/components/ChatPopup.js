@@ -87,7 +87,9 @@ export default function ChatPopup() {
             />
             <div className="m-0 fw-bold">Online Consultation</div>
             <button
+              type="button"
               className="btn-close position-absolute end-0 me-3"
+              aria-label="Close consultation chat"
               onClick={() => {
                 setOpen(false);
                 sessionStorage.setItem("chatClosed", "true");

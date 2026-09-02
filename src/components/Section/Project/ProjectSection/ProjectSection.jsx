@@ -15,7 +15,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img1.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -33,7 +33,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img2.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -52,7 +52,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img3.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -71,7 +71,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img4.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -90,7 +90,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img5.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -109,7 +109,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img6.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -128,7 +128,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img7.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -147,7 +147,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img8.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -166,7 +166,7 @@ const ProjectSection = () => {
                             <div className="inner">
                                 <img src="/img/project/project-v2-img9.jpg" alt=""/>
                                 <div className="btn-box">
-                                    <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                                    <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
                                 <div className="overlay-content">
                                     <p>Ocean Freight</p>
@@ -183,7 +183,7 @@ const ProjectSection = () => {
                 <li><Link href="#">1</Link></li>
                 <li><Link href="#">2</Link></li>
                 <li><Link href="#">3</Link></li>
-                <li className="arrow next active"><Link href="#"><span className="icon-right-arrow1"></span></Link>
+                <li className="arrow next active"><Link href="#" aria-label="Next project page"><span className="icon-right-arrow1"></span></Link>
                 </li>
             </ul>
 

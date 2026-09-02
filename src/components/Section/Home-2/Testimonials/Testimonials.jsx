@@ -73,7 +73,7 @@ export default function Testimonials() {
                 <div className="testimonials-two__single-bottom">
                   <div className="rating-box">
                     {[...Array(5)].map((_, index) => (
-                      <Link href="#" key={index}>
+                      <Link href="#" key={index} aria-label={`Rating star ${index + 1} of 5`}>
                         <i className="icon-star"></i>
                       </Link>
                     ))}

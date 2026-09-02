@@ -68,6 +68,7 @@ const Footer = () => {
                     <div className="footer-social-link">
                       <Link
                         href="https://www.facebook.com/bestech.spareparts"
+                        aria-label="Visit Bestech Spare Parts on Facebook"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -75,6 +76,7 @@ const Footer = () => {
                       </Link>
                       <Link
                         href="https://www.instagram.com/bestech_spareparts/"
+                        aria-label="Visit Bestech Spare Parts on Instagram"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -82,6 +84,7 @@ const Footer = () => {
                       </Link>
                       <Link
                         href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
+                        aria-label="Visit Bestech Spare Parts on LinkedIn"
                         target="_blank"
                         rel="noopener noreferrer"
                       >

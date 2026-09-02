@@ -103,11 +103,11 @@ const Testimonials = () => {
                                                             <h3>“Cargo Transport”</h3>
                                                         </div>
                                                         <div className="rating-box">
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
                                                         </div>
                                                     </div>
 
@@ -136,11 +136,11 @@ const Testimonials = () => {
                                                             <h3>“Cargo Transport”</h3>
                                                         </div>
                                                         <div className="rating-box">
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
                                                         </div>
                                                     </div>
 
@@ -169,11 +169,11 @@ const Testimonials = () => {
                                                             <h3>“Cargo Transport”</h3>
                                                         </div>
                                                         <div className="rating-box">
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
                                                         </div>
                                                     </div>
 
@@ -202,11 +202,11 @@ const Testimonials = () => {
                                                             <h3>“Cargo Transport”</h3>
                                                         </div>
                                                         <div className="rating-box">
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
-                                                            <Link href="#"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
+                                                            <Link href="#" aria-label="Rating: 5 out of 5 stars"><i className="icon-star"></i></Link>
                                                         </div>
                                                     </div>
 

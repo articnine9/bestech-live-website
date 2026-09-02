@@ -8,7 +8,7 @@ const SearchCard = () => {
             </div>
             <form action="#" className="sidebar__search-form">
                 <input type="search" placeholder="Search Here..." />
-                <button type="submit"><i className="icon-magnifying-glass"></i></button>
+                <button type="submit" aria-label="Search"><i className="icon-magnifying-glass" aria-hidden="true"></i></button>
             </form>
         </div>
     );

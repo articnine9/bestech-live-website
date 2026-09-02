@@ -17,7 +17,7 @@ const ServiceCard = ({ item }) => {
         </h3>
         <p>{item?.description}</p>
         <div className="btn-box">
-          <Link href={`/products/${item.link}`}>
+          <Link href={`/products/${item.link}`} aria-label={`Read more about ${item?.title || "this product"}`}>
             Read More <span className="icon-right-arrow"></span>
           </Link>
         </div>

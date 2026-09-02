@@ -30,7 +30,7 @@ const BrochureCard = () => {
           </div>
 
           <div className="btn-box">
-            <Link href="">
+            <Link href="" aria-label="View company presentation brochure">
               <span className="icon-right-arrow-5"></span>
             </Link>
           </div>
@@ -55,7 +55,7 @@ const BrochureCard = () => {
           </div>
 
           <div className="btn-box">
-            <Link href="">
+            <Link href="" aria-label="View company profile brochure">
               <span className="icon-right-arrow-5"></span>
             </Link>
           </div>

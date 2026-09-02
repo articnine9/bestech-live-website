@@ -48,7 +48,10 @@ const BlogCardFour = ({ items, productcode }) => {
                   </ul> */}
 
                   <div className="btn-box">
-                    <Link href={`/products${safeLink}`}>
+                    <Link
+                      href={`/products${safeLink}`}
+                      aria-label={`Read more about ${item?.name || "this product"}`}
+                    >
                       Read More <span className="icon-right-arrow-5"></span>
                     </Link>
                   </div>

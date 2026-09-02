@@ -14,7 +14,7 @@ const ProjectCardFour = ({ item }) => {
                             <span className={item?.iconClass}></span>
                         </div>
                         <div className="icon-box">
-                            <Link href="project-details"><span className="icon-right-arrow-5"></span></Link>
+                            <Link href="project-details" aria-label={`View details for ${item?.title || "project"}`}><span className="icon-right-arrow-5"></span></Link>
                         </div>
                         <div className="text-box">
                             <p>Logistic</p>

@@ -117,16 +117,16 @@ const TeamDetails = () => {
                   </div>
 
                   <div className="team-details__top-content-social-links">
-                    <Link href="#">
+                    <Link href="#" aria-label="Facebook profile">
                       <span className="icon-facebook"></span>
                     </Link>
-                    <Link href="#">
+                    <Link href="#" aria-label="X profile">
                       <span className="icon-twitter"></span>
                     </Link>
-                    <Link href="#">
+                    <Link href="#" aria-label="Instagram profile">
                       <span className="icon-instagram"></span>
                     </Link>
-                    <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/">
+                    <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/" aria-label="LinkedIn profile">
                       <span className="icon-linkedin"></span>
                     </Link>
                   </div>

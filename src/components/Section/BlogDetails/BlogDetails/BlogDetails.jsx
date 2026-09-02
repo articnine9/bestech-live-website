@@ -119,10 +119,10 @@ const BlogDetails = () => {
                                                 <h3>Share:</h3>
                                             </div>
                                             <div className="social-links">
-                                                <Link href="#"><span className="icon-facebook"></span></Link>
-                                                <Link href="#"><span className="icon-twitter"></span></Link>
-                                                <Link href="#"><span className="icon-instagram"></span></Link>
-                                                <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"><span className="icon-linkedin"></span></Link>
+                                                <Link href="#" aria-label="Share article on Facebook"><span className="icon-facebook"></span></Link>
+                                                <Link href="#" aria-label="Share article on X"><span className="icon-twitter"></span></Link>
+                                                <Link href="#" aria-label="Share article on Instagram"><span className="icon-instagram"></span></Link>
+                                                <Link href="https://www.linkedin.com/company/bestech-elevators-spare-parts/" aria-label="Share article on LinkedIn"><span className="icon-linkedin"></span></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -277,7 +277,7 @@ const BlogDetails = () => {
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
                     ></iframe>
-                    <button className="mfp-close" onClick={closePopup}>×
+                    <button type="button" className="mfp-close" aria-label="Close video" onClick={closePopup}>×
                     </button>
                 </div>
             </div>

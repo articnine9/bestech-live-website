@@ -32,7 +32,7 @@ const BlogCardThree = ({ item }) => {
             <li>{item.date}</li>
           </ul> */}
           <div className="btn-box">
-            <Link href={`/blog/${item.link}`}>
+            <Link href={`/blog/${item.link}`} aria-label={`Read more about ${item?.title || "this article"}`}>
               Read More <span className="icon-right-arrow-5"></span>
             </Link>
           </div>

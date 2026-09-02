@@ -119,6 +119,7 @@ export default function About() {
                                     </div>
                                     <a
                                         className="about-two__video-icon video-popup"
+                                        aria-label="Play video"
                                         onClick={openPopup}
                                         style={{ zIndex: "9999999" }}
                                     >
@@ -169,7 +170,7 @@ export default function About() {
 
                             <div className="about-two__content-bottom">
                                 <div className="btn-box">
-                                    <Link className="thm-btn" href="about">
+                                    <Link className="thm-btn" href="about" aria-label="Read more about Bestech">
                                         <span className="txt">Read More</span>
                                         <i className="icon-right-arrow"></i>
                                     </Link>
@@ -204,7 +205,7 @@ export default function About() {
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
                     ></iframe>
-                    <button className="mfp-close" onClick={closePopup}>×
+                    <button type="button" className="mfp-close" aria-label="Close video" onClick={closePopup}>×
                     </button>
                 </div>
             </div>

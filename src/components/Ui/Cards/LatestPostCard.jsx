@@ -24,7 +24,7 @@ const LatestPostCard = ({ item }) => {
             <div className="blog-two__single">
                 <div className="blog-two__single-content">
                     <h2>
-                        <Link href="blog-details"
+                        <Link href="blog-details" aria-label={`Read more about ${item?.title || "this article"}`}
                         >{item?.title}</Link>
                     </h2>
                     <ul className="meta-box">

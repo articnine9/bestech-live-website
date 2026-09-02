@@ -20,7 +20,7 @@ const ServiceCardFive = ({ service }) => {
             <p>{service.description}</p>
             <div className="count-box">{service.count}</div>
             <div className="btn-box">
-              <Link href={service.link}>
+              <Link href={service.link} aria-label={`Read more about ${service?.title || "this service"}`}>
                 Read More <i className="icon-right-arrow-5"></i>
               </Link>
               <div className="number-box">{service.number}</div>

@@ -64,6 +64,7 @@ const DetailsSection = ({ product, category }) => {
                     <button
                       type="button"
                       className="slider-control--button prev-button"
+                      aria-label="Previous slide"
                       onClick={() => goToSlide(currentSlideIndex - 1)}
                     >
                       &#8592;
@@ -80,6 +81,7 @@ const DetailsSection = ({ product, category }) => {
                     <button
                       type="button"
                       className="slider-control--button next-button"
+                      aria-label="Next slide"
                       onClick={() => goToSlide(currentSlideIndex + 1)}
                     >
                       &#8594;
@@ -90,7 +92,9 @@ const DetailsSection = ({ product, category }) => {
                     {images.map((imgSrc, index) => (
                       <button
                         key={index}
+                        type="button"
                         className="nav-button"
+                        aria-label={`Go to slide ${index + 1}`}
                         aria-selected={index === currentSlideIndex}
                         onClick={() => goToSlide(index)}
                       >
@@ -142,7 +146,9 @@ const DetailsSection = ({ product, category }) => {
           onClick={() => setLightboxOpen(false)}
         >
           <button
+            type="button"
             className="lightbox-arrow left"
+            aria-label="Previous image"
             onClick={(e) => {
               e.stopPropagation();
               goToSlide(currentSlideIndex - 1);
@@ -159,7 +165,9 @@ const DetailsSection = ({ product, category }) => {
           />
 
           <button
+            type="button"
             className="lightbox-arrow right"
+            aria-label="Next image"
             onClick={(e) => {
               e.stopPropagation();
               goToSlide(currentSlideIndex + 1);
@@ -169,7 +177,9 @@ const DetailsSection = ({ product, category }) => {
           </button>
 
           <button
+            type="button"
             className="lightbox-close"
+            aria-label="Close image viewer"
             onClick={() => setLightboxOpen(false)}
           >
             &times;
