@@ -12,7 +12,7 @@ export default function FaqSection() {
       <div
         className="faq-one__bg"
         style={{
-          backgroundImage: "url(/img/resource/faq-v2-bg.jpg)",
+          backgroundImage: "url(/img/resource/faq-v2-bg.webp)",
         }}
       ></div>
       <div className="container">

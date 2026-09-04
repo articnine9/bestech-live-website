@@ -6,13 +6,13 @@ const Cta = () => {
       <div className="container">
         <div className="cta-one__inner">
           <div className="cta-one__shape1">
-            <img src="/img/shape/cta-one__shape1.png" alt="" />
+            <img src="/img/shape/cta-one__shape1.webp" alt="" />
           </div>
           <div className="cta-one__shape2">
-            <img src="/img/shape/cta-one__shape2.png" alt="" />
+            <img src="/img/shape/cta-one__shape2.webp" alt="" />
           </div>
           <div className="cta-one__shape3 float-bob-x">
-            <img src="/img/shape/cta-one__shape5.png" alt="#" />
+            <img src="/img/shape/cta-one__shape5.webp" alt="#" />
           </div>
           <div className="cta-one__inner-box">
             <div className="title-box">

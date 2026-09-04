@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const PageHeader = ({ title, breadcrumbs = [], bgImage = "/img/home/faq/2.jpg" }) => {
+const PageHeader = ({ title, breadcrumbs = [], bgImage = "/img/home/faq/2.webp" }) => {
 
   return (
     <section className="page-header padding">

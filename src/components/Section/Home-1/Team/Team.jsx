@@ -13,7 +13,7 @@ const Team = () => {
     <section className="team-one padding">
       <div
         className="team-one__bg"
-        style={{ backgroundImage: "url(/img/bg/team-v1-bg.jpg)" }}
+        style={{ backgroundImage: "url(/img/bg/team-v1-bg.webp)" }}
       ></div>
       <div className="container">
         <div className="team-one__top">

@@ -39,7 +39,7 @@ const categories = [
 const productcategories = [
   {
     title: "Electrical Components",
-    image: "/img/product-default-img.jpg",
+    image: "/img/product-default-img.webp",
     link: "electrical",
     items: [
       { name: "Electrical", link: "electrical" },
@@ -52,7 +52,7 @@ const productcategories = [
   },
   {
     title: "Door Systems",
-    image: "/img/product-default-img.jpg",
+    image: "/img/product-default-img.webp",
     link: "door-systems",
     items: [
       { name: "Door Locks", link: "door-locks" },
@@ -64,7 +64,7 @@ const productcategories = [
   },
   {
     title: "Control Systems",
-    image: "/img/product-default-img.jpg",
+    image: "/img/product-default-img.webp",
     link: "control-systems",
     items: [
       { name: "Buttons", link: "buttons" },
@@ -76,7 +76,7 @@ const productcategories = [
   },
   {
     title: "Other Components",
-    image: "/img/product-default-img.jpg",
+    image: "/img/product-default-img.webp",
     link: "other",
     items: [
       { name: "Encoders", link: "encoders" },

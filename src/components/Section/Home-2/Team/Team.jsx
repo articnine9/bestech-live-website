@@ -18,7 +18,7 @@ const Teams = () => {
     <section className="team-two padding">
       <div
         className="team-two__bg"
-        style={{ backgroundImage: "url(/img/background/team-v2-bg.jpg)" }}
+        style={{ backgroundImage: "url(/img/background/team-v2-bg.webp)" }}
       ></div>
       <div className="container">
         <div className="sec-title-two">

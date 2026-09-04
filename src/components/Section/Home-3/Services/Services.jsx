@@ -23,14 +23,14 @@ const Services = () => {
             <section className="services-three padding">
                 <div
                     className="services-three__bg"
-                    style={{ backgroundImage: "url(/img/background/services-v3-bg.jpg)" }}
+                    style={{ backgroundImage: "url(/img/background/services-v3-bg.webp)" }}
                 ></div>
                 <div className="container">
                     <div className="services-three__top">
                         <div className="sec-title-style3">
                             <div className="sub-title">
                                 <div className="icon">
-                                    <img src="/img/icon/title-marker.png" alt="" />
+                                    <img src="/img/icon/title-marker.webp" alt="" />
                                 </div>
                                 <h5>Our Services</h5>
                             </div>

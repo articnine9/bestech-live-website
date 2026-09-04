@@ -18,13 +18,13 @@ const Testimonials = () => {
             <section className="testimonials-three padding">
                 <div
                     className="testimonials-three__bg"
-                    style={{ backgroundImage: 'url(/img/background/testimonials-v3-bg.jpg)' }}
+                    style={{ backgroundImage: 'url(/img/background/testimonials-v3-bg.webp)' }}
                 ></div>
                 <div className="container">
                     <div className="sec-title-style3 text-center">
                         <div className="sub-title center">
                             <div className="icon">
-                                <img src="/img/icon/title-marker.png" alt="" />
+                                <img src="/img/icon/title-marker.webp" alt="" />
                             </div>
                             <h5>Testimonials</h5>
                         </div>
@@ -39,7 +39,7 @@ const Testimonials = () => {
                         >
                             <div className="testimonials-three__img">
                                 <img
-                                    src="/img/testimonial/testimonials-v3-img1.jpg"
+                                    src="/img/testimonial/testimonials-v3-img1.webp"
                                     alt=""
                                 />
                             </div>
@@ -64,21 +64,21 @@ const Testimonials = () => {
                                             // Assign different image sources based on the index
                                             switch (index) {
                                                 case 0:
-                                                    imageSrc = "/img/testimonial/testimonials-v3-img2.jpg";
+                                                    imageSrc = "/img/testimonial/testimonials-v3-img2.webp";
                                                     break;
                                                 case 1:
-                                                    imageSrc = "/img/testimonial/testimonials-v3-img3.jpg";
+                                                    imageSrc = "/img/testimonial/testimonials-v3-img3.webp";
                                                     break;
                                                 case 2:
-                                                    imageSrc = "/img/testimonial/testimonials-v3-img4.jpg";
+                                                    imageSrc = "/img/testimonial/testimonials-v3-img4.webp";
                                                     break;
                                                 case 3:
-                                                    imageSrc = "/img/testimonial/testimonials-v3-img5.jpg";
+                                                    imageSrc = "/img/testimonial/testimonials-v3-img5.webp";
                                                     break;
                                                 // Add more cases for additional images
                                                 default:
                                                     // Use a default image if needed
-                                                    imageSrc = "/img/default.jpg";
+                                                    imageSrc = "/img/default.webp";
                                                     break;
                                             }
                                             return '<span class="' + className + '"><img src="' + imageSrc + '" alt="Bullet ' + (index + 1) + '"></span>';

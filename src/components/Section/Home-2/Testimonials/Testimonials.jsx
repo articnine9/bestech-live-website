@@ -20,7 +20,7 @@ export default function Testimonials() {
       <div
         className="testimonials-two__bg"
         style={{
-          backgroundImage: "url(/img/background/testimonials-v2-bg.jpg)",
+          backgroundImage: "url(/img/background/testimonials-v2-bg.webp)",
         }}
       ></div>
       <div className="container">
@@ -113,7 +113,7 @@ export default function Testimonials() {
 
       <div className="brand-one padding margin-top">
         <div className="shape1 float-bob-x">
-          <img src="/img/shape/brand-v1-shape1.png" alt="" />
+          <img src="/img/shape/brand-v1-shape1.webp" alt="" />
         </div>
         <div className="big-title">partner</div>
         <div className="container">
@@ -156,52 +156,52 @@ export default function Testimonials() {
             <div className="swiper-wrapper">
               <SwiperSlide className="swiper-slide">
                 <div className="img-box">
-                  <img src="/img/brand/brand-v1-img1.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img1.webp" alt="#" />
                 </div>
                 <div className="img-box2">
-                  <img src="/img/brand/brand-v1-img1.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img1.webp" alt="#" />
                 </div>
               </SwiperSlide>
               <SwiperSlide className="swiper-slide">
                 <div className="img-box">
-                  <img src="/img/brand/brand-v1-img2.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img2.webp" alt="#" />
                 </div>
                 <div className="img-box2">
-                  <img src="/img/brand/brand-v1-img2.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img2.webp" alt="#" />
                 </div>
               </SwiperSlide>
               <SwiperSlide className="swiper-slide">
                 <div className="img-box">
-                  <img src="/img/brand/brand-v1-img3.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img3.webp" alt="#" />
                 </div>
 
                 <div className="img-box2">
-                  <img src="/img/brand/brand-v1-img3.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img3.webp" alt="#" />
                 </div>
               </SwiperSlide>
               <SwiperSlide className="swiper-slide">
                 <div className="img-box">
-                  <img src="/img/brand/brand-v1-img4.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img4.webp" alt="#" />
                 </div>
                 <div className="img-box2">
-                  <img src="/img/brand/brand-v1-img4.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img4.webp" alt="#" />
                 </div>
               </SwiperSlide>
 
               <SwiperSlide className="swiper-slide">
                 <div className="img-box">
-                  <img src="/img/brand/brand-v1-img5.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img5.webp" alt="#" />
                 </div>
                 <div className="img-box2">
-                  <img src="/img/brand/brand-v1-img5.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img5.webp" alt="#" />
                 </div>
               </SwiperSlide>
               <SwiperSlide className="swiper-slide">
                 <div className="img-box">
-                  <img src="/img/brand/brand-v1-img4.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img4.webp" alt="#" />
                 </div>
                 <div className="img-box2">
-                  <img src="/img/brand/brand-v1-img4.png" alt="#" />
+                  <img src="/img/brand/brand-v1-img4.webp" alt="#" />
                 </div>
               </SwiperSlide>
             </div>

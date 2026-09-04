@@ -18,11 +18,11 @@ export default function ServiceSection() {
       <div
         className="services-two__bg"
         style={{
-          backgroundImage: "url(/img/background/services-v2-bg.jpg)",
+          backgroundImage: "url(/img/background/services-v2-bg.webp)",
         }}
       ></div>
       <div className="shape1">
-        <img src="/img/shape/services-v2-shape1.png" alt="" />
+        <img src="/img/shape/services-v2-shape1.webp" alt="" />
       </div>
       <div className="container">
         <div className="sec-title-two">

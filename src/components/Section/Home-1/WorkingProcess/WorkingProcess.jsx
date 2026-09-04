@@ -24,7 +24,7 @@ const WorkingProcess = () => {
       <div
         className="working-process-one__bg"
         style={{
-          backgroundImage: "url(/img/background/working-process-v1-bg.jpg)",
+          backgroundImage: "url(/img/background/working-process-v1-bg.webp)",
         }}
       ></div>
       <div className="container">
@@ -44,11 +44,11 @@ const WorkingProcess = () => {
           >
             <div className="working-process-one__single">
               <div className="shape1">
-                <img src="/img/shape/working-process-v1-shape1.png" alt="" />
+                <img src="/img/shape/working-process-v1-shape1.webp" alt="" />
               </div>
               <div className="working-process-one__single-top">
                 <div className="icon">
-                  <img src="/img/icon/working-process/step-1.png" alt="" />
+                  <img src="/img/icon/working-process/step-1.webp" alt="" />
                 </div>
                 <div className="text">
                   <h2>Step - 1</h2>
@@ -72,11 +72,11 @@ const WorkingProcess = () => {
           >
             <div className="working-process-one__single ml60">
               <div className="shape1">
-                <img src="/img/shape/working-process-v1-shape1.png" alt="" />
+                <img src="/img/shape/working-process-v1-shape1.webp" alt="" />
               </div>
               <div className="working-process-one__single-top">
                 <div className="icon">
-                  <img src="/img/icon/working-process/step-2.png" alt="" />
+                  <img src="/img/icon/working-process/step-2.webp" alt="" />
                 </div>
                 <div className="text">
                   <h2>Step - 2</h2>
@@ -101,7 +101,7 @@ const WorkingProcess = () => {
             <div className="working-process-one__single ml80">
               <div className="working-process-one__single-top">
                 <div className="icon">
-                  <img src="/img/icon/working-process/step-3.png" alt="" />
+                  <img src="/img/icon/working-process/step-3.webp" alt="" />
                 </div>
                 <div className="text">
                   <h2>Step - 3</h2>

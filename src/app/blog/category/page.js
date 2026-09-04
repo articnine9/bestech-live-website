@@ -15,7 +15,7 @@ export default function CategoryListPage() {
                     <section className="page-header padding">
                         <div
                             className="page-header__bg"
-                            style={{ backgroundImage: 'url("/img/home/faq/2.jpg")' }}
+                            style={{ backgroundImage: 'url("/img/home/faq/2.webp")' }}
                         ></div>
                         <div className="container">
                             <div className="page-header__inner text-center">
@@ -58,7 +58,7 @@ export default function CategoryListPage() {
                                             <div className="blog-two__single-img">
                                                  <Link href={`/blog/category/${slug}`}>
                                                 <div className="inner">
-                                                    <img src="/img/product-default-img.jpg" alt={cat} />
+                                                    <img src="/img/product-default-img.webp" alt={cat} />
                                                 </div>
                                                 </Link>
                                             </div>

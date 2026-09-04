@@ -88,7 +88,7 @@ const INDEX = CATEGORIES.flatMap((cat) =>
     name: item.name || "",
     description: item.description || "",
     code: item.code || "",
-    image: item.image || "/img/product-default-img.jpg",
+    image: item.image || "/img/product-default-img.webp",
     url: `/products${item.url}`,
     categorySlug: cat.slug,
     categoryName: cat.name,
@@ -113,7 +113,7 @@ export function getCategoryProducts(slug, limit = 6) {
     name: item.name,
     description: item.description || "",
     code: item.code,
-    image: item.image || "/img/product-default-img.jpg",
+    image: item.image || "/img/product-default-img.webp",
     url: `/products${item.url}`,
     categoryName: cat.name,
   }));

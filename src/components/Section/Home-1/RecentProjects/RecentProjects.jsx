@@ -13,13 +13,13 @@ const RecentProjects = () => {
     <section className="project-one padding">
       <div
         className="project-one__bg"
-        style={{ backgroundImage: "url(/img/bg/project-v1-bg.jpg)" }}
+        style={{ backgroundImage: "url(/img/bg/project-v1-bg.webp)" }}
       ></div>
       <div className="shape1">
-        <img src="/img/shape/project-v1-shape1.png" alt="" />
+        <img src="/img/shape/project-v1-shape1.webp" alt="" />
       </div>
       <div className="shape2">
-        <img src="/img/shape/project-v1-shape2.png" alt="" />
+        <img src="/img/shape/project-v1-shape2.webp" alt="" />
       </div>
       <div className="container">
         <div className="project-one__top">

@@ -8,7 +8,7 @@ const LatestPost = () => {
     <section className="blog-two blog-two-padding">
       <div
         className="blog-two__pattern"
-        style={{ backgroundImage: "url(/img/pattern/blog-v2-pattern.jpg)" }}
+        style={{ backgroundImage: "url(/img/pattern/blog-v2-pattern.webp)" }}
       ></div>
       <div className="container">
         <div className="blog-two__top">

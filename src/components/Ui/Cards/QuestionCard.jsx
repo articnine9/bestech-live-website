@@ -9,7 +9,7 @@ const QuestionCard = () => {
       <div
         className="sidebar__contact-bg"
         style={{
-          backgroundImage: "url(/img/service/services-details-img3.jpg)",
+          backgroundImage: "url(/img/service/services-details-img3.webp)",
         }}
       ></div>
       <div className="sidebar__contact-box">

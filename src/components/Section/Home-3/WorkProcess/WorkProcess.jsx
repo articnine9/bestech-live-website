@@ -15,13 +15,13 @@ const WorkProcess = () => {
             <section className="work-process-two  padding">
                 <div
                     className="work-process-two__bg"
-                    style={{ backgroundImage: "url(/img/background/work-process-v2-bg.jpg)" }}
+                    style={{ backgroundImage: "url(/img/background/work-process-v2-bg.webp)" }}
                 ></div>
                 <div className="container">
                     <div className="sec-title-style3 text-center">
                         <div className="sub-title center">
                             <div className="icon">
-                                <img src="/img/icon/title-marker.png" alt="" />
+                                <img src="/img/icon/title-marker.webp" alt="" />
                             </div>
                             <h5>work process</h5>
                         </div>
@@ -32,7 +32,7 @@ const WorkProcess = () => {
                         <div className="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                             <div className="work-process-two__single">
                                 <div className="shape1">
-                                    <img src="/img/shape/work-process-v2-shape1.png" alt="" />
+                                    <img src="/img/shape/work-process-v2-shape1.webp" alt="" />
                                 </div>
                                 <div className="work-process-two__single-icon">
                                     <div className="inner">
@@ -61,7 +61,7 @@ const WorkProcess = () => {
                             <div className="work-process-two__single">
                                 <div className="shape1">
                                     <img
-                                        src="/img/shape/work-process-v2-shape1.png"
+                                        src="/img/shape/work-process-v2-shape1.webp"
                                         alt=""
                                     />
                                 </div>

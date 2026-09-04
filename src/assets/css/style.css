@@ -1201,7 +1201,7 @@ label {
   visibility: hidden;
   transition: all 200ms linear;
   transition-delay: 0.1s;
-  cursor: url(/img/icon/cross-out.png), pointer;
+  cursor: url(/img/icon/cross-out.webp), pointer;
   z-index: 99999999;
 }
 

@@ -23,7 +23,7 @@ const LatestPostCardTwo= () => {
         <ul className="sidebar__latest-post-list">
             <li>
                 <div className="img-box">
-                    <img src="/img/blog/sidebar-img1.jpg" alt=""/>
+                    <img src="/img/blog/sidebar-img1.webp" alt=""/>
                 </div>
 
                 <div className="text-box">
@@ -34,7 +34,7 @@ const LatestPostCardTwo= () => {
 
             <li>
                 <div className="img-box">
-                    <img src="/img/blog/sidebar-img2.jpg" alt=""/>
+                    <img src="/img/blog/sidebar-img2.webp" alt=""/>
                 </div>
 
                 <div className="text-box">
@@ -45,7 +45,7 @@ const LatestPostCardTwo= () => {
 
             <li>
                 <div className="img-box">
-                    <img src="/img/blog/sidebar-img3.jpg" alt=""/>
+                    <img src="/img/blog/sidebar-img3.webp" alt=""/>
                 </div>
 
                 <div className="text-box">
@@ -56,7 +56,7 @@ const LatestPostCardTwo= () => {
 
             <li>
                 <div className="img-box">
-                    <img src="/img/blog/sidebar-img4.jpg" alt=""/>
+                    <img src="/img/blog/sidebar-img4.webp" alt=""/>
                 </div>
 
                 <div className="text-box">

@@ -7,7 +7,7 @@ const ChooseUs = () => {
     <section className="choose-us-one padding ">
       <div
         className="blog-one__pattern"
-        style={{ backgroundImage: "url(/img/pattern/blog-v1-pattern.jpg)" }}
+        style={{ backgroundImage: "url(/img/pattern/blog-v1-pattern.webp)" }}
       ></div>
       <div className="container">
         <div className="sec-title text-center">

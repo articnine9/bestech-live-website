@@ -42,7 +42,7 @@ const Faq = () => {
           <div className="sec-title-style3">
             <div className="sub-title">
               <div className="icon">
-                <img src="/img/icon/title-marker-4.png" alt="bestech" />
+                <img src="/img/icon/title-marker-4.webp" alt="bestech" />
               </div>
               <h5>Faq</h5>
             </div>
@@ -136,7 +136,7 @@ const Faq = () => {
           <div className="col-xl-6">
             <div className="faq-three__video">
               <div className="faq-three__video-img">
-                <img src="/img/resource/faq-v3-img1.jpg" alt="" />
+                <img src="/img/resource/faq-v3-img1.webp" alt="" />
 
                 <div className="faq-three__video-box">
                   <a

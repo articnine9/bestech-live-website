@@ -6,13 +6,13 @@ const CtaTwo = () => {
             <div className="container">
                 <div className="cta-two__inner" style={{ backgroundColor: "#ff5e15" }}>
                     <div className="shape1">
-                        <img src="/img/shape/cta-v2-shape1.png" alt="" />
+                        <img src="/img/shape/cta-v2-shape1.webp" alt="" />
                     </div>
                     <div className="shape2">
-                        <img src="/img/shape/cta-v2-shape2.png" alt="" />
+                        <img src="/img/shape/cta-v2-shape2.webp" alt="" />
                     </div>
                     <div className="shape3 float-bob-x">
-                        <img src="/img/shape/cta-v2-shape3.png" alt="" />
+                        <img src="/img/shape/cta-v2-shape3.webp" alt="" />
                     </div>
                     <div className="cta-two__inner-box">
                         <div className="title-box">

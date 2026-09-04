@@ -9,7 +9,7 @@ export default function Pricing() {
             <div
                 className="pricing-one__bg"
                 style={{
-                    backgroundImage: "url(/img/background/pricing-v1-bg.jpg)"
+                    backgroundImage: "url(/img/background/pricing-v1-bg.webp)"
                 }}
             ></div>
             <div className="container">
@@ -27,12 +27,12 @@ export default function Pricing() {
                             <div
                                 className="pricing-one__single-bg"
                                 style={{
-                                    backgroundImage: 'url(/img/resource/pricing-v1-single-bg.jpg)'
+                                    backgroundImage: 'url(/img/resource/pricing-v1-single-bg.webp)'
                                 }}
                             ></div>
                             <div className="table-header">
                                 <div className="img-box">
-                                    <img src="/img/resource/pricing-v1-img1.jpg" alt="" />
+                                    <img src="/img/resource/pricing-v1-img1.webp" alt="" />
                                 </div>
                             </div>
 
@@ -78,13 +78,13 @@ export default function Pricing() {
                             <div
                                 className="pricing-one__single-bg"
                                 style={{
-                                    backgroundImage: 'url(/img/resource/pricing-v1-single-bg.jpg)'
+                                    backgroundImage: 'url(/img/resource/pricing-v1-single-bg.webp)'
                                 }}
 
                             ></div>
                             <div className="table-header">
                                 <div className="img-box">
-                                    <img src="/img/resource/pricing-v1-img2.jpg" alt="" />
+                                    <img src="/img/resource/pricing-v1-img2.webp" alt="" />
                                 </div>
                             </div>
 
@@ -130,13 +130,13 @@ export default function Pricing() {
                             <div
                                 className="pricing-one__single-bg"
                                 style={{
-                                    backgroundImage: 'url(/img/resource/pricing-v1-single-bg.jpg)'
+                                    backgroundImage: 'url(/img/resource/pricing-v1-single-bg.webp)'
                                 }}
 
                             ></div>
                             <div className="table-header">
                                 <div className="img-box">
-                                    <img src="/img/resource/pricing-v1-img3.jpg" alt="" />
+                                    <img src="/img/resource/pricing-v1-img3.webp" alt="" />
                                 </div>
                             </div>
 

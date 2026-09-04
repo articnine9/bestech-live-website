@@ -11,7 +11,7 @@ const TeamDetails = () => {
           <div className="row">
             <div className="col-xl-6">
               <div className="team-details__top-img">
-                <img src="/img/team/team-details-img1.jpg" alt="" />
+                <img src="/img/team/team-details-img1.webp" alt="" />
               </div>
             </div>
 

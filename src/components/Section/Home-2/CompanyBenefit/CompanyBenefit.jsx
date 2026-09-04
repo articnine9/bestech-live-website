@@ -55,7 +55,7 @@ export default function CompanyBenefit() {
         data-wow-delay="0ms"
         data-wow-duration="1500ms"
         style={{
-          backgroundImage: "url(/img/resource/company-benefit-v1-img1.jpg)",
+          backgroundImage: "url(/img/resource/company-benefit-v1-img1.webp)",
         }}
       ></div>
       <div className="container">
@@ -86,7 +86,7 @@ export default function CompanyBenefit() {
                 >
                   <div className="shape1">
                     <img
-                      src="/img/shape/company-benefit-v1-shape1.png"
+                      src="/img/shape/company-benefit-v1-shape1.webp"
                       alt=""
                     />
                   </div>
@@ -110,7 +110,7 @@ export default function CompanyBenefit() {
                 >
                   <div className="shape1">
                     <img
-                      src="/img/shape/company-benefit-v1-shape1.png"
+                      src="/img/shape/company-benefit-v1-shape1.webp"
                       alt=""
                     />
                   </div>
@@ -134,7 +134,7 @@ export default function CompanyBenefit() {
                 >
                   <div className="shape1">
                     <img
-                      src="/img/shape/company-benefit-v1-shape1.png"
+                      src="/img/shape/company-benefit-v1-shape1.webp"
                       alt=""
                     />
                   </div>

@@ -49,15 +49,15 @@ const Hero = () => {
           </div>
 
           <div className="img-box">
-            <img src="/img/slider/slider-v1-img4.png" alt="Bestech" />
+            <img src="/img/slider/slider-v1-img4.webp" alt="Bestech" />
           </div>
 
           <div className="icon-one">
-            <img src="/img/icon/slider-v1-icon1.png" alt="Bestech" />
+            <img src="/img/icon/slider-v1-icon1.webp" alt="Bestech" />
           </div>
 
           <div className="icon-two">
-            <img src="/img/icon/slider-v1-icon2.png" alt="Bestech" />
+            <img src="/img/icon/slider-v1-icon2.webp" alt="Bestech" />
           </div>
 
           <div className="container">
@@ -96,15 +96,15 @@ const Hero = () => {
           </div>
 
           <div className="img-box">
-            <img src="/img/slider/slider-v1-img4.png" alt="Bestech" />
+            <img src="/img/slider/slider-v1-img4.webp" alt="Bestech" />
           </div>
 
           <div className="icon-one">
-            <img src="/img/icon/slider-v1-icon1.png" alt="Bestech" />
+            <img src="/img/icon/slider-v1-icon1.webp" alt="Bestech" />
           </div>
 
           <div className="icon-two">
-            <img src="/img/icon/slider-v1-icon2.png" alt="Bestech" />
+            <img src="/img/icon/slider-v1-icon2.webp" alt="Bestech" />
           </div>
 
           <div className="container">
@@ -143,15 +143,15 @@ const Hero = () => {
           </div>
 
           <div className="img-box">
-            <img src="/img/slider/slider-v1-img4.png" alt="Bestech" />
+            <img src="/img/slider/slider-v1-img4.webp" alt="Bestech" />
           </div>
 
           <div className="icon-one">
-            <img src="/img/icon/slider-v1-icon1.png" alt="Bestech" />
+            <img src="/img/icon/slider-v1-icon1.webp" alt="Bestech" />
           </div>
 
           <div className="icon-two">
-            <img src="/img/icon/slider-v1-icon2.png" alt="Bestech" />
+            <img src="/img/icon/slider-v1-icon2.webp" alt="Bestech" />
           </div>
 
           <div className="container">

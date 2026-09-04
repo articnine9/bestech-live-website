@@ -13,7 +13,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img1.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img1.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
@@ -31,7 +31,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img2.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img2.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
@@ -50,7 +50,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img3.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img3.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
@@ -69,7 +69,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img4.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img4.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
@@ -88,7 +88,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img5.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img5.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
@@ -107,7 +107,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img6.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img6.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
@@ -126,7 +126,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img7.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img7.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
@@ -145,7 +145,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img8.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img8.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>
@@ -164,7 +164,7 @@ const ProjectSection = () => {
                     <div className="project-two__single">
                         <div className="project-two__single-img">
                             <div className="inner">
-                                <img src="/img/project/project-v2-img9.jpg" alt=""/>
+                                <img src="/img/project/project-v2-img9.webp" alt=""/>
                                 <div className="btn-box">
                                     <Link href="project-details" aria-label="View project details"><span className="icon-right-arrow-5"></span></Link>
                                 </div>

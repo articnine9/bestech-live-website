@@ -16,13 +16,13 @@ const BlogSection = () => {
     <section className="blog-two blog-two--three padding">
       <div
         className="blog-two--three__bg"
-        style={{ backgroundImage: "url(/img/background/blog-v3-bg.jpg)" }}
+        style={{ backgroundImage: "url(/img/background/blog-v3-bg.webp)" }}
       ></div>
       <div className="container">
         <div className="sec-title-style3 text-center">
           <div className="sub-title center">
             <div className="icon">
-              <img src="/img/icon/title-marker-2.png" alt="" />
+              <img src="/img/icon/title-marker-2.webp" alt="" />
             </div>
             <h5>LATEST POST</h5>
           </div>

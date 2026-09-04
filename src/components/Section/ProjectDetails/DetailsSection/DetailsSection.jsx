@@ -16,7 +16,7 @@ const DetailsSection = ({ product, category }) => {
             0,
             product.image.lastIndexOf("/") + 1,
           );
-          return `${basePath}${num}.jpg`;
+          return `${basePath}${num}.webp`;
         })
       : product?.image
         ? [product.image]

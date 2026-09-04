@@ -1,11 +1,11 @@
 [
   {
-    "image": "/img/slider/slider-v2-img1.jpg",
+    "image": "/img/slider/slider-v2-img1.webp",
     "shapes": {
-      "shape1": "/img/shape/slider-v2-shape1.png",
-      "shape2": "/img/shape/slider-v2-shape2.png",
-      "shape3": "/img/shape/slider-v2-shape3.png",
-      "shape4": "/img/shape/slider-v2-shape4.png"
+      "shape1": "/img/shape/slider-v2-shape1.webp",
+      "shape2": "/img/shape/slider-v2-shape2.webp",
+      "shape3": "/img/shape/slider-v2-shape3.webp",
+      "shape4": "/img/shape/slider-v2-shape4.webp"
     },
     "title": "Bestech",
     "content": {
@@ -18,12 +18,12 @@
     "buttonIcon": "icon-right-arrow"
   },
   {
-    "image": "/img/slider/slider-v2-img2.jpg",
+    "image": "/img/slider/slider-v2-img2.webp",
     "shapes": {
-      "shape1": "/img/shape/slider-v2-shape1.png",
-      "shape2": "/img/shape/slider-v2-shape2.png",
-      "shape3": "/img/shape/slider-v2-shape3.png",
-      "shape4": "/img/shape/slider-v2-shape4.png"
+      "shape1": "/img/shape/slider-v2-shape1.webp",
+      "shape2": "/img/shape/slider-v2-shape2.webp",
+      "shape3": "/img/shape/slider-v2-shape3.webp",
+      "shape4": "/img/shape/slider-v2-shape4.webp"
     },
     "title": "Bestech",
     "content": {

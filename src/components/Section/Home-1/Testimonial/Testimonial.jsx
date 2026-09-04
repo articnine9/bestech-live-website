@@ -11,7 +11,7 @@ const Testimonial = () => {
   return (
     <section className="testimonials-one padding">
       <div className="testimonials-one__pattern">
-        <img src="/img/pattern/testimonials-v1-pattern.png" alt="" />
+        <img src="/img/pattern/testimonials-v1-pattern.webp" alt="" />
       </div>
       <div className="container">
         <div className="sec-title text-center">

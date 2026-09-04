@@ -55,14 +55,14 @@ const BrandCardFour = ({ items }) => {
 
                     <div className="overlay-img">
                       <img
-                        src="/img/product-default-img.jpg"
+                        src="/img/product-default-img.webp"
                         alt={item?.name || "Blog image"}
                       />
                     </div>
                   </div> */}
                         <div className="inner">
                           <img
-                            src={item?.img2 || "/img/product-default-img.jpg"}
+                            src={item?.img2 || "/img/product-default-img.webp"}
                             alt={ item?.alttext || item?.name}
                           />
                         </div>
@@ -102,7 +102,7 @@ const BrandCardFour = ({ items }) => {
               </button>
               <h2>{activeItem.name}</h2>
               {/* <img
-              src={activeItem.img2 || "/img/product-default-img.jpg"}
+              src={activeItem.img2 || "/img/product-default-img.webp"}
               alt={activeItem.name}
               style={{ width: "100%", marginBottom: "1rem" }}
             /> */}

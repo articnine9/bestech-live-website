@@ -109,11 +109,11 @@ const RequestService = () => {
       <div
         className="request-services-one__bg"
         style={{
-          backgroundImage: "url(/img/background/request-services-v1-bg.jpg)",
+          backgroundImage: "url(/img/background/request-services-v1-bg.webp)",
         }}
       ></div>
       <div className="shape1 float-bob-y">
-        <img src="/img/shape/request-services-v1-shape1.png" alt="" />
+        <img src="/img/shape/request-services-v1-shape1.webp" alt="" />
       </div>
       <div className="container">
         <div className="request-services-one__top">
@@ -739,7 +739,7 @@ const RequestService = () => {
               <div className="request-services-one__content-img">
                 <div className="inner">
                   <img
-                    src="/img/resource/request-services-v1-img1.jpg"
+                    src="/img/resource/request-services-v1-img1.webp"
                     alt=""
                   />
                   <div className="request-services-one__video">

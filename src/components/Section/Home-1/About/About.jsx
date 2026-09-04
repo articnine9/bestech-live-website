@@ -10,12 +10,12 @@ const About = () => {
           <div className="col-xl-5">
             <div className="about-one__img clearfix">
               <div className="shape1 float-bob-x">
-                <img src="/img/home/about-home.jpg" alt="Bestech" />
+                <img src="/img/home/about-home.webp" alt="Bestech" />
               </div>
               <div className="inner clearfix">
                 <img
                   className="float-bob-y"
-                  src="/img/home/about-home.jpg"
+                  src="/img/home/about-home.webp"
                   alt="bestech"
                 />
               </div>

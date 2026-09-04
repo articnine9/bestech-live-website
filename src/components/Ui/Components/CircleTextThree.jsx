@@ -25,7 +25,7 @@ const CircleTextThree = () => {
                 </svg>
             </div>
             <div className="icon hello">
-                <img src="/img/icon/about-v3-icon1.png" alt="" />
+                <img src="/img/icon/about-v3-icon1.webp" alt="" />
             </div>
         </div>
     );

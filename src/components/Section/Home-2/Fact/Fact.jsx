@@ -26,7 +26,7 @@ const Fact =() => {
     return (
         <section className="fact-counter-two padding-bottom" id="fact-counter">
             <div className="shape1 float-bob-y ">
-                <img src="/img/shape/counter-v2-shape1.png" alt="" />
+                <img src="/img/shape/counter-v2-shape1.webp" alt="" />
             </div>
             <div className="container">
                 <div className="row">

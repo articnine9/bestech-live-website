@@ -31,7 +31,7 @@ export default function CategoryClient({ categoryParam }) {
       <section className="page-header padding">
         <div
           className="page-header__bg"
-          style={{ backgroundImage: 'url("/img/home/faq/2.jpg")' }}
+          style={{ backgroundImage: 'url("/img/home/faq/2.webp")' }}
         ></div>
         <div className="container">
           <div className="page-header__inner text-center">

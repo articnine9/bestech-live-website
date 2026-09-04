@@ -1,28 +1,28 @@
 [
     {
         "id": 1,
-        "imageUrl": "/img/project/project-v3-img1.jpg",
+        "imageUrl": "/img/project/project-v3-img1.webp",
         "category": "Logistic",
         "title": "Road Freight Solution",
         "link": "project-details"
     },
     {
         "id": 2,
-        "imageUrl": "/img/project/project-v3-img2.jpg",
+        "imageUrl": "/img/project/project-v3-img2.webp",
         "category": "Logistic",
         "title": "Another Road Freight Solution",
         "link": "project-details"
     },
     {
         "id": 3,
-        "imageUrl": "/img/project/project-v3-img3.jpg",
+        "imageUrl": "/img/project/project-v3-img3.webp",
         "category": "Logistic",
         "title": "Yet Another Road Freight Solution",
         "link": "project-details"
     },
     {
         "id": 4,
-        "imageUrl": "/img/project/project-v3-img4.jpg",
+        "imageUrl": "/img/project/project-v3-img4.webp",
         "category": "Logistic",
         "title": "One More Road Freight Solution",
         "link": "project-details"

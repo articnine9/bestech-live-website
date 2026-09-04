@@ -38,7 +38,7 @@ const BlogDetails = () => {
                             {/* Start Blog Standard Page Single */}
                             <div className="blog-standard-page__single">
                                 <div className="blog-standard-page__single-img">
-                                    <img src="/img/blog/blog-details-img1.jpg" alt="" />
+                                    <img src="/img/blog/blog-details-img1.webp" alt="" />
                                 </div>
                                 <div className="blog-standard-page__single-content">
                                     <ul className="meta-box">
@@ -84,9 +84,9 @@ const BlogDetails = () => {
                                         </div>
 
                                         <div className="blog-details__content-text2-img">
-                                            <div className="shape1"><img src="/img/shape/blog-details-shape1.png"
+                                            <div className="shape1"><img src="/img/shape/blog-details-shape1.webp"
                                                 alt="" /></div>
-                                            <img src="/img/blog/blog-details-img2.jpg" alt="" />
+                                            <img src="/img/blog/blog-details-img2.webp" alt="" />
                                             <div className="video-btn">
                                                 <a
                                                     className="video-one__video-btn video-popup"
@@ -138,7 +138,7 @@ const BlogDetails = () => {
                                                 <div className="comment-one__single-top">
                                                     <div className="author-box">
                                                         <div className="img-box">
-                                                            <img src="/img/blog/blog-details-img3.jpg" alt="" />
+                                                            <img src="/img/blog/blog-details-img3.webp" alt="" />
                                                         </div>
 
                                                         <div className="title">
@@ -167,7 +167,7 @@ const BlogDetails = () => {
                                                 <div className="comment-one__single-top">
                                                     <div className="author-box">
                                                         <div className="img-box">
-                                                            <img src="/img/blog/blog-details-img4.jpg" alt="" />
+                                                            <img src="/img/blog/blog-details-img4.webp" alt="" />
                                                         </div>
 
                                                         <div className="title">
@@ -184,9 +184,9 @@ const BlogDetails = () => {
                                                     <p>The point of using Lorem Ipsum is that it has a more-or-less
                                                         normal distribution of letters opposed to using. <span
                                                             className="icon1"><img
-                                                                src="/img/icon/blog-details-icon1.png"
+                                                                src="/img/icon/blog-details-icon1.webp"
                                                                 alt="" /></span> <span className="icon2"><img
-                                                                    src="/img/icon/blog-details-icon2.png"
+                                                                    src="/img/icon/blog-details-icon2.webp"
                                                                     alt="" /></span></p>
                                                     <div className="btn-box">
                                                         <Link href="#"><span className="icon-reply-arrow"></span> Reply</Link>

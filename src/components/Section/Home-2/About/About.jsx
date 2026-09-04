@@ -59,7 +59,7 @@ export default function About() {
     return (
         <section className="about-two padding" id="about-two">
             <div className="shape1 float-bob-x">
-                <img src="/img/shape/about-v2-shape1.png" alt="" />
+                <img src="/img/shape/about-v2-shape1.webp" alt="" />
             </div>
             <div className="container">
                 <div className="row">
@@ -74,7 +74,7 @@ export default function About() {
                                 <div
                                     className="about-two__experience-box-bg"
                                     style={{
-                                        backgroundImage: "url(/img/about/about-v2-img2-.jpg)"
+                                        backgroundImage: "url(/img/about/about-v2-img2-.webp)"
                                     }}
                                 ></div>
                                 <div className="inner">
@@ -99,7 +99,7 @@ export default function About() {
                                 </div>
                             </div>
                             <div className="about-two__img1">
-                                <img src="/img/about/about-v2-img1.jpg" alt="" />
+                                <img src="/img/about/about-v2-img1.webp" alt="" />
                             </div>
 
                             <div
@@ -110,7 +110,7 @@ export default function About() {
                                 <div
                                     className="about-two__video-bg"
                                     style={{
-                                        backgroundImage: "url(/img/about/about-v2-img3-.jpg)"
+                                        backgroundImage: "url(/img/about/about-v2-img3-.webp)"
                                     }}
                                 ></div>
                                 <div className="about-two__video-box">
@@ -177,7 +177,7 @@ export default function About() {
                                 </div>
                                 <div className="author-box">
                                     <div className="img-box">
-                                        <img src="/img/about/about-v2-img4-.jpg" alt="" />
+                                        <img src="/img/about/about-v2-img4-.webp" alt="" />
                                     </div>
 
                                     <div className="text-box">

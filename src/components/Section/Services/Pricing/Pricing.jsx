@@ -7,13 +7,13 @@ const Pricing = () => {
       <section className="pricing-one padding" id="blog-cta">
         <div
           className="pricing-one__bg"
-          style={{ backgroundImage: "url(/img/background/pricing-v1-bg.jpg)" }}
+          style={{ backgroundImage: "url(/img/background/pricing-v1-bg.webp)" }}
         ></div>
         <div className="container">
           <div className="sec-title-style3 text-center">
             <div className="sub-title center">
               <div className="icon">
-                <img src="/img/icon/title-marker-4.png" alt="bestech" />
+                <img src="/img/icon/title-marker-4.webp" alt="bestech" />
               </div>
               <h5>Price Table</h5>
             </div>
@@ -31,12 +31,12 @@ const Pricing = () => {
                   className="pricing-one__single-bg"
                   style={{
                     backgroundImage:
-                      "url(/img/resource/pricing-v1-single-bg.jpg)",
+                      "url(/img/resource/pricing-v1-single-bg.webp)",
                   }}
                 ></div>
                 <div className="table-header">
                   <div className="img-box">
-                    <img src="/img/resource/pricing-v1-img1.jpg" alt="" />
+                    <img src="/img/resource/pricing-v1-img1.webp" alt="" />
                   </div>
                 </div>
 
@@ -95,12 +95,12 @@ const Pricing = () => {
                   className="pricing-one__single-bg"
                   style={{
                     backgroundImage:
-                      "url(/img/resource/pricing-v1-single-bg.jpg)",
+                      "url(/img/resource/pricing-v1-single-bg.webp)",
                   }}
                 ></div>
                 <div className="table-header">
                   <div className="img-box">
-                    <img src="/img/resource/pricing-v1-img2.jpg" alt="" />
+                    <img src="/img/resource/pricing-v1-img2.webp" alt="" />
                   </div>
                 </div>
 
@@ -159,12 +159,12 @@ const Pricing = () => {
                   className="pricing-one__single-bg"
                   style={{
                     backgroundImage:
-                      "url(/img/resource/pricing-v1-single-bg.jpg)",
+                      "url(/img/resource/pricing-v1-single-bg.webp)",
                   }}
                 ></div>
                 <div className="table-header">
                   <div className="img-box">
-                    <img src="/img/resource/pricing-v1-img3.jpg" alt="" />
+                    <img src="/img/resource/pricing-v1-img3.webp" alt="" />
                   </div>
                 </div>
 

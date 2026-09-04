@@ -20,14 +20,14 @@ const TeamTwo = ({ bgColor }) => {
       id="blog-cta"
     >
       <div className="team-three__shape1">
-        <img src="/img/shape/team-v3-shape1.png" alt="" />
+        <img src="/img/shape/team-v3-shape1.webp" alt="" />
       </div>
       <div className="container">
         <div className="team-three__top">
           <div className="sec-title-style3">
             <div className="sub-title">
               <div className="icon">
-                <img src="/img/icon/title-marker-4.png" alt="bestech" />
+                <img src="/img/icon/title-marker-4.webp" alt="bestech" />
               </div>
               <h5>Team</h5>
             </div>

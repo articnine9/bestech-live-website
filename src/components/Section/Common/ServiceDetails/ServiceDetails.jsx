@@ -148,7 +148,7 @@ const ServiceDetails = ({ title, transportType, thumbnailOne, thumbnailTwo }) =>
 
                 <div className="services-details-page__content-text3-img">
                   <div className="shape1">
-                    <img src="/img/shape/services-details-shape1.png" alt="" />
+                    <img src="/img/shape/services-details-shape1.webp" alt="" />
                   </div>
                   <div className="inner">
                     <img src={thumbnailTwo} alt="#" />

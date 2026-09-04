@@ -32,7 +32,7 @@ const StateSection = () => {
                         <div className="fact-counter-two__single">
                             <div className="icon-box">
                                 <span className="icon-special-shipments"></span>
-                                <div className="shape2"><img src="/img/shape/fact-counter-v2-shape1.png" alt="" /></div>
+                                <div className="shape2"><img src="/img/shape/fact-counter-v2-shape1.webp" alt="" /></div>
                             </div>
                             <div className="fact-counter-two__single-inner">
                                 <h2 className="count d-flex justify-content-center">
@@ -57,7 +57,7 @@ const StateSection = () => {
                         <div className="fact-counter-two__single">
                             <div className="icon-box">
                                 <span className="icon-global-network"></span>
-                                <div className="shape2"><img src="/img/shape/fact-counter-v2-shape1.png" alt="" /></div>
+                                <div className="shape2"><img src="/img/shape/fact-counter-v2-shape1.webp" alt="" /></div>
                             </div>
                             <div className="fact-counter-two__single-inner">
                                 <h2 className="count d-flex justify-content-center">
@@ -82,7 +82,7 @@ const StateSection = () => {
                         <div className="fact-counter-two__single">
                             <div className="icon-box">
                                 <span className="icon-satisfied3"></span>
-                                <div className="shape2"><img src="/img/shape/fact-counter-v2-shape1.png" alt="" /></div>
+                                <div className="shape2"><img src="/img/shape/fact-counter-v2-shape1.webp" alt="" /></div>
                             </div>
                             <div className="fact-counter-two__single-inner">
                                 <h2 className="count d-flex justify-content-center">
@@ -107,7 +107,7 @@ const StateSection = () => {
                         <div className="fact-counter-two__single">
                             <div className="icon-box">
                                 <span className="icon-support"></span>
-                                <div className="shape2"><img src="/img/shape/fact-counter-v2-shape1.png" alt="" /></div>
+                                <div className="shape2"><img src="/img/shape/fact-counter-v2-shape1.webp" alt="" /></div>
                             </div>
                             <div className="fact-counter-two__single-inner">
                                 <h2 className="count  d-flex justify-content-center">

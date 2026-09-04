@@ -12,7 +12,7 @@ const Faq = () => {
       </div>
       <div
         className="faq-one__bg"
-        style={{ backgroundImage: "url(/img/home/faq/1.jpg)" }}
+        style={{ backgroundImage: "url(/img/home/faq/1.webp)" }}
       ></div>
       <div className="container">
         <div className="row">

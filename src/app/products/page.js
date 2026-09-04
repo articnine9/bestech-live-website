@@ -12,7 +12,7 @@ export const metadata = {
 const categories = [
   {
     title: "Electrical Components",
-    image: "/img/product-default-img.jpg",
+    image: "/img/product-default-img.webp",
     link: "electrical-components",
     items: [
       { name: "Electrical", link: "electrical" },
@@ -25,7 +25,7 @@ const categories = [
   },
   {
     title: "Door Systems",
-    image: "/img/product-default-img.jpg",
+    image: "/img/product-default-img.webp",
     link: "door-systems",
     items: [
       { name: "Door Locks", link: "door-locks" },
@@ -37,7 +37,7 @@ const categories = [
   },
   {
     title: "Control Systems",
-    image: "/img/product-default-img.jpg",
+    image: "/img/product-default-img.webp",
     link: "control-systems",
     items: [
       { name: "Buttons", link: "buttons" },
@@ -49,7 +49,7 @@ const categories = [
   },
   {
     title: "Other Components",
-    image: "/img/product-default-img.jpg",
+    image: "/img/product-default-img.webp",
     link: "other-components",
     items: [
       { name: "Encoders", link: "encoders" },

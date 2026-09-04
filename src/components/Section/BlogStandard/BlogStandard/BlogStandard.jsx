@@ -37,9 +37,9 @@ const BlogStandard = () => {
             <div className="blog-standard-page__content">
               <div className="blog-standard-page__single">
                 <div className="blog-standard-page__single-img">
-                  <img src="/img/blog/blog-standard-img1.jpg" alt="" />
+                  <img src="/img/blog/blog-standard-img1.webp" alt="" />
                   <div className="logo-box">
-                    <img src="/img/blog/blog-standard-page-logo1.png" alt="" />
+                    <img src="/img/blog/blog-standard-page-logo1.webp" alt="" />
                   </div>
                 </div>
 
@@ -99,9 +99,9 @@ const BlogStandard = () => {
                   }
                 `}</style>
                 <div className="blog-standard-page__single-img">
-                  <img src="/img/blog/blog-standard-img2.jpg" alt="" />
+                  <img src="/img/blog/blog-standard-img2.webp" alt="" />
                   <div className="logo-box">
-                    <img src="/img/blog/blog-standard-page-logo2.png" alt="" />
+                    <img src="/img/blog/blog-standard-page-logo2.webp" alt="" />
                   </div>
                   <div className="video-btn">
                     <a
@@ -157,7 +157,7 @@ const BlogStandard = () => {
               <div className="blog-standard-page__single">
                 <div className="blog-standard-page__single-content">
                   <div className="logo-box">
-                    <img src="/img/blog/blog-standard-page-logo3.png" alt="" />
+                    <img src="/img/blog/blog-standard-page-logo3.webp" alt="" />
                   </div>
                   <ul className="meta-box style2">
                     <li>
@@ -201,9 +201,9 @@ const BlogStandard = () => {
               </div>
               <div className="blog-standard-page__single">
                 <div className="blog-standard-page__single-img">
-                  <img src="/img/blog/blog-standard-img3.jpg" alt="" />
+                  <img src="/img/blog/blog-standard-img3.webp" alt="" />
                   <div className="logo-box">
-                    <img src="/img/blog/blog-standard-page-logo2.png" alt="" />
+                    <img src="/img/blog/blog-standard-page-logo2.webp" alt="" />
                   </div>
                 </div>
 

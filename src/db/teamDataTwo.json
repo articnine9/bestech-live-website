@@ -1,7 +1,7 @@
 [
   {
-    "image": "/img/team/team-v2-img1.jpg",
-    "backgroundImage": "/img/team/team-v2-single-bg1.jpg",
+    "image": "/img/team/team-v2-img1.webp",
+    "backgroundImage": "/img/team/team-v2-single-bg1.webp",
     "name": "Rebecca Tylor",
     "position": "Cargo Head",
     "social": {
@@ -13,8 +13,8 @@
     "phone": "‎+971582760883"
   },
   {
-    "image": "/img/team/team-v2-img1.jpg",
-    "backgroundImage": "/img/team/team-v2-single-bg1.jpg",
+    "image": "/img/team/team-v2-img1.webp",
+    "backgroundImage": "/img/team/team-v2-single-bg1.webp",
     "name": "Rebecca Tylor",
     "position": "Cargo Head",
     "social": {
@@ -26,8 +26,8 @@
     "phone": "‎+971582760883"
   },
   {
-    "image": "/img/team/team-v2-img2.jpg",
-    "backgroundImage": "/img/team/team-v2-single-bg2.jpg",
+    "image": "/img/team/team-v2-img2.webp",
+    "backgroundImage": "/img/team/team-v2-single-bg2.webp",
     "name": "Harvey Tylor",
     "position": "Senior Worker",
     "social": {
@@ -39,8 +39,8 @@
     "phone": "‎+971582760883"
   },
   {
-    "image": "/img/team/team-v2-img3.jpg",
-    "backgroundImage": "/img/team/team-v2-single-bg3.jpg",
+    "image": "/img/team/team-v2-img3.webp",
+    "backgroundImage": "/img/team/team-v2-single-bg3.webp",
     "name": "Rebecca Tylor",
     "position": "CEO - Founder",
     "social": {

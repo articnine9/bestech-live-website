@@ -14,7 +14,7 @@ const BrochureCard = () => {
         <div className="sidebar__brochure-single active">
           <div className="left-content">
             <div className="icon">
-              <img src="/img/icon/sidebar-icon1.png" alt="" />
+              <img src="/img/icon/sidebar-icon1.webp" alt="" />
             </div>
             <div className="text-box">
               <h4>Service Brochure</h4>
@@ -39,7 +39,7 @@ const BrochureCard = () => {
         <div className="sidebar__brochure-single">
           <div className="left-content">
             <div className="icon">
-              <img src="/img/icon/sidebar-icon2.png" alt="" />
+              <img src="/img/icon/sidebar-icon2.webp" alt="" />
             </div>
             <div className="text-box">
               <h4>Company Profile</h4>

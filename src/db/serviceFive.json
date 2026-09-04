@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/img/service/service-v3-img1.jpg",
+    "image": "/img/service/service-v3-img1.webp",
     "iconClass": "icon-road-transport t5",
     "title": "Road Transport",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "/img/service/service-v3-img2.jpg",
+    "image": "/img/service/service-v3-img2.webp",
     "iconClass": "icon-ocean-freight1",
     "title": "Ocean Freight",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "/img/service/service-v3-img3.jpg",
+    "image": "/img/service/service-v3-img3.webp",
     "iconClass": "icon-experience",
     "title": "Cargo Container",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",
@@ -31,7 +31,7 @@
   },
   {
     "id": 3,
-    "image": "/img/service/service-v3-img3.jpg",
+    "image": "/img/service/service-v3-img3.webp",
     "iconClass": "icon-experience",
     "title": "Cargo Container",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod",

@@ -33,18 +33,18 @@ const Hero = () => {
           <SwiperSlide className="swiper-slide">
             <div
               className="image-layer"
-              style={{ backgroundImage: "url(/img/slider/slider-v3-img1.jpg)" }}
+              style={{ backgroundImage: "url(/img/slider/slider-v3-img1.webp)" }}
             ></div>
 
             <div className="container">
               <div className="main-slider-three__single padding">
                 <div className="shape1">
-                  <img src="/img/shape/slider-v3-shape1.png" alt="" />
+                  <img src="/img/shape/slider-v3-shape1.webp" alt="" />
                 </div>
                 <div className="main-slider-three__content text-center">
                   <div className="tagline-box">
                     <div className="icon">
-                      <img src="/img/icon/title-marker.png" alt="" />
+                      <img src="/img/icon/title-marker.webp" alt="" />
                     </div>
                     <div className="text">
                       <p>We are the leading</p>
@@ -79,18 +79,18 @@ const Hero = () => {
           <SwiperSlide className="swiper-slide">
             <div
               className="image-layer"
-              style={{ backgroundImage: "url(/img/slider/slider-v3-img2.jpg)" }}
+              style={{ backgroundImage: "url(/img/slider/slider-v3-img2.webp)" }}
             ></div>
 
             <div className="container">
               <div className="main-slider-three__single padding">
                 <div className="shape1">
-                  <img src="/img/shape/slider-v3-shape1.png" alt="" />
+                  <img src="/img/shape/slider-v3-shape1.webp" alt="" />
                 </div>
                 <div className="main-slider-three__content text-center">
                   <div className="tagline-box">
                     <div className="icon">
-                      <img src="/img/icon/title-marker.png" alt="" />
+                      <img src="/img/icon/title-marker.webp" alt="" />
                     </div>
                     <div className="text">
                       <p>We are the leading</p>
@@ -125,18 +125,18 @@ const Hero = () => {
           <SwiperSlide className="swiper-slide">
             <div
               className="image-layer"
-              style={{ backgroundImage: "url(/img/slider/slider-v3-img4.jpg)" }}
+              style={{ backgroundImage: "url(/img/slider/slider-v3-img4.webp)" }}
             ></div>
 
             <div className="container">
               <div className="main-slider-three__single padding">
                 <div className="shape1">
-                  <img src="/img/shape/slider-v3-shape1.png" alt="" />
+                  <img src="/img/shape/slider-v3-shape1.webp" alt="" />
                 </div>
                 <div className="main-slider-three__content text-center">
                   <div className="tagline-box">
                     <div className="icon">
-                      <img src="/img/icon/title-marker.png" alt="" />
+                      <img src="/img/icon/title-marker.webp" alt="" />
                     </div>
                     <div className="text">
                       <p>We are the leading</p>

@@ -50,21 +50,21 @@ const Hero = () => {
           <SwiperSlide className="swiper-slide">
             <div
               className="image-layer"
-              style={{ backgroundImage: "url(/img/slider/slider-v2-img1.jpg)" }}
+              style={{ backgroundImage: "url(/img/slider/slider-v2-img1.webp)" }}
             ></div>
             <div className="shape1">
-              <img src="/img/shape/slider-v2-shape1.png" alt="" />
+              <img src="/img/shape/slider-v2-shape1.webp" alt="" />
             </div>
             <div className="shape2">
-              <img src="/img/shape/slider-v2-shape2.png" alt="" />
+              <img src="/img/shape/slider-v2-shape2.webp" alt="" />
             </div>
             <div className="shape3">
-              <img src="/img/shape/slider-v2-shape3.png" alt="" />
+              <img src="/img/shape/slider-v2-shape3.webp" alt="" />
             </div>
             <div className="shape4">
               <img
                 className="float-bob-x"
-                src="/img/shape/slider-v2-shape4.png"
+                src="/img/shape/slider-v2-shape4.webp"
                 alt=""
               />
             </div>
@@ -104,77 +104,21 @@ const Hero = () => {
           <SwiperSlide className="swiper-slide">
             <div
               className="image-layer"
-              style={{ backgroundImage: "url(/img/slider/slider-v2-img2.jpg)" }}
+              style={{ backgroundImage: "url(/img/slider/slider-v2-img2.webp)" }}
             ></div>
             <div className="shape1">
-              <img src="/img/shape/slider-v2-shape1.png" alt="" />
+              <img src="/img/shape/slider-v2-shape1.webp" alt="" />
             </div>
             <div className="shape2">
-              <img src="/img/shape/slider-v2-shape2.png" alt="" />
+              <img src="/img/shape/slider-v2-shape2.webp" alt="" />
             </div>
             <div className="shape3">
-              <img src="/img/shape/slider-v2-shape3.png" alt="" />
+              <img src="/img/shape/slider-v2-shape3.webp" alt="" />
             </div>
             <div className="shape4">
               <img
                 className="float-bob-x"
-                src="/img/shape/slider-v2-shape4.png"
-                alt=""
-              />
-            </div>
-            <div className="big-title">
-              <h2>Bestech</h2>
-            </div>
-            <div className="container">
-              <div className="main-slider-two__single padding">
-                <div className="main-slider-two__content">
-                  <div className="sub-title">
-                    <p>Logistics & Supply Chain Solutions</p>
-                  </div>
-                  <div className="title">
-                    <h2>
-                      Fast and Safety <br />
-                      World wide Service <br />
-                      <span>Provider</span>
-                    </h2>
-                  </div>
-                  <div className="text">
-                    <p>
-                      With more than 30 years of experience in the logistics
-                      industry <br />
-                      bibendum auctor nisi elit more consequat ipsum.
-                    </p>
-                  </div>
-                  <div className="btn-box">
-                    <Link className="thm-btn" href="#">
-                      <span className="txt">Calculate Package</span>
-                      <i className="icon-right-arrow"></i>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </SwiperSlide>
-          <SwiperSlide className="swiper-slide">
-            <div
-              className="image-layer"
-              style={{
-                backgroundImage: "url(/img/slider/slider-v2-img3.jpg)",
-              }}
-            ></div>
-            <div className="shape1">
-              <img src="/img/shape/slider-v2-shape1.png" alt="" />
-            </div>
-            <div className="shape2">
-              <img src="/img/shape/slider-v2-shape2.png" alt="" />
-            </div>
-            <div className="shape3">
-              <img src="/img/shape/slider-v2-shape3.png" alt="" />
-            </div>
-            <div className="shape4">
-              <img
-                className="float-bob-x"
-                src="/img/shape/slider-v2-shape4.png"
+                src="/img/shape/slider-v2-shape4.webp"
                 alt=""
               />
             </div>
@@ -215,22 +159,78 @@ const Hero = () => {
             <div
               className="image-layer"
               style={{
-                backgroundImage: "url(/img/slider/slider-v2-img4.jpg)",
+                backgroundImage: "url(/img/slider/slider-v2-img3.webp)",
               }}
             ></div>
             <div className="shape1">
-              <img src="/img/shape/slider-v2-shape1.png" alt="" />
+              <img src="/img/shape/slider-v2-shape1.webp" alt="" />
             </div>
             <div className="shape2">
-              <img src="/img/shape/slider-v2-shape2.png" alt="" />
+              <img src="/img/shape/slider-v2-shape2.webp" alt="" />
             </div>
             <div className="shape3">
-              <img src="/img/shape/slider-v2-shape3.png" alt="" />
+              <img src="/img/shape/slider-v2-shape3.webp" alt="" />
             </div>
             <div className="shape4">
               <img
                 className="float-bob-x"
-                src="/img/shape/slider-v2-shape4.png"
+                src="/img/shape/slider-v2-shape4.webp"
+                alt=""
+              />
+            </div>
+            <div className="big-title">
+              <h2>Bestech</h2>
+            </div>
+            <div className="container">
+              <div className="main-slider-two__single padding">
+                <div className="main-slider-two__content">
+                  <div className="sub-title">
+                    <p>Logistics & Supply Chain Solutions</p>
+                  </div>
+                  <div className="title">
+                    <h2>
+                      Fast and Safety <br />
+                      World wide Service <br />
+                      <span>Provider</span>
+                    </h2>
+                  </div>
+                  <div className="text">
+                    <p>
+                      With more than 30 years of experience in the logistics
+                      industry <br />
+                      bibendum auctor nisi elit more consequat ipsum.
+                    </p>
+                  </div>
+                  <div className="btn-box">
+                    <Link className="thm-btn" href="#">
+                      <span className="txt">Calculate Package</span>
+                      <i className="icon-right-arrow"></i>
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </SwiperSlide>
+          <SwiperSlide className="swiper-slide">
+            <div
+              className="image-layer"
+              style={{
+                backgroundImage: "url(/img/slider/slider-v2-img4.webp)",
+              }}
+            ></div>
+            <div className="shape1">
+              <img src="/img/shape/slider-v2-shape1.webp" alt="" />
+            </div>
+            <div className="shape2">
+              <img src="/img/shape/slider-v2-shape2.webp" alt="" />
+            </div>
+            <div className="shape3">
+              <img src="/img/shape/slider-v2-shape3.webp" alt="" />
+            </div>
+            <div className="shape4">
+              <img
+                className="float-bob-x"
+                src="/img/shape/slider-v2-shape4.webp"
                 alt=""
               />
             </div>

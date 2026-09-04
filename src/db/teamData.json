@@ -1,6 +1,6 @@
 [
   {
-    "img": "/img/team/team-v3-img1.jpg",
+    "img": "/img/team/team-v3-img1.webp",
     "name": "Rebecca Tylor",
     "position": "CEO - Founder",
     "link": "team-details",
@@ -10,7 +10,7 @@
     "social4": { "icon": "icon-linkedin", "link": "#" }
   },
   {
-    "img": "/img/team/team-v3-img2.jpg",
+    "img": "/img/team/team-v3-img2.webp",
     "name": "Harley Russle",
     "position": "Senior Worker",
     "link": "team-details",
@@ -20,7 +20,7 @@
     "social4": { "icon": "icon-linkedin", "link": "#" }
   },
   {
-    "img": "/img/team/team-v3-img3.jpg",
+    "img": "/img/team/team-v3-img3.webp",
     "name": "Helen Wilmore",
     "position": "Sr. Manager",
     "link": "team-details",
@@ -30,7 +30,7 @@
     "social4": { "icon": "icon-linkedin", "link": "#" }
   },
   {
-    "img": "/img/team/team-v3-img4.jpg",
+    "img": "/img/team/team-v3-img4.webp",
     "name": "Jennifer Rivera",
     "position": "Cargo Head",
     "link": "team-details",
@@ -40,7 +40,7 @@
     "social4": { "icon": "icon-linkedin", "link": "#" }
   },
   {
-    "img": "/img/team/team-v3-img5.jpg",
+    "img": "/img/team/team-v3-img5.webp",
     "name": "Jennifer Rivera",
     "position": "Worker",
     "link": "team-details",
@@ -50,7 +50,7 @@
     "social4": { "icon": "icon-linkedin", "link": "#" }
   },
   {
-    "img": "/img/team/team-v3-img6.jpg",
+    "img": "/img/team/team-v3-img6.webp",
     "name": "Leonardo Axel",
     "position": "Worker",
     "link": "team-details",
@@ -60,7 +60,7 @@
     "social4": { "icon": "icon-linkedin", "link": "#" }
   },
   {
-    "img": "/img/team/team-v3-img7.jpg",
+    "img": "/img/team/team-v3-img7.webp",
     "name": "Alexander Leo",
     "position": "Worker",
     "link": "team-details",
@@ -70,7 +70,7 @@
     "social4": { "icon": "icon-linkedin", "link": "#" }
   },
   {
-    "img": "/img/team/team-v3-img8.jpg",
+    "img": "/img/team/team-v3-img8.webp",
     "name": "Theodore Sr.",
     "position": "Worker",
     "link": "team-details",

@@ -1,6 +1,6 @@
 [
     {
-      "image": "/img/service/service-v3-img1.jpg",
+      "image": "/img/service/service-v3-img1.webp",
       "iconClass": "icon-road-transport t5",
       "title": "Road Transport",
       "link": "road-transport",
@@ -8,7 +8,7 @@
       "count": "01"
     },
     {
-      "image": "/img/service/service-v3-img2.jpg",
+      "image": "/img/service/service-v3-img2.webp",
       "iconClass": "icon-ocean-freight1",
       "title": "Ocean Freight",
       "link": "ocean-freight",
@@ -16,7 +16,7 @@
       "count": "02"
     },
     {
-      "image": "/img/service/service-v3-img3.jpg",
+      "image": "/img/service/service-v3-img3.webp",
       "iconClass": "icon-experience",
       "title": "Cargo Container",
       "link": "cargo-transport",
@@ -24,7 +24,7 @@
       "count": "03"
     },
     {
-      "image": "/img/service/service-v3-img2.jpg",
+      "image": "/img/service/service-v3-img2.webp",
       "iconClass": "icon-ocean-freight1",
       "title": "Ocean Freight",
       "link": "ocean-freight",

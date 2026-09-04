@@ -58,19 +58,19 @@ const AboutSection = () => {
           {/* <div className="col-xl-6">
             <div className="about-three__img">
               <div className="shape1">
-                <img src="/img/shape/about-v3-shape1.png" alt="" />
+                <img src="/img/shape/about-v3-shape1.webp" alt="" />
               </div>
               <div
                 className="about-three__img1 wow fadeInLeft"
                 data-wow-delay=".1s"
               >
-                <img src="/img/about/about-v3-img1.jpg" alt="" />
+                <img src="/img/about/about-v3-img1.webp" alt="" />
               </div>
               <div
                 className="about-three__img2 wow fadeInRight"
                 data-wow-delay=".1s"
               >
-                <img src="/img/about/about-v3-img2.jpg" alt="" />
+                <img src="/img/about/about-v3-img2.webp" alt="" />
               </div>
               <CircleTextThree />
             </div>
@@ -83,7 +83,7 @@ const AboutSection = () => {
               <div className="sec-title-style3">
                 <div className="sub-title">
                   <div className="icon">
-                    <img src="/img/icon/title-marker-4.png" alt="bestech" />
+                    <img src="/img/icon/title-marker-4.webp" alt="bestech" />
                   </div>
                   <h5>About Company</h5>
                 </div>
@@ -225,7 +225,7 @@ const AboutSection = () => {
               {/* <div className="author-box">
                   <div className="img-box">
                     <img
-                      src="/img/about/about-v2-img4-.jpg"
+                      src="/img/about/about-v2-img4-.webp"
                       alt="Contact Representative"
                     />
                   </div>

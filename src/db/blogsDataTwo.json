@@ -7,8 +7,8 @@
       "date": "November 13, 2023"
     },
     "link": "blog-details",
-    "image": "/img/blog/blog-v2-img4.jpg",
-    "thumbnail": "/img/blog/blog-v2-img1.jpg"
+    "image": "/img/blog/blog-v2-img4.webp",
+    "thumbnail": "/img/blog/blog-v2-img1.webp"
   },
   {
     "id": 2,
@@ -18,8 +18,8 @@
       "date": "March 17, 2023"
     },
     "link": "blog-details",
-    "image": "/img/blog/blog-v2-img5.jpg",
-    "thumbnail": "/img/blog/blog-v2-img2.jpg"
+    "image": "/img/blog/blog-v2-img5.webp",
+    "thumbnail": "/img/blog/blog-v2-img2.webp"
   },
   {
     "id": 3,
@@ -29,8 +29,8 @@
       "date": "April 24, 2023"
     },
     "link": "blog-details",
-    "image": "/img/blog/blog-v2-img6.jpg",
-    "thumbnail": "/img/blog/blog-v2-img3.jpg"
+    "image": "/img/blog/blog-v2-img6.webp",
+    "thumbnail": "/img/blog/blog-v2-img3.webp"
   },
   {
     "id": 4,
@@ -40,7 +40,7 @@
       "date": "April 24, 2023"
     },
     "link": "blog-details",
-    "image": "/img/blog/blog-v2-img6.jpg",
-    "thumbnail": "/img/blog/blog-v2-img3.jpg"
+    "image": "/img/blog/blog-v2-img6.webp",
+    "thumbnail": "/img/blog/blog-v2-img3.webp"
   }
 ]

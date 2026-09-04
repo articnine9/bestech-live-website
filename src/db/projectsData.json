@@ -1,6 +1,6 @@
 [
   {
-    "image": "/img/project/project-v1-img1.jpg",
+    "image": "/img/project/project-v1-img1.webp",
     "number": "N.01",
     "category": "Large Warehouse",
     "title": "Warehouse & Services",
@@ -8,7 +8,7 @@
     "link": "project-details"
   },
   {
-    "image": "/img/project/project-v1-img2.jpg",
+    "image": "/img/project/project-v1-img2.webp",
     "number": "N.02",
     "category": "Premium Tankers",
     "title": "Transport for Product",
@@ -16,7 +16,7 @@
     "link": "project-details"
   },
   {
-    "image": "/img/project/project-v1-img3.jpg",
+    "image": "/img/project/project-v1-img3.webp",
     "number": "N.03",
     "category": "Air Transportation",
     "title": "Transport for Product",
@@ -24,7 +24,7 @@
     "link": "project-details"
   },
   {
-    "image": "/img/project/project-v1-img4.jpg",
+    "image": "/img/project/project-v1-img4.webp",
     "number": "N.04",
     "category": "Road Transportation",
     "title": "Specialized Transport",
@@ -32,7 +32,7 @@
     "link": "project-details"
   },
   {
-    "image": "/img/project/project-v1-img2.jpg",
+    "image": "/img/project/project-v1-img2.webp",
     "number": "N.02",
     "category": "Premium Tankers",
     "title": "Transport for Product",

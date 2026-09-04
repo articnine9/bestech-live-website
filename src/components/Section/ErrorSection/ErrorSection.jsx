@@ -6,7 +6,7 @@ const ErrorSection = () => {
       <div
         className="error-page__bg"
         // style={{
-        //   backgroundImage: "url(/img/background/error-page-bg.jpg)",
+        //   backgroundImage: "url(/img/background/error-page-bg.webp)",
         // }}
       ></div>
       <div className="container mt-5">
@@ -15,12 +15,12 @@ const ErrorSection = () => {
             <div className="error-page__wrapper text-center">
               <div className="error-page__content">
                 <div className="shape1">
-                  <img src="/img/shape/error-page-shape1.png" alt="" />
+                  <img src="/img/shape/error-page-shape1.webp" alt="" />
                 </div>
                 <h2>
                   4
                   <span>
-                    <img src="/img/shape/error-page-shape2.png" alt="" />
+                    <img src="/img/shape/error-page-shape2.webp" alt="" />
                   </span>
                   4
                 </h2>

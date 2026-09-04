@@ -20,7 +20,7 @@ export const products = [
         description: "100m/roll",
         code: "BS-CW0001",
         url: "/cables-and-wires/wire-0-75mm",
-        image: "/img/products/cables-and-wires/wire-0-75mm/elevator-wire-0-75mm-1.jpg",
+        image: "/img/products/cables-and-wires/wire-0-75mm/elevator-wire-0-75mm-1.webp",
         slider: ["elevator-wire-0-75mm-1", "elevator-wire-0-75mm-2", "elevator-wire-0-75mm-3"],
         meta_title:
           "Buy Elevator Wire Rope 0.75mm in Dubai, UAE | Bestechparts",
@@ -38,7 +38,7 @@ export const products = [
         description: "100m/roll",
         code: "BS-CW0002",
         url: "/cables-and-wires/wire-6mm",
-        image: "/img/products/cables-and-wires/wire-6mm/elevator-wire-6mm-1.jpg",
+        image: "/img/products/cables-and-wires/wire-6mm/elevator-wire-6mm-1.webp",
         slider: ["elevator-wire-6mm-1", "elevator-wire-6mm-2", "elevator-wire-6mm-3"],
         meta_title:
           "Buy Elevator Wire Rope 6mm in Sharjah & Dubai | Bestechparts UAE",
@@ -56,7 +56,7 @@ export const products = [
         description: "100m/roll",
         code: "BS-CW0003",
         url: "/cables-and-wires/wire-8mm",
-        image: "/img/products/cables-and-wires/wire-8mm/elevator-wire-8mm-1.jpg",
+        image: "/img/products/cables-and-wires/wire-8mm/elevator-wire-8mm-1.webp",
         slider: ["elevator-wire-8mm-1", "elevator-wire-8mm-2", "elevator-wire-8mm-3"],
         meta_title: "Buy Elevator 8mm Wire Rope in Dubai, UAE | Bestechparts",
         meta_description:
@@ -73,7 +73,7 @@ export const products = [
         description: "100m/roll",
         code: "BS-CW0004",
         url: "/cables-and-wires/wire-10mm",
-        image: "/img/products/cables-and-wires/wire-10mm/elevator-wire-10mm-1.jpg",
+        image: "/img/products/cables-and-wires/wire-10mm/elevator-wire-10mm-1.webp",
         slider: ["elevator-wire-10mm-1", "elevator-wire-10mm-2", "elevator-wire-10mm-3"],
         meta_title:
           "Buy 10mm Elevator Cable in Dubai | Bestechparts Lifts & Wires",
@@ -91,7 +91,7 @@ export const products = [
         description: "1000pcs/pack",
         code: "BS-CW0005",
         url: "/cables-and-wires/wire-lugs-0-75mm",
-        image: "/img/products/cables-and-wires/wire-lugs-0-75mm/elevator-wire-lugs-0-75mm-1.jpg",
+        image: "/img/products/cables-and-wires/wire-lugs-0-75mm/elevator-wire-lugs-0-75mm-1.webp",
         meta_title:
           "Buy Elevator Wire Lugs 0.75mm in Dubai, UAE | Bestechparts",
         meta_description:
@@ -108,7 +108,7 @@ export const products = [
         description: "1000pcs/pack",
         code: "BS-CW0006",
         url: "/cables-and-wires/wire-lugs-1-5mm",
-        image: "/img/products/cables-and-wires/wire-lugs-1-5mm/elevator-wire-lugs-1-5mm-1.jpg",
+        image: "/img/products/cables-and-wires/wire-lugs-1-5mm/elevator-wire-lugs-1-5mm-1.webp",
         meta_title:
           "Buy Elevator Wire Lugs 1.5mm in Sharjah, UAE | Bestechparts",
         meta_description:
@@ -125,7 +125,7 @@ export const products = [
         description: "1000pcs/pack",
         code: "BS-CW0007",
         url: "/cables-and-wires/wire-lugs-6mm",
-        image: "/img/products/cables-and-wires/wire-lugs-6mm/elevator-wire-lugs-6mm-1.jpg",
+        image: "/img/products/cables-and-wires/wire-lugs-6mm/elevator-wire-lugs-6mm-1.webp",
         meta_title:
           "Buy Elevator Wire Lugs 6mm in Dubai, UAE | Bestechparts Lifts",
         meta_description:
@@ -142,7 +142,7 @@ export const products = [
         description: "1000pcs/pack",
         code: "BS-CW0008",
         url: "/cables-and-wires/wire-lugs-10mm",
-        image: "/img/products/cables-and-wires/wire-lugs-10mm/elevator-wire-lugs-10mm-1.jpg",
+        image: "/img/products/cables-and-wires/wire-lugs-10mm/elevator-wire-lugs-10mm-1.webp",
         meta_title: "Buy Elevator Wire Lugs 10mm in Dubai, UAE | Bestechparts",
         meta_description:
           "Buy elevator wire lugs 10mm in Dubai at Bestechparts. Premium lift spare parts for Sharjah & UAE. Works with Otis, Kone, Mitsubishi, Thyssenkrupp & Schindler.",
@@ -158,7 +158,7 @@ export const products = [
         description: "",
         code: "BS-CW0009",
         url: "/cables-and-wires/cable-db9-5m",
-        image: "/img/products/cables-and-wires/cable-db9-5m/elevator-cable-db9-5m-1.jpg",
+        image: "/img/products/cables-and-wires/cable-db9-5m/elevator-cable-db9-5m-1.webp",
         slider: ["elevator-cable-db9-5m-1", "elevator-cable-db9-5m-2"],
         meta_title:
           "Mitsubishi DB9 Elevator Cable 5m in Dubai, UAE | Bestechparts",
@@ -178,7 +178,7 @@ export const products = [
         description: "",
         code: "BS-CW0010",
         url: "/cables-and-wires/cable-db9-10m",
-        image: "/img/products/cables-and-wires/cable-db9-10m/elevator-cable-db9-10m-1.jpg",
+        image: "/img/products/cables-and-wires/cable-db9-10m/elevator-cable-db9-10m-1.webp",
         meta_title:
           "Mitsubishi DB9 Elevator Cable 10m in Dubai, UAE | Bestechparts",
         meta_description:
@@ -197,7 +197,7 @@ export const products = [
         description: "70cm",
         code: "BS-CW0011",
         url: "/cables-and-wires/cable-command-board-70cm",
-        image: "/img/products/cables-and-wires/cable-command-board-70cm/elevator-cable-command-board-70cm-1.jpg",
+        image: "/img/products/cables-and-wires/cable-command-board-70cm/elevator-cable-command-board-70cm-1.webp",
         slider: ["elevator-cable-command-board-70cm-1", "elevator-cable-command-board-70cm-2", "elevator-cable-command-board-70cm-3"],
         meta_title:
           "Command Board Cable 70cm Elevator in Dubai, UAE | Bestechparts",
@@ -218,7 +218,7 @@ export const products = [
         code: "BS-CW0012",
         url: "/cables-and-wires/display-mitsubishi-modbus-cable",
         image:
-          "/img/products/cables-and-wires/display-mitsubishi-modbus-cable/elevator-display-mitsubishi-modbus-cable-1.jpg",
+          "/img/products/cables-and-wires/display-mitsubishi-modbus-cable/elevator-display-mitsubishi-modbus-cable-1.webp",
         meta_title:
           "Mitsubishi Display Modbus Cable Elevator in Dubai, UAE | Bestechparts",
         meta_description:
@@ -236,7 +236,7 @@ export const products = [
         code: "BS-CW0013",
         url: "/cables-and-wires/cable-type-command-board-90cm",
         image:
-          "/img/products/cables-and-wires/cable-type-command-board-90cm/elevator-cable-type-command-board-90cm-1.jpg",
+          "/img/products/cables-and-wires/cable-type-command-board-90cm/elevator-cable-type-command-board-90cm-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -250,7 +250,7 @@ export const products = [
         description: "For all button models",
         code: "BS-CW0014",
         url: "/cables-and-wires/button-cables-assorted",
-        image: "/img/products/cables-and-wires/button-cables-assorted/elevator-button-cables-assorted-1.jpg",
+        image: "/img/products/cables-and-wires/button-cables-assorted/elevator-button-cables-assorted-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -264,7 +264,7 @@ export const products = [
         description: "Travelling Cable 24 core",
         code: "BS-CW0015",
         url: "/cables-and-wires/travelling-cable-24-core",
-        image: "/img/products/cables-and-wires/travelling-cable-24-core/elevator-travelling-cable-24-core-1.jpg",
+        image: "/img/products/cables-and-wires/travelling-cable-24-core/elevator-travelling-cable-24-core-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -278,7 +278,7 @@ export const products = [
         description: "RR Cable 0.75mm",
         code: "BS-CW0016",
         url: "/cables-and-wires/rr-cable-075mm",
-        image: "/img/products/cables-and-wires/rr-cable-075mm/elevator-rr-cable-075mm-1.jpg",
+        image: "/img/products/cables-and-wires/rr-cable-075mm/elevator-rr-cable-075mm-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -292,7 +292,7 @@ export const products = [
         description: "Wire 4mm",
         code: "BS-CW0017",
         url: "/cables-and-wires/wire-4mm-100m-roll",
-        image: "/img/products/cables-and-wires/wire-4mm-100m-roll/elevator-wire-4mm-100m-roll-1.jpg",
+        image: "/img/products/cables-and-wires/wire-4mm-100m-roll/elevator-wire-4mm-100m-roll-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -306,7 +306,7 @@ export const products = [
         description: "For all display models",
         code: "BS-CW0018",
         url: "/cables-and-wires/display-cables-assorted",
-        image: "/img/products/cables-and-wires/display-cables-assorted/elevator-display-cables-assorted-1.jpg",
+        image: "/img/products/cables-and-wires/display-cables-assorted/elevator-display-cables-assorted-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -321,7 +321,7 @@ export const products = [
         code: "BS-CW0019",
         url: "/cables-and-wires/cables-lop-display-to-button",
         image:
-          "/img/products/cables-and-wires/cables-lop-display-to-button/elevator-cables-lop-display-to-button-1.jpg",
+          "/img/products/cables-and-wires/cables-lop-display-to-button/elevator-cables-lop-display-to-button-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -335,7 +335,7 @@ export const products = [
         description: "7 Core Cable",
         code: "BS-CW0020",
         url: "/cables-and-wires/7-core-cable",
-        image: "/img/products/cables-and-wires/7-core-cable/elevator-spareparts-7-core-cable-1.jpg",
+        image: "/img/products/cables-and-wires/7-core-cable/elevator-spareparts-7-core-cable-1.webp",
         alttext: "7 Core Cable Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/cables-and-wires/7-core-cable",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -362,7 +362,7 @@ export const products = [
         description: "",
         code: "BS-CT0001",
         url: "/contactors/contactor-ac110v-25a-1no-1nc",
-        image: "/img/products/contactors/contactor-ac110v-25a-1no-1nc/elevator-contactor-ac110v-25a-1no-1nc-1.jpg",
+        image: "/img/products/contactors/contactor-ac110v-25a-1no-1nc/elevator-contactor-ac110v-25a-1no-1nc-1.webp",
         slider: ["elevator-contactor-ac110v-25a-1no-1nc-1", "elevator-contactor-ac110v-25a-1no-1nc-2"],
         meta_title:
           "Elevator Contactor AC110V 25A 1NO 1NC Supplier in Sharjah, Dubai UAE",
@@ -382,7 +382,7 @@ export const products = [
         description: "",
         code: "BS-CT0002",
         url: "/contactors/contactor-ac110v-32a-1no-1nc",
-        image: "/img/products/contactors/contactor-ac110v-32a-1no-1nc/elevator-contactor-ac110v-32a-1no-1nc-1.jpg",
+        image: "/img/products/contactors/contactor-ac110v-32a-1no-1nc/elevator-contactor-ac110v-32a-1no-1nc-1.webp",
         slider: ["elevator-contactor-ac110v-32a-1no-1nc-1", "elevator-contactor-ac110v-32a-1no-1nc-2", "elevator-contactor-ac110v-32a-1no-1nc-3"],
         meta_title:
           "Elevator Contactor AC110V 32A 1NO 1NC Supplier in Sharjah, UAE",
@@ -402,7 +402,7 @@ export const products = [
         description: "",
         code: "BS-CT0003",
         url: "/contactors/contactor-ac110v-50a-1no-1nc",
-        image: "/img/products/contactors/contactor-ac110v-50a-1no-1nc/elevator-contactor-ac110v-50a-1no-1nc-1.jpg",
+        image: "/img/products/contactors/contactor-ac110v-50a-1no-1nc/elevator-contactor-ac110v-50a-1no-1nc-1.webp",
         slider: ["elevator-contactor-ac110v-50a-1no-1nc-1", "elevator-contactor-ac110v-50a-1no-1nc-2"],
         meta_title:
           "Elevator Contactor AC110V 50A 1NO 1NC Supplier in Dubai, UAE",
@@ -422,7 +422,7 @@ export const products = [
         description: "",
         code: "BS-CT0004",
         url: "/contactors/contactor-ac110v-65a-1no-1nc",
-        image: "/img/products/contactors/contactor-ac110v-65a-1no-1nc/elevator-contactor-ac110v-65a-1no-1nc-1.jpg",
+        image: "/img/products/contactors/contactor-ac110v-65a-1no-1nc/elevator-contactor-ac110v-65a-1no-1nc-1.webp",
         meta_title: "Elevator Contactor AC110V 65A 1NO 1NC Supplier in Sharjah",
         meta_description:
           "Get AC110V 65A elevator contactor from Bestechparts. Reliable distributor in Sharjah, Dubai & UAE for Otis, Schindler and Thyssenkrupp lift parts.",
@@ -440,7 +440,7 @@ export const products = [
         description: "",
         code: "BS-CT0005",
         url: "/contactors/contactor-dc110v-18a",
-        image: "/img/products/contactors/contactor-dc110v-18a/elevator-contactor-dc110v-18a-1.jpg",
+        image: "/img/products/contactors/contactor-dc110v-18a/elevator-contactor-dc110v-18a-1.webp",
         meta_title:
           "Elevator Contactor DC110V 18A Supplier in Dubai, Sharjah UAE",
         meta_description:
@@ -460,7 +460,7 @@ export const products = [
         description: "",
         code: "BS-CT0006",
         url: "/contactors/contactor-dc110v-32a",
-        image: "/img/products/contactors/contactor-dc110v-32a/elevator-contactor-dc110v-32a-1.jpg",
+        image: "/img/products/contactors/contactor-dc110v-32a/elevator-contactor-dc110v-32a-1.webp",
         meta_title:
           "Elevator Contactor DC110V 32A Supplier in Dubai, Sharjah UAE",
         meta_description:
@@ -479,7 +479,7 @@ export const products = [
         description: "",
         code: "BS-CT0007",
         url: "/contactors/auxiliary-f4-22-2no-2nc",
-        image: "/img/products/contactors/auxiliary-f4-22-2no-2nc/elevator-auxiliary-f4-22-2no-2nc-1.jpg",
+        image: "/img/products/contactors/auxiliary-f4-22-2no-2nc/elevator-auxiliary-f4-22-2no-2nc-1.webp",
         meta_title:
           "Elevator Contactor Auxiliary F4 22 2NO 2NC Supplier in UAE",
         meta_description:
@@ -496,7 +496,7 @@ export const products = [
         description: "Schneider LC1D258M7",
         code: "BS-CT0008",
         url: "/contactors/contactor-220vac-25a",
-        image: "/img/products/contactors/contactor-220vac-25a/elevator-contactor-220vac-25a-1.jpg",
+        image: "/img/products/contactors/contactor-220vac-25a/elevator-contactor-220vac-25a-1.webp",
         slider: ["elevator-contactor-220vac-25a-1", "elevator-contactor-220vac-25a-2"],
         meta_title: "",
         meta_description: "",
@@ -511,7 +511,7 @@ export const products = [
         description: "Schneider LC1D80F7C",
         code: "BS-CT0009",
         url: "/contactors/contactor-ac110v-80a",
-        image: "/img/products/contactors/contactor-ac110v-80a/elevator-contactor-ac110v-80a-1.jpg",
+        image: "/img/products/contactors/contactor-ac110v-80a/elevator-contactor-ac110v-80a-1.webp",
         slider: ["elevator-contactor-ac110v-80a-1", "elevator-contactor-ac110v-80a-2"],
         meta_title: "",
         meta_description: "",
@@ -526,7 +526,7 @@ export const products = [
         description: "Schneider LC1D18F7C",
         code: "BS-CT0010",
         url: "/contactors/contactor-ac110v-18a",
-        image: "/img/products/contactors/contactor-ac110v-18a/elevator-contactor-ac110v-18a-1.jpg",
+        image: "/img/products/contactors/contactor-ac110v-18a/elevator-contactor-ac110v-18a-1.webp",
         slider: ["elevator-contactor-ac110v-18a-1", "elevator-contactor-ac110v-18a-2"],
         meta_title: "",
         meta_description: "",
@@ -541,7 +541,7 @@ export const products = [
         description: "Schneider LC1D18F7C",
         code: "BS-CT0011",
         url: "/contactors/auxillary-contactors-ladn22",
-        image: "/img/products/contactors/auxillary-contactors-ladn22/elevator-auxillary-contactors-ladn22-1.jpg",
+        image: "/img/products/contactors/auxillary-contactors-ladn22/elevator-auxillary-contactors-ladn22-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -555,7 +555,7 @@ export const products = [
         description: "Schneider LC1D11500F7C",
         code: "BS-CT0012",
         url: "/contactors/contactor-ac110v-115a",
-        image: "/img/products/contactors/contactor-ac110v-115a/elevator-contactor-ac110v-115a-1.jpg",
+        image: "/img/products/contactors/contactor-ac110v-115a/elevator-contactor-ac110v-115a-1.webp",
         slider: ["elevator-contactor-ac110v-115a-1", "elevator-contactor-ac110v-115a-2", "elevator-contactor-ac110v-115a-3"],
         meta_title: "",
         meta_description: "",
@@ -570,7 +570,7 @@ export const products = [
         description: "Schneider LC1D18 24VDC 18A",
         code: "BS-CT0013",
         url: "/contactors/schneider-24vdc-18a-lc1d18",
-        image: "/img/products/contactors/schneider-24vdc-18a-lc1d18/elevator-schneider-24vdc-18a-lc1d18-1.jpg",
+        image: "/img/products/contactors/schneider-24vdc-18a-lc1d18/elevator-schneider-24vdc-18a-lc1d18-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -584,7 +584,7 @@ export const products = [
         description: "Schneider - LC1D25F7C",
         code: "BS-CT0014",
         url: "/contactors/schneider-110vac-25a-lc1d25f7c",
-        image: "/img/products/contactors/schneider-110vac-25a-lc1d25f7c/elevator-schneider-110vac-25a-lc1d25f7c-1.jpg",
+        image: "/img/products/contactors/schneider-110vac-25a-lc1d25f7c/elevator-schneider-110vac-25a-lc1d25f7c-1.webp",
         slider: ["elevator-schneider-110vac-25a-lc1d25f7c-1", "elevator-schneider-110vac-25a-lc1d25f7c-2"],
         meta_title: "",
         meta_description: "",
@@ -599,7 +599,7 @@ export const products = [
         description: "Schneider - LC1D32F7C",
         code: "BS-CT0015",
         url: "/contactors/schneider-110vac-32a-lc1d32f7c",
-        image: "/img/products/contactors/schneider-110vac-32a-lc1d32f7c/elevator-schneider-110vac-32a-lc1d32f7c-1.jpg",
+        image: "/img/products/contactors/schneider-110vac-32a-lc1d32f7c/elevator-schneider-110vac-32a-lc1d32f7c-1.webp",
         slider: ["elevator-schneider-110vac-32a-lc1d32f7c-1", "elevator-schneider-110vac-32a-lc1d32f7c-2"],
         meta_title: "",
         meta_description: "",
@@ -614,7 +614,7 @@ export const products = [
         description: "Schneider - LC1D50AF7C",
         code: "BS-CT0016",
         url: "/contactors/schneider-110vac-50a-lc1d50af7c",
-        image: "/img/products/contactors/schneider-110vac-50a-lc1d50af7c/elevator-schneider-110vac-50a-lc1d50af7c-1.jpg",
+        image: "/img/products/contactors/schneider-110vac-50a-lc1d50af7c/elevator-schneider-110vac-50a-lc1d50af7c-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -628,7 +628,7 @@ export const products = [
         description: "Schneider - LC1D65AF7C",
         code: "BS-CT0017",
         url: "/contactors/schneider-110vac-65a-lc1d65af7c",
-        image: "/img/products/contactors/schneider-110vac-65a-lc1d65af7c/elevator-schneider-110vac-65a-lc1d65af7c-1.jpg",
+        image: "/img/products/contactors/schneider-110vac-65a-lc1d65af7c/elevator-schneider-110vac-65a-lc1d65af7c-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -642,7 +642,7 @@ export const products = [
         description: "Schneider 220VAC 32A - LC1D32M7",
         code: "BS-CT0018",
         url: "/contactors/schneider-220vac-32a-lc1d32m7",
-        image: "/img/products/contactors/schneider-220vac-32a-lc1d32m7/elevator-schneider-220vac-32a-lc1d32m7-1.jpg",
+        image: "/img/products/contactors/schneider-220vac-32a-lc1d32m7/elevator-schneider-220vac-32a-lc1d32m7-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -656,7 +656,7 @@ export const products = [
         description: "ABB-AF09-30-10-13 25A",
         code: "BS-CT0019",
         url: "/contactors/abb-af09-30-10-13-25a",
-        image: "/img/products/contactors/abb-af09-30-10-13-25a/elevator-abb-af09-30-10-13-25a-1.jpg",
+        image: "/img/products/contactors/abb-af09-30-10-13-25a/elevator-abb-af09-30-10-13-25a-1.webp",
         slider: ["elevator-abb-af09-30-10-13-25a-1", "elevator-abb-af09-30-10-13-25a-2"],
         meta_title: "",
         meta_description: "",
@@ -671,7 +671,7 @@ export const products = [
         description: "Schneider 110VDC 25A LC1D25FDC",
         code: "BS-CT0020",
         url: "/contactors/schneider-110vdc-25a-lc1d25fdc",
-        image: "/img/products/contactors/schneider-110vdc-25a-lc1d25fdc/elevator-spareparts-schneider-110vdc-25a-lc1d25fdc-1.jpg",
+        image: "/img/products/contactors/schneider-110vdc-25a-lc1d25fdc/elevator-spareparts-schneider-110vdc-25a-lc1d25fdc-1.webp",
         alttext: "Schneider 110VDC 25A LC1D25FDC Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-110vdc-25a-lc1d25fdc-1"
@@ -684,7 +684,7 @@ export const products = [
         description: "Schneider 110VDC 32A LC1D32FDC",
         code: "BS-CT0021",
         url: "/contactors/schneider-110vdc-32a-lc1d32fdc",
-        image: "/img/products/contactors/schneider-110vdc-32a-lc1d32fdc/elevator-spareparts-schneider-110vdc-32a-lc1d32fdc-1.jpg",
+        image: "/img/products/contactors/schneider-110vdc-32a-lc1d32fdc/elevator-spareparts-schneider-110vdc-32a-lc1d32fdc-1.webp",
         alttext: "Schneider 110VDC 32A LC1D32FDC Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-110vdc-32a-lc1d32fdc-1"
@@ -697,7 +697,7 @@ export const products = [
         description: "Schneider 110VAC 40A LC1D40AF7C",
         code: "BS-CT0022",
         url: "/contactors/schneider-110vac-40a-lc1d40af7c",
-        image: "/img/products/contactors/schneider-110vac-40a-lc1d40af7c/elevator-spareparts-schneider-110vac-40a-lc1d40af7c-1.jpg",
+        image: "/img/products/contactors/schneider-110vac-40a-lc1d40af7c/elevator-spareparts-schneider-110vac-40a-lc1d40af7c-1.webp",
         alttext: "Schneider 110VAC 40A LC1D40AF7C Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-110vac-40a-lc1d40af7c-1"
@@ -710,7 +710,7 @@ export const products = [
         description: "Schneider 220VAC 18A LC1D18M7C",
         code: "BS-CT0023",
         url: "/contactors/schneider-220vac-18a-lc1d18m7c",
-        image: "/img/products/contactors/schneider-220vac-18a-lc1d18m7c/elevator-spareparts-schneider-220vac-18a-lc1d18m7c-1.jpg",
+        image: "/img/products/contactors/schneider-220vac-18a-lc1d18m7c/elevator-spareparts-schneider-220vac-18a-lc1d18m7c-1.webp",
         alttext: "Schneider 220VAC 18A LC1D18M7C Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-220vac-18a-lc1d18m7c-1"
@@ -723,7 +723,7 @@ export const products = [
         description: "Schneider 220VAC 40A LC1D40M7C",
         code: "BS-CT0024",
         url: "/contactors/schneider-220vac-40a-lc1d40m7c",
-        image: "/img/products/contactors/schneider-220vac-40a-lc1d40m7c/elevator-spareparts-schneider-220vac-40a-lc1d40m7c-1.jpg",
+        image: "/img/products/contactors/schneider-220vac-40a-lc1d40m7c/elevator-spareparts-schneider-220vac-40a-lc1d40m7c-1.webp",
         alttext: "Schneider 220VAC 40A LC1D40M7C Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-220vac-40a-lc1d40m7c-1"
@@ -736,7 +736,7 @@ export const products = [
         description: "Schneider 220VAC 50A LC1D50M7C",
         code: "BS-CT0025",
         url: "/contactors/schneider-220vac-50a-lc1d50m7c",
-        image: "/img/products/contactors/schneider-220vac-50a-lc1d50m7c/elevator-spareparts-schneider-220vac-50a-lc1d50m7c-1.jpg",
+        image: "/img/products/contactors/schneider-220vac-50a-lc1d50m7c/elevator-spareparts-schneider-220vac-50a-lc1d50m7c-1.webp",
         alttext: "Schneider 220VAC 50A LC1D50M7C Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-220vac-50a-lc1d50m7c-1"
@@ -749,7 +749,7 @@ export const products = [
         description: "Schneider 220VAC 65A LC1D65M7C",
         code: "BS-CT0026",
         url: "/contactors/schneider-220vac-65a-lc1d65m7c",
-        image: "/img/products/contactors/schneider-220vac-65a-lc1d65m7c/elevator-spareparts-schneider-220vac-65a-lc1d65m7c-1.jpg",
+        image: "/img/products/contactors/schneider-220vac-65a-lc1d65m7c/elevator-spareparts-schneider-220vac-65a-lc1d65m7c-1.webp",
         alttext: "Schneider 220VAC 65A LC1D65M7C Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-220vac-65a-lc1d65m7c-1"
@@ -762,7 +762,7 @@ export const products = [
         description: "Schneider 48VDC 18A LC1D18",
         code: "BS-CT0027",
         url: "/contactors/schneider-48vdc-18a-lc1d18",
-        image: "/img/products/contactors/schneider-48vdc-18a-lc1d18/elevator-spareparts-schneider-48vdc-18a-lc1d18-1.jpg",
+        image: "/img/products/contactors/schneider-48vdc-18a-lc1d18/elevator-spareparts-schneider-48vdc-18a-lc1d18-1.webp",
         alttext: "Schneider 48VDC 18A LC1D18 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-48vdc-18a-lc1d18-1"
@@ -775,7 +775,7 @@ export const products = [
         description: "Schneider Overload 24 - 32 A",
         code: "BS-CT0028",
         url: "/contactors/schneider-overload-24-32-a",
-        image: "/img/products/contactors/schneider-overload-24-32-a/elevator-spareparts-schneider-overload-24-32-a-1.jpg",
+        image: "/img/products/contactors/schneider-overload-24-32-a/elevator-spareparts-schneider-overload-24-32-a-1.webp",
         alttext: "Schneider Overload 24 - 32 A Elevator Spare Parts",
         slider: [
           "elevator-spareparts-schneider-overload-24-32-a-1"
@@ -805,7 +805,7 @@ export const products = [
         description: "",
         code: "BS-CB0001",
         url: "/circuit-breakers/mcb-63a-4p",
-        image: "/img/products/circuit-breakers/mcb-63a-4p/elevator-circuit-breakers-mcb-63a-4p-1.jpg",
+        image: "/img/products/circuit-breakers/mcb-63a-4p/elevator-circuit-breakers-mcb-63a-4p-1.webp",
         slider: ["elevator-circuit-breakers-mcb-63a-4p-1", "elevator-circuit-breakers-mcb-63a-4p-2"],
         meta_title:
           " Elevator Circuit breaker MCB 63A 4P for UAE | Lift Safety Parts",
@@ -825,7 +825,7 @@ export const products = [
         description: "",
         code: "BS-CB0002",
         url: "/circuit-breakers/mcb-6a-1p",
-        image: "/img/products/circuit-breakers/mcb-6a-1p/elevator-circuit-breakers-mcb-6a-1p-1.jpg",
+        image: "/img/products/circuit-breakers/mcb-6a-1p/elevator-circuit-breakers-mcb-6a-1p-1.webp",
         slider: ["elevator-circuit-breakers-mcb-6a-1p-1", "elevator-circuit-breakers-mcb-6a-1p-2", "elevator-circuit-breakers-mcb-6a-1p-3"],
         meta_title:
           "Elevator Circuit breaker MCB 6A 1P UAE | Lift & Escalator Parts",
@@ -845,7 +845,7 @@ export const products = [
         description: "",
         code: "BS-CB0003",
         url: "/circuit-breakers/mcb-10a-1p",
-        image: "/img/products/circuit-breakers/mcb-10a-1p/elevator-circuit-breakers-mcb-10a-1p-1.jpg",
+        image: "/img/products/circuit-breakers/mcb-10a-1p/elevator-circuit-breakers-mcb-10a-1p-1.webp",
         slider: ["elevator-circuit-breakers-mcb-10a-1p-1", "elevator-circuit-breakers-mcb-10a-1p-2", "elevator-circuit-breakers-mcb-10a-1p-3", "elevator-circuit-breakers-mcb-10a-1p-4"],
         meta_title:
           "Elevator Circuit breaker MCB 10A 1P UAE | Reliable Lift Spares",
@@ -865,7 +865,7 @@ export const products = [
         description: "",
         code: "BS-CB0004",
         url: "/circuit-breakers/mcb-6a-2p",
-        image: "/img/products/circuit-breakers/mcb-6a-2p/elevator-circuit-breakers-mcb-6a-2p-1.jpg",
+        image: "/img/products/circuit-breakers/mcb-6a-2p/elevator-circuit-breakers-mcb-6a-2p-1.webp",
         meta_title:
           "Elevator Circuit breaker MCB 6A 2P UAE | Miniature Lift Breaker",
         meta_description:
@@ -884,7 +884,7 @@ export const products = [
         description: "",
         code: "BS-CB0005",
         url: "/circuit-breakers/mcb-10a-2p",
-        image: "/img/products/circuit-breakers/mcb-10a-2p/elevator-circuit-breakers-mcb-10a-2p-1.jpg",
+        image: "/img/products/circuit-breakers/mcb-10a-2p/elevator-circuit-breakers-mcb-10a-2p-1.webp",
         slider: ["elevator-circuit-breakers-mcb-10a-2p-1", "elevator-circuit-breakers-mcb-10a-2p-2", "elevator-circuit-breakers-mcb-10a-2p-3"],
         meta_title:
           "Elevator Circuit breaker MCB 10A 2P UAE | Premium Lift Parts",
@@ -904,7 +904,7 @@ export const products = [
         description: "MCB 10A 2P DZ47s",
         code: "BS-CB0006",
         url: "/circuit-breakers/delixi-mcb-10a-2p-dz47s",
-        image: "/img/products/circuit-breakers/delixi-mcb-10a-2p-dz47s/elevator-circuit-breakers-delixi-mcb-10a-2p-dz47s-1.jpg",
+        image: "/img/products/circuit-breakers/delixi-mcb-10a-2p-dz47s/elevator-circuit-breakers-delixi-mcb-10a-2p-dz47s-1.webp",
         meta_title: "",
         meta_description: "",
         canonical:
@@ -918,7 +918,7 @@ export const products = [
         description: "MCB 10A 1P DZ47s",
         code: "BS-CB0007",
         url: "/circuit-breakers/delixi-mcb-10a-1p-dz47s",
-        image: "/img/products/circuit-breakers/delixi-mcb-10a-1p-dz47s/elevator-circuit-breakers-delixi-mcb-10a-1p-dz47s-1.jpg",
+        image: "/img/products/circuit-breakers/delixi-mcb-10a-1p-dz47s/elevator-circuit-breakers-delixi-mcb-10a-1p-dz47s-1.webp",
         meta_title: "",
         meta_description: "",
         canonical:
@@ -932,7 +932,7 @@ export const products = [
         description: "MCB 63A 4P DZ47s",
         code: "BS-CB0008",
         url: "/circuit-breakers/delixi-mcb-63a-4p-dz47s",
-        image: "/img/products/circuit-breakers/delixi-mcb-63a-4p-dz47s/elevator-circuit-breakers-delixi-mcb-63a-4p-dz47s-1.jpg",
+        image: "/img/products/circuit-breakers/delixi-mcb-63a-4p-dz47s/elevator-circuit-breakers-delixi-mcb-63a-4p-dz47s-1.webp",
         meta_title: "",
         meta_description: "",
         canonical:
@@ -946,7 +946,7 @@ export const products = [
         description: "MCB 100A 4P DZ47s",
         code: "BS-CB0009",
         url: "/circuit-breakers/delixi-mcb-100a-4p-dz47s",
-        image: "/img/products/circuit-breakers/delixi-mcb-100a-4p-dz47s/elevator-circuit-breakers-delixi-mcb-100a-4p-dz47s-1.jpg",
+        image: "/img/products/circuit-breakers/delixi-mcb-100a-4p-dz47s/elevator-circuit-breakers-delixi-mcb-100a-4p-dz47s-1.webp",
         meta_title: "",
         meta_description: "",
         canonical:
@@ -977,7 +977,7 @@ export const products = [
         description: "LA137-BS542 40",
         code: "BS-BT0001",
         url: "/buttons/stop-push-button-nc",
-        image: "/img/products/buttons/stop-push-button-nc/elevator-stop-push-button-nc-1.jpg",
+        image: "/img/products/buttons/stop-push-button-nc/elevator-stop-push-button-nc-1.webp",
         slider: ["elevator-stop-push-button-nc-1", "elevator-stop-push-button-nc-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/stop-push-button-nc",
@@ -989,7 +989,7 @@ export const products = [
         description: "LA137-XB2-BA3341",
         code: "BS-BT0002",
         url: "/buttons/white-arrow-button-no",
-        image: "/img/products/buttons/white-arrow-button-no/elevator-white-arrow-button-no-1.jpg",
+        image: "/img/products/buttons/white-arrow-button-no/elevator-white-arrow-button-no-1.webp",
         slider: ["elevator-white-arrow-button-no-1", "elevator-white-arrow-button-no-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/white-arrow-button-no",
@@ -1001,7 +1001,7 @@ export const products = [
         description: "LA137-XB2-BA3351",
         code: "BS-BT0003",
         url: "/buttons/black-arrow-button-no",
-        image: "/img/products/buttons/black-arrow-button-no/elevator-black-arrow-button-no-1.jpg",
+        image: "/img/products/buttons/black-arrow-button-no/elevator-black-arrow-button-no-1.webp",
         slider: ["elevator-black-arrow-button-no-1", "elevator-black-arrow-button-no-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/black-arrow-button-no",
@@ -1013,7 +1013,7 @@ export const products = [
         description: "LA137-CW35M1",
         code: "BS-BT0004",
         url: "/buttons/green-push-button-with-light-no",
-        image: "/img/products/buttons/green-push-button-with-light-no/elevator-green-push-button-with-light-no-1.jpg",
+        image: "/img/products/buttons/green-push-button-with-light-no/elevator-green-push-button-with-light-no-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/buttons/green-push-button-with-light-no",
         robots:
@@ -1024,7 +1024,7 @@ export const products = [
         description: "LA137-CW35M2",
         code: "BS-BT0005",
         url: "/buttons/red-push-button-with-light-no",
-        image: "/img/products/buttons/red-push-button-with-light-no/elevator-red-push-button-with-light-no-1.jpg",
+        image: "/img/products/buttons/red-push-button-with-light-no/elevator-red-push-button-with-light-no-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/buttons/red-push-button-with-light-no",
         robots:
@@ -1035,7 +1035,7 @@ export const products = [
         description: "KDS330/KDS220",
         code: "BS-BT0006",
         url: "/buttons/button-kds330-kds220",
-        image: "/img/products/buttons/button-kds330-kds220/elevator-button-kds330-kds220-1.jpg",
+        image: "/img/products/buttons/button-kds330-kds220/elevator-button-kds330-kds220-1.webp",
         slider: ["elevator-button-kds330-kds220-1", "elevator-button-kds330-kds220-2"],
         "meta-title":
           "Elevator Push Button KDS330 & KDS220 Supplier in UAE | Bestech",
@@ -1055,7 +1055,7 @@ export const products = [
         description: " MTD482 DA482A101",
         code: "BS-BT0007",
         url: "/buttons/button-mtd482-da482a101",
-        image: "/img/products/buttons/button-mtd482-da482a101/elevator-button-mtd482-da482a101-1.jpg",
+        image: "/img/products/buttons/button-mtd482-da482a101/elevator-button-mtd482-da482a101-1.webp",
         slider: ["elevator-button-mtd482-da482a101-1", "elevator-button-mtd482-da482a101-2","elevator-button-mtd482-da482a101-3","elevator-button-mtd482-da482a101-4"],
         "meta-title":
           "Elevator Push Button MTD482 & DA482A101 in Sharjah | Bestech",
@@ -1075,7 +1075,7 @@ export const products = [
         description: "MTD340",
         code: "BS-BT0008",
         url: "/buttons/button-mtd340",
-        image: "/img/products/buttons/button-mtd340/elevator-button-mtd340-1.jpg",
+        image: "/img/products/buttons/button-mtd340/elevator-button-mtd340-1.webp",
         slider: ["elevator-button-mtd340-1", "elevator-button-mtd340-2"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-mtd340",
         robots:
@@ -1093,7 +1093,7 @@ export const products = [
         description: "AK2026F",
         code: "BS-BT0009",
         url: "/buttons/button-ak2026f",
-        image: "/img/products/buttons/button-ak2026f/elevator-button-ak2026f-1.jpg",
+        image: "/img/products/buttons/button-ak2026f/elevator-button-ak2026f-1.webp",
         slider: ["elevator-button-ak2026f-1", "elevator-button-ak2026f-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-ak2026f",
@@ -1113,7 +1113,7 @@ export const products = [
         description: "BR27C/A311",
         code: "BS-BT0010",
         url: "/buttons/button-br27c-a311",
-        image: "/img/products/buttons/button-br27c-a311/elevator-button-br27c-a311-1.jpg",
+        image: "/img/products/buttons/button-br27c-a311/elevator-button-br27c-a311-1.webp",
         slider: ["elevator-button-br27c-a311-1", "elevator-button-br27c-a311-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-br27c-a311",
@@ -1133,7 +1133,7 @@ export const products = [
         description: "CN03010009/A4J16354",
         code: "BS-BT0011",
         url: "/buttons/button-cn03010009-a4j16354",
-        image: "/img/products/buttons/button-cn03010009-a4j16354/elevator-button-cn03010009-a4j16354-1.jpg",
+        image: "/img/products/buttons/button-cn03010009-a4j16354/elevator-button-cn03010009-a4j16354-1.webp",
         slider: ["elevator-button-cn03010009-a4j16354-1", "elevator-button-cn03010009-a4j16354-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-cn03010009-a4j16354",
@@ -1153,7 +1153,7 @@ export const products = [
         description: "A3N47136/KAS441",
         code: "BS-BT0012",
         url: "/buttons/button-a3n47136-kas441",
-        image: "/img/products/buttons/button-a3n47136-kas441/elevator-button-a3n47136-kas441-1.jpg",
+        image: "/img/products/buttons/button-a3n47136-kas441/elevator-button-a3n47136-kas441-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-a3n47136-kas441",
         robots:
@@ -1171,7 +1171,7 @@ export const products = [
         description: "A3N47325/AJ47324A2",
         code: "BS-BT0013",
         url: "/buttons/button-a3n47325-aj47324a2",
-        image: "/img/products/buttons/button-a3n47325-aj47324a2/elevator-button-a3n47325-aj47324a2-1.jpg",
+        image: "/img/products/buttons/button-a3n47325-aj47324a2/elevator-button-a3n47325-aj47324a2-1.webp",
         slider: ["elevator-button-a3n47325-aj47324a2-1", "elevator-button-a3n47325-aj47324a2-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-a3n47325-aj47324a2",
@@ -1191,7 +1191,7 @@ export const products = [
         description: "KD550",
         code: "BS-BT0014",
         url: "/buttons/button-kd550",
-        image: "/img/products/buttons/button-kd550/elevator-button-kd550-1.jpg",
+        image: "/img/products/buttons/button-kd550/elevator-button-kd550-1.webp",
         slider: ["elevator-button-kd550-1", "elevator-button-kd550-2"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-kd550",
         robots:
@@ -1209,7 +1209,7 @@ export const products = [
         description: "KDS300",
         code: "BS-BT0015",
         url: "/buttons/square-button-kds300",
-        image: "/img/products/buttons/square-button-kds300/elevator-square-button-kds300-1.jpg",
+        image: "/img/products/buttons/square-button-kds300/elevator-square-button-kds300-1.webp",
         slider: ["elevator-square-button-kds300-1", "elevator-square-button-kds300-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/square-button-kds300",
@@ -1228,7 +1228,7 @@ export const products = [
         description: "KMBS7782G0",
         code: "BS-BT0016",
         url: "/buttons/button-kmbs7782g0",
-        image: "/img/product-default-img.jpg",
+        image: "/img/product-default-img.webp",
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-kmbs7782g0",
         robots:
@@ -1240,7 +1240,7 @@ export const products = [
         code: "BS-BT0017",
         url: "/buttons/giant-button-a4j16467-a4j16465-a4j20057",
         image:
-          "/img/products/buttons/giant-button-a4j16467-a4j16465-a4j20057/elevator-giant-button-a4j16467-a4j16465-a4j20057-1.jpg",
+          "/img/products/buttons/giant-button-a4j16467-a4j16465-a4j20057/elevator-giant-button-a4j16467-a4j16465-a4j20057-1.webp",
         slider: ["elevator-giant-button-a4j16467-a4j16465-a4j20057-1", "elevator-giant-button-a4j16467-a4j16465-a4j20057-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/giant-button-a4j16467-a4j16465-a4j20057",
@@ -1259,7 +1259,7 @@ export const products = [
         description: "MTD511G01/DA511G01",
         code: "BS-BT0018",
         url: "/buttons/button-mtd511g01-da511g01",
-        image: "/img/products/buttons/button-mtd511g01-da511g01/elevator-button-mtd511g01-da511g01-1.jpg",
+        image: "/img/products/buttons/button-mtd511g01-da511g01/elevator-button-mtd511g01-da511g01-1.webp",
         slider: ["elevator-button-mtd511g01-da511g01-1", "elevator-button-mtd511g01-da511g01-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-mtd511g01-da511g01",
@@ -1278,7 +1278,7 @@ export const products = [
         description: "DA180/MTD180",
         code: "BS-BT0019",
         url: "/buttons/button-da180-mtd180",
-        image: "/img/products/buttons/button-da180-mtd180/elevator-button-da180-mtd180-1.jpg",
+        image: "/img/products/buttons/button-da180-mtd180/elevator-button-da180-mtd180-1.webp",
         slider: ["elevator-button-da180-mtd180-1", "elevator-button-da180-mtd180-2", "elevator-button-da180-mtd180-3"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-da180-mtd180",
@@ -1292,7 +1292,7 @@ export const products = [
         description: "SL-TC",
         code: "BS-BT0020",
         url: "/buttons/button-sl-tc",
-        image: "/img/products/buttons/button-sl-tc/elevator-button-sl-tc-1.jpg",
+        image: "/img/products/buttons/button-sl-tc/elevator-button-sl-tc-1.webp",
         slider: ["elevator-button-sl-tc-1", "elevator-button-sl-tc-2", "elevator-button-sl-tc-3"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-sl-tc",
         robots:
@@ -1311,7 +1311,7 @@ export const products = [
         description: "HD60-1",
         code: "BS-BT0021",
         url: "/buttons/button-hd60-1",
-        image: "/img/products/buttons/button-hd60-1/elevator-button-hd60-1-1.jpg",
+        image: "/img/products/buttons/button-hd60-1/elevator-button-hd60-1-1.webp",
         slider: ["elevator-button-hd60-1-1", "elevator-button-hd60-1-2"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-hd60-1",
         robots:
@@ -1329,7 +1329,7 @@ export const products = [
         description: "KAS040/AMV243/AAD7442",
         code: "BS-BT0022",
         url: "/buttons/button-kas040-amv243-aad7442",
-        image: "/img/products/buttons/button-kas040-amv243-aad7442/elevator-button-kas040-amv243-aad7442-1.jpg",
+        image: "/img/products/buttons/button-kas040-amv243-aad7442/elevator-button-kas040-amv243-aad7442-1.webp",
         slider: ["elevator-button-kas040-amv243-aad7442-1", "elevator-button-kas040-amv243-aad7442-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-kas040-amv243-aad7442",
@@ -1348,7 +1348,7 @@ export const products = [
         description: "CS-41-GG",
         code: "BS-BT0023",
         url: "/buttons/button-cs-41-gg",
-        image: "/img/products/buttons/button-cs-41-gg/elevator-button-cs-41-gg-1.jpg",
+        image: "/img/products/buttons/button-cs-41-gg/elevator-button-cs-41-gg-1.webp",
         slider: ["elevator-button-cs-41-gg-1", "elevator-button-cs-41-gg-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-cs-41-gg",
@@ -1367,7 +1367,7 @@ export const products = [
         description: "MTD118",
         code: "BS-BT0024",
         url: "/buttons/button-mtd118",
-        image: "/img/products/buttons/button-mtd118/elevator-button-mtd118-1.jpg",
+        image: "/img/products/buttons/button-mtd118/elevator-button-mtd118-1.webp",
         slider: ["elevator-button-mtd118-1", "elevator-button-mtd118-2"],
         canonical: "https://www.bestechparts.ae/products/buttons/button-mtd118",
         robots:
@@ -1386,7 +1386,7 @@ export const products = [
         description: "A4J13868/A4N13869",
         code: "BS-BT0025",
         url: "/buttons/button-a4j13868-a4n13869",
-        image: "/img/products/buttons/button-a4j13868-a4n13869/elevator-button-a4j13868-a4n13869-1.jpg",
+        image: "/img/products/buttons/button-a4j13868-a4n13869/elevator-button-a4j13868-a4n13869-1.webp",
         slider: ["elevator-button-a4j13868-a4n13869-1", "elevator-button-a4j13868-a4n13869-2"],
         canonical:
           "https://www.bestechparts.ae/products/buttons/button-a4j13868-a4n13869",
@@ -1405,7 +1405,7 @@ export const products = [
         description: "KA313-0",
         code: "BS-BT0026",
         url: "/buttons/emergency-light-round-cop",
-        image: "/img/products/buttons/emergency-light-round-cop/elevator-emergency-light-round-cop-1.jpg",
+        image: "/img/products/buttons/emergency-light-round-cop/elevator-emergency-light-round-cop-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/buttons/emergency-light-round-cop",
         robots:
@@ -1423,7 +1423,7 @@ export const products = [
         description: "DA411/B113/MTD411",
         code: "BS-BT0027",
         url: "/buttons/button-da411-b113-mtd411",
-        image: "/img/products/buttons/button-da411-b113-mtd411/elevator-button-da411-b113-mtd411-1.jpg",
+        image: "/img/products/buttons/button-da411-b113-mtd411/elevator-button-da411-b113-mtd411-1.webp",
         slider: ["elevator-button-da411-b113-mtd411-1", "elevator-button-da411-b113-mtd411-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1441,7 +1441,7 @@ export const products = [
         description: "COP button - Open",
         code: "BS-BT0028",
         url: "/buttons/cop-button-open",
-        image: "/img/products/buttons/cop-button-open/elevator-cop-button-open-1.jpg",
+        image: "/img/products/buttons/cop-button-open/elevator-cop-button-open-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Door Open Button | Lift Spare, UAE",
@@ -1457,7 +1457,7 @@ export const products = [
         description: "COP button - Close",
         code: "BS-BT0029",
         url: "/buttons/cop-button-close",
-        image: "/img/products/buttons/cop-button-close/elevator-cop-button-close-1.jpg",
+        image: "/img/products/buttons/cop-button-close/elevator-cop-button-close-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Door Close Button | Lift Spare, UAE",
@@ -1473,7 +1473,7 @@ export const products = [
         description: "COP button - P1",
         code: "BS-BT0030",
         url: "/buttons/cop-button-p1",
-        image: "/img/products/buttons/cop-button-p1/elevator-cop-button-p1-1.jpg",
+        image: "/img/products/buttons/cop-button-p1/elevator-cop-button-p1-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P1 for Lift Panels in UAE | Bestech",
@@ -1489,7 +1489,7 @@ export const products = [
         description: "COP button - P2",
         code: "BS-BT0031",
         url: "/buttons/cop-button-p2",
-        image: "/img/products/buttons/cop-button-p2/elevator-cop-button-p2-1.jpg",
+        image: "/img/products/buttons/cop-button-p2/elevator-cop-button-p2-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P2 for Lift Panels in UAE | Bestech",
@@ -1505,7 +1505,7 @@ export const products = [
         description: "COP button - P3",
         code: "BS-BT0032",
         url: "/buttons/cop-button-p3",
-        image: "/img/products/buttons/cop-button-p3/elevator-cop-button-p3-1.jpg",
+        image: "/img/products/buttons/cop-button-p3/elevator-cop-button-p3-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1522,7 +1522,7 @@ export const products = [
         description: "COP button - P4",
         code: "BS-BT0033",
         url: "/buttons/cop-button-p4",
-        image: "/img/products/buttons/cop-button-p4/elevator-cop-button-p4-1.jpg",
+        image: "/img/products/buttons/cop-button-p4/elevator-cop-button-p4-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P4 for Lift Control Panels | UAE",
@@ -1538,7 +1538,7 @@ export const products = [
         description: "COP button - P5",
         code: "BS-BT0034",
         url: "/buttons/cop-button-p5",
-        image: "/img/products/buttons/cop-button-p5/elevator-cop-button-p5-1.jpg",
+        image: "/img/products/buttons/cop-button-p5/elevator-cop-button-p5-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button P5 | High Quality Lift Buttons, UAE",
@@ -1554,7 +1554,7 @@ export const products = [
         description: "COP button - G",
         code: "BS-BT0035",
         url: "/buttons/cop-button-g",
-        image: "/img/products/buttons/cop-button-g/elevator-cop-button-g-1.jpg",
+        image: "/img/products/buttons/cop-button-g/elevator-cop-button-g-1.webp",
         slider: ["elevator-cop-button-g-1", "elevator-cop-button-g-2", "elevator-cop-button-g-3"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1571,7 +1571,7 @@ export const products = [
         description: "COP button - M",
         code: "BS-BT0036",
         url: "/buttons/cop-button-m",
-        image: "/img/products/buttons/cop-button-m/elevator-cop-button-m-1.jpg",
+        image: "/img/products/buttons/cop-button-m/elevator-cop-button-m-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1588,7 +1588,7 @@ export const products = [
         description: "COP button - 1",
         code: "BS-BT0037",
         url: "/buttons/cop-button-1",
-        image: "/img/products/buttons/cop-button-1/elevator-cop-button-1-1.jpg",
+        image: "/img/products/buttons/cop-button-1/elevator-cop-button-1-1.webp",
         slider: ["elevator-cop-button-1-1", "elevator-cop-button-1-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1605,7 +1605,7 @@ export const products = [
         description: "COP button - 2",
         code: "BS-BT0037",
         url: "/buttons/cop-button-2",
-        image: "/img/products/buttons/cop-button-2/elevator-cop-button-2-1.jpg",
+        image: "/img/products/buttons/cop-button-2/elevator-cop-button-2-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 2 | Lift Control Buttons in UAE",
@@ -1621,7 +1621,7 @@ export const products = [
         description: "COP button - 3",
         code: "BS-BT0039",
         url: "/buttons/cop-button-3",
-        image: "/img/products/buttons/cop-button-3/elevator-cop-button-3-1.jpg",
+        image: "/img/products/buttons/cop-button-3/elevator-cop-button-3-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1638,7 +1638,7 @@ export const products = [
         description: "COP button - 4",
         code: "BS-BT0040",
         url: "/buttons/cop-button-4",
-        image: "/img/products/buttons/cop-button-4/elevator-cop-button-4-1.jpg",
+        image: "/img/products/buttons/cop-button-4/elevator-cop-button-4-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator COP Button 4 | Lift Spare Supplier in UAE",
@@ -1654,7 +1654,7 @@ export const products = [
         description: "COP button - 5",
         code: "BS-BT0041",
         url: "/buttons/cop-button-5",
-        image: "/img/products/buttons/cop-button-5/elevator-cop-button-5-1.jpg",
+        image: "/img/products/buttons/cop-button-5/elevator-cop-button-5-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1671,7 +1671,7 @@ export const products = [
         description: "COP button - 6",
         code: "BS-BT0042",
         url: "/buttons/cop-button-6",
-        image: "/img/products/buttons/cop-button-6/elevator-cop-button-6-1.jpg",
+        image: "/img/products/buttons/cop-button-6/elevator-cop-button-6-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1688,7 +1688,7 @@ export const products = [
         description: "COP button - 7",
         code: "BS-BT0043",
         url: "/buttons/cop-button-7",
-        image: "/img/products/buttons/cop-button-7/elevator-cop-button-7-1.jpg",
+        image: "/img/products/buttons/cop-button-7/elevator-cop-button-7-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1705,7 +1705,7 @@ export const products = [
         description: "COP button - 8",
         code: "BS-BT0044",
         url: "/buttons/cop-button-8",
-        image: "/img/products/buttons/cop-button-8/elevator-cop-button-8-1.jpg",
+        image: "/img/products/buttons/cop-button-8/elevator-cop-button-8-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1722,7 +1722,7 @@ export const products = [
         description: "COP button - 9",
         code: "BS-BT0045",
         url: "/buttons/cop-button-9",
-        image: "/img/products/buttons/cop-button-9/elevator-cop-button-9-1.jpg",
+        image: "/img/products/buttons/cop-button-9/elevator-cop-button-9-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1739,7 +1739,7 @@ export const products = [
         description: "COP button - 10",
         code: "BS-BT0046",
         url: "/buttons/cop-button-10",
-        image: "/img/products/buttons/cop-button-10/elevator-cop-button-10-1.jpg",
+        image: "/img/products/buttons/cop-button-10/elevator-cop-button-10-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1756,7 +1756,7 @@ export const products = [
         description: "COP button - 11",
         code: "BS-BT0047",
         url: "/buttons/cop-button-11",
-        image: "/img/products/buttons/cop-button-11/elevator-cop-button-11-1.jpg",
+        image: "/img/products/buttons/cop-button-11/elevator-cop-button-11-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1773,7 +1773,7 @@ export const products = [
         description: "COP button - 12",
         code: "BS-BT0048",
         url: "/buttons/cop-button-12",
-        image: "/img/products/buttons/cop-button-12/elevator-cop-button-12-1.jpg",
+        image: "/img/products/buttons/cop-button-12/elevator-cop-button-12-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1790,7 +1790,7 @@ export const products = [
         description: "COP button - R",
         code: "BS-BT0049",
         url: "/buttons/cop-button-r",
-        image: "/img/products/buttons/cop-button-r/elevator-cop-button-r-1.jpg",
+        image: "/img/products/buttons/cop-button-r/elevator-cop-button-r-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title":
@@ -1807,7 +1807,7 @@ export const products = [
         description: "COP button - Alarm",
         code: "BS-BT0050",
         url: "/buttons/cop-button-alarm",
-        image: "/img/products/buttons/cop-button-alarm/elevator-cop-button-alarm-1.jpg",
+        image: "/img/products/buttons/cop-button-alarm/elevator-cop-button-alarm-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         "meta-title": "Elevator Alarm Button | High Quality Lift Spare in UAE",
@@ -1823,7 +1823,7 @@ export const products = [
         description: "Model: Monarch",
         code: "BS-BT0051",
         url: "/buttons/lop-button-up-and-down-arrow",
-        image: "/img/products/buttons/lop-button-up-and-down-arrow/elevator-lop-button-up-and-down-arrow-1.jpg",
+        image: "/img/products/buttons/lop-button-up-and-down-arrow/elevator-lop-button-up-and-down-arrow-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1832,7 +1832,7 @@ export const products = [
         description: "Model-monarch",
         code: "BS-BT0052",
         url: "/buttons/cop-button-intercom",
-        image: "/img/products/buttons/cop-button-intercom/elevator-cop-button-intercom-1.jpg",
+        image: "/img/products/buttons/cop-button-intercom/elevator-cop-button-intercom-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1841,7 +1841,7 @@ export const products = [
         description: "Kone: KM51071111H06",
         code: "BS-BT0053",
         url: "/buttons/elevator-button-km51071111h06",
-        image: "/img/products/buttons/elevator-button-km51071111h06/elevator-button-km51071111h06-1.jpg",
+        image: "/img/products/buttons/elevator-button-km51071111h06/elevator-button-km51071111h06-1.webp",
         slider: ["elevator-button-km51071111h06-1", "elevator-button-km51071111h06-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1851,7 +1851,7 @@ export const products = [
         description: "OTIS: A4J43675",
         code: "BS-BT0054",
         url: "/buttons/elevator-button-a4j43675",
-        image: "/img/products/buttons/elevator-button-a4j43675/elevator-button-a4j43675-1.jpg",
+        image: "/img/products/buttons/elevator-button-a4j43675/elevator-button-a4j43675-1.webp",
         slider: ["elevator-button-a4j43675-1", "elevator-button-a4j43675-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -1861,7 +1861,7 @@ export const products = [
         description: "Button Empty Holder",
         code: "BS-BT0055",
         url: "/buttons/button-empty-holder",
-        image: "/img/products/buttons/button-empty-holder/elevator-button-empty-holder-1.jpg",
+        image: "/img/products/buttons/button-empty-holder/elevator-button-empty-holder-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1870,7 +1870,7 @@ export const products = [
         description: "AK07",
         code: "BS-BT0056",
         url: "/buttons/elevator-square-button-ak07",
-        image: "/img/products/buttons/elevator-square-button-ak07/elevator-square-button-ak07-1.jpg",
+        image: "/img/products/buttons/elevator-square-button-ak07/elevator-square-button-ak07-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1879,7 +1879,7 @@ export const products = [
         description: "LG Sigma: AK25 MTD265",
         code: "BS-BT0057",
         url: "/buttons/elevator-push-button-ak25-mtd265",
-        image: "/img/products/buttons/elevator-push-button-ak25-mtd265/elevator-push-button-ak25-mtd265-1.jpg",
+        image: "/img/products/buttons/elevator-push-button-ak25-mtd265/elevator-push-button-ak25-mtd265-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1888,7 +1888,7 @@ export const products = [
         description: "A4N11286",
         code: "BS-BT0058",
         url: "/buttons/a4n11286-elevator-led-push-button",
-        image: "/img/products/buttons/a4n11286-elevator-led-push-button/elevator-a4n11286-elevator-led-push-button-1.jpg",
+        image: "/img/products/buttons/a4n11286-elevator-led-push-button/elevator-a4n11286-elevator-led-push-button-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1897,7 +1897,7 @@ export const products = [
         description: "BST: A3N18489",
         code: "BS-BT0059",
         url: "/buttons/bst-elevator-button-a3n18489",
-        image: "/img/products/buttons/bst-elevator-button-a3n18489/elevator-bst-elevator-button-a3n18489-1.jpg",
+        image: "/img/products/buttons/bst-elevator-button-a3n18489/elevator-bst-elevator-button-a3n18489-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1906,7 +1906,7 @@ export const products = [
         description: "KONE: KDS50 863233H03",
         code: "BS-BT0060",
         url: "/buttons/elevator-push-button-kds50-round",
-        image: "/img/products/buttons/elevator-push-button-kds50-round/elevator-push-button-kds50-round-1.jpg",
+        image: "/img/products/buttons/elevator-push-button-kds50-round/elevator-push-button-kds50-round-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1915,7 +1915,7 @@ export const products = [
         description: "Mitsubishi: LHB-005B",
         code: "BS-BT0061",
         url: "/buttons/elevator-button-lhb-005b",
-        image: "/img/products/buttons/elevator-button-lhb-005b/elevator-button-lhb-005b-1.jpg",
+        image: "/img/products/buttons/elevator-button-lhb-005b/elevator-button-lhb-005b-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1924,7 +1924,7 @@ export const products = [
         description: "Mitsubishi: LHB-006B",
         code: "BS-BT0062",
         url: "/buttons/elevator-button-lhb-006b",
-        image: "/img/products/buttons/elevator-button-lhb-006b/elevator-button-lhb-006b-1.jpg",
+        image: "/img/products/buttons/elevator-button-lhb-006b/elevator-button-lhb-006b-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1933,7 +1933,7 @@ export const products = [
         description: "Mitsubishi: LHB-007B",
         code: "BS-BT0063",
         url: "/buttons/elevator-button-lhb-007b",
-        image: "/img/products/buttons/elevator-button-lhb-007b/elevator-button-lhb-007b-1.jpg",
+        image: "/img/products/buttons/elevator-button-lhb-007b/elevator-button-lhb-007b-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1943,7 +1943,7 @@ export const products = [
           "1/2/3/4/5/open/close/6 to 40/G, alarm, intercom B1, B2, B3, P1, P2, P3, M",
         code: "BS-BT0064",
         url: "/buttons/otis-button-lock-27mm-flush",
-        image: "/img/products/buttons/otis-button-lock-27mm-flush/elevator-otis-button-lock-27mm-flush-1.jpg",
+        image: "/img/products/buttons/otis-button-lock-27mm-flush/elevator-otis-button-lock-27mm-flush-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1953,7 +1953,7 @@ export const products = [
           "1/2/3/4/5/open/close/6 to 40/G, alarm, intercom B1, B2, B3, P1, P2, P3, M",
         code: "BS-BT0065",
         url: "/buttons/otis-button-lock-27mm-screw",
-        image: "/img/products/buttons/otis-button-lock-27mm-screw/elevator-otis-button-lock-27mm-screw-1.jpg",
+        image: "/img/products/buttons/otis-button-lock-27mm-screw/elevator-otis-button-lock-27mm-screw-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1962,7 +1962,7 @@ export const products = [
         description: "Hyundai: A4N135161",
         code: "BS-BT0066",
         url: "/buttons/elevator-push-button-a4n135161",
-        image: "/img/products/buttons/elevator-push-button-a4n135161/elevator-push-button-a4n135161-1.jpg",
+        image: "/img/products/buttons/elevator-push-button-a4n135161/elevator-push-button-a4n135161-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1972,7 +1972,7 @@ export const products = [
         description: "Mitsubishi G floor button cover (Green)",
         code: "BS-BT0067",
         url: "/buttons/g-floor-button-cover-green",
-        image: "/img/products/buttons/g-floor-button-cover-green/elevator-g-floor-button-cover-green-1.jpg",
+        image: "/img/products/buttons/g-floor-button-cover-green/elevator-g-floor-button-cover-green-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1981,7 +1981,7 @@ export const products = [
         description: "Mitsubishi ",
         code: "BS-BT0068",
         url: "/buttons/button-stickers",
-        image: "/img/products/buttons/button-stickers/elevator-button-stickers-1.jpg",
+        image: "/img/products/buttons/button-stickers/elevator-button-stickers-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -1990,7 +1990,7 @@ export const products = [
         description: "TF-LB38R COP Buttons ",
         code: "BS-BT0069",
         url: "/buttons/touchless-cop-buttons-tf-lb38r",
-        image: "/img/products/buttons/touchless-cop-buttons-tf-lb38r/elevator-touchless-cop-buttons-tf-lb38r-1.jpg",
+        image: "/img/products/buttons/touchless-cop-buttons-tf-lb38r/elevator-touchless-cop-buttons-tf-lb38r-1.webp",
         slider: ["elevator-touchless-cop-buttons-tf-lb38r-1", "elevator-touchless-cop-buttons-tf-lb38r-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2000,7 +2000,7 @@ export const products = [
         description: "TF-LB38R LOP Buttons",
         code: "BS-BT0070",
         url: "/buttons/touchless-lop-buttons-tf-lb38r",
-        image: "/img/products/buttons/touchless-lop-buttons-tf-lb38r/elevator-touchless-lop-buttons-tf-lb38r-1.jpg",
+        image: "/img/products/buttons/touchless-lop-buttons-tf-lb38r/elevator-touchless-lop-buttons-tf-lb38r-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -2009,7 +2009,7 @@ export const products = [
         description: "BST PUSH BUTTON MA1200 SS",
         code: "BS-BT0071",
         url: "/buttons/bst-push-button-ma1200-ss",
-        image: "/img/products/buttons/bst-push-button-ma1200-ss/elevator-bst-push-button-ma1200-ss-1.jpg",
+        image: "/img/products/buttons/bst-push-button-ma1200-ss/elevator-bst-push-button-ma1200-ss-1.webp",
         slider: ["elevator-bst-push-button-ma1200-ss-1", "elevator-bst-push-button-ma1200-ss-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2019,7 +2019,7 @@ export const products = [
         description: "Sigma round - Push buttons AK-29B",
         code: "BS-BT0072",
         url: "/buttons/push-buttons-ak-29b",
-        image: "/img/products/buttons/push-buttons-ak-29b/elevator-push-buttons-ak-29b-1.jpg",
+        image: "/img/products/buttons/push-buttons-ak-29b/elevator-push-buttons-ak-29b-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -2028,7 +2028,7 @@ export const products = [
         description: "Monarch: 13-25. Blue/Red",
         code: "BS-BT0073",
         url: "/buttons/cop-button-monarch-13",
-        image: "/img/products/buttons/cop-button-monarch-13/elevator-cop-button-monarch-13-1.jpg",
+        image: "/img/products/buttons/cop-button-monarch-13/elevator-cop-button-monarch-13-1.webp",
         slider: ["elevator-cop-button-monarch-13-1", "elevator-cop-button-monarch-13-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2038,7 +2038,7 @@ export const products = [
         description: "Kone buttons. Red",
         code: "BS-BT0074",
         url: "/buttons/kds-button-square-with-screws",
-        image: "/img/products/buttons/kds-button-square-with-screws/elevator-kds-button-square-with-screws-1.jpg",
+        image: "/img/products/buttons/kds-button-square-with-screws/elevator-kds-button-square-with-screws-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -2047,7 +2047,7 @@ export const products = [
         description: "Push Button Red: AN306",
         code: "BS-BT0075",
         url: "/buttons/push-button-round-an306",
-        image: "/img/products/buttons/push-button-round-an306/elevator-push-button-round-an306-1.jpg",
+        image: "/img/products/buttons/push-button-round-an306/elevator-push-button-round-an306-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -2056,7 +2056,7 @@ export const products = [
         description: "Elevator Push Button KA1060",
         code: "BS-BT0076",
         url: "/buttons/elevator-push-button-ka1060",
-        image: "/img/products/buttons/elevator-push-button-ka1060/elevator-push-button-ka1060-1.jpg",
+        image: "/img/products/buttons/elevator-push-button-ka1060/elevator-push-button-ka1060-1.webp",
         slider: ["elevator-push-button-ka1060-1", "elevator-push-button-ka1060-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -2068,7 +2068,7 @@ export const products = [
         code: "BS-BT0077",
         url: "/buttons/touchless-cop-buttons-tf-lb38r-silver",
         image:
-          "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/elevator-touchless-cop-buttons-tf-lb38r-silver-1.jpg",
+          "/img/products/buttons/touchless-cop-buttons-tf-lb38r-silver/elevator-touchless-cop-buttons-tf-lb38r-silver-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -2077,7 +2077,7 @@ export const products = [
         description: "COP buttons NY20041659H01",
         code: "BS-BT0078",
         url: "/buttons/cop-buttons-ny20041659h01",
-        image: "/img/products/buttons/cop-buttons-ny20041659h01/elevator-cop-buttons-ny20041659h01-1.jpg",
+        image: "/img/products/buttons/cop-buttons-ny20041659h01/elevator-cop-buttons-ny20041659h01-1.webp",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
@@ -2087,7 +2087,7 @@ export const products = [
         code: "BS-BT0079",
         url: "/buttons/elevator-button-board-617712g05",
         canonical: "https://www.bestechparts.ae/products/buttons/elevator-button-board-617712g05",
-        image: "/img/products/buttons/elevator-button-board-617712g05/elevator-spareparts-elevator-button-board-617712g05-1.jpg",
+        image: "/img/products/buttons/elevator-button-board-617712g05/elevator-spareparts-elevator-button-board-617712g05-1.webp",
         alttext: "Elevator Button Board 617712G05 Elevator Spare Parts",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2097,7 +2097,7 @@ export const products = [
         code: "BS-BT0080",
         url: "/buttons/elevator-button-board-724763h02",
         canonical: "https://www.bestechparts.ae/products/buttons/elevator-button-board-724763h02",
-        image: "/img/products/buttons/elevator-button-board-724763h02/elevator-spareparts-elevator-button-board-724763h02-1.jpg",
+        image: "/img/products/buttons/elevator-button-board-724763h02/elevator-spareparts-elevator-button-board-724763h02-1.webp",
         alttext: "Elevator Button Board 724763H02 Elevator Spare Parts",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       },
@@ -2107,7 +2107,7 @@ export const products = [
         code: "BS-BT0081",
         url: "/buttons/elevator-button-board-612913h07",
         canonical: "https://www.bestechparts.ae/products/buttons/elevator-button-board-612913h07",
-        image: "/img/products/buttons/elevator-button-board-612913h07/elevator-spareparts-elevator-button-board-612913h07-1.jpg",
+        image: "/img/products/buttons/elevator-button-board-612913h07/elevator-spareparts-elevator-button-board-612913h07-1.webp",
         alttext: "Elevator Button Board 612913H07 Elevator Spare Parts",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
       }
@@ -2132,7 +2132,7 @@ export const products = [
         description: "LA137-BD21",
         code: "BS-SW0001",
         url: "/switches/inspection-normal-switch-no",
-        image: "/img/products/switches/inspection-normal-switch-no/elevator-inspection-normal-switch-no-1.jpg",
+        image: "/img/products/switches/inspection-normal-switch-no/elevator-inspection-normal-switch-no-1.webp",
         slider: ["elevator-inspection-normal-switch-no-1", "elevator-inspection-normal-switch-no-2"],
         meta_title:
           "Elevator Inspection Normal Switch No. Supplier in UAE | Bestech",
@@ -2152,7 +2152,7 @@ export const products = [
         description: "LA137-CK12M45",
         code: "BS-SW0002",
         url: "/switches/inspection-normal-switch-light-no",
-        image: "/img/products/switches/inspection-normal-switch-light-no/elevator-inspection-normal-switch-light-no-1.jpg",
+        image: "/img/products/switches/inspection-normal-switch-light-no/elevator-inspection-normal-switch-light-no-1.webp",
         meta_title:
           "Elevator Inspection Light Switch NO Supplier in UAE | Bestech",
         meta_description:
@@ -2171,7 +2171,7 @@ export const products = [
         description: "MKG131-03",
         code: "BS-SW0003",
         url: "/switches/bistable-switch-mkg131-03",
-        image: "/img/products/switches/bistable-switch-mkg131-03/elevator-bistable-switch-mkg131-03-1.jpg",
+        image: "/img/products/switches/bistable-switch-mkg131-03/elevator-bistable-switch-mkg131-03-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/switches/bistable-switch-mkg131-03",
         robots:
@@ -2190,7 +2190,7 @@ export const products = [
         description: "LAY7(PBCY090)LAY37",
         code: "BS-SW0004",
         url: "/switches/emergency-stop-switch-lay7",
-        image: "/img/products/switches/emergency-stop-switch-lay7/elevator-emergency-stop-switch-lay7-1.jpg",
+        image: "/img/products/switches/emergency-stop-switch-lay7/elevator-emergency-stop-switch-lay7-1.webp",
         slider: ["elevator-emergency-stop-switch-lay7-1", "elevator-emergency-stop-switch-lay7-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/emergency-stop-switch-lay7",
@@ -2209,7 +2209,7 @@ export const products = [
         description: "UKS/UKT",
         code: "BS-SW0005",
         url: "/switches/buffer-switch-uks-ukt",
-        image: "/img/products/switches/buffer-switch-uks-ukt/elevator-buffer-switch-uks-ukt-1.jpg",
+        image: "/img/products/switches/buffer-switch-uks-ukt/elevator-buffer-switch-uks-ukt-1.webp",
         slider: ["elevator-buffer-switch-uks-ukt-1", "elevator-buffer-switch-uks-ukt-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/buffer-switch-uks-ukt",
@@ -2230,7 +2230,7 @@ export const products = [
         code: "BS-SW0006",
         url: "/switches/pit-buffer-switch-lxp1-3se3-020-1a",
         image:
-          "/img/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a/elevator-pit-buffer-switch-lxp1-3SE3-020-1a-1.jpg",
+          "/img/products/switches/pit-buffer-switch-lxp1-3SE3-020-1a/elevator-pit-buffer-switch-lxp1-3SE3-020-1a-1.webp",
         slider: ["elevator-pit-buffer-switch-lxp1-3SE3-020-1a-1", "elevator-pit-buffer-switch-lxp1-3SE3-020-1a-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/pit-buffer-switch-lxp1-3se3-020-1a",
@@ -2250,7 +2250,7 @@ export const products = [
         description: "DS-131",
         code: "BS-SW0007",
         url: "/switches/door-switch-ds-131",
-        image: "/img/products/switches/door-switch-ds-131/elevator-door-switch-ds-131-1.jpg",
+        image: "/img/products/switches/door-switch-ds-131/elevator-door-switch-ds-131-1.webp",
         slider: ["elevator-door-switch-ds-131-1", "elevator-door-switch-ds-131-2", "elevator-door-switch-ds-131-3"],
         canonical:
           "https://www.bestechparts.ae/products/switches/door-switch-ds-131",
@@ -2269,7 +2269,7 @@ export const products = [
         description: "YA043D166-04",
         code: "BS-SW0008",
         url: "/switches/door-machine-switch-ya043d166-04",
-        image: "/img/products/switches/door-machine-switch-ya043d166-04/elevator-door-machine-switch-ya043d166-04-1.jpg",
+        image: "/img/products/switches/door-machine-switch-ya043d166-04/elevator-door-machine-switch-ya043d166-04-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/switches/door-machine-switch-ya043d166-04",
         robots:
@@ -2288,7 +2288,7 @@ export const products = [
         description: "D4NA-4132/D4N-4A72",
         code: "BS-SW0009",
         url: "/switches/limit-switch-d4na-4132-d4n-4a72",
-        image: "/img/products/switches/limit-switch-d4na-4132-d4n-4a72/elevator-limit-switch-d4na-4132-d4n-4a72-1.jpg",
+        image: "/img/products/switches/limit-switch-d4na-4132-d4n-4a72/elevator-limit-switch-d4na-4132-d4n-4a72-1.webp",
         slider: ["elevator-limit-switch-d4na-4132-d4n-4a72-1", "elevator-limit-switch-d4na-4132-d4n-4a72-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/limit-switch-d4na-4132-d4n-4a72",
@@ -2308,7 +2308,7 @@ export const products = [
         description: "HD-MV01A",
         code: "BS-SW0010",
         url: "/switches/overload-switch-hd-mv01a",
-        image: "/img/products/switches/overload-switch-hd-mv01a/elevator-overload-switch-hd-mv01a-1.jpg",
+        image: "/img/products/switches/overload-switch-hd-mv01a/elevator-overload-switch-hd-mv01a-1.webp",
         slider: ["elevator-overload-switch-hd-mv01a-1", "elevator-overload-switch-hd-mv01a-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/overload-switch-hd-mv01a",
@@ -2328,7 +2328,7 @@ export const products = [
         description: "X-10GQ-B",
         code: "BS-SW0011",
         url: "/switches/micro-switch-x-10gq-b",
-        image: "/img/products/switches/micro-switch-x-10gq-b/elevator-micro-switch-x-10gq-b-1.jpg",
+        image: "/img/products/switches/micro-switch-x-10gq-b/elevator-micro-switch-x-10gq-b-1.webp",
         slider: ["elevator-micro-switch-x-10gq-b-1"],
         canonical:
           "https://www.bestechparts.ae/products/switches/micro-switch-x-10gq-b",
@@ -2348,7 +2348,7 @@ export const products = [
         description: "S3-B1270/S3-1371",
         code: "BS-SW0012",
         url: "/switches/limit-switch-s3-b1270-s3-1371",
-        image: "/img/products/switches/limit-switch-s3-b1270-s3-1371/elevator-limit-switch-s3-b1270-s3-1371-1.jpg",
+        image: "/img/products/switches/limit-switch-s3-b1270-s3-1371/elevator-limit-switch-s3-b1270-s3-1371-1.webp",
         slider: ["elevator-limit-switch-s3-b1270-s3-1371-1", "elevator-limit-switch-s3-b1270-s3-1371-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/limit-switch-s3-b1270-s3-1371",
@@ -2369,7 +2369,7 @@ export const products = [
         code: "BS-SW0013",
         url: "/switches/brake-detection-switch-b3181-83186",
         image:
-          "/img/products/switches/brake-detection-switch-b3181-83186/elevator-brake-detection-switch-b3181-83186-1.jpg",
+          "/img/products/switches/brake-detection-switch-b3181-83186/elevator-brake-detection-switch-b3181-83186-1.webp",
         slider: ["elevator-brake-detection-switch-b3181-83186-1", "elevator-brake-detection-switch-b3181-83186-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/brake-detection-switch-b3181-83186",
@@ -2389,7 +2389,7 @@ export const products = [
         description: "KCB-IIIA/KCB-IIIB",
         code: "BS-SW0014",
         url: "/switches/door-switch-kcb-iiia-kcb-iiib",
-        image: "/img/products/switches/door-switch-kcb-iiia-kcb-iiib/elevator-door-switch-kcb-iiia-kcb-iiib-1.jpg",
+        image: "/img/products/switches/door-switch-kcb-iiia-kcb-iiib/elevator-door-switch-kcb-iiia-kcb-iiib-1.webp",
         slider: ["elevator-door-switch-kcb-iiia-kcb-iiib-1", "elevator-door-switch-kcb-iiia-kcb-iiib-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/door-switch-kcb-iiia-kcb-iiib",
@@ -2408,7 +2408,7 @@ export const products = [
         description: "",
         code: "BS-SW0015",
         url: "/switches/bistable-switch-kcb-r-59122",
-        image: "/img/products/switches/bistable-switch/elevator-bistable-switch-1.jpg",
+        image: "/img/products/switches/bistable-switch/elevator-bistable-switch-1.webp",
         slider: ["elevator-bistable-switch-1", "elevator-bistable-switch-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/bistable-switch-kcb-r-59122",
@@ -2427,7 +2427,7 @@ export const products = [
         description: "",
         code: "BS-SW0016",
         url: "/switches/monostable-switch-kcb-r-59121-no",
-        image: "/img/products/switches/monostable-switch/elevator-monostable-switch-1.jpg",
+        image: "/img/products/switches/monostable-switch/elevator-monostable-switch-1.webp",
         slider: ["elevator-monostable-switch-1", "elevator-monostable-switch-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches//switches/monostable-switch-kcb-r-59121-no",
@@ -2447,7 +2447,7 @@ export const products = [
         code: "BS-SW0017",
         url: "/switches/bestech-brand-roller-switch-bs-s3-b1370",
         image:
-          "/img/products/switches/bestech-brand-roller-switch-bs-s3-b1370/elevator-bestech-brand-roller-switch-bs-s3-b1370-1.jpg",
+          "/img/products/switches/bestech-brand-roller-switch-bs-s3-b1370/elevator-bestech-brand-roller-switch-bs-s3-b1370-1.webp",
         slider: ["elevator-bestech-brand-roller-switch-bs-s3-b1370-1", "elevator-bestech-brand-roller-switch-bs-s3-b1370-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/bestech-brand-roller-switch-bs-s3-b1370",
@@ -2460,7 +2460,7 @@ export const products = [
         code: "BS-SW0018",
         url: "/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
         image:
-          "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/elevator-bestech-brand-buffer-switch-bs-uks-bs-ukt-1.jpg",
+          "/img/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt/elevator-bestech-brand-buffer-switch-bs-uks-bs-ukt-1.webp",
 
         canonical:
           "https://www.bestechparts.ae/products/switches/bestech-brand-buffer-switch-bs-uks-bs-ukt",
@@ -2472,7 +2472,7 @@ export const products = [
         description: "Elevator Limit Switch ME-8108",
         code: "BS-SW0019",
         url: "/switches/elevator-limit-switch-me-8108",
-        image: "/img/products/switches/elevator-limit-switch-me-8108/elevator-limit-switch-me-8108-1.jpg",
+        image: "/img/products/switches/elevator-limit-switch-me-8108/elevator-limit-switch-me-8108-1.webp",
         slider: ["elevator-limit-switch-me-8108-1", "elevator-limit-switch-me-8108-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/elevator-limit-switch-me-8108",
@@ -2484,7 +2484,7 @@ export const products = [
         description: "Elevator Limit Switch RL8108",
         code: "BS-SW0020",
         url: "/switches/elevator-limit-switch-rl8108",
-        image: "/img/products/switches/elevator-limit-switch-rl8108/elevator-limit-switch-rl8108-1.jpg",
+        image: "/img/products/switches/elevator-limit-switch-rl8108/elevator-limit-switch-rl8108-1.webp",
         slider: ["elevator-limit-switch-rl8108-1", "elevator-limit-switch-rl8108-2"],
         canonical:
           "https://www.bestechparts.ae/products/switches/elevator-limit-switch-rl8108",
@@ -2496,7 +2496,7 @@ export const products = [
         description: "Elevator Limit Switch AZ8108",
         code: "BS-SW0021",
         url: "/switches/elevator-limit-switch-az8108",
-        image: "/img/products/switches/elevator-limit-switch-az8108/elevator-limit-switch-az8108-1.jpg",
+        image: "/img/products/switches/elevator-limit-switch-az8108/elevator-limit-switch-az8108-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/switches/elevator-limit-switch-az8108",
         robots:
@@ -2507,7 +2507,7 @@ export const products = [
         description: "Schindler - 5791 3864  (TAYEE)",
         code: "BS-SW0022",
         url: "/switches/escalator-switch-5791-3864-tayee",
-        image: "/img/products/switches/escalator-switch-5791-3864-tayee/elevator-escalator-switch-5791-3864-tayee-1.jpg",
+        image: "/img/products/switches/escalator-switch-5791-3864-tayee/elevator-escalator-switch-5791-3864-tayee-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/switches/escalator-switch-5791-3864-tayee",
         robots:
@@ -2518,7 +2518,7 @@ export const products = [
         description: "OTIS Escalator Switch - XBA26220AB2",
         code: "BS-SW0023",
         url: "/switches/escalator-switch-xba26220ab2",
-        image: "/img/products/switches/escalator-switch-xba26220ab2/elevator-escalator-switch-xba26220ab2-1.jpg",
+        image: "/img/products/switches/escalator-switch-xba26220ab2/elevator-escalator-switch-xba26220ab2-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/switches/escalator-switch-xba26220ab2",
         slider: ["elevator-escalator-switch-xba26220ab2-1", "elevator-escalator-switch-xba26220ab2-2"],
@@ -2530,7 +2530,7 @@ export const products = [
         description: "Elevator Limit Switch YF121",
         code: "BS-SW0024",
         url: "/switches/elevator-limit-switch-yf121",
-        image: "/img/products/switches/elevator-limit-switch-yf121/elevator-spareparts-elevator-limit-switch-yf121-1.jpg",
+        image: "/img/products/switches/elevator-limit-switch-yf121/elevator-spareparts-elevator-limit-switch-yf121-1.webp",
         alttext: "Elevator Limit Switch YF121 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/switches/elevator-limit-switch-yf121",
         slider: [
@@ -2543,7 +2543,7 @@ export const products = [
         description: "Elevator Limit Switch LSE133",
         code: "BS-SW0025",
         url: "/switches/elevator-limit-switch-lse133",
-        image: "/img/products/switches/elevator-limit-switch-lse133/elevator-spareparts-elevator-limit-switch-lse133-1.jpg",
+        image: "/img/products/switches/elevator-limit-switch-lse133/elevator-spareparts-elevator-limit-switch-lse133-1.webp",
         alttext: "Elevator Limit Switch LSE133 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/switches/elevator-limit-switch-lse133",
         slider: [
@@ -2572,7 +2572,7 @@ export const products = [
         description: "",
         code: "BS-EL0001",
         url: "/electrical/connector-pt2-5",
-        image: "/img/products/electrical/connector-pt2-5/elevator-connector-pt2-5-1.jpg",
+        image: "/img/products/electrical/connector-pt2-5/elevator-connector-pt2-5-1.webp",
         slider: ["elevator-connector-pt2-5-1", "elevator-connector-pt2-5-2"],
         meta_title: "Electrical Connector PT2.5 UAE | Bestech Spare Parts",
         meta_description:
@@ -2589,7 +2589,7 @@ export const products = [
         description: "",
         code: "BS-EL0002",
         url: "/electrical/connector-pt6",
-        image: "/img/products/electrical/connector-pt6/elevator-connector-pt6-1.jpg",
+        image: "/img/products/electrical/connector-pt6/elevator-connector-pt6-1.webp",
         slider: ["elevator-connector-pt6-1", "elevator-connector-pt6-2"],
         meta_title: "Best PT6 Connector Supplier Sharjah | Bestech UAE",
         meta_description:
@@ -2606,7 +2606,7 @@ export const products = [
         description: "",
         code: "BS-EL0003",
         url: "/electrical/connector-pt10",
-        image: "/img/products/electrical/connector-pt10/elevator-connector-pt10-1.jpg",
+        image: "/img/products/electrical/connector-pt10/elevator-connector-pt10-1.webp",
         slider: ["elevator-connector-pt10-1", "elevator-connector-pt10-2"],
         meta_title: "Get Electrical Connector PT10 in Sharjah and Dubai, UAE",
         meta_description:
@@ -2624,7 +2624,7 @@ export const products = [
         description: "outer shell only",
         code: "BS-EL0004",
         url: "/electrical/inspection-box",
-        image: "/img/products/electrical/inspection-box/elevator-inspection-box-1.jpg",
+        image: "/img/products/electrical/inspection-box/elevator-inspection-box-1.webp",
         meta_title: "Elevator Inspection Box Supplier in Dubai & Sharjah, UAE",
         meta_description:
           "Buy Elevator Inspection Box from Bestechparts, top supplier in Sharjah, Dubai & UAE. Grab your maintenance boxes for elevators & escalators.",
@@ -2640,7 +2640,7 @@ export const products = [
         description: "LRS-150-24",
         code: "BS-EL0005",
         url: "/electrical/switching-power-supply-smps",
-        image: "/img/products/electrical/switching-power-supply-smps/elevator-switching-power-supply-smps-1.jpg",
+        image: "/img/products/electrical/switching-power-supply-smps/elevator-switching-power-supply-smps-1.webp",
         slider: ["elevator-switching-power-supply-smps-1", "elevator-switching-power-supply-smps-2", "elevator-switching-power-supply-smps-3"],
         meta_title: "Elevator Switching Power Supply SMPS in Dubai, UAE",
         meta_description:
@@ -2659,7 +2659,7 @@ export const products = [
         description: "XJ12-A",
         code: "BS-EL0006",
         url: "/electrical/phase-sequence-relay",
-        image: "/img/products/electrical/phase-sequence-relay/elevator-phase-sequence-relay-1.jpg",
+        image: "/img/products/electrical/phase-sequence-relay/elevator-phase-sequence-relay-1.webp",
         slider: ["elevator-phase-sequence-relay-1", "elevator-phase-sequence-relay-2"],
         meta_title: "Elevator Phase Sequence Relay XJ12-A in Sharjah, UAE",
         meta_description:
@@ -2678,7 +2678,7 @@ export const products = [
         description: "",
         code: "BS-EL0009",
         url: "/electrical/power-supply-unit",
-        image: "/img/products/electrical/power-supply-unit/elevator-power-supply-unit-1.jpg",
+        image: "/img/products/electrical/power-supply-unit/elevator-power-supply-unit-1.webp",
         slider: ["elevator-power-supply-unit-1", "elevator-power-supply-unit-2", "elevator-power-supply-unit-3"],
         meta_title: "Elevator Power Supply Unit in Dubai | Spare Parts UAE",
         meta_description:
@@ -2697,7 +2697,7 @@ export const products = [
         description: "",
         code: "BS-EL0008",
         url: "/electrical/intercom-cop-unit",
-        image: "/img/products/electrical/intercom-cop-unit/elevator-intercom-cop-unit-1.jpg",
+        image: "/img/products/electrical/intercom-cop-unit/elevator-intercom-cop-unit-1.webp",
         slider: ["elevator-intercom-cop-unit-1", "elevator-intercom-cop-unit-2", "elevator-intercom-cop-unit-3"],
         meta_title: "Buy Elevator COP Intercom Unit Online in Sharjah, UAE",
         meta_description:
@@ -2716,7 +2716,7 @@ export const products = [
         description: "",
         code: "BS-EL0007",
         url: "/electrical/intercom-handset",
-        image: "/img/products/electrical/intercom-handset/elevator-intercom-handset-1.jpg",
+        image: "/img/products/electrical/intercom-handset/elevator-intercom-handset-1.webp",
         slider: ["elevator-intercom-handset-1", "elevator-intercom-handset-2", "elevator-intercom-handset-3"],
         meta_title:
           "Dependable Elevator Intercom Handset Supplier in Dubai & Sharjah",
@@ -2736,7 +2736,7 @@ export const products = [
         description: "",
         code: "BS-EL0010",
         url: "/electrical/emergency-light",
-        image: "/img/products/electrical/emergency-light/elevator-emergency-light-1.jpg",
+        image: "/img/products/electrical/emergency-light/elevator-emergency-light-1.webp",
         slider: ["elevator-emergency-light-1", "elevator-emergency-light-2", "elevator-emergency-light-3"],
         meta_title:
           "Buy Elevator Emergency Light UAE – Top Lift Parts Supplier Dubai",
@@ -2756,7 +2756,7 @@ export const products = [
         description: "",
         code: "BS-EL0011",
         url: "/electrical/alarm",
-        image: "/img/products/electrical/alarm/elevator-alarm-1.jpg",
+        image: "/img/products/electrical/alarm/elevator-alarm-1.webp",
         slider: ["elevator-alarm-1", "elevator-alarm-2"],
         meta_title:
           "Best Emergency Alarm for Elevators – Top Lift Alarm Supplier UAE",
@@ -2775,7 +2775,7 @@ export const products = [
         description: "CHINT: 500VA",
         code: "BS-EL0012",
         url: "/electrical/chint-transformer-500va",
-        image: "/img/products/electrical/chint-transformer-500va/elevator-chint-transformer-500va-1.jpg",
+        image: "/img/products/electrical/chint-transformer-500va/elevator-chint-transformer-500va-1.webp",
         slider: ["elevator-chint-transformer-500va-1", "elevator-chint-transformer-500va-2"],
         meta_title: "",
         meta_description: "",
@@ -2790,7 +2790,7 @@ export const products = [
         description: " NKT12(1-1)B1 12V",
         code: "BS-EL0013",
         url: "/electrical/elevator-alarm-nkt121-1b1-12v",
-        image: "/img/products/electrical/elevator-alarm-nkt121-1b1-12v/elevator-alarm-nkt121-1b1-12v-1.jpg",
+        image: "/img/products/electrical/elevator-alarm-nkt121-1b1-12v/elevator-alarm-nkt121-1b1-12v-1.webp",
         slider: ["elevator-alarm-nkt121-1b1-12v-1", "elevator-alarm-nkt121-1b1-12v-2"],
         meta_title: "",
         meta_description: "",
@@ -2806,7 +2806,7 @@ export const products = [
         code: "BS-EL0014",
         url: "/electrical/switching-power-supply-smps-ms-250-24",
         image:
-          "/img/products/electrical/switching-power-supply-smps-ms-250-24/elevator-switching-power-supply-smps-ms-250-24-1.jpg",
+          "/img/products/electrical/switching-power-supply-smps-ms-250-24/elevator-switching-power-supply-smps-ms-250-24-1.webp",
         slider: ["elevator-switching-power-supply-smps-ms-250-24-1", "elevator-switching-power-supply-smps-ms-250-24-2"],
         meta_title: "",
         meta_description: "",
@@ -2822,7 +2822,7 @@ export const products = [
         code: "BS-EL0015",
         url: "/electrical/switching-power-supply-smps-ms-100-24",
         image:
-          "/img/products/electrical/switching-power-supply-smps-ms-100-24/elevator-switching-power-supply-smps-ms-100-24-1.jpg",
+          "/img/products/electrical/switching-power-supply-smps-ms-100-24/elevator-switching-power-supply-smps-ms-100-24-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2836,7 +2836,7 @@ export const products = [
         description: "Remote Inspection Box",
         code: "BS-EL0016",
         url: "/electrical/remote-inspection-box-grey",
-        image: "/img/products/electrical/remote-inspection-box-grey/elevator-remote-inspection-box-grey-1.jpg",
+        image: "/img/products/electrical/remote-inspection-box-grey/elevator-remote-inspection-box-grey-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2851,7 +2851,7 @@ export const products = [
         code: "BS-EL0017",
         url: "/electrical/remote-inspection-box-km713856g23",
         image:
-          "/img/products/electrical/remote-inspection-box-km713856g23/elevator-remote-inspection-box-km713856g23-1.jpg",
+          "/img/products/electrical/remote-inspection-box-km713856g23/elevator-remote-inspection-box-km713856g23-1.webp",
         slider: ["elevator-remote-inspection-box-km713856g23-1", "elevator-remote-inspection-box-km713856g23-2"],
         meta_title: "",
         meta_description: "",
@@ -2866,7 +2866,7 @@ export const products = [
         description: "TDB-630-21",
         code: "BS-EL0018",
         url: "/electrical/transformer-tdb-630-21",
-        image: "/img/products/electrical/transformer-tdb-630-21/elevator-transformer-tdb-630-21-1.jpg",
+        image: "/img/products/electrical/transformer-tdb-630-21/elevator-transformer-tdb-630-21-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2881,7 +2881,7 @@ export const products = [
         code: "BS-EL0019",
         url: "/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b",
         image:
-          "/img/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b/elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-1.jpg",
+          "/img/products/electrical/bestech-brand-cross-flow-fan-gybs-fb-9b/elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-1.webp",
         slider: ["elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-1", "elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-2", "elevator-bestech-brand-cross-flow-fan-gybs-fb-9b-3"],
         meta_title: "",
         meta_description: "",
@@ -2896,7 +2896,7 @@ export const products = [
         description: "Bestech: Intercom 3 ways",
         code: "BS-EL0020",
         url: "/electrical/bestech-brand-intercom-full-set",
-        image: "/img/products/electrical/bestech-brand-intercom-full-set/elevator-bestech-brand-intercom-full-set-1.jpg",
+        image: "/img/products/electrical/bestech-brand-intercom-full-set/elevator-bestech-brand-intercom-full-set-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2910,7 +2910,7 @@ export const products = [
         description: "XSN1 MRL OSG - 1m/s",
         code: "BS-EL0021",
         url: "/electrical/xsn1-mrl-overspeed-governor",
-        image: "/img/products/electrical/xsn1-mrl-overspeed-governor/elevator-xsn1-mrl-overspeed-governor-1.jpg",
+        image: "/img/products/electrical/xsn1-mrl-overspeed-governor/elevator-xsn1-mrl-overspeed-governor-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2924,7 +2924,7 @@ export const products = [
         description: "KBPC3510",
         code: "BS-EL0022",
         url: "/electrical/bridge-rectfier-kbpc3510",
-        image: "/img/products/electrical/bridge-rectfier-kbpc3510/elevator-bridge-rectfier-kbpc3510-1.jpg",
+        image: "/img/products/electrical/bridge-rectfier-kbpc3510/elevator-bridge-rectfier-kbpc3510-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2938,7 +2938,7 @@ export const products = [
         description: "BK-50VA(INPUT 220V-380V)",
         code: "BS-EL0023",
         url: "/electrical/transformor-bk-50va",
-        image: "/img/products/electrical/transformor-bk-50va/elevator-transformor-bk-50va-1.jpg",
+        image: "/img/products/electrical/transformor-bk-50va/elevator-transformor-bk-50va-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2952,7 +2952,7 @@ export const products = [
         description: "Elevator Arrival Charm NKB24V",
         code: "BS-EL0024",
         url: "/electrical/elevator-arrival-charm-nkb24v",
-        image: "/img/products/electrical/elevator-arrival-charm-nkb24v/elevator-arrival-charm-nkb24v-1.jpg",
+        image: "/img/products/electrical/elevator-arrival-charm-nkb24v/elevator-arrival-charm-nkb24v-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2966,7 +2966,7 @@ export const products = [
         description: "RXMAB2BD Schneider 24VDC",
         code: "BS-EL0025",
         url: "/electrical/24-vdc-relay-with-base",
-        image: "/img/products/electrical/24-vdc-relay-with-base/elevator-24-vdc-relay-with-base-1.jpg",
+        image: "/img/products/electrical/24-vdc-relay-with-base/elevator-24-vdc-relay-with-base-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -2980,7 +2980,7 @@ export const products = [
         description: "Sigma SPLG50-DL2",
         code: "BS-EL0026",
         url: "/electrical/power-supply-unit-splg50-dl2",
-        image: "/img/products/electrical/power-supply-unit-splg50-dl2/elevator-power-supply-unit-splg50-dl2-1.jpg",
+        image: "/img/products/electrical/power-supply-unit-splg50-dl2/elevator-power-supply-unit-splg50-dl2-1.webp",
         slider: ["elevator-power-supply-unit-splg50-dl2-1", "elevator-power-supply-unit-splg50-dl2-2"],
         meta_title: "",
         meta_description: "",
@@ -2995,7 +2995,7 @@ export const products = [
         description: "Terminal connectors 50 pcs / box",
         code: "BS-EL0027",
         url: "/electrical/terminal-connectors",
-        image: "/img/products/electrical/terminal-connectors/elevator-terminal-connectors-1.jpg",
+        image: "/img/products/electrical/terminal-connectors/elevator-terminal-connectors-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3009,7 +3009,7 @@ export const products = [
         description: "NB5 tags 100pcs/box",
         code: "BS-EL0028",
         url: "/electrical/connector-name-tags-nb5",
-        image: "/img/products/electrical/connector-name-tags-nb5/elevator-connector-name-tags-nb5-1.jpg",
+        image: "/img/products/electrical/connector-name-tags-nb5/elevator-connector-name-tags-nb5-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3023,7 +3023,7 @@ export const products = [
         description: "RXM4AB1P7 Schneider 230VAC",
         code: "BS-EL0029",
         url: "/electrical/230-vac-relay-with-base",
-        image: "/img/products/electrical/230-vac-relay-with-base/elevator-230-vac-relay-with-base-1.jpg",
+        image: "/img/products/electrical/230-vac-relay-with-base/elevator-230-vac-relay-with-base-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3038,7 +3038,7 @@ export const products = [
         code: "BS-EL0030",
         url: "/electrical/cabin-crossflow-fan-fb-9b-220vac",
         image:
-          "/img/products/electrical/cabin-crossflow-fan-fb-9b-220vac/elevator-cabin-crossflow-fan-fb-9b-220vac-1.jpg",
+          "/img/products/electrical/cabin-crossflow-fan-fb-9b-220vac/elevator-cabin-crossflow-fan-fb-9b-220vac-1.webp",
         slider: ["elevator-cabin-crossflow-fan-fb-9b-220vac-1", "elevator-cabin-crossflow-fan-fb-9b-220vac-2", "elevator-cabin-crossflow-fan-fb-9b-220vac-3"],
         meta_title: "",
         meta_description: "",
@@ -3053,7 +3053,7 @@ export const products = [
         description: "Fireman Switch Box",
         code: "BS-EL0031",
         url: "/electrical/fireman-switch-box",
-        image: "/img/products/electrical/fireman-switch-box/elevator-fireman-switch-box-1.jpg",
+        image: "/img/products/electrical/fireman-switch-box/elevator-fireman-switch-box-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3067,7 +3067,7 @@ export const products = [
         description: " Inspection box full set - Bestech",
         code: "BS-EL0032",
         url: "/electrical/inspection-box-full-set-bestech",
-        image: "/img/products/electrical/inspection-box-full-set-bestech/elevator-inspection-box-full-set-bestech-1.jpg",
+        image: "/img/products/electrical/inspection-box-full-set-bestech/elevator-inspection-box-full-set-bestech-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3081,7 +3081,7 @@ export const products = [
         description: "Mitsubishi Elevator intercom Z6B02-40",
         code: "BS-EL0033",
         url: "/electrical/elevator-intercom-z6b02-40",
-        image: "/img/products/electrical/elevator-intercom-z6b02-40/elevator-intercom-z6b02-40-2.jpg",
+        image: "/img/products/electrical/elevator-intercom-z6b02-40/elevator-intercom-z6b02-40-2.webp",
         slider: ["elevator-intercom-z6b02-40-2", "elevator-intercom-z6b02-40-1", "elevator-intercom-z6b02-40-3"],
         meta_title: "",
         meta_description: "",
@@ -3096,7 +3096,7 @@ export const products = [
         description: "48VDC Relay With Base 14 pin",
         code: "BS-EL0034",
         url: "/electrical/48vdc-relay-with-base-14-pin",
-        image: "/img/products/electrical/48vdc-relay-with-base-14-pin/elevator-48vdc-relay-with-base-14-pin-1.jpg",
+        image: "/img/products/electrical/48vdc-relay-with-base-14-pin/elevator-48vdc-relay-with-base-14-pin-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3110,7 +3110,7 @@ export const products = [
         description: "SMPS RT-85C (15V)",
         code: "BS-EL0035",
         url: "/electrical/smps-rt-85c",
-        image: "/img/products/electrical/smps-rt-85c/elevator-smps-rt-85c-1.jpg",
+        image: "/img/products/electrical/smps-rt-85c/elevator-smps-rt-85c-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3124,7 +3124,7 @@ export const products = [
         description: "24 VAC Relay With Base",
         code: "BS-EL0036",
         url: "/electrical/24-vac-relay-with-base",
-        image: "/img/products/electrical/24-vac-relay-with-base/elevator-spareparts-24-vac-relay-with-base-1.jpg",
+        image: "/img/products/electrical/24-vac-relay-with-base/elevator-spareparts-24-vac-relay-with-base-1.webp",
         alttext: "24 VAC Relay With Base Elevator Spare parts",
         canonical: "https://www.bestechparts.ae/products/electrical/24-vac-relay-with-base",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3134,7 +3134,7 @@ export const products = [
         description: "110 VDC Relay With Base",
         code: "BS-EL0037",
         url: "/electrical/110-vdc-relay-with-base",
-        image: "/img/products/electrical/110-vdc-relay-with-base/elevator-spareparts-110-vdc-relay-with-base-1.jpg",
+        image: "/img/products/electrical/110-vdc-relay-with-base/elevator-spareparts-110-vdc-relay-with-base-1.webp",
         alttext: "110 VDC Relay With Base Elevator Spare parts",
         canonical: "https://www.bestechparts.ae/products/electrical/110-vdc-relay-with-base",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3144,7 +3144,7 @@ export const products = [
         description: "OSG Coil Switch XS1-26 24V",
         code: "BS-EL0038",
         url: "/electrical/osg-coil-switch-xs1-26-24v",
-        image: "/img/products/electrical/osg-coil-switch-xs1-26-24v/elevator-spareparts-osg-coil-switch-xs1-26-24v-1.jpg",
+        image: "/img/products/electrical/osg-coil-switch-xs1-26-24v/elevator-spareparts-osg-coil-switch-xs1-26-24v-1.webp",
         alttext: "OSG Coil Switch XS1-26 24V Elevator Spare parts",
         canonical: "https://www.bestechparts.ae/products/electrical/osg-coil-switch-xs1-26-24v",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3154,7 +3154,7 @@ export const products = [
         description: "OSG Coil Switch XS1-28 220V",
         code: "BS-EL0039",
         url: "/electrical/osg-coil-switch-xs1-28-220v",
-        image: "/img/products/electrical/osg-coil-switch-xs1-28-220v/elevator-spareparts-osg-coil-switch-xs1-28-220v-1.jpg",
+        image: "/img/products/electrical/osg-coil-switch-xs1-28-220v/elevator-spareparts-osg-coil-switch-xs1-28-220v-1.webp",
         alttext: "OSG Coil Switch XS1-28 220V Elevator Spare parts",
         canonical: "https://www.bestechparts.ae/products/electrical/osg-coil-switch-xs1-28-220v",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3164,7 +3164,7 @@ export const products = [
         description: "SMPS NET-50C",
         code: "BS-EL0040",
         url: "/electrical/smps-net-50c",
-        image: "/img/products/electrical/smps-net-50c/elevator-spareparts-smps-net-50c-1.jpg",
+        image: "/img/products/electrical/smps-net-50c/elevator-spareparts-smps-net-50c-1.webp",
         alttext: "SMPS NET-50C Elevator Spare parts",
         canonical: "https://www.bestechparts.ae/products/electrical/smps-net-50c",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3174,7 +3174,7 @@ export const products = [
         description: "Elevator Power Board EPU-100 EPU-110",
         code: "BS-EL0041",
         url: "/electrical/elevator-power-board-epu-100-epu-110",
-        image: "/img/products/electrical/elevator-power-board-epu-100-epu-110/elevator-spareparts-elevator-power-board-epu-100-epu-110-1.jpg",
+        image: "/img/products/electrical/elevator-power-board-epu-100-epu-110/elevator-spareparts-elevator-power-board-epu-100-epu-110-1.webp",
         alttext: "Elevator Power Board EPU-100 EPU-110 Elevator Spare parts",
         canonical: "https://www.bestechparts.ae/products/electrical/elevator-power-board-epu-100-epu-110",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -3200,7 +3200,7 @@ export const products = [
         description: "W8L 11KW",
         code: "BS-CS0001",
         url: "/cabinet-set/control-cabinet-w8l-11kw",
-        image: "/img/products/cabinet-set/control-cabinet-w8l-11kw/elevator-control-cabinet-w8l-11kw-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-w8l-11kw/elevator-control-cabinet-w8l-11kw-1.webp",
         slider: ["elevator-control-cabinet-w8l-11kw-1", "elevator-control-cabinet-w8l-11kw-2", "elevator-control-cabinet-w8l-11kw-3", "elevator-control-cabinet-w8l-11kw-4"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-11kw",
@@ -3218,7 +3218,7 @@ export const products = [
         description: "W8L 7.5KW",
         code: "BS-CS0002",
         url: "/cabinet-set/control-cabinet-w8l-75kw",
-        image: "/img/products/cabinet-set/control-cabinet-w8l-75kw/elevator-control-cabinet-w8l-75kw-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-w8l-75kw/elevator-control-cabinet-w8l-75kw-1.webp",
         slider: ["elevator-control-cabinet-w8l-75kw-1", "elevator-control-cabinet-w8l-75kw-2", "elevator-control-cabinet-w8l-75kw-3", "elevator-control-cabinet-w8l-75kw-4"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-w8l-75kw",
@@ -3236,7 +3236,7 @@ export const products = [
         description: "Communication box",
         code: "BS-CS0003",
         url: "/cabinet-set/car-top-communication-box",
-        image: "/img/products/cabinet-set/car-top-communication-box/elevator-car-top-communication-box-1.jpg",
+        image: "/img/products/cabinet-set/car-top-communication-box/elevator-car-top-communication-box-1.webp",
         slider: ["elevator-car-top-communication-box-1", "elevator-car-top-communication-box-2", "elevator-car-top-communication-box-3", "elevator-car-top-communication-box-4"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box",
@@ -3251,7 +3251,7 @@ export const products = [
         description: "20CM",
         code: "BS-CS0004",
         url: "/cabinet-set/socket-and-wire-20cm",
-        image: "/img/products/cabinet-set/socket-and-wire-20cm/elevator-socket-and-wire-20cm-1.jpg",
+        image: "/img/products/cabinet-set/socket-and-wire-20cm/elevator-socket-and-wire-20cm-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/socket-and-wire-20cm",
         robots:
@@ -3268,7 +3268,7 @@ export const products = [
         description: "35mm 2M",
         code: "BS-CS0005",
         url: "/cabinet-set/din-rail-35mm-2m",
-        image: "/img/products/cabinet-set/din-rail-35mm-2m/elevator-din-rail-35mm-2m-1.jpg",
+        image: "/img/products/cabinet-set/din-rail-35mm-2m/elevator-din-rail-35mm-2m-1.webp",
         slider: ["elevator-din-rail-35mm-2m-1", "elevator-din-rail-35mm-2m-2", "elevator-din-rail-35mm-2m-3"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/din-rail-35mm-2m",
@@ -3286,7 +3286,7 @@ export const products = [
         description: "2M",
         code: "BS-CS0006",
         url: "/cabinet-set/trunking-2m",
-        image: "/img/products/cabinet-set/trunking-2m/elevator-trunking-2m-1.jpg",
+        image: "/img/products/cabinet-set/trunking-2m/elevator-trunking-2m-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/trunking-2m",
         robots:
@@ -3303,7 +3303,7 @@ export const products = [
         description: "Type: 2500W",
         code: "BS-CS0007",
         url: "/cabinet-set/braking-resistor-2500w",
-        image: "/img/products/cabinet-set/braking-resistor-2500w/elevator-braking-resistor-2500w-1.jpg",
+        image: "/img/products/cabinet-set/braking-resistor-2500w/elevator-braking-resistor-2500w-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-2500w",
         robots:
@@ -3320,7 +3320,7 @@ export const products = [
         description: "Type: 3500W",
         code: "BS-CS0008",
         url: "/cabinet-set/braking-resistor-3500w",
-        image: "/img/products/cabinet-set/braking-resistor-3500w/elevator-braking-resistor-3500w-1.jpg",
+        image: "/img/products/cabinet-set/braking-resistor-3500w/elevator-braking-resistor-3500w-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-3500w",
         robots:
@@ -3337,7 +3337,7 @@ export const products = [
         description: "Type: 5500W",
         code: "BS-CS0009",
         url: "/cabinet-set/braking-resistor-5500w",
-        image: "/img/products/cabinet-set/braking-resistor-5500w/elevator-braking-resistor-5500w-1.jpg",
+        image: "/img/products/cabinet-set/braking-resistor-5500w/elevator-braking-resistor-5500w-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-5500w",
         robots:
@@ -3354,7 +3354,7 @@ export const products = [
         description: "1050(H) X 600(W) X 260(D)",
         code: "BS-CS0010",
         url: "/cabinet-set/empty-control-cabinet-blue",
-        image: "/img/products/cabinet-set/empty-control-cabinet-blue/elevator-empty-control-cabinet-blue-1.jpg",
+        image: "/img/products/cabinet-set/empty-control-cabinet-blue/elevator-empty-control-cabinet-blue-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/empty-control-cabinet-blue",
         robots:
@@ -3365,7 +3365,7 @@ export const products = [
         description: "Bestech Car top box - Blue",
         code: "BS-CS0011",
         url: "/cabinet-set/car-top-communication-box-blue",
-        image: "/img/products/cabinet-set/car-top-communication-box-blue/elevator-car-top-communication-box-blue-1.jpg",
+        image: "/img/products/cabinet-set/car-top-communication-box-blue/elevator-car-top-communication-box-blue-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/car-top-communication-box-blue",
         robots:
@@ -3380,7 +3380,7 @@ export const products = [
         description: "Bestech controller - 7.5KW",
         code: "BS-CS0012",
         url: "/cabinet-set/control-cabinet-mrl-75kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-mrl-75kw-blue/elevator-control-cabinet-mrl-75kw-blue-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-mrl-75kw-blue/elevator-control-cabinet-mrl-75kw-blue-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-75kw-blue",
         slider: ["elevator-control-cabinet-mrl-75kw-blue-1", "elevator-control-cabinet-mrl-75kw-blue-2", "elevator-control-cabinet-mrl-75kw-blue-3", "elevator-control-cabinet-mrl-75kw-blue-4", "elevator-control-cabinet-mrl-75kw-blue-5"],
@@ -3392,7 +3392,7 @@ export const products = [
         description: "Bestech controller - 11KW",
         code: "BS-CS0013",
         url: "/cabinet-set/control-cabinet-mrl-11kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-mrl-11kw-blue/elevator-control-cabinet-mrl-11kw-blue-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-mrl-11kw-blue/elevator-control-cabinet-mrl-11kw-blue-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-mrl-11kw-blue",
         slider: ["elevator-control-cabinet-mrl-11kw-blue-1", "elevator-control-cabinet-mrl-11kw-blue-2", "elevator-control-cabinet-mrl-11kw-blue-3", "elevator-control-cabinet-mrl-11kw-blue-4", "elevator-control-cabinet-mrl-11kw-blue-5"],
@@ -3404,7 +3404,7 @@ export const products = [
         description: "Braking resistor - Type: 6500W",
         code: "BS-CS0014",
         url: "/cabinet-set/braking-resistor-type-6500w",
-        image: "/img/products/cabinet-set/braking-resistor-type-6500w/elevator-braking-resistor-type-6500w-1.jpg",
+        image: "/img/products/cabinet-set/braking-resistor-type-6500w/elevator-braking-resistor-type-6500w-1.webp",
         slider: ["elevator-braking-resistor-type-6500w-1", "elevator-braking-resistor-type-6500w-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-6500w",
@@ -3416,7 +3416,7 @@ export const products = [
         description: " Control cabinet - 15KW - Blue",
         code: "BS-CS0015",
         url: "/cabinet-set/control-cabinet-15kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-15kw-blue/elevator-control-cabinet-15kw-blue-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-15kw-blue/elevator-control-cabinet-15kw-blue-1.webp",
         slider: ["elevator-control-cabinet-15kw-blue-1", "elevator-control-cabinet-15kw-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-15kw-blue",
@@ -3428,7 +3428,7 @@ export const products = [
         description: "Control cabinet - 45KW - Blue",
         code: "BS-CS0016",
         url: "/cabinet-set/control-cabinet-45kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-45kw-blue/elevator-control-cabinet-45kw-blue-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-45kw-blue/elevator-control-cabinet-45kw-blue-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-45kw-blue",
         robots:
@@ -3440,7 +3440,7 @@ export const products = [
         code: "BS-CS0017",
         url: "/cabinet-set/braking-resistor-type-4500w-40ohm",
         image:
-          "/img/products/cabinet-set/braking-resistor-type-4500w-40ohm/elevator-braking-resistor-type-4500w-40ohm-1.jpg",
+          "/img/products/cabinet-set/braking-resistor-type-4500w-40ohm/elevator-braking-resistor-type-4500w-40ohm-1.webp",
         slider: ["elevator-braking-resistor-type-4500w-40ohm-1", "elevator-braking-resistor-type-4500w-40ohm-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-4500w-40ohm",
@@ -3452,7 +3452,7 @@ export const products = [
         description: "Cabinet Encloser - Small",
         code: "BS-CS0018",
         url: "/cabinet-set/cabinet-encloser-small",
-        image: "/img/products/cabinet-set/cabinet-encloser-small/elevator-cabinet-encloser-small-1.jpg",
+        image: "/img/products/cabinet-set/cabinet-encloser-small/elevator-cabinet-encloser-small-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/cabinet-encloser-small",
         robots:
@@ -3464,7 +3464,7 @@ export const products = [
         code: "BS-CS0019",
         url: "/cabinet-set/braking-resistor-type-1600w-110",
         image:
-          "/img/products/cabinet-set/braking-resistor-type-1600w-110/elevator-braking-resistor-type-1600w-110-1.jpg",
+          "/img/products/cabinet-set/braking-resistor-type-1600w-110/elevator-braking-resistor-type-1600w-110-1.webp",
         slider: ["elevator-braking-resistor-type-1600w-110-1", "elevator-braking-resistor-type-1600w-110-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/braking-resistor-type-1600w-110",
@@ -3476,7 +3476,7 @@ export const products = [
         description: " Control cabinet - 22KW - Blue",
         code: "BS-CS0020",
         url: "/cabinet-set/control-cabinet-22kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-22kw-blue/elevator-control-cabinet-22kw-blue-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-22kw-blue/elevator-control-cabinet-22kw-blue-1.webp",
         slider: ["elevator-control-cabinet-22kw-blue-1", "elevator-control-cabinet-22kw-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-22kw-blue",
@@ -3488,7 +3488,7 @@ export const products = [
         description: "ARCUBE - Car Top Inspection Box",
         code: "BS-CS0021",
         url: "/cabinet-set/arcube-car-top-inspection-box",
-        image: "/img/products/cabinet-set/arcube-car-top-inspection-box/elevator-arcube-car-top-inspection-box-1.jpg",
+        image: "/img/products/cabinet-set/arcube-car-top-inspection-box/elevator-arcube-car-top-inspection-box-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/arcube-car-top-inspection-box",
         robots:
@@ -3499,7 +3499,7 @@ export const products = [
         description: "Control cabinet - 18KW - Bestech",
         code: "BS-CS0022",
         url: "/cabinet-set/control-cabinet-18kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-18kw-blue/elevator-control-cabinet-18kw-blue-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-18kw-blue/elevator-control-cabinet-18kw-blue-1.webp",
         slider: ["elevator-control-cabinet-18kw-blue-1", "elevator-control-cabinet-18kw-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-18kw-blue",
@@ -3511,7 +3511,7 @@ export const products = [
         description: " Control cabinet - 5.5KW - Blue",
         code: "BS-CS0023",
         url: "/cabinet-set/control-cabinet-5.5kw-blue",
-        image: "/img/products/cabinet-set/control-cabinet-5.5kw-blue/elevator-control-cabinet-5.5kw-blue-1.jpg",
+        image: "/img/products/cabinet-set/control-cabinet-5.5kw-blue/elevator-control-cabinet-5.5kw-blue-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/control-cabinet-5.5kw-blue",
         robots:
@@ -3523,7 +3523,7 @@ export const products = [
         code: "BS-CS0024",
         url: "/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
         image:
-          "/img/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech/elevator-mrl-control-cabinet-5.5kw-bestech-1.jpg",
+          "/img/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech/elevator-mrl-control-cabinet-5.5kw-bestech-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/mrl-control-cabinet-5.5kw-bestech",
         robots:
@@ -3535,7 +3535,7 @@ export const products = [
         code: "BS-CS0025",
         url: "/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
         image:
-          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw/elevator-monarch-controller-cabinet-mrl-5.5kw-1.jpg",
+          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw/elevator-monarch-controller-cabinet-mrl-5.5kw-1.webp",
         slider: ["elevator-monarch-controller-cabinet-mrl-5.5kw-1", "elevator-monarch-controller-cabinet-mrl-5.5kw-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-5.5kw",
@@ -3548,7 +3548,7 @@ export const products = [
         code: "BS-CS0026",
         url: "/cabinet-set/monarch-controller-cabinet-mrl-11kw",
         image:
-          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-11kw/elevator-monarch-controller-cabinet-mrl-11kw-1.jpg",
+          "/img/products/cabinet-set/monarch-controller-cabinet-mrl-11kw/elevator-monarch-controller-cabinet-mrl-11kw-1.webp",
         slider: ["elevator-monarch-controller-cabinet-mrl-11kw-1", "elevator-monarch-controller-cabinet-mrl-11kw-2"],
         canonical:
           "https://www.bestechparts.ae/products/cabinet-set/monarch-controller-cabinet-mrl-11kw",
@@ -3560,7 +3560,7 @@ export const products = [
         description: "Monarch Controller Cabinet MR 15KW",
         code: "BS-CS0027",
         url: "/cabinet-set/monarch-controller-cabinet-mr-15kw",
-        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-15kw/elevator-spareparts-monarch-controller-cabinet-mr-15kw-1.jpg",
+        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-15kw/elevator-spareparts-monarch-controller-cabinet-mr-15kw-1.webp",
         alttxt: "Monarch Controller Cabinet MR 15KW elevator spare parts",
         slider: [
           "elevator-spareparts-monarch-controller-cabinet-mr-15kw-1",
@@ -3574,7 +3574,7 @@ export const products = [
         description: "Monarch Controller Cabinet MR 18.5KW",
         code: "BS-CS0028",
         url: "/cabinet-set/monarch-controller-cabinet-mr-18-5kw",
-        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-18-5kw/elevator-spareparts-monarch-controller-cabinet-mr-18-5kw-1.jpg",
+        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-18-5kw/elevator-spareparts-monarch-controller-cabinet-mr-18-5kw-1.webp",
         alttxt: "Monarch Controller Cabinet MR 18.5KW elevator spare parts",
         slider: [
           "elevator-spareparts-monarch-controller-cabinet-mr-18-5kw-1",
@@ -3588,7 +3588,7 @@ export const products = [
         description: "Monarch Controller Cabinet MR 22KW",
         code: "BS-CS0029",
         url: "/cabinet-set/monarch-controller-cabinet-mr-22kw",
-        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-22kw/elevator-spareparts-monarch-controller-cabinet-mr-22kw-1.jpg",
+        image: "/img/products/cabinet-set/monarch-controller-cabinet-mr-22kw/elevator-spareparts-monarch-controller-cabinet-mr-22kw-1.webp",
         alttxt: "Monarch Controller Cabinet MR 22KW elevator spare parts",
         slider: [
           "elevator-spareparts-monarch-controller-cabinet-mr-22kw-1",
@@ -3602,7 +3602,7 @@ export const products = [
         description: "Monarch Controller Cabinet MRL 7.5KW",
         code: "BS-CS0030",
         url: "/cabinet-set/monarch-controller-cabinet-mrl-7-5kw",
-        image: "/img/products/cabinet-set/monarch-controller-cabinet-mrl-7-5kw/elevator-spareparts-monarch-controller-cabinet-mrl-7-5kw-1.jpg",
+        image: "/img/products/cabinet-set/monarch-controller-cabinet-mrl-7-5kw/elevator-spareparts-monarch-controller-cabinet-mrl-7-5kw-1.webp",
         alttxt: "Monarch Controller Cabinet MRL 7.5KW elevator spare parts",
         slider: [
           "elevator-spareparts-monarch-controller-cabinet-mrl-7-5kw-1",
@@ -3616,7 +3616,7 @@ export const products = [
         description: "Arkel Controller Cabinet - Hydraulic",
         code: "BS-CS0031",
         url: "/cabinet-set/arkel-controller-cabinet-hydraulic",
-        image: "/img/products/cabinet-set/arkel-controller-cabinet-hydraulic/elevator-spareparts-arkel-controller-cabinet-hydraulic-1.jpg",
+        image: "/img/products/cabinet-set/arkel-controller-cabinet-hydraulic/elevator-spareparts-arkel-controller-cabinet-hydraulic-1.webp",
         alttxt: "Arkel Controller Cabinet - Hydraulic elevator spare parts",
         slider: [
           "elevator-spareparts-arkel-controller-cabinet-hydraulic-1"
@@ -3644,7 +3644,7 @@ export const products = [
         description: "",
         code: "BS-ME0001",
         url: "/mechanical/rivet-nuts-jx-f-m3-r-st",
-        image: "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/elevator-rivet-nuts-jx-f-m3-r-st-1.jpg",
+        image: "/img/products/mechanical/rivet-nuts-jx-f-m3-r-st/elevator-rivet-nuts-jx-f-m3-r-st-1.webp",
         slider: ["elevator-rivet-nuts-jx-f-m3-r-st-1", "elevator-rivet-nuts-jx-f-m3-r-st-2"],
         meta_title:
           "Buy Mechanical Rivet nuts JX-F-M3-R-ST UAE | Best Lift Parts in Dubai, Sharjah",
@@ -3660,7 +3660,7 @@ export const products = [
         description: "",
         code: "BS-ME0002",
         url: "/mechanical/rivet-nuts-jx-f-m4-r-st",
-        image: "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/elevator-rivet-nuts-jx-f-m4-r-st-1.jpg",
+        image: "/img/products/mechanical/rivet-nuts-jx-f-m4-r-st/elevator-rivet-nuts-jx-f-m4-r-st-1.webp",
         slider: ["elevator-rivet-nuts-jx-f-m4-r-st-1", "elevator-rivet-nuts-jx-f-m4-r-st-2"],
         meta_title:
           "Blind Rivet Suppliers JX-F-M4-R-ST UAE | Rivet Nuts for Elevators in Dubai",
@@ -3676,7 +3676,7 @@ export const products = [
         description: "",
         code: "BS-ME0003",
         url: "/mechanical/rivet-nuts-jx-f-m5-r-st",
-        image: "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/elevator-rivet-nuts-jx-f-m5-r-st-1.jpg",
+        image: "/img/products/mechanical/rivet-nuts-jx-f-m5-r-st/elevator-rivet-nuts-jx-f-m5-r-st-1.webp",
         slider: ["elevator-rivet-nuts-jx-f-m5-r-st-1", "elevator-rivet-nuts-jx-f-m5-r-st-2"],
         meta_title:
           "Blind Rivet Suppliers JX-F-M5-R-ST in UAE | Elevator Nuts Dubai & Sharjah",
@@ -3692,7 +3692,7 @@ export const products = [
         description: "",
         code: "BS-ME0004",
         url: "/mechanical/rivet-nuts-jx-f-m6-r-st",
-        image: "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/elevator-rivet-nuts-jx-f-m6-r-st-1.jpg",
+        image: "/img/products/mechanical/rivet-nuts-jx-f-m6-r-st/elevator-rivet-nuts-jx-f-m6-r-st-1.webp",
         slider: ["elevator-rivet-nuts-jx-f-m6-r-st-1", "elevator-rivet-nuts-jx-f-m6-r-st-2"],
         meta_title:
           "Blind Rivet JX-F-M6-R-ST Suppliers in UAE | Best Lift Nuts Dubai Sharjah",
@@ -3709,7 +3709,7 @@ export const products = [
         code: "BS-ME0005",
         url: "/mechanical/steel-socket-head-screws-m3x20mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m3x20mm/elevator-steel-socket-head-screws-m3x20mm-1.jpg",
+          "/img/products/mechanical/steel-socket-head-screws-m3x20mm/elevator-steel-socket-head-screws-m3x20mm-1.webp",
         slider: ["elevator-steel-socket-head-screws-m3x20mm-1", "elevator-steel-socket-head-screws-m3x20mm-2"],
         meta_title: "Buy Elevator Steel Socket Screws M3x20mm in Dubai, UAE",
         meta_description:
@@ -3725,7 +3725,7 @@ export const products = [
         code: "BS-ME0006",
         url: "/mechanical/steel-socket-head-screws-m3x30mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m3x30mm/elevator-steel-socket-head-screws-m3x30mm-1.jpg",
+          "/img/products/mechanical/steel-socket-head-screws-m3x30mm/elevator-steel-socket-head-screws-m3x30mm-1.webp",
         slider: ["elevator-steel-socket-head-screws-m3x30mm-1", "elevator-steel-socket-head-screws-m3x30mm-2"],
         meta_title: "Buy Elevator Steel Socket Screws M3x30mm in Dubai, UAE",
         meta_description:
@@ -3741,7 +3741,7 @@ export const products = [
         code: "BS-ME0007",
         url: "/mechanical/steel-socket-head-screws-m4x20mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m4x20mm/elevator-steel-socket-head-screws-m4x20mm-1.jpg",
+          "/img/products/mechanical/steel-socket-head-screws-m4x20mm/elevator-steel-socket-head-screws-m4x20mm-1.webp",
         slider: ["elevator-steel-socket-head-screws-m4x20mm-1", "elevator-steel-socket-head-screws-m4x20mm-2"],
         meta_title: "Buy Elevator Steel Socket Screws M4x20mm in Dubai, UAE",
         meta_description:
@@ -3757,7 +3757,7 @@ export const products = [
         code: "BS-ME0008",
         url: "/mechanical/steel-socket-head-screws-m4x30mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m4x30mm/elevator-steel-socket-head-screws-m4x30mm-1.jpg",
+          "/img/products/mechanical/steel-socket-head-screws-m4x30mm/elevator-steel-socket-head-screws-m4x30mm-1.webp",
         slider: ["elevator-steel-socket-head-screws-m4x30mm-1", "elevator-steel-socket-head-screws-m4x30mm-2"],
         meta_title: "Buy Elevator Steel Socket Screws M4x30mm in Dubai, UAE",
         meta_description:
@@ -3773,7 +3773,7 @@ export const products = [
         code: "BS-ME0009",
         url: "/mechanical/steel-socket-head-screws-m5x20mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m5x20mm/elevator-steel-socket-head-screws-m5x20mm-1.jpg",
+          "/img/products/mechanical/steel-socket-head-screws-m5x20mm/elevator-steel-socket-head-screws-m5x20mm-1.webp",
         slider: ["elevator-steel-socket-head-screws-m5x20mm-1", "elevator-steel-socket-head-screws-m5x20mm-2"],
         meta_title:
           "Buy Elevator Steel Socket Screws M5x20mm | Bestechparts, UAE",
@@ -3790,7 +3790,7 @@ export const products = [
         code: "BS-ME0010",
         url: "/mechanical/steel-socket-head-screws-m5x30mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m5x30mm/elevator-steel-socket-head-screws-m5x30mm-1.jpg",
+          "/img/products/mechanical/steel-socket-head-screws-m5x30mm/elevator-steel-socket-head-screws-m5x30mm-1.webp",
         slider: ["elevator-steel-socket-head-screws-m5x30mm-1", "elevator-steel-socket-head-screws-m5x30mm-2"],
         meta_title:
           "Elevator Steel Socket Screws M5x30mm | Bestechparts Dubai, UAE",
@@ -3807,7 +3807,7 @@ export const products = [
         code: "BS-ME0011",
         url: "/mechanical/steel-socket-head-screws-m6x20mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m6x20mm/elevator-steel-socket-head-screws-m6x20mm-1.jpg",
+          "/img/products/mechanical/steel-socket-head-screws-m6x20mm/elevator-steel-socket-head-screws-m6x20mm-1.webp",
         slider: ["elevator-steel-socket-head-screws-m6x20mm-1", "elevator-steel-socket-head-screws-m6x20mm-2"],
         meta_title:
           "Elevator Steel Socket Screws M6x20mm | Bestechparts Dubai, UAE",
@@ -3824,7 +3824,7 @@ export const products = [
         code: "BS-ME0012",
         url: "/mechanical/steel-socket-head-screws-m6x30mm",
         image:
-          "/img/products/mechanical/steel-socket-head-screws-m6x30mm/elevator-steel-socket-head-screws-m6x30mm-1.jpg",
+          "/img/products/mechanical/steel-socket-head-screws-m6x30mm/elevator-steel-socket-head-screws-m6x30mm-1.webp",
         slider: ["elevator-steel-socket-head-screws-m6x30mm-1", "elevator-steel-socket-head-screws-m6x30mm-2"],
         meta_title:
           "Elevator Steel Socket Screws M6x30mm | Bestechparts Sharjah, UAE",
@@ -3840,7 +3840,7 @@ export const products = [
         description: "Supports M3, M4, M5, M6, M8",
         code: "BS-ME0013",
         url: "/mechanical/battery-rivet-machine",
-        image: "/img/product-default-img.jpg",
+        image: "/img/product-default-img.webp",
         meta_title:
           "Buy Elevator Battery Rivet Machine | Bestechparts Dubai, UAE",
         meta_description:
@@ -3856,7 +3856,7 @@ export const products = [
         code: "BS-ME0014",
         url: "/mechanical/door-wire-rope-1720-1800-1900-2000",
         image:
-          "/img/products/mechanical/door-wire-rope-1720-1800-1900-2000/elevator-door-wire-rope-1720-1800-1900-2000-1.jpg",
+          "/img/products/mechanical/door-wire-rope-1720-1800-1900-2000/elevator-door-wire-rope-1720-1800-1900-2000-1.webp",
         slider: ["elevator-door-wire-rope-1720-1800-1900-2000-1", "elevator-door-wire-rope-1720-1800-1900-2000-2"],
         meta_title: "",
         meta_description: "",
@@ -3869,7 +3869,7 @@ export const products = [
         description: " Dortalu: 11mm to 13mm",
         code: "BS-ME0015",
         url: "/mechanical/rope-thimble-rod-12mm",
-        image: "/img/products/mechanical/rope-thimble-rod-12mm/elevator-rope-thimble-rod-12mm-1.jpg",
+        image: "/img/products/mechanical/rope-thimble-rod-12mm/elevator-rope-thimble-rod-12mm-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3881,7 +3881,7 @@ export const products = [
         description: "Round Magnet",
         code: "BS-ME0016",
         url: "/mechanical/round-magnet",
-        image: "/img/products/mechanical/round-magnet/elevator-round-magnet-1.jpg",
+        image: "/img/products/mechanical/round-magnet/elevator-round-magnet-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3893,7 +3893,7 @@ export const products = [
         description: "Strip Magnet 1M",
         code: "BS-ME0017",
         url: "/mechanical/strip-magnet-1m",
-        image: "/img/products/mechanical/strip-magnet-1m/elevator-strip-magnet-1m-1.jpg",
+        image: "/img/products/mechanical/strip-magnet-1m/elevator-strip-magnet-1m-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3905,7 +3905,7 @@ export const products = [
         description: "Oil Cups (8 models)",
         code: "BS-ME0018",
         url: "/mechanical/oil-cups-assorted",
-        image: "/img/products/mechanical/oil-cups-assorted/elevator-oil-cups-assorted-1.jpg",
+        image: "/img/products/mechanical/oil-cups-assorted/elevator-oil-cups-assorted-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3917,7 +3917,7 @@ export const products = [
         description: "Steel core Rope 8mm",
         code: "BS-ME0019",
         url: "/mechanical/steel-core-rope-8mm",
-        image: "/img/products/mechanical/steel-core-rope-8mm/elevator-steel-core-rope-8mm-1.jpg",
+        image: "/img/products/mechanical/steel-core-rope-8mm/elevator-steel-core-rope-8mm-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3929,7 +3929,7 @@ export const products = [
         description: "6 and 6",
         code: "BS-ME0020",
         url: "/mechanical/coupling-shaft",
-        image: "/img/products/mechanical/coupling-shaft/elevator-coupling-shaft-1.jpg",
+        image: "/img/products/mechanical/coupling-shaft/elevator-coupling-shaft-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3942,7 +3942,7 @@ export const products = [
         code: "BS-ME0021",
         url: "/mechanical/wire-rope-fasteners-thimble-12-13mm-c",
         image:
-          "/img/products/mechanical/wire-rope-fasteners-thimble-12-13mm-c/elevator-wire-rope-fasteners-thimble-12-13mm-c-1.jpg",
+          "/img/products/mechanical/wire-rope-fasteners-thimble-12-13mm-c/elevator-wire-rope-fasteners-thimble-12-13mm-c-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3954,7 +3954,7 @@ export const products = [
         description: "Mitsubishi Sheave: 620*4*12 M",
         code: "BS-ME0022",
         url: "/mechanical/traction-sheave-620-4-12-m",
-        image: "/img/products/mechanical/traction-sheave-620-4-12-m/elevator-traction-sheave-620-4-12-m-1.jpg",
+        image: "/img/products/mechanical/traction-sheave-620-4-12-m/elevator-traction-sheave-620-4-12-m-1.webp",
         slider: ["elevator-traction-sheave-620-4-12-m-1", "elevator-traction-sheave-620-4-12-m-2"],
         meta_title: "",
         meta_description: "",
@@ -3967,7 +3967,7 @@ export const products = [
         description: "Mitsubishi sheave: 620*6*12 M",
         code: "BS-ME0023",
         url: "/mechanical/traction-sheave-620-6-12-m",
-        image: "/img/products/mechanical/traction-sheave-620-6-12-m/elevator-traction-sheave-620-6-12-m-1.jpg",
+        image: "/img/products/mechanical/traction-sheave-620-6-12-m/elevator-traction-sheave-620-6-12-m-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3979,7 +3979,7 @@ export const products = [
         description: "Sigma sheave: 605*3*12 S",
         code: "BS-ME0024",
         url: "/mechanical/traction-sheave-605-3-12-s",
-        image: "/img/products/mechanical/traction-sheave-605-3-12-s/elevator-traction-sheave-605-3-12-s-1.jpg",
+        image: "/img/products/mechanical/traction-sheave-605-3-12-s/elevator-traction-sheave-605-3-12-s-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -3992,7 +3992,7 @@ export const products = [
         description: "Sigma sheave: 605*4*12 S",
         code: "BS-ME0026",
         url: "/mechanical/traction-sheave-605-4-12-s",
-        image: "/img/products/mechanical/traction-sheave-605-4-12-s/elevator-traction-sheave-605-4-12-s-1.jpg",
+        image: "/img/products/mechanical/traction-sheave-605-4-12-s/elevator-traction-sheave-605-4-12-s-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4004,7 +4004,7 @@ export const products = [
         description: "Sigma sheave: 505*4*12 S",
         code: "BS-ME0027",
         url: "/mechanical/traction-sheave-505-4-12-s",
-        image: "/img/products/mechanical/traction-sheave-505-4-12-s/elevator-traction-sheave-505-4-12-s-1.jpg",
+        image: "/img/products/mechanical/traction-sheave-505-4-12-s/elevator-traction-sheave-505-4-12-s-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4016,7 +4016,7 @@ export const products = [
         description: "Escalator Handrail Belt Tool",
         code: "BS-ME0028",
         url: "/mechanical/escalator-handrail-belt-tool",
-        image: "/img/products/mechanical/escalator-handrail-belt-tool/elevator-escalator-handrail-belt-tool-1.jpg",
+        image: "/img/products/mechanical/escalator-handrail-belt-tool/elevator-escalator-handrail-belt-tool-1.webp",
         slider: ["elevator-escalator-handrail-belt-tool-1", "elevator-escalator-handrail-belt-tool-2"],
         meta_title: "",
         meta_description: "",
@@ -4030,7 +4030,7 @@ export const products = [
         code: "BS-ME0029",
         url: "/mechanical/shock-absorber-swing-manual-doors",
         image:
-          "/img/products/mechanical/shock-absorber-swing-manual-doors/elevator-shock-absorber-swing-manual-doors-1.jpg",
+          "/img/products/mechanical/shock-absorber-swing-manual-doors/elevator-shock-absorber-swing-manual-doors-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4042,7 +4042,7 @@ export const products = [
         description: "Door Spring 250",
         code: "BS-ME0030",
         url: "/mechanical/door-spring-250",
-        image: "/img/products/mechanical/door-spring-250/elevator-door-spring-250-1.jpg",
+        image: "/img/products/mechanical/door-spring-250/elevator-door-spring-250-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4054,7 +4054,7 @@ export const products = [
         description: "China Rope Thimble rod - 6mm",
         code: "BS-ME0031",
         url: "/mechanical/rope-thimble-rod-6mm",
-        image: "/img/products/mechanical/rope-thimble-rod-6mm/elevator-rope-thimble-rod-6mm-1.jpg",
+        image: "/img/products/mechanical/rope-thimble-rod-6mm/elevator-rope-thimble-rod-6mm-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4066,7 +4066,7 @@ export const products = [
         description: "China Rope Thimble rod - 8mm",
         code: "BS-ME0032",
         url: "/mechanical/rope-thimble-rod-8mm",
-        image: "/img/products/mechanical/rope-thimble-rod-8mm/elevator-rope-thimble-rod-8mm-1.jpg",
+        image: "/img/products/mechanical/rope-thimble-rod-8mm/elevator-rope-thimble-rod-8mm-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4078,7 +4078,7 @@ export const products = [
         description: "China Rope Thimble rod - 10mm",
         code: "BS-ME0033",
         url: "/mechanical/rope-thimble-rod-10mm",
-        image: "/img/products/mechanical/rope-thimble-rod-10mm/elevator-rope-thimble-rod-10mm-1.jpg",
+        image: "/img/products/mechanical/rope-thimble-rod-10mm/elevator-rope-thimble-rod-10mm-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4091,7 +4091,7 @@ export const products = [
         code: "BS-ME0034",
         url: "/mechanical/speed-governor-ox-200-tension-weight",
         image:
-          "/img/products/mechanical/speed-governor-ox-200-tension-weight/elevator-speed-governor-ox-200-tension-weight-1.jpg",
+          "/img/products/mechanical/speed-governor-ox-200-tension-weight/elevator-speed-governor-ox-200-tension-weight-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4103,7 +4103,7 @@ export const products = [
         description: "Over Speed Governor OX-208",
         code: "BS-ME0035",
         url: "/mechanical/over-speed-governor-ox-208",
-        image: "/img/products/mechanical/over-speed-governor-ox-208/elevator-over-speed-governor-ox-208-1.jpg",
+        image: "/img/products/mechanical/over-speed-governor-ox-208/elevator-over-speed-governor-ox-208-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4115,7 +4115,7 @@ export const products = [
         description: "Otis/Hyundai/Fermator",
         code: "BS-ME0036",
         url: "/mechanical/door-springs-assorted",
-        image: "/img/products/mechanical/door-springs-assorted/elevator-door-springs-assorted-1.jpg",
+        image: "/img/products/mechanical/door-springs-assorted/elevator-door-springs-assorted-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4127,7 +4127,7 @@ export const products = [
         description: "Buffer OH-J11",
         code: "BS-ME0037",
         url: "/mechanical/buffer-oh-j11",
-        image: "/img/products/mechanical/buffer-oh-j11/elevator-buffer-oh-j11-1.jpg",
+        image: "/img/products/mechanical/buffer-oh-j11/elevator-buffer-oh-j11-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4139,7 +4139,7 @@ export const products = [
         description: "Buffer OH-J21",
         code: "BS-ME0038",
         url: "/mechanical/buffer-oh-j21",
-        image: "/img/products/mechanical/buffer-oh-j21/elevator-buffer-oh-j21-1.jpg",
+        image: "/img/products/mechanical/buffer-oh-j21/elevator-buffer-oh-j21-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4151,7 +4151,7 @@ export const products = [
         description: "Buffer OH-80",
         code: "BS-ME0039",
         url: "/mechanical/buffer-oh-80",
-        image: "/img/products/mechanical/buffer-oh-80/elevator-buffer-oh-80-1.jpg",
+        image: "/img/products/mechanical/buffer-oh-80/elevator-buffer-oh-80-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4163,7 +4163,7 @@ export const products = [
         description: "Buffer OH-175E",
         code: "BS-ME0040",
         url: "/mechanical/buffer-oh-175e",
-        image: "/img/products/mechanical/buffer-oh-175e/elevator-buffer-oh-175e-1.jpg",
+        image: "/img/products/mechanical/buffer-oh-175e/elevator-buffer-oh-175e-1.webp",
         slider: ["elevator-buffer-oh-175e-1", "elevator-buffer-oh-175e-2"],
         meta_title: "",
         meta_description: "",
@@ -4176,7 +4176,7 @@ export const products = [
         description: "Buffer OH-210H",
         code: "BS-ME0041",
         url: "/mechanical/buffer-oh-210h",
-        image: "/img/products/mechanical/buffer-oh-210h/elevator-buffer-oh-210h-1.jpg",
+        image: "/img/products/mechanical/buffer-oh-210h/elevator-buffer-oh-210h-1.webp",
         slider: ["elevator-buffer-oh-210h-1", "elevator-buffer-oh-210h-2"],
         meta_title: "",
         meta_description: "",
@@ -4189,7 +4189,7 @@ export const products = [
         description: "Kone 800MM 1.55M",
         code: "BS-ME0042",
         url: "/mechanical/door-sill-800mm-1-55m-k",
-        image: "/img/products/mechanical/door-sill-800mm-1-55m-k/elevator-door-sill-800mm-1-55m-k-1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-55m-k/elevator-door-sill-800mm-1-55m-k-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4201,7 +4201,7 @@ export const products = [
         description: "Kone 900MM 1.75M",
         code: "BS-ME0043",
         url: "/mechanical/door-sill-900mm-1-75m-k",
-        image: "/img/products/mechanical/door-sill-900mm-1-75m-k/elevator-door-sill-900mm-1-75m-k-1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-75m-k/elevator-door-sill-900mm-1-75m-k-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4213,7 +4213,7 @@ export const products = [
         description: "Kone 1100MM 2.15M",
         code: "BS-ME0044",
         url: "/mechanical/door-sill-1100mm-2-15m-k",
-        image: "/img/products/mechanical/door-sill-1100mm-2-15m-k/elevator-door-sill-1100mm-2-15m-k-1.jpg",
+        image: "/img/products/mechanical/door-sill-1100mm-2-15m-k/elevator-door-sill-1100mm-2-15m-k-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4225,7 +4225,7 @@ export const products = [
         description: "Sigma 800MM 1.56M",
         code: "BS-ME0045",
         url: "/mechanical/door-sill-800mm-1-56m-si",
-        image: "/img/products/mechanical/door-sill-800mm-1-56m-si/elevator-door-sill-800mm-1-56m-si-1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-56m-si/elevator-door-sill-800mm-1-56m-si-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4237,7 +4237,7 @@ export const products = [
         description: "Sigma 900MM 1.76M",
         code: "BS-ME0046",
         url: "/mechanical/door-sill-900mm-1-76m-si",
-        image: "/img/products/mechanical/door-sill-900mm-1-76m-si/elevator-door-sill-900mm-1-76m-si-1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-76m-si/elevator-door-sill-900mm-1-76m-si-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4249,7 +4249,7 @@ export const products = [
         description: "Sigma 1000MM 1.96M",
         code: "BS-ME0047",
         url: "/mechanical/door-sill-1000mm-1-96m-si",
-        image: "/img/products/mechanical/door-sill-1000mm-1-96m-si/elevator-door-sill-1000mm-1-96m-si-1.jpg",
+        image: "/img/products/mechanical/door-sill-1000mm-1-96m-si/elevator-door-sill-1000mm-1-96m-si-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4261,7 +4261,7 @@ export const products = [
         description: "Otis 800MM 1.64M",
         code: "BS-ME0048",
         url: "/mechanical/door-sill-800mm-1-64m-o",
-        image: "/img/products/mechanical/door-sill-800mm-1-64m-o/elevator-door-sill-800mm-1-64m-o-1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-64m-o/elevator-door-sill-800mm-1-64m-o-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4273,7 +4273,7 @@ export const products = [
         description: "Otis 900MM 1.84M",
         code: "BS-ME0049",
         url: "/mechanical/door-sill-900mm-1-84m-o",
-        image: "/img/products/mechanical/door-sill-900mm-1-84m-o/elevator-door-sill-900mm-1-84m-o-1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-84m-o/elevator-door-sill-900mm-1-84m-o-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4285,7 +4285,7 @@ export const products = [
         description: "Otis 1000MM 2.04M",
         code: "BS-ME0050",
         url: "/mechanical/door-sill-1000mm-2-04m-o",
-        image: "/img/products/mechanical/door-sill-1000mm-2-04m-o/elevator-door-sill-1000mm-2-04m-o-1.jpg",
+        image: "/img/products/mechanical/door-sill-1000mm-2-04m-o/elevator-door-sill-1000mm-2-04m-o-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4297,7 +4297,7 @@ export const products = [
         description: "Mitsubishi 800MM 1.6M",
         code: "BS-ME0051",
         url: "/mechanical/door-sill-800mm-1-6m-m",
-        image: "/img/products/mechanical/door-sill-800mm-1-6m-m/elevator-door-sill-800mm-1-6m-m-1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-6m-m/elevator-door-sill-800mm-1-6m-m-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4309,7 +4309,7 @@ export const products = [
         description: "Mitsubishi 900MM 1.8M",
         code: "BS-ME0052",
         url: "/mechanical/door-sill-900mm-1-8m-m",
-        image: "/img/products/mechanical/door-sill-900mm-1-8m-m/elevator-door-sill-900mm-1-8m-m-1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-8m-m/elevator-door-sill-900mm-1-8m-m-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4321,7 +4321,7 @@ export const products = [
         description: "Mitsubishi 1000MM 2.0M",
         code: "BS-ME0053",
         url: "/mechanical/door-sill-1000mm-2-0m-m",
-        image: "/img/products/mechanical/door-sill-1000mm-2-0m-m/elevator-door-sill-1000mm-2-0m-m-1.jpg",
+        image: "/img/products/mechanical/door-sill-1000mm-2-0m-m/elevator-door-sill-1000mm-2-0m-m-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4333,7 +4333,7 @@ export const products = [
         description: "fermator models 800MM 1.665M",
         code: "BS-ME0054",
         url: "/mechanical/door-sill-800mm-1-665m-f",
-        image: "/img/products/mechanical/door-sill-800mm-1-665m-f/elevator-door-sill-800mm-1-665m-f-1.jpg",
+        image: "/img/products/mechanical/door-sill-800mm-1-665m-f/elevator-door-sill-800mm-1-665m-f-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4345,7 +4345,7 @@ export const products = [
         description: "fermator models 900MM 1.865M",
         code: "BS-ME0055",
         url: "/mechanical/door-sill-900mm-1-865m-f",
-        image: "/img/products/mechanical/door-sill-900mm-1-865m-f/elevator-door-sill-900mm-1-865m-f-1.jpg",
+        image: "/img/products/mechanical/door-sill-900mm-1-865m-f/elevator-door-sill-900mm-1-865m-f-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4357,7 +4357,7 @@ export const products = [
         description: "fermator models 1000MM 2.065M",
         code: "BS-ME0056",
         url: "/mechanical/door-sill-1000mm-2-065m-f",
-        image: "/img/products/mechanical/door-sill-1000mm-2-065m-f/elevator-door-sill-1000mm-2-065m-f-1.jpg",
+        image: "/img/products/mechanical/door-sill-1000mm-2-065m-f/elevator-door-sill-1000mm-2-065m-f-1.webp",
         meta_title: "",
         meta_description: "",
         keywords: "",
@@ -4369,7 +4369,7 @@ export const products = [
         description: "KM756001H01 Elevator Vibration Damper",
         code: "BS-ME0057",
         url: "/mechanical/km756001h01-elevator-vibration-damper",
-        image: "/img/products/mechanical/km756001h01-elevator-vibration-damper/elevator-spareparts-km756001h01-elevator-vibration-damper-1.jpg",
+        image: "/img/products/mechanical/km756001h01-elevator-vibration-damper/elevator-spareparts-km756001h01-elevator-vibration-damper-1.webp",
         alttext: "KM756001H01 Elevator Vibration Damper Elevator Spare Parts",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         canonical: "https://www.bestechparts.ae/products/mechanical/km756001h01-elevator-vibration-damper"
@@ -4379,7 +4379,7 @@ export const products = [
         description: "Guide Clip Set",
         code: "BS-ME0058",
         url: "/mechanical/guide-clip-set",
-        image: "/img/products/mechanical/guide-clip-set/elevator-spareparts-guide-clip-set-1.jpg",
+        image: "/img/products/mechanical/guide-clip-set/elevator-spareparts-guide-clip-set-1.webp",
         alttext: "Guide Clip Set Elevator Spare Parts",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         canonical: "https://www.bestechparts.ae/products/mechanical/guide-clip-set"
@@ -4389,7 +4389,7 @@ export const products = [
         description: "Traction Sheave 560*4*12 M",
         code: "BS-ME0059",
         url: "/mechanical/traction-sheave-560-4-12-m",
-        image: "/img/products/mechanical/traction-sheave-560-4-12-m/elevator-spareparts-traction-sheave-560-4-12-m-1.jpg",
+        image: "/img/products/mechanical/traction-sheave-560-4-12-m/elevator-spareparts-traction-sheave-560-4-12-m-1.webp",
         alttext: "Traction Sheave 560*4*12 M Elevator Spare Parts",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         canonical: "https://www.bestechparts.ae/products/mechanical/traction-sheave-560-4-12-m"
@@ -4399,7 +4399,7 @@ export const products = [
         description: "Traction Sheave 560*3*12 M",
         code: "BS-ME0060",
         url: "/mechanical/traction-sheave-560-3-12-m",
-        image: "/img/products/mechanical/traction-sheave-560-3-12-m/elevator-spareparts-traction-sheave-560-3-12-m-1.jpg",
+        image: "/img/products/mechanical/traction-sheave-560-3-12-m/elevator-spareparts-traction-sheave-560-3-12-m-1.webp",
         alttext: "Traction Sheave 560*3*12 M Elevator Spare Parts",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         canonical: "https://www.bestechparts.ae/products/mechanical/traction-sheave-560-3-12-m"
@@ -4409,7 +4409,7 @@ export const products = [
         description: "Traction Sheave 680*6*12 M",
         code: "BS-ME0061",
         url: "/mechanical/traction-sheave-680-6-12-m",
-        image: "/img/products/mechanical/traction-sheave-680-6-12-m/elevator-spareparts-traction-sheave-680-6-12-m-1.jpg",
+        image: "/img/products/mechanical/traction-sheave-680-6-12-m/elevator-spareparts-traction-sheave-680-6-12-m-1.webp",
         alttext: "Traction Sheave 680*6*12 M Elevator Spare Parts",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
         canonical: "https://www.bestechparts.ae/products/mechanical/traction-sheave-680-6-12-m"
@@ -4436,7 +4436,7 @@ export const products = [
         description: "",
         code: "BS-DL0001",
         url: "/door-locks/door-triangle-lock",
-        image: "/img/products/door-locks/door-triangle-lock/elevator-door-triangle-lock-1.jpg",
+        image: "/img/products/door-locks/door-triangle-lock/elevator-door-triangle-lock-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-triangle-lock",
         robots:
@@ -4447,7 +4447,7 @@ export const products = [
         description: "AZ-05",
         code: "BS-DL0002",
         url: "/door-locks/door-lock-contact-az-05",
-        image: "/img/products/door-locks/door-lock-contact-az-05/elevator-door-lock-contact-az-05-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-az-05/elevator-door-lock-contact-az-05-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-05",
         robots:
@@ -4458,7 +4458,7 @@ export const products = [
         description: "10001",
         code: "BS-DL0003",
         url: "/door-locks/cop-lock-key-10001",
-        image: "/img/products/door-locks/cop-lock-key-10001/elevator-cop-lock-key-10001-1.jpg",
+        image: "/img/products/door-locks/cop-lock-key-10001/elevator-cop-lock-key-10001-1.webp",
         slider: ["elevator-cop-lock-key-10001-1", "elevator-cop-lock-key-10001-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/cop-lock-key-10001",
@@ -4470,7 +4470,7 @@ export const products = [
         description: "MKG_161-06",
         code: "BS-DL0004",
         url: "/door-locks/landing-door-lock-mkg-161-06",
-        image: "/img/products/door-locks/landing-door-lock-mkg-161-06/elevator-landing-door-lock-mkg-161-06-1.jpg",
+        image: "/img/products/door-locks/landing-door-lock-mkg-161-06/elevator-landing-door-lock-mkg-161-06-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-mkg-161-06",
         robots:
@@ -4481,7 +4481,7 @@ export const products = [
         description: "AZ-06",
         code: "BS-DL0005",
         url: "/door-locks/door-lock-contact-az-06",
-        image: "/img/products/door-locks/door-lock-contact-az-06/elevator-door-lock-contact-az-06-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-az-06/elevator-door-lock-contact-az-06-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-06",
         robots:
@@ -4492,7 +4492,7 @@ export const products = [
         description: "E-431",
         code: "BS-DL0006",
         url: "/door-locks/cop-lock-e-431",
-        image: "/img/products/door-locks/cop-lock-e-431/elevator-cop-lock-e-431-1.jpg",
+        image: "/img/products/door-locks/cop-lock-e-431/elevator-cop-lock-e-431-1.webp",
         slider: ["elevator-cop-lock-e-431-1"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/cop-lock-e-431",
@@ -4504,7 +4504,7 @@ export const products = [
         description: "G509/102121A",
         code: "BS-DL0007",
         url: "/door-locks/landing-door-lock-g509-102121a",
-        image: "/img/products/door-locks/landing-door-lock-g509-102121a/elevator-landing-door-lock-g509-102121a-1.jpg",
+        image: "/img/products/door-locks/landing-door-lock-g509-102121a/elevator-landing-door-lock-g509-102121a-1.webp",
         slider: ["elevator-landing-door-lock-g509-102121a-1", "elevator-landing-door-lock-g509-102121a-2", "elevator-landing-door-lock-g509-102121a-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-g509-102121a",
@@ -4516,7 +4516,7 @@ export const products = [
         description: "AZ14-1KD",
         code: "BS-DL0008",
         url: "/door-locks/door-lock-contact-az14-1kd",
-        image: "/img/products/door-locks/door-lock-contact-az14-1kd/elevator-door-lock-contact-az14-1kd-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-az14-1kd/elevator-door-lock-contact-az14-1kd-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az14-1kd",
         robots:
@@ -4527,7 +4527,7 @@ export const products = [
         description: "TY-161",
         code: "BS-DL0009",
         url: "/door-locks/door-lock-contact-ty-161",
-        image: "/img/products/door-locks/door-lock-contact-ty-161/elevator-door-lock-contact-ty-161-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-ty-161/elevator-door-lock-contact-ty-161-1.webp",
         slider: ["elevator-door-lock-contact-ty-161-1"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-ty-161",
@@ -4539,7 +4539,7 @@ export const products = [
         description: "",
         code: "BS-DL0010",
         url: "/door-locks/triangle-lock",
-        image: "/img/products/door-locks/triangle-lock/elevator-triangle-lock-1.jpg",
+        image: "/img/products/door-locks/triangle-lock/elevator-triangle-lock-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/triangle-lock",
         robots:
@@ -4550,7 +4550,7 @@ export const products = [
         description: "KF-9074",
         code: "BS-DL0011",
         url: "/door-locks/door-lock-contact-kf-9074",
-        image: "/img/products/door-locks/door-lock-contact-kf-9074/elevator-door-lock-contact-kf-9074-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-kf-9074/elevator-door-lock-contact-kf-9074-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-kf-9074",
         robots:
@@ -4561,7 +4561,7 @@ export const products = [
         description: "KF-ZV",
         code: "BS-DL0012",
         url: "/door-locks/door-lock-contact-kf-zv",
-        image: "/img/products/door-locks/door-lock-contact-kf-zv/elevator-door-lock-contact-kf-zv-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-kf-zv/elevator-door-lock-contact-kf-zv-1.webp",
         slider: ["elevator-door-lock-contact-kf-zv-1", "elevator-door-lock-contact-kf-zv-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-kf-zv",
@@ -4573,7 +4573,7 @@ export const products = [
         description: "ALL/FAN/VIP",
         code: "BS-DL0013",
         url: "/door-locks/lop-lock-all-fan-vip",
-        image: "/img/products/door-locks/lop-lock-all-fan-vip/elevator-lop-lock-all-fan-vip-1.jpg",
+        image: "/img/products/door-locks/lop-lock-all-fan-vip/elevator-lop-lock-all-fan-vip-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lop-lock-all-fan-vip",
         robots:
@@ -4584,7 +4584,7 @@ export const products = [
         description: "JJXE D-01",
         code: "BS-DL0014",
         url: "/door-locks/lop-lock-jjxe-d-01",
-        image: "/img/products/door-locks/lop-lock-jjxe-d-01/elevator-lop-lock-jjxe-d-01-1.jpg",
+        image: "/img/products/door-locks/lop-lock-jjxe-d-01/elevator-lop-lock-jjxe-d-01-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lop-lock-jjxe-d-01",
         robots:
@@ -4595,7 +4595,7 @@ export const products = [
         description: "CV50/CV180",
         code: "BS-DL0015",
         url: "/door-locks/lop-lock-cv50-cv180",
-        image: "/img/products/door-locks/lop-lock-cv50-cv180/elevator-lop-lock-cv50-cv180-1.jpg",
+        image: "/img/products/door-locks/lop-lock-cv50-cv180/elevator-lop-lock-cv50-cv180-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lop-lock-cv50-cv180",
         robots:
@@ -4606,7 +4606,7 @@ export const products = [
         description: "DK-RN4",
         code: "BS-DL0016",
         url: "/door-locks/door-lock-device-dk-rn4",
-        image: "/img/products/door-locks/door-lock-device-dk-rn4/elevator-door-lock-device-dk-rn4-1.jpg",
+        image: "/img/products/door-locks/door-lock-device-dk-rn4/elevator-door-lock-device-dk-rn4-1.webp",
         slider: ["elevator-door-lock-device-dk-rn4-1", "elevator-door-lock-device-dk-rn4-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-device-dk-rn4",
@@ -4618,7 +4618,7 @@ export const products = [
         description: "BH-253",
         code: "BS-DL0017",
         url: "/door-locks/door-lock-contact-bh-253",
-        image: "/img/products/door-locks/door-lock-contact-bh-253/elevator-door-lock-contact-bh-253-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-bh-253/elevator-door-lock-contact-bh-253-1.webp",
         slider: ["elevator-door-lock-contact-bh-253-1", "elevator-door-lock-contact-bh-253-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-bh-253",
@@ -4630,7 +4630,7 @@ export const products = [
         description: "AZ-061",
         code: "BS-DL0018",
         url: "/door-locks/door-lock-contact-az-061",
-        image: "/img/products/door-locks/door-lock-contact-az-061/elevator-door-lock-contact-az-061-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-az-061/elevator-door-lock-contact-az-061-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-az-061",
         robots:
@@ -4641,7 +4641,7 @@ export const products = [
         description: "3201.05.0013/C",
         code: "BS-DL0019",
         url: "/door-locks/door-lock-wheel-3201-05-0013-c",
-        image: "/img/products/door-locks/door-lock-wheel-3201-05-0013-c/elevator-door-lock-wheel-3201-05-0013-c-1.jpg",
+        image: "/img/products/door-locks/door-lock-wheel-3201-05-0013-c/elevator-door-lock-wheel-3201-05-0013-c-1.webp",
         slider: ["elevator-door-lock-wheel-3201-05-0013-c-1", "elevator-door-lock-wheel-3201-05-0013-c-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-wheel-3201-05-0013-c",
@@ -4653,7 +4653,7 @@ export const products = [
         description: "XQ",
         code: "BS-DL0020",
         url: "/door-locks/door-triangle-lock-xq",
-        image: "/img/products/door-locks/door-triangle-lock-xq/elevator-door-triangle-lock-xq-1.jpg",
+        image: "/img/products/door-locks/door-triangle-lock-xq/elevator-door-triangle-lock-xq-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-triangle-lock-xq",
         robots:
@@ -4664,7 +4664,7 @@ export const products = [
         description: "2801/2802/2803",
         code: "BS-DL0021",
         url: "/door-locks/lop-lock-2801-2802-2803",
-        image: "/img/products/door-locks/lop-lock-2801-2802-2803/elevator-lop-lock-2801-2802-2803-1.jpg",
+        image: "/img/products/door-locks/lop-lock-2801-2802-2803/elevator-lop-lock-2801-2802-2803-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lop-lock-2801-2802-2803",
         robots:
@@ -4675,7 +4675,7 @@ export const products = [
         description: "SEL1-A1Z",
         code: "BS-DL0022",
         url: "/door-locks/door-lock-contact-sel1-a1z",
-        image: "/img/products/door-locks/door-lock-contact-sel1-a1z/elevator-door-lock-contact-sel1-a1z-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-sel1-a1z/elevator-door-lock-contact-sel1-a1z-1.webp",
         slider: ["elevator-door-lock-contact-sel1-a1z-1", "elevator-door-lock-contact-sel1-a1z-2", "elevator-door-lock-contact-sel1-a1z-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-sel1-a1z",
@@ -4688,7 +4688,7 @@ export const products = [
         code: "BS-DL0023",
         url: "/door-locks/landing-door-lock-device-50-11-left",
         image:
-          "/img/products/door-locks/landing-door-lock-device-50-11-left/elevator-landing-door-lock-device-50-11-left-1.jpg",
+          "/img/products/door-locks/landing-door-lock-device-50-11-left/elevator-landing-door-lock-device-50-11-left-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-device-50-11-left",
         robots:
@@ -4700,7 +4700,7 @@ export const products = [
         code: "BS-DL0024",
         url: "/door-locks/landing-door-lock-device-50-11-right",
         image:
-          "/img/products/door-locks/landing-door-lock-device-50-11-right/elevator-landing-door-lock-device-50-11-right-1.jpg",
+          "/img/products/door-locks/landing-door-lock-device-50-11-right/elevator-landing-door-lock-device-50-11-right-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-device-50-11-right",
         robots:
@@ -4711,7 +4711,7 @@ export const products = [
         description: "ASME",
         code: "BS-DL0025",
         url: "/door-locks/door-lock-contact-asme",
-        image: "/img/products/door-locks/door-lock-contact-asme/elevator-door-lock-contact-asme-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-asme/elevator-door-lock-contact-asme-1.webp",
         slider: ["elevator-door-lock-contact-asme-1", "elevator-door-lock-contact-asme-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-asme",
@@ -4724,7 +4724,7 @@ export const products = [
         code: "BS-DL0026",
         url: "/door-locks/door-lock-contact-edc-92l-edc-61l",
         image:
-          "/img/products/door-locks/door-lock-contact-edc-92l-edc-61l/elevator-door-lock-contact-edc-92l-edc-61l-1.jpg",
+          "/img/products/door-locks/door-lock-contact-edc-92l-edc-61l/elevator-door-lock-contact-edc-92l-edc-61l-1.webp",
         slider: ["elevator-door-lock-contact-edc-92l-edc-61l-1", "elevator-door-lock-contact-edc-92l-edc-61l-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-edc-92l-edc-61l",
@@ -4736,7 +4736,7 @@ export const products = [
         description: "",
         code: "BS-DL0027",
         url: "/door-locks/door-closer",
-        image: "/img/products/door-locks/door-closer/elevator-door-closer-1.jpg",
+        image: "/img/products/door-locks/door-closer/elevator-door-closer-1.webp",
         slider: ["elevator-door-closer-1", "elevator-door-closer-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-closer",
@@ -4748,7 +4748,7 @@ export const products = [
         description: "",
         code: "BS-DL0028",
         url: "/door-locks/cop-lock",
-        image: "/img/products/door-locks/cop-lock/elevator-cop-lock-1.jpg",
+        image: "/img/products/door-locks/cop-lock/elevator-cop-lock-1.webp",
         slider: ["elevator-cop-lock-1", "elevator-cop-lock-2"],
         canonical: "https://www.bestechparts.ae/products/door-locks/cop-lock",
         robots:
@@ -4759,7 +4759,7 @@ export const products = [
         description: "",
         code: "BS-DL0029",
         url: "/door-locks/door-lock-contact-161",
-        image: "/img/products/door-locks/door-lock-contact-161/elevator-door-lock-contact-161-1.jpg",
+        image: "/img/products/door-locks/door-lock-contact-161/elevator-door-lock-contact-161-1.webp",
         slider: ["elevator-door-lock-contact-161-1", "elevator-door-lock-contact-161-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161",
@@ -4772,7 +4772,7 @@ export const products = [
         code: "BS-DL0030",
         url: "/door-locks/landing-door-lock-roller-g509102121a",
         image:
-          "/img/products/door-locks/landing-door-lock-roller-g509102121a/elevator-landing-door-lock-roller-g509102121a-1.jpg",
+          "/img/products/door-locks/landing-door-lock-roller-g509102121a/elevator-landing-door-lock-roller-g509102121a-1.webp",
         slider: ["elevator-landing-door-lock-roller-g509102121a-1", "elevator-landing-door-lock-roller-g509102121a-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/landing-door-lock-roller-g509102121a",
@@ -4785,7 +4785,7 @@ export const products = [
         code: "BS-DL0031",
         url: "/door-locks/key-switch-lock-a4n19290-a4j19289",
         image:
-          "/img/products/door-locks/key-switch-lock-a4n19290-a4j19289/elevator-key-switch-lock-a4n19290-a4j19289-1.jpg",
+          "/img/products/door-locks/key-switch-lock-a4n19290-a4j19289/elevator-key-switch-lock-a4n19290-a4j19289-1.webp",
         slider: ["elevator-key-switch-lock-a4n19290-a4j19289-1", "elevator-key-switch-lock-a4n19290-a4j19289-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-locks/key-switch-lock-a4n19290-a4j19289",
@@ -4798,7 +4798,7 @@ export const products = [
         code: "BS-DL0032",
         url: "/door-locks/door-lock-contact-161-separate-t",
         image:
-          "/img/products/door-locks/door-lock-contact-161-separate-t/elevator-door-lock-contact-161-separate-t-1.jpg",
+          "/img/products/door-locks/door-lock-contact-161-separate-t/elevator-door-lock-contact-161-separate-t-1.webp",
 
         canonical:
           "https://www.bestechparts.ae/products/door-locks/door-lock-contact-161-separate-t",
@@ -4811,7 +4811,7 @@ export const products = [
         code: "BS-DL0033",
         url: "/door-locks/lift-door-locking-device-left-side",
         image:
-          "/img/products/door-locks/lift-door-locking-device-left-side/elevator-lift-door-locking-device-left-side-1.jpg",
+          "/img/products/door-locks/lift-door-locking-device-left-side/elevator-lift-door-locking-device-left-side-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/lift-door-locking-device-left-side",
         robots:
@@ -4822,7 +4822,7 @@ export const products = [
         description: "Schindler Door Triangle Lock",
         code: "BS-DL0034",
         url: "/door-locks/elevator-door-triangle-lock-s",
-        image: "/img/products/door-locks/elevator-door-triangle-lock-s/elevator-door-triangle-lock-s-1.jpg",
+        image: "/img/products/door-locks/elevator-door-triangle-lock-s/elevator-door-triangle-lock-s-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/elevator-door-triangle-lock-s",
         robots:
@@ -4833,7 +4833,7 @@ export const products = [
         description: "TY-161 Door Female Lock (DL-1102)",
         code: "BS-DL0035",
         url: "/door-locks/ty-161-door-female-lock-dl-1102",
-        image: "/img/products/door-locks/ty-161-door-female-lock-dl-1102/elevator-ty-161-door-female-lock-dl-1102-1.jpg",
+        image: "/img/products/door-locks/ty-161-door-female-lock-dl-1102/elevator-ty-161-door-female-lock-dl-1102-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/ty-161-door-female-lock-dl-1102",
         robots:
@@ -4844,7 +4844,7 @@ export const products = [
         description: "Controller lock and key",
         code: "BS-DL0036",
         url: "/door-locks/controller-lock-and-key",
-        image: "/img/products/door-locks/controller-lock-and-key/elevator-controller-lock-and-key-1.jpg",
+        image: "/img/products/door-locks/controller-lock-and-key/elevator-controller-lock-and-key-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/controller-lock-and-key",
         robots:
@@ -4855,7 +4855,7 @@ export const products = [
         description: "Fermator Landing Door Lock",
         code: "BS-DL0037",
         url: "/door-locks/fermator-landing-door-lock",
-        image: "/img/products/door-locks/fermator-landing-door-lock/elevator-fermator-landing-door-lock-1.jpg",
+        image: "/img/products/door-locks/fermator-landing-door-lock/elevator-fermator-landing-door-lock-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-locks/fermator-landing-door-lock",
         robots:
@@ -4866,7 +4866,7 @@ export const products = [
         description: "Door Contact White 100X28",
         code: "BS-DL0038",
         url: "/door-locks/door-contact-white-100x28",
-        image: "/img/products/door-locks/door-contact-white-100x28/elevator-spareparts-door-contact-white-100x28-1.jpg",
+        image: "/img/products/door-locks/door-contact-white-100x28/elevator-spareparts-door-contact-white-100x28-1.webp",
         alttext: "Door Contact White 100X28 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/door-locks/door-contact-white-100x28",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -4876,7 +4876,7 @@ export const products = [
         description: "Elevator COP Key KM747076G11",
         code: "BS-DL0039",
         url: "/door-locks/elevator-cop-key-km747076g11",
-        image: "/img/products/door-locks/elevator-cop-key-km747076g11/elevator-spareparts-elevator-cop-key-km747076g11-1.jpg",
+        image: "/img/products/door-locks/elevator-cop-key-km747076g11/elevator-spareparts-elevator-cop-key-km747076g11-1.webp",
         alttext: "Elevator COP Key KM747076G11 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/door-locks/elevator-cop-key-km747076g11",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -4904,7 +4904,7 @@ export const products = [
         code: "BS-DW0001",
         url: "/door-wheels/door-hanging-wheel-small-85-20-6204",
         image:
-          "/img/products/door-wheels/door-hanging-wheel-small-85-20-6204/elevator-door-hanging-wheel-small-85-20-6204-1.jpg",
+          "/img/products/door-wheels/door-hanging-wheel-small-85-20-6204/elevator-door-hanging-wheel-small-85-20-6204-1.webp",
         slider: ["elevator-door-hanging-wheel-small-85-20-6204-1", "elevator-door-hanging-wheel-small-85-20-6204-2", "elevator-door-hanging-wheel-small-85-20-6204-3", "elevator-door-hanging-wheel-small-85-20-6204-4"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-small-85-20-6204",
@@ -4917,7 +4917,7 @@ export const products = [
         code: "BS-DW0002",
         url: "/door-wheels/door-hanging-wheel-big-140-20-6204",
         image:
-          "/img/products/door-wheels/door-hanging-wheel-big-140-20-6204/elevator-door-hanging-wheel-big-140-20-6204-1.jpg",
+          "/img/products/door-wheels/door-hanging-wheel-big-140-20-6204/elevator-door-hanging-wheel-big-140-20-6204-1.webp",
         slider: ["elevator-door-hanging-wheel-big-140-20-6204-1", "elevator-door-hanging-wheel-big-140-20-6204-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-big-140-20-6204",
@@ -4929,7 +4929,7 @@ export const products = [
         description: "52 X 16 X 6003",
         code: "BS-DW0003",
         url: "/door-wheels/door-hanging-wheel-52-16-6003",
-        image: "/img/products/door-wheels/door-hanging-wheel-52-16-6003/elevator-door-hanging-wheel-52-16-6003-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-52-16-6003/elevator-door-hanging-wheel-52-16-6003-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-52-16-6003",
         robots:
@@ -4940,7 +4940,7 @@ export const products = [
         description: "50 X 14 X 6201",
         code: "BS-DW0004",
         url: "/door-wheels/door-hanging-wheel-50-14-6201",
-        image: "/img/products/door-wheels/door-hanging-wheel-50-14-6201/elevator-door-hanging-wheel-50-14-6201-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-50-14-6201/elevator-door-hanging-wheel-50-14-6201-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-50-14-6201",
         robots:
@@ -4951,7 +4951,7 @@ export const products = [
         description: "94 X 19 X 6203",
         code: "BS-DW0005",
         url: "/door-wheels/door-hanging-wheel-94-19-6203",
-        image: "/img/products/door-wheels/door-hanging-wheel-94-19-6203/elevator-door-hanging-wheel-94-19-6203-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-94-19-6203/elevator-door-hanging-wheel-94-19-6203-1.webp",
         slider: ["elevator-door-hanging-wheel-94-19-6203-1", "elevator-door-hanging-wheel-94-19-6203-2", "elevator-door-hanging-wheel-94-19-6203-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-94-19-6203",
@@ -4964,7 +4964,7 @@ export const products = [
         description: "74 X 18 X 6203",
         code: "BS-DW0006",
         url: "/door-wheels/door-hanging-wheel-74-18-6203",
-        image: "/img/products/door-wheels/door-hanging-wheel-74-18-6203/elevator-door-hanging-wheel-74-18-6203-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-74-18-6203/elevator-door-hanging-wheel-74-18-6203-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-74-18-6203",
         robots:
@@ -4975,7 +4975,7 @@ export const products = [
         description: "C144AANP",
         code: "BS-DW0007",
         url: "/door-wheels/door-hanging-wheel-c144aanp",
-        image: "/img/products/door-wheels/door-hanging-wheel-c144aanp/elevator-door-hanging-wheel-c144aanp-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-c144aanp/elevator-door-hanging-wheel-c144aanp-1.webp",
         slider: ["elevator-door-hanging-wheel-c144aanp-1", "elevator-door-hanging-wheel-c144aanp-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-c144aanp",
@@ -4987,7 +4987,7 @@ export const products = [
         description: "PWVC",
         code: "BS-DW0008",
         url: "/door-wheels/door-belt-wheel-pwvc",
-        image: "/img/products/door-wheels/door-belt-wheel-pwvc/elevator-door-belt-wheel-pwvc-1.jpg",
+        image: "/img/products/door-wheels/door-belt-wheel-pwvc/elevator-door-belt-wheel-pwvc-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-pwvc",
         robots:
@@ -4998,7 +4998,7 @@ export const products = [
         description: "38 X 20 X 6000",
         code: "BS-DW009",
         url: "/door-wheels/door-belt-wheel-38-20-6000",
-        image: "/img/products/door-wheels/door-belt-wheel-38-20-6000/elevator-door-belt-wheel-38-20-6000-1.jpg",
+        image: "/img/products/door-wheels/door-belt-wheel-38-20-6000/elevator-door-belt-wheel-38-20-6000-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-38-20-6000",
         robots:
@@ -5009,7 +5009,7 @@ export const products = [
         description: "F9",
         code: "BS-DW0010",
         url: "/door-wheels/door-belt-wheel-f9",
-        image: "/img/products/door-wheels/door-belt-wheel-f9/elevator-door-belt-wheel-f9-1.jpg",
+        image: "/img/products/door-wheels/door-belt-wheel-f9/elevator-door-belt-wheel-f9-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-belt-wheel-f9",
         robots:
@@ -5020,7 +5020,7 @@ export const products = [
         description: "",
         code: "BS-DW0011",
         url: "/door-wheels/lift-door-eccentric-rollers",
-        image: "/img/products/door-wheels/lift-door-eccentric-rollers/elevator-lift-door-eccentric-rollers-1.jpg",
+        image: "/img/products/door-wheels/lift-door-eccentric-rollers/elevator-lift-door-eccentric-rollers-1.webp",
         slider: ["elevator-lift-door-eccentric-rollers-1", "elevator-lift-door-eccentric-rollers-2"],
         canonical: "https://www.bestechparts.ae/products/door-wheels/lift-door-eccentric-rollers",
         robots:
@@ -5031,7 +5031,7 @@ export const products = [
         description: "56 X 16 X 6201",
         code: "BS-DW0012",
         url: "/door-wheels/door-hanging-wheel-56-16-6201",
-        image: "/img/products/door-wheels/door-hanging-wheel-56-16-6201/elevator-door-hanging-wheel-56-16-6201-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-56-16-6201/elevator-door-hanging-wheel-56-16-6201-1.webp",
         slider: ["elevator-door-hanging-wheel-56-16-6201-1", "elevator-door-hanging-wheel-56-16-6201-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-56-16-6201",
@@ -5043,7 +5043,7 @@ export const products = [
         description: "56 X 14 X 6201",
         code: "BS-DW0013",
         url: "/door-wheels/door-wheel-56-14-6201",
-        image: "/img/products/door-wheels/door-wheel-56-14-6201/elevator-door-wheel-56-14-6201-1.jpg",
+        image: "/img/products/door-wheels/door-wheel-56-14-6201/elevator-door-wheel-56-14-6201-1.webp",
         slider: ["elevator-door-wheel-56-14-6201-1", "elevator-door-wheel-56-14-6201-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-56-14-6201",
@@ -5055,7 +5055,7 @@ export const products = [
         description: "70 X 17 X 6200",
         code: "BS-DW0014",
         url: "/door-wheels/door-hanging-wheel-70-17-6200",
-        image: "/img/products/door-wheels/door-hanging-wheel-70-17-6200/elevator-door-hanging-wheel-70-17-6200-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-70-17-6200/elevator-door-hanging-wheel-70-17-6200-1.webp",
         slider: ["elevator-door-hanging-wheel-70-17-6200-1", "elevator-door-hanging-wheel-70-17-6200-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-70-17-6200",
@@ -5067,7 +5067,7 @@ export const products = [
         description: "48 X 14 X 6200",
         code: "BS-DW0015",
         url: "/door-wheels/door-hanging-wheel-48-14-6200",
-        image: "/img/products/door-wheels/door-hanging-wheel-48-14-6200/elevator-door-hanging-wheel-48-14-6200-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-48-14-6200/elevator-door-hanging-wheel-48-14-6200-1.webp",
         slider: ["elevator-door-hanging-wheel-48-14-6200-1", "elevator-door-hanging-wheel-48-14-6200-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-48-14-6200",
@@ -5079,7 +5079,7 @@ export const products = [
         description: "45 X 16 X 6000",
         code: "BS-DW0016",
         url: "/door-wheels/door-hanging-wheel-45-16-6000",
-        image: "/img/products/door-wheels/door-hanging-wheel-45-16-6000/elevator-door-hanging-wheel-45-16-6000-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-45-16-6000/elevator-door-hanging-wheel-45-16-6000-1.webp",
         slider: ["elevator-door-hanging-wheel-45-16-6000-1", "elevator-door-hanging-wheel-45-16-6000-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-45-16-6000",
@@ -5092,7 +5092,7 @@ export const products = [
         code: "BS-DW0017",
         url: "/door-wheels/door-hanging-wheel-16508792-16502278",
         image:
-          "/img/products/door-wheels/door-hanging-wheel-16508792-16502278/elevator-door-hanging-wheel-16508792-16502278-1.jpg",
+          "/img/products/door-wheels/door-hanging-wheel-16508792-16502278/elevator-door-hanging-wheel-16508792-16502278-1.webp",
         slider: ["elevator-door-hanging-wheel-16508792-16502278-1", "elevator-door-hanging-wheel-16508792-16502278-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-16508792-16502278",
@@ -5104,7 +5104,7 @@ export const products = [
         description: "65 X 13 X 6202",
         code: "BS-DW0018",
         url: "/door-wheels/door-hanging-wheel-65-13-6202",
-        image: "/img/products/door-wheels/door-hanging-wheel-65-13-6202/elevator-door-hanging-wheel-65-13-6202-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-65-13-6202/elevator-door-hanging-wheel-65-13-6202-1.webp",
         slider: ["elevator-door-hanging-wheel-65-13-6202-1", "elevator-door-hanging-wheel-65-13-6202-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-65-13-6202",
@@ -5116,7 +5116,7 @@ export const products = [
         description: "62 X 16 X 6203",
         code: "BS-DW0019",
         url: "/door-wheels/door-hanging-wheel-62-16-6203",
-        image: "/img/products/door-wheels/door-hanging-wheel-62-16-6203/elevator-door-hanging-wheel-62-16-6203-1.jpg",
+        image: "/img/products/door-wheels/door-hanging-wheel-62-16-6203/elevator-door-hanging-wheel-62-16-6203-1.webp",
         slider: ["elevator-door-hanging-wheel-62-16-6203-1", "elevator-door-hanging-wheel-62-16-6203-2", "elevator-door-hanging-wheel-62-16-6203-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-hanging-wheel-62-16-6203",
@@ -5128,7 +5128,7 @@ export const products = [
         description: "AMD",
         code: "BS-DW0020",
         url: "/door-wheels/door-wheel-bracket-amd",
-        image: "/img/products/door-wheels/door-wheel-bracket-amd/elevator-door-wheel-bracket-amd-1.jpg",
+        image: "/img/products/door-wheels/door-wheel-bracket-amd/elevator-door-wheel-bracket-amd-1.webp",
         slider: ["elevator-door-wheel-bracket-amd-1", "elevator-door-wheel-bracket-amd-2", "elevator-door-wheel-bracket-amd-3", "elevator-door-wheel-bracket-amd-4"],
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-bracket-amd",
@@ -5140,7 +5140,7 @@ export const products = [
         description: "3201.05.0032/C",
         code: "BS-DW0021",
         url: "/door-wheels/door-wheel-3201-05-0032-c",
-        image: "/img/products/door-wheels/door-wheel-3201-05-0032-c/elevator-door-wheel-3201-05-0032-c-1.jpg",
+        image: "/img/products/door-wheels/door-wheel-3201-05-0032-c/elevator-door-wheel-3201-05-0032-c-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-3201-05-0032-c",
         robots:
@@ -5151,7 +5151,7 @@ export const products = [
         description: "Door wheel roller 70*25*6204",
         code: "BS-DW0022",
         url: "/door-wheels/door-wheel-roller-70-25-6204",
-        image: "/img/products/door-wheels/door-wheel-roller-70-25-6204/elevator-door-wheel-roller-70-25-6204-1.jpg",
+        image: "/img/products/door-wheels/door-wheel-roller-70-25-6204/elevator-door-wheel-roller-70-25-6204-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-wheels/door-wheel-roller-70-25-6204",
         robots:
@@ -5162,7 +5162,7 @@ export const products = [
         description: "Hanger Roller 72*15*6202",
         code: "BS-DW0023",
         url: "/door-wheels/hanger-roller-72-15-6202",
-        image: "/img/products/door-wheels/hanger-roller-72-15-6202/elevator-spareparts-hanger-roller-72-15-6202-1.jpg",
+        image: "/img/products/door-wheels/hanger-roller-72-15-6202/elevator-spareparts-hanger-roller-72-15-6202-1.webp",
         alttext: "Hanger Roller 72*15*6202 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/door-wheels/hanger-roller-72-15-6202",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5172,7 +5172,7 @@ export const products = [
         description: "Hanging Roller 58*9*6002",
         code: "BS-DW0024",
         url: "/door-wheels/hanging-roller-58-9-6002",
-        image: "/img/products/door-wheels/hanging-roller-58-9-6002/elevator-spareparts-hanging-roller-58-9-6002-1.jpg",
+        image: "/img/products/door-wheels/hanging-roller-58-9-6002/elevator-spareparts-hanging-roller-58-9-6002-1.webp",
         alttext: "Hanging Roller 58*9*6002 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/door-wheels/hanging-roller-58-9-6002",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5182,7 +5182,7 @@ export const products = [
         description: "Elevator Car Door Wheel 70X15X6202",
         code: "BS-DW0025",
         url: "/door-wheels/elevator-car-door-wheel-70x15x6202",
-        image: "/img/products/door-wheels/elevator-car-door-wheel-70x15x6202/elevator-spareparts-elevator-car-door-wheel-70x15x6202-1.jpg",
+        image: "/img/products/door-wheels/elevator-car-door-wheel-70x15x6202/elevator-spareparts-elevator-car-door-wheel-70x15x6202-1.webp",
         alttext: "Elevator Car Door Wheel 70X15X6202 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/door-wheels/elevator-car-door-wheel-70x15x6202",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5192,7 +5192,7 @@ export const products = [
         description: "Door Wheel Roller 25*30 - O",
         code: "BS-DW0026",
         url: "/door-wheels/door-wheel-roller-25-30-o",
-        image: "/img/products/door-wheels/door-wheel-roller-25-30-o/elevator-spareparts-door-wheel-roller-25-30-o-1.jpg",
+        image: "/img/products/door-wheels/door-wheel-roller-25-30-o/elevator-spareparts-door-wheel-roller-25-30-o-1.webp",
         alttext: "Door Wheel Roller 25*30 - O Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/door-wheels/door-wheel-roller-25-30-o",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5202,7 +5202,7 @@ export const products = [
         description: "Door Rope Roller KM601198G01",
         code: "BS-DW0027",
         url: "/door-wheels/door-rope-roller-km601198g01",
-        image: "/img/products/door-wheels/door-rope-roller-km601198g01/elevator-spareparts-door-rope-roller-km601198g01-1.jpg",
+        image: "/img/products/door-wheels/door-rope-roller-km601198g01/elevator-spareparts-door-rope-roller-km601198g01-1.webp",
         alttext: "Door Rope Roller KM601198G01 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/door-wheels/door-rope-roller-km601198g01",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -5228,7 +5228,7 @@ export const products = [
         description: "DW-C1",
         code: "BS-SR0001",
         url: "/sensors/load-sensor-dw-c1",
-        image: "/img/products/sensors/load-sensor-dw-c1/elevator-load-sensor-dw-c1-1.jpg",
+        image: "/img/products/sensors/load-sensor-dw-c1/elevator-load-sensor-dw-c1-1.webp",
         slider: ["elevator-load-sensor-dw-c1-1", "elevator-load-sensor-dw-c1-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/load-sensor-dw-c1",
@@ -5240,7 +5240,7 @@ export const products = [
         description: "61U 61N 30 77U 77N",
         code: "BS-SR0002",
         url: "/sensors/levelling-sensor-61u-61n-30-77u-77n",
-        image: "/img/products/sensors/levelling-sensor-61u-61n-30-77u-77n/elevator-levelling-sensor-61u-61n-30-77u-77n-1.jpg",
+        image: "/img/products/sensors/levelling-sensor-61u-61n-30-77u-77n/elevator-levelling-sensor-61u-61n-30-77u-77n-1.webp",
         slider: ["elevator-levelling-sensor-61u-61n-30-77u-77n-1", "elevator-levelling-sensor-61u-61n-30-77u-77n-2", "elevator-levelling-sensor-61u-61n-30-77u-77n-3"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/levelling-sensor-61u-61n-30-77u-77n",
@@ -5252,7 +5252,7 @@ export const products = [
         description: "DS-25/KM86420G03",
         code: "BS-SR0003",
         url: "/sensors/u-type-levelling-sensor",
-        image: "/img/products/sensors/u-type-levelling-sensor/elevator-u-type-levelling-sensor-1.jpg",
+        image: "/img/products/sensors/u-type-levelling-sensor/elevator-u-type-levelling-sensor-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/sensors/u-type-levelling-sensor",
         robots:
@@ -5264,7 +5264,7 @@ export const products = [
         description: "GLS126NT2NCNO",
         code: "BS-SR0004",
         url: "/sensors/levelling-sensor-gls126nt2ncno",
-        image: "/img/products/sensors/levelling-sensor-gls126nt2ncno/elevator-levelling-sensor-gls126nt2ncno-1.jpg",
+        image: "/img/products/sensors/levelling-sensor-gls126nt2ncno/elevator-levelling-sensor-gls126nt2ncno-1.webp",
         slider: ["elevator-levelling-sensor-gls126nt2ncno-1", "elevator-levelling-sensor-gls126nt2ncno-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/levelling-sensor-gls126nt2ncno",
@@ -5276,7 +5276,7 @@ export const products = [
         description: "YG-28/25/2561/128",
         code: "BS-SR0005",
         url: "/sensors/levelling-sensor-yg-28-25-2561-128",
-        image: "/img/products/sensors/levelling-sensor-yg-28-25-2561-128/elevator-levelling-sensor-yg-28-25-2561-128-1.jpg",
+        image: "/img/products/sensors/levelling-sensor-yg-28-25-2561-128/elevator-levelling-sensor-yg-28-25-2561-128-1.webp",
         slider: ["elevator-levelling-sensor-yg-28-25-2561-128-1", "elevator-levelling-sensor-yg-28-25-2561-128-2", "elevator-levelling-sensor-yg-28-25-2561-128-3", "elevator-levelling-sensor-yg-28-25-2561-128-4", "elevator-levelling-sensor-yg-28-25-2561-128-5", "elevator-levelling-sensor-yg-28-25-2561-128-6", "elevator-levelling-sensor-yg-28-25-2561-128-7"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/levelling-sensor-yg-28-25-2561-128",
@@ -5288,7 +5288,7 @@ export const products = [
         description: "ZPAD01-001",
         code: "BS-SR0006",
         url: "/sensors/levelling-sensor-zpad01-001",
-        image: "/img/products/sensors/levelling-sensor-zpad01-001/elevator-levelling-sensor-zpad01-001-1.jpg",
+        image: "/img/products/sensors/levelling-sensor-zpad01-001/elevator-levelling-sensor-zpad01-001-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/sensors/levelling-sensor-zpad01-001",
         robots:
@@ -5299,7 +5299,7 @@ export const products = [
         description: "GLS TK",
         code: "BS-SR0007",
         url: "/sensors/levelling-sensor-gls-tk",
-        image: "/img/products/sensors/levelling-sensor-gls-tk/elevator-levelling-sensor-gls-tk-1.jpg",
+        image: "/img/products/sensors/levelling-sensor-gls-tk/elevator-levelling-sensor-gls-tk-1.webp",
         slider: ["elevator-levelling-sensor-gls-tk-1", "elevator-levelling-sensor-gls-tk-2", "elevator-levelling-sensor-gls-tk-3"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/levelling-sensor-gls-tk",
@@ -5311,7 +5311,7 @@ export const products = [
         description: "MKF71ASAKX",
         code: "BS-SR0008",
         url: "/sensors/levelling-sensor-mkf71asakx",
-        image: "/img/products/sensors/levelling-sensor-mkf71asakx/elevator-levelling-sensor-mkf71asakx-1.jpg",
+        image: "/img/products/sensors/levelling-sensor-mkf71asakx/elevator-levelling-sensor-mkf71asakx-1.webp",
         slider: ["elevator-levelling-sensor-mkf71asakx-1", "elevator-levelling-sensor-mkf71asakx-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/levelling-sensor-mkf71asakx",
@@ -5324,7 +5324,7 @@ export const products = [
         code: "BS-SR0009",
         url: "/sensors/light-curtain-door-sensor-center-open",
         image:
-          "/img/products/sensors/light-curtain-door-sensor-center-open/elevator-light-curtain-door-sensor-center-open-2.jpg",
+          "/img/products/sensors/light-curtain-door-sensor-center-open/elevator-light-curtain-door-sensor-center-open-2.webp",
         slider: ["elevator-light-curtain-door-sensor-center-open-2", "elevator-light-curtain-door-sensor-center-open-1"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-center-open",
@@ -5337,7 +5337,7 @@ export const products = [
         code: "BS-SR0010",
         url: "/sensors/light-curtain-door-sensor-side-open",
         image:
-          "/img/products/sensors/light-curtain-door-sensor-side-open/elevator-light-curtain-door-sensor-side-open-1.jpg",
+          "/img/products/sensors/light-curtain-door-sensor-side-open/elevator-light-curtain-door-sensor-side-open-1.webp",
         slider: ["elevator-light-curtain-door-sensor-side-open-1", "elevator-light-curtain-door-sensor-side-open-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-side-open",
@@ -5349,7 +5349,7 @@ export const products = [
         description: "Shenghao: SH-GS3A4",
         code: "BS-SR0011",
         url: "/sensors/levelling-sensor-u-type-sh-gs3a4",
-        image: "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/elevator-levelling-sensor-u-type-sh-gs3a4-1.jpg",
+        image: "/img/products/sensors/levelling-sensor-u-type-sh-gs3a4/elevator-levelling-sensor-u-type-sh-gs3a4-1.webp",
         slider: ["elevator-levelling-sensor-u-type-sh-gs3a4-1", "elevator-levelling-sensor-u-type-sh-gs3a4-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/levelling-sensor-u-type-sh-gs3a4",
@@ -5362,7 +5362,7 @@ export const products = [
         code: "BS-SR0012",
         url: "/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
         image:
-          "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/elevator-bestech-brand-levelling-sensor-u-bs-hps-3-1.jpg",
+          "/img/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3/elevator-bestech-brand-levelling-sensor-u-bs-hps-3-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/sensors/bestech-brand-levelling-sensor-u-bs-hps-3",
         robots:
@@ -5374,7 +5374,7 @@ export const products = [
         code: "BS-SR0013",
         url: "/sensors/bestech-brand-door-sensor-2m-light-curtain",
         image:
-          "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/elevator-bestech-brand-door-sensor-2m-light-curtain-1.jpg",
+          "/img/products/sensors/bestech-brand-door-sensor-2m-light-curtain/elevator-bestech-brand-door-sensor-2m-light-curtain-1.webp",
         slider: ["elevator-bestech-brand-door-sensor-2m-light-curtain-1", "elevator-bestech-brand-door-sensor-2m-light-curtain-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-2m-light-curtain",
@@ -5387,7 +5387,7 @@ export const products = [
         code: "BS-SR0014",
         url: "/sensors/bestech-brand-door-sensor-1m-light-curtain",
         image:
-          "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/elevator-bestech-brand-door-sensor-1m-light-curtain-1.jpg",
+          "/img/products/sensors/bestech-brand-door-sensor-1m-light-curtain/elevator-bestech-brand-door-sensor-1m-light-curtain-1.webp",
 
         canonical:
           "https://www.bestechparts.ae/products/sensors/bestech-brand-door-sensor-1m-light-curtain",
@@ -5400,7 +5400,7 @@ export const products = [
         code: "BS-SR0015",
         url: "/sensors/inductive-proximity-sensor-lj12a3-4-zax",
         image:
-          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/elevator-inductive-proximity-sensor-lj12a3-4-zax-1.jpg",
+          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zax/elevator-inductive-proximity-sensor-lj12a3-4-zax-1.webp",
         slider: ["elevator-inductive-proximity-sensor-lj12a3-4-zax-1", "elevator-inductive-proximity-sensor-lj12a3-4-zax-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zax",
@@ -5413,7 +5413,7 @@ export const products = [
         code: "BS-SR0016",
         url: "/sensors/inductive-proximity-sensor-lj12a3-4-zby",
         image:
-          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/elevator-inductive-proximity-sensor-lj12a3-4-zby-1.jpg",
+          "/img/products/sensors/inductive-proximity-sensor-lj12a3-4-zby/elevator-inductive-proximity-sensor-lj12a3-4-zby-1.webp",
         slider: ["elevator-inductive-proximity-sensor-lj12a3-4-zby-1", "elevator-inductive-proximity-sensor-lj12a3-4-zby-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/inductive-proximity-sensor-lj12a3-4-zby",
@@ -5425,7 +5425,7 @@ export const products = [
         description: "Toshiba: SLJ18A-Z5NK-DZ-T",
         code: "BS-SR0017",
         url: "/sensors/slj18a-z5nk-dz-t",
-        image: "/img/products/sensors/slj18a-z5nk-dz-t/elevator-slj18a-z5nk-dz-t-1.jpg",
+        image: "/img/products/sensors/slj18a-z5nk-dz-t/elevator-slj18a-z5nk-dz-t-1.webp",
         slider: ["elevator-slj18a-z5nk-dz-t-1", "elevator-slj18a-z5nk-dz-t-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/slj18a-z5nk-dz-t",
@@ -5437,7 +5437,7 @@ export const products = [
         description: "Bistable sensor - Italy",
         code: "BS-SR0018",
         url: "/sensors/bistable-sensor-italy",
-        image: "/img/products/sensors/bistable-sensor-italy/elevator-bistable-sensor-italy-1.jpg",
+        image: "/img/products/sensors/bistable-sensor-italy/elevator-bistable-sensor-italy-1.webp",
         slider: ["elevator-bistable-sensor-italy-1", "elevator-bistable-sensor-italy-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/bistable-sensor-italy",
@@ -5449,7 +5449,7 @@ export const products = [
         description: "Inovance: SGD31-GG-TZ2B2P",
         code: "BS-SR0019",
         url: "/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
-        image: "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/elevator-sgd31-gg-tz2b2p-with-plastic-shell-1.jpg",
+        image: "/img/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell/elevator-sgd31-gg-tz2b2p-with-plastic-shell-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sgd31-gg-tz2b2p-with-plastic-shell",
         robots:
@@ -5461,7 +5461,7 @@ export const products = [
         code: "BS-SR0020",
         url: "/sensors/escalator-pressure-sensor-fp-a1pnp5m",
         image:
-          "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/elevator-escalator-pressure-sensor-fp-a1pnp5m-1.jpg",
+          "/img/products/sensors/escalator-pressure-sensor-fp-a1pnp5m/elevator-escalator-pressure-sensor-fp-a1pnp5m-1.webp",
         slider: ["elevator-escalator-pressure-sensor-fp-a1pnp5m-1", "elevator-escalator-pressure-sensor-fp-a1pnp5m-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/escalator-pressure-sensor-fp-a1pnp5m",
@@ -5473,7 +5473,7 @@ export const products = [
         description: "Sensor: E3JK-R4M1",
         code: "BS-SR0021",
         url: "/sensors/sensor-e3jk-r4m1",
-        image: "/img/products/sensors/sensor-e3jk-r4m1/elevator-sensor-e3jk-r4m1-1.jpg",
+        image: "/img/products/sensors/sensor-e3jk-r4m1/elevator-sensor-e3jk-r4m1-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-e3jk-r4m1",
         robots:
@@ -5484,7 +5484,7 @@ export const products = [
         description: "Sensor: BUP-30",
         code: "BS-SR0022",
         url: "/sensors/sensor-bup-30",
-        image: "/img/products/sensors/sensor-bup-30/elevator-sensor-bup-30-1.jpg",
+        image: "/img/products/sensors/sensor-bup-30/elevator-sensor-bup-30-1.webp",
         slider: ["elevator-sensor-bup-30-1", "elevator-sensor-bup-30-2", "elevator-sensor-bup-30-3"],
         canonical: "https://www.bestechparts.ae/products/sensors/sensor-bup-30",
         robots:
@@ -5495,7 +5495,7 @@ export const products = [
         description: "Sensor: D2VW-01-2MS",
         code: "BS-SR0023",
         url: "/sensors/sensor-d2vw-01-2ms",
-        image: "/img/products/sensors/sensor-d2vw-01-2ms/elevator-sensor-d2vw-01-2ms-1.jpg",
+        image: "/img/products/sensors/sensor-d2vw-01-2ms/elevator-sensor-d2vw-01-2ms-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-d2vw-01-2ms",
         robots:
@@ -5506,7 +5506,7 @@ export const products = [
         description: "Sensor: PSN17-5DN",
         code: "BS-SR0024",
         url: "/sensors/sensor-psn17-5dn",
-        image: "/img/products/sensors/sensor-psn17-5dn/elevator-sensor-psn17-5dn-1.jpg",
+        image: "/img/products/sensors/sensor-psn17-5dn/elevator-sensor-psn17-5dn-1.webp",
         slider: ["elevator-sensor-psn17-5dn-1", "elevator-sensor-psn17-5dn-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-psn17-5dn",
@@ -5518,7 +5518,7 @@ export const products = [
         description: "Autonics - BEL10M-TFR",
         code: "BS-SR0025",
         url: "/sensors/sensor-bel10m-tfr",
-        image: "/img/products/sensors/sensor-bel10m-tfr/elevator-sensor-bel10m-tfr-1.jpg",
+        image: "/img/products/sensors/sensor-bel10m-tfr/elevator-sensor-bel10m-tfr-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-bel10m-tfr",
         robots:
@@ -5529,7 +5529,7 @@ export const products = [
         description: "OTIS DAA629Q1 JCA00629AAB001",
         code: "BS-SR0026",
         url: "/sensors/sensor-daa629q1",
-        image: "/img/products/sensors/sensor-daa629q1/elevator-sensor-daa629q1-1.jpg",
+        image: "/img/products/sensors/sensor-daa629q1/elevator-sensor-daa629q1-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/sensors/sensor-daa629q1",
         robots:
@@ -5540,7 +5540,7 @@ export const products = [
         description: "KCB-R-59121 Monostable NC Switch",
         code: "BS-SR0027",
         url: "/sensors/kcb-r-59121-monostable-nc-switch",
-        image: "/img/products/sensors/kcb-r-59121-monostable-NC-switch/elevator-kcb-r-59121-monostable-NC-switch-1.jpg",
+        image: "/img/products/sensors/kcb-r-59121-monostable-NC-switch/elevator-kcb-r-59121-monostable-NC-switch-1.webp",
         slider: ["elevator-kcb-r-59121-monostable-NC-switch-1", "elevator-kcb-r-59121-monostable-NC-switch-2"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/kcb-r-59121-monostable-NC-switch",
@@ -5552,7 +5552,7 @@ export const products = [
         description: "Elevator Switch Sensor PF125-8DN-HC",
         code: "BS-SR0028",
         url: "/sensors/elevator-switch-sensor-pf125-8dn-hc",
-        image: "/img/products/sensors/elevator-switch-sensor-pf125-8dn-hc/elevator-spareparts-elevator-switch-sensor-pf125-8dn-hc-1.jpg",
+        image: "/img/products/sensors/elevator-switch-sensor-pf125-8dn-hc/elevator-spareparts-elevator-switch-sensor-pf125-8dn-hc-1.webp",
         alttext: "Elevator Switch Sensor PF125-8DN-HC Elevator Spare Parts",
         slider: [
           "elevator-spareparts-elevator-switch-sensor-pf125-8dn-hc-1"
@@ -5565,7 +5565,7 @@ export const products = [
         description: "Elevator Light Curtain FCU0796 KM51184565",
         code: "BS-SR0029",
         url: "/sensors/elevator-light-curtain-fcu0796-km51184565",
-        image: "/img/products/sensors/elevator-light-curtain-fcu0796-km51184565/elevator-spareparts-elevator-light-curtain-fcu0796-km51184565-1.jpg",
+        image: "/img/products/sensors/elevator-light-curtain-fcu0796-km51184565/elevator-spareparts-elevator-light-curtain-fcu0796-km51184565-1.webp",
         alttext: "Elevator Light Curtain FCU0796 KM51184565 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-elevator-light-curtain-fcu0796-km51184565-1"
@@ -5578,7 +5578,7 @@ export const products = [
         description: "MPS-1600-OTIS Levelling Sensor",
         code: "BS-SR0030",
         url: "/sensors/mps-1600-otis-levelling-sensor",
-        image: "/img/products/sensors/mps-1600-otis-levelling-sensor/elevator-spareparts-mps-1600-otis-levelling-sensor-1.jpg",
+        image: "/img/products/sensors/mps-1600-otis-levelling-sensor/elevator-spareparts-mps-1600-otis-levelling-sensor-1.webp",
         alttext: "MPS-1600-OTIS Levelling Sensor Elevator Spare Parts",
         slider: [
           "elevator-spareparts-mps-1600-otis-levelling-sensor-1"
@@ -5609,7 +5609,7 @@ export const products = [
         description: "100/140 X 10/16",
         code: "BS-GS0001",
         url: "/guide-shoes/guide-shoe-100-100-10-16-s",
-        image: "/img/products/guide-shoes/guide-shoe-100-100-10-16-s/elevator-guide-shoe-100-100-10-16-s-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-100-100-10-16-s/elevator-guide-shoe-100-100-10-16-s-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-100-100-10-16-s",
         robots:
@@ -5620,7 +5620,7 @@ export const products = [
         description: "65 X 10 X 16",
         code: "BS-GS0002",
         url: "/guide-shoes/guide-shoe-65-10-16-s",
-        image: "/img/products/guide-shoes/guide-shoe-65-10-16-s/elevator-guide-shoe-65-10-16-s-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-65-10-16-s/elevator-guide-shoe-65-10-16-s-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-65-10-16-s",
         robots:
@@ -5631,7 +5631,7 @@ export const products = [
         description: "145 X 36",
         code: "BS-GS0003",
         url: "/guide-shoes/guide-shoe-insert-145-36-o",
-        image: "/img/products/guide-shoes/guide-shoe-insert-145-36-o/elevator-guide-shoe-insert-145-36-o-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-145-36-o/elevator-guide-shoe-insert-145-36-o-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-145-36-o",
         robots:
@@ -5643,7 +5643,7 @@ export const products = [
         code: "BS-GS0004",
         url: "/guide-shoes/general-guide-shoe-insert-120-10-16",
         image:
-          "/img/products/guide-shoes/general-guide-shoe-insert-120-10-16/elevator-general-guide-shoe-insert-120-10-16-1.jpg",
+          "/img/products/guide-shoes/general-guide-shoe-insert-120-10-16/elevator-general-guide-shoe-insert-120-10-16-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-insert-120-10-16",
         robots:
@@ -5655,7 +5655,7 @@ export const products = [
         description: "230 X 10/16",
         code: "BS-GS0005",
         url: "/guide-shoes/guide-shoe-insert-230-10-16-m",
-        image: "/img/products/guide-shoes/guide-shoe-insert-230-10-16-m/elevator-guide-shoe-insert-230-10-16-m-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-230-10-16-m/elevator-guide-shoe-insert-230-10-16-m-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-230-10-16-m",
         robots:
@@ -5666,7 +5666,7 @@ export const products = [
         description: "100 X 25 X 62052",
         code: "BS-GS0006",
         url: "/guide-shoes/guide-shoe-wheel-100-25-62052",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-100-25-62052/elevator-guide-shoe-wheel-100-25-62052-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-100-25-62052/elevator-guide-shoe-wheel-100-25-62052-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-100-25-62052",
         robots:
@@ -5677,7 +5677,7 @@ export const products = [
         description: "120 X 10/16",
         code: "BS-GS0007",
         url: "/guide-shoes/guide-shoe-120-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-120-10-16/elevator-guide-shoe-120-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-120-10-16/elevator-guide-shoe-120-10-16-1.webp",
         slider: ["elevator-guide-shoe-120-10-16-1", "elevator-guide-shoe-120-10-16-2", "elevator-guide-shoe-120-10-16-3"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-120-10-16",
@@ -5689,7 +5689,7 @@ export const products = [
         description: "110 X 10/16",
         code: "BS-GS0008",
         url: "/guide-shoes/guide-shoe-110-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-110-10-16/elevator-guide-shoe-110-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-110-10-16/elevator-guide-shoe-110-10-16-1.webp",
         slider: ["elevator-guide-shoe-110-10-16-1", "elevator-guide-shoe-110-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-110-10-16",
@@ -5701,7 +5701,7 @@ export const products = [
         description: "120 X 10/16",
         code: "BS-GS0009",
         url: "/guide-shoes/guide-shoe-120-10-16-alt",
-        image: "/img/products/guide-shoes/guide-shoe-120-10-16-alt/elevator-guide-shoe-120-10-16-alt-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-120-10-16-alt/elevator-guide-shoe-120-10-16-alt-1.webp",
         slider: ["elevator-guide-shoe-120-10-16-alt-1", "elevator-guide-shoe-120-10-16-alt-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-120-10-16-alt",
@@ -5713,7 +5713,7 @@ export const products = [
         description: "80 X 10/16",
         code: "BS-GS0010",
         url: "/guide-shoes/guide-shoe-80-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-80-10-16/elevator-guide-shoe-80-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-80-10-16/elevator-guide-shoe-80-10-16-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-80-10-16",
         robots:
@@ -5724,7 +5724,7 @@ export const products = [
         description: "KM924_10G G16A",
         code: "BS-GS0011",
         url: "/guide-shoes/guide-shoe-km924-10g-g16a",
-        image: "/img/products/guide-shoes/guide-shoe-km924-10g-g16a/elevator-guide-shoe-km924-10g-g16a-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-km924-10g-g16a/elevator-guide-shoe-km924-10g-g16a-1.webp",
         slider: ["elevator-guide-shoe-km924-10g-g16a-1", "elevator-guide-shoe-km924-10g-g16a-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-km924-10g-g16a",
@@ -5736,7 +5736,7 @@ export const products = [
         description: "L10",
         code: "BS-GS0012",
         url: "/guide-shoes/guide-shoe-l10",
-        image: "/img/products/guide-shoes/guide-shoe-l10/elevator-guide-shoe-l10-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-l10/elevator-guide-shoe-l10-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-l10",
         robots:
@@ -5747,7 +5747,7 @@ export const products = [
         description: "100 X 10/16",
         code: "BS-GS0013",
         url: "/guide-shoes/guide-shoe-100-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-100-10-16/elevator-guide-shoe-100-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-100-10-16/elevator-guide-shoe-100-10-16-1.webp",
         slider: ["elevator-guide-shoe-100-10-16-1", "elevator-guide-shoe-100-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-100-10-16",
@@ -5759,7 +5759,7 @@ export const products = [
         description: "DX18",
         code: "BS-GS0014",
         url: "/guide-shoes/general-guide-shoe-dx18",
-        image: "/img/products/guide-shoes/general-guide-shoe-dx18/elevator-general-guide-shoe-dx18-1.jpg",
+        image: "/img/products/guide-shoes/general-guide-shoe-dx18/elevator-general-guide-shoe-dx18-1.webp",
         slider: ["elevator-general-guide-shoe-dx18-1", "elevator-general-guide-shoe-dx18-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-dx18",
@@ -5771,7 +5771,7 @@ export const products = [
         description: "DX 10A",
         code: "BS-GS0015",
         url: "/guide-shoes/general-guide-shoe-dx-10a",
-        image: "/img/products/guide-shoes/general-guide-shoe-dx-10a/elevator-general-guide-shoe-dx-10a-1.jpg",
+        image: "/img/products/guide-shoes/general-guide-shoe-dx-10a/elevator-general-guide-shoe-dx-10a-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-dx-10a",
         robots:
@@ -5782,7 +5782,7 @@ export const products = [
         description: "110 X 10/16",
         code: "BS-GS0016",
         url: "/guide-shoes/guide-shoe-110-10-16-alt",
-        image: "/img/products/guide-shoes/guide-shoe-110-10-16-alt/elevator-guide-shoe-110-10-16-alt-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-110-10-16-alt/elevator-guide-shoe-110-10-16-alt-1.webp",
         slider: ["elevator-guide-shoe-110-10-16-alt-1", "elevator-guide-shoe-110-10-16-alt-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-110-10-16-alt",
@@ -5794,7 +5794,7 @@ export const products = [
         description: "150 X 10 X 16",
         code: "BS-GS0017",
         url: "/guide-shoes/guide-shoe-150-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-150-10-16/elevator-guide-shoe-150-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-150-10-16/elevator-guide-shoe-150-10-16-1.webp",
         slider: ["elevator-guide-shoe-150-10-16-1", "elevator-guide-shoe-150-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-150-10-16",
@@ -5806,7 +5806,7 @@ export const products = [
         description: "100 X 10/16",
         code: "BS-GS0018",
         url: "/guide-shoes/guide-shoe-insert-100-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-100-10-16/elevator-guide-shoe-insert-100-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-100-10-16/elevator-guide-shoe-insert-100-10-16-1.webp",
         slider: ["elevator-guide-shoe-insert-100-10-16-1", "elevator-guide-shoe-insert-100-10-16-2", "elevator-guide-shoe-insert-100-10-16-3"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-100-10-16",
@@ -5818,7 +5818,7 @@ export const products = [
         description: "80 X 10/16",
         code: "BS-GS0019",
         url: "/guide-shoes/guide-shoe-insert-80-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-80-10-16/elevator-guide-shoe-insert-80-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-80-10-16/elevator-guide-shoe-insert-80-10-16-1.webp",
         slider: ["elevator-guide-shoe-insert-80-10-16-1", "elevator-guide-shoe-insert-80-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-80-10-16",
@@ -5830,7 +5830,7 @@ export const products = [
         description: "140 X 10/16",
         code: "BS-GS0020",
         url: "/guide-shoes/guide-shoe-insert-140-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-140-10-16/elevator-guide-shoe-insert-140-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-140-10-16/elevator-guide-shoe-insert-140-10-16-1.webp",
         slider: ["elevator-guide-shoe-insert-140-10-16-1", "elevator-guide-shoe-insert-140-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-140-10-16",
@@ -5842,7 +5842,7 @@ export const products = [
         description: "20 X 10/16",
         code: "BS-GS0021",
         url: "/guide-shoes/guide-shoe-insert-20-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-20-10-16/elevator-guide-shoe-insert-20-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-20-10-16/elevator-guide-shoe-insert-20-10-16-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-20-10-16",
         robots:
@@ -5853,7 +5853,7 @@ export const products = [
         description: "20 X 10/16",
         code: "BS-GS0022",
         url: "/guide-shoes/guide-shoe-insert-140-x-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-140-x-10-16/elevator-guide-shoe-insert-140-x-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-140-x-10-16/elevator-guide-shoe-insert-140-x-10-16-1.webp",
         slider: ["elevator-guide-shoe-insert-140-x-10-16-1", "elevator-guide-shoe-insert-140-x-10-16-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-140-x-10-16",
@@ -5866,7 +5866,7 @@ export const products = [
         code: "BS-GS0023",
         url: "/guide-shoes/guide-shoe-insert-230-10-16-alt",
         image:
-          "/img/products/guide-shoes/guide-shoe-insert-230-10-16-alt/elevator-guide-shoe-insert-230-10-16-alt-1.jpg",
+          "/img/products/guide-shoes/guide-shoe-insert-230-10-16-alt/elevator-guide-shoe-insert-230-10-16-alt-1.webp",
         slider: ["elevator-guide-shoe-insert-230-10-16-alt-1", "elevator-guide-shoe-insert-230-10-16-alt-2", "elevator-guide-shoe-insert-230-10-16-alt-3"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-230-10-16-alt",
@@ -5879,7 +5879,7 @@ export const products = [
         code: "BS-GS0024",
         url: "/guide-shoes/guide-shoe-insert-100-10-16-alt",
         image:
-          "/img/products/guide-shoes/guide-shoe-insert-100-10-16-alt/elevator-guide-shoe-insert-100-10-16-alt-1.jpg",
+          "/img/products/guide-shoes/guide-shoe-insert-100-10-16-alt/elevator-guide-shoe-insert-100-10-16-alt-1.webp",
         slider: ["elevator-guide-shoe-insert-100-10-16-alt-1", "elevator-guide-shoe-insert-100-10-16-alt-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-100-10-16-alt",
@@ -5891,7 +5891,7 @@ export const products = [
         description: "125 X 10/16",
         code: "BS-GS0025",
         url: "/guide-shoes/guide-shoe-insert-125-10-16",
-        image: "/img/products/guide-shoes/guide-shoe-insert-125-10-16/elevator-guide-shoe-insert-125-10-16-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-125-10-16/elevator-guide-shoe-insert-125-10-16-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-125-10-16",
         robots:
@@ -5902,7 +5902,7 @@ export const products = [
         description: "76 X 21 X 6203",
         code: "BS-GS0026",
         url: "/guide-shoes/guide-shoe-wheel-76-21-6203",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-76-21-6203/elevator-guide-shoe-wheel-76-21-6203-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-76-21-6203/elevator-guide-shoe-wheel-76-21-6203-1.webp",
         slider: ["elevator-guide-shoe-wheel-76-21-6203-1", "elevator-guide-shoe-wheel-76-21-6203-2", "elevator-guide-shoe-wheel-76-21-6203-3", "elevator-guide-shoe-wheel-76-21-6203-4"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-76-21-6203",
@@ -5914,7 +5914,7 @@ export const products = [
         description: "125 X 22 X 6303",
         code: "BS-GS0027",
         url: "/guide-shoes/guide-shoe-wheel-125-22-6303",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-125-22-6303/elevator-guide-shoe-wheel-125-22-6303-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-125-22-6303/elevator-guide-shoe-wheel-125-22-6303-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-125-22-6303",
         robots:
@@ -5925,7 +5925,7 @@ export const products = [
         description: "150 X 32 X 6203",
         code: "BS-GS0028",
         url: "/guide-shoes/guide-shoe-wheel-150-32-6203",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-150-32-6203/elevator-guide-shoe-wheel-150-32-6203-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-150-32-6203/elevator-guide-shoe-wheel-150-32-6203-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-150-32-6203",
         robots:
@@ -5936,7 +5936,7 @@ export const products = [
         description: "80 X 24 X 6203",
         code: "BS-GS0029",
         url: "/guide-shoes/guide-shoe-wheel-80-24-6203",
-        image: "/img/products/guide-shoes/guide-shoe-wheel-80-24-6203/elevator-guide-shoe-wheel-80-24-6203-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-wheel-80-24-6203/elevator-guide-shoe-wheel-80-24-6203-1.webp",
         slider: ["elevator-guide-shoe-wheel-80-24-6203-1", "elevator-guide-shoe-wheel-80-24-6203-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-wheel-80-24-6203",
@@ -5948,7 +5948,7 @@ export const products = [
         description: "SG12/SG13",
         code: "BS-GS0030",
         url: "/guide-shoes/guide-shoe-sg12-sg13-t",
-        image: "/img/products/guide-shoes/guide-shoe-sg12-sg13-t/elevator-guide-shoe-sg12-sg13-t-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-sg12-sg13-t/elevator-guide-shoe-sg12-sg13-t-1.webp",
         meta_title: "Guide Shoe SG12/SG13 T | Elevator Guide Shoes UAE",
         meta_description:
           "Order the SG12/SG13 T elevator guide shoe for smooth performance and ride stability. Trusted by professionals across UAE.",
@@ -5962,7 +5962,7 @@ export const products = [
         description: "140 X 10/15",
         code: "BS-GS0031",
         url: "/guide-shoes/guide-shoe-140-10-15",
-        image: "/img/products/guide-shoes/guide-shoe-140-10-15/elevator-guide-shoe-140-10-15-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-140-10-15/elevator-guide-shoe-140-10-15-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-140-10-15",
         robots:
@@ -5974,7 +5974,7 @@ export const products = [
         code: "BS-GS0032",
         url: "/guide-shoes/general-guide-shoe-insert-140-10-16",
         image:
-          "/img/products/guide-shoes/general-guide-shoe-insert-140-10-16/elevator-general-guide-shoe-insert-140-10-16-1.jpg",
+          "/img/products/guide-shoes/general-guide-shoe-insert-140-10-16/elevator-general-guide-shoe-insert-140-10-16-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/general-guide-shoe-insert-140-10-16",
         robots:
@@ -5985,7 +5985,7 @@ export const products = [
         description: "Hitachi: 150X32X6204",
         code: "BS-GS0033",
         url: "/guide-shoes/guide-wheel-150x32x6204",
-        image: "/img/products/guide-shoes/guide-wheel-150x32x6204/elevator-guide-wheel-150x32x6204-1.jpg",
+        image: "/img/products/guide-shoes/guide-wheel-150x32x6204/elevator-guide-wheel-150x32x6204-1.webp",
         slider: ["elevator-guide-wheel-150x32x6204-1", "elevator-guide-wheel-150x32x6204-2", "elevator-guide-wheel-150x32x6204-3"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-wheel-150x32x6204",
@@ -5997,7 +5997,7 @@ export const products = [
         description: "Kone: 16mm 10mm",
         code: "BS-GS0034",
         url: "/guide-shoes/guide-shoe-full-set-k",
-        image: "/img/products/guide-shoes/guide-shoe-full-set-k/elevator-guide-shoe-full-set-k-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-full-set-k/elevator-guide-shoe-full-set-k-1.webp",
         slider: ["elevator-guide-shoe-full-set-k-1", "elevator-guide-shoe-full-set-k-2"],
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-k",
@@ -6010,7 +6010,7 @@ export const products = [
         code: "BS-GS0035",
         url: "/guide-shoes/guide-shoes-full-set-yellow-o-k",
         image:
-          "/img/products/guide-shoes/guide-shoes-full-set-yellow-o-k/elevator-guide-shoes-full-set-yellow-o-k-1.jpg",
+          "/img/products/guide-shoes/guide-shoes-full-set-yellow-o-k/elevator-guide-shoes-full-set-yellow-o-k-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoes-full-set-yellow-o-k",
         robots:
@@ -6022,7 +6022,7 @@ export const products = [
         code: "BS-GS0036",
         url: "/guide-shoes/doppler-guide-rail-shoe-120x29",
         image:
-          "/img/products/guide-shoes/doppler-guide-rail-shoe-120x29/elevator-doppler-guide-rail-shoe-120x29-1.jpg",
+          "/img/products/guide-shoes/doppler-guide-rail-shoe-120x29/elevator-doppler-guide-rail-shoe-120x29-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/doppler-guide-rail-shoe-120x29",
         robots:
@@ -6033,7 +6033,7 @@ export const products = [
         description: "TKE: 140*10/16 white",
         code: "BS-GS0037",
         url: "/guide-shoes/guide-shoe-140-10-16-white",
-        image: "/img/products/guide-shoes/guide-shoe-140-10-16-white/elevator-guide-shoe-140-10-16-white-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-140-10-16-white/elevator-guide-shoe-140-10-16-white-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-140-10-16-white",
         robots:
@@ -6045,7 +6045,7 @@ export const products = [
         code: "BS-GS0038",
         url: "/guide-shoes/elevator-guide-shoe-insert-150-10-16",
         image:
-          "/img/products/guide-shoes/elevator-guide-shoe-insert-150-10-16/elevator-guide-shoe-insert-150-10-16-1.jpg",
+          "/img/products/guide-shoes/elevator-guide-shoe-insert-150-10-16/elevator-guide-shoe-insert-150-10-16-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/elevator-guide-shoe-insert-150-10-16",
         robots:
@@ -6056,7 +6056,7 @@ export const products = [
         description: "OTIS Guide Shoe Full set - 6mm",
         code: "BS-GS0039",
         url: "/guide-shoes/guide-shoe-full-set-6mm",
-        image: "/img/products/guide-shoes/guide-shoe-full-set-6mm/elevator-guide-shoe-full-set-6mm-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-full-set-6mm/elevator-guide-shoe-full-set-6mm-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-6mm",
         robots:
@@ -6067,7 +6067,7 @@ export const products = [
         description: "OTIS Guide Shoe Insert - 6mm",
         code: "BS-GS0040",
         url: "/guide-shoes/guide-shoe-insert-6mm",
-        image: "/img/products/guide-shoes/guide-shoe-insert-6mm/elevator-guide-shoe-insert-6mm-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-insert-6mm/elevator-guide-shoe-insert-6mm-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-insert-6mm",
         robots:
@@ -6078,7 +6078,7 @@ export const products = [
         description: "Guide Rollers 76*22*6203",
         code: "BS-GS0041",
         url: "/guide-shoes/guide-rollers-76-22-6203",
-        image: "/img/products/guide-shoes/guide-rollers-76-22-6203/elevator-spareparts-guide-rollers-76-22-6203-1.jpg",
+        image: "/img/products/guide-shoes/guide-rollers-76-22-6203/elevator-spareparts-guide-rollers-76-22-6203-1.webp",
         alttext: "Guide Rollers 76*22*6203 Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/guide-shoes/guide-rollers-76-22-6203",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6088,7 +6088,7 @@ export const products = [
         description: "Guide Shoe Full Set 200*16mm",
         code: "BS-GS0042",
         url: "/guide-shoes/guide-shoe-full-set-200-16mm",
-        image: "/img/products/guide-shoes/guide-shoe-full-set-200-16mm/elevator-spareparts-guide-shoe-full-set-200-16mm-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-full-set-200-16mm/elevator-spareparts-guide-shoe-full-set-200-16mm-1.webp",
         alttext: "Guide Shoe Full Set 200*16mm Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-full-set-200-16mm",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6098,7 +6098,7 @@ export const products = [
         description: "Guide Shoe Liner 200*16mm",
         code: "BS-GS0043",
         url: "/guide-shoes/guide-shoe-liner-200-16mm",
-        image: "/img/products/guide-shoes/guide-shoe-liner-200-16mm/elevator-spareparts-guide-shoe-liner-200-16mm-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-liner-200-16mm/elevator-spareparts-guide-shoe-liner-200-16mm-1.webp",
         alttext: "Guide Shoe Liner 200*16mm Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-liner-200-16mm",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6108,7 +6108,7 @@ export const products = [
         description: "Guide Shoe KM652435G16 White",
         code: "BS-GS0044",
         url: "/guide-shoes/guide-shoe-km652435g16-white",
-        image: "/img/products/guide-shoes/guide-shoe-km652435g16-white/elevator-spareparts-guide-shoe-km652435g16-white-1.jpg",
+        image: "/img/products/guide-shoes/guide-shoe-km652435g16-white/elevator-spareparts-guide-shoe-km652435g16-white-1.webp",
         alttext: "Guide Shoe KM652435G16 White Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/guide-shoes/guide-shoe-km652435g16-white",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6134,7 +6134,7 @@ export const products = [
         description: "",
         code: "BS-DS0001",
         url: "/door-sliders/k-door-slider",
-        image: "/img/products/door-sliders/k-door-slider/elevator-k-door-slider-1.jpg",
+        image: "/img/products/door-sliders/k-door-slider/elevator-k-door-slider-1.webp",
         slider: ["elevator-k-door-slider-1", "elevator-k-door-slider-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/k-door-slider",
@@ -6146,7 +6146,7 @@ export const products = [
         description: "",
         code: "BS-DS0002",
         url: "/door-sliders/o-door-slider",
-        image: "/img/products/door-sliders/o-door-slider/elevator-o-door-slider-1.jpg",
+        image: "/img/products/door-sliders/o-door-slider/elevator-o-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/o-door-slider",
         robots:
@@ -6157,7 +6157,7 @@ export const products = [
         description: "",
         code: "BS-DS0003",
         url: "/door-sliders/o-nylon-rubber-door-slider",
-        image: "/img/products/door-sliders/o-nylon-rubber-door-slider/elevator-o-nylon-rubber-door-slider-1.jpg",
+        image: "/img/products/door-sliders/o-nylon-rubber-door-slider/elevator-o-nylon-rubber-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/o-nylon-rubber-door-slider",
         robots:
@@ -6168,7 +6168,7 @@ export const products = [
         description: "K200/S200",
         code: "BS-DS0004",
         url: "/door-sliders/door-slider-k200-s200",
-        image: "/img/products/door-sliders/door-slider-k200-s200/elevator-door-slider-k200-s200-1.jpg",
+        image: "/img/products/door-sliders/door-slider-k200-s200/elevator-door-slider-k200-s200-1.webp",
         slider: ["elevator-door-slider-k200-s200-1", "elevator-door-slider-k200-s200-2", "elevator-door-slider-k200-s200-3", "elevator-door-slider-k200-s200-4"],
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-k200-s200",
@@ -6180,7 +6180,7 @@ export const products = [
         description: "",
         code: "BS-DS0005",
         url: "/door-sliders/s-door-slider",
-        image: "/img/products/door-sliders/s-door-slider/elevator-s-door-slider-1.jpg",
+        image: "/img/products/door-sliders/s-door-slider/elevator-s-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/s-door-slider",
         robots:
@@ -6191,7 +6191,7 @@ export const products = [
         description: "",
         code: "BS-DS0006",
         url: "/door-sliders/lg-door-slider",
-        image: "/img/product-default-img.jpg",
+        image: "/img/product-default-img.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/lg-door-slider",
         robots:
@@ -6202,7 +6202,7 @@ export const products = [
         description: "",
         code: "BS-DS0007",
         url: "/door-sliders/to-door-slider",
-        image: "/img/products/door-sliders/to-door-slider/elevator-to-door-slider-1.jpg",
+        image: "/img/products/door-sliders/to-door-slider/elevator-to-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/to-door-slider",
         robots:
@@ -6213,7 +6213,7 @@ export const products = [
         description: "",
         code: "BS-DS0008",
         url: "/door-sliders/hi-door-slider",
-        image: "/img/products/door-sliders/hi-door-slider/elevator-hi-door-slider-1.jpg",
+        image: "/img/products/door-sliders/hi-door-slider/elevator-hi-door-slider-1.webp",
         slider: ["elevator-hi-door-slider-1", "elevator-hi-door-slider-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/hi-door-slider",
@@ -6225,7 +6225,7 @@ export const products = [
         description: "",
         code: "BS-DS0009",
         url: "/door-sliders/e-door-slider",
-        image: "/img/products/door-sliders/e-door-slider/elevator-e-door-slider-1.jpg",
+        image: "/img/products/door-sliders/e-door-slider/elevator-e-door-slider-1.webp",
         slider: ["elevator-e-door-slider-1", "elevator-e-door-slider-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/e-door-slider",
@@ -6237,7 +6237,7 @@ export const products = [
         description: "",
         code: "BS-DS0010",
         url: "/door-sliders/hy-door-slider",
-        image: "/img/products/door-sliders/hy-door-slider/elevator-hy-door-slider-1.jpg",
+        image: "/img/products/door-sliders/hy-door-slider/elevator-hy-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/hy-door-slider",
         robots:
@@ -6248,7 +6248,7 @@ export const products = [
         description: "",
         code: "BS-DS0011",
         url: "/door-sliders/c-door-slider",
-        image: "/img/products/door-sliders/c-door-slider/elevator-c-door-slider-1.jpg",
+        image: "/img/products/door-sliders/c-door-slider/elevator-c-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/c-door-slider",
         robots:
@@ -6259,7 +6259,7 @@ export const products = [
         description: "",
         code: "BS-DS0012",
         url: "/door-sliders/i-door-slider",
-        image: "/img/products/door-sliders/i-door-slider/elevator-i-door-slider-1.jpg",
+        image: "/img/products/door-sliders/i-door-slider/elevator-i-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/i-door-slider",
         robots:
@@ -6270,7 +6270,7 @@ export const products = [
         description: "",
         code: "BS-DS0013",
         url: "/door-sliders/quilog-door-slider",
-        image: "/img/products/door-sliders/quilog-door-slider/elevator-quilog-door-slider-1.jpg",
+        image: "/img/products/door-sliders/quilog-door-slider/elevator-quilog-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/quilog-door-slider",
         robots:
@@ -6281,7 +6281,7 @@ export const products = [
         description: "",
         code: "BS-DS0014",
         url: "/door-sliders/freight-elevator-door-slider",
-        image: "/img/products/door-sliders/freight-elevator-door-slider/elevator-freight-elevator-door-slider-1.jpg",
+        image: "/img/products/door-sliders/freight-elevator-door-slider/elevator-freight-elevator-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/freight-elevator-door-slider",
         robots:
@@ -6292,7 +6292,7 @@ export const products = [
         description: "",
         code: "BS-DS0015",
         url: "/door-sliders/m-door-slider",
-        image: "/img/products/door-sliders/m-door-slider/elevator-m-door-slider-1.jpg",
+        image: "/img/products/door-sliders/m-door-slider/elevator-m-door-slider-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/m-door-slider",
         robots:
@@ -6303,7 +6303,7 @@ export const products = [
         description: "Door slider 31mmX15mm",
         code: "BS-DS0016",
         url: "/door-sliders/door-slider-31mmx15mm",
-        image: "/img/products/door-sliders/door-slider-31mmx15mm/elevator-door-slider-31mmx15mm-1.jpg",
+        image: "/img/products/door-sliders/door-slider-31mmx15mm/elevator-door-slider-31mmx15mm-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-31mmx15mm",
         robots:
@@ -6314,7 +6314,7 @@ export const products = [
         description: "Door slider 39mmX14mm",
         code: "BS-DS0017",
         url: "/door-sliders/door-slider-39mmx14mm",
-        image: "/img/products/door-sliders/door-slider-39mmx14mm/elevator-door-slider-39mmx14mm-1.jpg",
+        image: "/img/products/door-sliders/door-slider-39mmx14mm/elevator-door-slider-39mmx14mm-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-39mmx14mm",
         robots:
@@ -6325,7 +6325,7 @@ export const products = [
         description: "Door slider White 18mmX25mm - Schindler",
         code: "BS-DS0018",
         url: "/door-sliders/door-slider-white-18mmx25mm-s",
-        image: "/img/products/door-sliders/door-slider-white-18mmx25mm-s/elevator-door-slider-white-18mmx25mm-s-1.jpg",
+        image: "/img/products/door-sliders/door-slider-white-18mmx25mm-s/elevator-door-slider-white-18mmx25mm-s-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-white-18mmx25mm-s",
         robots:
@@ -6336,7 +6336,7 @@ export const products = [
         description: "OTIS Door Slider black - 12X50",
         code: "BS-DS0019",
         url: "/door-sliders/door-slider-black-12x50",
-        image: "/img/products/door-sliders/door-slider-black-12x50/elevator-door-slider-black-12x50-1.jpg",
+        image: "/img/products/door-sliders/door-slider-black-12x50/elevator-door-slider-black-12x50-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-sliders/door-slider-black-12x50",
         robots:
@@ -6347,7 +6347,7 @@ export const products = [
         description: "Door Sliders 44X21 mm",
         code: "BS-DS0020",
         url: "/door-sliders/door-sliders-44x21-mm",
-        image: "/img/products/door-sliders/door-sliders-44x21-mm/elevator-spareparts-door-sliders-44x21-mm-1.jpg",
+        image: "/img/products/door-sliders/door-sliders-44x21-mm/elevator-spareparts-door-sliders-44x21-mm-1.webp",
         alttext: "Door Sliders 44X21 mm Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/door-sliders/door-sliders-44x21-mm",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -6357,7 +6357,7 @@ export const products = [
         description: "STEP COP Display LCD SM.04VL16/T",
         code: "BS-DI0019",
         url: "/displays/step-cop-display-lcd-sm-04vl16-t",
-        image: "/img/products/displays/step-cop-display-lcd-sm-04vl16-t/elevator-spareparts-step-cop-display-lcd-sm-04vl16-t-1.jpg",
+        image: "/img/products/displays/step-cop-display-lcd-sm-04vl16-t/elevator-spareparts-step-cop-display-lcd-sm-04vl16-t-1.webp",
         alttext: "STEP COP Display LCD SM.04VL16/T Elevator Spare Parts",
         slider: [
           "elevator-spareparts-step-cop-display-lcd-sm-04vl16-t-1"
@@ -6370,7 +6370,7 @@ export const products = [
         description: "Elevator Display Board FJ-HCB-H",
         code: "BS-DI0020",
         url: "/displays/elevator-display-board-fj-hcb-h",
-        image: "/img/products/displays/elevator-display-board-fj-hcb-h/elevator-spareparts-elevator-display-board-fj-hcb-h-1.jpg",
+        image: "/img/products/displays/elevator-display-board-fj-hcb-h/elevator-spareparts-elevator-display-board-fj-hcb-h-1.webp",
         alttext: "Elevator Display Board FJ-HCB-H Elevator Spare Parts",
         slider: [
           "elevator-spareparts-elevator-display-board-fj-hcb-h-1"
@@ -6399,7 +6399,7 @@ export const products = [
         description: "Encoder cable 5M",
         code: "BS-EN0001",
         url: "/encoders/encoder-cable-5m",
-        image: "/img/products/encoders/encoder-cable-5m/elevator-encoder-cable-5m-1.jpg",
+        image: "/img/products/encoders/encoder-cable-5m/elevator-encoder-cable-5m-1.webp",
         slider: ["1"],
         meta_title: "Elevator Encoder Cable 5m for Lift Feedback Use | UAE",
         meta_description:
@@ -6418,7 +6418,7 @@ export const products = [
         description: "Encoder cable 10M",
         code: "BS-EN0002",
         url: "/encoders/encoder-cable-10m",
-        image: "/img/products/encoders/encoder-cable-10m/elevator-encoder-cable-10m-1.jpg",
+        image: "/img/products/encoders/encoder-cable-10m/elevator-encoder-cable-10m-1.webp",
         slider: ["elevator-encoder-cable-10m-1"],
         meta_title: "Elevator Encoder Cable 10m for Lift Control Systems | UAE",
         meta_description:
@@ -6437,7 +6437,7 @@ export const products = [
         description: "Encoder cable 15M",
         code: "BS-EN0003",
         url: "/encoders/encoder-cable-15m",
-        image: "/img/products/encoders/encoder-cable-15m/elevator-encoder-cable-15m-1.jpg",
+        image: "/img/products/encoders/encoder-cable-15m/elevator-encoder-cable-15m-1.webp",
         slider: ["1"],
         meta_title: "Elevator Encoder Cable 15m for Lift Systems | UAE",
         meta_description:
@@ -6456,7 +6456,7 @@ export const products = [
         description: "Encoder roller 37mm",
         code: "BS-EN0004",
         url: "/encoders/encoder-roller-37mm",
-        image: "/img/products/encoders/encoder-roller-37mm/elevator-encoder-roller-37mm-1.jpg",
+        image: "/img/products/encoders/encoder-roller-37mm/elevator-encoder-roller-37mm-1.webp",
         slider: ["1"],
         meta_title: "Elevator Encoder Roller 37mm for Lift Position Control",
         meta_description:
@@ -6475,7 +6475,7 @@ export const products = [
         description: "Encoder roller 75mm",
         code: "BS-EN0005",
         url: "/encoders/encoder-roller-75mm",
-        image: "/img/products/encoders/encoder-roller-75mm/elevator-encoder-roller-75mm-1.jpg",
+        image: "/img/products/encoders/encoder-roller-75mm/elevator-encoder-roller-75mm-1.webp",
         slider: ["elevator-encoder-roller-75mm-1"],
         meta_title: "Elevator Encoder Roller 75mm for Lift Movement Reading",
         meta_description:
@@ -6494,7 +6494,7 @@ export const products = [
         description: "Encoder 1387",
         code: "BS-EN0006",
         url: "/encoders/encoder-1387",
-        image: "/img/products/encoders/encoder-1387/elevator-encoder-1387-1.jpg",
+        image: "/img/products/encoders/encoder-1387/elevator-encoder-1387-1.webp",
         slider: ["elevator-encoder-1387-1", "elevator-encoder-1387-2", "elevator-encoder-1387-3"],
         meta_title: "Buy Elevator Encoder 1387 for Lift Speed Control in UAE",
         meta_description:
@@ -6512,7 +6512,7 @@ export const products = [
         description: "Encoder 1024 30mm",
         code: "BS-EN0007",
         url: "/encoders/encoder-1024-30mm",
-        image: "/img/products/encoders/encoder-1024-30mm/elevator-encoder-1024-30mm-1.jpg",
+        image: "/img/products/encoders/encoder-1024-30mm/elevator-encoder-1024-30mm-1.webp",
         slider: ["elevator-encoder-1024-30mm-1"],
         meta_title: "Buy Elevator Encoder 1024 30mm for Lift Systems | UAE",
         meta_description:
@@ -6531,7 +6531,7 @@ export const products = [
         description: "Encoder 1024 35mm",
         code: "BS-EN0008",
         url: "/encoders/encoder-1024-35mm",
-        image: "/img/products/encoders/encoder-1024-35mm/elevator-encoder-1024-35mm-1.jpg",
+        image: "/img/products/encoders/encoder-1024-35mm/elevator-encoder-1024-35mm-1.webp",
         slider: ["elevator-encoder-1024-35mm-1", "elevator-encoder-1024-35mm-2"],
         meta_title: "Buy Elevator Encoder 1024 35mm for Lift Systems in UAE",
         meta_description:
@@ -6550,7 +6550,7 @@ export const products = [
         description: "Encoder 1024 40mm",
         code: "BS-EN0009",
         url: "/encoders/encoder-1024-40mm",
-        image: "/img/products/encoders/encoder-1024-40mm/elevator-encoder-1024-40mm-1.jpg",
+        image: "/img/products/encoders/encoder-1024-40mm/elevator-encoder-1024-40mm-1.webp",
         slider: ["elevator-encoder-1024-40mm-1", "elevator-encoder-1024-40mm-2"],
         meta_title: "Elevator Encoder 1024 40mm for Lift Control Systems | UAE",
         meta_description:
@@ -6569,7 +6569,7 @@ export const products = [
         description: "Encoder 1024 45mm",
         code: "BS-EN0010",
         url: "/encoders/encoder-1024-45mm",
-        image: "/img/products/encoders/encoder-1024-45mm/elevator-encoder-1024-45mm-1.jpg",
+        image: "/img/products/encoders/encoder-1024-45mm/elevator-encoder-1024-45mm-1.webp",
         slider: ["elevator-encoder-1024-45mm-1", "elevator-encoder-1024-45mm-2"],
         meta_title: "Elevator Encoder 1024 45mm for Lift Systems in UAE",
         meta_description:
@@ -6588,7 +6588,7 @@ export const products = [
         description: "PG card MCTC-PG-E",
         code: "BS-EN0011",
         url: "/encoders/encoder-pg-card-mctc-pg-e",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e/elevator-encoder-pg-card-mctc-pg-e-1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e/elevator-encoder-pg-card-mctc-pg-e-1.webp",
         slider: ["elevator-encoder-pg-card-mctc-pg-e-1", "elevator-encoder-pg-card-mctc-pg-e-2"],
         meta_title: "Elevator Encoder PG Card MCTC-PG-E for Lift Systems | UAE",
         meta_description:
@@ -6607,7 +6607,7 @@ export const products = [
         description: "PG card MCTC-PG-A2",
         code: "BS-EN0012",
         url: "/encoders/encoder-pg-card-mctc-pg-a2",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-a2/elevator-encoder-pg-card-mctc-pg-a2-1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-a2/elevator-encoder-pg-card-mctc-pg-a2-1.webp",
         slider: ["elevator-encoder-pg-card-mctc-pg-a2-1", "elevator-encoder-pg-card-mctc-pg-a2-2"],
         meta_title:
           "Elevator Encoder PG Card MCTC PG A2 for Lift Systems | UAE",
@@ -6627,7 +6627,7 @@ export const products = [
         description: "ECN 1313 encoder with 7M cable",
         code: "BS-EN0013",
         url: "/encoders/ecn-1313-encoder-with-7m-cable",
-        image: "/img/products/encoders/ecn-1313-encoder-with-7m-cable/elevator-ecn-1313-encoder-with-7m-cable-1.jpg",
+        image: "/img/products/encoders/ecn-1313-encoder-with-7m-cable/elevator-ecn-1313-encoder-with-7m-cable-1.webp",
         slider: ["elevator-ecn-1313-encoder-with-7m-cable-1", "elevator-ecn-1313-encoder-with-7m-cable-2"],
         meta_title: "ECN 1313 Encoder 7m Cable for Elevator Systems | UAE",
         meta_description:
@@ -6646,7 +6646,7 @@ export const products = [
         description: "Encoder ERN 1387",
         code: "BS-EN0014",
         url: "/encoders/encoder-ern-1387",
-        image: "/img/products/encoders/encoder-ern-1387/elevator-encoder-ern-1387-1.jpg",
+        image: "/img/products/encoders/encoder-ern-1387/elevator-encoder-ern-1387-1.webp",
         slider: ["elevator-encoder-ern-1387-1", "elevator-encoder-ern-1387-2"],
         meta_title: "Elevator Encoder ERN 1387 for Lift Systems in UAE",
         meta_description:
@@ -6665,7 +6665,7 @@ export const products = [
         description: "TKE HENGSTLER 0541419",
         code: "BS-EN0015",
         url: "/encoders/hengstler-0541419-rotary-encoder",
-        image: "/img/products/encoders/hengstler-0541419-rotary-encoder/elevator-hengstler-0541419-rotary-encoder-1.jpg",
+        image: "/img/products/encoders/hengstler-0541419-rotary-encoder/elevator-hengstler-0541419-rotary-encoder-1.webp",
         slider: ["elevator-hengstler-0541419-rotary-encoder-1", "elevator-hengstler-0541419-rotary-encoder-2"],
         canonical:
           "https://www.bestechparts.ae/products/encoders/hengstler-0541419-rotary-encoder",
@@ -6677,7 +6677,7 @@ export const products = [
         description: "Arkel: ENCABIT",
         code: "BS-EN0016",
         url: "/encoders/encabit-plus-module-pg-card",
-        image: "/img/products/encoders/encabit-plus-module-pg-card/elevator-encabit-plus-module-pg-card-1.jpg",
+        image: "/img/products/encoders/encabit-plus-module-pg-card/elevator-encabit-plus-module-pg-card-1.webp",
         slider: ["elevator-encabit-plus-module-pg-card-1", "elevator-encabit-plus-module-pg-card-2"],
         canonical:
           "https://www.bestechparts.ae/products/encoders/encabit-plus-module-pg-card",
@@ -6689,7 +6689,7 @@ export const products = [
         description: "Encoder PG card: MCTC-PG-E6",
         code: "BS-EN0017",
         url: "/encoders/encoder-pg-card-mctc-pg-e6",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e6/elevator-encoder-pg-card-mctc-pg-e6-1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-e6/elevator-encoder-pg-card-mctc-pg-e6-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-e6",
         robots:
@@ -6700,7 +6700,7 @@ export const products = [
         description: "Encoder PG card: MCTC-PG-D",
         code: "BS-EN0018",
         url: "/encoders/encoder-pg-card-mctc-pg-d",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-d/elevator-encoder-pg-card-mctc-pg-d-1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-d/elevator-encoder-pg-card-mctc-pg-d-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-d",
         robots:
@@ -6711,7 +6711,7 @@ export const products = [
         description: "Encoder PG card: MCTC-PG-F",
         code: "BS-EN0019",
         url: "/encoders/encoder-pg-card-mctc-pg-f",
-        image: "/img/products/encoders/encoder-pg-card-mctc-pg-f/elevator-encoder-pg-card-mctc-pg-f-1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-mctc-pg-f/elevator-encoder-pg-card-mctc-pg-f-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-pg-card-mctc-pg-f",
         robots:
@@ -6722,7 +6722,7 @@ export const products = [
         description: "LS ROTARY ENCODER H-40-8-1024VL",
         code: "BS-EN0020",
         url: "/encoders/rotary-encoder-h-40-8-1024vl",
-        image: "/img/products/encoders/rotary-encoder-h-40-8-1024vl/elevator-rotary-encoder-h-40-8-1024vl-1.jpg",
+        image: "/img/products/encoders/rotary-encoder-h-40-8-1024vl/elevator-rotary-encoder-h-40-8-1024vl-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/encoders/rotary-encoder-h-40-8-1024vl",
         robots:
@@ -6733,7 +6733,7 @@ export const products = [
         description: "Encoder cable open terminals",
         code: "BS-EN0021",
         url: "/encoders/7m-cable-for-1313-encoder",
-        image: "/img/products/encoders/7m-cable-for-1313-encoder/elevator-7m-cable-for-1313-encoder-1.jpg",
+        image: "/img/products/encoders/7m-cable-for-1313-encoder/elevator-7m-cable-for-1313-encoder-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/encoders/7m-cable-for-1313-encoder",
         robots:
@@ -6744,7 +6744,7 @@ export const products = [
         description: "Encoder cable open terminals",
         code: "BS-EN0022",
         url: "/encoders/7m-cable-for-1387-encoder",
-        image: "/img/products/encoders/7m-cable-for-1387-encoder/elevator-7m-cable-for-1387-encoder-1.jpg",
+        image: "/img/products/encoders/7m-cable-for-1387-encoder/elevator-7m-cable-for-1387-encoder-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/encoders/7m-cable-for-1387-encoder",
         robots:
@@ -6755,7 +6755,7 @@ export const products = [
         description: "Penon H40-8-2500UL",
         code: "BS-EN0023",
         url: "/encoders/encoder-h40-8-2500ul",
-        image: "/img/products/encoders/encoder-h40-8-2500ul/elevator-encoder-h40-8-2500ul-1.jpg",
+        image: "/img/products/encoders/encoder-h40-8-2500ul/elevator-encoder-h40-8-2500ul-1.webp",
         slider: ["elevator-encoder-h40-8-2500ul-1", "elevator-encoder-h40-8-2500ul-2"],
         canonical:
           "https://www.bestechparts.ae/products/encoders/encoder-h40-8-2500ul",
@@ -6767,7 +6767,7 @@ export const products = [
         description: "Arkel: ENCA Encoder board",
         code: "BS-EN0024",
         url: "/encoders/enca-encoder-board",
-        image: "/img/products/encoders/enca-encoder-board/elevator-enca-encoder-board-1.jpg",
+        image: "/img/products/encoders/enca-encoder-board/elevator-enca-encoder-board-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/encoders/enca-encoder-board",
         robots:
@@ -6778,7 +6778,7 @@ export const products = [
         description: "1387 Encoder cable 20M with shield",
         code: "BS-EN0025",
         url: "/encoders/1387-encoder-cable-20m",
-        image: "/img/products/encoders/1387-encoder-cable-20m/elevator-1387-encoder-cable-20m-1.jpg",
+        image: "/img/products/encoders/1387-encoder-cable-20m/elevator-1387-encoder-cable-20m-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/encoders/1387-encoder-cable-20m",
         robots:
@@ -6789,7 +6789,7 @@ export const products = [
         description: "Mitsubishi Elevator Encoder X65AC11",
         code: "BS-EN0026",
         url: "/encoders/elevator-encoder-x65ac11-512-45mm",
-        image: "/img/products/encoders/elevator-encoder-x65ac11-512-45mm/elevator-encoder-x65ac11-512-45mm-1.jpg",
+        image: "/img/products/encoders/elevator-encoder-x65ac11-512-45mm/elevator-encoder-x65ac11-512-45mm-1.webp",
         slider: ["elevator-encoder-x65ac11-512-45mm-1", "elevator-encoder-x65ac11-512-45mm-2"],
         canonical:
           "https://www.bestechparts.ae/products/encoders/elevator-encoder-x65ac11-512-45mm",
@@ -6801,7 +6801,7 @@ export const products = [
         description: "STEP PG Card - AS380 AS.T024",
         code: "BS-EN0027",
         url: "/encoders/step-pg-card-as380-as-t024",
-        image: "/img/products/encoders/step-pg-card-as380-as-t024/elevator-spareparts-step-pg-card-as380-as-t024-1.jpg",
+        image: "/img/products/encoders/step-pg-card-as380-as-t024/elevator-spareparts-step-pg-card-as380-as-t024-1.webp",
         alttxt: "STEP PG Card - AS380 AS.T024 Elevator spare parts",
         slider: [
           "elevator-spareparts-step-pg-card-as380-as-t024-1"
@@ -6814,7 +6814,7 @@ export const products = [
         description: "ECN 1313 7M Cable (Close)",
         code: "BS-EN0028",
         url: "/encoders/ecn-1313-7m-cable-close",
-        image: "/img/products/encoders/ecn-1313-7m-cable-close/elevator-spareparts-ecn-1313-7m-cable-close-1.jpg",
+        image: "/img/products/encoders/ecn-1313-7m-cable-close/elevator-spareparts-ecn-1313-7m-cable-close-1.webp",
         alttxt: "ECN 1313 7M Cable (Close) Elevator spare parts",
         slider: [
           "elevator-spareparts-ecn-1313-7m-cable-close-1"
@@ -6827,7 +6827,7 @@ export const products = [
         description: "Encoder PG-X3",
         code: "BS-EN0029",
         url: "/encoders/encoder-pg-x3",
-        image: "/img/products/encoders/encoder-pg-x3/elevator-spareparts-encoder-pg-x3-1.jpg",
+        image: "/img/products/encoders/encoder-pg-x3/elevator-spareparts-encoder-pg-x3-1.webp",
         alttxt: "Encoder PG-X3 Elevator spare parts",
         slider: [
           "elevator-spareparts-encoder-pg-x3-1"
@@ -6840,7 +6840,7 @@ export const products = [
         description: "Encoder PG-B3",
         code: "BS-EN0030",
         url: "/encoders/encoder-pg-b3",
-        image: "/img/products/encoders/encoder-pg-b3/elevator-spareparts-encoder-pg-b3-1.jpg",
+        image: "/img/products/encoders/encoder-pg-b3/elevator-spareparts-encoder-pg-b3-1.webp",
         alttxt: "Encoder PG-B3 Elevator spare parts",
         slider: [
           "elevator-spareparts-encoder-pg-b3-1"
@@ -6853,7 +6853,7 @@ export const products = [
         description: "Encoder PG-F3",
         code: "BS-EN0031",
         url: "/encoders/encoder-pg-f3",
-        image: "/img/products/encoders/encoder-pg-f3/elevator-spareparts-encoder-pg-f3-1.jpg",
+        image: "/img/products/encoders/encoder-pg-f3/elevator-spareparts-encoder-pg-f3-1.webp",
         alttxt: "Encoder PG-F3 Elevator spare parts",
         slider: [
           "elevator-spareparts-encoder-pg-f3-1"
@@ -6866,7 +6866,7 @@ export const products = [
         description: "Encoder PG-CARD AS.L06/U.01",
         code: "BS-EN0032",
         url: "/encoders/encoder-pg-card-as-l06-u-01",
-        image: "/img/products/encoders/encoder-pg-card-as-l06-u-01/elevator-spareparts-encoder-pg-card-as-l06-u-01-1.jpg",
+        image: "/img/products/encoders/encoder-pg-card-as-l06-u-01/elevator-spareparts-encoder-pg-card-as-l06-u-01-1.webp",
         alttxt: "Encoder PG-CARD AS.L06/U.01 Elevator spare parts",
         slider: [
           "elevator-spareparts-encoder-pg-card-as-l06-u-01-1"
@@ -6879,7 +6879,7 @@ export const products = [
         description: "Tachogenerator - GTF7.16L/460",
         code: "BS-EN0033",
         url: "/encoders/tachogenerator-gtf7-16l-460",
-        image: "/img/products/encoders/tachogenerator-gtf7-16l-460/elevator-spareparts-tachogenerator-gtf7-16l-460-1.jpg",
+        image: "/img/products/encoders/tachogenerator-gtf7-16l-460/elevator-spareparts-tachogenerator-gtf7-16l-460-1.webp",
         alttxt: "Tachogenerator - GTF7.16L/460 Elevator spare parts",
         slider: [
           "elevator-spareparts-tachogenerator-gtf7-16l-460-1"
@@ -6916,7 +6916,7 @@ export const products = [
         description: "NICE-L-C-4007",
         code: "BS-IN0001",
         url: "/inverters/inverter-7-5kw-nice-l-c-4007",
-        image: "/img/products/inverters/inverter-7-5kw-nice-l-c-4007/elevator-inverter-7-5kw-nice-l-c-4007-3.jpg",
+        image: "/img/products/inverters/inverter-7-5kw-nice-l-c-4007/elevator-inverter-7-5kw-nice-l-c-4007-3.webp",
         slider: ["elevator-inverter-7-5kw-nice-l-c-4007-3", "elevator-inverter-7-5kw-nice-l-c-4007-2", "elevator-inverter-7-5kw-nice-l-c-4007-1"],
         meta_title:
           "Monarch Elevator Inverter 7.5KW NICE-L-C-4007 for Lift Control UAE",
@@ -6936,7 +6936,7 @@ export const products = [
         description: "NICE-L-C-4011",
         code: "BS-IN0002",
         url: "/inverters/inverter-11kw-nice-l-c-4011",
-        image: "/img/products/inverters/inverter-11kw-nice-l-c-4011/elevator-inverter-11kw-nice-l-c-4011-3.jpg",
+        image: "/img/products/inverters/inverter-11kw-nice-l-c-4011/elevator-inverter-11kw-nice-l-c-4011-3.webp",
         slider: ["elevator-inverter-11kw-nice-l-c-4011-3", "elevator-inverter-11kw-nice-l-c-4011-2", "elevator-inverter-11kw-nice-l-c-4011-1"],
         meta_title:
           "Monarch Elevator Inverter 11KW NICE-L-C-4011 | Dubai Spare Parts",
@@ -6956,7 +6956,7 @@ export const products = [
         description: "NICE-L-C-4015",
         code: "BS-IN0003",
         url: "/inverters/inverter-15kw-nice-l-c-4015",
-        image: "/img/products/inverters/inverter-15kw-nice-l-c-4015/elevator-inverter-15kw-nice-l-c-4015-3.jpg",
+        image: "/img/products/inverters/inverter-15kw-nice-l-c-4015/elevator-inverter-15kw-nice-l-c-4015-3.webp",
         slider: ["elevator-inverter-15kw-nice-l-c-4015-3", "elevator-inverter-15kw-nice-l-c-4015-2", "elevator-inverter-15kw-nice-l-c-4015-1"],
         meta_title:
           "Monarch Elevator Inverter 15KW NICE-L-C-4015 Supply | Sharjah",
@@ -6976,7 +6976,7 @@ export const products = [
         description: "NICE-L-C-4018",
         code: "BS-IN0004",
         url: "/inverters/inverter-18kw-nice-l-c-4018",
-        image: "/img/products/inverters/inverter-18kw-nice-l-c-4018/elevator-inverter-18kw-nice-l-c-4018-3.jpg",
+        image: "/img/products/inverters/inverter-18kw-nice-l-c-4018/elevator-inverter-18kw-nice-l-c-4018-3.webp",
         slider: ["elevator-inverter-18kw-nice-l-c-4018-3", "elevator-inverter-18kw-nice-l-c-4018-2", "elevator-inverter-18kw-nice-l-c-4018-1"],
         meta_title:
           "Monarch Elevator Inverter 18KW NICE-L-C-4018 Power Supply, UAE",
@@ -6996,7 +6996,7 @@ export const products = [
         description: "NICE-L-C-4022",
         code: "BS-IN0005",
         url: "/inverters/inverter-22kw-nice-l-c-4022",
-        image: "/img/products/inverters/inverter-22kw-nice-l-c-4022/elevator-inverter-22kw-nice-l-c-4022-3.jpg",
+        image: "/img/products/inverters/inverter-22kw-nice-l-c-4022/elevator-inverter-22kw-nice-l-c-4022-3.webp",
         slider: ["elevator-inverter-22kw-nice-l-c-4022-3", "elevator-inverter-22kw-nice-l-c-4022-2", "elevator-inverter-22kw-nice-l-c-4022-1"],
         meta_title:
           "Monarch Elevator Inverter 22KW NICE-L-C-4022 Parts in Dubai",
@@ -7016,7 +7016,7 @@ export const products = [
         description: "AS380",
         code: "BS-IN0006",
         url: "/inverters/inverter-11kw-as380",
-        image: "/img/products/inverters/inverter-11kw-as380/elevator-inverter-11kw-as380-3.jpg",
+        image: "/img/products/inverters/inverter-11kw-as380/elevator-inverter-11kw-as380-3.webp",
         slider: ["elevator-inverter-11kw-as380-3", "elevator-inverter-11kw-as380-2", "elevator-inverter-11kw-as380-1"],
         meta_title:
           "Elevator Inverter 11KW AS380 High-Performance Lift Drives, UAE",
@@ -7036,7 +7036,7 @@ export const products = [
         description: "Type:NICE-L-C-4005",
         code: "BS-IN0007",
         url: "/inverters/inverter-5-5kw-nice-l-c",
-        image: "/img/products/inverters/inverter-5-5kw-nice-l-c/elevator-inverter-5-5kw-nice-l-c-1.jpg",
+        image: "/img/products/inverters/inverter-5-5kw-nice-l-c/elevator-inverter-5-5kw-nice-l-c-1.webp",
         slider: ["elevator-inverter-5-5kw-nice-l-c-1", "elevator-inverter-5-5kw-nice-l-c-2"],
         canonical:
           "https://www.bestechparts.ae/products/inverters/inverter-5-5kw-nice-l-c",
@@ -7048,7 +7048,7 @@ export const products = [
         description: "NICE-L-C-4030 30KW",
         code: "BS-IN0008",
         url: "/inverters/nice-l-c-4030-30kw",
-        image: "/img/products/inverters/nice-l-c-4030-30kw/elevator-nice-l-c-4030-30kw-1.jpg",
+        image: "/img/products/inverters/nice-l-c-4030-30kw/elevator-nice-l-c-4030-30kw-1.webp",
         slider: ["elevator-nice-l-c-4030-30kw-1", "elevator-nice-l-c-4030-30kw-2"],
         canonical:
           "https://www.bestechparts.ae/products/inverters/nice-l-c-4030-30kw",
@@ -7060,7 +7060,7 @@ export const products = [
         description: "NICE-L-C-4045 45KW",
         code: "BS-IN0009",
         url: "/inverters/nice-l-c-4045-45kw",
-        image: "/img/products/inverters/nice-l-c-4045-45kw/elevator-nice-l-c-4045-45kw-1.jpg",
+        image: "/img/products/inverters/nice-l-c-4045-45kw/elevator-nice-l-c-4045-45kw-1.webp",
         slider: ["elevator-nice-l-c-4045-45kw-1", "elevator-nice-l-c-4045-45kw-2"],
         canonical:
           "https://www.bestechparts.ae/products/inverters/nice-l-c-4045-45kw",
@@ -7072,7 +7072,7 @@ export const products = [
         description: "Kone Monospace KDL16L 12A 400V",
         code: "BS-IN0010",
         url: "/inverters/monospace-kdl-16l",
-        image: "/img/products/inverters/monospace-kdl-16l/elevator-monospace-kdl-16l-1.jpg",
+        image: "/img/products/inverters/monospace-kdl-16l/elevator-monospace-kdl-16l-1.webp",
         slider: ["elevator-monospace-kdl-16l-1", "elevator-monospace-kdl-16l-2", "elevator-monospace-kdl-16l-3", "elevator-monospace-kdl-16l-4"],
         canonical:
           "https://www.bestechparts.ae/products/inverters/monospace-kdl-16l",
@@ -7085,7 +7085,7 @@ export const products = [
         code: "BS-IN0011",
         url: "/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
         image:
-          "/img/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw/elevator-delta-vfd-inverter-vfd022e43a-2-2kw-1.jpg",
+          "/img/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw/elevator-delta-vfd-inverter-vfd022e43a-2-2kw-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/inverters/delta-vfd-inverter-vfd022e43a-2-2kw",
         robots:
@@ -7096,7 +7096,7 @@ export const products = [
         description: "Inverter ME320LN-4011-SA 11KW",
         code: "BS-IN0012",
         url: "/inverters/inverter-me320ln-4011-sa-11kw",
-        image: "/img/products/inverters/inverter-me320ln-4011-sa-11kw/elevator-spareparts-inverter-me320ln-4011-sa-11kw-1.jpg",
+        image: "/img/products/inverters/inverter-me320ln-4011-sa-11kw/elevator-spareparts-inverter-me320ln-4011-sa-11kw-1.webp",
         alttext: "Inverter ME320LN-4011-SA 11KW Elevator Spare Parts",
         canonical: "https://www.bestechparts.ae/products/inverters/inverter-me320ln-4011-sa-11kw",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -7123,7 +7123,7 @@ export const products = [
         description: "ARD-4007-3P",
         code: "BS-AR0001",
         url: "/ard/ard-7kw-ard-4007-3p",
-        image: "/img/products/ard/ard-7kw-ard-4007-3p/elevator-ard-7kw-ard-4007-3p-1.jpg",
+        image: "/img/products/ard/ard-7kw-ard-4007-3p/elevator-ard-7kw-ard-4007-3p-1.webp",
         slider: ["elevator-ard-7kw-ard-4007-3p-1", "elevator-ard-7kw-ard-4007-3p-2", "elevator-ard-7kw-ard-4007-3p-3", "elevator-ard-7kw-ard-4007-3p-4", "elevator-ard-7kw-ard-4007-3p-5"],
         canonical:
           "https://www.bestechparts.ae/products/ard/ard-7kw-ard-4007-3p",
@@ -7135,7 +7135,7 @@ export const products = [
         description: "ARD-4011-3P",
         code: "BS-AR0002",
         url: "/ard/ard-11kw-ard-4011-3p",
-        image: "/img/products/ard/ard-11kw-ard-4011-3p/elevator-ard-11kw-ard-4011-3p-2.jpg",
+        image: "/img/products/ard/ard-11kw-ard-4011-3p/elevator-ard-11kw-ard-4011-3p-2.webp",
         slider: ["elevator-ard-11kw-ard-4011-3p-2", "elevator-ard-11kw-ard-4011-3p-1", "elevator-ard-11kw-ard-4011-3p-3"],
         canonical:
           "https://www.bestechparts.ae/products/ard/ard-11kw-ard-4011-3p",
@@ -7147,7 +7147,7 @@ export const products = [
         description: "Type:ARD-4015-3P",
         code: "BS-AR0003",
         url: "/ard/ard-4015-3p",
-        image: "/img/products/ard/ard-4015-3p/elevator-ard-4015-3p-1.jpg",
+        image: "/img/products/ard/ard-4015-3p/elevator-ard-4015-3p-1.webp",
         slider: ["elevator-ard-4015-3p-1", "elevator-ard-4015-3p-2", "elevator-ard-4015-3p-3"],
         canonical: "https://www.bestechparts.ae/products/ard/ard-4015-3p",
         robots:
@@ -7158,7 +7158,7 @@ export const products = [
         description: "TMR ARD 3P-7.5KW 380V (TF)",
         code: "BS-AR0004",
         url: "/ard/tmr-ard-3p-7-5kw-380v-tf",
-        image: "/img/products/ard/ard-3p-75kw-380v-tf/elevator-ard-3p-75kw-380v-tf-1.jpg",
+        image: "/img/products/ard/ard-3p-75kw-380v-tf/elevator-ard-3p-75kw-380v-tf-1.webp",
         slider: ["elevator-ard-3p-75kw-380v-tf-1", "elevator-ard-3p-75kw-380v-tf-2"],
         canonical:
           "https://www.bestechparts.ae/products/ard/tmr-ard-3p-7-5kw-380v-tf",
@@ -7170,7 +7170,7 @@ export const products = [
         description: "TMR ARD 3P-11KW 380V (TF)",
         code: "BS-AR0005",
         url: "/ard/tmr-ard-3p-11kw-380v-tf",
-        image: "/img/products/ard/ard-3p-11kw-380v-tf/elevator-ard-3p-11kw-380v-tf-1.jpg",
+        image: "/img/products/ard/ard-3p-11kw-380v-tf/elevator-ard-3p-11kw-380v-tf-1.webp",
         slider: ["elevator-ard-3p-11kw-380v-tf-1", "elevator-ard-3p-11kw-380v-tf-2"],
         canonical:
           "https://www.bestechparts.ae/products/ard/tmr-ard-3p-11kw-380v-tf",
@@ -7182,7 +7182,7 @@ export const products = [
         description: "HH ARD 3P-15KW 380V (TF)",
         code: "BS-AR0006",
         url: "/ard/hh-ard-3p-15kw-380v-tf",
-        image: "/img/products/ard/ard-3p-15kw-380v-tf/elevator-ard-3p-15kw-380v-tf-1.jpg",
+        image: "/img/products/ard/ard-3p-15kw-380v-tf/elevator-ard-3p-15kw-380v-tf-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-15kw-380v-tf",
         robots:
@@ -7193,7 +7193,7 @@ export const products = [
         description: "TMR ARD 3P-18KW 380V (TF)",
         code: "BS-AR0007",
         url: "/ard/tmr-ard-3p-18kw-380v-tf",
-        image: "/img/products/ard/tmr-ard-3p-18kw-380v-tf/elevator-tmr-ard-3p-18kw-380v-tf-1.jpg",
+        image: "/img/products/ard/tmr-ard-3p-18kw-380v-tf/elevator-tmr-ard-3p-18kw-380v-tf-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/ard/tmr-ard-3p-18kw-380v-tf",
         robots:
@@ -7204,7 +7204,7 @@ export const products = [
         description: "HH ARD 3P-22KW 380V (TF)",
         code: "BS-AR0008",
         url: "/ard/hh-ard-3p-22kw-380v-tf",
-        image: "/img/products/ard/ard-3p-22kw-380v-tf/elevator-ard-3p-22kw-380v-tf-1.jpg",
+        image: "/img/products/ard/ard-3p-22kw-380v-tf/elevator-ard-3p-22kw-380v-tf-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-22kw-380v-tf",
         robots:
@@ -7215,7 +7215,7 @@ export const products = [
         description: "HH ARD 3P-30KW 380V (TF)",
         code: "BS-AR0009",
         url: "/ard/hh-ard-3p-30kw-380v-tf",
-        image: "/img/products/ard/ard-3p-30kw-380v-tf/elevator-ard-3p-30kw-380v-tf-1.jpg",
+        image: "/img/products/ard/ard-3p-30kw-380v-tf/elevator-ard-3p-30kw-380v-tf-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-30kw-380v-tf",
         robots:
@@ -7226,7 +7226,7 @@ export const products = [
         description: "HH ARD 3P-37KW 380V (TF)",
         code: "BS-AR0010",
         url: "/ard/hh-ard-3p-37kw-380v-tf",
-        image: "/img/products/ard/ard-3p-37kw-380v-tf/elevator-ard-3p-37kw-380v-tf-1.jpg",
+        image: "/img/products/ard/ard-3p-37kw-380v-tf/elevator-ard-3p-37kw-380v-tf-1.webp",
 
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-37kw-380v-tf",
@@ -7238,7 +7238,7 @@ export const products = [
         description: "HH ARD 3P-45KW 380V (TF)",
         code: "BS-AR0011",
         url: "/ard/hh-ard-3p-45kw-380v-tf",
-        image: "/img/products/ard/ard-3p-45kw-380v-tf/elevator-ard-3p-45kw-380v-tf-1.jpg",
+        image: "/img/products/ard/ard-3p-45kw-380v-tf/elevator-ard-3p-45kw-380v-tf-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/ard/hh-ard-3p-45kw-380v-tf",
         robots:
@@ -7249,7 +7249,7 @@ export const products = [
         description: "Battey 12V 7AH",
         code: "BS-AR0012",
         url: "/ard/battery-12v-7ah",
-        image: "/img/products/ard/battery-12v-7ah/elevator-battery-12v-7ah-1.jpg",
+        image: "/img/products/ard/battery-12v-7ah/elevator-battery-12v-7ah-1.webp",
         canonical: "https://www.bestechparts.ae/products/ard/battery-12v-7ah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7259,7 +7259,7 @@ export const products = [
         description: "Battery 12V 9AH",
         code: "BS-AR0013",
         url: "/ard/battery-12v-9ah",
-        image: "/img/products/ard/battery-12v-9ah/elevator-battery-12v-9ah-1.jpg",
+        image: "/img/products/ard/battery-12v-9ah/elevator-battery-12v-9ah-1.webp",
         canonical: "https://www.bestechparts.ae/products/ard/battery-12v-9ah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7269,7 +7269,7 @@ export const products = [
         description: "Battery 12V 12AH",
         code: "BS-AR0014",
         url: "/ard/battery-12v-12ah",
-        image: "/img/products/ard/battery-12v-12ah/elevator-battery-12v-12ah-1.jpg",
+        image: "/img/products/ard/battery-12v-12ah/elevator-battery-12v-12ah-1.webp",
         canonical: "https://www.bestechparts.ae/products/ard/battery-12v-12ah",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7279,7 +7279,7 @@ export const products = [
         description: "UPS 1500VA 900W",
         code: "BS-AR0015",
         url: "/ard/ups-1500va-900w",
-        image: "/img/products/ard/ups-1500va-900w/elevator-ups-1500va-900w-1.jpg",
+        image: "/img/products/ard/ups-1500va-900w/elevator-ups-1500va-900w-1.webp",
         slider: ["elevator-ups-1500va-900w-1", "elevator-ups-1500va-900w-2"],
         canonical: "https://www.bestechparts.ae/products/ard/ups-1500va-900w",
         robots:
@@ -7290,7 +7290,7 @@ export const products = [
         description: "TMR-ARD-3P-15KW",
         code: "BS-AR0016",
         url: "/ard/tmr-ard-3p-15kw",
-        image: "/img/products/ard/tmr-ard-3p-15kw/elevator-tmr-ard-3p-15kw-1.jpg",
+        image: "/img/products/ard/tmr-ard-3p-15kw/elevator-tmr-ard-3p-15kw-1.webp",
         canonical: "https://www.bestechparts.ae/products/ard/tmr-ard-3p-15kw",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7300,7 +7300,7 @@ export const products = [
         description: "TMR-ARD-3P-45KW",
         code: "BS-AR0017",
         url: "/ard/tmr-ard-3p-45kw",
-        image: "/img/products/ard/tmr-ard-3p-45kw/elevator-tmr-ard-3p-45kw-1.jpg",
+        image: "/img/products/ard/tmr-ard-3p-45kw/elevator-tmr-ard-3p-45kw-1.webp",
         canonical: "https://www.bestechparts.ae/products/ard/tmr-ard-3p-45kw",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -7310,7 +7310,7 @@ export const products = [
         description: "HH-ARD-18.5KW",
         code: "BS-AR0018",
         url: "/ard/hh-ard-18.5kw",
-        image: "/img/products/ard/hh-ard-18.5kw/elevator-hh-ard-18.5kw-1.jpg",
+        image: "/img/products/ard/hh-ard-18.5kw/elevator-hh-ard-18.5kw-1.webp",
         slider: ["elevator-hh-ard-18.5kw-1", "elevator-hh-ard-18.5kw-2"],
         canonical: "https://www.bestechparts.ae/products/ard/hh-ard-18.5kw",
         robots:
@@ -7321,7 +7321,7 @@ export const products = [
         description: "Inovance ARD 3P 7.5KW",
         code: "BS-AR0019",
         url: "/ard/inovance-ard-3p-7.5kw",
-        image: "/img/products/ard/inovance-ard-3p-7.5kw/elevator-inovance-ard-3p-7.5kw-1.jpg",
+        image: "/img/products/ard/inovance-ard-3p-7.5kw/elevator-inovance-ard-3p-7.5kw-1.webp",
         slider: ["elevator-inovance-ard-3p-7.5kw-1", "elevator-inovance-ard-3p-7.5kw-2", "elevator-inovance-ard-3p-7.5kw-3"],
         canonical:
           "https://www.bestechparts.ae/products/ard/inovance-ard-3p-7.5kw",
@@ -7333,7 +7333,7 @@ export const products = [
         description: "Rescue Device MCTC-ERB-A1",
         code: "BS-AR0020",
         url: "/ard/rescue-device-mctc-erb-a1",
-        image: "/img/products/ard/rescue-device-mctc-erb-a1/elevator-spareparts-rescue-device-mctc-erb-a1-1.jpg",
+        image: "/img/products/ard/rescue-device-mctc-erb-a1/elevator-spareparts-rescue-device-mctc-erb-a1-1.webp",
         alttext: "Rescue Device MCTC-ERB-A1 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-rescue-device-mctc-erb-a1-1"
@@ -7363,7 +7363,7 @@ export const products = [
         description: "NICE-D-A-SP04",
         code: "BS-DD0001",
         url: "/door-drives-and-motors/door-drive-bs-dd0001",
-        image: "/img/products/door-drives/door-drive-bs-dd0001/elevator-door-drive-bs-dd0001-1.jpg",
+        image: "/img/products/door-drives/door-drive-bs-dd0001/elevator-door-drive-bs-dd0001-1.webp",
         slider: ["elevator-door-drive-bs-dd0001-1", "elevator-door-drive-bs-dd0001-2", "elevator-door-drive-bs-dd0001-3"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0001",
@@ -7375,7 +7375,7 @@ export const products = [
         description: "AAD03011DK",
         code: "BS-DD0002",
         url: "/door-drives-and-motors/door-drive-bs-dd0002",
-        image: "/img/products/door-drives/door-drive-bs-dd0002/elevator-door-drive-bs-dd0002-1.jpg",
+        image: "/img/products/door-drives/door-drive-bs-dd0002/elevator-door-drive-bs-dd0002-1.webp",
         slider: ["elevator-door-drive-bs-dd0002-1", "elevator-door-drive-bs-dd0002-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
@@ -7387,7 +7387,7 @@ export const products = [
         description: "HAS DC Door Drives and Motors: 24V",
         code: "BS-DD0003",
         url: "/door-drives-and-motors/dc-door-drive-24v",
-        image: "/img/product-default-img.jpg",
+        image: "/img/product-default-img.webp",
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-24v",
         robots:
@@ -7398,7 +7398,7 @@ export const products = [
         description: "DC Door Drives and Motors - DR2009C",
         code: "BS-DD0004",
         url: "/door-drives-and-motors/dc-door-drive-dr2009c-200w",
-        image: "/img/products/door-drives/dc-door-drive-dr2009c-200w/elevator-dc-door-drive-dr2009c-200w-1.jpg",
+        image: "/img/products/door-drives/dc-door-drive-dr2009c-200w/elevator-dc-door-drive-dr2009c-200w-1.webp",
         slider: ["elevator-dc-door-drive-dr2009c-200w-1", "elevator-dc-door-drive-dr2009c-200w-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/dc-door-drive-dr2009c-200w",
@@ -7411,7 +7411,7 @@ export const products = [
         code: "BS-DD0005",
         url: "/door-drives-and-motors/door-motor-with-encoder-pm61842",
         image:
-          "/img/products/door-drives/door-motor-with-encoder-pm61842/elevator-door-motor-with-encoder-pm61842-1.jpg",
+          "/img/products/door-drives/door-motor-with-encoder-pm61842/elevator-door-motor-with-encoder-pm61842-1.webp",
         slider: ["elevator-door-motor-with-encoder-pm61842-1", "elevator-door-motor-with-encoder-pm61842-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-bs-dd0002",
@@ -7423,7 +7423,7 @@ export const products = [
         description: "Arkel: KM-10S",
         code: "BS-DD0006",
         url: "/door-drives-and-motors/km-10s-door-controller-box",
-        image: "/img/products/door-drives/km-10s-door-controller-box/elevator-km-10s-door-controller-box-1.jpg",
+        image: "/img/products/door-drives/km-10s-door-controller-box/elevator-km-10s-door-controller-box-1.webp",
         slider: ["elevator-km-10s-door-controller-box-1", "elevator-km-10s-door-controller-box-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/km-10s-door-controller-box",
@@ -7435,7 +7435,7 @@ export const products = [
         description: "Fermator: V5+",
         code: "BS-DD0007",
         url: "/door-drives-and-motors/elevator-door-controller-v5",
-        image: "/img/products/door-drives/elevator-door-controller-v5/elevator-door-controller-v5-1.jpg",
+        image: "/img/products/door-drives/elevator-door-controller-v5/elevator-door-controller-v5-1.webp",
 
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-v5",
@@ -7448,7 +7448,7 @@ export const products = [
         code: "BS-DD0008",
         url: "/door-drives-and-motors/elevator-door-controller-do3000s",
         image:
-          "/img/products/door-drives/elevator-door-controller-do3000s/elevator-door-controller-do3000s-1.jpg",
+          "/img/products/door-drives/elevator-door-controller-do3000s/elevator-door-controller-do3000s-1.webp",
         slider: ["elevator-door-controller-do3000s-1", "elevator-door-controller-do3000s-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-controller-do3000s",
@@ -7460,7 +7460,7 @@ export const products = [
         description: "NBSL NSFC01-02",
         code: "BS-DD0009",
         url: "/door-drives-and-motors/door-drive-nsfc01-02",
-        image: "/img/products/door-drives/door-drive-nsfc01-02/elevator-door-drive-nsfc01-02-1.jpg",
+        image: "/img/products/door-drives/door-drive-nsfc01-02/elevator-door-drive-nsfc01-02-1.webp",
         slider: ["elevator-door-drive-nsfc01-02-1", "elevator-door-drive-nsfc01-02-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/door-drive-nsfc01-02",
@@ -7472,7 +7472,7 @@ export const products = [
         description: "Elevator Door Motor YVP90-6",
         code: "BS-DD0010",
         url: "/door-drives-and-motors/elevator-door-motor-yvp90-6",
-        image: "/img/products/door-drives/elevator-door-motor-yvp90-6/elevator-door-motor-yvp90-6-1.jpg",
+        image: "/img/products/door-drives/elevator-door-motor-yvp90-6/elevator-door-motor-yvp90-6-1.webp",
         slider: ["elevator-door-motor-yvp90-6-1", "elevator-door-motor-yvp90-6-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6",
@@ -7484,7 +7484,7 @@ export const products = [
         description: "Elevator Door Motor YVP90-6B1",
         code: "BS-DD0011",
         url: "/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
-        image: "/img/products/door-drives/elevator-door-motor-yvp90-6b1/elevator-door-motor-yvp90-6b1-1.jpg",
+        image: "/img/products/door-drives/elevator-door-motor-yvp90-6b1/elevator-door-motor-yvp90-6b1-1.webp",
         slider: ["elevator-door-motor-yvp90-6b1-1", "elevator-door-motor-yvp90-6b1-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
@@ -7497,7 +7497,7 @@ export const products = [
         code: "BS-DD0012",
         url: "/door-drives-and-motors/door-motor-gr63x55-24vdc-dunkermotoren",
         image:
-          "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/elevator-door-motor-gr63x55-24vdc-dunkermotoren-1.jpg",
+          "/img/products/door-drives/door-motor-gr63x55-24vdc-dunkermotoren/elevator-door-motor-gr63x55-24vdc-dunkermotoren-1.webp",
         slider: ["elevator-door-motor-gr63x55-24vdc-dunkermotoren-1", "elevator-door-motor-gr63x55-24vdc-dunkermotoren-2"],
         canonical:
           "https://www.bestechparts.ae/products/door-drives-and-motors/elevator-door-motor-yvp90-6b1",
@@ -7509,7 +7509,7 @@ export const products = [
         description: "Door Drive NICE-D-A-SOP7",
         code: "BS-DD0013",
         url: "/door-drives-and-motors/door-drive-nice-d-a-sop7",
-        image: "/img/products/door-drives/door-drive-nice-d-a-sop7/elevator-spareparts-door-drive-nice-d-a-sop7-1.jpg",
+        image: "/img/products/door-drives/door-drive-nice-d-a-sop7/elevator-spareparts-door-drive-nice-d-a-sop7-1.webp",
         alttext: "Door Drive NICE-D-A-SOP7 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-door-drive-nice-d-a-sop7-1"
@@ -7522,7 +7522,7 @@ export const products = [
         description: "Door Motor AT120 FAA24350BL2",
         code: "BS-DD0014",
         url: "/door-drives-and-motors/door-motor-at120-faa24350bl2",
-        image: "/img/products/door-drives/door-motor-at120-faa24350bl2/elevator-spareparts-door-motor-at120-faa24350bl2-1.jpg",
+        image: "/img/products/door-drives/door-motor-at120-faa24350bl2/elevator-spareparts-door-motor-at120-faa24350bl2-1.webp",
         alttext: "Door Motor AT120 FAA24350BL2 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-door-motor-at120-faa24350bl2-1"
@@ -7535,7 +7535,7 @@ export const products = [
         description: "Door Motor AT120 FAA24350BL2 C",
         code: "BS-DD0015",
         url: "/door-drives-and-motors/door-motor-at120-faa24350bl2-c",
-        image: "/img/products/door-drives/door-motor-at120-faa24350bl2-c/elevator-spareparts-door-motor-at120-faa24350bl2-c-1.jpg",
+        image: "/img/products/door-drives/door-motor-at120-faa24350bl2-c/elevator-spareparts-door-motor-at120-faa24350bl2-c-1.webp",
         alttext: "Door Motor AT120 FAA24350BL2 C Elevator Spare Parts",
         slider: [
           "elevator-spareparts-door-motor-at120-faa24350bl2-c-1",
@@ -7549,7 +7549,7 @@ export const products = [
         description: "AMD Door Drive Inverter KM606810G01",
         code: "BS-DD0016",
         url: "/door-drives-and-motors/amd-door-drive-inverter-km606810g01",
-        image: "/img/products/door-drives/amd-door-drive-inverter-km606810g01/elevator-spareparts-amd-door-drive-inverter-km606810g01-1.jpg",
+        image: "/img/products/door-drives/amd-door-drive-inverter-km606810g01/elevator-spareparts-amd-door-drive-inverter-km606810g01-1.webp",
         alttext: "AMD Door Drive Inverter KM606810G01 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-amd-door-drive-inverter-km606810g01-1",
@@ -7563,7 +7563,7 @@ export const products = [
         description: "Door Drive Motor KM601370G04",
         code: "BS-DD0017",
         url: "/door-drives-and-motors/door-drive-motor-km601370g04",
-        image: "/img/products/door-drives/door-drive-motor-km601370g04/elevator-spareparts-door-drive-motor-km601370g04-1.jpg",
+        image: "/img/products/door-drives/door-drive-motor-km601370g04/elevator-spareparts-door-drive-motor-km601370g04-1.webp",
         alttext: "Door Drive Motor KM601370G04 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-door-drive-motor-km601370g04-1",
@@ -7577,7 +7577,7 @@ export const products = [
         description: "Wittur ECO Door Coupler 1016499A01",
         code: "BS-DD0018",
         url: "/door-drives-and-motors/wittur-eco-door-coupler-1016499a01",
-        image: "/img/products/door-drives/wittur-eco-door-coupler-1016499a01/elevator-spareparts-wittur-eco-door-coupler-1016499a01-1.jpg",
+        image: "/img/products/door-drives/wittur-eco-door-coupler-1016499a01/elevator-spareparts-wittur-eco-door-coupler-1016499a01-1.webp",
         alttext: "Wittur ECO Door Coupler 1016499A01 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-wittur-eco-door-coupler-1016499a01-1"
@@ -7590,7 +7590,7 @@ export const products = [
         description: "Elevator Door Coupler OMS102",
         code: "BS-DD0019",
         url: "/door-drives-and-motors/elevator-door-coupler-oms102",
-        image: "/img/products/door-drives/elevator-door-coupler-oms102/elevator-spareparts-elevator-door-coupler-oms102-1.jpg",
+        image: "/img/products/door-drives/elevator-door-coupler-oms102/elevator-spareparts-elevator-door-coupler-oms102-1.webp",
         alttext: "Elevator Door Coupler OMS102 Elevator Spare Parts",
         slider: [
           "elevator-spareparts-elevator-door-coupler-oms102-1"
@@ -7620,7 +7620,7 @@ export const products = [
         description: "",
         code: "BS-SG0001",
         url: "/signalization/lop-up-and-down",
-        image: "/img/products/signalization/lop-up-and-down/elevator-lop-up-and-down-1.jpg",
+        image: "/img/products/signalization/lop-up-and-down/elevator-lop-up-and-down-1.webp",
         slider: ["elevator-lop-up-and-down-1", "elevator-lop-up-and-down-2", "elevator-lop-up-and-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-up-and-down",
@@ -7632,7 +7632,7 @@ export const products = [
         description: "",
         code: "BS-SG0002",
         url: "/signalization/lop-up-lock",
-        image: "/img/products/signalization/lop-up-lock/elevator-lop-up-lock-1.jpg",
+        image: "/img/products/signalization/lop-up-lock/elevator-lop-up-lock-1.webp",
         slider: ["elevator-lop-up-lock-1", "elevator-lop-up-lock-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-up-lock",
@@ -7644,7 +7644,7 @@ export const products = [
         description: "",
         code: "BS-SG0003",
         url: "/signalization/lop-down",
-        image: "/img/products/signalization/lop-down/elevator-lop-down-1.jpg",
+        image: "/img/products/signalization/lop-down/elevator-lop-down-1.webp",
         slider: ["elevator-lop-down-1", "elevator-lop-down-2", "elevator-lop-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/lop-down",
@@ -7656,7 +7656,7 @@ export const products = [
         description: "",
         code: "BS-SG0004",
         url: "/signalization/duplex-lop-up-and-down",
-        image: "/img/products/signalization/duplex-lop-up-and-down/elevator-duplex-lop-up-and-down-1.jpg",
+        image: "/img/products/signalization/duplex-lop-up-and-down/elevator-duplex-lop-up-and-down-1.webp",
         slider: ["elevator-duplex-lop-up-and-down-1", "elevator-duplex-lop-up-and-down-2", "elevator-duplex-lop-up-and-down-3"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-up-and-down",
@@ -7668,7 +7668,7 @@ export const products = [
         description: "",
         code: "BS-SG0005",
         url: "/signalization/duplex-lop-up-lock",
-        image: "/img/products/signalization/duplex-lop-up-lock/elevator-duplex-lop-up-lock-1.jpg",
+        image: "/img/products/signalization/duplex-lop-up-lock/elevator-duplex-lop-up-lock-1.webp",
         slider: ["elevator-duplex-lop-up-lock-1", "elevator-duplex-lop-up-lock-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-up-lock",
@@ -7680,7 +7680,7 @@ export const products = [
         description: "",
         code: "BS-SG0006",
         url: "/signalization/duplex-lop-down",
-        image: "/img/products/signalization/duplex-lop-down/elevator-duplex-lop-down-1.jpg",
+        image: "/img/products/signalization/duplex-lop-down/elevator-duplex-lop-down-1.webp",
         slider: ["elevator-duplex-lop-down-1", "elevator-duplex-lop-down-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-lop-down",
@@ -7692,7 +7692,7 @@ export const products = [
         description: "",
         code: "BS-SG0007",
         url: "/signalization/step-lop-set-up-lock",
-        image: "/img/products/signalization/step-lop-set-up-lock/elevator-step-lop-set-up-lock-1.jpg",
+        image: "/img/products/signalization/step-lop-set-up-lock/elevator-step-lop-set-up-lock-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/step-lop-set-up-lock",
         robots:
@@ -7703,7 +7703,7 @@ export const products = [
         description: "",
         code: "BS-SG0008",
         url: "/signalization/step-lop-set-up-down",
-        image: "/img/products/signalization/step-lop-set-up-down/elevator-step-lop-set-up-down-1.jpg",
+        image: "/img/products/signalization/step-lop-set-up-down/elevator-step-lop-set-up-down-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/step-lop-set-up-down",
         robots:
@@ -7714,7 +7714,7 @@ export const products = [
         description: "",
         code: "BS-SG0009",
         url: "/signalization/step-lop-set-down",
-        image: "/img/products/signalization/step-lop-set-down/elevator-step-lop-set-down-1.jpg",
+        image: "/img/products/signalization/step-lop-set-down/elevator-step-lop-set-down-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/step-lop-set-down",
         robots:
@@ -7725,7 +7725,7 @@ export const products = [
         description: "",
         code: "BS-SG0010",
         url: "/signalization/duplex-set-up-down",
-        image: "/img/products/signalization/duplex-set-up-down/elevator-duplex-set-up-down-1.jpg",
+        image: "/img/products/signalization/duplex-set-up-down/elevator-duplex-set-up-down-1.webp",
         slider: ["elevator-duplex-set-up-down-1", "elevator-duplex-set-up-down-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/duplex-set-up-down",
@@ -7737,7 +7737,7 @@ export const products = [
         description: "Monarch COP G+1",
         code: "BS-SG0011",
         url: "/signalization/cop-full-set-g-1",
-        image: "/img/products/signalization/cop-full-set-g-1/elevator-cop-full-set-g-1-1.jpg",
+        image: "/img/products/signalization/cop-full-set-g-1/elevator-cop-full-set-g-1-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/cop-full-set-g-1",
         robots:
@@ -7748,7 +7748,7 @@ export const products = [
         description: "Monarch COP G+3",
         code: "BS-SG0012",
         url: "/signalization/cop-full-set-g-3",
-        image: "/img/products/signalization/cop-full-set-g-3/elevator-cop-full-set-g-3-1.jpg",
+        image: "/img/products/signalization/cop-full-set-g-3/elevator-cop-full-set-g-3-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/cop-full-set-g-3",
         robots:
@@ -7759,7 +7759,7 @@ export const products = [
         description: "Mikrolift - SS LOP full set",
         code: "BS-SG0013",
         url: "/signalization/mikrolift-ss-lop-full-set",
-        image: "/img/products/signalization/mikrolift-ss-lop-full-set/elevator-mikrolift-ss-lop-full-set-1.jpg",
+        image: "/img/products/signalization/mikrolift-ss-lop-full-set/elevator-mikrolift-ss-lop-full-set-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/mikrolift-ss-lop-full-set",
         robots:
@@ -7770,7 +7770,7 @@ export const products = [
         description: "F-K12 Access control system ",
         code: "BS-SG0014",
         url: "/signalization/f-k12-access-control-system",
-        image: "/img/products/signalization/f-k12-access-control-system/elevator-f-k12-access-control-system-1.jpg",
+        image: "/img/products/signalization/f-k12-access-control-system/elevator-f-k12-access-control-system-1.webp",
         slider: ["elevator-f-k12-access-control-system-1", "elevator-f-k12-access-control-system-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/f-k12-access-control-system",
@@ -7782,7 +7782,7 @@ export const products = [
         description: "BCGCM001 SS Hairline - COP G+2",
         code: "BS-SG0015",
         url: "/signalization/bcgcm001-ss-hairline-cop-g2",
-        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/elevator-bcgcm001-ss-hairline-cop-g2-1.jpg",
+        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g2/elevator-bcgcm001-ss-hairline-cop-g2-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g2",
         robots:
@@ -7793,7 +7793,7 @@ export const products = [
         description: "BCGCM001 SS Hairline - COP G+4",
         code: "BS-SG0016",
         url: "/signalization/bcgcm001-ss-hairline-cop-g4",
-        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/elevator-bcgcm001-ss-hairline-cop-g4-1.jpg",
+        image: "/img/products/signalization/bcgcm001-ss-hairline-cop-g4/elevator-bcgcm001-ss-hairline-cop-g4-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcgcm001-ss-hairline-cop-g4",
         robots:
@@ -7804,7 +7804,7 @@ export const products = [
         description: "BXGFM019 SS Hairline - LOP",
         code: "BS-SG0017",
         url: "/signalization/bxgfm019-ss-hairline-lop",
-        image: "/img/products/signalization/bxgfm019-ss-hairline-lop/elevator-bxgfm019-ss-hairline-lop-1.jpg",
+        image: "/img/products/signalization/bxgfm019-ss-hairline-lop/elevator-bxgfm019-ss-hairline-lop-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bxgfm019-ss-hairline-lop",
         robots:
@@ -7815,7 +7815,7 @@ export const products = [
         description: "BCGBF001 SS Hairline - COP G+1",
         code: "BS-SG0018",
         url: "/signalization/bcgbf001-ss-hairline-cop-g1",
-        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/elevator-bcgbf001-ss-hairline-cop-g1-1.jpg",
+        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g1/elevator-bcgbf001-ss-hairline-cop-g1-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g1",
         robots:
@@ -7826,7 +7826,7 @@ export const products = [
         description: "BXGAS004 SS Hairline - COP G+3",
         code: "BS-SG0019",
         url: "/signalization/bcgbf001-ss-hairline-cop-g3",
-        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/elevator-bcgbf001-ss-hairline-cop-g3-1.jpg",
+        image: "/img/products/signalization/bcgbf001-ss-hairline-cop-g3/elevator-bcgbf001-ss-hairline-cop-g3-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcgbf001-ss-hairline-cop-g3",
         robots:
@@ -7837,7 +7837,7 @@ export const products = [
         description: "BXGAS004 SS Hairline - LOP",
         code: "BS-SG0020",
         url: "/signalization/bxgas004-ss-hairline-lop",
-        image: "/img/products/signalization/bxgas004-ss-hairline-lop/elevator-bxgas004-ss-hairline-lop-1.jpg",
+        image: "/img/products/signalization/bxgas004-ss-hairline-lop/elevator-bxgas004-ss-hairline-lop-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bxgas004-ss-hairline-lop",
         robots:
@@ -7848,7 +7848,7 @@ export const products = [
         description: "BCG401 black glass - COP G+2",
         code: "BS-SG0021",
         url: "/signalization/bcg401-black-glass-cop-g2",
-        image: "/img/products/signalization/bcg401-black-glass-cop-g2/elevator-bcg401-black-glass-cop-g2-1.jpg",
+        image: "/img/products/signalization/bcg401-black-glass-cop-g2/elevator-bcg401-black-glass-cop-g2-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g2",
         robots:
@@ -7859,7 +7859,7 @@ export const products = [
         description: "BCG401 black glass - COP G+4",
         code: "BS-SG0022",
         url: "/signalization/bcg401-black-glass-cop-g4",
-        image: "/img/products/signalization/bcg401-black-glass-cop-g4/elevator-bcg401-black-glass-cop-g4-1.jpg",
+        image: "/img/products/signalization/bcg401-black-glass-cop-g4/elevator-bcg401-black-glass-cop-g4-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg401-black-glass-cop-g4",
         robots:
@@ -7870,7 +7870,7 @@ export const products = [
         description: "BXGDM007 black - LOP",
         code: "BS-SG0023",
         url: "/signalization/bxgdm007-black-glass-lop",
-        image: "/img/products/signalization/bxgdm007-black-glass-lop/elevator-bxgdm007-black-glass-lop-1.jpg",
+        image: "/img/products/signalization/bxgdm007-black-glass-lop/elevator-bxgdm007-black-glass-lop-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bxgdm007-black-glass-lop",
         robots:
@@ -7881,7 +7881,7 @@ export const products = [
         description: "BCG401 white glass - COP G+1",
         code: "BS-SG0024",
         url: "/signalization/bcg401-white-glass-cop-g1",
-        image: "/img/products/signalization/bcg401-white-glass-cop-g1/elevator-bcg401-white-glass-cop-g1-1.jpg",
+        image: "/img/products/signalization/bcg401-white-glass-cop-g1/elevator-bcg401-white-glass-cop-g1-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g1",
         robots:
@@ -7892,7 +7892,7 @@ export const products = [
         description: "BCG401 white glass - COP G+3",
         code: "BS-SG0025",
         url: "/signalization/bcg401-white-glass-cop-g3",
-        image: "/img/products/signalization/bcg401-white-glass-cop-g3/elevator-bcg401-white-glass-cop-g3-1.jpg",
+        image: "/img/products/signalization/bcg401-white-glass-cop-g3/elevator-bcg401-white-glass-cop-g3-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg401-white-glass-cop-g3",
         robots:
@@ -7903,7 +7903,7 @@ export const products = [
         description: "BXGDM007 white glass - LOP",
         code: "BS-SG0026",
         url: "/signalization/bxgdm007-white-glass-lop",
-        image: "/img/products/signalization/bxgdm007-white-glass-lop/elevator-bxgdm007-white-glass-lop-1.jpg",
+        image: "/img/products/signalization/bxgdm007-white-glass-lop/elevator-bxgdm007-white-glass-lop-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bxgdm007-white-glass-lop",
         robots:
@@ -7914,7 +7914,7 @@ export const products = [
         description: "XIZI OTIS LOP set - HPI-L0430VRI-1",
         code: "BS-SG0027",
         url: "/signalization/full-lop-set-hpi-l0430vri-1",
-        image: "/img/products/signalization/full-lop-set-hpi-l0430vri-1/elevator-full-lop-set-hpi-l0430vri-1-1.jpg",
+        image: "/img/products/signalization/full-lop-set-hpi-l0430vri-1/elevator-full-lop-set-hpi-l0430vri-1-1.webp",
         slider: ["elevator-full-lop-set-hpi-l0430vri-1-1", "elevator-full-lop-set-hpi-l0430vri-1-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/full-lop-set-hpi-l0430vri-1",
@@ -7926,7 +7926,7 @@ export const products = [
         description: "Schindler LOP full set (3 types)",
         code: "BS-SG0028",
         url: "/signalization/white-lop-full-set",
-        image: "/img/products/signalization/white-lop-full-set/elevator-white-lop-full-set-1.jpg",
+        image: "/img/products/signalization/white-lop-full-set/elevator-white-lop-full-set-1.webp",
         slider: ["elevator-white-lop-full-set-1", "elevator-white-lop-full-set-2"],
         canonical:
           "https://www.bestechparts.ae/products/signalization/white-lop-full-set",
@@ -7939,7 +7939,7 @@ export const products = [
         code: "BS-SG0029",
         url: "/signalization/white-lop-full-set-without-display",
         image:
-          "/img/products/signalization/white-lop-full-set-without-display/elevator-white-lop-full-set-without-display-1.jpg",
+          "/img/products/signalization/white-lop-full-set-without-display/elevator-white-lop-full-set-without-display-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/white-lop-full-set-without-display",
         robots:
@@ -7950,7 +7950,7 @@ export const products = [
         description: "BCG451 Black Glass COP G+1",
         code: "BS-SG0030",
         url: "/signalization/bcg451-black-glass-cop-g1",
-        image: "/img/products/signalization/bcg451-black-glass-cop-g1/elevator-bcg451-black-glass-cop-g1-1.jpg",
+        image: "/img/products/signalization/bcg451-black-glass-cop-g1/elevator-bcg451-black-glass-cop-g1-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-cop-g1",
         robots:
@@ -7961,7 +7961,7 @@ export const products = [
         description: "BCG451 Black Glass LOP",
         code: "BS-SG0031",
         url: "/signalization/bcg451-black-glass-lop",
-        image: "/img/products/signalization/bcg451-black-glass-lop/elevator-bcg451-black-glass-lop1.jpg",
+        image: "/img/products/signalization/bcg451-black-glass-lop/elevator-bcg451-black-glass-lop1.webp",
         canonical:
           "https://www.bestechparts.ae/products/signalization/bcg451-black-glass-lop",
         robots:
@@ -7988,7 +7988,7 @@ export const products = [
         description: "MCTC-HCB-R1",
         code: "BS-DI0001",
         url: "/displays/cop-display-green-mctc-hcb-r1",
-        image: "/img/products/displays/cop-display-green-mctc-hcb-r1/elevator-cop-display-green-mctc-hcb-r1-1.jpg",
+        image: "/img/products/displays/cop-display-green-mctc-hcb-r1/elevator-cop-display-green-mctc-hcb-r1-1.webp",
         slider: ["elevator-cop-display-green-mctc-hcb-r1-1", "elevator-cop-display-green-mctc-hcb-r1-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-green-mctc-hcb-r1",
@@ -8000,7 +8000,7 @@ export const products = [
         description: "MCTC-HCB-R1",
         code: "BS-DI0002",
         url: "/displays/cop-display-black-mctc-hcb-r1",
-        image: "/img/products/displays/cop-display-black-mctc-hcb-r1/elevator-cop-display-black-mctc-hcb-r1-1.jpg",
+        image: "/img/products/displays/cop-display-black-mctc-hcb-r1/elevator-cop-display-black-mctc-hcb-r1-1.webp",
         slider: ["elevator-cop-display-black-mctc-hcb-r1--1", "elevator-cop-display-black-mctc-hcb-r1-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-black-mctc-hcb-r1",
@@ -8012,7 +8012,7 @@ export const products = [
         description: "",
         code: "BS-DI0003",
         url: "/displays/lop-display-led",
-        image: "/img/products/displays/lop-display-led/elevator-lop-display-led-1.jpg",
+        image: "/img/products/displays/lop-display-led/elevator-lop-display-led-1.webp",
         slider: ["elevator-lop-display-led-1", "elevator-lop-display-led-2", "elevator-lop-display-led-3"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lop-display-led",
@@ -8025,7 +8025,7 @@ export const products = [
         description: "",
         code: "BS-DI0004",
         url: "/displays/dot-matrix-display-vertical",
-        image: "/img/products/displays/dot-matrix-display-vertical/elevator-dot-matrix-display-vertical-1.jpg",
+        image: "/img/products/displays/dot-matrix-display-vertical/elevator-dot-matrix-display-vertical-1.webp",
         slider: ["dot-matrix-display-vertical-1", "dot-matrix-display-vertical-2", "dot-matrix-display-vertical-3"],
         canonical:
           "https://www.bestechparts.ae/products/displays/dot-matrix-display-vertical",
@@ -8037,7 +8037,7 @@ export const products = [
         description: "",
         code: "BS-DI0005",
         url: "/displays/dot-matrix-display-horizontal",
-        image: "/img/products/displays/dot-matrix-display-horizontal/elevator-dot-matrix-display-horizontal-1.jpg",
+        image: "/img/products/displays/dot-matrix-display-horizontal/elevator-dot-matrix-display-horizontal-1.webp",
         slider: ["dot-matrix-display-horizontal-1", "dot-matrix-display-horizontal-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/dot-matrix-display-horizontal",
@@ -8049,7 +8049,7 @@ export const products = [
         description: "",
         code: "BS-DI0006",
         url: "/displays/lcd-display-vertical",
-        image: "/img/products/displays/lcd-display-vertical/elevator-lcd-display-vertical-1.jpg",
+        image: "/img/products/displays/lcd-display-vertical/elevator-lcd-display-vertical-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-vertical",
         robots:
@@ -8061,7 +8061,7 @@ export const products = [
         description: "",
         code: "BS-DI0007",
         url: "/displays/lcd-display-horizontal",
-        image: "/img/products/displays/lcd-display-horizontal/elevator-lcd-display-horizontal-1.jpg",
+        image: "/img/products/displays/lcd-display-horizontal/elevator-lcd-display-horizontal-1.webp",
         slider: ["lcd-display-horizontal-1", "lcd-display-horizontal-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-horizontal",
@@ -8073,7 +8073,7 @@ export const products = [
         description: "4.3 inch",
         code: "BS-DI0008",
         url: "/displays/display-led-4-3",
-        image: "/img/products/displays/display-led-4-3/elevator-display-led-4-3-1.jpg",
+        image: "/img/products/displays/display-led-4-3/elevator-display-led-4-3-1.webp",
         slider: ["elevator-display-led-4-3-1", "elevator-display-led-4-3-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/display-led-4-3",
@@ -8085,7 +8085,7 @@ export const products = [
         description: "",
         code: "BS-DI0009",
         url: "/displays/lcd-display-sftc-hcb-sl-blue",
-        image: "/img/products/displays/lcd-display-sftc-hcb-sl-blue/elevator-lcd-display-sftc-hcb-sl-blue-1.jpg",
+        image: "/img/products/displays/lcd-display-sftc-hcb-sl-blue/elevator-lcd-display-sftc-hcb-sl-blue-1.webp",
         slider: ["elevator-lcd-display-sftc-hcb-sl-blue-1", "elevator-lcd-display-sftc-hcb-sl-blue-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/lcd-display-sftc-hcb-sl-blue",
@@ -8098,7 +8098,7 @@ export const products = [
         code: "BS-DI0010",
         url: "/displays/cop-display-horizontal-cv-ccb-d5-sx",
         image:
-          "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/elevator-cop-display-horizontal-cv-ccb-d5-sx-1.jpg",
+          "/img/products/displays/cop-display-horizontal-cv-ccb-d5-sx/elevator-cop-display-horizontal-cv-ccb-d5-sx-1.webp",
         slider: ["elevator-cop-display-horizontal-cv-ccb-d5-sx-1", "elevator-cop-display-horizontal-cv-ccb-d5-sx-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/cop-display-horizontal-cv-ccb-d5-sx",
@@ -8111,7 +8111,7 @@ export const products = [
         code: "BS-DI0011",
         url: "/displays/vertical-segment-display-cilvle-cv-d5",
         image:
-          "/img/products/displays/vertical-segment-display-cilvle-cv-d5/elevator-vertical-segment-display-cilvle-cv-d5-1.jpg",
+          "/img/products/displays/vertical-segment-display-cilvle-cv-d5/elevator-vertical-segment-display-cilvle-cv-d5-1.webp",
         slider: ["elevator-vertical-segment-display-cilvle-cv-d5-1", "elevator-vertical-segment-display-cilvle-cv-d5-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/vertical-segment-display-cilvle-cv-d5",
@@ -8123,7 +8123,7 @@ export const products = [
         description: "Monarch: MCTC-HCB-U673",
         code: "BS-DI0012",
         url: "/displays/display-mctc-hcb-u673",
-        image: "/img/products/displays/display-mctc-hcb-u673/elevator-display-mctc-hcb-u673-1.jpg",
+        image: "/img/products/displays/display-mctc-hcb-u673/elevator-display-mctc-hcb-u673-1.webp",
         slider: ["elevator-display-mctc-hcb-u673-1", "elevator-display-mctc-hcb-u673-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/display-mctc-hcb-u673",
@@ -8136,7 +8136,7 @@ export const products = [
         code: "BS-DI0013",
         url: "/displays/ks208-7-segment-indicator-with-arrows",
         image:
-          "/img/products/displays/ks208-7-segment-indicator-with-arrows/elevator-ks208-7-segment-indicator-with-arrows-1.jpg",
+          "/img/products/displays/ks208-7-segment-indicator-with-arrows/elevator-ks208-7-segment-indicator-with-arrows-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/ks208-7-segment-indicator-with-arrows",
         robots:
@@ -8147,7 +8147,7 @@ export const products = [
         description: "KS308 - 7 Segment Single",
         code: "BS-DI0014",
         url: "/displays/ks308-7-segment-indicator-single",
-        image: "/img/products/displays/ks308-7-segment-indicator-single/elevator-ks308-7-segment-indicator-single-1.jpg",
+        image: "/img/products/displays/ks308-7-segment-indicator-single/elevator-ks308-7-segment-indicator-single-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/ks308-7-segment-indicator-single",
         robots:
@@ -8158,7 +8158,7 @@ export const products = [
         description: "MCTC-HCB-T647",
         code: "BS-DI0015",
         url: "/displays/display-vertical-mctc-hcb-t647",
-        image: "/img/products/displays/display-vertical-mctc-hcb-t647/elevator-display-vertical-mctc-hcb-t647-1.jpg",
+        image: "/img/products/displays/display-vertical-mctc-hcb-t647/elevator-display-vertical-mctc-hcb-t647-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/displays/display-vertical-mctc-hcb-t647",
         robots:
@@ -8169,7 +8169,7 @@ export const products = [
         description: "MCTC-HCB-U672",
         code: "BS-DI0016",
         url: "/displays/display-horizontal-mctc-hcb-u672",
-        image: "/img/products/displays/display-horizontal-mctc-hcb-u672/elevator-display-horizontal-mctc-hcb-u672-1.jpg",
+        image: "/img/products/displays/display-horizontal-mctc-hcb-u672/elevator-display-horizontal-mctc-hcb-u672-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/displays/display-horizontal-mctc-hcb-u672",
         robots:
@@ -8180,7 +8180,7 @@ export const products = [
         description: "Arkel: BC-D3X INDICATOR (RED)",
         code: "BS-DI0017",
         url: "/displays/bc-d3x-indicator-red",
-        image: "/img/products/displays/bc-d3x-indicator-red/elevator-bc-d3x-indicator-red-1.jpg",
+        image: "/img/products/displays/bc-d3x-indicator-red/elevator-bc-d3x-indicator-red-1.webp",
         slider: ["bc-d3x-indicator-red-1", "bc-d3x-indicator-red-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/bc-d3x-indicator-red",
@@ -8192,7 +8192,7 @@ export const products = [
         description: "STEP: Display Board SM.04V16",
         code: "BS-DI0018",
         url: "/displays/step-display-board-sm-04v16",
-        image: "/img/products/displays/step-display-board-sm-04v16/elevator-step-display-board-sm-04v16-1.jpg",
+        image: "/img/products/displays/step-display-board-sm-04v16/elevator-step-display-board-sm-04v16-1.webp",
         slider: ["step-display-board-sm-04v16-1", "step-display-board-sm-04v16-2"],
         canonical:
           "https://www.bestechparts.ae/products/displays/step-display-board-sm-04v16",
@@ -8221,7 +8221,7 @@ export const products = [
         description: "MCTC-CTB-A",
         code: "BS-PB0001",
         url: "/pcb-boards/car-top-board-mctc-ctb-a",
-        image: "/img/products/pcb-boards/car-top-board-mctc-ctb-a/elevator-car-top-board-mctc-ctb-a-1.jpg",
+        image: "/img/products/pcb-boards/car-top-board-mctc-ctb-a/elevator-car-top-board-mctc-ctb-a-1.webp",
         slider: ["elevator-car-top-board-mctc-ctb-a-1", "elevator-car-top-board-mctc-ctb-a-2"],
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8233,7 +8233,7 @@ export const products = [
         description: "MCTC-CCB-A",
         code: "BS-PB0002",
         url: "/pcb-boards/command-board-mctc-ccb-a",
-        image: "/img/products/pcb-boards/command-board-mctc-ccb-a/elevator-command-board-mctc-ccb-a-1.jpg",
+        image: "/img/products/pcb-boards/command-board-mctc-ccb-a/elevator-command-board-mctc-ccb-a-1.webp",
         slider: ["elevator-command-board-mctc-ccb-a-1", "elevator-command-board-mctc-ccb-a-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/command-board-mctc-ccb-a",
@@ -8245,7 +8245,7 @@ export const products = [
         description: "",
         code: "BS-PB0003",
         url: "/pcb-boards/car-top-board-step",
-        image: "/img/products/pcb-boards/car-top-board-step/elevator-car-top-board-step-1.jpg",
+        image: "/img/products/pcb-boards/car-top-board-step/elevator-car-top-board-step-1.webp",
         slider: ["elevator-car-top-board-step-1", "elevator-car-top-board-step-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/car-top-board-step",
@@ -8257,7 +8257,7 @@ export const products = [
         description: "",
         code: "BS-PB0004",
         url: "/pcb-boards/cop-command-board-step",
-        image: "/img/products/pcb-boards/cop-command-board-step/elevator-cop-command-board-step-1.jpg",
+        image: "/img/products/pcb-boards/cop-command-board-step/elevator-cop-command-board-step-1.webp",
         slider: ["elevator-cop-command-board-step-1", "elevator-cop-command-board-step-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/cop-command-board-step",
@@ -8270,7 +8270,7 @@ export const products = [
         code: "BS-PB0005",
         url: "/pcb-boards/group-control-board-mctc-gcb-b1-a1",
         image:
-          "/img/products/pcb-boards/group-control-board-mctc-gcb-b1-a1/elevator-group-control-board-mctc-gcb-b1-a1-1.jpg",
+          "/img/products/pcb-boards/group-control-board-mctc-gcb-b1-a1/elevator-group-control-board-mctc-gcb-b1-a1-1.webp",
         slider: ["elevator-group-control-board-mctc-gcb-b1-a1-1", "elevator-group-control-board-mctc-gcb-b1-a1-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/group-control-board-mctc-gcb-b1-a1",
@@ -8282,7 +8282,7 @@ export const products = [
         description: "MCTC-SCB-A1",
         code: "BS-PB0006",
         url: "/pcb-boards/ucmp-mctc-scb-a1",
-        image: "/img/products/pcb-boards/ucmp-mctc-scb-a1/elevator-ucmp-mctc-scb-a1-1.jpg",
+        image: "/img/products/pcb-boards/ucmp-mctc-scb-a1/elevator-ucmp-mctc-scb-a1-1.webp",
         slider: ["elevator-ucmp-mctc-scb-a1-1", "elevator-ucmp-mctc-scb-a1-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/ucmp-mctc-scb-a1",
@@ -8294,7 +8294,7 @@ export const products = [
         description: "ML65X",
         code: "BS-PB0007",
         url: "/pcb-boards/ml65x-lift-controller",
-        image: "/img/products/pcb-boards/ml65x-lift-controller/elevator-ml65x-lift-controller-1.jpg",
+        image: "/img/products/pcb-boards/ml65x-lift-controller/elevator-ml65x-lift-controller-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/ml65x-lift-controller",
         robots:
@@ -8306,7 +8306,7 @@ export const products = [
         code: "BS-PB0008",
         url: "/pcb-boards/mlseri65-serial-communication-card",
         image:
-          "/img/products/pcb-boards/mlseri65-serial-communication-card/elevator-mlseri65-serial-communication-card-1.jpg",
+          "/img/products/pcb-boards/mlseri65-serial-communication-card/elevator-mlseri65-serial-communication-card-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mlseri65-serial-communication-card",
         robots:
@@ -8317,7 +8317,7 @@ export const products = [
         description: "MLKR1",
         code: "BS-PB0009",
         url: "/pcb-boards/mlkr1-door-bridging-card",
-        image: "/img/products/pcb-boards/mlkr1-door-bridging-card/elevator-mlkr1-door-bridging-card-1.jpg",
+        image: "/img/products/pcb-boards/mlkr1-door-bridging-card/elevator-mlkr1-door-bridging-card-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mlkr1-door-bridging-card",
         robots:
@@ -8328,7 +8328,7 @@ export const products = [
         description: "Arkel: ARL-300",
         code: "BS-PB0010",
         url: "/pcb-boards/lift-controller-set-arl-300",
-        image: "/img/products/pcb-boards/lift-controller-set-arl-300/elevator-lift-controller-set-arl-300-1.jpg",
+        image: "/img/products/pcb-boards/lift-controller-set-arl-300/elevator-lift-controller-set-arl-300-1.webp",
         slider: ["elevator-lift-controller-set-arl-300-1", "elevator-lift-controller-set-arl-300-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/lift-controller-set-arl-300",
@@ -8341,7 +8341,7 @@ export const products = [
         code: "BS-PB0011",
         url: "/pcb-boards/dhg-161-hoistway-communication-board",
         image:
-          "/img/products/pcb-boards/dhg-161-hoistway-communication-board/elevator-dhg-161-hoistway-communication-board-1.jpg",
+          "/img/products/pcb-boards/dhg-161-hoistway-communication-board/elevator-dhg-161-hoistway-communication-board-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/dhg-161-hoistway-communication-board",
         robots:
@@ -8352,7 +8352,7 @@ export const products = [
         description: "Step Motherboard SM.01 F5021",
         code: "BS-PB0012",
         url: "/pcb-boards/step-motherboard-sm01-f5021",
-        image: "/img/products/pcb-boards/step-motherboard-sm01-f5021/elevator-step-motherboard-sm01-f5021-1.jpg",
+        image: "/img/products/pcb-boards/step-motherboard-sm01-f5021/elevator-step-motherboard-sm01-f5021-1.webp",
         slider: ["elevator-step-motherboard-sm01-f5021-1", "elevator-step-motherboard-sm01-f5021-2", "elevator-step-motherboard-sm01-f5021-3"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/step-motherboard-sm01-f5021",
@@ -8364,7 +8364,7 @@ export const products = [
         description: "SM.02/G",
         code: "BS-PB0013",
         url: "/pcb-boards/as380-communication-board-sm02g",
-        image: "/img/products/pcb-boards/as380-communication-board-sm02g/elevator-as380-communication-board-sm02g-1.jpg",
+        image: "/img/products/pcb-boards/as380-communication-board-sm02g/elevator-as380-communication-board-sm02g-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/as380-communication-board-sm02g",
         robots:
@@ -8375,7 +8375,7 @@ export const products = [
         description: "Monarch: MCTC-GCB-B2 (4 lifts)",
         code: "BS-PB0014",
         url: "/pcb-boards/group-control-board-mctc-gcb-b2",
-        image: "/img/products/pcb-boards/group-control-board-mctc-gcb-b2/elevator-group-control-board-mctc-gcb-b2-1.jpg",
+        image: "/img/products/pcb-boards/group-control-board-mctc-gcb-b2/elevator-group-control-board-mctc-gcb-b2-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/group-control-board-mctc-gcb-b2",
         robots:
@@ -8387,7 +8387,7 @@ export const products = [
         code: "BS-PB0015",
         url: "/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
         image:
-          "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/elevator-pcb-power-board-zws30-12j-pwb-655h-1.jpg",
+          "/img/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h/elevator-pcb-power-board-zws30-12j-pwb-655h-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/pcb-power-board-zws30-12j-pwb-655h",
         robots:
@@ -8398,7 +8398,7 @@ export const products = [
         description: " Step SM-02 D (5021)",
         code: "BS-PB0016",
         url: "/pcb-boards/step-sm02-d-5021",
-        image: "/img/products/pcb-boards/step-sm02-d-5021/elevator-step-sm02-d-5021-1.jpg",
+        image: "/img/products/pcb-boards/step-sm02-d-5021/elevator-step-sm02-d-5021-1.webp",
         slider: ["elevator-step-sm02-d-5021-1", "elevator-step-sm02-d-5021-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/step-sm02-d-5021",
@@ -8410,7 +8410,7 @@ export const products = [
         description: "Monarch: MCTC-MCB-C2",
         code: "BS-PB0017",
         url: "/pcb-boards/mctc-mcb-c2",
-        image: "/img/products/pcb-boards/mctc-mcb-c2/elevator-mctc-mcb-c2-1.jpg",
+        image: "/img/products/pcb-boards/mctc-mcb-c2/elevator-mctc-mcb-c2-1.webp",
         slider: ["elevator-mctc-mcb-c2-1", "elevator-mctc-mcb-c2-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c2",
@@ -8423,7 +8423,7 @@ export const products = [
         description: "Monarch: MCTC-MCB-C3",
         code: "BS-PB0018",
         url: "/pcb-boards/mctc-mcb-c3",
-        image: "/img/products/pcb-boards/mctc-mcb-c3/elevator-mctc-mcb-c3-1.jpg",
+        image: "/img/products/pcb-boards/mctc-mcb-c3/elevator-mctc-mcb-c3-1.webp",
         slider: ["elevator-mctc-mcb-c3-1", "elevator-mctc-mcb-c3-2"],
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mctc-mcb-c3",
@@ -8435,7 +8435,7 @@ export const products = [
         description: "MNK Bluetooth",
         code: "BS-PB0019",
         url: "/pcb-boards/mnk-bluetooth",
-        image: "/img/products/pcb-boards/mnk-bluetooth/elevator-mnk-bluetooth-1.jpg",
+        image: "/img/products/pcb-boards/mnk-bluetooth/elevator-mnk-bluetooth-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mnk-bluetooth",
         robots:
@@ -8446,7 +8446,7 @@ export const products = [
         description: "MCTC-CCB-B COP Board",
         code: "BS-PB0021",
         url: "/pcb-boards/mctc-ccb-b-cop-board",
-        image: "/img/products/pcb-boards/mctc-ccb-b-cop-board/elevator-mctc-ccb-b-cop-board-1.jpg",
+        image: "/img/products/pcb-boards/mctc-ccb-b-cop-board/elevator-mctc-ccb-b-cop-board-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/mctc-ccb-b-cop-board",
         robots:
@@ -8457,7 +8457,7 @@ export const products = [
         description: "FAA23600AB1 - Arrival Gong PCB OTIS",
         code: "BS-PB0022",
         url: "/pcb-boards/arrival-gong-pcb-faa23600ab1",
-        image: "/img/products/pcb-boards/arrival-gong-pcb-faa23600ab1/elevator-arrival-gong-pcb-faa23600ab1-1.jpg",
+        image: "/img/products/pcb-boards/arrival-gong-pcb-faa23600ab1/elevator-arrival-gong-pcb-faa23600ab1-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/pcb-boards/arrival-gong-pcb-faa23600ab1",
         robots:
@@ -8468,7 +8468,7 @@ export const products = [
         description: "STEP Extension Board SM-04-VHL SM-04-E1",
         code: "BS-PB0023",
         url: "/pcb-boards/step-extension-board-sm-04-vhl-sm-04-e1",
-        image: "/img/products/pcb-boards/step-extension-board-sm-04-vhl-sm-04-e1/elevator-spareparts-step-extension-board-sm-04-vhl-sm-04-e1-1.jpg",
+        image: "/img/products/pcb-boards/step-extension-board-sm-04-vhl-sm-04-e1/elevator-spareparts-step-extension-board-sm-04-vhl-sm-04-e1-1.webp",
         alttext: "STEP Extension Board SM-04-VHL SM-04-E1 elevator spare parts",
         canonical: "https://www.bestechparts.ae/products/pcb-boards/step-extension-board-sm-04-vhl-sm-04-e1",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8478,7 +8478,7 @@ export const products = [
         description: "Step Elevator Control PCB Board SM.02/E",
         code: "BS-PB0024",
         url: "/pcb-boards/step-elevator-control-pcb-board-sm-02-e",
-        image: "/img/products/pcb-boards/step-elevator-control-pcb-board-sm-02-e/elevator-spareparts-step-elevator-control-pcb-board-sm-02-e-1.jpg",
+        image: "/img/products/pcb-boards/step-elevator-control-pcb-board-sm-02-e/elevator-spareparts-step-elevator-control-pcb-board-sm-02-e-1.webp",
         alttext: "Step Elevator Control PCB Board SM.02/E elevator spare parts",
         canonical: "https://www.bestechparts.ae/products/pcb-boards/step-elevator-control-pcb-board-sm-02-e",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8488,7 +8488,7 @@ export const products = [
         description: "Cabinet Interface Board MCTC-KCB-B2",
         code: "BS-PB0025",
         url: "/pcb-boards/cabinet-interface-board-mctc-kcb-b2",
-        image: "/img/products/pcb-boards/cabinet-interface-board-mctc-kcb-b2/elevator-spareparts-cabinet-interface-board-mctc-kcb-b2-1.jpg",
+        image: "/img/products/pcb-boards/cabinet-interface-board-mctc-kcb-b2/elevator-spareparts-cabinet-interface-board-mctc-kcb-b2-1.webp",
         slider: [
           "elevator-spareparts-cabinet-interface-board-mctc-kcb-b2-1",
           "elevator-spareparts-cabinet-interface-board-mctc-kcb-b2-2"
@@ -8502,7 +8502,7 @@ export const products = [
         description: "Car Communication Board KLS-CCD-01A",
         code: "BS-PB0026",
         url: "/pcb-boards/car-communication-board-kls-ccd-01a",
-        image: "/img/products/pcb-boards/car-communication-board-kls-ccd-01a/elevator-spareparts-car-communication-board-kls-ccd-01a-1.jpg",
+        image: "/img/products/pcb-boards/car-communication-board-kls-ccd-01a/elevator-spareparts-car-communication-board-kls-ccd-01a-1.webp",
         alttext: "Car Communication Board KLS-CCD-01A elevator spare parts",
         canonical: "https://www.bestechparts.ae/products/pcb-boards/car-communication-board-kls-ccd-01a",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8512,7 +8512,7 @@ export const products = [
         description: "Extended Command Board KLL-ICU-V10A",
         code: "BS-PB0027",
         url: "/pcb-boards/extended-command-board-kll-icu-v10a",
-        image: "/img/products/pcb-boards/extended-command-board-kll-icu-v10a/elevator-spareparts-extended-command-board-kll-icu-v10a-1.jpg",
+        image: "/img/products/pcb-boards/extended-command-board-kll-icu-v10a/elevator-spareparts-extended-command-board-kll-icu-v10a-1.webp",
         alttext: "Extended Command Board KLL-ICU-V10A elevator spare parts",
         slider: [
           "elevator-spareparts-extended-command-board-kll-icu-v10a-1",
@@ -8526,7 +8526,7 @@ export const products = [
         description: "Safety Switch Board KLL-BYB-01B",
         code: "BS-PB0028",
         url: "/pcb-boards/safety-switch-board-kll-byb-01b",
-        image: "/img/products/pcb-boards/safety-switch-board-kll-byb-01b/elevator-spareparts-safety-switch-board-kll-byb-01b-1.jpg",
+        image: "/img/products/pcb-boards/safety-switch-board-kll-byb-01b/elevator-spareparts-safety-switch-board-kll-byb-01b-1.webp",
         alttext: "Safety Switch Board KLL-BYB-01B elevator spare parts",
         canonical: "https://www.bestechparts.ae/products/pcb-boards/safety-switch-board-kll-byb-01b",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8536,7 +8536,7 @@ export const products = [
         description: "OTIS RS14 Card",
         code: "BS-PB0029",
         url: "/pcb-boards/otis-rs14-card",
-        image: "/img/products/pcb-boards/otis-rs14-card/elevator-spareparts-otis-rs14-card-1.jpg",
+        image: "/img/products/pcb-boards/otis-rs14-card/elevator-spareparts-otis-rs14-card-1.webp",
         alttext: "OTIS RS14 Card elevator spare parts",
         canonical: "https://www.bestechparts.ae/products/pcb-boards/otis-rs14-card",
         robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -8563,7 +8563,7 @@ export const products = [
         description: "",
         code: "BS-TL0001",
         url: "/tool-kits/tool-kit-km878240g01",
-        image: "/img/products/tool-kits/k-tool-kit/elevator-k-tool-kit-1.jpg",
+        image: "/img/products/tool-kits/k-tool-kit/elevator-k-tool-kit-1.webp",
         canonical: "https://www.bestechparts.ae/products/tool-kits/tool-kit-km878240g01",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8573,7 +8573,7 @@ export const products = [
         description: "",
         code: "BS-TL0002",
         url: "/tool-kits/tool-kit-gaa21750ak3",
-        image: "/img/products/tool-kits/o-tool-kit/elevator-o-tool-kit-1.jpg",
+        image: "/img/products/tool-kits/o-tool-kit/elevator-o-tool-kit-1.webp",
         canonical: "https://www.bestechparts.ae/products/tool-kits/tool-kit-gaa21750ak3",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8583,7 +8583,7 @@ export const products = [
         description: "",
         code: "BS-TL0003",
         url: "/tool-kits/tool-kit-keypad",
-        image: "/img/products/tool-kits/tool-kit-keypad/elevator-tool-kit-keypad-1.jpg",
+        image: "/img/products/tool-kits/tool-kit-keypad/elevator-tool-kit-keypad-1.webp",
         slider: ["elevator-tool-kit-keypad-1", "elevator-tool-kit-keypad-2"],
         canonical:
           "https://www.bestechparts.ae/products/tool-kits/tool-kit-keypad",
@@ -8595,7 +8595,7 @@ export const products = [
         description: "Sigma DOA-100+ ",
         code: "BS-TL0004",
         url: "/tool-kits/doa-100-tool-kit",
-        image: "/img/products/tool-kits/doa-100-tool-kit/elevator-doa-100-tool-kit-1.jpg",
+        image: "/img/products/tool-kits/doa-100-tool-kit/elevator-doa-100-tool-kit-1.webp",
         slider: ["elevator-doa-100-tool-kit-1", "elevator-doa-100-tool-kit-2"],
         canonical:
           "https://www.bestechparts.ae/products/tool-kits/doa-100-tool-kit",
@@ -8607,7 +8607,7 @@ export const products = [
         description: "STEP SM-08-C Test Tool",
         code: "BS-TL0005",
         url: "/tool-kits/step-sm-08-c-test-tool",
-        image: "/img/products/tool-kits/step-sm-08-c-test-tool/elevator-spareparts-step-sm-08-c-test-tool-1.jpg",
+        image: "/img/products/tool-kits/step-sm-08-c-test-tool/elevator-spareparts-step-sm-08-c-test-tool-1.webp",
         alttext: "STEP SM-08-C Test Tool elevator spare parts",
         slider: [
           "elevator-spareparts-step-sm-08-c-test-tool-1"
@@ -8636,7 +8636,7 @@ export const products = [
         description: "",
         code: "BS-KY0001",
         url: "/keys/door-open-key",
-        image: "/img/products/keys/door-open-key/elevator-door-open-key-1.jpg",
+        image: "/img/products/keys/door-open-key/elevator-door-open-key-1.webp",
         slider: ["elevator-door-open-key-1", "elevator-door-open-key-2"],
         canonical: "https://www.bestechparts.ae/products/keys/door-open-key",
         robots:
@@ -8647,7 +8647,7 @@ export const products = [
         description: "Type: 102",
         code: "BS-KY0002",
         url: "/keys/s-key-type-102",
-        image: "/img/products/keys/s-key-type-102/elevator-s-key-type-102-1.jpg",
+        image: "/img/products/keys/s-key-type-102/elevator-s-key-type-102-1.webp",
         canonical: "https://www.bestechparts.ae/products/keys/s-key-type-102",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8657,7 +8657,7 @@ export const products = [
         description: "Type: TA6461",
         code: "BS-KY0003",
         url: "/keys/key-type-ta6461",
-        image: "/img/products/keys/key-type-ta6461/elevator-key-type-ta6461-1.jpg",
+        image: "/img/products/keys/key-type-ta6461/elevator-key-type-ta6461-1.webp",
         canonical: "https://www.bestechparts.ae/products/keys/key-type-ta6461",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8667,7 +8667,7 @@ export const products = [
         description: "",
         code: "BS-KY0004",
         url: "/keys/k-key",
-        image: "/img/products/keys/k-key/elevator-k-key-1.jpg",
+        image: "/img/products/keys/k-key/elevator-k-key-1.webp",
         canonical: "https://www.bestechparts.ae/products/keys/k-key",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8677,7 +8677,7 @@ export const products = [
         description: "",
         code: "BS-KY0005",
         url: "/keys/h-key",
-        image: "/img/products/keys/h-key/elevator-h-key-1.jpg",
+        image: "/img/products/keys/h-key/elevator-h-key-1.webp",
         canonical: "https://www.bestechparts.ae/products/keys/h-key",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8687,7 +8687,7 @@ export const products = [
         description: "Kone Control cabinet key",
         code: "BS-KY0006",
         url: "/keys/sj-black-control-cabinet-key",
-        image: "/img/products/keys/sj-black-control-cabinet-key/elevator-sj-black-control-cabinet-key-1.jpg",
+        image: "/img/products/keys/sj-black-control-cabinet-key/elevator-sj-black-control-cabinet-key-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/keys/sj-black-control-cabinet-key",
         robots:
@@ -8698,7 +8698,7 @@ export const products = [
         description: "Kone COP Key",
         code: "BS-KY0007",
         url: "/keys/type-a-key",
-        image: "/img/products/keys/type-a-key/elevator-type-a-key-1.jpg",
+        image: "/img/products/keys/type-a-key/elevator-type-a-key-1.webp",
         canonical: "https://www.bestechparts.ae/products/type-a-key",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
@@ -8708,7 +8708,7 @@ export const products = [
         description: "Yellow handle key",
         code: "BS-KY0008",
         url: "/keys/mitsubishi-door-open-key",
-        image: "/img/products/keys/mitsubishi-door-open-key/elevator-mitsubishi-door-open-key-1.jpg",
+        image: "/img/products/keys/mitsubishi-door-open-key/elevator-mitsubishi-door-open-key-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/keys/mitsubishi-door-open-key",
         robots:
@@ -8719,7 +8719,7 @@ export const products = [
         description: "Door Key 1000mm K",
         code: "BS-KY0009",
         url: "/keys/door-key-1000mm-k",
-        image: "/img/products/keys/door-key-1000mm-k/elevator-door-key-1000mm-k-1.jpg",
+        image: "/img/products/keys/door-key-1000mm-k/elevator-door-key-1000mm-k-1.webp",
         canonical:
           "https://www.bestechparts.ae/products/keys/door-key-1000mm-k",
         robots:
@@ -8746,7 +8746,7 @@ export const products = [
         description: "Escalator Handrail Bearing 26*26*9 BS-ES0001",
         code: "BS-ES0001",
         url: "/escalators/escalator-handrail-bearing-26-26-9",
-        image: "/img/products/escalators/escalator-handrail-bearing/elevator-spareparts-escalator-handrail-bearing-1.jpg",
+        image: "/img/products/escalators/escalator-handrail-bearing/elevator-spareparts-escalator-handrail-bearing-1.webp",
         alttext: "Escalator Handrail Bearing 26*26*9 elevator spare parts",
         slider: [
           "elevator-spareparts-escalator-handrail-bearing-1"
@@ -8759,7 +8759,7 @@ export const products = [
         description: "Escalator Handrail Roller 76*54*6201 BS-ES0002",
         code: "BS-ES0002",
         url: "/escalators/escalator-handrail-roller-76-54-6201",
-        image: "/img/products/escalators/escalator-handrail-roller-76-54-6201/elevator-spareparts-escalator-handrail-roller-76-54-6201-1.jpg",
+        image: "/img/products/escalators/escalator-handrail-roller-76-54-6201/elevator-spareparts-escalator-handrail-roller-76-54-6201-1.webp",
         alttext: "Escalator Handrail Roller 76*54*6201 elevator spare parts",
         slider: [
           "elevator-spareparts-escalator-handrail-roller-76-54-6201-1"
@@ -8773,7 +8773,7 @@ export const products = [
         description: "Escalator Comb Plates GAA453BV BS-ES0003",
         code: "BS-ES0003",
         url: "/escalators/escalator-comb-plates-gaa453bv",
-        image: "/img/products/escalators/escalator-comb-plates-gaa453bv/elevator-spareparts-escalator-comb-plates-gaa453bv-1.jpg",
+        image: "/img/products/escalators/escalator-comb-plates-gaa453bv/elevator-spareparts-escalator-comb-plates-gaa453bv-1.webp",
         alttext: "Escalator Comb Plates GAA453BV elevator spare parts",
         slider: [
           "elevator-spareparts-escalator-comb-plates-gaa453bv-1"
@@ -8786,7 +8786,7 @@ export const products = [
         description: "Escalator Handrail Roller 50*54*6203 BS-ES0004",
         code: "BS-ES0004",
         url: "/escalators/escalator-handrail-roller-50-54-6203",
-        image: "/img/products/escalators/escalator-handrail-roller-50-54-6203/elevator-spareparts-escalator-handrail-roller-50-54-6203-1.jpg",
+        image: "/img/products/escalators/escalator-handrail-roller-50-54-6203/elevator-spareparts-escalator-handrail-roller-50-54-6203-1.webp",
         alttext: "Escalator Handrail Roller 50*54*6203 elevator spare parts",
         slider: [
           "elevator-spareparts-escalator-handrail-roller-50-54-6203-1"
@@ -8799,7 +8799,7 @@ export const products = [
         description: "Escalator Indicators DTL-A-ZZ BS-ES0005",
         code: "BS-ES0005",
         url: "/escalators/escalator-indicators-dtl-a-zz",
-        image: "/img/products/escalators/escalator-indicators-dtl-a-zz/elevator-spareparts-escalator-indicators-dtl-a-zz-1.jpg",
+        image: "/img/products/escalators/escalator-indicators-dtl-a-zz/elevator-spareparts-escalator-indicators-dtl-a-zz-1.webp",
         alttext: "Escalator Indicators DTL-A-ZZ elevator spare parts",
         slider: [
           "elevator-spareparts-escalator-indicators-dtl-a-zz-1",
@@ -8813,7 +8813,7 @@ export const products = [
         description: "Escalator Remote Unit GAA26220BN 3-Pin OTIS BS-ES0006",
         code: "BS-ES0006",
         url: "/escalators/escalator-remote-unit-gaa26220bn-3-pin",
-        image: "/img/products/escalators/escalator-remote-unit-gaa26220bn-3-pin/elevator-spareparts-escalator-remote-unit-gaa26220bn-3-pin-1.jpg",
+        image: "/img/products/escalators/escalator-remote-unit-gaa26220bn-3-pin/elevator-spareparts-escalator-remote-unit-gaa26220bn-3-pin-1.webp",
         alttext: "Escalator Remote Unit GAA26220BN 3-Pin elevator spare parts",
         slider: [
           "elevator-spareparts-escalator-remote-unit-gaa26220bn-3-pin-1"
@@ -8826,7 +8826,7 @@ export const products = [
         description: "Escalator Proximity Sensor 9982-2265 OTIS China BS-ES0007",
         code: "BS-ES0007",
         url: "/escalators/escalator-proximity-sensor-9982-2265",
-        image: "/img/products/escalators/escalator-proximity-sensor-9982-2265/elevator-spareparts-escalator-proximity-sensor-9982-2265-1.jpg",
+        image: "/img/products/escalators/escalator-proximity-sensor-9982-2265/elevator-spareparts-escalator-proximity-sensor-9982-2265-1.webp",
         alttext: "Escalator Proximity Sensor 9982-2265 elevator spare parts",
         slider: [
           "elevator-spareparts-escalator-proximity-sensor-9982-2265-1"
@@ -8839,7 +8839,7 @@ export const products = [
         description: "Escalator Handrail Strip BS-ES0008",
         code: "BS-ES0008",
         url: "/escalators/escalator-handrail-strip",
-        image: "/img/products/escalators/escalator-handrail-strip/elevator-spareparts-escalator-handrail-strip-1.jpg",
+        image: "/img/products/escalators/escalator-handrail-strip/elevator-spareparts-escalator-handrail-strip-1.webp",
         alttext: "Escalator Handrail Strip elevator spare parts",
         slider: [
           "elevator-spareparts-escalator-handrail-strip-1",
@@ -8853,7 +8853,7 @@ export const products = [
         description: "Canny Escalator Key Switch BS-ES0009",
         code: "BS-ES0009",
         url: "/escalators/canny-escalator-key-switch",
-        image: "/img/products/escalators/canny-escalator-key-switch/elevator-spareparts-canny-escalator-key-switch-1.jpg",
+        image: "/img/products/escalators/canny-escalator-key-switch/elevator-spareparts-canny-escalator-key-switch-1.webp",
         alttext: "Canny Escalator Key Switch elevator spare parts",
         slider: [
           "elevator-spareparts-canny-escalator-key-switch-1"
@@ -8866,7 +8866,7 @@ export const products = [
         description: "OTIS Escalator Key Switch BS-ES0010",
         code: "BS-ES0010",
         url: "/escalators/otis-escalator-key-switch",
-        image: "/img/products/escalators/otis-escalator-key-switch/elevator-spareparts-otis-escalator-key-switch-1.jpg",
+        image: "/img/products/escalators/otis-escalator-key-switch/elevator-spareparts-otis-escalator-key-switch-1.webp",
         alttext: "OTIS Escalator Key Switch elevator spare parts",
         slider: [
           "elevator-spareparts-otis-escalator-key-switch-1"

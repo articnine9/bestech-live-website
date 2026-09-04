@@ -7,19 +7,19 @@ const CtaThree = () => {
       <div className="container">
         <div className="cta-two__inner">
           <div className="shape1">
-            <img src="/img/shape/cta-v3-shape1.png" alt="" />
+            <img src="/img/shape/cta-v3-shape1.webp" alt="" />
           </div>
           <div className="shape2">
-            <img src="/img/shape/cta-v3-shape2.png" alt="" />
+            <img src="/img/shape/cta-v3-shape2.webp" alt="" />
           </div>
           <div className="shape3 float-bob-x">
-            <img src="/img/shape/cta-v3-shape3.png" alt="" />
+            <img src="/img/shape/cta-v3-shape3.webp" alt="" />
           </div>
           <div className="cta-two__inner-box">
             <div className="sec-title-style3">
               <div className="sub-title">
                 <div className="icon">
-                  <img src="/img/icon/title-marker-3.png" alt="" />
+                  <img src="/img/icon/title-marker-3.webp" alt="" />
                 </div>
                 <h5>Get in touch</h5>
               </div>

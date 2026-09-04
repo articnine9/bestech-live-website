@@ -43,7 +43,7 @@ const Brand = ({ category }) => {
                       className="card shadow-sm h-100 text-decoration-none"
                     >
                       <img
-                        src={group.image || "/img/product-default-img.jpg"}
+                        src={group.image || "/img/product-default-img.webp"}
                         alt={group.alttext_group || group.group_name}
                         className="card-img-top"
                         style={{ height: "180px", objectFit: "cover" }}

@@ -49,61 +49,61 @@ const BrandSection = () => {
 
                         <SwiperSlide className="swiper-slide">
                             <div className="img-box">
-                                <img src="/img/brand/brand-v2-img1.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img1.webp" alt="#" />
                             </div>
 
                             <div className="img-box2">
-                                <img src="/img/brand/brand-v2-img1.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img1.webp" alt="#" />
                             </div>
                         </SwiperSlide>
 
                         <SwiperSlide className="swiper-slide">
                             <div className="img-box">
-                                <img src="/img/brand/brand-v2-img2.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img2.webp" alt="#" />
                             </div>
 
                             <div className="img-box2">
-                                <img src="/img/brand/brand-v2-img2.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img2.webp" alt="#" />
                             </div>
                         </SwiperSlide>
 
                         <SwiperSlide className="swiper-slide">
                             <div className="img-box">
-                                <img src="/img/brand/brand-v2-img3.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img3.webp" alt="#" />
                             </div>
 
                             <div className="img-box2">
-                                <img src="/img/brand/brand-v2-img3.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img3.webp" alt="#" />
                             </div>
                         </SwiperSlide>
 
                         <SwiperSlide className="swiper-slide">
                             <div className="img-box">
-                                <img src="/img/brand/brand-v2-img4.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img4.webp" alt="#" />
                             </div>
 
                             <div className="img-box2">
-                                <img src="/img/brand/brand-v2-img4.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img4.webp" alt="#" />
                             </div>
                         </SwiperSlide>
 
                         <SwiperSlide className="swiper-slide">
                             <div className="img-box">
-                                <img src="/img/brand/brand-v2-img5.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img5.webp" alt="#" />
                             </div>
 
                             <div className="img-box2">
-                                <img src="/img/brand/brand-v2-img5.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img5.webp" alt="#" />
                             </div>
                         </SwiperSlide>
                         
                         <SwiperSlide className="swiper-slide">
                             <div className="img-box">
-                                <img src="/img/brand/brand-v2-img3.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img3.webp" alt="#" />
                             </div>
 
                             <div className="img-box2">
-                                <img src="/img/brand/brand-v2-img3.png" alt="#" />
+                                <img src="/img/brand/brand-v2-img3.webp" alt="#" />
                             </div>
                         </SwiperSlide>
                     </div>

@@ -30,7 +30,7 @@ const ProjectSection = () => {
             <div className="sec-title-style3 text-center">
                 <div className="sub-title center">
                     <div className="icon">
-                        <img src="/img/icon/title-marker-4.png" alt=""/>
+                        <img src="/img/icon/title-marker-4.webp" alt=""/>
                     </div>
                     <h5>Recent Project</h5>
                 </div>

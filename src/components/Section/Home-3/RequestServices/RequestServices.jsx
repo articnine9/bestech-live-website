@@ -53,23 +53,23 @@ const RequestServices = () => {
         <section className="request-services-one request-services-one--two padding">
             <div
                 className="request-services-one--two__bg"
-                style={{ backgroundImage: "url(/img/background/request-services-v2-bg.jpg)" }}>
+                style={{ backgroundImage: "url(/img/background/request-services-v2-bg.webp)" }}>
             </div>
             <div className="shape2">
-                <img src="/img/shape/request-services-v2-shape1.png" alt="" />
+                <img src="/img/shape/request-services-v2-shape1.webp" alt="" />
             </div>
             <div className="shape3">
-                <img src="/img/shape/request-services-v2-shape2.png" alt="" />
+                <img src="/img/shape/request-services-v2-shape2.webp" alt="" />
             </div>
             <div className="request-services-one--two__img1 float-bob-y">
-                <img src="/img/resource/request-services-v2-img1.png" alt="" />
+                <img src="/img/resource/request-services-v2-img1.webp" alt="" />
             </div>
 
             <div className="container">
                 <div className="sec-title-style3 text-center">
                     <div className="sub-title center">
                         <div className="icon">
-                            <img src="/img/icon/title-marker-2.png" alt="" />
+                            <img src="/img/icon/title-marker-2.webp" alt="" />
                         </div>
                         <h5>Request Services</h5>
                     </div>

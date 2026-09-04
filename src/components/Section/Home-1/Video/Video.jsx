@@ -38,7 +38,7 @@ const Video = () => {
         <div
           className="video-one__inner"
           style={{
-            backgroundImage: "url(/img/background/video-v1-bg.jpg)",
+            backgroundImage: "url(/img/background/video-v1-bg.webp)",
           }}
         >
           <div className="video-one__video">
