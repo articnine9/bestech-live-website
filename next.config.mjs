@@ -219,11 +219,17 @@ const nextConfig = {
                 https://*.analytics.google.com
                 https://www.googletagmanager.com
                 https://*.googletagmanager.com
-                https://www.google.com
+                https://*.google.com
+                https://www.google.ae
                 https://www.google.co.in
+                https://www.google.co.uk
+                https://www.google.de
+                https://www.google.fr
+                https://www.google.com.sa
                 https://www.googleadservices.com
                 https://*.g.doubleclick.net
                 https://googleads.g.doubleclick.net
+                https://ad.doubleclick.net
                 https://stats.g.doubleclick.net
                 https://pagead2.googlesyndication.com;
               frame-src 'self'
