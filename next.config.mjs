@@ -203,7 +203,8 @@ const nextConfig = {
                 https://pagead2.googlesyndication.com
                 https://www.google.com
                 https://www.gstatic.com
-                https://stats.g.doubleclick.net;
+                https://stats.g.doubleclick.net
+                https://www.clarity.ms;
               style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
               img-src 'self' data: blob:
                 https://www.google.com
@@ -213,7 +214,7 @@ const nextConfig = {
                 https://stats.g.doubleclick.net
                 https://www.googletagmanager.com
                 https:;
-              font-src 'self' https://fonts.gstatic.com;
+              font-src 'self' data: https://fonts.gstatic.com;
               connect-src 'self'
                 https://*.google-analytics.com
                 https://*.analytics.google.com
@@ -231,7 +232,9 @@ const nextConfig = {
                 https://googleads.g.doubleclick.net
                 https://ad.doubleclick.net
                 https://stats.g.doubleclick.net
-                https://pagead2.googlesyndication.com;
+                https://pagead2.googlesyndication.com
+                https://*.clarity.ms
+                https://c.bing.com;
               frame-src 'self'
                 https://www.google.com
                 https://www.googletagmanager.com
