@@ -193,7 +193,7 @@ const nextConfig = {
             key: "Content-Security-Policy",
             value: `
               default-src 'self';
-              script-src 'self' 'unsafe-inline' 'unsafe-eval'
+              script-src 'self' 'unsafe-inline' 
                 https://www.googletagmanager.com
                 https://tagmanager.google.com
                 https://www.google-analytics.com
@@ -205,7 +205,7 @@ const nextConfig = {
                 https://www.gstatic.com
                 https://stats.g.doubleclick.net
                 https://*.clarity.ms;
-              style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+              style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://www.gstatic.com;
               img-src 'self' data: blob:
                 https://www.google.com
                 https://www.googleadservices.com
