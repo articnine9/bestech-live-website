@@ -204,7 +204,7 @@ const nextConfig = {
                 https://www.google.com
                 https://www.gstatic.com
                 https://stats.g.doubleclick.net
-                https://www.clarity.ms;
+                https://*.clarity.ms;
               style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
               img-src 'self' data: blob:
                 https://www.google.com
