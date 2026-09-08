@@ -195,9 +195,12 @@ const nextConfig = {
               default-src 'self';
               script-src 'self' 'unsafe-inline' 'unsafe-eval'
                 https://www.googletagmanager.com
+                https://tagmanager.google.com
                 https://www.google-analytics.com
+                https://ssl.google-analytics.com
                 https://googleads.g.doubleclick.net
                 https://www.googleadservices.com
+                https://pagead2.googlesyndication.com
                 https://www.google.com
                 https://www.gstatic.com
                 https://stats.g.doubleclick.net;
@@ -212,14 +215,17 @@ const nextConfig = {
                 https:;
               font-src 'self' https://fonts.gstatic.com;
               connect-src 'self'
-                https://www.google-analytics.com
+                https://*.google-analytics.com
+                https://*.analytics.google.com
                 https://www.googletagmanager.com
+                https://*.googletagmanager.com
                 https://www.google.com
                 https://www.google.co.in
                 https://www.googleadservices.com
+                https://*.g.doubleclick.net
                 https://googleads.g.doubleclick.net
                 https://stats.g.doubleclick.net
-                https://api.example.com;
+                https://pagead2.googlesyndication.com;
               frame-src 'self'
                 https://www.google.com
                 https://www.googletagmanager.com
