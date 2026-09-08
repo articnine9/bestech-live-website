@@ -1,10 +1,9 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import QuoteForm from "@/components/Section/Common/QuoteForm/QuoteForm";
 import { Modal, Button } from "react-bootstrap";
 import { useRouter } from "next/navigation";
-import products from "@/db/products.json";
 
 const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
@@ -23,16 +22,17 @@ const Header = () => {
   const router = useRouter();
   const [searchQuery, setSearchQuery] = useState("");
 
-  // Flatten all products
-  const allProducts = products.flatMap((category) => category.items);
-
-  // Filter products
-  const searchResults = allProducts.filter(
-    (item) =>
-      item.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      item.code.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      item.description.toLowerCase().includes(searchQuery.toLowerCase()),
-  );
+  const [allProducts, setAllProducts] = useState(null);
+  const [searchError, setSearchError] = useState(false);
+  const searchResults = useMemo(() => {
+    if (!searchQuery.trim() || !allProducts) return [];
+    const query = searchQuery.toLowerCase();
+    return allProducts.filter((item) =>
+      item.name.toLowerCase().includes(query) ||
+      item.code.toLowerCase().includes(query) ||
+      item.description.toLowerCase().includes(query)
+    );
+  }, [allProducts, searchQuery]);
 
   // Navigate to product page
   const handleSearchNavigate = (url) => {
@@ -89,6 +89,18 @@ const Header = () => {
   }, []);
 
   const [isActive, setIsActive] = useState(false);
+
+  useEffect(() => {
+    if (!isActive || allProducts) return;
+    let cancelled = false;
+    setSearchError(false);
+    import("@/db/products.json")
+      .then(({ default: categories }) => {
+        if (!cancelled) setAllProducts(categories.flatMap((category) => category.items));
+      })
+      .catch(() => { if (!cancelled) setSearchError(true); });
+    return () => { cancelled = true; };
+  }, [isActive, allProducts]);
 
   const togglePopup = () => {
     setIsActive(!isActive);
@@ -810,7 +822,11 @@ const Header = () => {
 
           {searchQuery && (
             <ul className="search-results">
-              {searchResults.length > 0 ? (
+              {searchError ? (
+                <li role="status">Search could not load. Close and reopen search to retry.</li>
+              ) : !allProducts ? (
+                <li role="status">Loading products...</li>
+              ) : searchResults.length > 0 ? (
                 searchResults.map((item, index) => (
                   <li
                     key={index}

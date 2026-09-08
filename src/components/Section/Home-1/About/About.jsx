@@ -10,10 +10,10 @@ const About = () => {
           <div className="col-xl-5">
             <div className="about-one__img clearfix">
               <div className="shape1 float-bob-x">
-                <img src="/img/home/about-home.webp" alt="Bestech" />
+                <img loading="lazy" decoding="async" src="/img/home/about-home.webp" alt="Bestech" />
               </div>
               <div className="inner clearfix">
-                <img
+                <img loading="lazy" decoding="async"
                   className="float-bob-y"
                   src="/img/home/about-home.webp"
                   alt="bestech"
