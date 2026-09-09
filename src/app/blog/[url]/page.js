@@ -1,11 +1,10 @@
-import fs from "fs";
-import path from "path";
+import blogs from "~/db/blogsData.json";
 import BlogContent from "./BlogContent";
 import { notFound } from "next/navigation";
 
-// Local articles change with deployments. Cache each page on first visit.
+// Generate articles at build time so first visits use cached HTML.
 export async function generateStaticParams() {
-  return [];
+  return blogs.map((blog) => ({ url: blog.link }));
 }
 
 // ✅ Next.js 16 SAFE metadata
@@ -22,9 +21,6 @@ export async function generateMetadata(props) {
     };
   }
 
-  const filePath = path.join(process.cwd(), "src", "db", "blogsData.json");
-  const fileContents = await fs.promises.readFile(filePath, "utf-8");
-  const blogs = JSON.parse(fileContents);
 
   const blog = blogs.find((item) => item.link === slug);
 
@@ -91,9 +87,6 @@ export default async function Page(props) {
   if (!slug) {
     notFound();
   }
-  const filePath = path.join(process.cwd(), "src", "db", "blogsData.json");
-  const fileContents = await fs.promises.readFile(filePath, "utf-8");
-  const blogs = JSON.parse(fileContents);
 
   const blog = blogs.find((item) => item.link === slug);
 

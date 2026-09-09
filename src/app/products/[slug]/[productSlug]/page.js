@@ -1,12 +1,16 @@
+import data from "~/db/products.json";
 
 import { notFound, redirect } from "next/navigation";
-import fs from "fs";
-import path from "path";
 import ProductDetailsPageClient from "./ProductDetailsPageClient";
 
-// Local catalog content changes with deployments. Cache each page on first visit.
+// Generate catalog pages at build time so first visits use cached HTML.
 export async function generateStaticParams() {
-  return [];
+  return data.flatMap((category) =>
+    (category.items || []).flatMap((item) => {
+      const productSlug = item.url?.split("/").filter(Boolean).pop()?.toLowerCase();
+      return productSlug ? [{ slug: category.slug, productSlug }] : [];
+    })
+  );
 }
 
 // ✅ Next.js 16 SAFE metadata
@@ -22,9 +26,6 @@ export async function generateMetadata(props) {
     };
   }
 
-  const filePath = path.join(process.cwd(), "src", "db", "products.json");
-  const fileContents = await fs.promises.readFile(filePath, "utf-8");
-  const data = JSON.parse(fileContents);
 
   const category = data.find(
     (cat) => cat.slug?.toLowerCase() === slug?.toLowerCase()
@@ -107,9 +108,6 @@ export default async function Page(props) {
     );
   }
 
-  const filePath = path.join(process.cwd(), "src", "db", "products.json");
-  const fileContents = await fs.promises.readFile(filePath, "utf-8");
-  const data = JSON.parse(fileContents);
 
   // ✅ Case-insensitive category match
   const category = data.find(

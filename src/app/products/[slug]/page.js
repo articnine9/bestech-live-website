@@ -1,11 +1,10 @@
-import path from "path";
-import fs from "fs";
+import data from "~/db/products.json";
 import { notFound } from "next/navigation";
 import ProductPageClient from "./ProductPageClient";
 
-// Local catalog content changes with deployments. Cache each page on first visit.
+// Generate categories at build time so first visits use cached HTML.
 export async function generateStaticParams() {
-  return [];
+  return data.map((category) => ({ slug: category.slug }));
 }
 
 // ✅ Server-side metadata generation
@@ -20,9 +19,6 @@ export async function generateMetadata(props) {
     };
   }
 
-  const filePath = path.join(process.cwd(), "src/db/products.json");
-  const fileContents = await fs.promises.readFile(filePath, "utf-8");
-  const data = JSON.parse(fileContents);
 
   const found = data.find((cat) => cat.slug === slug);
 
@@ -84,9 +80,6 @@ export default async function Page(props) {
 
   if (!slug) return notFound();
 
-  const filePath = path.join(process.cwd(), "src/db/products.json");
-  const fileContents = await fs.promises.readFile(filePath, "utf-8");
-  const data = JSON.parse(fileContents);
 
   const initialCategory = data.find((cat) => cat.slug === slug);
 
