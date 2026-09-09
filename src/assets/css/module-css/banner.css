@@ -250,6 +250,30 @@
   transition-delay: 1800ms;
 }
 
+/* Paint the initial slide from server HTML, without waiting for Swiper or
+   entrance animations. Later slides retain their existing transitions. */
+.main-slider.main-slider-one .hero-initial-slide .main-slider-one__content .hero-title,
+.main-slider.main-slider-one .hero-initial-slide .main-slider-one__content p,
+.main-slider.main-slider-one .hero-initial-slide .main-slider-one__content .btn-box,
+.main-slider.main-slider-one .hero-initial-slide .big-title {
+  opacity: 1;
+  transform: none;
+  transition: none;
+}
+
+.main-slider.main-slider-one .hero-initial-slide .main-slider-one__content::before {
+  opacity: 0.2;
+  width: 62%;
+  transform: none;
+  transition: none;
+}
+
+.main-slider.main-slider-one .hero-initial-slide .img-box {
+  opacity: 0.6;
+  transform: none;
+  transition: none;
+}
+
 .main-slider-one__content .btn-box .thm-btn::before {
   background: var(--thm-white);
 }

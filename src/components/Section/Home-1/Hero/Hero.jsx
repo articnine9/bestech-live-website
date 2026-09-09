@@ -1,4 +1,5 @@
 "use client";
+import { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay, EffectFade } from "swiper/modules";
 import Image from "next/image";
@@ -9,6 +10,15 @@ import "swiper/css/pagination";
 import Link from "next/link";
 
 const Hero = () => {
+  const [loadRemainingSlides, setLoadRemainingSlides] = useState(false);
+
+  useEffect(() => {
+    const load = () => setLoadRemainingSlides(true);
+    if (document.readyState === "complete") load();
+    else window.addEventListener("load", load, { once: true });
+    return () => window.removeEventListener("load", load);
+  }, []);
+
   return (
     <section className="main-slider main-slider-one">
       <Swiper
@@ -26,13 +36,10 @@ const Hero = () => {
           prevEl: "#main-slider__swiper-button-prev",
         }}
         autoplay={{ delay: 7000 }}
+        onSlideChange={() => setLoadRemainingSlides(true)}
         modules={[Autoplay, Pagination, Navigation, EffectFade]}
       >
-        <SwiperSlide>
-          {/* <div
-            className="image-layer"
-            style={{ backgroundImage: "url(/img/header/slider/1.webp)" }}
-          ></div> */}
+        <SwiperSlide className="hero-initial-slide">
           <div className="image-layer">
             <Image
               src="/img/header/slider/1.webp"
@@ -41,7 +48,7 @@ const Hero = () => {
               priority
               fetchPriority="high"
               sizes="100vw"
-              className="object-cover"
+              style={{ objectFit: "cover" }}
             />
           </div>
           <div className="big-title">
@@ -88,7 +95,7 @@ const Hero = () => {
         <SwiperSlide>
           <div
             className="image-layer"
-            style={{ backgroundImage: "url(/img/header/slider/2.webp)" }}
+            style={loadRemainingSlides ? { backgroundImage: "url(/img/header/slider/2.webp)" } : undefined}
           ></div>
 
           <div className="big-title">
@@ -135,7 +142,7 @@ const Hero = () => {
         <SwiperSlide>
           <div
             className="image-layer"
-            style={{ backgroundImage: "url(/img/header/slider/3.webp)" }}
+            style={loadRemainingSlides ? { backgroundImage: "url(/img/header/slider/3.webp)" } : undefined}
           ></div>
 
           <div className="big-title">
