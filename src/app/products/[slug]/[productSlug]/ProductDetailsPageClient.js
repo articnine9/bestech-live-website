@@ -1,18 +1,10 @@
 "use client";
 
-import { useParams } from "next/navigation";
 import PageHeader from "~/components/Section/Common/PageHeader";
-import data from "~/db/products.json";
 import DetailsSection from "@/components/Section/ProjectDetails/DetailsSection";
 
-export default function ProductDetailsPageClient() {
-  const { slug, productSlug } = useParams();
-
-  const category = data.find((cat) => cat.slug === slug);
-  const product =
-    category?.items?.find(
-      (item) => item.url?.split("/").pop() === productSlug
-    ) || null;
+export default function ProductDetailsPageClient({ product, category }) {
+  const slug = category.slug;
 
   return (
     <>

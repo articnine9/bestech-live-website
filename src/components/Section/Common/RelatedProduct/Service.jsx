@@ -9,7 +9,6 @@ import "swiper/css/pagination";
 import RelatedProduct from "./RelatedSlider";
 
 const Service = ({ category,product}) => {
-  console.log("Product",product)
 
   const relatedProducts = category?.items.filter((item)=>item.name !== product.name)
   

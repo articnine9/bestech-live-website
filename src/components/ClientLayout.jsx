@@ -1,13 +1,12 @@
 "use client";
 
 import { useEffect } from "react";
-import Footer from "./Section/Common/Footer";
 import Header from "./Section/Common/Header";
 import ChatPopup from "./ChatPopup";
 import Chatbot from "./Chatbot/Chatbot";
 import FloatingButtons from "./FloatingButtons";
 
-export default function ClientLayout({ children }) {
+export default function ClientLayout({ children, footer }) {
   useEffect(() => {
     const deferredStyles = ["/css/animate.min.css", "/css/custom-animate.css"];
     const load = () => {
@@ -33,7 +32,7 @@ export default function ClientLayout({ children }) {
       <ChatPopup />
       <Chatbot />
       <FloatingButtons />
-      <Footer />
+      {footer}
     </>
   );
 }

@@ -29,7 +29,8 @@ const BlogCardFour = ({ items, productcode }) => {
                   </div>
                   <div className="inner">
                     <img
-                      src={item?.image || "https://placehold.co/400x250"} // Updated to use item.image
+                      decoding="async"
+                      src={item?.image || "https://placehold.co/400x250"}
                       alt={item?.alttext || "Product image"}
                     />
                   </div>
@@ -37,7 +38,7 @@ const BlogCardFour = ({ items, productcode }) => {
 
                 <div className="blog-two__single-content">
                   <h2>
-                    <Link href={`/products${safeLink}`}>
+                    <Link prefetch={false} href={`/products${safeLink}`}>
                       {item?.name || "Untitled"}
                     </Link>
                   </h2>
@@ -48,7 +49,7 @@ const BlogCardFour = ({ items, productcode }) => {
                   </ul> */}
 
                   <div className="btn-box">
-                    <Link
+                    <Link prefetch={false}
                       href={`/products${safeLink}`}
                       aria-label={`Read more about ${item?.name || "this product"}`}
                     >

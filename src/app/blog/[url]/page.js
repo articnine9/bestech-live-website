@@ -3,6 +3,11 @@ import path from "path";
 import BlogContent from "./BlogContent";
 import { notFound } from "next/navigation";
 
+// Local articles change with deployments. Cache each page on first visit.
+export async function generateStaticParams() {
+  return [];
+}
+
 // ✅ Next.js 16 SAFE metadata
 export async function generateMetadata(props) {
   const params = await props.params;

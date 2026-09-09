@@ -1,4 +1,5 @@
 import dynamic from "next/dynamic";
+import blogData from "~/db/blogsData.json";
 import Hero from "~/components/Section/Home-1/Hero";
 
 // Below-fold sections — loaded after page is interactive
@@ -84,7 +85,9 @@ export default function Home() {
         <Service />
         <ChooseUs />
         <Faq />
-        <Blog />
+        <Blog data={blogData.map(({ link, image, category, title, author, date }) => ({
+          link, image, category, title, author, date,
+        }))} />
       </div>
     </div>
     </>

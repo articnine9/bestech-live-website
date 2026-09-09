@@ -4,6 +4,11 @@ import fs from "fs";
 import path from "path";
 import ProductDetailsPageClient from "./ProductDetailsPageClient";
 
+// Local catalog content changes with deployments. Cache each page on first visit.
+export async function generateStaticParams() {
+  return [];
+}
+
 // ✅ Next.js 16 SAFE metadata
 export async function generateMetadata(props) {
   const params = await props.params;
@@ -25,14 +30,12 @@ export async function generateMetadata(props) {
     (cat) => cat.slug?.toLowerCase() === slug?.toLowerCase()
   );
 
-  console.log("Category", category)
 
   const product = category?.items?.find((item) => {
     const parts = item.url?.split("/").filter(Boolean);
     const lastSegment = parts?.[parts.length - 1];
     return lastSegment?.toLowerCase() === productSlug?.toLowerCase();
   });
-  console.log("product", product)
   if (!product) {
     return {
       title: "Product Not Found",
@@ -218,7 +221,17 @@ export default async function Page(props) {
         }}
       />
 
-      <ProductDetailsPageClient product={product} />
+      <ProductDetailsPageClient
+        key={product.url}
+        product={product}
+        category={{
+          slug: category.slug,
+          page_name: category.page_name,
+          items: category.items.map(({ name, image, url, description }) => ({
+            name, image, url, description,
+          })),
+        }}
+      />
     </>
   );
 }

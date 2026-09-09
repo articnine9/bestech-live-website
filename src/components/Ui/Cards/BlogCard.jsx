@@ -3,21 +3,21 @@ import Link from "next/link";
 const BlogCard = ({ item }) => {
   return (
     <div className="blog-one__single">
-      <Link href={`/blog/${item?.link}`}>
+      <Link prefetch={false} href={`/blog/${item?.link}`}>
         <div className="blog-one__single-img">
           <div className="inner">
-            <img src={item?.image} alt="#" />
+            <img decoding="async" src={item?.image} alt="#" />
             <div className="text-box">{item?.category}</div>
           </div>
         </div>
       </Link>
       <div className="blog-one__single-content">
         <h2>
-          <Link href={`/blog/${item?.link}`}>{item?.title}</Link>
+          <Link prefetch={false} href={`/blog/${item?.link}`}>{item?.title}</Link>
         </h2>
         <ul className="meta-box">
           <li>
-            <Link href="blog">By {item?.author}</Link>
+            <Link prefetch={false} href="blog">By {item?.author}</Link>
           </li>
           <li>-</li>
           <li>{item?.date}</li>

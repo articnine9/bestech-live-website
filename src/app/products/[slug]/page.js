@@ -3,6 +3,11 @@ import fs from "fs";
 import { notFound } from "next/navigation";
 import ProductPageClient from "./ProductPageClient";
 
+// Local catalog content changes with deployments. Cache each page on first visit.
+export async function generateStaticParams() {
+  return [];
+}
+
 // ✅ Server-side metadata generation
 export async function generateMetadata(props) {
   const params = await props.params;

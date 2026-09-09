@@ -6,17 +6,17 @@ const RelatedProduct = ({ item }) => {
     <div className="service-one__single">
       <div className="service-one__single-img">
         <div className="inner">
-          <img src={item?.image} alt="#" />
+          <img decoding="async" src={item?.image} alt="#" />
           <div className="overlay-icon"></div>
         </div>
       </div>
       <div className="service-one__single-content">
         <h3>
-          <Link href={`/products${item.url}`}>{item?.name}</Link>
+          <Link prefetch={false} href={`/products${item.url}`}>{item?.name}</Link>
         </h3>
         <p>{item?.description}</p>
         <div className="btn-box">
-          <Link href={`/products${item.url}`} aria-label={`Read more about ${item?.name || "this product"}`}>
+          <Link prefetch={false} href={`/products${item.url}`} aria-label={`Read more about ${item?.name || "this product"}`}>
             Read More <span className="icon-right-arrow"></span>
           </Link>
         </div>
