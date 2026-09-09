@@ -6,7 +6,7 @@ const BlogCard = ({ item }) => {
       <Link prefetch={false} href={`/blog/${item?.link}`}>
         <div className="blog-one__single-img">
           <div className="inner">
-            <img decoding="async" src={item?.image} alt="#" />
+            <img decoding="async" fetchPriority="low" src={item?.image} alt="#" />
             <div className="text-box">{item?.category}</div>
           </div>
         </div>

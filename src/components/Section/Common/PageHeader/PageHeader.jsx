@@ -3,6 +3,8 @@ import Link from "next/link";
 const PageHeader = ({ title, breadcrumbs = [], bgImage = "/img/home/faq/2.webp" }) => {
 
   return (
+    <>
+    <link rel="preload" as="image" href={bgImage} fetchPriority="high" />
     <section className="page-header padding">
       <div
         className="page-header__bg"
@@ -42,6 +44,7 @@ const PageHeader = ({ title, breadcrumbs = [], bgImage = "/img/home/faq/2.webp" 
         </div>
       </div>
     </section>
+    </>
   );
 };
 
