@@ -235,6 +235,13 @@ export const blogPosts = [
     description:
       "Explore 10 commonly needed elevator spare parts in the UAE and what maintenance teams should check before sourcing replacement components.",
   },
+   {
+    slug: "compatible-elevator-spare-parts-for-different-lift-brands",
+    title: "How to Select Compatible Elevator Spare Parts for Different Lift Brands",
+    date: "2026-09-16",
+    description:
+      "Learn how to select elevator spare parts for different lift systems by checking specifications, compatibility, components and supplier support.",
+  },
 ];
 
 // Function to fetch all blog posts
