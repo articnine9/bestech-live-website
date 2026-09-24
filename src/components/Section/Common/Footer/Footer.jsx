@@ -69,7 +69,7 @@ const Footer = () => {
                         href="https://www.facebook.com/bestech.spareparts"
                         aria-label="Visit Bestech Spare Parts on Facebook"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="nofollow noopener noreferrer"
                       >
                         <span className="icon-facebook"></span>
                       </Link>
@@ -77,7 +77,7 @@ const Footer = () => {
                         href="https://www.instagram.com/bestech_spareparts/"
                         aria-label="Visit Bestech Spare Parts on Instagram"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="nofollow noopener noreferrer"
                       >
                         <span className="icon-instagram"></span>
                       </Link>
@@ -85,7 +85,7 @@ const Footer = () => {
                         href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
                         aria-label="Visit Bestech Spare Parts on LinkedIn"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="nofollow noopener noreferrer"
                       >
                         <span className="icon-linkedin"></span>
                       </Link>

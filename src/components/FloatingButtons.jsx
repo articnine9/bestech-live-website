@@ -41,7 +41,7 @@ export default function FloatingButtons() {
       <a
         href="https://wa.me/971543093833"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="nofollow noopener noreferrer"
         className={`${styles.floatingButton} ${styles.whatsapp}`}
         aria-label="WhatsApp us"
       >

@@ -2,6 +2,30 @@ import Link from "next/link";
 import data from "~/db/blogsData.json";
 import PageHeader from "~/components/Section/Common/PageHeader";
 
+
+export const metadata = {
+    title: "Blog Categories | Bestech Spare Parts",
+    description:
+        "Explore blog categories from Bestech Spare Parts covering elevator spare parts, maintenance, components, technology, and industry insights.",
+    keywords: [
+        "elevator spare parts",
+        "elevator components",
+        "elevator maintenance",
+        "elevator industry",
+        "elevator spare parts UAE",
+        "Bestech Spare Parts",
+        "lift spare parts",
+    ],
+    alternates: {
+        canonical: "https://www.bestechparts.ae/blog/category",
+    },
+    robots: {
+        index: true,
+        follow: true,
+    },
+};
+
+
 export default function CategoryListPage() {
     // get unique categories
     const categories = [

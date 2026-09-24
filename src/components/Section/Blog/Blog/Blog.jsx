@@ -65,7 +65,7 @@ const productcategories = [
   {
     title: "Other Components",
     image: "/img/product-default-img.webp",
-    link: "other",
+    link: "other-components",
     items: [
       { name: "Encoders", link: "encoders" },
       { name: "Cabinet set", link: "cabinet-set" },

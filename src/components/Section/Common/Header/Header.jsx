@@ -183,7 +183,7 @@ const Header = () => {
                                         href="https://www.facebook.com/bestech.spareparts"
                                         aria-label="Visit Bestech Spare Parts on Facebook"
                                         target="_blank"
-                                        rel="noopener noreferrer"
+                                        rel="nofollow noopener noreferrer"
                                       >
                                         <span className="icon-facebook"></span>
                                       </Link>
@@ -193,7 +193,7 @@ const Header = () => {
                                         href="https://www.instagram.com/bestech_spareparts/"
                                         aria-label="Visit Bestech Spare Parts on Instagram"
                                         target="_blank"
-                                        rel="noopener noreferrer"
+                                        rel="nofollow noopener noreferrer"
                                       >
                                         <span className="icon-instagram"></span>
                                       </Link>
@@ -203,7 +203,7 @@ const Header = () => {
                                         href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
                                         aria-label="Visit Bestech Spare Parts on LinkedIn"
                                         target="_blank"
-                                        rel="noopener noreferrer"
+                                        rel="nofollow noopener noreferrer"
                                       >
                                         <span className="icon-linkedin"></span>
                                       </Link>
@@ -748,10 +748,10 @@ const Header = () => {
                     <ul className="clearfix list-wrap">
                       <li>
                         <Link
-                          href="https://www.facebook.com/bestech.elevators"
+                          href="https://www.facebook.com/bestech.spareparts"
                           aria-label="Visit Bestech Elevators on Facebook"
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="nofollow noopener noreferrer"
                         >
                           <i className="fab fa-facebook-f"></i>
                         </Link>
@@ -761,17 +761,17 @@ const Header = () => {
                           href="https://www.instagram.com/bestech_elevators/"
                           aria-label="Visit Bestech Elevators on Instagram"
                           target="_blank"
-                          rel="noopener noreferrer"
+                         rel="nofollow noopener noreferrer"
                         >
                           <i className="fab fa-instagram"></i>
                         </Link>
                       </li>
                       <li>
                         <Link
-                          href="https://www.linkedin.com/company/bes-tech-elevators-spare-parts/"
+                          href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
                           aria-label="Visit Bestech Elevators on LinkedIn"
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="nofollow noopener noreferrer"
                         >
                           <i className="fab fa-linkedin-in"></i>
                         </Link>
