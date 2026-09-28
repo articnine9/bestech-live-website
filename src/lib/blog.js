@@ -242,6 +242,13 @@ export const blogPosts = [
     description:
       "Learn how to select elevator spare parts for different lift systems by checking specifications, compatibility, components and supplier support.",
   },
+   {
+    slug: "elevator-spare-parts-by-model-specification-application",
+    title: "How to Match Elevator Spare Parts by Model, Specification & Application",
+    date: "2026-09-28",
+    description:
+      "Learn how to identify elevator spare parts using model numbers, specifications, dimensions and application before choosing a replacement.",
+  },
 ];
 
 // Function to fetch all blog posts
