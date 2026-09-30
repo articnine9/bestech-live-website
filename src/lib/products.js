@@ -5322,10 +5322,10 @@ export const products = [
         name: "Light curtain - Door sensor (Center open): Photocell",
         description: "Photocell (Center open)",
         code: "BS-SR0009",
-        url: "/sensors/light-curtain-door-sensor-center-open",
+        url: "/sensors/weco-elevator-door-sensor-917a61",
         image:
-          "/img/products/sensors/light-curtain-door-sensor-center-open/elevator-light-curtain-door-sensor-center-open-2.webp",
-        slider: ["elevator-light-curtain-door-sensor-center-open-2", "elevator-light-curtain-door-sensor-center-open-1"],
+          "/img/products/sensors/weco-elevator-door-sensor-917a61/elevator-weco-elevator-door-sensor-917a61-2.webp",
+        slider: ["elevator-weco-elevator-door-sensor-917a61-2", "elevator-weco-elevator-door-sensor-917a61-1"],
         canonical:
           "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-center-open",
         robots:

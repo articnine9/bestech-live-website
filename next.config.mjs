@@ -164,6 +164,11 @@ const nextConfig = {
         source: "/products/tool-kits/k-tool-kit",
         destination: "/products/tool-kits/tool-kit-km878240g01",
         permanent: true,
+      },
+       {
+        source: "/products/sensors/light-curtain-door-sensor-center-open",
+        destination: "/products/sensors/weco-elevator-door-sensor-917a61",
+        permanent: true,
       }
 
 
