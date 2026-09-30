@@ -5319,15 +5319,15 @@ export const products = [
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
       {
-        name: "Light curtain - Door sensor (Center open): Photocell",
-        description: "Photocell (Center open)",
+        name: "WECO Elevator Door Sensor 917A61",
+        description: "WECO 917A61 Elevator Door Sensor / Light Curtain",
         code: "BS-SR0009",
         url: "/sensors/weco-elevator-door-sensor-917a61",
         image:
           "/img/products/sensors/weco-elevator-door-sensor-917a61/elevator-weco-elevator-door-sensor-917a61-2.webp",
         slider: ["elevator-weco-elevator-door-sensor-917a61-2", "elevator-weco-elevator-door-sensor-917a61-1"],
         canonical:
-          "https://www.bestechparts.ae/products/sensors/light-curtain-door-sensor-center-open",
+          "https://www.bestechparts.ae/products/sensors/weco-elevator-door-sensor-917a61",
         robots:
           "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
