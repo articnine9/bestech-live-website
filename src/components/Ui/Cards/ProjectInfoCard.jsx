@@ -1,7 +1,24 @@
 "use client";
 import { useState } from "react";
+import { FaEnvelope, FaWhatsapp } from "react-icons/fa";
+import styles from "./ProjectInfoCard.module.css";
+
+const WHATSAPP_NUMBER = "971543093833";
+const SALES_EMAIL = "sales@bestechparts.ae";
 
 const ProjectInfoCard = ({ product, category }) => {
+  // Prefill the enquiry with the product so sales knows what is being asked about.
+  const productLabel = [product?.name, product?.code && `(${product.code})`]
+    .filter(Boolean)
+    .join(" ");
+  const enquiryText = productLabel
+    ? `Hello Bestech, I would like to enquire about: ${productLabel}`
+    : "Hello Bestech, I would like to enquire about a product.";
+  const whatsappHref = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(enquiryText)}`;
+  const emailHref = `mailto:${SALES_EMAIL}?subject=${encodeURIComponent(
+    productLabel ? `Enquiry: ${productLabel}` : "Product enquiry"
+  )}&body=${encodeURIComponent(enquiryText)}`;
+
   const [formData, setFormData] = useState({
     name: "",
     company: "",
@@ -129,7 +146,28 @@ const ProjectInfoCard = ({ product, category }) => {
           </li>
         </ul>
 
-        <div className="project-details__sidebar-contact mt-5">
+        <div className={styles.quickContact}>
+          <a
+            href={whatsappHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`${styles.quickBtn} ${styles.whatsapp}`}
+            aria-label="Enquire about this product on WhatsApp"
+          >
+            <FaWhatsapp size={18} />
+            WhatsApp
+          </a>
+          <a
+            href={emailHref}
+            className={`${styles.quickBtn} ${styles.email}`}
+            aria-label="Enquire about this product by email"
+          >
+            <FaEnvelope size={16} />
+            Email
+          </a>
+        </div>
+
+        <div className="project-details__sidebar-contact mt-4">
           <form onSubmit={handleSubmit}>
             <h2 className="mb-3">| Product Message</h2>
             <p className="mb-4">

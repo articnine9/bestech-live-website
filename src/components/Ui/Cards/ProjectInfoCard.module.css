@@ -1,0 +1,46 @@
+.quickContact {
+  display: flex;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.quickBtn {
+  flex: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1;
+  color: #fff;
+  text-decoration: none;
+  transition: filter 0.2s ease, transform 0.2s ease;
+}
+
+.quickBtn:hover {
+  color: #fff;
+  filter: brightness(1.08);
+  transform: translateY(-1px);
+}
+
+.quickBtn:focus-visible {
+  outline: 3px solid #ffc107;
+  outline-offset: 2px;
+}
+
+.whatsapp {
+  background: #25d366;
+}
+
+.email {
+  background: #004a8f;
+}
+
+@media (max-width: 380px) {
+  .quickContact {
+    flex-direction: column;
+  }
+}
