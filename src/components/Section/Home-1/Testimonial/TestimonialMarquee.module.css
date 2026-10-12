@@ -1,0 +1,200 @@
+.section {
+  position: relative;
+  padding: 100px 0;
+  background: #fff;
+  overflow: hidden;
+}
+
+.head {
+  max-width: 720px;
+  margin: 0 auto 48px;
+  padding: 0 15px;
+  text-align: center;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 20px;
+  padding: 5px 16px 5px 5px;
+  border-radius: 999px;
+  background: #0b1524;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.badgeIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #004b83;
+  font-size: 12px;
+}
+
+.title {
+  margin: 0;
+  color: #0b1524;
+  font-size: clamp(28px, 3.4vw, 44px);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+/* Fade the cards out at both edges, as they slide in and out of view. */
+.rows {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 1500px;
+  margin: 0 auto;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
+}
+
+.row {
+  overflow: hidden;
+}
+
+.track {
+  display: flex;
+  gap: 20px;
+  width: max-content;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  animation: slide 60s linear infinite;
+}
+
+.trackReverse {
+  animation-direction: reverse;
+}
+
+/* Let people stop the motion to read a card. */
+.row:hover .track,
+.row:focus-within .track {
+  animation-play-state: paused;
+}
+
+/* The track holds two identical halves, so -50% lands exactly on the start.
+   The extra 10px is half of the 20px gap between the halves. */
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(calc(-50% - 10px));
+  }
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  width: 340px;
+  padding: 26px 26px 24px;
+  border: 1px solid #e9ecf1;
+  border-radius: 16px;
+  background: #f5f6f9;
+}
+
+.quoteIcon {
+  width: 24px;
+  height: 24px;
+  margin-bottom: 14px;
+  color: #004b83;
+}
+
+.text {
+  flex: 1;
+  margin: 0 0 22px;
+  color: #1b2533;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.55;
+}
+
+.person {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.avatar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #004b83;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.name {
+  display: block;
+  color: #0b1524;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.role {
+  display: block;
+  color: #6b7482;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+@media (max-width: 767px) {
+  .section {
+    padding: 60px 0;
+  }
+
+  .head {
+    margin-bottom: 32px;
+  }
+
+  .rows,
+  .track {
+    gap: 14px;
+  }
+
+  @keyframes slide {
+    to {
+      transform: translateX(calc(-50% - 7px));
+    }
+  }
+
+  .card {
+    width: 280px;
+    padding: 20px;
+  }
+
+  .text {
+    font-size: 15px;
+  }
+}
+
+/* No auto-motion: the rows become ordinary swipeable lists. */
+@media (prefers-reduced-motion: reduce) {
+  .track {
+    animation: none;
+  }
+
+  .row {
+    overflow-x: auto;
+  }
+
+  .card[aria-hidden="true"] {
+    display: none;
+  }
+}

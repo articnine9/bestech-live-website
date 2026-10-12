@@ -19,6 +19,7 @@ const partCount = Math.floor(partTotal / 50) * 50;
 const About   = dynamic(() => import("~/components/Section/Home-1/About"));
 const Service = dynamic(() => import("~/components/Section/Home-1/Service"));
 const ChooseUs = dynamic(() => import("~/components/Section/Home-1/ChooseUs/ChooseUs"));
+const Testimonials = dynamic(() => import("~/components/Section/Home-1/Testimonial/TestimonialMarquee"));
 const Faq     = dynamic(() => import("~/components/Section/Home-1/Faq/Faq"));
 const Blog    = dynamic(() => import("~/components/Section/Home-1/Blog"));
 
@@ -97,6 +98,7 @@ export default function Home() {
         <About />
         <Service />
         <ChooseUs />
+        <Testimonials />
         <Faq />
         <Blog data={blogData.map(({ link, image, category, title, author, date }) => ({
           link, image, category, title, author, date,
