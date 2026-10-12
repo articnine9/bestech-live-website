@@ -1,208 +1,128 @@
 "use client";
 import { useEffect, useState } from "react";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination, Autoplay, EffectFade } from "swiper/modules";
 import Image from "next/image";
-import "swiper/css";
-import "swiper/css/effect-fade";
-import "swiper/css/navigation";
-import "swiper/css/pagination";
 import Link from "next/link";
+import HeroSearch from "./HeroSearch";
+import styles from "./Hero.module.css";
 
-const Hero = () => {
-  const [loadRemainingSlides, setLoadRemainingSlides] = useState(false);
+const BACKGROUNDS = [
+  "/img/header/slider/1.webp",
+  "/img/header/slider/2.webp",
+  "/img/header/slider/3.webp",
+];
+const ROTATE_MS = 7000;
 
+const POPULAR = [
+  { name: "Buttons", slug: "buttons" },
+  { name: "Contactors", slug: "contactors" },
+  { name: "Door Locks", slug: "door-locks" },
+  { name: "Sensors", slug: "sensors" },
+  { name: "Encoders", slug: "encoders" },
+  { name: "Guide Shoes", slug: "guide-shoes" },
+];
+
+const Hero = ({ partCount }) => {
+  const [active, setActive] = useState(0);
+  const [loadRest, setLoadRest] = useState(false);
+  const [searching, setSearching] = useState(false);
+
+  // Only the first background is needed for first paint; fetch the others once
+  // the page has loaded.
   useEffect(() => {
-    const load = () => setLoadRemainingSlides(true);
+    const load = () => setLoadRest(true);
     if (document.readyState === "complete") load();
     else window.addEventListener("load", load, { once: true });
     return () => window.removeEventListener("load", load);
   }, []);
 
+  // Cross-fade the backgrounds, but hold still while the search is in use and
+  // for visitors who prefer reduced motion.
+  useEffect(() => {
+    if (!loadRest || searching) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const timer = setInterval(
+      () => setActive((i) => (i + 1) % BACKGROUNDS.length),
+      ROTATE_MS
+    );
+    return () => clearInterval(timer);
+  }, [loadRest, searching]);
+
+  const countLabel = partCount ? `${partCount}+` : null;
+
   return (
-    <section className="main-slider main-slider-one">
-      <Swiper
-        className="swiper-container thm-swiper__slider"
-        slidesPerView={1}
-        loop={true}
-        effect={"fade"}
-        pagination={{
-          el: "#main-slider-pagination",
-          type: "bullets",
-          clickable: true,
-        }}
-        navigation={{
-          nextEl: "#main-slider__swiper-button-next",
-          prevEl: "#main-slider__swiper-button-prev",
-        }}
-        autoplay={{ delay: 7000 }}
-        onSlideChange={() => setLoadRemainingSlides(true)}
-        modules={[Autoplay, Pagination, Navigation, EffectFade]}
-      >
-        <SwiperSlide className="hero-initial-slide">
-          <div className="image-layer">
+    <section className={styles.hero}>
+      <div className={styles.media} aria-hidden="true">
+        {BACKGROUNDS.map((src, index) =>
+          index === 0 || loadRest ? (
             <Image
-              src="/img/header/slider/1.webp"
-              alt="Bestech Slider"
+              key={src}
+              src={src}
+              alt=""
               fill
-              priority
-              fetchPriority="high"
               sizes="100vw"
-              style={{ objectFit: "cover" }}
+              priority={index === 0}
+              fetchPriority={index === 0 ? "high" : "auto"}
+              className={`${styles.slide} ${
+                index === active ? styles.slideActive : ""
+              }`}
             />
-          </div>
-          <div className="big-title">
-            <div>Bestech</div>
-          </div>
+          ) : null
+        )}
+        <div className={styles.overlay} />
+      </div>
 
-          <div className="img-box">
-            <img src="/img/slider/slider-v1-img4.webp" alt="Bestech" />
-          </div>
+      <div className={styles.content}>
+        <span className={styles.eyebrow}>Elevator Spare Parts Supplier · UAE</span>
 
-          <div className="icon-one">
-            <img src="/img/icon/slider-v1-icon1.webp" alt="Bestech" />
-          </div>
-
-          <div className="icon-two">
-            <img src="/img/icon/slider-v1-icon2.webp" alt="Bestech" />
-          </div>
-
-          <div className="container">
-            <div className="main-slider-one__single padding">
-              <div className="main-slider-one__content">
-                <div className="hero-title">
-                  Engineering Excellence. <br />
-                  <span>Trusted</span> Solutions.
-                </div>
-
-                <p>
-                  Delivering high-quality elevator and engineering products
-                  built for performance, <br />
-                  safety, and reliability.
-                </p>
-
-                <div className="btn-box">
-                  <Link className="thm-btn" href="/products">
-                    <span className="txt">Explore Products</span>
-                    <i className="icon-right-arrow"></i>
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-
-        <SwiperSlide>
-          <div
-            className="image-layer"
-            style={loadRemainingSlides ? { backgroundImage: "url(/img/header/slider/2.webp)" } : undefined}
-          ></div>
-
-          <div className="big-title">
-            <div>Bestech</div>
-          </div>
-
-          <div className="img-box">
-            <img src="/img/slider/slider-v1-img4.webp" alt="Bestech" />
-          </div>
-
-          <div className="icon-one">
-            <img src="/img/icon/slider-v1-icon1.webp" alt="Bestech" />
-          </div>
-
-          <div className="icon-two">
-            <img src="/img/icon/slider-v1-icon2.webp" alt="Bestech" />
-          </div>
-
-          <div className="container">
-            <div className="main-slider-one__single padding">
-              <div className="main-slider-one__content">
-                <div className="hero-title">
-                  Safety You Can Trust. <br />
-                  <span>Quality</span> You Deserve.
-                </div>
-
-                <p>
-                  Precision components and tested technology that ensure your
-                  elevator systems <br />
-                  run safely and smoothly, every time.
-                </p>
-
-                <div className="btn-box">
-                  <Link className="thm-btn" href="/about">
-                    <span className="txt">Our Expertise</span>
-                    <i className="icon-right-arrow"></i>
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-
-        <SwiperSlide>
-          <div
-            className="image-layer"
-            style={loadRemainingSlides ? { backgroundImage: "url(/img/header/slider/3.webp)" } : undefined}
-          ></div>
-
-          <div className="big-title">
-            <div>Bestech</div>
-          </div>
-
-          <div className="img-box">
-            <img src="/img/slider/slider-v1-img4.webp" alt="Bestech" />
-          </div>
-
-          <div className="icon-one">
-            <img src="/img/icon/slider-v1-icon1.webp" alt="Bestech" />
-          </div>
-
-          <div className="icon-two">
-            <img src="/img/icon/slider-v1-icon2.webp" alt="Bestech" />
-          </div>
-
-          <div className="container">
-            <div className="main-slider-one__single padding">
-              <div className="main-slider-one__content">
-                <div className="hero-title">
-                  Innovation in Motion. <br />
-                  <span>Reliability</span> in Every Part.
-                </div>
-
-                <p>
-                  From sensors to control boards, we deliver cutting-edge
-                  solutions <br />
-                  that drive performance and reduce downtime.
-                </p>
-
-                <div className="btn-box">
-                  <Link className="thm-btn" href="/contact">
-                    <span className="txt">Contact Us</span>
-                    <i className="icon-right-arrow"></i>
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-
-        <div className="swiper-pagination" id="main-slider-pagination"></div>
-
-        <div className="main-slider__nav">
-          <div
-            className="swiper-button-prev"
-            id="main-slider__swiper-button-next"
-          >
-            <i className="fa fa-angle-left"></i>
-          </div>
-          <div
-            className="swiper-button-next"
-            id="main-slider__swiper-button-prev"
-          >
-            <i className="fa fa-angle-right"></i>
-          </div>
+        <div className={styles.title}>
+          Find the Right <span>Elevator Spare Part</span>
         </div>
-      </Swiper>
+
+        <p className={styles.sub}>
+          Search {countLabel ? `${countLabel} ` : ""}lift and escalator parts by
+          name or code — buttons, contactors, door components, sensors and more,
+          supplied across the UAE.
+        </p>
+
+        <div className={styles.search}>
+          <HeroSearch onActiveChange={setSearching} />
+        </div>
+
+        <div className={styles.popular}>
+          <span className={styles.popularLabel}>Popular:</span>
+          {POPULAR.map((cat) => (
+            <Link
+              key={cat.slug}
+              href={`/products/${cat.slug}`}
+              className={styles.chip}
+            >
+              {cat.name}
+            </Link>
+          ))}
+          <Link href="/products" className={`${styles.chip} ${styles.chipAll}`}>
+            All products <i className="icon-right-arrow" aria-hidden="true"></i>
+          </Link>
+        </div>
+      </div>
+
+      <div className={styles.stats}>
+        <ul className={styles.statsInner}>
+          {countLabel && (
+            <li>
+              <span className={styles.statValue}>{countLabel}</span>
+              <span className={styles.statLabel}>Parts listed</span>
+            </li>
+          )}
+          <li>
+            <span className={styles.statValue}>Since 2015</span>
+            <span className={styles.statLabel}>Supplying elevator parts</span>
+          </li>
+          <li>
+            <span className={styles.statValue}>UAE-wide</span>
+            <span className={styles.statLabel}>Supply from Sharjah</span>
+          </li>
+        </ul>
+      </div>
     </section>
   );
 };
