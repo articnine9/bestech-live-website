@@ -249,6 +249,13 @@ export const blogPosts = [
     description:
       "Learn how to identify elevator spare parts using model numbers, specifications, dimensions and application before choosing a replacement.",
   },
+   {
+    slug: "elevator-door-lock-types-cop-and-lop",
+    title: "Elevator Door Lock Types Explained: Landing Locks, Interlocks, Contacts, COP & LOP Locks",
+    date: "2026-10-12",
+    description:
+      "Explore elevator door lock types, including landing locks, interlocks, contacts, COP and LOP locks, and what to check before ordering parts.",
+  },
 ];
 
 // Function to fetch all blog posts
