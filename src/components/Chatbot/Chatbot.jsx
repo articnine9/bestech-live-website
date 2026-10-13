@@ -401,7 +401,7 @@ export default function Chatbot() {
                           key={`${m.id}-c${i}`}
                           href={c.href}
                           className={`${styles.chip} ${c.accent ? styles.chipAccent : ""}`}
-                          {...(c.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+                          {...(c.external ? { target: "_blank", rel: "nofollow noopener noreferrer" } : {})}
                         >
                           {c.label}
                         </a>
