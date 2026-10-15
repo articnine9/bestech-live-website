@@ -13,7 +13,9 @@ const partTotal = catalog.reduce(
     (cat.items || []).filter((i) => i?.url && !NAV_CODE.test(i.code || "")).length,
   0
 );
-const partCount = Math.floor(partTotal / 50) * 50;
+// const partCount = Math.floor(partTotal / 50) * 50;
+const partCount = 1000;
+
 
 // Below-fold sections — loaded after page is interactive
 const About   = dynamic(() => import("~/components/Section/Home-1/About"));

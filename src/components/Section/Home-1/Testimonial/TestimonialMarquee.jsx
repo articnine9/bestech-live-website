@@ -20,10 +20,37 @@ const fillRow = (items) => {
   return row;
 };
 
+
+const StarRating = ({ rating }) => {
+  if (!Number.isInteger(rating) || rating < 1 || rating > 5) {
+    return null;
+  }
+
+  return (
+    <div
+      className={styles.rating}
+      role="img"
+      aria-label={`${rating} out of 5 stars`}
+    >
+      {[1, 2, 3, 4, 5].map((star) => (
+        <span
+          key={star}
+          aria-hidden="true"
+          className={star <= rating ? styles.starFilled : styles.starEmpty}
+        >
+          ★
+        </span>
+      ))}
+    </div>
+  );
+};
+
+
 const Card = ({ item, hidden }) => (
   <li className={styles.card} aria-hidden={hidden || undefined}>
     <FaQuoteLeft className={styles.quoteIcon} aria-hidden="true" />
     <p className={styles.text}>{item.description}</p>
+    <StarRating rating={item.rating} />
     <div className={styles.person}>
       <span className={styles.avatar} aria-hidden="true">
         {initials(item.name)}
@@ -58,6 +85,8 @@ const TestimonialMarquee = () => {
 
   // Offset the second row so the same card is not stacked above itself.
   const offset = Math.ceil(testimonials.length / 2);
+  const firstRow = testimonials.slice(0, offset);
+// const secondRow = testimonials.slice(offset);
   const secondRow = [...testimonials.slice(offset), ...testimonials.slice(0, offset)];
 
   return (

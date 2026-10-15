@@ -198,3 +198,22 @@
     display: none;
   }
 }
+
+
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  margin: 12px 0;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.starFilled {
+  color: #fbbc04;
+}
+
+.starEmpty {
+  color: #d1d5db;
+}

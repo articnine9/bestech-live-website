@@ -75,13 +75,11 @@ const Hero = ({ partCount }) => {
         <span className={styles.eyebrow}>Elevator Spare Parts Supplier · UAE</span>
 
         <div className={styles.title}>
-          Find the Right <span>Elevator Spare Part</span>
+          Find the Right <span>Spare Part</span>
         </div>
 
         <p className={styles.sub}>
-          Search {countLabel ? `${countLabel} ` : ""}lift and escalator parts by
-          name or code — buttons, contactors, door components, sensors and more,
-          supplied across the UAE.
+          Search {countLabel ? `${countLabel} ` : ""}elevator and escalator spare parts by name or part number. Fast, reliable supply across the UAE and GCC.
         </p>
 
         <div className={styles.search}>
@@ -105,7 +103,7 @@ const Hero = ({ partCount }) => {
         </div>
       </div>
 
-      <div className={styles.stats}>
+      {/* <div className={styles.stats}>
         <ul className={styles.statsInner}>
           {countLabel && (
             <li>
@@ -122,7 +120,7 @@ const Hero = ({ partCount }) => {
             <span className={styles.statLabel}>Supply from Sharjah</span>
           </li>
         </ul>
-      </div>
+      </div> */}
     </section>
   );
 };

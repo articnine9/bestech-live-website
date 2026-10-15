@@ -1,34 +1,54 @@
 [
   {
     "image": "/img/testimonial/testimonials-one__img1.webp",
-    "name": "Ahmed Khan",
-    "role": "Facility Manager",
+    "name": "Velmurugan L",
+    "role": "Installation Manager",
     "quote": "Reliable Spare Parts",
     "rating": 5,
-    "description": "Bestech consistently delivers high-quality elevator components. Their support team is responsive, and delivery is always on time."
+    "description": "Bestech Elevator Spare Parts is one of the top elevator spare parts suppliers in the UAE. They offer high-quality products at very competitive prices. The manager is extremely professional, cooperative, and always ready to support customers. Reliable service, fast response, and affordable pricing make Bestech a trusted choice. Highly recommended! "
   },
-  {
-    "image": "/img/testimonial/testimonials-one__img2.webp",
-    "name": "Fatima Al Zahra",
-    "role": "Building Supervisor",
-    "quote": "Excellent Service",
-    "rating": 5,
-    "description": "We’ve been sourcing parts from Bestech for over a year now. Their products are reliable and certified for safety — highly recommend."
-  },
+  
   {
     "image": "/img/testimonial/testimonials-one__img1.webp",
-    "name": "Ravi Verma",
-    "role": "Procurement Officer",
+    "name": "Hamad",
+    "role": "Project Engineer",
     "quote": "Trusted Supplier",
     "rating": 5,
-    "description": "Bestech offers a great selection of elevator parts at competitive prices. They’re our preferred vendor in the UAE."
+    "description": "I ordered Mitsubishi spare parts to Doha, Qatar. The delivery was on time and the customer support was excellent. Very satisfied with the service!"
   },
   {
     "image": "/img/testimonial/testimonials-one__img2.webp",
-    "name": "Sarah Ali",
-    "role": "Operations Manager",
+    "name": "Abhimanyu Thakur",
+    "role": "Technical Engineer",
     "quote": "Professional Support",
     "rating": 5,
-    "description": "Their technical team helped us choose the right parts for a commercial project. Smooth experience from start to finish."
+    "description": "Bestech Elevator spare parts are one of the trusted supplier currently in the market, there prices are negotiable and reasonable, doing business with them is quite satisfactory i wish them good luck for there work and commitments."
+  },
+   {
+    "image": "/img/testimonial/testimonials-one__img1.webp",
+    "name": "Riyaz",
+    "role": "Service Engineer",
+    "quote": "Trusted Supplier",
+    "rating": 5,
+    "description": "Customer friendly Manager. Recently I bought 5 Monarch controller for modernization. Good price and Excellent technical support"
+  },
+  
+    {
+    "image": "/img/testimonial/testimonials-one__img1.webp",
+    "name": "Muthanna A B",
+    "role": "Supervisor",
+    "quote": "Trusted Supplier",
+    "rating": 5,
+    "description": "Staff here were very professional, they were really able to understand the fault of my lift and helped me to explain the technician on how to do the connections"
+  },
+    {
+    "image": "/img/testimonial/testimonials-one__img2.webp",
+    "name": "Omar Zeidan",
+    "role": "Service Sales Engineer",
+    "quote": "Professional Support",
+    "rating": 5,
+    "description": "The best elevator spare parts company, offering very fast service throughout the UAE, with solutions for all brands."
   }
+   
+   
 ]
