@@ -256,6 +256,12 @@ export const blogPosts = [
     description:
       "Explore elevator door lock types, including landing locks, interlocks, contacts, COP and LOP locks, and what to check before ordering parts.",
   },
+  {
+    slug: "elevator-door-operator-replacement-in-uae",
+    title: "Elevator Door Operator Replacement in UAE: How to Choose the Right Door Drive, Motor & Controller",
+    date: "2026-10-16",
+    description: "Planning elevator door operator replacement in UAE? Learn how to choose the right door drive, motor and controller for safe, reliable lift operation.",
+  },
 ];
 
 // Function to fetch all blog posts
