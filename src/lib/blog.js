@@ -3,6 +3,12 @@
 // Example blog data — in real usage, you might fetch from a CMS or database
 export const blogPosts = [
   {
+    "slug": "elevator-ard-replacement-in-uae",
+    "title": "Elevator ARD Replacement in UAE: How to Choose the Right Automatic Rescue Device & Backup Battery",
+    "date": "2026-10-23",
+    "description": "Find the right elevator ARD replacement in the UAE. Compare power ratings, check battery compatibility and choose a suitable rescue device."
+  },
+  {
     slug: "most-common-elevator-electrical-mechanical-spare-parts-in-uae",
     title: "Most Common Elevator Electrical & Mechanical Spare Parts in UAE",
     date: "2025-01-15",
