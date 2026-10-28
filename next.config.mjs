@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  experimental: {
+    // Deliver the existing CSS with the initial HTML to avoid stylesheet round trips.
+    inlineCss: true,
+  },
   async redirects() {
     return [
       // Existing redirects
