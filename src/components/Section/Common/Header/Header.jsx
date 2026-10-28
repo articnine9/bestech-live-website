@@ -1,12 +1,9 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import dynamic from "next/dynamic";
+import QuoteForm from "@/components/Section/Common/QuoteForm/QuoteForm";
+import { Modal, Button } from "react-bootstrap";
 import { useRouter } from "next/navigation";
-
-// Keep dialog code out of the initial navigation bundle. Once mounted, retain
-// it so Bootstrap can complete its normal closing transitions.
-const QuoteDialogs = dynamic(() => import("./QuoteDialogs"), { ssr: false });
 
 const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
@@ -20,7 +17,8 @@ const Header = () => {
   const [isOverlayActive, setIsOverlayActive] = useState(false);
   const [show, setShow] = useState(false);
 
-  const [quoteRequested, setQuoteRequested] = useState(false);
+  const [quoteMessage, setQuoteMessage] = useState("");
+  const [showQuoteSuccess, setShowQuoteSuccess] = useState(false);
   const router = useRouter();
   const [searchQuery, setSearchQuery] = useState("");
 
@@ -48,6 +46,12 @@ const Header = () => {
       : `/products${url.startsWith("/") ? url : `/${url}`}`;
 
     router.push(finalUrl);
+  };
+
+  const handleQuoteSuccess = (message) => {
+    setShow(false); // Close the form modal
+    setQuoteMessage(message); // Set the message
+    setShowQuoteSuccess(true); // Show the success dialog modal
   };
 
   const mobileMenuOpen = () => {
@@ -478,18 +482,25 @@ const Header = () => {
                             <div className="btn-box">
                               <button
                                 className="thm-btn border-0"
-                                onClick={() => {
-                                  setQuoteRequested(true);
-                                  setShow(true);
-                                }}
+                                onClick={() => setShow(true)}
                               >
                                 <span className="txt">Get Free Quote</span>
                                 <i className="icon-right-arrow"></i>
                               </button>
                             </div>
-                            {quoteRequested && (
-                              <QuoteDialogs show={show} onHide={() => setShow(false)} />
-                            )}
+                            <Modal
+                              show={show}
+                              aria-labelledby="quote-dialog-title"
+                              onHide={() => setShow(false)}
+                              centered
+                            >
+                              <Modal.Header closeButton>
+                                <Modal.Title id="quote-dialog-title">Get Free Quote</Modal.Title>
+                              </Modal.Header>
+                              <Modal.Body>
+                                <QuoteForm onSuccess={handleQuoteSuccess} />
+                              </Modal.Body>
+                            </Modal>
                           </div>
                         </div>
                       </div>
@@ -840,6 +851,27 @@ const Header = () => {
       </div>
 
 
+      <Modal
+        show={showQuoteSuccess}
+        aria-labelledby="quote-success-title"
+        onHide={() => setShowQuoteSuccess(false)}
+        centered
+      >
+        <Modal.Header closeButton>
+          <Modal.Title id="quote-success-title">Success</Modal.Title>
+        </Modal.Header>
+        <Modal.Body>
+          <p>{quoteMessage}</p>
+        </Modal.Body>
+        <Modal.Footer>
+          <button
+            className="btn btn-success"
+            onClick={() => setShowQuoteSuccess(false)}
+          >
+            Close
+          </button>
+        </Modal.Footer>
+      </Modal>
     </header>
   );
 };
