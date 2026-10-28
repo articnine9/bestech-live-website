@@ -1,0 +1,21 @@
+# Bestech Parts
+
+> Bestech Parts is an elevator and escalator spare parts supplier based in Sharjah, United Arab Emirates.
+
+The website provides a product catalogue, company information, and contact details for spare parts enquiries. Refer to individual product pages for specifications and contact Bestech to confirm compatibility, current pricing, and availability.
+
+## Products
+
+- [Product catalogue](https://www.bestechparts.ae/products): Browse elevator and escalator spare parts by category and follow links to individual product specifications.
+
+## Company and enquiries
+
+- [Home](https://www.bestechparts.ae/): Overview of Bestech Parts and its spare parts offering.
+- [About Bestech](https://www.bestechparts.ae/about): Company background and elevator spare parts supply in the UAE.
+- [Contact](https://www.bestechparts.ae/contact): Contact details and enquiry form for product and supply questions.
+
+## Optional
+
+- [Blog](https://www.bestechparts.ae/blog): Articles about elevator parts and maintenance.
+- [Sitemap](https://www.bestechparts.ae/sitemap.xml): Index of public site URLs for discovering additional product and brand pages.
+- [Robots](https://www.bestechparts.ae/robots.txt): Site crawler access rules.

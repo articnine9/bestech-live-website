@@ -119,6 +119,7 @@ export default function ChatPopup() {
           <div className="border-top p-3">
             <input
               type="text"
+              aria-label="Your name"
               className="form-control mb-2"
               placeholder="Your Name"
               value={form.name}
@@ -126,6 +127,7 @@ export default function ChatPopup() {
             />
             <input
               type="tel"
+              aria-label="Your phone number"
               className="form-control mb-2"
               placeholder="Your Phone"
               value={form.phone}
@@ -133,6 +135,7 @@ export default function ChatPopup() {
             />
             <input
               type="email"
+              aria-label="Your email address"
               className="form-control mb-2"
               placeholder="Your Email"
               value={form.email}

@@ -74,9 +74,9 @@ const Hero = ({ partCount }) => {
       <div className={styles.content}>
         <span className={styles.eyebrow}>Elevator Spare Parts Supplier · UAE</span>
 
-        <div className={styles.title}>
+        <h1 className={styles.title}>
           Find the Right <span>Spare Part</span>
-        </div>
+        </h1>
 
         <p className={styles.sub}>
           Search {countLabel ? `${countLabel} ` : ""}elevator and escalator spare parts by name or part number. Fast, reliable supply across the UAE and GCC.

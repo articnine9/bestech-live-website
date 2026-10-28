@@ -28,7 +28,7 @@ export default function ClientLayout({ children, footer }) {
   return (
     <>
       <Header />
-      {children}
+      <main id="main-content">{children}</main>
       <ChatPopup />
       <Chatbot />
       <FloatingButtons />

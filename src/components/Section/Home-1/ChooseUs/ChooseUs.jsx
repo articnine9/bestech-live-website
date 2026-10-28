@@ -1,4 +1,3 @@
-"use client";
 import ServiceCardTwo from "~/components/Ui/Cards/ServiceCardTwo";
 import data from "~/db/serviceDataTwo.json";
 

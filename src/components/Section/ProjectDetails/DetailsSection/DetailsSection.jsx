@@ -69,7 +69,9 @@ const DetailsSection = ({ product, category }) => {
                     >
                       &#8592;
                     </button>
-                    <main
+                    <button
+                      type="button"
+                      aria-label="Open product image"
                       className="image-display"
                       onClick={() => setLightboxOpen(true)}
                     >
@@ -77,7 +79,7 @@ const DetailsSection = ({ product, category }) => {
                         src={images[currentSlideIndex]}
                         alt={getAltText(images[currentSlideIndex], currentSlideIndex)}
                       />
-                    </main>
+                    </button>
                     <button
                       type="button"
                       className="slider-control--button next-button"
@@ -95,7 +97,7 @@ const DetailsSection = ({ product, category }) => {
                         type="button"
                         className="nav-button"
                         aria-label={`Go to slide ${index + 1}`}
-                        aria-selected={index === currentSlideIndex}
+                        aria-pressed={index === currentSlideIndex}
                         onClick={() => goToSlide(index)}
                       >
                         <img

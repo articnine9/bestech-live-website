@@ -1,27 +1,14 @@
 import dynamic from "next/dynamic";
 import blogData from "~/db/blogsData.json";
-import catalog from "~/db/products.json";
 import Hero from "~/components/Section/Home-1/Hero";
-
-// Hub categories list sub-category links (two-letter codes such as BS-EL), not
-// real parts, so they are left out of the count. Rounded down so the headline
-// figure stays true as the catalogue changes.
-const NAV_CODE = /^BS-[A-Z]{2}$/i;
-const partTotal = catalog.reduce(
-  (sum, cat) =>
-    sum +
-    (cat.items || []).filter((i) => i?.url && !NAV_CODE.test(i.code || "")).length,
-  0
-);
-// const partCount = Math.floor(partTotal / 50) * 50;
 const partCount = 1000;
 
 
 // Below-fold sections — loaded after page is interactive
-const About   = dynamic(() => import("~/components/Section/Home-1/About"));
+import About from "~/components/Section/Home-1/About";
 const Service = dynamic(() => import("~/components/Section/Home-1/Service"));
-const ChooseUs = dynamic(() => import("~/components/Section/Home-1/ChooseUs/ChooseUs"));
-const Testimonials = dynamic(() => import("~/components/Section/Home-1/Testimonial/TestimonialMarquee"));
+import ChooseUs from "~/components/Section/Home-1/ChooseUs/ChooseUs";
+import Testimonials from "~/components/Section/Home-1/Testimonial/TestimonialMarquee";
 const Faq     = dynamic(() => import("~/components/Section/Home-1/Faq/Faq"));
 const Blog    = dynamic(() => import("~/components/Section/Home-1/Blog"));
 

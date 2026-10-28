@@ -126,8 +126,7 @@ const HeroSearch = ({ onActiveChange }) => {
             className={styles.input}
             placeholder="Search by part name or code"
             aria-label="Search elevator spare parts"
-            aria-controls={listId}
-            aria-expanded={showPanel}
+            aria-controls={showPanel && results.length > 0 ? listId : undefined}
             autoComplete="off"
             maxLength={100}
             value={query}
@@ -138,7 +137,7 @@ const HeroSearch = ({ onActiveChange }) => {
             onFocus={() => setOpen(true)}
             onKeyDown={handleKeyDown}
           />
-          <button type="submit" className={styles.button}>
+          <button type="submit" className={styles.button} aria-label="Search Parts">
             <FaSearch aria-hidden="true" />
             <span>Search Parts</span>
           </button>
@@ -165,12 +164,10 @@ const HeroSearch = ({ onActiveChange }) => {
             )}
 
             {results.length > 0 && (
-              <ul className={styles.list} id={listId} role="listbox">
+              <ul className={styles.list} id={listId} aria-label="Matching spare parts">
                 {results.map((item, index) => (
                   <li
                     key={`${item.code}-${item.url}`}
-                    role="option"
-                    aria-selected={index === activeIndex}
                   >
                     <Link
                       href={item.url}

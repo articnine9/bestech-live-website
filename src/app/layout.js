@@ -1,4 +1,5 @@
 import "../assets/css/bootstrap.min.css";
+import "../assets/css/google-fonts.css";
 import "../assets/css/all.min.css";
 import "../assets/css/style.css";
 import "../assets/css/responsive.css";
@@ -174,11 +175,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="preload" href="/fonts/google/sZlLdRyC6CRYbkEaDQ.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="preload" href="/fonts/google/iJWKBXyIfDnIV7nBrXw.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
         {/* ✅ Critical font preloads — breaks CSS→font chain */}
         <link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
-        <link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
         <link rel="preload" href="/fonts/icomoon.woff" as="font" type="font/woff" crossOrigin="anonymous" />
 
         {/* ✅ Google Site Verification */}

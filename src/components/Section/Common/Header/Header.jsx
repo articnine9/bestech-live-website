@@ -1,9 +1,12 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import QuoteForm from "@/components/Section/Common/QuoteForm/QuoteForm";
-import { Modal, Button } from "react-bootstrap";
+import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
+
+// Keep dialog code out of the initial navigation bundle. Once mounted, retain
+// it so Bootstrap can complete its normal closing transitions.
+const QuoteDialogs = dynamic(() => import("./QuoteDialogs"), { ssr: false });
 
 const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
@@ -17,8 +20,7 @@ const Header = () => {
   const [isOverlayActive, setIsOverlayActive] = useState(false);
   const [show, setShow] = useState(false);
 
-  const [quoteMessage, setQuoteMessage] = useState("");
-  const [showQuoteSuccess, setShowQuoteSuccess] = useState(false);
+  const [quoteRequested, setQuoteRequested] = useState(false);
   const router = useRouter();
   const [searchQuery, setSearchQuery] = useState("");
 
@@ -46,12 +48,6 @@ const Header = () => {
       : `/products${url.startsWith("/") ? url : `/${url}`}`;
 
     router.push(finalUrl);
-  };
-
-  const handleQuoteSuccess = (message) => {
-    setShow(false); // Close the form modal
-    setQuoteMessage(message); // Set the message
-    setShowQuoteSuccess(true); // Show the success dialog modal
   };
 
   const mobileMenuOpen = () => {
@@ -129,11 +125,11 @@ const Header = () => {
                 </Link>
 
                 <div className="menu-area__inner">
-                  <div className="mobile-nav-toggler" onClick={mobileMenuOpen}>
-                    <i className="fas fa-bars"></i>
-                  </div>
+                  <button type="button" className="mobile-nav-toggler" aria-label="Open navigation" aria-expanded={mobileMenu} aria-controls="mobile-navigation" onClick={mobileMenuOpen}>
+                    <i className="fas fa-bars" aria-hidden="true"></i>
+                  </button>
                   <div className="menu-wrap">
-                    <nav className="menu-nav">
+                    <nav className="menu-nav" aria-label="Primary navigation">
                       <div className="main-header-one__inner">
                         <div className="main-header-one__top">
                           <div className="main-header-one__top-inner">
@@ -482,24 +478,18 @@ const Header = () => {
                             <div className="btn-box">
                               <button
                                 className="thm-btn border-0"
-                                onClick={() => setShow(true)}
+                                onClick={() => {
+                                  setQuoteRequested(true);
+                                  setShow(true);
+                                }}
                               >
                                 <span className="txt">Get Free Quote</span>
                                 <i className="icon-right-arrow"></i>
                               </button>
                             </div>
-                            <Modal
-                              show={show}
-                              onHide={() => setShow(false)}
-                              centered
-                            >
-                              <Modal.Header closeButton>
-                                <Modal.Title>Get Free Quote</Modal.Title>
-                              </Modal.Header>
-                              <Modal.Body>
-                                <QuoteForm onSuccess={handleQuoteSuccess} />
-                              </Modal.Body>
-                            </Modal>
+                            {quoteRequested && (
+                              <QuoteDialogs show={show} onHide={() => setShow(false)} />
+                            )}
                           </div>
                         </div>
                       </div>
@@ -509,17 +499,21 @@ const Header = () => {
               </div>
               {/* Mobile Menu - Updated to match desktop menu */}
               <div
+                id="mobile-navigation"
+                inert={!mobileMenu}
                 className={`mobile-menu ${
                   mobileMenu ? "mobile-menu-open" : ""
                 }`}
               >
-                <nav className="menu-box">
-                  <div
+                <nav className="menu-box" aria-label="Mobile navigation">
+                  <button
+                    type="button"
+                    aria-label="Close navigation"
                     className={`close-btn ${mobileMenu ? "rotate" : ""}`}
                     onClick={mobileMenuClose}
                   >
-                    <i className="fas fa-times"></i>
-                  </div>
+                    <i className="fas fa-times" aria-hidden="true"></i>
+                  </button>
                   <div className="nav-logo">
                     <Link href="/">
                       <img src="/img/bestect-logo.webp" alt="Logo" />
@@ -565,9 +559,9 @@ const Header = () => {
                                 <Link href="/products/switches" onClick={mobileMenuClose}>Switches</Link>
                               </li>
                             </ul>
-                            <div className="dropdown-btn" onClick={() => setElectricalOpen(!electricalOpen)}>
+                            <button type="button" aria-label="Toggle Electrical Components" aria-expanded={electricalOpen} className="dropdown-btn" onClick={() => setElectricalOpen(!electricalOpen)}>
                               <span className={`fas ${electricalOpen ? "fa-angle-up" : "fa-angle-down"}`}></span>
-                            </div>
+                            </button>
                           </li>
 
                           {/* Door Systems */}
@@ -590,9 +584,9 @@ const Header = () => {
                                 <Link href="/products/door-drives-and-motors" onClick={mobileMenuClose}>Door Drives and Motors</Link>
                               </li>
                             </ul>
-                            <div className="dropdown-btn" onClick={() => setDoorSystemsOpen(!doorSystemsOpen)}>
+                            <button type="button" aria-label="Toggle Door Systems" aria-expanded={doorSystemsOpen} className="dropdown-btn" onClick={() => setDoorSystemsOpen(!doorSystemsOpen)}>
                               <span className={`fas ${doorSystemsOpen ? "fa-angle-up" : "fa-angle-down"}`}></span>
-                            </div>
+                            </button>
                           </li>
 
                           {/* Control Systems */}
@@ -615,9 +609,9 @@ const Header = () => {
                                 <Link href="/products/signalization" onClick={mobileMenuClose}>Signalization</Link>
                               </li>
                             </ul>
-                            <div className="dropdown-btn" onClick={() => setControlSystemsOpen(!controlSystemsOpen)}>
+                            <button type="button" aria-label="Toggle Control Systems" aria-expanded={controlSystemsOpen} className="dropdown-btn" onClick={() => setControlSystemsOpen(!controlSystemsOpen)}>
                               <span className={`fas ${controlSystemsOpen ? "fa-angle-up" : "fa-angle-down"}`}></span>
-                            </div>
+                            </button>
                           </li>
 
                           {/* Other Components */}
@@ -646,12 +640,12 @@ const Header = () => {
                                 <Link href="/products/escalators" onClick={mobileMenuClose}>Escalators</Link>
                               </li>
                             </ul>
-                            <div className="dropdown-btn" onClick={() => setOtherComponentsOpen(!otherComponentsOpen)}>
+                            <button type="button" aria-label="Toggle Other Components" aria-expanded={otherComponentsOpen} className="dropdown-btn" onClick={() => setOtherComponentsOpen(!otherComponentsOpen)}>
                               <span className={`fas ${otherComponentsOpen ? "fa-angle-up" : "fa-angle-down"}`}></span>
-                            </div>
+                            </button>
                           </li>
                         </ul>
-                        <div
+                        <button type="button" aria-label="Toggle Products" aria-expanded={productsOpen}
                           className="dropdown-btn"
                           onClick={() => setProductsOpen(!productsOpen)}
                         >
@@ -660,7 +654,7 @@ const Header = () => {
                               productsOpen ? "fa-angle-up" : "fa-angle-down"
                             }`}
                           ></span>
-                        </div>
+                        </button>
                       </li>
                       <li className="menu-item-has-children">
                         <Link href="#">Brands</Link>
@@ -713,7 +707,7 @@ const Header = () => {
                             </Link>
                           </li>
                         </ul>
-                        <div
+                        <button type="button" aria-label="Toggle Brands" aria-expanded={brandsOpen}
                           className="dropdown-btn"
                           onClick={() => setBrandsOpen(!brandsOpen)}
                         >
@@ -722,7 +716,7 @@ const Header = () => {
                               brandsOpen ? "fa-angle-up" : "fa-angle-down"
                             }`}
                           ></span>
-                        </div>
+                        </button>
                       </li>
                       <li>
                         <Link href="/blog" onClick={mobileMenuClose}>
@@ -791,14 +785,14 @@ const Header = () => {
           </div>
         </div>
       </div>
-      <div className={`search-popup ${isActive ? "active" : ""}`} id="home-one">
+      <div className={`search-popup ${isActive ? "active" : ""}`} id="home-one" inert={!isActive}>
         <div
           className="search-popup__overlay search-toggler"
           onClick={togglePopup}
         >
-          <div className="search-popup__close-icon">
-            <span className="icon-plus"></span>
-          </div>
+          <button type="button" className="search-popup__close-icon" aria-label="Close search">
+            <span className="icon-plus" aria-hidden="true"></span>
+          </button>
         </div>
 
         <div className="search-popup__content">
@@ -845,26 +839,7 @@ const Header = () => {
         </div>
       </div>
 
-      <Modal
-        show={showQuoteSuccess}
-        onHide={() => setShowQuoteSuccess(false)}
-        centered
-      >
-        <Modal.Header closeButton>
-          <Modal.Title>Success</Modal.Title>
-        </Modal.Header>
-        <Modal.Body>
-          <p>{quoteMessage}</p>
-        </Modal.Body>
-        <Modal.Footer>
-          <button
-            className="btn btn-success"
-            onClick={() => setShowQuoteSuccess(false)}
-          >
-            Close
-          </button>
-        </Modal.Footer>
-      </Modal>
+
     </header>
   );
 };
