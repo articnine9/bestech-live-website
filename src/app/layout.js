@@ -1,4 +1,4 @@
-import "../assets/css/bootstrap.min.css";
+import "../assets/css/bootstrap.generated.css";
 import "../assets/css/icons.generated.css";
 import "../assets/css/style.css";
 import "../assets/css/responsive.css";
