@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  images: {
+    // Prefer AVIF where supported, retaining WebP as the fallback.
+    formats: ["image/avif", "image/webp"],
+  },
   experimental: {
     // Deliver the existing CSS with the initial HTML to avoid stylesheet round trips.
     inlineCss: true,
