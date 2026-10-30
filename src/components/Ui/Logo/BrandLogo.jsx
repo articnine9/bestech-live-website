@@ -4,7 +4,7 @@ const BrandLogo = ({ imageSrc }) => {
   const defaultImageSrc = "/img/resource/logo-2.webp";
   const logoSrc = imageSrc || defaultImageSrc;
 
-  return <img src={logoSrc} alt="bestech" />;
+  return <img loading="lazy" decoding="async" src={logoSrc} alt="bestech" />;
 };
 
 export default BrandLogo;

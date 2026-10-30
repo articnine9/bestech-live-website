@@ -1,9 +1,11 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import QuoteForm from "@/components/Section/Common/QuoteForm/QuoteForm";
-import { Modal, Button } from "react-bootstrap";
+import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
+
+const QuoteDialog = dynamic(() => import("./QuoteDialogs").then((m) => m.QuoteDialog), { ssr: false });
+const QuoteSuccessDialog = dynamic(() => import("./QuoteDialogs").then((m) => m.QuoteSuccessDialog), { ssr: false });
 
 const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
@@ -16,6 +18,7 @@ const Header = () => {
   const [scrollClassName, setScrollClassName] = useState("");
   const [isOverlayActive, setIsOverlayActive] = useState(false);
   const [show, setShow] = useState(false);
+  const [quoteRequested, setQuoteRequested] = useState(false);
 
   const [quoteMessage, setQuoteMessage] = useState("");
   const [showQuoteSuccess, setShowQuoteSuccess] = useState(false);
@@ -124,7 +127,7 @@ const Header = () => {
           <div className="main-header-one__right">
             <div className="container">
               <div className="mobile_div">
-                <Link href="/" className="logo w-100 d-md-none">
+                <Link prefetch={false} href="/" className="logo w-100 d-md-none">
                   <img src="/img/bestect-logo.webp" alt="Logo" />
                 </Link>
 
@@ -145,7 +148,7 @@ const Header = () => {
                                       <span className="icon-email"></span>
                                     </div>
                                     <p>
-                                      <Link href="mailto:sales@bestechparts.ae">
+                                      <Link prefetch={false} href="mailto:sales@bestechparts.ae">
                                         sales@bestechparts.ae
                                       </Link>
                                     </p>
@@ -156,7 +159,7 @@ const Header = () => {
                                       <span className="icon-telephone-call"></span>
                                     </div>
                                     <p>
-                                      <Link href="tel:+97165227299">
+                                      <Link prefetch={false} href="tel:+97165227299">
                                         06 522 7299 — Landline
                                       </Link>
                                     </p>
@@ -166,7 +169,7 @@ const Header = () => {
                                       <span className="icon-telephone-call"></span>
                                     </div>
                                     <p>
-                                      <Link href="tel:+971543093833">
+                                      <Link prefetch={false} href="tel:+971543093833">
                                         +971 54 309 3833 — Mobile
                                       </Link>
                                     </p>
@@ -180,6 +183,7 @@ const Header = () => {
                                   <ul>
                                     <li>
                                       <Link
+                                        prefetch={false}
                                         href="https://www.facebook.com/bestech.spareparts"
                                         aria-label="Visit Bestech Spare Parts on Facebook"
                                         target="_blank"
@@ -190,6 +194,7 @@ const Header = () => {
                                     </li>
                                     <li>
                                       <Link
+                                        prefetch={false}
                                         href="https://www.instagram.com/bestech_spareparts/"
                                         aria-label="Visit Bestech Spare Parts on Instagram"
                                         target="_blank"
@@ -200,6 +205,7 @@ const Header = () => {
                                     </li>
                                     <li>
                                       <Link
+                                        prefetch={false}
                                         href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
                                         aria-label="Visit Bestech Spare Parts on LinkedIn"
                                         target="_blank"
@@ -218,19 +224,20 @@ const Header = () => {
                         <div className="main-header-one__bottom">
                           <div className="main-header-one__bottom-left">
                             <div className="navbar-wrap main-menu">
-                              <Link href="/" className="logo w-25">
+                              <Link prefetch={false} href="/" className="logo w-25">
                                 <img src="/img/bestect-logo.webp" alt="Logo" />
                               </Link>
                               <ul className="navigation">
                                 <li>
-                                  <Link href="/">Home</Link>
+                                  <Link prefetch={false} href="/">Home</Link>
                                 </li>
                                 <li>
-                                  <Link href="/about">About</Link>
+                                  <Link prefetch={false} href="/about">About</Link>
                                 </li>
 
                                 <li className="dropdown menu-item-has-children position-static">
                                   <Link
+                                    prefetch={false}
                                     href="/products"
                                     className="dropdown-toggle"
                                     onMouseEnter={() => setProductsOpen(true)}
@@ -250,37 +257,37 @@ const Header = () => {
                                         {/* Category 1 - Electrical Components */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <Link href="/products/electrical-components" className="mega-menu-title">
+                                            <Link prefetch={false} href="/products/electrical-components" className="mega-menu-title">
                                               Electrical Components
                                             </Link>
                                             <ul className="mega-menu-list">
                                               <li>
-                                                <Link href="/products/electrical">
+                                                <Link prefetch={false} href="/products/electrical">
                                                   Electrical
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/mechanical">
+                                                <Link prefetch={false} href="/products/mechanical">
                                                   Mechanical
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/cables-and-wires">
+                                                <Link prefetch={false} href="/products/cables-and-wires">
                                                   Cables and wires
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/contactors">
+                                                <Link prefetch={false} href="/products/contactors">
                                                   Contactors
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/circuit-breakers">
+                                                <Link prefetch={false} href="/products/circuit-breakers">
                                                   Circuit breakers
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/switches">
+                                                <Link prefetch={false} href="/products/switches">
                                                   Switches
                                                 </Link>
                                               </li>
@@ -291,32 +298,32 @@ const Header = () => {
                                         {/* Category 2 - Door Systems */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <Link href="/products/door-systems" className="mega-menu-title">
+                                            <Link prefetch={false} href="/products/door-systems" className="mega-menu-title">
                                               Door Systems
                                             </Link>
                                             <ul className="mega-menu-list">
                                               <li>
-                                                <Link href="/products/door-locks">
+                                                <Link prefetch={false} href="/products/door-locks">
                                                   Door Locks
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/door-wheels">
+                                                <Link prefetch={false} href="/products/door-wheels">
                                                   Door wheels
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/guide-shoes">
+                                                <Link prefetch={false} href="/products/guide-shoes">
                                                   Guide shoes
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/door-sliders">
+                                                <Link prefetch={false} href="/products/door-sliders">
                                                   Door sliders
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/door-drives-and-motors">
+                                                <Link prefetch={false} href="/products/door-drives-and-motors">
                                                   Door Drives and Motors
                                                 </Link>
                                               </li>
@@ -327,32 +334,32 @@ const Header = () => {
                                         {/* Category 3 - Control Systems */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <Link href="/products/control-systems" className="mega-menu-title">
+                                            <Link prefetch={false} href="/products/control-systems" className="mega-menu-title">
                                               Control Systems
                                             </Link>
                                             <ul className="mega-menu-list">
                                               <li>
-                                                <Link href="/products/buttons">
+                                                <Link prefetch={false} href="/products/buttons">
                                                   Buttons
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/sensors">
+                                                <Link prefetch={false} href="/products/sensors">
                                                   Sensors
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/inverters">
+                                                <Link prefetch={false} href="/products/inverters">
                                                   Inverters
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/ard">
+                                                <Link prefetch={false} href="/products/ard">
                                                   ARD
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/signalization">
+                                                <Link prefetch={false} href="/products/signalization">
                                                   Signalization
                                                 </Link>
                                               </li>
@@ -363,42 +370,42 @@ const Header = () => {
                                         {/* Category 4 - Other Components */}
                                         <div className="col-lg-3">
                                           <div className="mega-menu-item">
-                                            <Link href="/products/other-components" className="mega-menu-title">
+                                            <Link prefetch={false} href="/products/other-components" className="mega-menu-title">
                                               Other Components
                                             </Link>
                                             <ul className="mega-menu-list">
                                               <li>
-                                                <Link href="/products/encoders">
+                                                <Link prefetch={false} href="/products/encoders">
                                                   Encoders
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/cabinet-set">
+                                                <Link prefetch={false} href="/products/cabinet-set">
                                                   Cabinet set
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/displays">
+                                                <Link prefetch={false} href="/products/displays">
                                                   Displays
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/pcb-boards">
+                                                <Link prefetch={false} href="/products/pcb-boards">
                                                   PCB Boards
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/tool-kits">
+                                                <Link prefetch={false} href="/products/tool-kits">
                                                   Tool kits
                                                 </Link>
                                               </li>
                                               <li>
-                                                <Link href="/products/keys">
+                                                <Link prefetch={false} href="/products/keys">
                                                   Keys
                                                 </Link>
                                               </li>
                                                <li>
-                                                <Link href="/products/escalators">
+                                                <Link prefetch={false} href="/products/escalators">
                                                   Escalators
                                                 </Link>
                                               </li>
@@ -411,6 +418,7 @@ const Header = () => {
                                 </li>
                                 <li className="menu-item-has-children">
                                   <Link
+                                    prefetch={false}
                                     href="#"
                                     onMouseEnter={() => setBrandsOpen(true)}
                                     onMouseLeave={() => setBrandsOpen(false)}
@@ -425,47 +433,47 @@ const Header = () => {
                                     onMouseLeave={() => setBrandsOpen(false)}
                                   >
                                     <li>
-                                      <Link href="/brands/hyundai">
+                                      <Link prefetch={false} href="/brands/hyundai">
                                         Hyundai Parts
                                       </Link>
                                     </li>
                                     <li>
-                                      <Link href="/brands/kone">
+                                      <Link prefetch={false} href="/brands/kone">
                                         Kone Parts
                                       </Link>
                                     </li>
                                     <li>
-                                      <Link href="/brands/mitsubishi">
+                                      <Link prefetch={false} href="/brands/mitsubishi">
                                         Mitsubishi Parts
                                       </Link>
                                     </li>
                                     {/* <li>
-                                      <Link href="/brands/monarch">
+                                      <Link prefetch={false} href="/brands/monarch">
                                         Monarch Parts
                                       </Link>
                                     </li> */}
                                     <li>
-                                      <Link href="/brands/otis">
+                                      <Link prefetch={false} href="/brands/otis">
                                         Otis Parts
                                       </Link>
                                     </li>
                                     {/* <li>
-                                      <Link href="/brands/step">
+                                      <Link prefetch={false} href="/brands/step">
                                         Step Parts
                                       </Link>
                                     </li> */}
                                     <li>
-                                      <Link href="/brands/thyssenkrupp">
+                                      <Link prefetch={false} href="/brands/thyssenkrupp">
                                         Thyssenkrupp Parts
                                       </Link>
                                     </li>
                                   </ul>
                                 </li>
                                 <li>
-                                  <Link href="/blog">Blog</Link>
+                                  <Link prefetch={false} href="/blog">Blog</Link>
                                 </li>
                                 <li>
-                                  <Link href="/contact">Contact Us</Link>
+                                  <Link prefetch={false} href="/contact">Contact Us</Link>
                                 </li>
                               </ul>
                             </div>
@@ -473,6 +481,7 @@ const Header = () => {
                           <div className="main-header-one__bottom-right">
                             <div className="search-box">
                               <Link
+                                prefetch={false}
                                 href="#"
                                 className="main-menu__search search-toggler icon-magnifying-glass"
                                 aria-label="Open search"
@@ -482,25 +491,15 @@ const Header = () => {
                             <div className="btn-box">
                               <button
                                 className="thm-btn border-0"
-                                onClick={() => setShow(true)}
+                                onClick={() => { setQuoteRequested(true); setShow(true); }}
                               >
                                 <span className="txt">Get Free Quote</span>
                                 <i className="icon-right-arrow"></i>
                               </button>
                             </div>
-                            <Modal
-                              show={show}
-                              aria-labelledby="quote-dialog-title"
-                              onHide={() => setShow(false)}
-                              centered
-                            >
-                              <Modal.Header closeButton>
-                                <Modal.Title id="quote-dialog-title">Get Free Quote</Modal.Title>
-                              </Modal.Header>
-                              <Modal.Body>
-                                <QuoteForm onSuccess={handleQuoteSuccess} />
-                              </Modal.Body>
-                            </Modal>
+                            {quoteRequested && (
+                              <QuoteDialog show={show} onHide={() => setShow(false)} onSuccess={handleQuoteSuccess} />
+                            )}
                           </div>
                         </div>
                       </div>
@@ -526,48 +525,48 @@ const Header = () => {
                     <i className="fas fa-times" aria-hidden="true"></i>
                   </button>
                   <div className="nav-logo">
-                    <Link href="/">
+                    <Link prefetch={false} href="/">
                       <img src="/img/bestect-logo.webp" alt="Logo" />
                     </Link>
                   </div>
                   <div className="menu-outer">
                     <ul className="navigation">
                       <li>
-                        <Link href="/" onClick={mobileMenuClose}>
+                        <Link prefetch={false} href="/" onClick={mobileMenuClose}>
                           Home
                         </Link>
                       </li>
                       <li>
-                        <Link href="/about" onClick={mobileMenuClose}>
+                        <Link prefetch={false} href="/about" onClick={mobileMenuClose}>
                           About
                         </Link>
                       </li>
                       <li className="menu-item-has-children">
-                        <Link href="/products" onClick={mobileMenuClose}>Products</Link>
+                        <Link prefetch={false} href="/products" onClick={mobileMenuClose}>Products</Link>
                         <ul
                           className={`sub-menu ${productsOpen ? "show" : ""}`}
                         >
                           {/* Electrical Components */}
                           <li className="menu-item-has-children">
-                            <Link href="/products/electrical-components" onClick={mobileMenuClose}>Electrical Components</Link>
+                            <Link prefetch={false} href="/products/electrical-components" onClick={mobileMenuClose}>Electrical Components</Link>
                             <ul className={`sub-menu ${electricalOpen ? "show" : ""}`}>
                               <li>
-                                <Link href="/products/electrical" onClick={mobileMenuClose}>Electrical</Link>
+                                <Link prefetch={false} href="/products/electrical" onClick={mobileMenuClose}>Electrical</Link>
                               </li>
                               <li>
-                                <Link href="/products/mechanical" onClick={mobileMenuClose}>Mechanical</Link>
+                                <Link prefetch={false} href="/products/mechanical" onClick={mobileMenuClose}>Mechanical</Link>
                               </li>
                               <li>
-                                <Link href="/products/cables-and-wires" onClick={mobileMenuClose}>Cables and wires</Link>
+                                <Link prefetch={false} href="/products/cables-and-wires" onClick={mobileMenuClose}>Cables and wires</Link>
                               </li>
                               <li>
-                                <Link href="/products/contactors" onClick={mobileMenuClose}>Contactors</Link>
+                                <Link prefetch={false} href="/products/contactors" onClick={mobileMenuClose}>Contactors</Link>
                               </li>
                               <li>
-                                <Link href="/products/circuit-breakers" onClick={mobileMenuClose}>Circuit breakers</Link>
+                                <Link prefetch={false} href="/products/circuit-breakers" onClick={mobileMenuClose}>Circuit breakers</Link>
                               </li>
                               <li>
-                                <Link href="/products/switches" onClick={mobileMenuClose}>Switches</Link>
+                                <Link prefetch={false} href="/products/switches" onClick={mobileMenuClose}>Switches</Link>
                               </li>
                             </ul>
                             <button type="button" aria-label="Toggle Electrical Components" aria-expanded={electricalOpen} className="dropdown-btn" onClick={() => setElectricalOpen(!electricalOpen)}>
@@ -577,22 +576,22 @@ const Header = () => {
 
                           {/* Door Systems */}
                           <li className="menu-item-has-children">
-                            <Link href="/products/door-systems" onClick={mobileMenuClose}>Door Systems</Link>
+                            <Link prefetch={false} href="/products/door-systems" onClick={mobileMenuClose}>Door Systems</Link>
                             <ul className={`sub-menu ${doorSystemsOpen ? "show" : ""}`}>
                               <li>
-                                <Link href="/products/door-locks" onClick={mobileMenuClose}>Door Locks</Link>
+                                <Link prefetch={false} href="/products/door-locks" onClick={mobileMenuClose}>Door Locks</Link>
                               </li>
                               <li>
-                                <Link href="/products/door-wheels" onClick={mobileMenuClose}>Door wheels</Link>
+                                <Link prefetch={false} href="/products/door-wheels" onClick={mobileMenuClose}>Door wheels</Link>
                               </li>
                               <li>
-                                <Link href="/products/guide-shoes" onClick={mobileMenuClose}>Guide shoes</Link>
+                                <Link prefetch={false} href="/products/guide-shoes" onClick={mobileMenuClose}>Guide shoes</Link>
                               </li>
                               <li>
-                                <Link href="/products/door-sliders" onClick={mobileMenuClose}>Door sliders</Link>
+                                <Link prefetch={false} href="/products/door-sliders" onClick={mobileMenuClose}>Door sliders</Link>
                               </li>
                               <li>
-                                <Link href="/products/door-drives-and-motors" onClick={mobileMenuClose}>Door Drives and Motors</Link>
+                                <Link prefetch={false} href="/products/door-drives-and-motors" onClick={mobileMenuClose}>Door Drives and Motors</Link>
                               </li>
                             </ul>
                             <button type="button" aria-label="Toggle Door Systems" aria-expanded={doorSystemsOpen} className="dropdown-btn" onClick={() => setDoorSystemsOpen(!doorSystemsOpen)}>
@@ -602,22 +601,22 @@ const Header = () => {
 
                           {/* Control Systems */}
                           <li className="menu-item-has-children">
-                            <Link href="/products/control-systems" onClick={mobileMenuClose}>Control Systems</Link>
+                            <Link prefetch={false} href="/products/control-systems" onClick={mobileMenuClose}>Control Systems</Link>
                             <ul className={`sub-menu ${controlSystemsOpen ? "show" : ""}`}>
                               <li>
-                                <Link href="/products/buttons" onClick={mobileMenuClose}>Buttons</Link>
+                                <Link prefetch={false} href="/products/buttons" onClick={mobileMenuClose}>Buttons</Link>
                               </li>
                               <li>
-                                <Link href="/products/sensors" onClick={mobileMenuClose}>Sensors</Link>
+                                <Link prefetch={false} href="/products/sensors" onClick={mobileMenuClose}>Sensors</Link>
                               </li>
                               <li>
-                                <Link href="/products/inverters" onClick={mobileMenuClose}>Inverters</Link>
+                                <Link prefetch={false} href="/products/inverters" onClick={mobileMenuClose}>Inverters</Link>
                               </li>
                               <li>
-                                <Link href="/products/ard" onClick={mobileMenuClose}>ARD</Link>
+                                <Link prefetch={false} href="/products/ard" onClick={mobileMenuClose}>ARD</Link>
                               </li>
                               <li>
-                                <Link href="/products/signalization" onClick={mobileMenuClose}>Signalization</Link>
+                                <Link prefetch={false} href="/products/signalization" onClick={mobileMenuClose}>Signalization</Link>
                               </li>
                             </ul>
                             <button type="button" aria-label="Toggle Control Systems" aria-expanded={controlSystemsOpen} className="dropdown-btn" onClick={() => setControlSystemsOpen(!controlSystemsOpen)}>
@@ -627,28 +626,28 @@ const Header = () => {
 
                           {/* Other Components */}
                           <li className="menu-item-has-children">
-                            <Link href="/products/other-components" onClick={mobileMenuClose}>Other Components</Link>
+                            <Link prefetch={false} href="/products/other-components" onClick={mobileMenuClose}>Other Components</Link>
                             <ul className={`sub-menu ${otherComponentsOpen ? "show" : ""}`}>
                               <li>
-                                <Link href="/products/encoders" onClick={mobileMenuClose}>Encoders</Link>
+                                <Link prefetch={false} href="/products/encoders" onClick={mobileMenuClose}>Encoders</Link>
                               </li>
                               <li>
-                                <Link href="/products/cabinet-set" onClick={mobileMenuClose}>Cabinet set</Link>
+                                <Link prefetch={false} href="/products/cabinet-set" onClick={mobileMenuClose}>Cabinet set</Link>
                               </li>
                               <li>
-                                <Link href="/products/displays" onClick={mobileMenuClose}>Displays</Link>
+                                <Link prefetch={false} href="/products/displays" onClick={mobileMenuClose}>Displays</Link>
                               </li>
                               <li>
-                                <Link href="/products/pcb-boards" onClick={mobileMenuClose}>PCB Boards</Link>
+                                <Link prefetch={false} href="/products/pcb-boards" onClick={mobileMenuClose}>PCB Boards</Link>
                               </li>
                               <li>
-                                <Link href="/products/tool-kits" onClick={mobileMenuClose}>Tool kits</Link>
+                                <Link prefetch={false} href="/products/tool-kits" onClick={mobileMenuClose}>Tool kits</Link>
                               </li>
                               <li>
-                                <Link href="/products/keys" onClick={mobileMenuClose}>Keys</Link>
+                                <Link prefetch={false} href="/products/keys" onClick={mobileMenuClose}>Keys</Link>
                               </li>
                               <li>
-                                <Link href="/products/escalators" onClick={mobileMenuClose}>Escalators</Link>
+                                <Link prefetch={false} href="/products/escalators" onClick={mobileMenuClose}>Escalators</Link>
                               </li>
                             </ul>
                             <button type="button" aria-label="Toggle Other Components" aria-expanded={otherComponentsOpen} className="dropdown-btn" onClick={() => setOtherComponentsOpen(!otherComponentsOpen)}>
@@ -668,10 +667,11 @@ const Header = () => {
                         </button>
                       </li>
                       <li className="menu-item-has-children">
-                        <Link href="#">Brands</Link>
+                        <Link prefetch={false} href="#">Brands</Link>
                         <ul className={`sub-menu ${brandsOpen ? "show" : ""}`}>
                           <li>
                             <Link
+                              prefetch={false}
                               href="/brands/hyundai"
                               onClick={mobileMenuClose}
                             >
@@ -679,12 +679,13 @@ const Header = () => {
                             </Link>
                           </li>
                           <li>
-                            <Link href="/brands/kone" onClick={mobileMenuClose}>
+                            <Link prefetch={false} href="/brands/kone" onClick={mobileMenuClose}>
                               Kone Parts
                             </Link>
                           </li>
                           <li>
                             <Link
+                              prefetch={false}
                               href="/brands/mitsubishi"
                               onClick={mobileMenuClose}
                             >
@@ -693,6 +694,7 @@ const Header = () => {
                           </li>
                           {/* <li>
                             <Link
+                              prefetch={false}
                               href="/brands/monarch"
                               onClick={mobileMenuClose}
                             >
@@ -700,17 +702,18 @@ const Header = () => {
                             </Link>
                           </li> */}
                           <li>
-                            <Link href="/brands/otis" onClick={mobileMenuClose}>
+                            <Link prefetch={false} href="/brands/otis" onClick={mobileMenuClose}>
                               Otis Parts
                             </Link>
                           </li>
                           {/* <li>
-                            <Link href="/brands/step" onClick={mobileMenuClose}>
+                            <Link prefetch={false} href="/brands/step" onClick={mobileMenuClose}>
                               Step Parts
                             </Link>
                           </li> */}
                           <li>
                             <Link
+                              prefetch={false}
                               href="/brands/thyssenkrupp"
                               onClick={mobileMenuClose}
                             >
@@ -730,12 +733,12 @@ const Header = () => {
                         </button>
                       </li>
                       <li>
-                        <Link href="/blog" onClick={mobileMenuClose}>
+                        <Link prefetch={false} href="/blog" onClick={mobileMenuClose}>
                           Blog
                         </Link>
                       </li>
                       <li>
-                        <Link href="/contact" onClick={mobileMenuClose}>
+                        <Link prefetch={false} href="/contact" onClick={mobileMenuClose}>
                           Contact Us
                         </Link>
                       </li>
@@ -746,13 +749,14 @@ const Header = () => {
                       <span className="icon-telephone-handle-silhouette"></span>
                     </div>
                     <p>
-                      <Link href="tel:+971582760883">+971582760883</Link>
+                      <Link prefetch={false} href="tel:+971582760883">+971582760883</Link>
                     </p>
                   </div>
                   <div className="social-links">
                     <ul className="clearfix list-wrap">
                       <li>
                         <Link
+                          prefetch={false}
                           href="https://www.facebook.com/bestech.spareparts"
                           aria-label="Visit Bestech Elevators on Facebook"
                           target="_blank"
@@ -763,6 +767,7 @@ const Header = () => {
                       </li>
                       <li>
                         <Link
+                          prefetch={false}
                           href="https://www.instagram.com/bestech_elevators/"
                           aria-label="Visit Bestech Elevators on Instagram"
                           target="_blank"
@@ -773,6 +778,7 @@ const Header = () => {
                       </li>
                       <li>
                         <Link
+                          prefetch={false}
                           href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
                           aria-label="Visit Bestech Elevators on LinkedIn"
                           target="_blank"
@@ -851,27 +857,9 @@ const Header = () => {
       </div>
 
 
-      <Modal
-        show={showQuoteSuccess}
-        aria-labelledby="quote-success-title"
-        onHide={() => setShowQuoteSuccess(false)}
-        centered
-      >
-        <Modal.Header closeButton>
-          <Modal.Title id="quote-success-title">Success</Modal.Title>
-        </Modal.Header>
-        <Modal.Body>
-          <p>{quoteMessage}</p>
-        </Modal.Body>
-        <Modal.Footer>
-          <button
-            className="btn btn-success"
-            onClick={() => setShowQuoteSuccess(false)}
-          >
-            Close
-          </button>
-        </Modal.Footer>
-      </Modal>
+      {quoteRequested && (
+        <QuoteSuccessDialog show={showQuoteSuccess} onHide={() => setShowQuoteSuccess(false)} message={quoteMessage} />
+      )}
     </header>
   );
 };

@@ -62,6 +62,7 @@ const Hero = ({ partCount }) => {
               sizes="100vw"
               priority={index === 0}
               fetchPriority={index === 0 ? "high" : "auto"}
+              decoding={index === 0 ? "sync" : "async"}
               className={`${styles.slide} ${
                 index === active ? styles.slideActive : ""
               }`}
@@ -90,6 +91,7 @@ const Hero = ({ partCount }) => {
           <span className={styles.popularLabel}>Popular:</span>
           {POPULAR.map((cat) => (
             <Link
+              prefetch={false}
               key={cat.slug}
               href={`/products/${cat.slug}`}
               className={styles.chip}
@@ -97,7 +99,7 @@ const Hero = ({ partCount }) => {
               {cat.name}
             </Link>
           ))}
-          <Link href="/products" className={`${styles.chip} ${styles.chipAll}`}>
+          <Link prefetch={false} href="/products" className={`${styles.chip} ${styles.chipAll}`}>
             All products <i className="icon-right-arrow" aria-hidden="true"></i>
           </Link>
         </div>
