@@ -1,4 +1,5 @@
 "use client";
+import DeferredBackground from "~/components/Ui/DeferredBackground";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
@@ -10,10 +11,7 @@ import Link from "next/link";
 const Blog = ({ data }) => {
   return (
     <section className="blog-one padding">
-      <div
-        className="blog-one__pattern"
-        style={{ backgroundImage: "url(/img/pattern/blog-v1-pattern.webp)" }}
-      ></div>
+      <DeferredBackground className="blog-one__pattern" src="/img/pattern/blog-v1-pattern.webp" />
       <div className="container">
         <div className="blog-one__top">
           <div className="sec-title">

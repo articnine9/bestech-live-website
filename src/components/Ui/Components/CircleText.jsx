@@ -25,7 +25,7 @@ const CircleText = () => {
         </svg>
       </div>
       <div className="read-more" id="read-more">
-        <Link href="about">
+        <Link prefetch={false} href="about">
           Read <br />
           More
         </Link>

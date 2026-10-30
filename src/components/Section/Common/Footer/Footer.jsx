@@ -1,3 +1,4 @@
+import DeferredBackground from "~/components/Ui/DeferredBackground";
 import React from "react";
 import Link from "next/link";
 import ScrollToTop from "@/components/Ui/ScrollToTop";
@@ -9,16 +10,13 @@ const Footer = () => {
   return (
     <footer className="footer-one ">
       <ScrollToTop />
-      <div
-        className="footer-one__bg"
-        style={{ backgroundImage: "url(/img/footer/footer-bg.webp)" }}
-      ></div>
+      <DeferredBackground className="footer-one__bg" src="/img/footer/footer-bg.webp" />
       <div className="footer-main padding">
         <div className="container">
           <div className="footer-one__top">
             <div className="footer-one__top-inner">
               <div className="logo-box">
-                <Link href="/">
+                <Link prefetch={false} href="/">
                   <BrandLogo imageSrc="/img/bestect-white-logo.webp" />
                 </Link>
               </div>
@@ -32,7 +30,7 @@ const Footer = () => {
                 </div>
                 <div className="footer-one__top-subscribe">
                   <div className="btn-box">
-                    <Link className="thm-btn" href="/contact">
+                    <Link prefetch={false} className="thm-btn" href="/contact">
                       <span className="txt"> Get Quote</span>
                       <i className="icon-right-arrow"></i>
                     </Link>
@@ -65,7 +63,7 @@ const Footer = () => {
                     <p className="text3">Mon – Sat: 08:00 AM to 06:00 PM</p>
 
                     <div className="footer-social-link">
-                      <Link
+                      <Link prefetch={false}
                         href="https://www.facebook.com/bestech.spareparts"
                         aria-label="Visit Bestech Spare Parts on Facebook"
                         target="_blank"
@@ -73,7 +71,7 @@ const Footer = () => {
                       >
                         <span className="icon-facebook"></span>
                       </Link>
-                      <Link
+                      <Link prefetch={false}
                         href="https://www.instagram.com/bestech_spareparts/"
                         aria-label="Visit Bestech Spare Parts on Instagram"
                         target="_blank"
@@ -81,7 +79,7 @@ const Footer = () => {
                       >
                         <span className="icon-instagram"></span>
                       </Link>
-                      <Link
+                      <Link prefetch={false}
                         href="https://www.linkedin.com/company/bestech-elevators-spare-parts/"
                         aria-label="Visit Bestech Spare Parts on LinkedIn"
                         target="_blank"
@@ -107,57 +105,57 @@ const Footer = () => {
                       <div className="col-md-6">
                         <ul>
                           <li>
-                            <Link href="/products/electrical">
+                            <Link prefetch={false} href="/products/electrical">
                               Electrical (BS-EL)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/mechanical">
+                            <Link prefetch={false} href="/products/mechanical">
                               Mechanical (BS-ME)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/cables-and-wires">
+                            <Link prefetch={false} href="/products/cables-and-wires">
                               Cables and Wires (BS-CW)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/contactors">
+                            <Link prefetch={false} href="/products/contactors">
                               Contactors (BS-CT)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/circuit-breakers">
+                            <Link prefetch={false} href="/products/circuit-breakers">
                               Circuit Breakers (BS-CB)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/buttons">
+                            <Link prefetch={false} href="/products/buttons">
                               Buttons (BS-BT)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/switches">
+                            <Link prefetch={false} href="/products/switches">
                               Switches (BS-SW)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/cabinet-set">
+                            <Link prefetch={false} href="/products/cabinet-set">
                               Cabinet Set (BS-CS)
                             </Link>
                           </li>
                           {/* <li>
-                            <Link href="/products/encoders">
+                            <Link prefetch={false} href="/products/encoders">
                               Encoders (BS-EN)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/door-locks">
+                            <Link prefetch={false} href="/products/door-locks">
                               Door Locks (BS-DL)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/door-wheels">
+                            <Link prefetch={false} href="/products/door-wheels">
                               Door Wheels (BS-DW)
                             </Link>
                           </li> */}
@@ -166,55 +164,55 @@ const Footer = () => {
                       <div className="col-md-6">
                         <ul>
                           <li>
-                            <Link href="/products/sensors">
+                            <Link prefetch={false} href="/products/sensors">
                               Sensors (BS-SR)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/guide-shoes">
+                            <Link prefetch={false} href="/products/guide-shoes">
                               Guide Shoes (BS-GS)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/door-sliders">
+                            <Link prefetch={false} href="/products/door-sliders">
                               Door Sliders (BS-DS)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/inverters">
+                            <Link prefetch={false} href="/products/inverters">
                               Inverters (BS-IN)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/ard">ARD (BS-AR)</Link>
+                            <Link prefetch={false} href="/products/ard">ARD (BS-AR)</Link>
                           </li>
                           <li>
-                            <Link href="/products/door-drives-and-motors">
+                            <Link prefetch={false} href="/products/door-drives-and-motors">
                               Door Drives and Motors (BS-DD)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/signalization">
+                            <Link prefetch={false} href="/products/signalization">
                               Signalization (BS-SG)
                             </Link>
                           </li>
                           {/* <li>
-                            <Link href="/products/displays">
+                            <Link prefetch={false} href="/products/displays">
                               Displays (BS-DI)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/control-boards">
+                            <Link prefetch={false} href="/products/control-boards">
                               PCB Boards (BS-PB)
                             </Link>
                           </li>
                           <li>
-                            <Link href="/products/tool-kits">
+                            <Link prefetch={false} href="/products/tool-kits">
                               Tool Kits (BS-TL)
                             </Link>
                           </li> */}
                           <li>
-                            <Link href="/products/keys">Keys (BS-KY)</Link>
+                            <Link prefetch={false} href="/products/keys">Keys (BS-KY)</Link>
                           </li>
                         </ul>
                       </div>
@@ -253,7 +251,7 @@ const Footer = () => {
                         <div className="content-box">
                           <p>Email</p>
                           <p>
-                            <Link href="mailto:sales@bestechparts.ae">
+                            <Link prefetch={false} href="mailto:sales@bestechparts.ae">
                               sales@bestechparts.ae
                             </Link>
                           </p>
@@ -267,7 +265,7 @@ const Footer = () => {
                         <div className="content-box">
                           <p>Landline</p>
                           <p>
-                            <Link href="tel:+97165227299">06 522 7299</Link>
+                            <Link prefetch={false} href="tel:+97165227299">06 522 7299</Link>
                           </p>
                         </div>
                       </li>
@@ -278,7 +276,7 @@ const Footer = () => {
                         <div className="content-box">
                           <p>Mobile</p>
                           <p>
-                            <Link href="tel:+971543093833">
+                            <Link prefetch={false} href="tel:+971543093833">
                               +971 54 309 3833
                             </Link>
                           </p>
@@ -297,7 +295,7 @@ const Footer = () => {
           <div className="footer-bottom__inner">
             <div className="copyright-text">
               <p>
-                © {currentYear} <Link href="/">Bestech,</Link> All Rights
+                © {currentYear} <Link prefetch={false} href="/">Bestech,</Link> All Rights
                 Reserved.
               </p>
             </div>
@@ -305,18 +303,18 @@ const Footer = () => {
             {/* <div className="copyright-menu">
               <ul>
                 <li>
-                  <Link href="#">
+                  <Link prefetch={false} href="#">
                     Terms &amp; Condition
                     <span className="icon-right-arrow-5"></span>
                   </Link>
                 </li>
                 <li>
-                  <Link href="#">
+                  <Link prefetch={false} href="#">
                     Privacy Policy <span className="icon-right-arrow-5"></span>
                   </Link>
                 </li>
                 <li>
-                  <Link href="#">
+                  <Link prefetch={false} href="#">
                     Support <span className="icon-right-arrow-5"></span>
                   </Link>
                 </li>

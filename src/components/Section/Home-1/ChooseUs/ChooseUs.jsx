@@ -1,14 +1,11 @@
-"use client";
+import DeferredBackground from "~/components/Ui/DeferredBackground";
 import ServiceCardTwo from "~/components/Ui/Cards/ServiceCardTwo";
 import data from "~/db/serviceDataTwo.json";
 
 const ChooseUs = () => {
   return (
     <section className="choose-us-one padding ">
-      <div
-        className="blog-one__pattern"
-        style={{ backgroundImage: "url(/img/pattern/blog-v1-pattern.webp)" }}
-      ></div>
+      <DeferredBackground className="blog-one__pattern" src="/img/pattern/blog-v1-pattern.webp" />
       <div className="container">
         <div className="sec-title text-center">
           <div className="sub-title">

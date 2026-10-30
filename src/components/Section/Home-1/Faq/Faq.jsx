@@ -1,4 +1,5 @@
 "use client";
+import DeferredBackground from "~/components/Ui/DeferredBackground";
 import Link from "next/link";
 import Accordion from "react-bootstrap/Accordion";
 
@@ -10,10 +11,7 @@ const Faq = () => {
       <div className="big-title">
         <h2>faq</h2>
       </div>
-      <div
-        className="faq-one__bg"
-        style={{ backgroundImage: "url(/img/home/faq/1.webp)" }}
-      ></div>
+      <DeferredBackground className="faq-one__bg" src="/img/home/faq/1.webp" />
       <div className="container">
         <div className="row">
           {/* FAQ Section */}

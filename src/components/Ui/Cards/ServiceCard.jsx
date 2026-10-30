@@ -13,11 +13,11 @@ const ServiceCard = ({ item }) => {
       </div> */}
       <div className="service-one__single-content">
         <h3>
-          <Link href={`/products/${item.link}`}>{item?.title}</Link>
+          <Link prefetch={false} href={`/products/${item.link}`}>{item?.title}</Link>
         </h3>
         <p>{item?.description}</p>
         <div className="btn-box">
-          <Link href={`/products/${item.link}`} aria-label={`Read more about ${item?.title || "this product"}`}>
+          <Link prefetch={false} href={`/products/${item.link}`} aria-label={`Read more about ${item?.title || "this product"}`}>
             Read More <span className="icon-right-arrow"></span>
           </Link>
         </div>

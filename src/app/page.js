@@ -1,3 +1,6 @@
+import Testimonials from "~/components/Section/Home-1/Testimonial/TestimonialMarquee";
+import ChooseUs from "~/components/Section/Home-1/ChooseUs/ChooseUs";
+import About from "~/components/Section/Home-1/About";
 import dynamic from "next/dynamic";
 import blogData from "~/db/blogsData.json";
 import catalog from "~/db/products.json";
@@ -17,11 +20,8 @@ const partTotal = catalog.reduce(
 const partCount = 1000;
 
 
-// Below-fold sections — loaded after page is interactive
-const About   = dynamic(() => import("~/components/Section/Home-1/About"));
+// Interactive sections retain their existing client components.
 const Service = dynamic(() => import("~/components/Section/Home-1/Service"));
-const ChooseUs = dynamic(() => import("~/components/Section/Home-1/ChooseUs/ChooseUs"));
-const Testimonials = dynamic(() => import("~/components/Section/Home-1/Testimonial/TestimonialMarquee"));
 const Faq     = dynamic(() => import("~/components/Section/Home-1/Faq/Faq"));
 const Blog    = dynamic(() => import("~/components/Section/Home-1/Blog"));
 

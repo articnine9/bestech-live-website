@@ -10,7 +10,7 @@ const ServiceCardTwo = ({item}) => {
             <span className={item?.icon}></span>
           </div>
           <h3>
-            <Link href="about">{item?.title}</Link>
+            <Link prefetch={false} href="about">{item?.title}</Link>
           </h3>
         </div>
         <div className="text-box">
