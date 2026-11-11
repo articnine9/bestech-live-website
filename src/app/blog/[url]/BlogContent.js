@@ -242,21 +242,17 @@ export default function BlogContent({ slug }) {
                           <FaLinkedinIn />
                         </button>
 
-                        <button
-                          type="button"
+                        <a
+                          href={`https://api.whatsapp.com/send?text=${encodeURIComponent(
+                            blog.title + " " + currentURL,
+                          )}`}
+                          target="_blank"
+                          rel="nofollow noopener noreferrer"
                           className="btn btn-success"
                           aria-label="Share on WhatsApp"
-                          onClick={() =>
-                            window.open(
-                              `https://api.whatsapp.com/send?text=${encodeURIComponent(
-                                blog.title + " " + currentURL,
-                              )}`,
-                              "_blank",
-                            )
-                          }
                         >
                           <FaWhatsapp />
-                        </button>
+                        </a>
                       </div>
                     </div>
                   </div>

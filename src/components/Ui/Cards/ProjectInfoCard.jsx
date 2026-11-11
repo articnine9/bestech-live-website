@@ -150,7 +150,7 @@ const ProjectInfoCard = ({ product, category }) => {
           <a
             href={whatsappHref}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="nofollow noopener noreferrer"
             className={`${styles.quickBtn} ${styles.whatsapp}`}
             aria-label="Enquire about this product on WhatsApp"
           >

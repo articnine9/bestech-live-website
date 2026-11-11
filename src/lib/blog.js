@@ -38,7 +38,7 @@ export const blogPosts = [
       "Explore elevator control parts from BESTECH, leading supplier of buttons, sensors, inverters, ARD, and signalization systems across UAE.",
   },
   {
-    slug: "how-to-choose-the-right-elevator-cables-wires-safety-durability-compliance-in-the-uae",
+    slug: "elevator-cables-wires-safety-durability-compliance-in-the-uae",
     title:
       "How to Choose the Right Elevator Cables & Wires: Safety, Durability & Compliance in the UAE",
     date: "2025-03-10",

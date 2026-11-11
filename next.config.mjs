@@ -177,6 +177,11 @@ const nextConfig = {
         source: "/products/sensors/light-curtain-door-sensor-center-open",
         destination: "/products/sensors/weco-elevator-door-sensor-917a61",
         permanent: true,
+      },
+      {
+        source: "/blog/how-to-choose-the-right-elevator-cables-wires-safety-durability-compliance-in-the-uae",
+        destination: "/blog/elevator-cables-wires-safety-durability-compliance-in-the-uae",
+        permanent: true,
       }
 
 

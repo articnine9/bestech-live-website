@@ -57,7 +57,7 @@ const Hero = ({ partCount }) => {
             <Image
               key={src}
               src={src}
-              alt=""
+              alt={index === 0 ? "Elevator spare parts supplier in UAE" : ""}
               fill
               sizes="100vw"
               priority={index === 0}
