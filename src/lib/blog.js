@@ -3,6 +3,12 @@
 // Example blog data — in real usage, you might fetch from a CMS or database
 export const blogPosts = [
   {
+    "slug": "emergency-lift-spare-parts-in-uae",
+    "title": "Emergency Lift Spare Parts in UAE: How to Identify and Source the Right Replacement",
+    "date": "2026-11-12",
+    "description": "Find the right emergency lift spare parts in UAE. Learn how to check specifications, identify compatible replacements and source components for urgent repairs."
+  },
+  {
     "slug": "elevator-ard-replacement-in-uae",
     "title": "Elevator ARD Replacement in UAE: How to Choose the Right Automatic Rescue Device & Backup Battery",
     "date": "2026-10-23",
