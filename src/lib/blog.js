@@ -3,6 +3,12 @@
 // Example blog data — in real usage, you might fetch from a CMS or database
 export const blogPosts = [
   {
+    "slug": "lift-spare-parts-price-in-uae",
+    "title": "Lift Spare Parts Prices in UAE: Get a Quote for the Right Replacement Components",
+    "date": "2026-11-19",
+    "description": "Looking for lift spare parts in the UAE? Learn what affects prices, how to check compatibility and what details to share when requesting a quote."
+  },
+  {
     "slug": "emergency-lift-spare-parts-in-uae",
     "title": "Emergency Lift Spare Parts in UAE: How to Identify and Source the Right Replacement",
     "date": "2026-11-12",

@@ -95,5 +95,33 @@ export default async function Page(props) {
     notFound();
   }
 
-  return <BlogContent slug={slug} />;
+  const faqSchema = blog.faq?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: blog.faq.map(({ question, answer }) => ({
+          "@type": "Question",
+          name: question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: answer.replace(/<[^>]*>?/gm, ""),
+          },
+        })),
+      }
+    : null;
+
+  return (
+    <>
+      {faqSchema && (
+        <script
+          id="faq-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c"),
+          }}
+        />
+      )}
+      <BlogContent slug={slug} />
+    </>
+  );
 }

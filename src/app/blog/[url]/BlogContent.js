@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import Script from "next/script"; // ✅ ADD THIS
 import data from "~/db/blogsData.json";
 import PageHeader from "~/components/Section/Common/PageHeader";
 import {
@@ -112,29 +111,6 @@ export default function BlogContent({ slug }) {
 
   return (
     <>
-      {/* ✅ FAQ SCHEMA — PAGE SPECIFIC */}
-      {blog?.faq?.length > 0 && (
-        <Script
-          id="faq-schema"
-          type="application/ld+json"
-          strategy="beforeInteractive"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "FAQPage",
-              mainEntity: blog.faq.map((item) => ({
-                "@type": "Question",
-                name: item.question,
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: item.answer.replace(/<[^>]*>?/gm, ""),
-                },
-              })),
-            }),
-          }}
-        />
-      )}
-
       <PageHeader title={blog.title} breadcrumbs={[
     {
       label: "Blog",
