@@ -3,6 +3,13 @@
 // Example blog data — in real usage, you might fetch from a CMS or database
 export const blogPosts = [
   {
+    "slug": "elevator-encoder-replacement-in-uae",
+    "title": "Elevator Encoder Replacement in UAE: Request a Quote for the Right Encoder, Cable & PG Card",
+    "date": "2026-11-26",
+    "description": "Need an elevator encoder, cable or PG card in the UAE? Find the right replacement part and request a quote from Bestech Parts.",
+    "image": "/img/home/blog/elevator-encoder-replacement-in-uae.webp"
+  },
+  {
     "slug": "lift-spare-parts-price-in-uae",
     "title": "Lift Spare Parts Prices in UAE: Get a Quote for the Right Replacement Components",
     "date": "2026-11-19",

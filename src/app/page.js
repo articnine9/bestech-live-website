@@ -102,8 +102,8 @@ export default function Home() {
         <ChooseUs />
         <Testimonials />
         <Faq />
-        <Blog data={blogData.map(({ link, image, category, title, author, date }) => ({
-          link, image, category, title, author, date,
+        <Blog data={blogData.map(({ link, image, alttext, category, title, author, date }) => ({
+          link, image, alttext, category, title, author, date,
         }))} />
       </div>
     </div>
